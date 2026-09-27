@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClinicMind | 臨床心理諮商 - 在傷痛與關係裡，找回安放身心的空間</title>
+    <meta name="description" content="澳門臨床心理諮商，專注創傷心理、非物質成癮與親密關係。以情緒取向治療（EFT）、人際心理治療（IPT）、沙遊與遊戲治療，陪您慢慢理解自己。採預約制，可使用粵語、國語、英語。">
+    <meta property="og:title" content="ClinicMind 臨床心理諮商｜在傷痛與關係裡，找回安放身心的空間">
+    <meta property="og:description" content="專注創傷心理、非物質成癮與親密關係的臨床心理諮商。澳門，採預約制。">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="zh_TW">
+    <style>
+        /* --- 基礎設定 & 色票 (Morandi Tone) --- */
+        :root {
+            --primary-color: #6B8E88; /* 鼠尾草綠：平靜、療癒 */
+            --secondary-color: #F2F0EB; /* 暖米白：溫柔、接納 */
+            --text-dark: #4A4A4A; /* 深灰：易讀、不刺眼 */
+            --text-light: #7A7A7A; /* 淺灰：輔助文字 */
+            --accent-color: #C19875; /* 暖陶色：強調、溫暖 */
+            --white: #FFFFFF;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: "Helvetica Neue", Helvetica, "PingFang TC", "Heiti TC", "Microsoft JhengHei", sans-serif;
+            background-color: var(--secondary-color);
+            color: var(--text-dark);
+            line-height: 1.8;
+        }
+
+        a { text-decoration: none; color: inherit; transition: 0.3s; }
+        ul { list-style: none; }
+
+        /* --- 導覽列 (Navigation) --- */
+        header {
+            background-color: var(--white);
+            padding: 1rem 5%;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--primary-color);
+            letter-spacing: 1px;
+        }
+
+        nav ul {
+            display: flex;
+            gap: 2rem;
+        }
+
+        nav a:hover {
+            color: var(--primary-color);
+        }
+
+        .btn-reserve {
+            background-color: var(--primary-color);
+            color: var(--white);
+            padding: 0.5rem 1.2rem;
+            border-radius: 50px;
+        }
+        
+        .btn-reserve:hover {
+            background-color: #55756F;
+        }
+
+        /* --- Hero Section (主視覺) --- */
+        .hero {
+            padding: 8rem 5% 6rem;
+            text-align: center;
+            background: linear-gradient(rgba(242, 240, 235, 0.9), rgba(242, 240, 235, 0.9)), url('https://images.unsplash.com/photo-1499209974431-9dddcece7f88?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');
+            background-size: cover;
+            background-position: center;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--text-dark);
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            color: var(--text-light);
+            max-width: 600px;
+            margin: 0 auto 2rem;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background-color: var(--accent-color);
+            color: var(--white);
+            padding: 1rem 2rem;
+            border-radius: 5px;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+
+        .cta-button:hover {
+            background-color: #A67F5D;
+        }
+
+        /* --- 引言區 (Introduction) --- */
+        .intro {
+            padding: 4rem 10%;
+            text-align: center;
+            background-color: var(--white);
+        }
+        
+        .intro blockquote {
+            font-size: 1.2rem;
+            font-style: italic;
+            color: var(--primary-color);
+            border-left: 3px solid var(--accent-color);
+            padding-left: 1rem;
+            display: inline-block;
+            text-align: left;
+        }
+
+        /* --- 關於我 (About) --- */
+        .about {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 5rem 10%;
+            align-items: center;
+            gap: 3rem;
+        }
+
+        .about-img {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .about-img img {
+            width: 100%;
+            border-radius: 10px;
+            box-shadow: 10px 10px 0px var(--primary-color);
+        }
+
+        .about-text {
+            flex: 1;
+            max-width: 760px;
+            margin: 0 auto;
+        }
+
+        .about-text h2 {
+            font-size: 2rem;
+            margin-bottom: 1.5rem;
+            color: var(--primary-color);
+        }
+
+        .credentials {
+            margin-top: 1.5rem;
+            font-size: 0.9rem;
+            color: var(--text-light);
+            background: #f9f9f9;
+            padding: 1rem;
+            border-radius: 5px;
+        }
+
+        /* --- 服務項目 (Services) --- */
+        .services {
+            padding: 5rem 10%;
+            background-color: var(--secondary-color);
+            text-align: center;
+        }
+
+        .services h2 {
+            margin-bottom: 3rem;
+            color: var(--primary-color);
+            font-size: 2rem;
+        }
+
+        .services-note { margin: -2rem 0 2.5rem; color: var(--text-light); }
+
+        .service-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+        }
+
+        .service-card {
+            background: var(--white);
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            transition: transform 0.3s;
+            text-align: left;
+        }
+
+        .service-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .service-card h3 {
+            color: var(--accent-color);
+            margin-bottom: 1rem;
+        }
+
+        /* --- 治療取向 (Approach) --- */
+        .approach { padding: 5rem 10%; background-color: var(--white); }
+        .approach h2 { color: var(--primary-color); font-size: 2rem; margin-bottom: 2rem; text-align: center; }
+        .approach-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem 2rem; max-width: 960px; margin: 0 auto; }
+        .approach-list h3 { color: var(--accent-color); font-size: 1.1rem; margin-bottom: 0.4rem; }
+        .approach-list p { color: var(--text-light); }
+        .featured-article { border-top: 1px solid #EEE; }
+
+        /* --- 最新文章 (Blog Feature) - 使用您提供的文章 --- */
+        .featured-article {
+            padding: 5rem 10%;
+            background-color: var(--white);
+        }
+
+        .article-preview {
+            border: 1px solid #eee;
+            border-radius: 10px;
+            overflow: hidden;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .article-content {
+            padding: 2rem;
+            flex: 2;
+        }
+
+        .article-tag {
+            background: var(--secondary-color);
+            color: var(--primary-color);
+            padding: 0.2rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-bottom: 1rem;
+            display: inline-block;
+        }
+
+        /* --- 預約與聯絡 (Booking) --- */
+        .booking {
+            padding: 5rem 10%;
+            background-color: var(--secondary-color);
+        }
+        .booking-inner { max-width: 640px; margin: 0 auto; }
+        .booking h2 { color: var(--primary-color); font-size: 2rem; margin-bottom: 1rem; }
+        .booking-lead { margin-bottom: 2rem; }
+        #booking-form { display: grid; gap: 1.2rem; }
+        .field { display: grid; gap: 0.4rem; }
+        .field-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.2rem; }
+        .field label { font-weight: bold; font-size: 0.95rem; }
+        .field input, .field select, .field textarea {
+            font: inherit;
+            padding: 0.7rem 0.9rem;
+            border: 1px solid #D6D1C7;
+            border-radius: 6px;
+            background: var(--white);
+            color: var(--text-dark);
+            width: 100%;
+        }
+        .field input:focus, .field select:focus, .field textarea:focus, .consent input:focus-visible, .cta-button:focus-visible {
+            outline: 2px solid var(--primary-color);
+            outline-offset: 2px;
+        }
+        .hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+        .privacy { background: var(--white); border-radius: 6px; padding: 0.8rem 1rem; font-size: 0.9rem; color: var(--text-light); }
+        .privacy summary { cursor: pointer; color: var(--text-dark); }
+        .privacy ol { margin: 0.8rem 0 0 1.2rem; list-style: decimal; display: grid; gap: 0.3rem; }
+        .consent { display: flex; gap: 0.6rem; align-items: flex-start; font-size: 0.95rem; }
+        .consent input { margin-top: 0.45rem; width: 1.1rem; height: 1.1rem; accent-color: var(--primary-color); flex: none; }
+        .form-note { font-size: 0.85rem; color: var(--text-light); }
+        #bf-submit { border: none; cursor: pointer; justify-self: start; font: inherit; font-weight: bold; }
+        #bf-submit:disabled { opacity: 0.6; cursor: default; }
+        .form-status { font-size: 0.95rem; min-height: 1.5em; }
+        .form-status.ok { color: var(--primary-color); font-weight: bold; }
+        .form-status.err { color: #A63737; }
+
+        /* --- 頁尾與免責聲明 (Footer) --- */
+        footer {
+            background-color: #333;
+            color: #ddd;
+            padding: 3rem 10%;
+            font-size: 0.9rem;
+        }
+
+        .footer-content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .crisis-warning {
+            background-color: #A63737;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+            border-radius: 5px;
+            font-weight: bold;
+            margin-top: 2rem;
+        }
+
+        /* RWD Mobile Adjustment */
+        @media (max-width: 768px) {
+            nav li:not(:last-child) { display: none; } /* 手機只留「預約諮詢」按鈕 */
+            .hero h1 { font-size: 2rem; }
+            .about { flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">ClinicMind</div>
+        <nav>
+            <ul>
+                <li><a href="#about">關於我</a></li>
+                <li><a href="#services">專業服務</a></li>
+                <li><a href="#approach">治療取向</a></li>
+                <li><a href="#blog">專欄文章</a></li>
+                <li><a href="#booking" class="btn-reserve">預約諮詢</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>在傷痛與關係裡，找回安放身心的空間</h1>
+        <p>專注創傷、非物質成癮與親密關係。在安全、不被評價的空間裡，陪您慢慢理解自己，找到新的選擇。</p>
+        <a href="#booking" class="cta-button">開始您的療癒旅程</a>
+    </section>
+
+    <section class="intro">
+        <blockquote>
+            「很多時候，讓人最疲憊的不是發生過的事，而是一直一個人撐著。<br>
+            在這裡，您不需要先想好要說什麼，我們可以從您現在的感受開始。」
+        </blockquote>
+    </section>
+
+    <section id="about" class="about">
+        <div class="about-text">
+            <h2>我是臨床心語，一位臨床心理師</h2>
+            <p>在治療室裡，我陪伴過許多被過去經驗困住的人：童年留下的傷、關係裡一再重複的衝突、明知道傷身卻停不下來的習慣。他們常問我：「是不是我哪裡有問題？」</p>
+            <br>
+            <p>我相信，這些困擾背後，常常是一個人曾經為了保護自己而發展出來的方式。我的工作是陪您一起看見它，理解它從哪裡來，再慢慢找到更適合現在的您的方式。我主要使用情緒取向治療（EFT）與人際心理治療（IPT），和孩子工作時，也會使用沙遊與遊戲治療。</p>
+            
+            <div class="credentials">
+                <strong>專業資格：</strong><br>
+                • 臨床心理學碩士<br>
+                • 澳門衛生局註冊心理治療師<br>
+                • 澳門註冊心理治療師公會創會會員
+            </div>
+        </div>
+    </section>
+
+    <section id="services" class="services">
+        <h2>專業服務領域</h2>
+        <p class="services-note">提供個別諮商、伴侶諮商與家庭治療</p>
+        <div class="service-grid">
+            <div class="service-card">
+                <h3>創傷心理</h3>
+                <p>童年創傷、關係中的傷害、重大事件後的壓力反應。在穩定、安全的治療關係裡，一步一步整理經驗，讓身心從長期的緊繃中慢慢鬆開。</p>
+            </div>
+            <div class="service-card">
+                <h3>非物質成癮</h3>
+                <p>賭博、網路、遊戲、購物等停不下來的行為。不急著責備自己，先一起了解這些行為在您生活中扮演的角色，再找到更能照顧自己的方式。需要時也可以安排家庭治療，讓家人一起參與。</p>
+            </div>
+            <div class="service-card">
+                <h3>親密關係</h3>
+                <p>伴侶之間反覆的爭吵、疏離或信任破裂。從情緒與依附的角度，看見彼此行為背後的需要，重新找回連結的可能。可個別諮商，也可以兩人一起來。</p>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="approach" class="approach">
+        <h2>治療取向</h2>
+        <div class="approach-list">
+            <div><h3>情緒取向治療（EFT）</h3><p>聚焦情緒與依附需求，常用於伴侶與個人治療。</p></div>
+            <div><h3>人際心理治療（IPT）</h3><p>從人際關係與生活轉變切入，處理情緒上的困擾。</p></div>
+            <div><h3>沙遊治療</h3><p>透過沙盤與小物件，表達難以用言語說出的經驗。</p></div>
+            <div><h3>遊戲治療</h3><p>以遊戲作為孩子的語言，在玩的過程中表達與整理感受。</p></div>
+        </div>
+    </section>
+
+    <section id="blog" class="featured-article">
+        <div class="article-preview">
+            <div class="article-content">
+                <span class="article-tag">精選專欄</span>
+                <h3>當痛楚成為一種存在，而非僅是症狀｜重新溫柔地看見慢性疼痛</h3>
+                <p>很多時候，我們在診間裡最害怕聽到的並不是「這需要開刀」，而是經過了一連串精密的檢查後，醫生語氣平淡地說：「一切看起來都很正常...」<br><br>
+                那是一種巨大的失落與孤獨。彷彿你的疼痛是隱形的。但在疼痛醫學的漫長演進中，這份孤獨終於被科學溫柔地接住了...</p>
+                <br>
+                <a href="#" style="color: var(--primary-color); font-weight: bold;">閱讀全文 →</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="booking" class="booking">
+        <div class="booking-inner">
+            <h2>預約與聯絡</h2>
+            <p class="booking-lead">留下稱呼和電話，我會親自以電話與您聯絡，一起看看怎麼安排比較合適。也可以來信 contact@clinicmind.com。諮商與合作邀約都歡迎。</p>
+
+            <form id="booking-form" novalidate>
+                <div class="field">
+                    <label for="bf-name">怎麼稱呼您</label>
+                    <input id="bf-name" name="name" type="text" autocomplete="name" maxlength="40" required>
+                </div>
+                <div class="field">
+                    <label for="bf-phone">聯絡電話</label>
+                    <input id="bf-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" maxlength="30" placeholder="例如 +853 6xxx xxxx" required>
+                </div>
+                <div class="field-row">
+                    <div class="field">
+                        <label for="bf-time">方便接電話的時段</label>
+                        <select id="bf-time" name="time">
+                            <option>平日白天</option>
+                            <option>平日晚上</option>
+                            <option>週末</option>
+                            <option>都可以</option>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <label for="bf-lang">想使用的語言</label>
+                        <select id="bf-lang" name="lang">
+                            <option>粵語</option>
+                            <option>國語</option>
+                            <option>English</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="field">
+                    <label for="bf-type">想聯絡的事情</label>
+                    <select id="bf-type" name="type">
+                        <option>預約諮商</option>
+                        <option>專業合作（轉介、講座、機構合作）</option>
+                        <option>其他</option>
+                    </select>
+                </div>
+                <div class="field">
+                    <label for="bf-note">簡短說明（可不填）</label>
+                    <textarea id="bf-note" name="note" rows="3" maxlength="300" placeholder="一兩句就好。請不要寫下詳細病情或其他人的資料，見面或通電話時再慢慢談。"></textarea>
+                </div>
+                <div class="hp" aria-hidden="true">
+                    <label for="bf-website">網站</label>
+                    <input id="bf-website" name="website" type="text" tabindex="-1" autocomplete="off">
+                </div>
+
+                <details class="privacy">
+                    <summary>個人資料收集聲明（第 8/2005 號法律《個人資料保護法》）</summary>
+                    <ol>
+                        <li>您填寫的稱呼、電話、聯絡時段、語言與說明，只用於回覆您這次的預約或合作查詢。</li>
+                        <li>資料儲存在 Google 提供的雲端服務，伺服器可能位於澳門以外的地方。</li>
+                        <li>除為履行法定義務或經您同意外，資料不會轉交其他機構或實體。</li>
+                        <li>查詢處理完畢後，資料會在 6 個月內刪除。</li>
+                        <li>您有權依法申請查閱、更正、刪除或封存您的個人資料，請來信 contact@clinicmind.com。</li>
+                        <li>在公開網絡上傳送資料，可能有被未經許可或授權的第三人看到和使用的風險。若您對此感到不安，請不要使用本表單。</li>
+                    </ol>
+                </details>
+                <div class="consent">
+                    <input id="bf-consent" name="consent" type="checkbox" required>
+                    <label for="bf-consent">我已閱讀並同意上述個人資料收集聲明</label>
+                </div>
+
+                <p class="form-note">這個表單不處理緊急狀況。若有立即危險，請撥打頁尾的緊急電話。</p>
+                <button type="submit" class="cta-button" id="bf-submit">送出</button>
+                <p class="form-status" id="bf-status" role="status" aria-live="polite"></p>
+            </form>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <div class="footer-content">
+            <div>
+                <h3>ClinicMind</h3>
+                <p>在接納中，讓療癒悄然展開。</p>
+            </div>
+            <div>
+                <h4>聯絡資訊</h4>
+                <p>Email: contact@clinicmind.com</p>
+                <p>Instagram: @clinicmind</p>
+                <p>Threads: @clinicmind</p>
+            </div>
+            <div>
+                <h4>預約與合作</h4>
+                <p>採預約制，諮商與合作邀約都歡迎來信聯絡</p>
+                <p>可使用粵語、國語、英語</p>
+            </div>
+        </div>
+
+        <div class="crisis-warning">
+            本網站與諮商服務不提供緊急救援。<br>
+            若您或身邊的人有立即危險或自傷念頭，請撥打緊急電話或前往最近的急診室：<br>
+            澳門：緊急求助 999｜社會工作局輔導熱線 2826 1126（24 小時）｜明愛生命熱線 2852 5222（24 小時）<br>
+            台灣：緊急求助 119｜安心專線 1925（24 小時）｜生命線 1995
+        </div>
+
+        <div style="text-align: center; margin-top: 2rem; border-top: 1px solid #555; padding-top: 1rem;">
+            &copy; 2026 ClinicMind. All Rights Reserved.
+        </div>
+    </footer>
+
+    <script>
+    // 表單送到心理師自己 Google 帳號裡的 Apps Script（設定方式見 docs/setup/contact-form.md）
+    const FORM_ENDPOINT = ""; // 部署 Apps Script 後，把網址貼在這裡
+    (function () {
+        const form = document.getElementById("booking-form");
+        const status = document.getElementById("bf-status");
+        const btn = document.getElementById("bf-submit");
+        const say = (text, kind) => { status.textContent = text; status.className = "form-status " + (kind || ""); };
+        form.addEventListener("submit", async (ev) => {
+            ev.preventDefault();
+            const name = form.name.value.trim(), phone = form.phone.value.trim();
+            if (!name || !phone) { say("請填寫稱呼和聯絡電話。", "err"); return; }
+            if (!/^[+\d][\d\s-]{6,}$/.test(phone)) { say("電話格式看起來不太對，請再確認一次。", "err"); return; }
+            if (!form.consent.checked) { say("請先閱讀並勾選同意個人資料收集聲明。", "err"); return; }
+            if (!FORM_ENDPOINT) { say("線上留言暫時還沒開放，請先來信 contact@clinicmind.com。", "err"); return; }
+            btn.disabled = true; say("送出中…");
+            try {
+                await fetch(FORM_ENDPOINT, { method: "POST", mode: "no-cors", body: new URLSearchParams(new FormData(form)) });
+                form.reset();
+                say("已經收到您的留言，我會盡快以電話與您聯絡。", "ok");
+            } catch (e) {
+                say("送出沒有成功，可能是網路不穩。請稍後再試，或來信 contact@clinicmind.com。", "err");
+            } finally { btn.disabled = false; }
+        });
+    })();
+    </script>
+
+</body>
+</html>
