@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自助資源 | ClinicMind 臨床心理諮商</title>
+    <meta name="description" content="心理自我評量（創傷、憂鬱、焦慮）、今天就能做的自我照顧練習、推薦影片與書籍，以及澳門、台灣、香港的求助專線。">
+    <meta property="og:title" content="自助資源｜ClinicMind 臨床心理諮商">
+    <meta property="og:description" content="自我評量、自我照顧練習、影片與書籍，以及求助專線。">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="zh_TW">
+    <link rel="stylesheet" href="assets/pages.css">
+</head>
+<body>
+
+    <header>
+        <a class="logo" href="index.html">ClinicMind</a>
+        <nav aria-label="主要導覽">
+            <ul>
+                <li><a href="index.html#about">關於我</a></li>
+                <li><a href="index.html#services">專業服務</a></li>
+                <li><a href="trauma.html">認識創傷</a></li>
+                <li><a href="resources.html" aria-current="page">自助資源</a></li>
+                <li><a href="index.html#booking" class="btn-reserve">預約諮詢</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="page-hero">
+        <h1>自助資源</h1>
+        <p>在還沒準備好、或正在等待見面的時候，這裡有一些可以先幫自己的方法。它們不能取代專業協助，但可以陪您多走一段。</p>
+    </div>
+
+    <nav class="toc" aria-label="本頁目錄">
+        <ol>
+            <li><a href="#help">需要立即協助</a></li>
+            <li><a href="#screening">自我評量</a></li>
+            <li><a href="#practice">今天就能做的練習</a></li>
+            <li><a href="#media">影片、書籍與 App</a></li>
+            <li><a href="#when">什麼時候該找專業協助</a></li>
+            <li><a href="#hotlines">求助專線</a></li>
+        </ol>
+    </nav>
+
+    <main>
+        <section id="help">
+            <div class="inner">
+                <div class="crisis-box">
+                    <strong>如果您現在有傷害自己的念頭，或身處危險之中</strong><br>
+                    請不要一個人撐著。立刻撥打緊急電話 <strong>999（澳門、香港）</strong>、<strong>119／110（台灣）</strong>，或前往最近的急診室。<br>
+                    想找人說說話，可以打 24 小時專線：澳門明愛生命熱線 2852 5222、社會工作局輔導熱線 2826 1126；台灣安心專線 1925。更多資源見<a href="#hotlines">求助專線</a>。
+                </div>
+            </div>
+        </section>
+
+        <section id="screening">
+            <div class="inner">
+                <h2>自我評量</h2>
+                <p>以下三份是國際上廣泛使用、可免費使用的簡短篩檢量表，可以幫助您留意自己最近的狀態。</p>
+                <div class="callout">
+                    <ul class="dots">
+                        <li>篩檢量表<strong>不是診斷</strong>。分數只能提示「值得進一步了解」，實際狀況需要由專業人員評估。</li>
+                        <li>您的作答<strong>只在您自己的瀏覽器裡計算</strong>，不會被傳送、儲存或記錄。</li>
+                        <li>中文題目為本站依原量表整理的參考翻譯；如需正式版本，請見各量表下方的官方來源。</li>
+                    </ul>
+                </div>
+
+                <details class="scale" id="pc-ptsd-5">
+                    <summary>創傷後壓力篩檢（PC-PTSD-5，5 題）</summary>
+                    <p style="margin-top:0.8rem">有時候，人會遇到特別可怕、恐怖或具創傷性的事情，例如嚴重的意外或火災、身體或性方面的攻擊或虐待、地震或水災、戰爭、目睹有人被殺或受重傷，或親人因他殺或自殺離世。</p>
+                    <form data-scale="pcptsd" novalidate>
+                        <fieldset>
+                            <legend>您一生中曾經經歷過這類事情嗎？</legend>
+                            <div class="opts">
+                                <label><input type="radio" name="gate" value="1" required> 有</label>
+                                <label><input type="radio" name="gate" value="0"> 沒有</label>
+                            </div>
+                        </fieldset>
+                        <div data-items></div>
+                        <button type="submit" class="scale-btn">看結果</button>
+                        <div class="result" role="status" aria-live="polite"></div>
+                    </form>
+                    <p class="muted" style="margin-top:1rem">來源：Prins, A., et al. (2016). 美國國家創傷後壓力症中心（National Center for PTSD）編製，屬公共領域。<a href="https://www.ptsd.va.gov/professional/assessment/screens/pc-ptsd.asp" rel="noopener">官方說明</a>。較完整的 20 題版本為 <a href="https://www.ptsd.va.gov/professional/assessment/adult-sr/ptsd-checklist.asp" rel="noopener">PCL-5</a>。</p>
+                </details>
+
+                <details class="scale" id="phq-9">
+                    <summary>憂鬱情緒篩檢（PHQ-9，9 題）</summary>
+                    <form data-scale="phq9" novalidate>
+                        <p style="margin-top:0.8rem">在<strong>過去兩週</strong>，以下這些困擾出現的頻率是：</p>
+                        <div data-items></div>
+                        <button type="submit" class="scale-btn">看結果</button>
+                        <div class="result" role="status" aria-live="polite"></div>
+                    </form>
+                    <p class="muted" style="margin-top:1rem">來源：Kroenke, K., Spitzer, R. L., &amp; Williams, J. B. W. (2001)。可免費使用，官方中文版本見 <a href="https://www.phqscreeners.com/select-screener" rel="noopener">phqscreeners.com</a>。</p>
+                </details>
+
+                <details class="scale" id="gad-7">
+                    <summary>焦慮情緒篩檢（GAD-7，7 題）</summary>
+                    <form data-scale="gad7" novalidate>
+                        <p style="margin-top:0.8rem">在<strong>過去兩週</strong>，以下這些困擾出現的頻率是：</p>
+                        <div data-items></div>
+                        <button type="submit" class="scale-btn">看結果</button>
+                        <div class="result" role="status" aria-live="polite"></div>
+                    </form>
+                    <p class="muted" style="margin-top:1rem">來源：Spitzer, R. L., et al. (2006)。可免費使用，官方中文版本見 <a href="https://www.phqscreeners.com/select-screener" rel="noopener">phqscreeners.com</a>。</p>
+                </details>
+
+                <p class="muted" style="margin-top:1.2rem">在台灣，也可以使用衛生福利部推出的「心情溫度計」App（簡式健康量表 BSRS-5）隨時記錄心情。</p>
+            </div>
+        </section>
+
+        <section id="practice">
+            <div class="inner">
+                <h2>今天就能做的練習</h2>
+                <p>當情緒突然湧上來、身體很緊繃，或覺得自己好像不在這裡的時候，可以試試這些方法。不需要全部都做，找一兩個對您有用的就好。如果某個練習讓您更不舒服，隨時可以停下來。</p>
+                <div class="card-grid">
+                    <div class="card">
+                        <h3>5-4-3-2-1 回到當下</h3>
+                        <p>慢慢說出：看到的 5 樣東西、摸得到的 4 樣東西、聽到的 3 種聲音、聞到的 2 種氣味、嚐到的 1 種味道。把注意力從回憶帶回此時此地。</p>
+                    </div>
+                    <div class="card">
+                        <h3>吐氣比吸氣長</h3>
+                        <p>用鼻子吸氣數到 4，再慢慢吐氣數到 6。重複 5 到 10 次。拉長吐氣能幫身體踩一下煞車，從警戒狀態慢慢鬆下來。</p>
+                    </div>
+                    <div class="card">
+                        <h3>感覺雙腳踩在地上</h3>
+                        <p>坐著或站著，用力把雙腳往地面踩，感覺腳底的重量和地板的支撐。也可以握一杯溫水或冰水，感受手裡的溫度。</p>
+                    </div>
+                    <div class="card">
+                        <h3>替情緒取名字</h3>
+                        <p>在心裡或紙上寫下：「我現在感到＿＿＿，程度大約 0 到 10 分的＿＿分。」研究發現，把情緒說出來，本身就能讓情緒稍微降溫。</p>
+                    </div>
+                    <div class="card">
+                        <h3>對自己說一句溫柔的話</h3>
+                        <p>把手放在胸口，對自己說：「這真的很辛苦。很多人也有這種感覺。我可以對自己好一點。」像對待一位好朋友那樣對待自己。</p>
+                    </div>
+                    <div class="card">
+                        <h3>寫下自己的安全計畫</h3>
+                        <p>在狀況好的時候，先寫下：哪些跡象代表我開始不好了、有哪些事可以讓我平靜、可以聯絡誰、需要時打哪支專線。存在手機裡，需要時就不用從頭想。</p>
+                    </div>
+                    <div class="card">
+                        <h3>照顧睡眠的節奏</h3>
+                        <p>盡量固定起床時間，睡前一小時調暗燈光、放下手機。躺了很久睡不著，可以先起來做點安靜的事，想睡再回床上。</p>
+                    </div>
+                    <div class="card">
+                        <h3>留意自己的觸發點</h3>
+                        <p>情緒突然變強時，記下當時在哪裡、發生了什麼、身體有什麼感覺。慢慢地，您會更能預先照顧自己，這些紀錄也很適合帶到治療裡討論。</p>
+                    </div>
+                </div>
+                <p style="margin-top:1.4rem">想更了解這些反應從哪裡來，可以看看<a href="trauma.html#why">身體裡的警報系統</a>。</p>
+            </div>
+        </section>
+
+        <section id="media">
+            <div class="inner">
+                <h2>影片、書籍與 App</h2>
+                <h3>影片</h3>
+                <ul class="dots">
+                    <li><a href="https://www.ted.com/talks/nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime" rel="noopener">Nadine Burke Harris：童年創傷如何影響一生的健康</a>（TED 演講，約 16 分鐘，網站上可選擇字幕語言）。小兒科醫師從醫學角度說明童年逆境經驗與身體健康的關係。</li>
+                    <li><a href="https://www.youtube.com/watch?v=gm9CIJ74Oxw" rel="noopener">Dan Siegel：大腦的手掌模型</a>（英文，約 3 分鐘）。用一隻手說明情緒來時，大腦為什麼會「翻蓋」失控，也是理解警報系統的好入門。</li>
+                </ul>
+                <h3>書籍</h3>
+                <ul class="dots">
+                    <li>貝塞爾．范德寇（Bessel van der Kolk），《心靈的傷，身體會記住》。從大腦、身體與關係的角度談創傷與復原。</li>
+                    <li>茱蒂斯．赫曼（Judith Herman），《從創傷到復原》。創傷研究的經典，特別適合想了解長期、反覆創傷的讀者。</li>
+                </ul>
+                <h3>App</h3>
+                <ul class="dots">
+                    <li><a href="https://www.ptsd.va.gov/appvid/mobile/ptsdcoach_app.asp" rel="noopener">PTSD Coach</a>（英文，免費）。美國國家創傷後壓力症中心開發，包含症狀自我追蹤與多種因應工具。</li>
+                    <li>心情溫度計（台灣衛生福利部，免費）。可以定期記錄心情，並提供求助資訊。</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="when">
+            <div class="inner">
+                <h2>什麼時候該找專業協助</h2>
+                <p>自助方法很有價值，但有些時候，您值得有人一起陪著走。如果有以下情況，建議找心理師、精神科醫師或家庭醫師談談：</p>
+                <ul class="dots">
+                    <li>困擾已經持續一個月以上，或越來越嚴重</li>
+                    <li>影響到工作、學業、睡眠或重要的關係</li>
+                    <li>需要靠酒精、藥物、賭博或其他停不下來的行為才撐得過去</li>
+                    <li>自我評量的分數落在建議進一步評估的範圍</li>
+                    <li>出現傷害自己或不想活下去的念頭（請先使用<a href="#hotlines">求助專線</a>）</li>
+                </ul>
+                <p>想了解有哪些治療方式，可以看<a href="trauma.html#evidence">有研究支持的創傷治療</a>。也歡迎<a href="index.html#booking">與我聯絡</a>，一起看看怎麼開始。</p>
+            </div>
+        </section>
+
+        <section id="hotlines">
+            <div class="inner">
+                <h2>求助專線</h2>
+                <p class="muted">電話號碼可能更新，撥打前如有疑問，請以各機構官方網站為準。</p>
+                <div class="card-grid">
+                    <div class="card">
+                        <h3>澳門</h3>
+                        <ul class="dots">
+                            <li>緊急求助：999</li>
+                            <li>社會工作局輔導熱線：2826 1126（24 小時）</li>
+                            <li><a href="https://www.caritas.org.mo/youth-and-community-service/213" rel="noopener">明愛生命熱線</a>：2852 5222（24 小時）</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h3>台灣</h3>
+                        <ul class="dots">
+                            <li>緊急求助：119／110</li>
+                            <li><a href="https://dep.mohw.gov.tw/DOMHAOH/cp-4906-54077-107.html" rel="noopener">衛福部安心專線</a>：1925（24 小時，免付費）</li>
+                            <li>生命線：1995</li>
+                            <li>張老師：1980</li>
+                        </ul>
+                    </div>
+                    <div class="card">
+                        <h3>香港</h3>
+                        <ul class="dots">
+                            <li>緊急求助：999</li>
+                            <li>撒瑪利亞防止自殺會：2389 2222（24 小時）</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-links">
+            <a href="index.html">首頁</a>
+            <a href="eft.html">情緒取向治療</a>
+            <a href="trauma.html">認識創傷</a>
+            <a href="resources.html">自助資源</a>
+            <a href="index.html#booking">預約與聯絡</a>
+        </div>
+        <div class="crisis-warning">
+            本網站與諮商服務不提供緊急救援。<br>
+            若您或身邊的人有立即危險或自傷念頭，請撥打緊急電話或前往最近的急診室：<br>
+            澳門：緊急求助 999｜社會工作局輔導熱線 2826 1126（24 小時）｜明愛生命熱線 2852 5222（24 小時）<br>
+            台灣：緊急求助 119｜安心專線 1925（24 小時）｜生命線 1995
+        </div>
+        <div class="copyright">&copy; 2026 ClinicMind. All Rights Reserved.</div>
+    </footer>
+
+    <script>
+    // 自我評量：只在瀏覽器內計分，不送出、不儲存任何作答
+    (function () {
+        const FREQ = [["完全沒有", 0], ["有幾天", 1], ["一半以上的天數", 2], ["幾乎每天", 3]];
+        const YESNO = [["是", 1], ["否", 0]];
+        const HELP = '如果您有傷害自己的念頭，請不要一個人撐著：澳門可撥明愛生命熱線 2852 5222 或社會工作局輔導熱線 2826 1126，台灣可撥安心專線 1925（皆為 24 小時），有立即危險請撥 999／119。';
+
+        const SCALES = {
+            pcptsd: {
+                intro: "在過去一個月內，您是否曾經：",
+                options: YESNO,
+                items: [
+                    "做過關於這件事的惡夢，或在不想想起時仍然想起它？",
+                    "很努力不去想這件事，或刻意避開會讓您想起它的情境？",
+                    "一直處在警戒狀態、特別留意周遭，或很容易被嚇到？",
+                    "對人、活動或周遭環境感到麻木或疏離？",
+                    "對這件事或它帶來的問題感到內疚，或無法停止責怪自己或他人？"
+                ],
+                result(score) {
+                    if (score >= 3) return `您的分數是 <span class="score">${score} / 5</span>。這個分數顯示，這件事可能仍在明顯地影響您。建議與心理師或精神科醫師進一步評估，了解是否有創傷後壓力的狀況。`;
+                    return `您的分數是 <span class="score">${score} / 5</span>，低於一般建議進一步評估的分數。不過，如果您仍然感到困擾，這份感受本身就值得被好好照顧。`;
+                }
+            },
+            phq9: {
+                options: FREQ,
+                items: [
+                    "做事時提不起勁，或沒有樂趣",
+                    "感到心情低落、沮喪或絕望",
+                    "不容易入睡、睡不安穩，或睡太多",
+                    "感到疲倦或沒有活力",
+                    "食慾不振或吃太多",
+                    "覺得自己很糟，覺得自己很失敗，或讓自己或家人失望",
+                    "很難專心做事，例如看報紙或看電視時",
+                    "動作或說話慢到別人看得出來；或剛好相反，煩躁、坐立不安、動來動去的情況比平常多",
+                    "有不如死掉，或用某種方式傷害自己的念頭"
+                ],
+                result(score, answers) {
+                    const bands = [[20, "重度"], [15, "中重度"], [10, "中度"], [5, "輕度"], [0, "很少或沒有"]];
+                    const band = bands.find(([min]) => score >= min)[1];
+                    let text = `您的分數是 <span class="score">${score} / 27</span>，落在「${band}」憂鬱情緒的範圍。`;
+                    text += score >= 10 ? "建議與心理師、精神科醫師或家庭醫師談談，做進一步的評估。" : "如果困擾持續或加重，也歡迎尋求專業協助。";
+                    if (answers[8] > 0) text += `<br><br><strong>您在最後一題勾選了有這樣的念頭。</strong>謝謝您誠實地回答，這需要勇氣。${HELP}`;
+                    return text;
+                }
+            },
+            gad7: {
+                options: FREQ,
+                items: [
+                    "感到緊張、不安或煩躁",
+                    "無法停止或控制擔心",
+                    "對很多不同的事情擔心太多",
+                    "很難放鬆",
+                    "坐立不安，很難安靜坐著",
+                    "變得容易心煩或易怒",
+                    "感到害怕，好像會有可怕的事情發生"
+                ],
+                result(score) {
+                    const bands = [[15, "重度"], [10, "中度"], [5, "輕度"], [0, "很少或沒有"]];
+                    const band = bands.find(([min]) => score >= min)[1];
+                    return `您的分數是 <span class="score">${score} / 21</span>，落在「${band}」焦慮情緒的範圍。` +
+                        (score >= 10 ? "建議與心理師、精神科醫師或家庭醫師談談，做進一步的評估。" : "如果困擾持續或加重，也歡迎尋求專業協助。");
+                }
+            }
+        };
+
+        document.querySelectorAll("form[data-scale]").forEach((form) => {
+            const key = form.dataset.scale;
+            const scale = SCALES[key];
+            const box = form.querySelector("[data-items]");
+            const out = form.querySelector(".result");
+
+            if (scale.intro) {
+                const p = document.createElement("p");
+                p.style.marginTop = "0.8rem";
+                p.textContent = scale.intro;
+                box.appendChild(p);
+            }
+            scale.items.forEach((text, i) => {
+                const fs = document.createElement("fieldset");
+                const lg = document.createElement("legend");
+                lg.textContent = `${i + 1}. ${text}`;
+                fs.appendChild(lg);
+                const opts = document.createElement("div");
+                opts.className = "opts";
+                scale.options.forEach(([label, value]) => {
+                    const l = document.createElement("label");
+                    const input = document.createElement("input");
+                    input.type = "radio";
+                    input.name = `${key}-${i}`;
+                    input.value = value;
+                    l.append(input, " " + label);
+                    opts.appendChild(l);
+                });
+                fs.appendChild(opts);
+                box.appendChild(fs);
+            });
+
+            // PC-PTSD-5：沒有經歷過相關事件時，不需要回答後面的題目
+            const gate = form.querySelectorAll('input[name="gate"]');
+            gate.forEach((g) => g.addEventListener("change", () => {
+                box.hidden = g.value === "0" && g.checked;
+                out.innerHTML = "";
+            }));
+
+            form.addEventListener("submit", (ev) => {
+                ev.preventDefault();
+                if (gate.length) {
+                    const picked = form.querySelector('input[name="gate"]:checked');
+                    if (!picked) { out.textContent = "請先回答第一題。"; return; }
+                    if (picked.value === "0") {
+                        out.textContent = "您回答沒有經歷過這類事件，因此不需要作答後面的題目。如果您仍然有其他困擾，也可以試試下面的憂鬱、焦慮量表，或直接與專業人員聯絡。";
+                        return;
+                    }
+                }
+                const answers = scale.items.map((_, i) => {
+                    const c = form.querySelector(`input[name="${key}-${i}"]:checked`);
+                    return c ? Number(c.value) : null;
+                });
+                const missing = answers.indexOf(null);
+                if (missing !== -1) { out.textContent = `還有題目沒有回答（第 ${missing + 1} 題）。`; return; }
+                const score = answers.reduce((a, b) => a + b, 0);
+                out.innerHTML = scale.result(score, answers) + '<br><span class="muted">提醒：這只是篩檢結果，不是診斷。</span>';
+            });
+        });
+    })();
+    </script>
+
+</body>
+</html>
