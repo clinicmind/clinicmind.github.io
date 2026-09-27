@@ -18,7 +18,7 @@ body {
     line-height: 1.8;
 }
 
-a { color: var(--primary-color); transition: 0.3s; }
+a { color: var(--primary-text); transition: 0.3s; }
 a:hover { color: #55756F; }
 a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--primary-color); outline-offset: 2px; }
 
@@ -57,7 +57,7 @@ main section { padding: 3.5rem 10%; }
 main section:nth-of-type(even) { background: var(--white); }
 .inner { max-width: 880px; margin: 0 auto; }
 main h2 { color: var(--primary-color); font-size: 1.8rem; margin-bottom: 1.2rem; }
-main h3 { color: var(--accent-color); font-size: 1.15rem; margin: 1.6rem 0 0.5rem; }
+main h3 { color: var(--accent-text); font-size: 1.15rem; margin: 1.6rem 0 0.5rem; }
 main p + p { margin-top: 0.9rem; }
 main ul.dots, main ol.nums { margin: 0.6rem 0 0.6rem 1.4rem; display: grid; gap: 0.35rem; }
 main ul.dots { list-style: disc; }
@@ -86,14 +86,14 @@ th { color: var(--primary-color); white-space: nowrap; }
 /* 量表 */
 .scale { background: var(--white); border-radius: 10px; padding: 1.5rem; margin-top: 1.4rem; }
 main section:nth-of-type(even) .scale { background: var(--secondary-color); }
-.scale summary { cursor: pointer; font-weight: bold; color: var(--accent-color); font-size: 1.1rem; }
+.scale summary { cursor: pointer; font-weight: bold; color: var(--accent-text); font-size: 1.1rem; }
 .scale fieldset { border: none; border-top: 1px solid #E4E0D8; padding: 0.9rem 0; }
 .scale legend { font-weight: bold; padding-top: 0.9rem; float: left; width: 100%; margin-bottom: 0.4rem; }
 .scale .opts { clear: both; display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; }
 .scale label { display: inline-flex; gap: 0.35rem; align-items: center; cursor: pointer; }
 .scale input { accent-color: var(--primary-color); }
-.scale-btn { background: var(--accent-color); color: var(--white); border: none; padding: 0.7rem 1.5rem; border-radius: 5px; font: inherit; font-weight: bold; cursor: pointer; margin-top: 0.8rem; }
-.scale-btn:hover { background: #A67F5D; }
+.scale-btn { background: var(--accent-text); color: var(--white); border: none; padding: 0.7rem 1.5rem; border-radius: 5px; font: inherit; font-weight: bold; cursor: pointer; margin-top: 0.8rem; }
+.scale-btn:hover { background: #7A5738; }
 .result { margin-top: 1rem; }
 .result:empty { display: none; }
 .result .score { font-weight: bold; color: var(--primary-color); }

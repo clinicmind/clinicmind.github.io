@@ -80,9 +80,9 @@
         .hero {
             padding: 8rem 5% 6rem;
             text-align: center;
-            background: linear-gradient(rgba(242, 240, 235, 0.9), rgba(242, 240, 235, 0.9)), url('https://images.unsplash.com/photo-1499209974431-9dddcece7f88?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');
-            background-size: cover;
-            background-position: center;
+            background: radial-gradient(ellipse at 20% 0%, rgba(107, 142, 136, 0.18), transparent 60%),
+                        radial-gradient(ellipse at 90% 100%, rgba(193, 152, 117, 0.16), transparent 55%),
+                        var(--secondary-color);
         }
 
         .hero h1 {
@@ -100,7 +100,7 @@
 
         .cta-button {
             display: inline-block;
-            background-color: var(--accent-color);
+            background-color: var(--accent-text);
             color: var(--white);
             padding: 1rem 2rem;
             border-radius: 5px;
@@ -109,7 +109,7 @@
         }
 
         .cta-button:hover {
-            background-color: #A67F5D;
+            background-color: #7A5738;
         }
 
         /* --- 引言區 (Introduction) --- */
@@ -205,7 +205,7 @@
         }
 
         .service-card h3 {
-            color: var(--accent-color);
+            color: var(--accent-text);
             margin-bottom: 1rem;
         }
 
@@ -213,7 +213,7 @@
         .approach { padding: 5rem 10%; background-color: var(--white); }
         .approach h2 { color: var(--primary-color); font-size: 2rem; margin-bottom: 2rem; text-align: center; }
         .approach-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem 2rem; max-width: 960px; margin: 0 auto; }
-        .approach-list h3 { color: var(--accent-color); font-size: 1.1rem; margin-bottom: 0.4rem; }
+        .approach-list h3 { color: var(--accent-text); font-size: 1.1rem; margin-bottom: 0.4rem; }
         .approach-list p { color: var(--text-light); }
         .featured-article { border-top: 1px solid #EEE; }
 
@@ -310,35 +310,96 @@
             margin-top: 2rem;
         }
 
+        /* --- 首屏身份定位 --- */
+        .hero-eyebrow { font-size: 0.95rem !important; letter-spacing: 2px; color: var(--primary-text) !important; margin-bottom: 1rem !important; }
+        .hero-actions { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; }
+        .cta-secondary { display: inline-block; padding: 1rem 2rem; border-radius: 5px; border: 1px solid var(--primary-text); color: var(--primary-text); font-weight: bold; }
+        .cta-secondary:hover { background: var(--white); }
+
+        /* --- 您是否也正在經歷 --- */
+        .concerns { padding: 5rem 10%; background: var(--secondary-color); }
+        .concerns h2, .process h2 { color: var(--primary-color); font-size: 2rem; margin-bottom: 0.6rem; text-align: center; }
+        .section-lead { text-align: center; color: var(--text-light); margin-bottom: 2.5rem; }
+        .concern-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.2rem; max-width: 1000px; margin: 0 auto; }
+        .concern-list li { background: var(--white); border-radius: 10px; padding: 1.3rem 1.5rem; border-left: 4px solid var(--accent-color); }
+        .concerns-close { text-align: center; margin-top: 2.5rem; }
+        .concerns-close a, .text-link { color: var(--primary-text); font-weight: bold; }
+
+        /* --- 關於我：照片與信念 --- */
+        .about-img { max-width: 380px; }
+        .story-card { background: var(--white); border-radius: 10px; box-shadow: 10px 10px 0px var(--primary-color); padding: 2.2rem 2rem; color: var(--primary-text); font-size: 1.05rem; line-height: 2; }
+        .story-card cite { display: block; margin-top: 1.2rem; font-style: normal; color: var(--accent-text); text-align: right; }
+        .story-card cite::before { content: "── "; }
+        .beliefs { margin: 1.5rem 0; display: grid; gap: 0.6rem; }
+        .beliefs li { padding-left: 1.4rem; position: relative; }
+        .beliefs li::before { content: ""; position: absolute; left: 0; top: 0.7em; width: 0.6rem; height: 0.6rem; border-radius: 50%; background: var(--accent-color); }
+
+        /* --- 第一次諮商怎麼進行 --- */
+        .process { padding: 5rem 10%; background: var(--white); }
+        .steps { list-style: none; display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1.5rem; max-width: 1040px; margin: 0 auto; counter-reset: step; }
+        .steps li { counter-increment: step; background: var(--secondary-color); border-radius: 10px; padding: 1.5rem; }
+        .steps li::before { content: counter(step); display: inline-flex; width: 2rem; height: 2rem; border-radius: 50%; background: var(--primary-text); color: var(--white); align-items: center; justify-content: center; font-weight: bold; margin-bottom: 0.6rem; }
+        .steps h3 { color: var(--accent-text); font-size: 1.1rem; margin-bottom: 0.3rem; }
+        .process-more { text-align: center; margin-top: 2rem; }
+        .footer-links { display: flex; flex-wrap: wrap; gap: 0.8rem 1.6rem; margin-bottom: 1.5rem; }
+        .footer-links a { color: #ddd; }
+        .footer-links a:hover { color: var(--white); }
+
         /* RWD Mobile Adjustment */
         @media (max-width: 768px) {
-            nav li:not(:last-child) { display: none; } /* 手機只留「預約諮詢」按鈕 */
             .hero h1 { font-size: 2rem; }
-            .about { flex-direction: column; }
+            .about { flex-direction: column; padding: 3.5rem 16px; }
+            .hero { padding: 4.5rem 16px 3.5rem; }
+            .intro, .concerns, .services, .approach, .process, .featured-article, .booking { padding-left: 16px; padding-right: 16px; }
+            .about-img { min-width: 0; width: 100%; max-width: 360px; }
         }
     </style>
+    <link rel="stylesheet" href="assets/site.css">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="canonical" href="https://clinicmind.github.io/">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MedicalBusiness",
+        "name": "ClinicMind 臨床心理諮商",
+        "url": "https://clinicmind.github.io/",
+        "description": "澳門臨床心理諮商，專注創傷心理、非物質成癮與親密關係。提供個別、伴侶與家庭諮商，兒童可使用沙遊與遊戲治療。",
+        "medicalSpecialty": "Psychiatric",
+        "areaServed": [{"@type": "City", "name": "Macau"}],
+        "availableLanguage": ["yue", "cmn", "en"],
+        "email": "contact@clinicmind.com",
+        "knowsAbout": ["心理創傷", "非物質成癮", "親密關係", "情緒取向治療", "人際心理治療", "沙遊治療", "遊戲治療"]
+    }
+    </script>
 </head>
 <body>
 
+    <a class="skip-link" href="#main">跳到主要內容</a>
     <header>
-        <div class="logo">ClinicMind</div>
-        <nav>
+        <a class="logo" href="index.html">ClinicMind</a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">選單</button>
+        <nav id="site-nav" aria-label="主要導覽">
             <ul>
-                <li><a href="#about">關於我</a></li>
-                <li><a href="#services">專業服務</a></li>
-                <li><a href="#approach">治療取向</a></li>
+                <li><a href="about.html">關於我</a></li>
+                <li><a href="index.html#services">專業服務</a></li>
                 <li><a href="trauma.html">認識創傷</a></li>
+                <li><a href="articles.html">知識專欄</a></li>
                 <li><a href="resources.html">自助資源</a></li>
-                <li><a href="#blog">專欄文章</a></li>
-                <li><a href="#booking" class="btn-reserve">預約諮詢</a></li>
+                <li><a href="faq.html">常見問題</a></li>
+                <li><a href="index.html#booking" class="btn-reserve">預約諮詢</a></li>
             </ul>
         </nav>
     </header>
 
+    <main id="main">
     <section class="hero">
+        <p class="hero-eyebrow">澳門註冊心理治療師｜創傷・非物質成癮・親密關係</p>
         <h1>在傷痛與關係裡，找回安放身心的空間</h1>
         <p>專注創傷、非物質成癮與親密關係。在安全、不被評價的空間裡，陪您慢慢理解自己，找到新的選擇。</p>
-        <a href="#booking" class="cta-button">開始您的療癒旅程</a>
+        <div class="hero-actions">
+            <a href="#booking" class="cta-button">預約諮詢</a>
+            <a href="resources.html" class="cta-secondary">先看看自助資源</a>
+        </div>
     </section>
 
     <section class="intro">
@@ -348,12 +409,37 @@
         </blockquote>
     </section>
 
+    <section id="concerns" class="concerns">
+        <h2>您是否也正在經歷</h2>
+        <p class="section-lead">這些是許多來訪者第一次見面時說的話</p>
+        <ul class="concern-list">
+            <li>事情已經過去很久了，身體卻還是常常緊繃、睡不好，一點小事就被嚇到。</li>
+            <li>和伴侶一再為同樣的事爭吵，吵完更疏遠，不知道該怎麼靠近。</li>
+            <li>明知道賭博、打機或購物已經影響生活，卻還是停不下來。</li>
+            <li>在別人面前看起來都很好，一個人的時候卻覺得很空、很累。</li>
+            <li>孩子最近變得退縮，或很容易發脾氣，想幫忙卻不知道從哪裡開始。</li>
+            <li>常常在想「是不是我哪裡有問題」，卻說不出到底哪裡不對。</li>
+        </ul>
+        <p class="concerns-close">如果其中有一句說中了您，這裡或許是一個可以慢慢談的地方。<br><a href="#process">看看第一次諮商怎麼進行 →</a></p>
+    </section>
+
     <section id="about" class="about">
+        <div class="about-img">
+            <blockquote class="story-card">
+                <p>痛苦是清醒的人才能擁有的享受🍷<br>痛楚無可避免，但人能選擇不為苦所困。<br><br>讓我們保持安靜，跟隨內心的指引。<br>神祕的命運知曉每一粒塵埃的一生，<br>讓我們講述我們的故事，如一粒微塵。</p>
+                <cite>臨床心語</cite>
+            </blockquote>
+        </div>
         <div class="about-text">
             <h2>我是臨床心語，一位臨床心理師</h2>
             <p>在治療室裡，我陪伴過許多被過去經驗困住的人：童年留下的傷、關係裡一再重複的衝突、明知道傷身卻停不下來的習慣。他們常問我：「是不是我哪裡有問題？」</p>
             <br>
             <p>我相信，這些困擾背後，常常是一個人曾經為了保護自己而發展出來的方式。我的工作是陪您一起看見它，理解它從哪裡來，再慢慢找到更適合現在的您的方式。我主要使用情緒取向治療（EFT）與人際心理治療（IPT），和孩子工作時，也會使用沙遊與遊戲治療。</p>
+            <ul class="beliefs">
+                <li>行為背後，常常有保護自己的理由。</li>
+                <li>改變是在安全的關係裡慢慢發生的。</li>
+                <li>談什麼、談多快，由您決定。</li>
+            </ul>
             
             <div class="credentials">
                 <strong>專業資格：</strong><br>
@@ -361,6 +447,7 @@
                 • 澳門衛生局註冊心理治療師<br>
                 • 澳門註冊心理治療師公會創會會員
             </div>
+            <p style="margin-top: 1.2rem;"><a class="text-link" href="about.html">更多關於我與我的工作方式 →</a></p>
         </div>
     </section>
 
@@ -371,6 +458,7 @@
             <div class="service-card">
                 <h3>創傷心理</h3>
                 <p>童年創傷、關係中的傷害、重大事件後的壓力反應。在穩定、安全的治療關係裡，一步一步整理經驗，讓身心從長期的緊繃中慢慢鬆開。</p>
+                <p style="margin-top: 0.8rem;"><a class="text-link" href="trauma.html">認識創傷與治療 →</a></p>
             </div>
             <div class="service-card">
                 <h3>非物質成癮</h3>
@@ -379,6 +467,7 @@
             <div class="service-card">
                 <h3>親密關係</h3>
                 <p>伴侶之間反覆的爭吵、疏離或信任破裂。從情緒與依附的角度，看見彼此行為背後的需要，重新找回連結的可能。可個別諮商，也可以兩人一起來。</p>
+                <p style="margin-top: 0.8rem;"><a class="text-link" href="eft.html">認識情緒取向治療 →</a></p>
             </div>
         </div>
     </section>
@@ -387,11 +476,23 @@
     <section id="approach" class="approach">
         <h2>治療取向</h2>
         <div class="approach-list">
-            <div><h3><a href="eft.html">情緒取向治療（EFT）→</a></h3><p>聚焦情緒與依附需求，常用於伴侶與個人治療。<a href="eft.html" style="color: var(--primary-color);">了解更多</a></p></div>
+            <div><h3><a href="eft.html">情緒取向治療（EFT）→</a></h3><p>聚焦情緒與依附需求，常用於伴侶與個人治療。<a class="text-link" href="eft.html">了解更多</a></p></div>
             <div><h3>人際心理治療（IPT）</h3><p>從人際關係與生活轉變切入，處理情緒上的困擾。</p></div>
             <div><h3>沙遊治療</h3><p>透過沙盤與小物件，表達難以用言語說出的經驗。</p></div>
             <div><h3>遊戲治療</h3><p>以遊戲作為孩子的語言，在玩的過程中表達與整理感受。</p></div>
         </div>
+    </section>
+
+    <section id="process" class="process">
+        <h2>第一次諮商怎麼進行</h2>
+        <p class="section-lead">不需要先想好要說什麼，也不需要確定自己「夠嚴重」</p>
+        <ol class="steps">
+            <li><h3>留下聯絡方式</h3><p>在下方填寫稱呼和電話，或直接來信。只需要一兩句話，不用詳細說明。</p></li>
+            <li><h3>電話初談</h3><p>我會親自回電，簡短了解您想談的事，也回答您對諮商的疑問，再一起約時間。</p></li>
+            <li><h3>第一次會談</h3><p>多半用來認識彼此，了解您的處境與期待，一起決定接下來的方向。時間與費用可在電話初談時詢問。</p></li>
+            <li><h3>之後的會談</h3><p>頻率與次數依您的需要一起討論，過程中隨時可以調整或暫停。</p></li>
+        </ol>
+        <p class="process-more"><a class="text-link" href="faq.html">費用、保密與其他常見問題 →</a></p>
     </section>
 
     <section id="resources" class="services">
@@ -416,12 +517,12 @@
     <section id="blog" class="featured-article">
         <div class="article-preview">
             <div class="article-content">
-                <span class="article-tag">精選專欄</span>
+                <span class="article-tag">精選專欄・即將刊出</span>
                 <h3>當痛楚成為一種存在，而非僅是症狀｜重新溫柔地看見慢性疼痛</h3>
                 <p>很多時候，我們在診間裡最害怕聽到的並不是「這需要開刀」，而是經過了一連串精密的檢查後，醫生語氣平淡地說：「一切看起來都很正常...」<br><br>
                 那是一種巨大的失落與孤獨。彷彿你的疼痛是隱形的。但在疼痛醫學的漫長演進中，這份孤獨終於被科學溫柔地接住了...</p>
                 <br>
-                <a href="#" style="color: var(--primary-color); font-weight: bold;">閱讀全文 →</a>
+                <a class="text-link" href="articles.html">前往知識專欄 →</a>
             </div>
         </div>
     </section>
@@ -499,6 +600,8 @@
         </div>
     </section>
 
+    </main>
+
     <footer id="contact">
         <div class="footer-content">
             <div>
@@ -516,6 +619,15 @@
                 <p>採預約制，諮商與合作邀約都歡迎來信聯絡</p>
                 <p>可使用粵語、國語、英語</p>
             </div>
+        </div>
+
+        <div class="footer-links">
+            <a href="about.html">關於我</a>
+            <a href="articles.html">知識專欄</a>
+            <a href="trauma.html">認識創傷</a>
+            <a href="eft.html">情緒取向治療</a>
+            <a href="resources.html">自助資源</a>
+            <a href="faq.html">常見問題</a>
         </div>
 
         <div class="crisis-warning">
@@ -556,6 +668,7 @@
         });
     })();
     </script>
+    <script src="assets/site.js"></script>
 
 </body>
 </html>
