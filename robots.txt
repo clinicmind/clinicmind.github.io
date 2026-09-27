@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clinicmind.github.io/sitemap.xml

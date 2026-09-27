@@ -1,0 +1,59 @@
+/* 全站共用：跳到內容連結、手機選單、無障礙色彩（首頁與內頁都載入，放在其他樣式之後） */
+:root {
+    --text-light: #666666;   /* 輔助文字：在米白底上對比 5:1，達 WCAG AA */
+    --primary-text: #55756F; /* 鼠尾草綠加深，用於文字連結與按鈕底色 */
+    --accent-text: #946A48;  /* 暖陶色加深，用於小標題與按鈕底色 */
+}
+
+.skip-link { position: absolute; left: -9999px; top: 0; background: var(--primary-text); color: #fff; padding: 0.6rem 1rem; z-index: 2000; border-radius: 0 0 6px 0; }
+.skip-link:focus { left: 0; }
+
+.btn-reserve { background-color: var(--primary-text) !important; }
+.btn-reserve:hover { background-color: #466561 !important; }
+
+.nav-toggle {
+    display: none;
+    font: inherit;
+    background: none;
+    border: 1px solid #D6D1C7;
+    border-radius: 6px;
+    padding: 0.35rem 0.9rem;
+    color: var(--text-dark);
+    cursor: pointer;
+}
+.nav-toggle:focus-visible { outline: 2px solid var(--primary-color); outline-offset: 2px; }
+
+@media (max-width: 768px) {
+    header { flex-direction: row !important; flex-wrap: wrap; align-items: center !important; padding: 0.8rem 16px !important; }
+    .nav-toggle { display: inline-block; }
+    #site-nav { display: none; width: 100%; }
+    #site-nav.open { display: block; }
+    #site-nav ul { flex-direction: column; gap: 0 !important; }
+    #site-nav li { display: block !important; border-top: 1px solid #EEE; }
+    #site-nav a { display: block; padding: 0.7rem 0.2rem; }
+    #site-nav .btn-reserve { text-align: center; margin: 0.8rem 0 0.4rem; padding: 0.6rem 1rem; }
+}
+
+/* 【待補】標記：提醒還需要本人資料的地方，上線前要換掉 */
+.todo { background: #FFF4D6; color: #6B4E00; border: 1px dashed #C9A13B; border-radius: 4px; padding: 0 0.3rem; font-size: 0.92em; }
+
+@media (min-width: 769px) and (max-width: 1150px) {
+    #site-nav ul { gap: 1.1rem !important; font-size: 0.95rem; }
+}
+
+/* 常見問題 */
+.faq-item { background: var(--white); border-radius: 8px; padding: 0.9rem 1.2rem; margin-top: 0.8rem; }
+main section:nth-of-type(even) .faq-item { background: var(--secondary-color); }
+.faq-item summary { cursor: pointer; font-weight: bold; color: var(--text-dark); }
+.faq-item[open] summary { color: var(--primary-text); margin-bottom: 0.5rem; }
+
+/* 知識專欄：以問題分類 */
+.q-list { display: grid; gap: 0.8rem; margin-top: 1rem; }
+.q-list a { display: block; background: var(--white); border-radius: 8px; padding: 1rem 1.2rem; text-decoration: none; color: var(--text-dark); border-left: 4px solid var(--primary-color); }
+main section:nth-of-type(even) .q-list a { background: var(--secondary-color); }
+.q-list a:hover { border-left-color: var(--accent-color); }
+.q-list strong { display: block; color: var(--primary-text); }
+.q-list span { color: var(--text-light); font-size: 0.93rem; }
+.q-list .soon { display: block; background: var(--white); border-radius: 8px; padding: 1rem 1.2rem; border-left: 4px solid #D6D1C7; }
+main section:nth-of-type(even) .q-list .soon { background: var(--secondary-color); }
+.q-list .soon strong { color: var(--text-dark); }
