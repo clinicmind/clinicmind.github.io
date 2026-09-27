@@ -327,7 +327,9 @@
 
         /* --- 關於我：照片與信念 --- */
         .about-img { max-width: 380px; }
-        .photo-placeholder { aspect-ratio: 4 / 5; border-radius: 10px; background: #E4E0D8; box-shadow: 10px 10px 0px var(--primary-color); display: flex; align-items: center; justify-content: center; text-align: center; padding: 1rem; }
+        .story-card { background: var(--white); border-radius: 10px; box-shadow: 10px 10px 0px var(--primary-color); padding: 2.2rem 2rem; color: var(--primary-text); font-size: 1.05rem; line-height: 2; }
+        .story-card cite { display: block; margin-top: 1.2rem; font-style: normal; color: var(--accent-text); text-align: right; }
+        .story-card cite::before { content: "── "; }
         .beliefs { margin: 1.5rem 0; display: grid; gap: 0.6rem; }
         .beliefs li { padding-left: 1.4rem; position: relative; }
         .beliefs li::before { content: ""; position: absolute; left: 0; top: 0.7em; width: 0.6rem; height: 0.6rem; border-radius: 50%; background: var(--accent-color); }
@@ -423,8 +425,10 @@
 
     <section id="about" class="about">
         <div class="about-img">
-            <!-- 【待補】換成本人照片：<img src="assets/photo.jpg" alt="臨床心語的照片"> -->
-            <div class="photo-placeholder"><span class="todo">【待補】個人照片</span></div>
+            <blockquote class="story-card">
+                <p>痛苦是清醒的人才能擁有的享受🍷<br>痛楚無可避免，但人能選擇不為苦所困。<br><br>讓我們保持安靜，跟隨內心的指引。<br>神祕的命運知曉每一粒塵埃的一生，<br>讓我們講述我們的故事，如一粒微塵。</p>
+                <cite>臨床心語</cite>
+            </blockquote>
         </div>
         <div class="about-text">
             <h2>我是臨床心語，一位臨床心理師</h2>
@@ -485,7 +489,7 @@
         <ol class="steps">
             <li><h3>留下聯絡方式</h3><p>在下方填寫稱呼和電話，或直接來信。只需要一兩句話，不用詳細說明。</p></li>
             <li><h3>電話初談</h3><p>我會親自回電，簡短了解您想談的事，也回答您對諮商的疑問，再一起約時間。</p></li>
-            <li><h3>第一次會談</h3><p>多半用來認識彼此，了解您的處境與期待，一起決定接下來的方向。每次約 <span class="todo">【待補】</span> 分鐘。</p></li>
+            <li><h3>第一次會談</h3><p>多半用來認識彼此，了解您的處境與期待，一起決定接下來的方向。時間與費用可在電話初談時詢問。</p></li>
             <li><h3>之後的會談</h3><p>頻率與次數依您的需要一起討論，過程中隨時可以調整或暫停。</p></li>
         </ol>
         <p class="process-more"><a class="text-link" href="faq.html">費用、保密與其他常見問題 →</a></p>
