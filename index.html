@@ -372,6 +372,8 @@
         "medicalSpecialty": "Psychiatric",
         "areaServed": [{"@type": "City", "name": "Macau"}],
         "availableLanguage": ["yue", "cmn", "en"],
+        "email": "clinicmind.inquire@gmail.com",
+        "sameAs": ["https://www.instagram.com/clinicmind/", "https://www.threads.net/@clinicmind"],
         "knowsAbout": ["心理創傷", "非物質成癮", "親密關係", "情緒取向治療", "人際心理治療", "沙遊治療", "遊戲治療"]
     }
     </script>
@@ -539,7 +541,7 @@
     <section id="booking" class="booking">
         <div class="booking-inner">
             <h2>預約與聯絡</h2>
-            <p class="booking-lead">留下稱呼和電話，我會親自以電話與您聯絡，一起看看怎麼安排比較合適。也可以在 Instagram／Threads 私訊 @clinicmind。諮商與合作邀約都歡迎。</p>
+            <p class="booking-lead">留下稱呼和電話，我會親自以電話與您聯絡，一起看看怎麼安排比較合適。也可以來信 <a href="mailto:clinicmind.inquire@gmail.com">clinicmind.inquire@gmail.com</a>，或在 Instagram／Threads 私訊 @clinicmind。諮商與合作邀約都歡迎。</p>
 
             <form id="booking-form" novalidate>
                 <div class="field">
@@ -593,7 +595,7 @@
                         <li>資料儲存在 Google 提供的雲端服務，伺服器可能位於澳門以外的地方。</li>
                         <li>除為履行法定義務或經您同意外，資料不會轉交其他機構或實體。</li>
                         <li>查詢處理完畢後，資料會在 6 個月內刪除。</li>
-                        <li>您有權依法申請查閱、更正、刪除或封存您的個人資料，請在 Instagram／Threads 私訊 @clinicmind。</li>
+                        <li>您有權依法申請查閱、更正、刪除或封存您的個人資料，請來信 <a href="mailto:clinicmind.inquire@gmail.com">clinicmind.inquire@gmail.com</a>。</li>
                         <li>在公開網絡上傳送資料，可能有被未經許可或授權的第三人看到和使用的風險。若您對此感到不安，請不要使用本表單。</li>
                     </ol>
                 </details>
@@ -619,8 +621,9 @@
             </div>
             <div>
                 <h4>聯絡資訊</h4>
-                <p>Instagram: @clinicmind</p>
-                <p>Threads: @clinicmind</p>
+                <p>Email：<a href="mailto:clinicmind.inquire@gmail.com">clinicmind.inquire@gmail.com</a></p>
+                <p>Instagram：<a href="https://www.instagram.com/clinicmind/" rel="noopener">@clinicmind</a></p>
+                <p>Threads：<a href="https://www.threads.net/@clinicmind" rel="noopener">@clinicmind</a></p>
             </div>
             <div>
                 <h4>預約與合作</h4>
@@ -665,14 +668,14 @@
             if (!name || !phone) { say("請填寫稱呼和聯絡電話。", "err"); return; }
             if (!/^[+\d][\d\s-]{6,}$/.test(phone)) { say("電話格式看起來不太對，請再確認一次。", "err"); return; }
             if (!form.consent.checked) { say("請先閱讀並勾選同意個人資料收集聲明。", "err"); return; }
-            if (!FORM_ENDPOINT) { say("線上留言暫時還沒開放，請先在 Instagram／Threads 私訊 @clinicmind。", "err"); return; }
+            if (!FORM_ENDPOINT) { say("線上留言暫時還沒開放，請先來信 clinicmind.inquire@gmail.com。", "err"); return; }
             btn.disabled = true; say("送出中…");
             try {
                 await fetch(FORM_ENDPOINT, { method: "POST", mode: "no-cors", body: new URLSearchParams(new FormData(form)) });
                 form.reset();
                 say("已經收到您的留言，我會盡快以電話與您聯絡。", "ok");
             } catch (e) {
-                say("送出沒有成功，可能是網路不穩。請稍後再試，或在 Instagram／Threads 私訊 @clinicmind。", "err");
+                say("送出沒有成功，可能是網路不穩。請稍後再試，或來信 clinicmind.inquire@gmail.com。", "err");
             } finally { btn.disabled = false; }
         });
     })();
