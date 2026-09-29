@@ -46,6 +46,7 @@
             <li><a href="#addiction">成癮</a></li>
             <li><a href="#selfcare">照顧自己</a></li>
             <li><a href="#columns">專欄文章</a></li>
+            <li><a href="#newsletter">訂閱電子報</a></li>
         </ol>
     </nav>
 
@@ -114,6 +115,23 @@
                 </div>
             </div>
         </section>
+        <section id="newsletter">
+            <div class="inner">
+                <h2>訂閱電子報</h2>
+                <div class="newsletter">
+                    <h3>安放信・每月一封</h3>
+                    <p>每月一篇新文章，寄到您的信箱。不推銷、不轉交，隨時可以在信末退訂。</p>
+                    <form action="https://buttondown.com/api/emails/embed-subscribe/clinicmind" method="post" target="_blank" class="nl-form">
+                        <label for="nl-email" class="sr-only">電子郵件</label>
+                        <input type="email" name="email" id="nl-email" placeholder="您的電子郵件" required autocomplete="email">
+                        <input type="hidden" name="embed" value="1">
+                        <input type="hidden" name="tag" value="website">
+                        <button type="submit">訂閱</button>
+                    </form>
+                    <p class="nl-note">訂閱只收集電子郵件地址，由 Buttondown 代為寄送。詳見<a href="faq.html#privacy">私隱說明</a>。</p>
+                </div>
+            </div>
+        </section>
     </main>
 
     <footer>
@@ -126,6 +144,8 @@
             <a href="resources.html">自助資源</a>
             <a href="faq.html">常見問題</a>
             <a href="index.html#booking">預約與聯絡</a>
+            <a href="articles.html#newsletter">訂閱電子報</a>
+            <a href="faq.html#privacy">私隱說明</a>
         </div>
         <div class="crisis-warning">
             本網站與諮商服務不提供緊急救援。<br>
@@ -137,5 +157,7 @@
     </footer>
 
     <script src="assets/site.js"></script>
+    <!-- Cloudflare Web Analytics：不使用 cookie、不追蹤個人，只統計匿名瀏覽次數 -->
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "36f91e88fd374fbf9d9c52d89783ec22"}'></script>
 </body>
 </html>

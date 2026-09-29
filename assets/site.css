@@ -57,3 +57,14 @@ main section:nth-of-type(even) .q-list a { background: var(--secondary-color); }
 .q-list .soon { display: block; background: var(--white); border-radius: 8px; padding: 1rem 1.2rem; border-left: 4px solid #D6D1C7; }
 main section:nth-of-type(even) .q-list .soon { background: var(--secondary-color); }
 .q-list .soon strong { color: var(--text-dark); }
+
+/* 電子報訂閱（Buttondown） */
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+.newsletter { background: var(--white); border-radius: 8px; padding: 1.3rem 1.4rem; border-left: 4px solid var(--primary-color); }
+main section:nth-of-type(even) .newsletter { background: var(--secondary-color); }
+.newsletter h3 { color: var(--primary-text); margin: 0 0 0.4rem; }
+.nl-form { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.9rem; }
+.nl-form input[type="email"] { flex: 1 1 220px; min-width: 0; padding: 0.65rem 0.8rem; border: 1px solid #C9C3B8; border-radius: 6px; font: inherit; }
+.nl-form button { padding: 0.65rem 1.4rem; border: 0; border-radius: 6px; background: var(--primary-text); color: #fff; font: inherit; cursor: pointer; }
+.nl-form button:hover { background: var(--accent-text); }
+.nl-note { font-size: 0.88rem; color: var(--text-light); margin-top: 0.7rem; }
