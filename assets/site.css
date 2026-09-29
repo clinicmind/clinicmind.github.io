@@ -68,3 +68,11 @@ main section:nth-of-type(even) .newsletter { background: var(--secondary-color);
 .nl-form button { padding: 0.65rem 1.4rem; border: 0; border-radius: 6px; background: var(--primary-text); color: #fff; font: inherit; cursor: pointer; }
 .nl-form button:hover { background: var(--accent-text); }
 .nl-note { font-size: 0.88rem; color: var(--text-light); margin-top: 0.7rem; }
+
+/* 標誌「臨床心語 ClinicMind」不換行；中等寬度時縮小，讓導覽列放得下 */
+.logo { white-space: nowrap; }
+@media (min-width: 769px) and (max-width: 1150px) {
+    .logo { font-size: 1.15rem !important; letter-spacing: 0 !important; }
+    #site-nav ul { gap: 0.75rem !important; font-size: 0.88rem; }
+    #site-nav a { white-space: nowrap; }
+}
