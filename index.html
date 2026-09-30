@@ -3,12 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ClinicMind | 臨床心理諮商 - 在傷痛與關係裡，找回安放身心的空間</title>
-    <meta name="description" content="澳門臨床心理諮商，專注創傷心理、非物質成癮與親密關係。以情緒取向治療（EFT）、人際心理治療（IPT）、沙遊與遊戲治療，陪您慢慢理解自己。採預約制，可面談或線上諮商，可使用粵語、國語、英語。">
-    <meta property="og:title" content="ClinicMind 臨床心理諮商｜在傷痛與關係裡，找回安放身心的空間">
+    <title>臨床心語 ClinicMind｜澳門心理治療與諮商：創傷、成癮、伴侶關係</title>
+    <meta name="description" content="臨床心語是澳門的衛生局註冊心理治療師，專注心理創傷、非物質成癮（賭博、打機、購物）與伴侶關係。提供個別、伴侶、家庭及 6 歲以上兒童諮商，可面談或線上，粵語、國語、英語皆可。">
+    <meta property="og:title" content="臨床心語 ClinicMind｜在傷痛與關係裡，找回安放身心的空間">
     <meta property="og:description" content="專注創傷心理、非物質成癮與親密關係的臨床心理諮商。澳門，採預約制。">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="zh_TW">
+    <meta property="og:url" content="https://clinicmind.github.io/">
+    <meta property="og:site_name" content="臨床心語 ClinicMind">
+    <meta property="og:image" content="https://clinicmind.github.io/assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="臨床心語 ClinicMind：在傷痛與關係裡，找回安放身心的空間">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="theme-color" content="#6B8E88">
     <style>
         /* --- 基礎設定 & 色票 (Morandi Tone) --- */
         :root {
@@ -121,8 +129,7 @@
         
         .intro blockquote {
             font-size: 1.2rem;
-            font-style: italic;
-            color: var(--primary-color);
+            color: var(--primary-text);
             border-left: 3px solid var(--accent-color);
             padding-left: 1rem;
             display: inline-block;
@@ -238,7 +245,7 @@
 
         .article-tag {
             background: var(--secondary-color);
-            color: var(--primary-color);
+            color: var(--primary-text);
             padding: 0.2rem 0.8rem;
             border-radius: 20px;
             font-size: 0.8rem;
@@ -281,7 +288,7 @@
         #bf-submit { border: none; cursor: pointer; justify-self: start; font: inherit; font-weight: bold; }
         #bf-submit:disabled { opacity: 0.6; cursor: default; }
         .form-status { font-size: 0.95rem; min-height: 1.5em; }
-        .form-status.ok { color: var(--primary-color); font-weight: bold; }
+        .form-status.ok { color: var(--primary-text); font-weight: bold; }
         .form-status.err { color: #A63737; }
 
         /* --- 頁尾與免責聲明 (Footer) --- */
@@ -364,17 +371,182 @@
     <link rel="canonical" href="https://clinicmind.github.io/">
     <script type="application/ld+json">
     {
-        "@context": "https://schema.org",
-        "@type": "MedicalBusiness",
-        "name": "ClinicMind 臨床心理諮商",
-        "url": "https://clinicmind.github.io/",
-        "description": "澳門臨床心理諮商，專注創傷心理、非物質成癮與親密關係。提供個別、伴侶與家庭諮商，兒童可使用沙遊與遊戲治療。",
-        "medicalSpecialty": "Psychiatric",
-        "areaServed": [{"@type": "City", "name": "Macau"}],
-        "availableLanguage": ["yue", "cmn", "en"],
-        "email": "clinicmind.inquire@gmail.com",
-        "sameAs": ["https://www.instagram.com/clinicmind/", "https://www.threads.net/@clinicmind", "https://www.facebook.com/profile.php?id=100094163005058"],
-        "knowsAbout": ["心理創傷", "非物質成癮", "親密關係", "情緒取向治療", "人際心理治療", "沙遊治療", "遊戲治療"]
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://clinicmind.github.io/#website",
+          "url": "https://clinicmind.github.io/",
+          "name": "臨床心語 ClinicMind",
+          "inLanguage": "zh-Hant",
+          "publisher": {
+            "@id": "https://clinicmind.github.io/#practice"
+          }
+        },
+        {
+          "@type": "MedicalBusiness",
+          "@id": "https://clinicmind.github.io/#practice",
+          "name": "臨床心語 ClinicMind",
+          "alternateName": [
+            "臨床心語",
+            "ClinicMind"
+          ],
+          "url": "https://clinicmind.github.io/",
+          "logo": "https://clinicmind.github.io/assets/favicon.svg",
+          "image": "https://clinicmind.github.io/assets/og-image.png",
+          "description": "澳門的心理治療與諮商服務，由臨床心理學碩士及衛生局註冊心理治療師臨床心語提供，專注心理創傷、非物質成癮與親密關係，可面談或線上諮商。",
+          "areaServed": [
+            {
+              "@type": "City",
+              "name": "澳門"
+            },
+            {
+              "@type": "Place",
+              "name": "線上（台灣、香港及其他地區）"
+            }
+          ],
+          "availableLanguage": [
+            "yue",
+            "cmn",
+            "en"
+          ],
+          "email": "clinicmind.inquire@gmail.com",
+          "sameAs": [
+            "https://www.instagram.com/clinicmind/",
+            "https://www.threads.net/@clinicmind",
+            "https://www.facebook.com/profile.php?id=100094163005058"
+          ],
+          "founder": {
+            "@id": "https://clinicmind.github.io/#person"
+          },
+          "knowsAbout": [
+            "心理創傷",
+            "非物質成癮",
+            "親密關係",
+            "情緒取向治療",
+            "人際心理治療",
+            "沙遊治療",
+            "遊戲治療"
+          ],
+          "makesOffer": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "個別心理諮商",
+                "provider": {
+                  "@id": "https://clinicmind.github.io/#practice"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "伴侶諮商",
+                "provider": {
+                  "@id": "https://clinicmind.github.io/#practice"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "家庭治療",
+                "provider": {
+                  "@id": "https://clinicmind.github.io/#practice"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "兒童沙遊與遊戲治療（6 歲或以上）",
+                "provider": {
+                  "@id": "https://clinicmind.github.io/#practice"
+                }
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "線上視訊諮商",
+                "provider": {
+                  "@id": "https://clinicmind.github.io/#practice"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://clinicmind.github.io/#person",
+          "name": "臨床心語",
+          "alternateName": "ClinicMind",
+          "jobTitle": "心理治療師",
+          "description": "臨床心理學碩士及衛生局註冊心理治療師，在澳門執業，專注心理創傷、非物質成癮與親密關係。",
+          "url": "https://clinicmind.github.io/about.html",
+          "email": "clinicmind.inquire@gmail.com",
+          "worksFor": {
+            "@id": "https://clinicmind.github.io/#practice"
+          },
+          "sameAs": [
+            "https://www.instagram.com/clinicmind/",
+            "https://www.threads.net/@clinicmind",
+            "https://www.facebook.com/profile.php?id=100094163005058"
+          ],
+          "knowsLanguage": [
+            "yue",
+            "cmn",
+            "en"
+          ],
+          "hasCredential": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "degree",
+              "name": "臨床心理學碩士"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "license",
+              "name": "衛生局註冊心理治療師",
+              "recognizedBy": {
+                "@type": "GovernmentOrganization",
+                "name": "澳門特別行政區政府衛生局"
+              }
+            }
+          ],
+          "knowsAbout": [
+            "心理創傷",
+            "創傷後壓力症",
+            "非物質成癮",
+            "賭博成癮",
+            "網路與遊戲成癮",
+            "親密關係",
+            "伴侶諮商",
+            "情緒取向治療",
+            "人際心理治療",
+            "沙遊治療",
+            "遊戲治療"
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://clinicmind.github.io/#webpage",
+          "url": "https://clinicmind.github.io/",
+          "name": "臨床心語 ClinicMind｜澳門心理治療與諮商：創傷、成癮、伴侶關係",
+          "isPartOf": {
+            "@id": "https://clinicmind.github.io/#website"
+          },
+          "about": {
+            "@id": "https://clinicmind.github.io/#practice"
+          },
+          "inLanguage": "zh-Hant"
+        }
+      ]
     }
     </script>
 </head>
@@ -399,9 +571,9 @@
 
     <main id="main">
     <section class="hero">
-        <p class="hero-eyebrow">臨床心理學碩士及衛生局註冊心理治療師｜創傷・非物質成癮・親密關係</p>
-        <h1>在傷痛與關係裡，找回安放身心的空間</h1>
-        <p>專注創傷、非物質成癮與親密關係。在安全、不被評價的空間裡，陪您慢慢理解自己，找到新的選擇。</p>
+        <p class="hero-eyebrow"><span class="nb">臨床心理學碩士及衛生局註冊心理治療師｜</span><span class="nb">創傷・非物質成癮・親密關係</span></p>
+        <h1><span class="nb">在傷痛與關係裡，</span><span class="nb">找回安放身心的空間</span></h1>
+        <p>專注創傷、非物質成癮與親密關係，在澳門面談或線上諮商都可以。在一個安全、不被評價的空間裡，陪您慢慢理解自己，找到新的選擇。</p>
         <div class="hero-actions">
             <a href="#booking" class="cta-button">預約諮詢</a>
             <a href="resources.html" class="cta-secondary">先看看自助資源</a>
@@ -442,10 +614,9 @@
             </blockquote>
         </div>
         <div class="about-text">
-            <h2>我是臨床心語，一位臨床心理師</h2>
+            <h2>我是臨床心語，一位心理治療師</h2>
             <p>在治療室裡，我陪伴過許多被過去經驗困住的人：童年留下的傷、關係裡一再重複的衝突、明知道傷身卻停不下來的習慣。他們常問我：「是不是我哪裡有問題？」</p>
-            <br>
-            <p>我相信，這些困擾背後，常常是一個人曾經為了保護自己而發展出來的方式。我的工作是陪您一起看見它，理解它從哪裡來，再慢慢找到更適合現在的您的方式。我主要使用情緒取向治療（EFT）與人際心理治療（IPT），和孩子工作時，也會使用沙遊與遊戲治療。</p>
+            <p style="margin-top: 0.9rem;">我相信，這些困擾背後，常常是一個人曾經為了保護自己而發展出來的方式。我的工作是陪您一起看見它，理解它從哪裡來，再慢慢找到更適合現在的您的方式。我主要使用情緒取向治療（EFT）與人際心理治療（IPT），和孩子工作時，也會使用沙遊與遊戲治療。</p>
             <ul class="beliefs">
                 <li>行為背後，常常有保護自己的理由。</li>
                 <li>改變是在安全的關係裡慢慢發生的。</li>
@@ -541,7 +712,7 @@
     <section id="booking" class="booking">
         <div class="booking-inner">
             <h2>預約與聯絡</h2>
-            <p class="booking-lead">留下稱呼和電話，我會親自以電話與您聯絡，一起看看怎麼安排比較合適。也可以來信 <a href="mailto:clinicmind.inquire@gmail.com">clinicmind.inquire@gmail.com</a>，或在 Instagram／Threads 私訊 @clinicmind。諮商與合作邀約都歡迎。</p>
+            <p class="booking-lead">留下稱呼和電話，我會親自以電話與您聯絡，一起看看怎麼安排比較合適。也可以直接來信 <a href="mailto:clinicmind.inquire@gmail.com">clinicmind.inquire@gmail.com</a>，或在 Instagram／Threads 私訊 @clinicmind。諮商與合作邀約都歡迎。</p>
 
             <form id="booking-form" novalidate>
                 <div class="field">
@@ -592,7 +763,7 @@
                     <summary>個人資料收集聲明（第 8/2005 號法律《個人資料保護法》）</summary>
                     <ol>
                         <li>您填寫的稱呼、電話、聯絡時段、語言與說明，只用於回覆您這次的預約或合作查詢。</li>
-                        <li>資料儲存在 Google 提供的雲端服務，伺服器可能位於澳門以外的地方。</li>
+                        <li>資料會寄到並儲存在 Google 提供的雲端服務（Gmail），伺服器可能位於澳門以外的地方。</li>
                         <li>除為履行法定義務或經您同意外，資料不會轉交其他機構或實體。</li>
                         <li>查詢處理完畢後，資料會在 6 個月內刪除。</li>
                         <li>您有權依法申請查閱、更正、刪除或封存您的個人資料，請來信 <a href="mailto:clinicmind.inquire@gmail.com">clinicmind.inquire@gmail.com</a>。</li>
@@ -604,7 +775,7 @@
                     <label for="bf-consent">我已閱讀並同意上述個人資料收集聲明</label>
                 </div>
 
-                <p class="form-note">這個表單不處理緊急狀況。若有立即危險，請撥打頁尾的緊急電話。</p>
+                <p class="form-note">按「送出」後，會開啟您的電子郵件程式，並帶入剛才填好的內容，再按寄出就完成了。這個表單不處理緊急狀況，若有立即危險，請撥打頁尾的緊急電話。</p>
                 <button type="submit" class="cta-button" id="bf-submit">送出</button>
                 <p class="form-status" id="bf-status" role="status" aria-live="polite"></p>
             </form>
@@ -616,7 +787,7 @@
     <footer id="contact">
         <div class="footer-content">
             <div>
-                <h3>ClinicMind</h3>
+                <h3>臨床心語 ClinicMind</h3>
                 <p>在接納中，讓療癒悄然展開。</p>
             </div>
             <div>
@@ -649,11 +820,12 @@
             本網站與諮商服務不提供緊急救援。<br>
             若您或身邊的人有立即危險或自傷念頭，請撥打緊急電話或前往最近的急診室：<br>
             澳門：緊急求助 999｜社會工作局輔導熱線 2826 1126（24 小時）｜明愛生命熱線 2852 5222（24 小時）<br>
-            台灣：緊急求助 119｜安心專線 1925（24 小時）｜生命線 1995
+            台灣：緊急求助 119｜安心專線 1925（24 小時）｜生命線 1995<br>
+            香港：緊急求助 999｜撒瑪利亞防止自殺會 2389 2222（24 小時）
         </div>
 
         <div style="text-align: center; margin-top: 2rem; border-top: 1px solid #555; padding-top: 1rem;">
-            &copy; 2026 ClinicMind. All Rights Reserved.
+            &copy; 2026 臨床心語 ClinicMind. All Rights Reserved.
         </div>
     </footer>
 
@@ -671,7 +843,22 @@
             if (!name || !phone) { say("請填寫稱呼和聯絡電話。", "err"); return; }
             if (!/^[+\d][\d\s-]{6,}$/.test(phone)) { say("電話格式看起來不太對，請再確認一次。", "err"); return; }
             if (!form.consent.checked) { say("請先閱讀並勾選同意個人資料收集聲明。", "err"); return; }
-            if (!FORM_ENDPOINT) { say("線上留言暫時還沒開放，請先來信 clinicmind.inquire@gmail.com。", "err"); return; }
+            if (!FORM_ENDPOINT) {
+                // 還沒有設定表單後台時，改用電子郵件寄出：開啟訪客自己的郵件程式，內容已填好
+                const body = [
+                    "稱呼：" + name,
+                    "電話：" + phone,
+                    "方便接電話的時段：" + form.time.value,
+                    "想使用的語言：" + form.lang.value,
+                    "想聯絡的事情：" + form.type.value,
+                    "簡短說明：" + (form.note.value.trim() || "（未填）"),
+                    "",
+                    "我已閱讀並同意網站上的個人資料收集聲明。"
+                ].join("\n");
+                window.location.href = "mailto:clinicmind.inquire@gmail.com?subject=" + encodeURIComponent("網站聯絡：" + form.type.value) + "&body=" + encodeURIComponent(body);
+                say("已為您開啟電子郵件，內容都填好了，按寄出就完成。如果沒有跳出郵件程式，請直接來信 clinicmind.inquire@gmail.com。", "ok");
+                return;
+            }
             btn.disabled = true; say("送出中…");
             try {
                 await fetch(FORM_ENDPOINT, { method: "POST", mode: "no-cors", body: new URLSearchParams(new FormData(form)) });
