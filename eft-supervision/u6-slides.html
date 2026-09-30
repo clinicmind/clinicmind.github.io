@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>單元6 資訊圖 | ClinicMind 臨床心理諮商</title>
+    <meta name="description" content="EFT 督導學習系列單元6資訊圖：證據基礎與未來方向。">
+    <meta property="og:locale" content="zh_TW">
+    <link rel="stylesheet" href="../assets/pages.css">
+    <link rel="stylesheet" href="../assets/eft-supervision.css">
+    <style>
+.deck{
+  --bg:#f7f4ee; --card:#ffffff; --ink:#23282d; --ink2:#4b525a; --muted:#7a8088;
+  --blue:#34506b; --blue2:#5b7a96; --blue-l:#e6edf3;
+  --sage:#5f7d68; --sage-l:#e7efe8;
+  --warm:#ece4d6; --line:#d8d0c2;
+  --accent:#a5673f; --accent-l:#f6ebe2;
+}
+.deck *{box-sizing:border-box}
+.deck{font-family:"PingFang TC","Heiti TC","Microsoft JhengHei","Noto Sans TC",sans-serif; color:var(--ink); -webkit-print-color-adjust:exact; print-color-adjust:exact}
+.deck .slide{width:1080px; height:1080px; position:relative; overflow:hidden; padding:72px 76px 110px; break-after:page; background:var(--bg); display:flex; flex-direction:column}
+.deck .slide:last-child{break-after:auto}
+.deck .top{display:flex; justify-content:space-between; align-items:center; margin-bottom:18px}
+.deck .kicker{font-size:24px; letter-spacing:.12em; color:var(--sage); font-weight:bold}
+.deck .block{font-size:21px; color:var(--blue2); border:2px solid var(--blue2); border-radius:30px; padding:4px 18px}
+.deck h1{font-size:60px; line-height:1.25; margin:0 0 14px; color:var(--blue)}
+.deck h2{font-size:40px; line-height:1.3; margin:18px 0 10px; color:var(--blue)}
+.deck .lead{font-size:35px; line-height:1.55; color:var(--ink2); margin:0 0 20px}
+.deck p,.deck li,.deck td,.deck th{font-size:33px; line-height:1.52}
+.deck p{margin:6px 0}
+.deck ul,.deck ol{margin:6px 0 10px; padding-left:40px}
+.deck li{margin:6px 0}
+.deck b,.deck strong{color:var(--blue)}
+.deck .small{font-size:26px; color:var(--muted); line-height:1.45}
+.deck .grid2{display:grid; grid-template-columns:1fr 1fr; gap:22px}
+.deck .grid3{display:grid; grid-template-columns:1fr 1fr 1fr; gap:18px}
+.deck .grid2x3{display:grid; grid-template-columns:1fr 1fr; gap:18px}
+.deck .card{background:var(--card); border:2px solid var(--line); border-radius:22px; padding:22px 26px}
+.deck .card h3{font-size:35px; margin:0 0 8px; color:var(--blue)}
+.deck .card p,.deck .card li{font-size:30px; line-height:1.48}
+.deck .card.blue{background:var(--blue-l); border-color:#c9d6e2}
+.deck .card.sage{background:var(--sage-l); border-color:#c8d8cb}
+.deck .card.warm{background:var(--warm); border-color:#dccfb9}
+.deck .num{display:inline-block; min-width:48px; height:48px; border-radius:24px; background:var(--blue); color:#fff; font-size:27px; text-align:center; line-height:48px; margin-right:12px; padding:0 8px}
+.deck .callout{border-radius:18px; padding:18px 24px 18px 26px; margin-top:16px; border-left:10px solid}
+.deck .callout .t{font-size:26px; font-weight:bold; letter-spacing:.08em; margin-bottom:4px; display:block}
+.deck .callout p{font-size:30px; line-height:1.48}
+.deck .warn{background:var(--accent-l); border-color:var(--accent)}
+.deck .warn .t{color:var(--accent)}
+.deck .ask{background:var(--sage-l); border-color:var(--sage)}
+.deck .ask .t{color:var(--sage)}
+.deck .note{background:var(--blue-l); border-color:var(--blue2)}
+.deck .note .t{color:var(--blue)}
+.deck table{border-collapse:collapse; width:100%; background:var(--card); border-radius:16px; overflow:hidden}
+.deck th{background:var(--blue); color:#fff; font-size:28px; text-align:left; padding:12px 16px}
+.deck td{font-size:28px; line-height:1.45; padding:12px 16px; border-bottom:2px solid var(--line); vertical-align:top}
+.deck td b{color:var(--blue)}
+.deck .quote{font-size:44px; line-height:1.5; color:var(--blue); border-left:12px solid var(--sage); padding:10px 0 10px 34px; margin:14px 0 24px}
+.deck .en{font-size:26px; color:var(--muted); font-style:italic; line-height:1.45}
+.deck .foot{position:absolute; left:76px; right:76px; bottom:38px; display:flex; justify-content:space-between; font-size:21px; color:var(--muted); border-top:2px solid var(--line); padding-top:14px}
+.deck .foot .pg{color:var(--blue); font-weight:bold}
+.deck .cover{background:var(--blue); color:#fff}
+.deck .cover h1{color:#fff; font-size:72px; margin-top:60px}
+.deck .cover .lead{color:#dfe7ef; font-size:36px}
+.deck .cover .kicker{color:#c9dccd}
+.deck .cover .foot{color:#c7d3de; border-color:#5b7a96}
+.deck .cover .foot .pg{color:#fff}
+.deck .big{font-size:48px; line-height:1.4; color:var(--blue)}
+.deck .tag{display:inline-block; font-size:22px; border-radius:8px; padding:2px 12px; background:var(--warm); color:var(--ink2); margin-right:8px}
+.deck .flow{display:flex; align-items:center; gap:12px; flex-wrap:wrap}
+.deck .flow .step{background:var(--card); border:2px solid var(--blue2); border-radius:16px; padding:12px 18px; font-size:29px}
+.deck .flow .arr{font-size:32px; color:var(--blue2)}
+.deck .fill{flex:1}
+.deck svg text{font-family:"PingFang TC","Heiti TC","Microsoft JhengHei","Noto Sans TC",sans-serif}
+.deck .card{box-shadow:none}.deck th{white-space:normal}.deck .callout{margin-bottom:0}
+    </style>
+</head>
+<body>
+
+    <header>
+        <a class="logo" href="../index.html">ClinicMind</a>
+        <nav aria-label="主要導覽">
+            <ul>
+                <li><a href="../eft.html">認識 EFT</a></li>
+                <li><a href="index.html">EFT 督導學習系列</a></li>
+                <li><a href="../trauma.html">認識創傷</a></li>
+                <li><a href="../resources.html">自助資源</a></li>
+                <li><a href="../index.html#booking" class="btn-reserve">預約諮詢</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="deck-page">
+        <div class="inner">
+        <p class="crumb"><a href="index.html">EFT 督導學習系列</a> ／ 單元6 資訊圖</p>
+        <h1 class="deck-title">單元6｜證據基礎與未來方向</h1>
+        <div class="unit-tools">
+            <a class="dl primary" href="u6.html">看文字版</a> <a class="dl" href="pdf/單元6_學術內容.pdf" download>學術內容 PDF</a> <a class="dl" href="pdf/單元6_資訊圖_完整版_1080.pdf" download>資訊圖 PDF</a>
+        </div>
+        </div>
+        <div class="deck">
+<section class="slide cover">
+  <div class="top"><span class="kicker">臨床心語｜EFT 督導教學系列</span><span class="block" style="color:#fff;border-color:#c9d6e2">單元 6</span></div>
+  <h1>我們知道要教什麼，<br>但還不太知道<br>怎麼教最好</h1>
+  <p class="lead">證據基礎與未來方向</p>
+  <div class="fill"></div>
+  <p class="small" style="color:#c7d3de">依據 Greenberg, L. S., &amp; Tomescu, L. R. (2017). <i>Supervision Essentials for Emotion-Focused Therapy</i>. APA.（第6章 pp. 141–145；第7章 pp. 147–149）<br>碩士層級臨床心理學教材</p>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">開場</span><span class="block">學習目標</span></div>
+  <h1>讀完這份資訊圖，你能夠……</h1>
+  <ol>
+    <li>區分各項主張的<b>證據類型</b>並評估強度</li>
+    <li>說明<b>共同因素＋特定因素</b>如何構成 EFT 督導</li>
+    <li>用<b>四種訓練方法</b>設計自己的學習計畫</li>
+    <li>針對<b>受督者學習歷程</b>提出研究問題</li>
+    <li>評論「錄影回饋最好」的證據，並考量錄影的倫理</li>
+  </ol>
+  <div class="callout note"><span class="t">本單元的角色</span><p>全書的<b>批判性評估</b>單元。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 6 章</span><span class="block">兩條研究路線</span></div>
+  <h1>什麼證據支持這個模式？</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>① 關係的重要性</h3><p>同盟、核心條件、揭露</p></div>
+    <div class="card sage"><h3>② 特定的改變歷程</h3><p>標記引導的任務、情緒深化</p></div>
+  </div>
+  <div class="callout warn"><span class="t">作者坦承</span><p>直接研究 <b>EFT 督導本身</b>的研究只有<b>少量</b>；有些訓練研究；與督導相關的一般心理治療研究則多得多。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">直接研究</span><span class="block">Palmer-Olsen（2007）</span></div>
+  <h1>唯一直接研究 EFT 督導的研究</h1>
+  <table>
+    <tr><th style="width:26%">項目</th><th>內容</th></tr>
+    <tr><td><b>方法</b></td><td>以現象學為基礎的系統性質性研究；訪談、討論、參與觀察</td></tr>
+    <tr><td><b>對象</b></td><td><b>伴侶 EFT</b> 治療師，<b>17 人</b></td></tr>
+    <tr><td><b>主題</b></td><td>他們對 EFT 訓練與督導的經驗</td></tr>
+  </table>
+  <div class="callout note"><span class="t">作者的前提</span><p>伴侶 EFT 與個人 EFT 建立在<b>相同的情緒原則</b>上（伴侶 EFT 由 Greenberg &amp; Johnson, 1988 發展，後為依附本位，Johnson, 2004）。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">直接研究</span><span class="block">六項發現</span></div>
+  <h1>好的 EFT 督導與訓練……</h1>
+  <div class="grid2" style="gap:12px">
+    <div class="card"><p><b>(a)</b> 需要強的<b>督導同盟</b></p></div>
+    <div class="card"><p><b>(b)</b> 納入「<b>治療師自我</b>」議題時效果最好</p></div>
+    <div class="card"><p><b>(c)</b> 能取得 <b>EFT 書面資料</b></p></div>
+    <div class="card"><p><b>(d)</b> <b>示範與練習</b>概念與介入</p></div>
+    <div class="card"><p><b>(e)</b> 透過現場與<b>錄影、錄音</b>觀察臨床工作</p></div>
+    <div class="card"><p><b>(f)</b> <b>目標設定</b>，以及非正式與評量性的元素</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">直接研究</span><span class="block">證據評估</span></div>
+  <h1>這篇研究能說明什麼？</h1>
+  <div class="card sage"><h3>能支持</h3><p>哪些督導與訓練元素，被受訓者<b>經驗為有幫助</b>；適合<b>產生假設</b>。</p></div>
+  <div class="card warm" style="margin-top:14px"><h3>不能支持</h3><p>督導的<b>效果</b>；對<b>個人 EFT</b> 的類推（需要接受作者的前提）。</p></div>
+  <div class="callout note"><span class="t">原書未說明（延伸）</span><p>分析方法細節，以及是否經同儕審查。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">相關督導研究</span><span class="block">Ladany 等（2005, 2016）</span></div>
+  <h1>事件本位督導模式</h1>
+  <p>以任務分析取向分析督導逐字稿，顯示常被忽略的困境，都是<b>可以辨識、共同探索並克服</b>的督導事件：</p>
+  <div class="grid3" style="gap:12px;margin-top:10px">
+    <div class="card"><p>角色模糊</p></div>
+    <div class="card"><p>文化與性別的誤解</p></div>
+    <div class="card"><p>問題性的態度與行為</p></div>
+    <div class="card"><p>技能不足</p></div>
+    <div class="card"><p>反移情</p></div>
+    <div class="card"><p>對個案的性吸引</p></div>
+  </div>
+  <div class="callout note"><span class="t">意義</span><p>問題可以變成<b>成長的機會</b>；修復督導困難，也<b>示範</b>了如何處理與個案的互動（Bertsch et al., 2014）。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">相關督導研究</span><span class="block">Watkins 等（2015）</span></div>
+  <h1>共同因素與特定因素的匯合</h1>
+  <p class="small">以 Wampold &amp; Budge（2012）的心理治療關係模式為基礎</p>
+  <div class="flow" style="margin:10px 0"><span class="step">同盟連結</span><span class="step">真實關係</span><span class="step">框架與期待</span><span class="step">任務與目標共識</span><span class="step">教育性行動</span></div>
+  <div class="card sage"><h3>帶來</h3><p>受督者的<b>焦慮、羞愧與自我懷疑降低</b>；治療師<b>認同與技能</b>的發展</p></div>
+  <div class="callout note"><span class="t">EFT 的定位</span><p>EFT 督導可放進這個框架；讓它成為 EFT 督導的，是<b>特定的任務</b>與<b>一貫的情緒焦點</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">一般督導研究</span><span class="block">支持關係成分</span></div>
+  <h1>支持模式「成分」的研究</h1>
+  <table>
+    <tr><th style="width:38%">研究</th><th>原書摘述的發現</th></tr>
+    <tr><td><b>Neufeldt 等（1997）</b></td><td>督導者展現核心條件，可能提升受督者對個案的行為</td></tr>
+    <tr><td><b>Ladany（2002）</b>等</td><td>督導工作同盟預測督導的歷程與結果</td></tr>
+    <tr><td><b>Falender &amp; Shafranske（2004）</b></td><td>信任與尊重、敏感於發展需求、鼓勵自主</td></tr>
+    <tr><td><b>Ladany &amp; Walker（2003）</b></td><td>適當的督導者揭露，強化情感連結</td></tr>
+  </table>
+  <p class="small" style="margin-top:10px">原書未提供這些研究的樣本與設計細節。</p>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">訓練研究</span><span class="block">四種方法</span></div>
+  <h1>經驗性治療的四種訓練方法</h1>
+  <p class="small">Greenberg &amp; Goldman（1988）：<b>結合</b>多種方法時最有效</p>
+  <div class="grid2">
+    <div class="card blue"><h3>概念學習</h3><p>理論與研究</p></div>
+    <div class="card sage"><h3>行為技能訓練</h3><p>示範與練習</p></div>
+    <div class="card warm"><h3>經驗性學習</h3><p>親身經驗情緒歷程</p></div>
+    <div class="card"><h3>個人治療</h3><p>處理自己的議題</p></div>
+  </div>
+  <div class="callout note"><span class="t">重點</span><p>訓練中的<b>經驗性成分</b>非常重要。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">訓練研究</span><span class="block">Montagno 等（2011）</span></div>
+  <h1>伴侶 EFT 外訓之後</h1>
+  <div class="card sage"><h3>參與者（多為有執照的臨床工作者）</h3><p>EFT <b>知識與能力提升</b>；對自己的感受<b>更開放</b>；<b>更自我慈悲</b>；<b>較少</b>迴避型依附行為；自述與伴侶的關係出現轉變</p></div>
+  <div class="callout warn"><span class="t">證據評估（延伸）</span><p>原書未說明設計與測量方式；關係轉變屬自述。前後測研究無法排除<b>期待效應、自我選擇</b>等解釋。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">訓練研究</span><span class="block">兩種技能</span></div>
+  <h1>技巧可以教，<br>同理關係需要時間</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>專注、摘要感受</h3><p>可透過簡短的<b>微諮商訓練</b>等教學習得（參照 Ivey, 1971）</p></div>
+    <div class="card sage"><h3>創造並維持同理關係</h3><p>不同類型的技能，較多以<b>經驗性</b>方式學習；要聽見更細微的感受與複雜意義，需要<b>更多時間與個人發展</b>（Pagell 等, 1967）</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">訓練研究</span><span class="block">雙椅訓練方案</span></div>
+  <h1>教雙椅：有效的訓練方案</h1>
+  <p class="small">Greenberg &amp; Kahn（1976）設計；Greenberg &amp; Sarkissian（1984）研究</p>
+  <div class="card blue"><h3>方案的理由</h3><p>對個人議題的<b>覺察</b>，促進治療敏感度與對改變的第一手認識；由自我覺察學習技能，學得更好。</p></div>
+  <div class="card sage" style="margin-top:12px"><h3>訓練後，治療師……</h3><p>更常以適當的<b>雙椅介入</b>回應衝突陳述；提供更多<b>直接引導</b>；更注意<b>非語言指涉</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">治療研究</span><span class="block">結果與歷程</span></div>
+  <h1>EFT 治療的證據</h1>
+  <div class="card blue"><h3>隨機對照試驗</h3><p>對個人與伴侶的<b>憂鬱、複雜創傷、婚姻困擾</b>有效（Elliott 等, 2004；Johnson 等, 1999）</p></div>
+  <div class="card sage" style="margin-top:12px"><h3>歷程研究</h3><p>晤談中的<b>情緒活化與結果</b>一貫有關聯（Greenberg, 2010）；標記引導任務的研究</p></div>
+  <div class="callout warn"><span class="t">對督導的意義</span><p>告訴督導者<b>要教什麼</b>；但仍需研究<b>怎麼督導</b>才能最好地促進技能習得。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 6 章</span><span class="block">結論</span></div>
+  <h1>兩種信心，兩種來源</h1>
+  <div class="card blue"><h3>關係</h3><p>與受督者發展良好關係，並督導他們與個案建立良好關係：受到<b>一般督導研究</b>支持</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>情緒與任務</h3><p>促進個案的<b>情緒深化</b>，並投入<b>標記引導的介入</b>：是<b>實證本位的歷程</b>，可以有信心地教</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">整合</span><span class="block">證據地圖 1／2</span></div>
+  <h1>六種證據，能說明的不同</h1>
+  <table>
+    <tr><th style="width:36%">證據類型</th><th>能支持</th></tr>
+    <tr><td><b>① 直接 EFT 督導研究</b></td><td>被經驗為有幫助的元素</td></tr>
+    <tr><td><b>② 一般督導研究</b></td><td>關係成分的價值</td></tr>
+    <tr><td><b>③ 督導模式與理論</b></td><td>理論定位</td></tr>
+    <tr><td><b>④ EFT 訓練研究</b></td><td>訓練方案能改變行為</td></tr>
+    <tr><td><b>⑤ EFT 治療研究</b></td><td><b>要教什麼</b></td></tr>
+    <tr><td><b>⑥ 作者經驗與主張</b></td><td>臨床假設</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">整合</span><span class="block">證據地圖 2／2</span></div>
+  <h1>各自不能支持什麼？</h1>
+  <table>
+    <tr><th style="width:36%">證據類型</th><th>不能支持</th></tr>
+    <tr><td><b>① 直接研究</b></td><td>督導效果；個人 EFT 類推</td></tr>
+    <tr><td><b>② 一般督導研究</b></td><td>EFT 特定技術的效果</td></tr>
+    <tr><td><b>③ 模式與理論</b></td><td>效果本身</td></tr>
+    <tr><td><b>④ 訓練研究</b></td><td>督導（非訓練）的效果；長期效果</td></tr>
+    <tr><td><b>⑤ 治療研究</b></td><td><b>怎麼督導</b>最有效</td></tr>
+    <tr><td><b>⑥ 作者主張</b></td><td>需要研究檢驗</td></tr>
+  </table>
+  <p class="small" style="margin-top:10px">本頁為本教材依原書內容整理。</p>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">本質</span></div>
+  <h1>共同因素 ＋ 特定因素</h1>
+  <div class="card blue"><h3>關係：可信賴的核心</h3><p>透過督導<b>特定的技術面向</b>而大為增強</p></div>
+  <h2>EFT 的兩大焦點</h2>
+  <div class="grid2">
+    <div class="card sage"><h3>(a) 同理的關係方式</h3></div>
+    <div class="card warm"><h3>(b) 情緒</h3></div>
+  </div>
+  <div class="callout note"><span class="t">督導與治療平行</span><p>促進受督者<b>作為人的成長</b>，以及<b>治療師的認同與技能</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">科技</span></div>
+  <h1>錄影：心理治療的顯微鏡</h1>
+  <p>Carl Rogers 在 <b>1940 年代</b>首先錄下治療晤談，開啟了治療<b>接受檢視</b>的歷程。</p>
+  <div class="card sage" style="margin-top:12px"><p>作者<b>幾乎無法想像</b>不用實際晤談錄影來做 EFT 督導；所有訓練方案都會把錄影當作<b>必要條件</b>。</p></div>
+  <div class="card" style="margin-top:12px"><h3>其他科技</h3><p>先進視聽輔助、虛擬實境模擬器、即時通訊、行動應用程式</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">批判評估</span></div>
+  <h1>「錄影回饋比講授、反思、<br>示範更能促進學習」？</h1>
+  <div class="card warm"><h3>證據性質</h3><p>這是一個<b>比較性的因果主張</b>，原書在此<b>沒有附引用</b>。</p></div>
+  <div class="card blue" style="margin-top:12px"><h3>間接支持</h3><p>Greenberg &amp; Sarkissian（1984）：<b>結合多種方法</b>的方案有效；Palmer-Olsen（2007）：觀察臨床工作是好督導的元素</p></div>
+  <div class="callout note"><span class="t">結論（延伸）</span><p>有理由使用錄影，但「優於其他方法」<b>需要研究檢驗</b>；結合示範與練習可能才是有效成分。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">錄影的倫理</span></div>
+  <h1>使用錄影前，先確認這些</h1>
+  <p class="small">從臨床實務角度（台灣實習場域）</p>
+  <div class="grid2" style="gap:12px">
+    <div class="card"><p><b>書面知情同意</b>：用途、觀看者</p></div>
+    <div class="card"><p><b>保存</b>：加密、期限、銷毀方式</p></div>
+    <div class="card"><p>個案可<b>隨時撤回</b>同意</p></div>
+    <div class="card"><p>拒絕錄影<b>不影響</b>接受服務</p></div>
+    <div class="card"><p>遵守<b>機構規範</b>與個資相關法規</p></div>
+    <div class="card"><p>教學使用須<b>去識別</b></p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">五個發展領域</span></div>
+  <h1>EFT 督導的五個發展領域</h1>
+  <div class="card"><p><span class="num">1</span><b>督導關係</b>：將持續是督導的基石</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">2</span><b>具體化</b>：更清楚地界定成分與能力</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">3</span><b>個人化</b>：配合受督者調整</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">4</span><b>個別差異</b>：同理天分、情緒能力、情境</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">5</span><b>處理情緒的能力</b></p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">關係的未來</span></div>
+  <h1>同理與同盟，將成為共同因素</h1>
+  <p>安全、可信任的關係連結，以及<b>有共識的目標與任務</b>，將引導督導；<b>同理與督導同盟</b>會被確立為心理治療督導中的共同因素。</p>
+  <div class="callout ask"><span class="t">未來研究的關鍵問題</span><p>受督者需要與督導者一起投入<b>哪些認知、情緒與行為歷程</b>，才能學會成為更好的治療師？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">最大的未知</span></div>
+  <h1>受督者怎麼學會的？</h1>
+  <svg viewBox="0 0 928 190" width="928" height="190">
+    <g font-size="27" text-anchor="middle">
+      <rect x="0" y="40" width="200" height="110" rx="18" fill="#e6edf3" stroke="#5b7a96" stroke-width="2"/><text x="100" y="104" fill="#34506b">標記</text>
+      <rect x="242" y="40" width="200" height="110" rx="18" fill="#e6edf3" stroke="#5b7a96" stroke-width="2"/><text x="342" y="104" fill="#34506b">任務環境</text>
+      <rect x="484" y="40" width="200" height="110" rx="18" fill="#f6ebe2" stroke="#a5673f" stroke-width="4" stroke-dasharray="10 6"/><text x="584" y="95" fill="#a5673f">受督者歷程</text><text x="584" y="130" fill="#a5673f" font-size="24">？？？</text>
+      <rect x="726" y="40" width="200" height="110" rx="18" fill="#e7efe8" stroke="#5f7d68" stroke-width="2"/><text x="826" y="104" fill="#34506b">解決</text>
+    </g>
+    <g fill="#5b7a96"><path d="M204 88 L236 95 L204 102z"/><path d="M446 88 L478 95 L446 102z"/><path d="M688 88 L720 95 L688 102z"/></g>
+  </svg>
+  <p>作者坦承：受督者的學習歷程，是這個序列中<b>最少被研究、最不清楚</b>的部分。</p>
+  <div class="callout note"><span class="t">方向</span><p>能力本位、實證本位、可問責。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">需要界定的能力</span></div>
+  <h1>接下來最需要發展的三件事</h1>
+  <div class="card blue"><p><span class="num">1</span>如何促進受督者<b>處理情緒</b>的工作</p></div>
+  <div class="card sage" style="margin-top:12px"><p><span class="num">2</span>如何協助他們<b>克服對處理情緒的恐懼</b></p></div>
+  <div class="card warm" style="margin-top:12px"><p><span class="num">3</span>更成熟的方法，來教授<b>對情感的同理調頻</b></p></div>
+  <div class="callout note"><span class="t">目標</span><p>界定能清楚反映 EFT 獨特風格的<b>督導能力</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">階段式督導</span></div>
+  <h1>從受督者所在之處開始</h1>
+  <p>對同理天分沒那麼高、情緒能力較弱的受督者，如何調整？要<b>在他目前所在之處與他相遇</b>，而不是期待他直接跳到我們希望的位置。</p>
+  <div class="flow" style="margin:16px 0"><span class="step">簡單的同理訓練</span><span class="arr">→</span><span class="step">……</span><span class="arr">→</span><span class="step">複雜的情緒焦點介入</span></div>
+  <div class="callout ask"><span class="t">還需要界定</span><p>督導<b>研究生與博士後學生</b>，和督導<b>職場專業人員</b>的差異。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">第 7 章</span><span class="block">研究方法</span></div>
+  <h1>研究督導的逐刻歷程</h1>
+  <p class="big">EFT 是藉由研究治療的逐刻歷程發展出來的；督導也需要同樣的研究。</p>
+  <div class="card sage" style="margin-top:14px"><p>量化與質性研究會越來越重要；本書的<b>任務分析框架</b>就是一種研究方法。</p></div>
+  <div class="callout note"><span class="t">作者的期許</span><p>本書是邁向<b>更有科學依據的督導證據基礎</b>的第一步。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">原文引述 1／3</span><span class="block">p. 148</span></div>
+  <h1>顯微鏡</h1>
+  <p class="quote">「治療晤談的影像與數位錄影，現在就像心理治療的顯微鏡。」</p>
+  <p class="en">“Video and digital recording of treatment sessions now are like the microscope of psychotherapy and are of enormous value in psychotherapy supervision.”</p>
+  <div class="grid2" style="margin-top:14px">
+    <div class="card"><h3>臨床意義</h3><p>細微的歷程變得可見、可暫停。</p></div>
+    <div class="card"><h3>教學重點</h3><p>重視錄影，也批判相關主張；遵守倫理。</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">原文引述 2／3</span><span class="block">p. 148</span></div>
+  <h1>最不清楚的環節</h1>
+  <p class="quote">「受督者的學習歷程……仍是這個序列中最少被研究、最不清楚的部分。」</p>
+  <p class="en">“…the supervisee’s learning process, which, at the moment, remains the most uninvestigated and unclear aspect of our marker, task environment, process, and resolution sequence.”</p>
+  <div class="grid2" style="margin-top:14px">
+    <div class="card"><h3>臨床意義</h3><p>對模式限制的誠實說明。</p></div>
+    <div class="card"><h3>教學重點</h3><p>自己的學習，就是可以觀察的資料。</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">原文引述 3／3</span><span class="block">p. 145</span></div>
+  <h1>可以有信心地教的</h1>
+  <p class="quote">「促進情緒深化，並投入標記引導的介入，是實證本位的歷程……」</p>
+  <p class="en">“…facilitating clients’ emotional deepening and engaging in specific marker-guided interventions are evidence-based processes that supervisors can feel confident should be taught in EFT supervision.”</p>
+  <div class="grid2" style="margin-top:14px">
+    <div class="card"><h3>臨床意義</h3><p>證據最強的是「要教什麼」。</p></div>
+    <div class="card"><h3>教學重點</h3><p>對照引述 2：「怎麼學」仍待研究。</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">常見誤解</span><span class="block">常見理解 → 更精確的理解</span></div>
+  <h1>六個常見誤解</h1>
+  <table>
+    <tr><th style="width:44%">常見理解</th><th>更精確的理解</th></tr>
+    <tr><td>EFT 實證 ＝ EFT 督導實證</td><td>督導效果的直接研究很少</td></tr>
+    <tr><td>情緒活化導致好結果</td><td>研究顯示的是<b>關聯</b></td></tr>
+    <tr><td>伴侶 EFT 研究可直接類推</td><td>需要說明前提</td></tr>
+    <tr><td>錄影已證明最有效</td><td>作者主張，未附引用</td></tr>
+    <tr><td>同理靠講授就能學會</td><td>需要經驗與時間</td></tr>
+    <tr><td>模式已說明學習機制</td><td>最不清楚的環節</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">自我檢測</span><span class="block">先作答，再翻下一頁</span></div>
+  <h1>檢查一下你記住了什麼</h1>
+  <div class="card"><p><b>Q1</b> 本書中唯一直接研究 EFT 督導的研究是哪一篇？它的主要限制是什麼？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>Q2</b> 經驗性治療的四種訓練方法是什麼？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>Q3</b> 讓一個督導成為「EFT 督導」的特定因素是什麼？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>Q4</b> 作者認為模式中最不清楚的環節是哪一個？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">自我檢測</span><span class="block">解答</span></div>
+  <h1>解答與一句話說明</h1>
+  <div class="card sage"><p><b>A1 Palmer-Olsen（2007）。</b>質性、17 人、伴侶 EFT；不能說明效果，類推到個人 EFT 需要前提。</p></div>
+  <div class="card sage" style="margin-top:12px"><p><b>A2</b> 概念學習、行為技能訓練（示範與練習）、經驗性學習、個人治療。</p></div>
+  <div class="card blue" style="margin-top:12px"><p><b>A3</b> 特定的<b>任務與治療行動</b>，以及<b>一貫的情緒焦點</b>。</p></div>
+  <div class="card warm" style="margin-top:12px"><p><b>A4 受督者的學習歷程。</b></p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">臨床推理框架</span><span class="block">評估一個主張</span></div>
+  <h1>評估主張的八個步驟</h1>
+  <div class="grid2" style="gap:12px">
+    <div class="card"><p><span class="num">1</span>寫成可檢驗的陳述</p></div>
+    <div class="card"><p><span class="num">2</span>哪一類證據？</p></div>
+    <div class="card"><p><span class="num">3</span>原書提供了哪些細節？</p></div>
+    <div class="card"><p><span class="num">4</span>類推的前提？</p></div>
+    <div class="card"><p><span class="num">5</span>相關還是因果？</p></div>
+    <div class="card"><p><span class="num">6</span>替代解釋？</p></div>
+    <div class="card"><p><span class="num">7</span>需要什麼研究？</p></div>
+    <div class="card"><p><span class="num">8</span>實務中的信心程度</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">臨床推理框架</span><span class="block">學習計畫</span></div>
+  <h1>設計你的一學期學習計畫</h1>
+  <table>
+    <tr><th style="width:28%">方法</th><th>示例（延伸）</th></tr>
+    <tr><td><b>概念學習</b></td><td>精讀一本推薦書；整理七種標記與任務</td></tr>
+    <tr><td><b>技能訓練</b></td><td>每週角色扮演一種同理回應</td></tr>
+    <tr><td><b>經驗性學習</b></td><td>在安全的訓練團體中親身經驗情緒工作</td></tr>
+    <tr><td><b>個人治療</b></td><td>自願；處理自己面對情緒的阻礙</td></tr>
+    <tr><td><b>錄影回饋</b></td><td>每兩週帶一段錄影與一個標記進督導</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">臨床推理框架</span><span class="block">階段自評</span></div>
+  <h1>我在哪個階段？</h1>
+  <div class="card"><p><span class="num">1</span><b>同理基礎</b>：在場、同理理解、探索、臆測</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">2</span><b>知覺</b>：聲音、經驗、喚起、生產性、標記</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">3</span><b>概念化</b>：追隨痛苦、核心組織</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">4</span><b>任務</b>：雙椅、空椅、澄心聚焦的微技巧</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">5</span><b>整合與個人化</b>：彈性、多標記判斷、個人風格</p></div>
+  <p class="small" style="margin-top:10px">依原書「階段式督導」的構想整理。</p>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">臨床推理框架</span><span class="block">研究問題</span></div>
+  <h1>提出一個研究問題</h1>
+  <table>
+    <tr><th style="width:24%">項目</th><th>示例（延伸）</th></tr>
+    <tr><td><b>問題</b></td><td>哪些督導行動，最常出現在受督者晤談技能改變之前？</td></tr>
+    <tr><td><b>設計</b></td><td>任務分析：錄下督導與後續晤談，逐刻編碼</td></tr>
+    <tr><td><b>測量</b></td><td>同理回應品質；個案的經驗程度與生產性</td></tr>
+    <tr><td><b>限制</b></td><td>小樣本、觀察者效應、因果推論困難</td></tr>
+    <tr><td><b>倫理</b></td><td>雙方知情同意；參與不影響評量</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">臨床意義</span><span class="block">速查</span></div>
+  <h1>這對實務意味著什麼？</h1>
+  <table>
+    <tr><th style="width:28%">面向</th><th>本單元的意涵</th></tr>
+    <tr><td><b>採用的信心</b></td><td>內容較有證據；方法保持開放</td></tr>
+    <tr><td><b>學習計畫</b></td><td>結合四種訓練方法</td></tr>
+    <tr><td><b>同理</b></td><td>給時間、經驗與個人發展</td></tr>
+    <tr><td><b>錄影</b></td><td>核心工具；遵守知情同意與保密</td></tr>
+    <tr><td><b>階段</b></td><td>從簡單的同理開始</td></tr>
+    <tr><td><b>研究素養</b></td><td>區分證據類型</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">批判思考</span><span class="block">限制與爭議</span></div>
+  <h1>還沒有答案的問題</h1>
+  <div class="card"><p><b>1.</b> 什麼樣的研究設計，能檢驗 EFT 督導的效果？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>2.</b> 北美的督導研究，能類推到台灣的實習場域嗎？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>3.</b> 個人治療應該是訓練的必要條件嗎？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>4.</b> 階段式模式的第一步真的應該是「簡單的同理」嗎？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>5.</b> 能力本位的評量，會不會與「學習優先於評量」衝突？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">研究生複習頁</span><span class="block">帶走什麼</span></div>
+  <h1>四個層次的學習</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>必須記住</h3><p>兩條研究路線；Palmer-Olsen 六項發現；六種督導事件；四種訓練方法；五個發展領域</p></div>
+    <div class="card sage"><h3>必須理解</h3><p>共同＋特定因素；內容 vs. 方法的證據；同理關係需要時間；階段式構想</p></div>
+    <div class="card warm"><h3>必須能夠應用</h3><p>判斷證據類型；設計學習計畫；提出研究問題</p></div>
+    <div class="card"><h3>必須能夠質疑</h3><p>直接證據缺乏；類推限制；未附引用的主張；文化來源</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">推薦書目</span><span class="block">原書 pp. 151–152</span></div>
+  <h1>下一步可以讀什麼？</h1>
+  <table>
+    <tr><th style="width:50%">書目</th><th>原書的推薦理由</th></tr>
+    <tr><td>Elliott 等（2004）<i>Learning EFT</i></td><td>介入的微技巧</td></tr>
+    <tr><td>Goldman &amp; Greenberg（2015）<i>Case Formulation in EFT</i></td><td>最完整的概念化</td></tr>
+    <tr><td>Greenberg（2010）<i>Focus</i> 期刊文章</td><td>摘要概覽</td></tr>
+    <tr><td>Greenberg（2011）<i>Emotion-Focused Therapy</i></td><td>最精簡的入門</td></tr>
+    <tr><td>Greenberg（2015）<i>Coaching Clients…</i>（2nd ed.）</td><td>處理情緒的整體取向</td></tr>
+    <tr><td>Greenberg &amp; Watson（2006）<i>EFT for Depression</i></td><td>從頭到尾最完整</td></tr>
+  </table>
+</section>
+
+<section class="slide cover">
+  <div class="top"><span class="kicker">參考資料</span><span class="block" style="color:#fff;border-color:#c9d6e2">單元 6 完</span></div>
+  <h1 style="font-size:56px;margin-top:30px">學習本身，<br>也需要先抵達，才能離開。</h1>
+  <div class="fill"></div>
+  <p class="small" style="color:#dfe7ef;font-size:24px">主要來源：Greenberg, L. S., &amp; Tomescu, L. R. (2017). <i>Supervision Essentials for Emotion-Focused Therapy</i>. Washington, DC: American Psychological Association. 第6章（pp. 141–145）、第7章（pp. 147–149）。</p>
+  <p class="small" style="color:#c7d3de;font-size:21px">原書引用：Palmer-Olsen (2007)；Ladany, Friedlander, &amp; Nelson (2005, 2016)；Bertsch et al. (2014)；Watkins, Budge, &amp; Callahan (2015)；Wampold &amp; Budge (2012)；Neufeldt, Beutler, &amp; Banchero (1997)；Ladany (2002)；Falender &amp; Shafranske (2004)；Ladany &amp; Walker (2003)；Greenberg &amp; Goldman (1988)；Montagno, Svatovic, &amp; Levenson (2011)；Ivey (1971)；Pagell, Carkhuff, &amp; Berenson (1967)；Greenberg &amp; Kahn (1976)；Greenberg &amp; Sarkissian (1984)；Elliott, Greenberg, &amp; Lietaer (2004)；Johnson et al. (1999)；Greenberg (2010)。<br>「延伸」為本教材補充，不是原書主張。EFT 督導教學系列全六單元完。</p>
+</section>
+
+        </div>
+    </div>
+    <script>
+    // 每張資訊圖原本是 1080×1080，依螢幕寬度等比例縮放；頁碼在載入後補上
+    (function () {
+        const slides = [...document.querySelectorAll('.deck .slide')];
+        slides.forEach((el, i) => {
+            const f = document.createElement('div');
+            f.className = 'foot';
+            f.innerHTML = '<span>單元6｜證據基礎與未來方向</span><span>臨床心語 @clinicmind</span><span class="pg">' + (i + 1) + '／' + slides.length + '</span>';
+            el.appendChild(f);
+        });
+        const fit = () => {
+            const w = Math.min(1080, document.querySelector('.deck').clientWidth);
+            slides.forEach((el) => { el.style.zoom = w / 1080; });
+        };
+        fit();
+        addEventListener('resize', fit);
+    })();
+    </script>
+
+    <footer>
+        <div class="footer-links">
+            <a href="../index.html">首頁</a>
+            <a href="../eft.html">認識 EFT</a>
+            <a href="index.html">EFT 督導學習系列</a>
+            <a href="../trauma.html">認識創傷</a>
+            <a href="../resources.html">自助資源</a>
+        </div>
+        <p>教學用途。內容依據 Greenberg, L. S., &amp; Tomescu, L. R. (2017). <i>Supervision Essentials for Emotion-Focused Therapy</i>. APA. 整理改寫，並非原書翻譯；所有案例皆為綜合改寫之假想情境。</p>
+        <div class="copyright">&copy; 2026 ClinicMind 臨床心語. All Rights Reserved.</div>
+    </footer>
+
+</body>
+</html>

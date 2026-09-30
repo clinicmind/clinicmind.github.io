@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>單元4 資訊圖 | ClinicMind 臨床心理諮商</title>
+    <meta name="description" content="EFT 督導學習系列單元4資訊圖：常見督導議題（一）：同盟裂痕與人際技能。">
+    <meta property="og:locale" content="zh_TW">
+    <link rel="stylesheet" href="../assets/pages.css">
+    <link rel="stylesheet" href="../assets/eft-supervision.css">
+    <style>
+.deck{
+  --bg:#f7f4ee; --card:#ffffff; --ink:#23282d; --ink2:#4b525a; --muted:#7a8088;
+  --blue:#34506b; --blue2:#5b7a96; --blue-l:#e6edf3;
+  --sage:#5f7d68; --sage-l:#e7efe8;
+  --warm:#ece4d6; --line:#d8d0c2;
+  --accent:#a5673f; --accent-l:#f6ebe2;
+}
+.deck *{box-sizing:border-box}
+.deck{font-family:"PingFang TC","Heiti TC","Microsoft JhengHei","Noto Sans TC",sans-serif; color:var(--ink); -webkit-print-color-adjust:exact; print-color-adjust:exact}
+.deck .slide{width:1080px; height:1080px; position:relative; overflow:hidden; padding:72px 76px 110px; break-after:page; background:var(--bg); display:flex; flex-direction:column}
+.deck .slide:last-child{break-after:auto}
+.deck .top{display:flex; justify-content:space-between; align-items:center; margin-bottom:18px}
+.deck .kicker{font-size:24px; letter-spacing:.12em; color:var(--sage); font-weight:bold}
+.deck .block{font-size:21px; color:var(--blue2); border:2px solid var(--blue2); border-radius:30px; padding:4px 18px}
+.deck h1{font-size:60px; line-height:1.25; margin:0 0 14px; color:var(--blue)}
+.deck h2{font-size:40px; line-height:1.3; margin:18px 0 10px; color:var(--blue)}
+.deck .lead{font-size:35px; line-height:1.55; color:var(--ink2); margin:0 0 20px}
+.deck p,.deck li,.deck td,.deck th{font-size:33px; line-height:1.52}
+.deck p{margin:6px 0}
+.deck ul,.deck ol{margin:6px 0 10px; padding-left:40px}
+.deck li{margin:6px 0}
+.deck b,.deck strong{color:var(--blue)}
+.deck .small{font-size:26px; color:var(--muted); line-height:1.45}
+.deck .grid2{display:grid; grid-template-columns:1fr 1fr; gap:22px}
+.deck .grid3{display:grid; grid-template-columns:1fr 1fr 1fr; gap:18px}
+.deck .grid2x3{display:grid; grid-template-columns:1fr 1fr; gap:18px}
+.deck .card{background:var(--card); border:2px solid var(--line); border-radius:22px; padding:22px 26px}
+.deck .card h3{font-size:35px; margin:0 0 8px; color:var(--blue)}
+.deck .card p,.deck .card li{font-size:30px; line-height:1.48}
+.deck .card.blue{background:var(--blue-l); border-color:#c9d6e2}
+.deck .card.sage{background:var(--sage-l); border-color:#c8d8cb}
+.deck .card.warm{background:var(--warm); border-color:#dccfb9}
+.deck .num{display:inline-block; min-width:48px; height:48px; border-radius:24px; background:var(--blue); color:#fff; font-size:27px; text-align:center; line-height:48px; margin-right:12px; padding:0 8px}
+.deck .callout{border-radius:18px; padding:18px 24px 18px 26px; margin-top:16px; border-left:10px solid}
+.deck .callout .t{font-size:26px; font-weight:bold; letter-spacing:.08em; margin-bottom:4px; display:block}
+.deck .callout p{font-size:30px; line-height:1.48}
+.deck .warn{background:var(--accent-l); border-color:var(--accent)}
+.deck .warn .t{color:var(--accent)}
+.deck .ask{background:var(--sage-l); border-color:var(--sage)}
+.deck .ask .t{color:var(--sage)}
+.deck .note{background:var(--blue-l); border-color:var(--blue2)}
+.deck .note .t{color:var(--blue)}
+.deck table{border-collapse:collapse; width:100%; background:var(--card); border-radius:16px; overflow:hidden}
+.deck th{background:var(--blue); color:#fff; font-size:28px; text-align:left; padding:12px 16px}
+.deck td{font-size:28px; line-height:1.45; padding:12px 16px; border-bottom:2px solid var(--line); vertical-align:top}
+.deck td b{color:var(--blue)}
+.deck .quote{font-size:44px; line-height:1.5; color:var(--blue); border-left:12px solid var(--sage); padding:10px 0 10px 34px; margin:14px 0 24px}
+.deck .en{font-size:26px; color:var(--muted); font-style:italic; line-height:1.45}
+.deck .foot{position:absolute; left:76px; right:76px; bottom:38px; display:flex; justify-content:space-between; font-size:21px; color:var(--muted); border-top:2px solid var(--line); padding-top:14px}
+.deck .foot .pg{color:var(--blue); font-weight:bold}
+.deck .cover{background:var(--blue); color:#fff}
+.deck .cover h1{color:#fff; font-size:72px; margin-top:60px}
+.deck .cover .lead{color:#dfe7ef; font-size:36px}
+.deck .cover .kicker{color:#c9dccd}
+.deck .cover .foot{color:#c7d3de; border-color:#5b7a96}
+.deck .cover .foot .pg{color:#fff}
+.deck .big{font-size:48px; line-height:1.4; color:var(--blue)}
+.deck .tag{display:inline-block; font-size:22px; border-radius:8px; padding:2px 12px; background:var(--warm); color:var(--ink2); margin-right:8px}
+.deck .flow{display:flex; align-items:center; gap:12px; flex-wrap:wrap}
+.deck .flow .step{background:var(--card); border:2px solid var(--blue2); border-radius:16px; padding:12px 18px; font-size:29px}
+.deck .flow .arr{font-size:32px; color:var(--blue2)}
+.deck .fill{flex:1}
+.deck svg text{font-family:"PingFang TC","Heiti TC","Microsoft JhengHei","Noto Sans TC",sans-serif}
+.deck .card{box-shadow:none}.deck th{white-space:normal}.deck .callout{margin-bottom:0}
+    </style>
+</head>
+<body>
+
+    <header>
+        <a class="logo" href="../index.html">ClinicMind</a>
+        <nav aria-label="主要導覽">
+            <ul>
+                <li><a href="../eft.html">認識 EFT</a></li>
+                <li><a href="index.html">EFT 督導學習系列</a></li>
+                <li><a href="../trauma.html">認識創傷</a></li>
+                <li><a href="../resources.html">自助資源</a></li>
+                <li><a href="../index.html#booking" class="btn-reserve">預約諮詢</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="deck-page">
+        <div class="inner">
+        <p class="crumb"><a href="index.html">EFT 督導學習系列</a> ／ 單元4 資訊圖</p>
+        <h1 class="deck-title">單元4｜常見督導議題（一）：同盟裂痕與人際技能</h1>
+        <div class="unit-tools">
+            <a class="dl primary" href="u4.html">看文字版</a> <a class="dl" href="pdf/單元4_學術內容.pdf" download>學術內容 PDF</a> <a class="dl" href="pdf/單元4_資訊圖_完整版_1080.pdf" download>資訊圖 PDF</a>
+        </div>
+        </div>
+        <div class="deck">
+<section class="slide cover">
+  <div class="top"><span class="kicker">臨床心語｜EFT 督導教學系列</span><span class="block" style="color:#fff;border-color:#c9d6e2">單元 4</span></div>
+  <h1>順從不是同意，<br>「為什麼」不是同理</h1>
+  <p class="lead">常見督導議題（一）：<br>同盟裂痕與人際技能</p>
+  <div class="fill"></div>
+  <p class="small" style="color:#c7d3de">依據 Greenberg, L. S., &amp; Tomescu, L. R. (2017). <i>Supervision Essentials for Emotion-Focused Therapy</i>. APA.（第4章，pp. 81–106）<br>碩士層級臨床心理學教材｜督導示例摘述自原書（原書已改寫以保密）</p>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">開場</span><span class="block">學習目標</span></div>
+  <h1>讀完這份資訊圖，你能夠……</h1>
+  <ol>
+    <li style="font-size:30px">辨識七項裂痕標記，分成對質型與退縮型</li>
+    <li style="font-size:30px">用「我們」語言與自律的真誠修復裂痕</li>
+    <li style="font-size:30px">區分合作中斷與關係裂痕</li>
+    <li style="font-size:30px">把低同理的回應改寫成同理反映或臆測</li>
+    <li style="font-size:30px">用同理臆測取代對個案的負向面質</li>
+    <li style="font-size:30px">分析文化、性別與權力對同盟的影響</li>
+    <li style="font-size:30px">以「揭露」而非「批評」給人際回饋</li>
+  </ol>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">開場</span><span class="block">兩組困難</span></div>
+  <h1>本章處理的兩組困難</h1>
+  <div class="card blue"><h3>① 同盟裂痕</h3><p>督導者 ↔ 受督者<br>受督者 ↔ 個案</p></div>
+  <div class="card sage" style="margin-top:16px"><h3>② 人際技能不足</h3><p>難以<b>在場</b>、難以<b>同理</b></p></div>
+  <div class="callout warn"><span class="t">兩者合併時最常見</span><p>受督者難以學會<b>取用情感</b>、對情感感到自在，並同理地調頻於情感。</p></div>
+</section>
+
+<!-- 督導同盟裂痕 -->
+<section class="slide">
+  <div class="top"><span class="kicker">督導同盟裂痕</span><span class="block">七項標記</span></div>
+  <h1>Safran 的七項裂痕標記</h1>
+  <p class="small">Safran, Crocker, McMain, &amp; Murray（1990）以任務分析研究治療同盟；本書用於督導</p>
+  <table>
+    <tr><th style="width:8%">#</th><th style="width:44%">標記</th><th>督導中可能看起來像（示意）</th></tr>
+    <tr><td>a</td><td>公開表達負面情緒</td><td>「這次督導沒什麼幫助。」</td></tr>
+    <tr><td>b</td><td>間接表達負面情緒或敵意</td><td>語帶嘲諷的抱怨</td></tr>
+    <tr><td>c</td><td>對目標或任務有歧見</td><td>「我不覺得該做椅子工作。」</td></tr>
+    <tr><td>d</td><td><b>順從</b></td><td>什麼都說「好」</td></tr>
+    <tr><td>e</td><td>迴避手段</td><td>轉移話題、忘了帶錄影</td></tr>
+    <tr><td>f</td><td>提升自尊的操作</td><td>為自己辯護</td></tr>
+    <tr><td>g</td><td>對介入無反應</td><td>回饋像沒被聽見</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導同盟裂痕</span><span class="block">兩大類</span></div>
+  <h1>對質型 vs. 退縮型</h1>
+  <div class="grid2">
+    <div class="card warm"><h3>對質型標記</h3><p>受督者<b>提出抱怨</b>，或以歧見的形式<b>明確表達</b>擔憂</p></div>
+    <div class="card blue"><h3>退縮型標記</h3><p>較<b>隱微</b>：敵意、迴避、<b>順從</b>，或對督導沒有反應</p></div>
+  </div>
+  <div class="callout ask"><span class="t">臨床上要問什麼？</span><p>受督者最近是否<b>什麼都說好</b>，卻沒有任何改變？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導同盟裂痕</span><span class="block">權力差距</span></div>
+  <h1>權力在誰手上，<br>誰就要先開口</h1>
+  <p>督導者職位內在的權力，讓督導者能在<b>不擔心後果</b>的情況下開啟對話；受督者則不然。</p>
+  <div class="card sage" style="margin-top:14px"><h3>督導者因此要</h3><p>覺察權力差距；<b>持續監測</b>關係；尋找裂痕的<b>早期跡象</b>；需要時<b>主動</b>討論關係，即使受督者沒有說出不滿。</p></div>
+  <div class="callout warn"><span class="t">容易誤解</span><p>「受督者沒說，就表示沒問題。」</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導同盟裂痕</span><span class="block">常見來源</span></div>
+  <h1>當督導者想引導，<br>受督者想跟隨</h1>
+  <div class="card warm"><h3>常見的衝突</h3><p>督導者鼓勵受督者用更具影響力的方式或特定介入，而受督者想採取較<b>跟隨、探索</b>的方式。</p></div>
+  <div class="card sage" style="margin-top:18px"><h3>預防與處理</h3><p>對裂痕<b>高度敏感</b>；<b>仔細而不防衛地</b>傾聽；裂痕發生時，<b>同理地反映</b>它。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.1（改寫）</span><span class="block">1／4 標記</span></div>
+  <h1>督導同盟困難的任務：標記</h1>
+  <p class="lead">以任務分析來看，裂痕也是一個事件：<b>標記 → 任務環境 → 受督者歷程 → 解決</b>。</p>
+  <div class="card warm"><h3>對質型</h3><p>以歧見公開表達同盟困難（對目標或任務），或提升自尊的操作</p></div>
+  <div class="card blue" style="margin-top:14px"><h3>退縮型</h3><p>間接表達負面情緒或敵意、迴避、順從，或對督導沒有反應</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.1（改寫）</span><span class="block">2／4 任務環境</span></div>
+  <h1>督導者的四種操作</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>同理調頻</h3><p>試探地提出；<b>承認自己的貢獻</b>；「<b>我們</b>」語言，把問題視為「<b>我們的</b>」問題；驗證受督者</p></div>
+    <div class="card sage"><h3>自我揭露</h3><p>開放、誠實、真誠地揭露感受與想法，同時尊重、不評判</p></div>
+    <div class="card warm"><h3>任務探索</h3><p>邀請受督者公開分享觀點；強調雙方都參與其中</p></div>
+    <div class="card"><h3>深化</h3><p>辯證地探索<b>各自</b>對困難的知覺</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.1（改寫）</span><span class="block">3／4 受督者歷程</span></div>
+  <h1>受督者經歷了什麼？</h1>
+  <div class="card blue"><h3>情緒反應</h3><p>從緊繃到較自在；感到被聽見、被驗證</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>反思歷程</h3><p>反思彼此的差異與限制；理解關係是<b>共同建構</b>的；重新形成問題</p></div>
+  <div class="card warm" style="margin-top:14px"><h3>動機與行動傾向</h3><p>肯定自己的需要；必要時承擔責任；規劃日後的互動與協商</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.1（改寫）</span><span class="block">4／4 解決</span></div>
+  <h1>修復了，會是什麼樣子？</h1>
+  <div class="grid2">
+    <div class="card sage"><p>雙方都感到真誠的<b>滿足與鬆一口氣</b></p></div>
+    <div class="card sage"><p>重建<b>信任</b>，願意繼續朝目標努力</p></div>
+    <div class="card blue"><p>對困難形成<b>共同理解</b></p></div>
+    <div class="card blue"><p>探索日後的<b>實際解決方法</b></p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導同盟裂痕</span><span class="block">修復階段</span></div>
+  <h1>裂痕修復的六個階段</h1>
+  <div class="card"><p><span class="num">1</span><b>承認</b>困難，呈現為共同責任</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">2</span><b>深化</b>：督導者真誠揭露自己在其中的角色</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">3</span>受督者的情緒、反思與行動傾向</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">4</span><b>部分解決</b>：督導者摘要，受督者確認</p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">5</span>探索<b>實際解法</b>：表達需要、尋求共識、調整期待</p></div>
+  <div class="card sage" style="margin-top:10px"><p><span class="num">6</span><b>完全解決</b>：滿足與重新燃起的熱情</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">真誠</span><span class="block">一般原則</span></div>
+  <h1>幾乎所有關係困難，<br>都以真誠處理</h1>
+  <p>督導者對受督者使用的方法，與 EFT 治療師對個案使用的相同：<b>同理、接納、一致、真誠</b>。</p>
+  <div class="callout warn"><span class="t">但是</span><p>一致與真誠是<b>整體構念</b>，只提供整體方向，沒有清楚說明<b>如何</b>處理人際困難（Greenberg &amp; Geller, 2001）。</p></div>
+  <div class="callout note"><span class="t">所以需要</span><p><b>自律的真誠</b>（下一頁）。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">真誠</span><span class="block">自律的真誠</span></div>
+  <h1>自律的真誠</h1>
+  <div class="grid2">
+    <div class="card warm"><h3>✗ 當下反應</h3><p>以可能是<b>次發或非促進性</b>的感受直接反應</p></div>
+    <div class="card sage"><h3>✓ 先探索，再說</h3><p><b>深入探索</b>自己的反應，再從自己的經驗出發說話</p></div>
+  </div>
+  <p style="margin-top:18px">這是透過<b>訓練與治療</b>發展出來的技能。督導者清楚自己的感受之後，若判斷有幫助，就揭露給受督者。</p>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">真誠</span><span class="block">原書示例</span></div>
+  <h1>生氣的底下，是焦慮</h1>
+  <div class="card warm"><h3>表面：生氣</h3><p>督導者對受督者沒有採用建議感到生氣。</p></div>
+  <div class="card blue" style="margin-top:14px"><h3>督導之間探索後：原發的焦慮</h3><p>源於「我可能不是有效的督導者」的威脅。</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>揭露的說法（意譯）</h3><p>「我注意到自己有點焦慮。我感覺我說的話好像沒什麼幫助，因為我看到你很難把它放進你看事情的方式裡。」</p></div>
+  <div class="callout note"><span class="t">若是長期的感受</span><p>尋求<b>督導的督導</b>或治療。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">影響同盟的因素</span><span class="block">1／3 連結與目標</span></div>
+  <h1>連結弱，或目標沒談好</h1>
+  <div class="card blue"><h3>不確定連結時（意譯）</h3><p>「我一直在想我們相處得怎麼樣，不太確定我有沒有讓你感到夠安全。」<br>「如果我們之間有什麼不對勁，可以談談嗎？還是這更多是我自己的焦慮？」</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>合作有困難時（意譯）</h3><p>「也許我建議的，不太符合你認為什麼最有幫助。」<br>「把焦點放在個案底層的情緒上，是不是不太符合你認為需要改變的地方？」</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">影響同盟的因素</span><span class="block">2／3 文化、性別、吸引</span></div>
+  <h1>三角關係中的多重身分</h1>
+  <p>個案—受督者—督導者三角中，社會脈絡（例如歧視）與國籍、階級、宗教等系統，和每個人的<b>多重身分交織</b>（Inman &amp; Ladany, 2014）。</p>
+  <div class="grid2" style="margin-top:12px">
+    <div class="card warm"><h3>可能出現</h3><p>性別或種族偏見；對<b>刻板印象</b>的敏感；參與者之間的<b>性吸引</b></p></div>
+    <div class="card sage"><h3>怎麼處理</h3><p>把它<b>說出來並討論</b>；尊重地討論感受；澄清並維持界線</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">影響同盟的因素</span><span class="block">3／3 人際風格</span></div>
+  <h1>回饋受督者的人際風格</h1>
+  <div class="flow" style="margin-bottom:16px"><span class="step">先觀察兩組關係</span><span class="arr">→</span><span class="step">清楚了再回饋</span><span class="arr">→</span><span class="step">聽見了再給指引</span></div>
+  <div class="grid2">
+    <div class="card warm"><h3>✗ 觀察或批評</h3><p>「你太強勢了。」</p></div>
+    <div class="card sage"><h3>✓ 督導者經驗的揭露</h3><p>「我在聽的時候，擔心……」</p></div>
+  </div>
+  <div class="callout note"><span class="t">為什麼</span><p>揭露能幫助受督者<b>傾聽</b>，而不是<b>防衛</b>被感知到的批評。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">影響同盟的因素</span><span class="block">三種風格</span></div>
+  <h1>「我在聽的時候，擔心……」</h1>
+  <table>
+    <tr><th style="width:24%">受督者</th><th>揭露式回饋（原書，意譯）</th></tr>
+    <tr><td><b>膽怯、謹慎</b></td><td>個案可能感受不到你的溫暖，因為你很謹慎</td></tr>
+    <tr><td><b>非常焦慮</b></td><td>你太急著幫個案，結果說得比需要的多</td></tr>
+    <tr><td><b>支配、批判</b></td><td>個案需要更多空間，覺得你給的太多、太滿，沒辦法真正用上</td></tr>
+  </table>
+  <div class="callout ask"><span class="t">聽見之後才給指引</span><p>例：「退一步、少一點引導會比較好。」</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">影響同盟的因素</span><span class="block">困難的情況</span></div>
+  <h1>當問題是長期的，<br>或價值觀無法協調</h1>
+  <div class="card blue"><h3>長期的人格困難</h3><p>理解更深的議題；對問題模式給回饋；常<b>建議個人治療</b>。</p></div>
+  <div class="card warm" style="margin-top:14px"><h3>根本的歧見或不信任</h3><p>例如對理論、或對如何處理個案處境（例如<b>墮胎</b>）意見不同，可能<b>無法合作</b>。這時做出對受督者有益的決定：補救措施、<b>更換督導者</b>，並<b>始終以個案福祉為焦點</b>。</p></div>
+  <div class="callout ask"><span class="t">督導者也要自問</span><p>我的價值與態度，是否限制了我尊重對方的世界觀？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">影響同盟的因素</span><span class="block">督導者的前提</span></div>
+  <h1>督導者必須先了解自己</h1>
+  <p class="big">真誠，並能無條件地接納、擁抱、容忍自己與受督者之間的差異。</p>
+  <div class="card sage" style="margin-top:18px"><h3>怎麼做到？</h3><p>個人發展、治療與諮詢。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.2（改寫）</span><span class="block">與個案的裂痕</span></div>
+  <h1>與個案的同盟困難</h1>
+  <p class="lead">標記相同：<b>對質型</b>（歧見、提升自尊）與<b>退縮型</b>（敵意、迴避、順從、無反應）。</p>
+  <div class="card blue"><h3>督導者教練受督者</h3><p>在裂痕<b>發生的當下</b>試探地提出；承認自己對正在發生之事的<b>貢獻</b>；用「<b>我們</b>」語言，合作地討論人際困難。</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>鼓勵受督者探索自己</h3><p>探索自己的反應，觸及<b>原發經驗</b>；以開放、誠實、真誠的方式揭露，同時尊重個案、不評判。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.2（改寫）</span><span class="block">歷程與解決</span></div>
+  <h1>受督者學會「後設溝通」</h1>
+  <div class="card warm"><h3>任務探索</h3><p>與個案一起同理探索問題：邀請個案分享觀點，強調雙方都參與其中。</p></div>
+  <div class="card blue" style="margin-top:14px"><h3>受督者歷程</h3><p>探索自己對個案的人際反應；依據<b>原發經驗</b>產生並練習回應。</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>解決</h3><p>更能<b>後設溝通</b>：談論此刻彼此之間發生了什麼；也更能應用督導中練習的內容。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">任務合作不佳 1／3</span></div>
+  <h1>「聽起來像浪費時間」</h1>
+  <p class="small">原書督導錄影摘述</p>
+  <p>治療師提議把父親放在空椅上；個案帶著<b>勉強的微笑搖頭</b>。治療師堅持「這很重要」。個案說可能還無法面對父親，<b>臉紅、眼眶泛淚</b>。</p>
+  <div class="card sage" style="margin-top:14px"><h3>督導者</h3><p>「這裡有一種<b>歧見</b>。」</p></div>
+  <div class="callout ask"><span class="t">臨床上要問什麼？</span><p>她的眼淚與拒絕，想告訴我什麼？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">任務合作不佳 2／3</span></div>
+  <h1>「你好像在討好我」</h1>
+  <p>治療師：「我覺得你好像努力保持開心、當個好人，某種意義上是在討好我。」個案沒有回應這個方向，轉而說：「我改變不了我爸媽。」</p>
+  <div class="card warm" style="margin-top:14px"><h3>督導者</h3><p>這是在<b>任務共識</b>上可能出現的破裂。「討好我」是一種<b>初期的移情詮釋</b>，她沒有回應。<b>歧見太多了</b>。她不想做空椅，也不想感覺糟。</p></div>
+  <div class="callout note"><span class="t">更好的方向</span><p>試著<b>理解她的害怕</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">任務合作不佳 3／3</span></div>
+  <h1>「你是老大」</h1>
+  <p>個案：「也許吧，如果你這樣說的話。你是老大。」<br>治療師：「我是老大，對你來說是什麼感覺？」</p>
+  <div class="card warm" style="margin-top:14px"><h3>督導者</h3><p>又是一個她沒有回應的<b>關係詮釋</b>。她<b>順從，但不是真的同意</b>。</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>應該轉向</h3><p><b>同理理解她的痛苦</b>，而不是引導、推論正在發生什麼，或聚焦在她對你的經驗。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">原則</span><span class="block">關係探索的時機</span></div>
+  <h1>合作中斷 ≠ 關係裂痕</h1>
+  <p class="quote">「除非有強烈的同盟困難標記，<br>我盡量避開關係探索。」</p>
+  <div class="grid2" style="margin-top:10px">
+    <div class="card blue"><h3>合作的暫時中斷</h3><p>以<b>同理理解</b>修復</p></div>
+    <div class="card warm"><h3>強烈的關係裂痕標記</h3><p>才把<b>關係本身</b>作為探索焦點</p></div>
+  </div>
+  <p class="small" style="margin-top:12px">（延伸）這一點與許多心理動力取向的做法不同。</p>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.3（改寫）</span><span class="block">標記</span></div>
+  <h1>低在場與低同理的標記</h1>
+  <div class="card blue"><h3>低在場</h3><p>受督者<b>太概念化、分心、目標導向、太分析</b></p></div>
+  <div class="card warm" style="margin-top:16px"><h3>低同理</h3><p>缺乏同理風格：<b>問問題、做詮釋、給建議、太理性</b>、缺乏情感調頻、沒有使用同理反映</p></div>
+  <div class="callout warn"><span class="t">原教材承認</span><p>受督者如何改變，目前<b>尚未被清楚理解</b>，表中的歷程是假設性的。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.3（改寫）</span><span class="block">回饋與教學</span></div>
+  <h1>怎麼幫受督者回到當下？</h1>
+  <div class="card blue"><h3>回饋（低在場）</h3><p>聚焦於個案與自己<b>當下</b>的經驗；回到此刻、<b>呼吸</b>；注意自己在晤談中那一刻的感受，以及個案的<b>非語言</b>。</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>教學與回饋（低同理）</h3><p>多<b>跟隨</b>、多同理；少用對質式的陳述與提問；督導者<b>示範</b>同理回應。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.3（改寫）</span><span class="block">任務探索</span></div>
+  <h1>「成為」個案</h1>
+  <div class="card sage"><h3>虛擬認同練習</h3><p>聽錄影時，請受督者「<b>成為</b>」個案：辨識自己作為個案的感受，並說成語言。</p></div>
+  <div class="card blue" style="margin-top:14px"><h3>停下錄影，練習回應</h3><p>督導者建議可能的回應；請受督者表達自己的反應；示範另一種傳達同理的方式。</p></div>
+  <div class="card warm" style="margin-top:14px"><h3>抓住核心</h3><p>聽一句個案陳述，抓住它的<b>感受與核心意義</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">Exhibit 4.3（改寫）</span><span class="block">歷程與解決</span></div>
+  <h1>受督者的歷程與解決</h1>
+  <table>
+    <tr><th style="width:22%"></th><th>低在場</th><th>低同理</th></tr>
+    <tr><td><b>歷程</b></td><td>練習注意自己的呼吸，再注意個案的呼吸與非語言</td><td>練習「成為個案」；評論片段，練習新的回應</td></tr>
+    <tr><td><b>解決</b></td><td><b>放下思考與計畫</b>，變得更在場</td><td>更能傳達同理；更準備好應用；<b>重燃對自己能力的希望</b></td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">受督者的真誠</span><span class="block">原發反應</span></div>
+  <h1>受督者也需要自律的真誠</h1>
+  <p>督導者鼓勵受督者探索與個案工作時的感受，觸及<b>最原發的反應</b>。它們常常是：</p>
+  <div class="flow" style="margin:14px 0"><span class="step">不勝任感</span><span class="step">害怕幫不上忙</span><span class="step">失敗</span><span class="step">被拒絕</span><span class="step">無力</span></div>
+  <div class="callout note"><span class="t">接著</span><p>協助受督者找到以<b>促進性的真誠</b>傳達這些感受的方式。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">受督者的真誠</span><span class="block">全部說出來</span></div>
+  <h1>「全部說出來」</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>① 我對你的感受</h3><p>治療師對個案的感受</p></div>
+    <div class="card sage"><h3>② 我說這句話時的感受</h3><p>例如擔心這句話會傷人、冒犯人，或顯得很蠢</p></div>
+  </div>
+  <div class="card warm" style="margin-top:18px"><h3>示意（延伸）</h3><p>「我有點猶豫要不要說，怕你聽了會覺得被批評……我注意到每次談到你媽媽，我就有點緊張，想更小心一點。」</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">回饋個案</span><span class="block">何時需要</span></div>
+  <h1>什麼時候要給個案回饋？</h1>
+  <p>EFT <b>較不</b>重視辨識關係模式、聚焦人格與動機，但當出現：</p>
+  <ul><li>明顯的個案<b>扭曲</b></li><li>個案似乎不理解的<b>問題模式</b></li></ul>
+  <p>就需要某種形式的回饋或面質。</p>
+  <div class="card sage" style="margin-top:14px"><h3>步驟</h3><p>先<b>觀察</b>個案與他人之間、個案與治療師之間正在發生什麼；清楚之後，才處理回饋。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">回饋個案</span><span class="block">原書示例</span></div>
+  <h1>「她們離開我，<br>是因為我愛得太多」</h1>
+  <p>個案在親密關係中常<b>爆發憤怒、口頭攻擊</b>伴侶，導致對方離開，卻說是因為自己「愛得太多」。這是明顯的<b>扭曲</b>。</p>
+  <div class="card"><p><span class="num">1</span>先<b>同理</b>他的憤怒，以及底下的<b>受傷</b></p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">2</span>凸顯更原發的情緒：<b>害怕被遺棄</b></p></div>
+  <div class="card" style="margin-top:10px"><p><span class="num">3</span>溫和地提出：他經驗為「愛」的，可能正是讓對方害怕、把對方推開的東西</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">回饋個案</span><span class="block">措辭的差別</span></div>
+  <h1>負向面質 vs. 同理臆測</h1>
+  <div class="card warm"><h3>✗ 對差異的負向面質</h3><p>「你說你太愛她們，但其實你是在生氣。」</p></div>
+  <div class="card sage" style="margin-top:16px"><h3>✓ 同理、臆測的理解</h3><p>「我猜你最後會生氣，是因為你覺得自己太投入了，又害怕她們會像過去那樣離開你，這讓你覺得好不被理解、好受傷。」</p></div>
+  <div class="callout note"><span class="t">原則</span><p><b>承認次發的防衛性情緒</b>（憤怒），<b>臆測底層原發的脆弱情緒</b>（害怕被遺棄）。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">回饋個案</span><span class="block">接著</span></div>
+  <h1>說完之後，問對方的反應</h1>
+  <div class="card blue"><p>詢問個案<b>對這類陳述的反應</b>，並處理因此被喚起的任何<b>關係感受</b>。</p></div>
+  <h2>督導者怎麼教這些技能</h2>
+  <div class="flow"><span class="step">教學</span><span class="step">示範</span><span class="step">設定任務</span></div>
+  <p style="margin-top:14px">例如請受督者針對錄影中的個案陳述，想出<b>不同類型的同理回應</b>，或以自律、真誠的方式揭露內在經驗（Greenberg &amp; Geller, 2001）。</p>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">多元文化</span><span class="block">作者的主張</span></div>
+  <h1>多元文化督導，<br>有沒有根本上的不同？</h1>
+  <p>以下示例來自<b>不同國家與文化</b>的治療師。原教材的主張：這些示例顯示，多元文化督導與單一文化督導<b>沒有根本上的不同</b>。</p>
+  <div class="callout warn"><span class="t">批判提醒（延伸）</span><p>這是依<b>示例</b>提出的主張，<b>缺乏系統性證據</b>。示例中的督導者也提醒「文化上對長輩表達憤怒很困難，可能需要給予許可」。更謹慎的說法是：<b>核心歷程可跨文化使用，但具體做法要納入文化脈絡</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">低同理 1／3</span></div>
+  <h1>太指導、不夠跟隨</h1>
+  <p class="small">52 歲、理智化的專業人士；輕度憂鬱與存在性疏離；正在進行讓自我麻木的自我中斷雙椅對話（原書示例摘述）</p>
+  <div class="card warm"><h3>治療師的一連串發問與詮釋</h3><p>「你咬嘴唇……你在壓抑什麼？你怎麼壓抑？你有覺察嗎？……你生不了氣，是因為你在壓抑憤怒……」</p></div>
+  <div class="callout note"><span class="t">督導者的回饋</span><p>認出<b>能動性</b>確實是 EFT 的核心，但受督者<b>太指導</b>，沒有同理地跟隨。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">低同理 2／3</span></div>
+  <h1>「是什麼讓你喜歡孤獨？」</h1>
+  <div class="card warm"><h3>問題</h3><p>這是<b>動機導向</b>的問題，要求他思考，而不是感受。</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>同理的說法</h3><p>「所以你有點喜歡孤獨……那裡面有些什麼感覺很好，或者，那是什麼感覺？」</p></div>
+  <div class="card blue" style="margin-top:14px"><h3>一起練習</h3><p>督導者邀請：「我們一起試著產生能捕捉他核心經驗的同理回應。」受督者：「閒下來的時候，難的事情就冒出來……也許覺得孤立，或有點不安全？」督導者：聽起來很好。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">低同理 3／3</span></div>
+  <h1>去他所在之處</h1>
+  <div class="card blue"><h3>督導者</h3><p>先<b>承認</b>他有了距離之後覺得「不是那樣」，讓他感到被理解；再同理地聚焦主要的痛苦感受。<b>最好去他所在之處，而不是把他帶到他還去不了的地方。</b></p></div>
+  <div class="card warm" style="margin-top:14px"><h3>之後，治療師又問「為什麼」</h3><p>「為什麼孤獨會讓你陷入不好的念頭？」個案用<b>外化的聲音</b>、平淡的表情回答，像在做臨床檢查。</p></div>
+  <div class="card sage" style="margin-top:14px"><h3>督導者示範</h3><p>「所以過去這幾週，這些灼熱沒有占據你，真的很好，讓你覺得好多了。」</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">提升同理 1／2</span></div>
+  <h1>反映感受，不是反映事件</h1>
+  <p class="small">42 歲、來自中東文化的母親，憂鬱，困在傳統婚姻中（原書示例摘述）</p>
+  <div class="card sage"><h3>督導者肯定</h3><p>「你對她的內在經驗保持<b>溫和而一致的壓力</b>。」</p></div>
+  <div class="card warm" style="margin-top:12px"><h3>治療師只說「像個失敗者」</h3><p>督導者：<b>更貼近、更分化</b>的同理會更好，例如「就是覺得空，好絕望、不被珍惜」。<br>受督者：「我懂了，而不是反映發生了什麼。」</p></div>
+  <div class="card blue" style="margin-top:12px"><h3>治療師問「你需要什麼？」</h3><p>督導者：很好，你在<b>找需求</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">提升同理 2／2</span></div>
+  <h1>「我需要支持」vs.<br>「我需要有人支持我」</h1>
+  <div class="grid2">
+    <div class="card warm"><h3>「我需要有人支持我」</h3><p>焦點在<b>他人</b>要做什麼；讓人處於<b>無力</b>的位置；個別治療中無法達成</p></div>
+    <div class="card sage"><h3>「我需要支持」</h3><p>焦點在<b>自己</b>需要什麼；可能引向「我要做什麼才能得到支持」</p></div>
+  </div>
+  <div class="card blue" style="margin-top:16px"><p>個案：「我想念我的爸媽。」治療師：「你想念一個<b>可以分享的母親</b>。」<br>督導者：很好，更具體；而她聚焦在自己的需要，而不是抱怨他人的缺席。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">時機</span></div>
+  <h1>標記出現了，但還太早</h1>
+  <p class="small">35 歲、憂鬱的女性，談到童年被侵擾的經驗（原書示例摘述）</p>
+  <div class="card blue"><h3>「連爸爸都不能信任」</h3><p>督導者：這是<b>未竟事務的標記</b>，但<b>現在回應還太早</b>，只要注意並同理。</p></div>
+  <div class="card sage" style="margin-top:12px"><h3>注意非語言的不自在</h3><p>可以說：「<b>你說這些的時候，現在感覺到什麼？</b>」也可以加一句「<b>所以你很害怕</b>」，更直接地聚焦她的感受。</p></div>
+  <div class="callout warn"><span class="t">倫理提醒（延伸）</span><p>評估目前的安全與穩定度；若涉及仍處於危險中的未成年人，依法處理通報義務。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">活化情緒 1／2</span></div>
+  <h1>問題會引出答案，<br>然後個案等下一題</h1>
+  <p class="small">35 歲家庭主婦，想要孩子而考慮分居；情感遲滯，常說「我不知道，我沒什麼感覺」（原書示例摘述）</p>
+  <div class="card warm"><h3>✗「你那時候也一直哭嗎？」</h3><p>督導者：你問了問題，會引出一個答案，然後她會等下一個問題。</p></div>
+  <div class="card sage" style="margin-top:12px"><h3>✓ 用臆測</h3><p>「你一定覺得好被利用、不被重視、不被在乎，好孤單。」</p></div>
+  <div class="callout note"><span class="t">督導者的提示</span><p>「<b>你自己回答這個問題</b>：憑你的感覺猜她在感受什麼，把它當作一種可能性提供給她。」</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">活化情緒 2／2</span></div>
+  <h1>反映懊悔，並給予許可</h1>
+  <div class="card warm"><h3>✗ 反映發生了什麼</h3><p>「父母替你決定了婚事，你沒有反對。」</p></div>
+  <div class="card sage" style="margin-top:12px"><h3>✓ 對懊悔的探索性反映</h3><p>「你覺得自己讓人生溜走了，對沒做的事有一種失落，現在有點在踢自己，還是？」</p></div>
+  <div class="card blue" style="margin-top:12px"><h3>加上感受與許可</h3><p>「……那好屈辱，讓你覺得難過、孤單，也生氣。」<br>督導者：<b>文化上，對長輩表達憤怒通常很難，可能需要給予許可。</b></p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導示例</span><span class="block">調頻情感</span></div>
+  <h1>聽出抱怨裡的悲傷與憤怒</h1>
+  <p class="small">46 歲、正在離婚的女性，責怪自己、失去生命能量（原書示例摘述）</p>
+  <div class="card blue"><h3>「聽她的聲音」</h3><p>像是質疑的語調，其實是一種<b>抱怨</b>。要抵達<b>悲傷與憤怒</b>，問她現在感覺到什麼。</p></div>
+  <div class="card warm" style="margin-top:12px"><h3>✗「你是不是覺得被拒絕了？」</h3><p>督導者：<b>不要問只能回答是或否的問題</b>，改成反映或臆測。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">整合</span><span class="block">低同理的形式</span></div>
+  <h1>低同理，常常是形式出了問題</h1>
+  <table>
+    <tr><th style="width:34%">形式</th><th style="width:33%">問題</th><th>改成</th></tr>
+    <tr><td>「為什麼……？」</td><td>要求思考</td><td>反映當下經驗</td></tr>
+    <tr><td>一連串發問與詮釋</td><td>太指導</td><td>回到跟隨</td></tr>
+    <tr><td>是非題</td><td>簡短而被動</td><td>反映或臆測</td></tr>
+    <tr><td>提問後等答案</td><td>個案等下一題</td><td>自己回答（臆測）</td></tr>
+    <tr><td>反映事件</td><td>停在敘事</td><td>反映感受</td></tr>
+    <tr><td>「你需要有人……」</td><td>讓人無力</td><td>「你需要……」</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">整合</span><span class="block">四種人際困難</span></div>
+  <h1>本章的整合模型</h1>
+  <table>
+    <tr><th style="width:22%">困難</th><th style="width:36%">標記</th><th>主要任務環境</th></tr>
+    <tr><td><b>督導裂痕</b></td><td>對質型、退縮型</td><td>調頻、揭露、探索、深化</td></tr>
+    <tr><td><b>治療裂痕</b></td><td>同上</td><td>教練受督者：「我們」語言、真誠揭露</td></tr>
+    <tr><td><b>低在場</b></td><td>太概念、分心、太分析</td><td>回到當下、呼吸</td></tr>
+    <tr><td><b>低同理</b></td><td>問問題、詮釋、建議</td><td>示範、成為個案、練習</td></tr>
+  </table>
+  <div class="callout note"><span class="t">共同的核心</span><p><b>自律的真誠</b>，以及<b>同理</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">原文引述 1／3</span><span class="block">p. 83</span></div>
+  <h1>以真誠處理關係</h1>
+  <p class="quote">「作為一般原則，EFT 中幾乎所有類型的關係困難，都以治療師的真誠來處理。」</p>
+  <p class="en">“As a general principle, almost all types of relational difficulties are dealt with in EFT by means of therapist genuineness.”</p>
+  <div class="grid2" style="margin-top:14px">
+    <div class="card"><h3>臨床意義</h3><p>核心工具不是詮釋，而是<b>有紀律</b>的真誠。</p></div>
+    <div class="card"><h3>教學重點</h3><p>比說法更重要的，是否接觸到此刻的原發感受。</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">原文引述 2／3</span><span class="block">p. 87</span></div>
+  <h1>揭露讓人聽得進去</h1>
+  <p class="quote">「……揭露能幫助受督者傾聽，<br>而不是防衛被感知到的批評。」</p>
+  <p class="en">“…disclosure helps the supervisee to listen rather than defend against a perceived criticism.”</p>
+  <div class="grid2" style="margin-top:14px">
+    <div class="card"><h3>臨床意義</h3><p>回饋從評價人，轉為分享經驗。</p></div>
+    <div class="card"><h3>教學重點</h3><p>把「你……」改寫成「我擔心……」。</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">原文引述 3／3</span><span class="block">p. 91</span></div>
+  <h1>不急著探索關係</h1>
+  <p class="quote">「除非有強烈的同盟困難標記，<br>我盡量避開關係探索。」</p>
+  <p class="en">“I try to keep away from relational exploration unless there is a strong marker of alliance difficulty.”</p>
+  <div class="grid2" style="margin-top:14px">
+    <div class="card"><h3>臨床意義</h3><p>合作中斷先以同理理解修復。</p></div>
+    <div class="card"><h3>教學重點</h3><p>介入要依據標記，不是依據習慣。</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">常見誤解</span><span class="block">常見理解 → 更精確的理解</span></div>
+  <h1>六個常見誤解</h1>
+  <table>
+    <tr><th style="width:44%">常見理解</th><th>更精確的理解</th></tr>
+    <tr><td>受督者沒抱怨＝同盟好</td><td>退縮型裂痕很常見；督導者要主動</td></tr>
+    <tr><td>真誠＝想到什麼說什麼</td><td>先探索，再說出原發感受</td></tr>
+    <tr><td>回饋就要直說缺點</td><td>以揭露代替評價</td></tr>
+    <tr><td>拒絕任務＝移情議題</td><td>先理解害怕；強烈標記才探索關係</td></tr>
+    <tr><td>面質就是指出矛盾</td><td>承認次發，臆測原發，再問反應</td></tr>
+    <tr><td>好問題＝好介入</td><td>常用臆測取代提問</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">常見錯誤</span><span class="block">錯誤 → 修正後的做法</span></div>
+  <h1>「你說你很愛她們，<br>但其實你是在生氣。」</h1>
+  <div class="card warm"><h3>✗ 錯在哪裡</h3><p>對差異的<b>負向面質</b>：強調個案說的不是真的，容易引發防衛與羞愧。</p></div>
+  <div class="card sage" style="margin-top:16px"><h3>✓ 修正</h3><p>先同理憤怒與受傷 → 臆測底層的<b>害怕被遺棄</b> → 以理解的語氣說出 → <b>詢問個案的反應</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">自我檢測</span><span class="block">先作答，再翻下一頁</span></div>
+  <h1>檢查一下你記住了什麼</h1>
+  <div class="card"><p><b>Q1</b> 受督者對每個建議都說「好」，但錄影中沒有任何改變。這是哪一類裂痕標記？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>Q2</b> 督導者對受督者感到生氣。依自律的真誠，第一步是什麼？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>Q3</b> 把「你太強勢了」改寫成揭露式回饋。</p></div>
+  <div class="card" style="margin-top:12px"><p><b>Q4</b> 個案拒絕空椅對話、說「你是老大」。原書的督導者建議怎麼回應？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">自我檢測</span><span class="block">解答</span></div>
+  <h1>解答與一句話說明</h1>
+  <div class="card sage"><p><b>A1 退縮型（順從）。</b>順從不是同意；督導者應主動、試探地提出。</p></div>
+  <div class="card sage" style="margin-top:12px"><p><b>A2 先探索自己的反應</b>，找出底層的原發感受（例如焦慮），再決定是否揭露。</p></div>
+  <div class="card blue" style="margin-top:12px"><p><b>A3</b>「我在聽的時候，擔心個案需要更多空間，覺得你給的太多、太滿。」</p></div>
+  <div class="card warm" style="margin-top:12px"><p><b>A4 轉向同理理解她的痛苦與害怕</b>，而不是做關係詮釋。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">臨床推理框架</span><span class="block">裂痕修復</span></div>
+  <h1>辨識並修復裂痕的八個步驟</h1>
+  <div class="grid2" style="gap:12px">
+    <div class="card"><p><span class="num">1</span>觀察語言與非語言</p></div>
+    <div class="card"><p><span class="num">2</span>對方真正的想法？</p></div>
+    <div class="card"><p><span class="num">3</span>對質型或退縮型？</p></div>
+    <div class="card"><p><span class="num">4</span>合作中斷或關係裂痕？</p></div>
+    <div class="card"><p><span class="num">5</span>我的次發與原發感受</p></div>
+    <div class="card"><p><span class="num">6</span>試探提出，「我們」語言</p></div>
+    <div class="card"><p><span class="num">7</span>看對方的反應</p></div>
+    <div class="card"><p><span class="num">8</span>摘要、確認、實際解法</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">臨床推理框架</span><span class="block">權力檢核</span></div>
+  <h1>督導者的權力檢核</h1>
+  <table>
+    <tr><th style="width:56%">問自己</th><th>若是</th></tr>
+    <tr><td>我最近是否較強勢地引導？</td><td>主動詢問是否合適</td></tr>
+    <tr><td>評量是否即將到來？</td><td>主動開啟對話</td></tr>
+    <tr><td>受督者是否總是說「好」？</td><td>視為可能的退縮標記</td></tr>
+    <tr><td>我是否對受督者有持續的負面感受？</td><td>自我探索；督導的督導</td></tr>
+    <tr><td>有沒有沒談過的文化或價值差異？</td><td>尊重地提出並討論</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">臨床意義</span><span class="block">速查</span></div>
+  <h1>這對實務意味著什麼？</h1>
+  <table>
+    <tr><th style="width:24%">面向</th><th>本單元的意涵</th></tr>
+    <tr><td><b>督導關係</b></td><td>督導者因權力而負有主動的責任</td></tr>
+    <tr><td><b>治療關係</b></td><td>合作中斷先同理；強烈標記才探索關係</td></tr>
+    <tr><td><b>回饋</b></td><td>「我擔心……」代替「你太……」</td></tr>
+    <tr><td><b>面質</b></td><td>承認次發，臆測原發，再問反應</td></tr>
+    <tr><td><b>同理</b></td><td>臆測代替提問；感受代替事件</td></tr>
+    <tr><td><b>倫理</b></td><td>界線、性吸引、價值衝突；以個案福祉為準</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">證據基礎</span><span class="block">強度與限制</span></div>
+  <h1>哪些主張有證據？</h1>
+  <table>
+    <tr><th style="width:42%">主張</th><th>證據性質</th></tr>
+    <tr><td>七項裂痕標記</td><td>Safran 等（1990）研究<b>治療</b>同盟；用於督導是本書的延伸</td></tr>
+    <tr><td>多重身分交織</td><td>Inman &amp; Ladany（2014）理論整合</td></tr>
+    <tr><td>自律的真誠</td><td>Greenberg &amp; Geller（2001）臨床理論</td></tr>
+    <tr><td>受督者改變歷程</td><td>作者明言是<b>假設性的</b></td></tr>
+    <tr><td>多元文化督導無根本差異</td><td>依示例提出，<b>缺乏系統證據</b></td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">批判思考</span><span class="block">限制與爭議</span></div>
+  <h1>還沒有答案的問題</h1>
+  <div class="card"><p><b>1.</b> 治療同盟的裂痕框架，可以直接套用到有評量權力的督導關係嗎？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>2.</b> 什麼樣的標記才算「強烈」到需要探索關係？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>3.</b> 督導者揭露自己的焦慮，會不會增加受督者的負擔？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>4.</b>「多元文化督導無根本差異」需要什麼樣的研究來檢驗？</p></div>
+  <div class="card" style="margin-top:12px"><p><b>5.</b> 更換督導者的決定，由誰做、怎麼做才公平？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">研究生複習頁</span><span class="block">帶走什麼</span></div>
+  <h1>四個層次的學習</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>必須記住</h3><p>七項裂痕標記；對質與退縮；四種操作；修復六階段；三類同盟因素；低在場與低同理的標記</p></div>
+    <div class="card sage"><h3>必須理解</h3><p>權力與主動；自律的真誠；揭露式回饋；何時不做關係詮釋</p></div>
+    <div class="card warm"><h3>必須能夠應用</h3><p>「我們」語言；「我擔心……」；把問句改成臆測；「我需要……」</p></div>
+    <div class="card"><h3>必須能夠質疑</h3><p>框架移植的限度；假設性的歷程；多元文化主張</p></div>
+  </div>
+</section>
+
+<section class="slide cover">
+  <div class="top"><span class="kicker">參考資料</span><span class="block" style="color:#fff;border-color:#c9d6e2">單元 4 完</span></div>
+  <h1 style="font-size:56px;margin-top:30px">先探索自己的感受，<br>再真誠地說出來。</h1>
+  <div class="fill"></div>
+  <p class="small" style="color:#dfe7ef;font-size:25px">主要來源：Greenberg, L. S., &amp; Tomescu, L. R. (2017). <i>Supervision Essentials for Emotion-Focused Therapy</i>. Washington, DC: American Psychological Association. 第4章（pp. 81–106）。</p>
+  <p class="small" style="color:#c7d3de;font-size:23px">原書引用：Safran, Crocker, McMain, &amp; Murray (1990)；Greenberg &amp; Geller (2001)；Inman &amp; Ladany (2014)。<br>Exhibit 4.1–4.3 經改寫重構；督導示例為原書內容的摘述，原書已改寫以保密。<br>下一單元：技術面的常見督導議題（第5章）</p>
+</section>
+
+        </div>
+    </div>
+    <script>
+    // 每張資訊圖原本是 1080×1080，依螢幕寬度等比例縮放；頁碼在載入後補上
+    (function () {
+        const slides = [...document.querySelectorAll('.deck .slide')];
+        slides.forEach((el, i) => {
+            const f = document.createElement('div');
+            f.className = 'foot';
+            f.innerHTML = '<span>單元4｜常見督導議題（一）：同盟裂痕與人際技能</span><span>臨床心語 @clinicmind</span><span class="pg">' + (i + 1) + '／' + slides.length + '</span>';
+            el.appendChild(f);
+        });
+        const fit = () => {
+            const w = Math.min(1080, document.querySelector('.deck').clientWidth);
+            slides.forEach((el) => { el.style.zoom = w / 1080; });
+        };
+        fit();
+        addEventListener('resize', fit);
+    })();
+    </script>
+
+    <footer>
+        <div class="footer-links">
+            <a href="../index.html">首頁</a>
+            <a href="../eft.html">認識 EFT</a>
+            <a href="index.html">EFT 督導學習系列</a>
+            <a href="../trauma.html">認識創傷</a>
+            <a href="../resources.html">自助資源</a>
+        </div>
+        <p>教學用途。內容依據 Greenberg, L. S., &amp; Tomescu, L. R. (2017). <i>Supervision Essentials for Emotion-Focused Therapy</i>. APA. 整理改寫，並非原書翻譯；所有案例皆為綜合改寫之假想情境。</p>
+        <div class="copyright">&copy; 2026 ClinicMind 臨床心語. All Rights Reserved.</div>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>單元1 資訊圖 | ClinicMind 臨床心理諮商</title>
+    <meta name="description" content="EFT 督導學習系列單元1資訊圖：EFT 督導的基礎：理論、原則與督導者角色。">
+    <meta property="og:locale" content="zh_TW">
+    <link rel="stylesheet" href="../assets/pages.css">
+    <link rel="stylesheet" href="../assets/eft-supervision.css">
+    <style>
+.deck{
+  --bg:#f7f4ee; --card:#ffffff; --ink:#23282d; --ink2:#4b525a; --muted:#7a8088;
+  --blue:#34506b; --blue2:#5b7a96; --blue-l:#e6edf3;
+  --sage:#5f7d68; --sage-l:#e7efe8;
+  --warm:#ece4d6; --line:#d8d0c2;
+  --accent:#a5673f; --accent-l:#f6ebe2;
+}
+.deck *{box-sizing:border-box}
+.deck{font-family:"PingFang TC","Heiti TC","Microsoft JhengHei","Noto Sans TC",sans-serif; color:var(--ink); -webkit-print-color-adjust:exact; print-color-adjust:exact}
+.deck .slide{width:1080px; height:1080px; position:relative; overflow:hidden; padding:72px 76px 110px; break-after:page; background:var(--bg); display:flex; flex-direction:column}
+.deck .slide:last-child{break-after:auto}
+.deck .top{display:flex; justify-content:space-between; align-items:center; margin-bottom:18px}
+.deck .kicker{font-size:24px; letter-spacing:.12em; color:var(--sage); font-weight:bold}
+.deck .block{font-size:21px; color:var(--blue2); border:2px solid var(--blue2); border-radius:30px; padding:4px 18px}
+.deck h1{font-size:60px; line-height:1.25; margin:0 0 14px; color:var(--blue)}
+.deck h2{font-size:40px; line-height:1.3; margin:18px 0 10px; color:var(--blue)}
+.deck .lead{font-size:35px; line-height:1.55; color:var(--ink2); margin:0 0 20px}
+.deck p,.deck li,.deck td,.deck th{font-size:33px; line-height:1.52}
+.deck p{margin:6px 0}
+.deck ul,.deck ol{margin:6px 0 10px; padding-left:40px}
+.deck li{margin:6px 0}
+.deck b,.deck strong{color:var(--blue)}
+.deck .small{font-size:26px; color:var(--muted); line-height:1.45}
+.deck .grid2{display:grid; grid-template-columns:1fr 1fr; gap:22px}
+.deck .grid3{display:grid; grid-template-columns:1fr 1fr 1fr; gap:18px}
+.deck .grid2x3{display:grid; grid-template-columns:1fr 1fr; gap:18px}
+.deck .card{background:var(--card); border:2px solid var(--line); border-radius:22px; padding:22px 26px}
+.deck .card h3{font-size:35px; margin:0 0 8px; color:var(--blue)}
+.deck .card p,.deck .card li{font-size:30px; line-height:1.48}
+.deck .card.blue{background:var(--blue-l); border-color:#c9d6e2}
+.deck .card.sage{background:var(--sage-l); border-color:#c8d8cb}
+.deck .card.warm{background:var(--warm); border-color:#dccfb9}
+.deck .num{display:inline-block; min-width:48px; height:48px; border-radius:24px; background:var(--blue); color:#fff; font-size:27px; text-align:center; line-height:48px; margin-right:12px; padding:0 8px}
+.deck .callout{border-radius:18px; padding:18px 24px 18px 26px; margin-top:16px; border-left:10px solid}
+.deck .callout .t{font-size:26px; font-weight:bold; letter-spacing:.08em; margin-bottom:4px; display:block}
+.deck .callout p{font-size:30px; line-height:1.48}
+.deck .warn{background:var(--accent-l); border-color:var(--accent)}
+.deck .warn .t{color:var(--accent)}
+.deck .ask{background:var(--sage-l); border-color:var(--sage)}
+.deck .ask .t{color:var(--sage)}
+.deck .note{background:var(--blue-l); border-color:var(--blue2)}
+.deck .note .t{color:var(--blue)}
+.deck table{border-collapse:collapse; width:100%; background:var(--card); border-radius:16px; overflow:hidden}
+.deck th{background:var(--blue); color:#fff; font-size:28px; text-align:left; padding:12px 16px}
+.deck td{font-size:28px; line-height:1.45; padding:12px 16px; border-bottom:2px solid var(--line); vertical-align:top}
+.deck td b{color:var(--blue)}
+.deck .quote{font-size:44px; line-height:1.5; color:var(--blue); border-left:12px solid var(--sage); padding:10px 0 10px 34px; margin:14px 0 24px}
+.deck .en{font-size:26px; color:var(--muted); font-style:italic; line-height:1.45}
+.deck .foot{position:absolute; left:76px; right:76px; bottom:38px; display:flex; justify-content:space-between; font-size:21px; color:var(--muted); border-top:2px solid var(--line); padding-top:14px}
+.deck .foot .pg{color:var(--blue); font-weight:bold}
+.deck .cover{background:var(--blue); color:#fff}
+.deck .cover h1{color:#fff; font-size:72px; margin-top:60px}
+.deck .cover .lead{color:#dfe7ef; font-size:36px}
+.deck .cover .kicker{color:#c9dccd}
+.deck .cover .foot{color:#c7d3de; border-color:#5b7a96}
+.deck .cover .foot .pg{color:#fff}
+.deck .big{font-size:48px; line-height:1.4; color:var(--blue)}
+.deck .tag{display:inline-block; font-size:22px; border-radius:8px; padding:2px 12px; background:var(--warm); color:var(--ink2); margin-right:8px}
+.deck .flow{display:flex; align-items:center; gap:12px; flex-wrap:wrap}
+.deck .flow .step{background:var(--card); border:2px solid var(--blue2); border-radius:16px; padding:12px 18px; font-size:29px}
+.deck .flow .arr{font-size:32px; color:var(--blue2)}
+.deck .fill{flex:1}
+.deck svg text{font-family:"PingFang TC","Heiti TC","Microsoft JhengHei","Noto Sans TC",sans-serif}
+.deck .card{box-shadow:none}.deck th{white-space:normal}.deck .callout{margin-bottom:0}
+    </style>
+</head>
+<body>
+
+    <header>
+        <a class="logo" href="../index.html">ClinicMind</a>
+        <nav aria-label="主要導覽">
+            <ul>
+                <li><a href="../eft.html">認識 EFT</a></li>
+                <li><a href="index.html">EFT 督導學習系列</a></li>
+                <li><a href="../trauma.html">認識創傷</a></li>
+                <li><a href="../resources.html">自助資源</a></li>
+                <li><a href="../index.html#booking" class="btn-reserve">預約諮詢</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="deck-page">
+        <div class="inner">
+        <p class="crumb"><a href="index.html">EFT 督導學習系列</a> ／ 單元1 資訊圖</p>
+        <h1 class="deck-title">單元1｜EFT 督導的基礎：理論、原則與督導者角色</h1>
+        <div class="unit-tools">
+            <a class="dl primary" href="u1.html">看文字版</a> <a class="dl" href="pdf/單元1_學術內容.pdf" download>學術內容 PDF</a> <a class="dl" href="pdf/單元1_資訊圖_完整版_1080.pdf" download>資訊圖 PDF</a> <a class="dl" href="pdf/單元1_工作單A_概念整合_學生版.pdf" download>工作單 A（概念整合）</a> <a class="dl" href="pdf/單元1_工作單B_臨床應用_學生版.pdf" download>工作單 B（臨床應用）</a>
+        </div>
+        </div>
+        <div class="deck">
+<!-- 開場區塊：1–6 -->
+<section class="slide cover">
+  <div class="top"><span class="kicker">臨床心語｜EFT 督導教學系列</span><span class="block" style="color:#fff;border-color:#c9d6e2">單元 1</span></div>
+  <h1>知道理論，<br>和在晤談中「看見」，<br>是兩種能力</h1>
+  <p class="lead">情緒焦點治療（EFT）督導的基礎：<br>理論、原則與督導者角色</p>
+  <div class="fill"></div>
+  <p class="small" style="color:#c7d3de">依據 Greenberg, L. S., &amp; Tomescu, L. R. (2017). <i>Supervision Essentials for Emotion-Focused Therapy</i>. APA.（叢書序＋第1章）<br>碩士層級臨床心理學教材｜所有案例皆為綜合改寫之假想情境</p>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">開場</span><span class="block">學習目標</span></div>
+  <h1>讀完這份資訊圖，你能夠……</h1>
+  <ol style="margin-top:4px">
+    <li >說明辯證建構主義，以及 EFT 為何以「處理風格」取代「精神病理」</li>
+    <li >區分四種情緒類型，並用四項準則判斷</li>
+    <li >用六大原則分析晤談或督導片段</li>
+    <li >辨識督導者的三種角色，判斷一致或不一致</li>
+    <li >評估「督導者當諮商者」的界線</li>
+    <li >兼顧共同情緒核心與文化表達規則</li>
+    <li >用「可以做」而非「對錯」給矯正性回饋</li>
+  </ol>
+  <div class="callout note"><span class="t">怎麼用</span><p>每一頁先看標題與框線重點（3 秒），再細讀內文。搭配練習 E1–E8 與工作單 A、B。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">開場</span><span class="block">為什麼重要</span></div>
+  <h1>督導是一門獨立的專業</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>好治療師 ≠ 好督導者</h3><p>叢書序指出，督導是「獨立的專業活動」，無法只靠講授學會。</p></div>
+    <div class="card sage"><h3>幾乎人人都會當督導者</h3><p>Rønnestad 等人（1997）的調查顯示：<b>85%–90%</b>的治療師在執業頭 15 年內會擔任督導者。</p></div>
+  </div>
+  <div class="card warm" style="margin-top:22px"><h3>「帶著心的非專家專家」</h3><p>叢書主編這樣形容本書的督導者：精確訓練技能，同時尊重並合作。</p></div>
+  <div class="callout ask"><span class="t">對碩士生的意義</span><p>你現在被督導的經驗，就是你未來督導別人的原型。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">開場</span><span class="block">核心問題</span></div>
+  <h1>懂得「次發情緒」的定義，<br>卻聽不出個案語氣那一下的轉變？</h1>
+  <p class="lead">這正是本書要處理的落差：<b>概念知識</b>不會自動變成<b>晤談中的知覺與回應</b>。</p>
+  <div class="grid2">
+    <div class="card"><h3>本書的目標</h3><p>提出第一個清楚界定的 EFT 督導模式：以<b>事件</b>為本位、用<b>任務分析</b>發展，給督導者與受督者一張「督導地圖」。</p></div>
+    <div class="card"><h3>兩個基本原則</h3><p>督導和治療一樣，建立在<b>關係</b>與<b>工作</b>之上：建立同盟、確認焦點、辨識標記、介入、確認解決。</p></div>
+  </div>
+  <div class="callout note"><span class="t">督導在做什麼</span><p>逐刻看錄影，培養看、聽與同理的技能。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">開場</span><span class="block">督導的定義</span></div>
+  <h1>什麼是督導？</h1>
+  <p class="lead">Bernard &amp; Goodyear 的定義：由專業中較資深者，提供給較資淺同業的<b>介入</b>。</p>
+  <div class="grid2">
+    <div class="card blue"><h3>這段關係……</h3><ul><li>具評鑑性與階層性</li><li>會持續一段時間</li><li>是一種有獨特技能的介入</li></ul></div>
+    <div class="card sage"><h3>同時有三重目的</h3><ol><li>提升受督者的專業功能</li><li>監督個案接受的服務品質</li><li>為專業把關（守門）</li></ol></div>
+  </div>
+  <div class="callout warn"><span class="t">容易忽略</span><p>督導者對受督者個案的照護品質負有<b>倫理與法律責任</b>；形成性評量是督導的基礎。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">開場</span><span class="block">叢書序｜APA 2014</span></div>
+  <h1>好的督導建立在這些假設上</h1>
+  <p class="small">APA《健康服務心理學臨床督導指引》（2014）的基本假設（改寫整理）</p>
+  <div class="grid2" style="gap:14px">
+    <div class="card"><ul style="padding-left:30px"><li >需要正式教育與訓練</li><li >以個案福祉與保護大眾為優先</li><li >聚焦受督者的能力發展</li><li >督導者要具備相應能力</li><li >以實證為基礎</li><li >關係要建立、維持、必要時修復</li><li >雙方都有責任</li><li >整合多元文化</li></ul></div>
+    <div class="card"><ul style="padding-left:30px"><li >受價值、態度與偏見影響</li><li >遵守倫理與法律</li><li >採發展與優勢取向</li><li >需要反思與自我評估</li><li >雙向回饋</li><li >評量能力的習得</li><li >發揮守門功能</li><li ><b>不同於</b>諮詢、個人治療與師徒指導</li></ul></div>
+  </div>
+</section>
+
+<!-- 理論區塊：7–13 -->
+<section class="slide">
+  <div class="top"><span class="kicker">理論基礎</span><span class="block">EFT 是什麼</span></div>
+  <h1>情緒焦點治療（EFT）</h1>
+  <p class="lead">一種具實證支持、以歷程為導向的<b>新人本主義經驗取向</b>。</p>
+  <div class="grid3">
+    <div class="card blue"><h3>人本原則</h3><p>經驗的中心性、自我決定、成長傾向</p></div>
+    <div class="card sage"><h3>情緒理論</h3><p>與生俱來的情緒系統，是適應與意義的基礎</p></div>
+    <div class="card warm"><h3>辯證建構主義</h3><p>感受是在多重歷程互動中被建構出來的</p></div>
+  </div>
+  <h2>治療的目標</h2>
+  <p>對情緒的覺察、調節、表達、轉化與反思，最終<b>理解情緒、創造新意義、強化自我</b>。</p>
+  <div class="callout warn"><span class="t">容易誤解</span><p>EFT 不等於「讓個案大哭一場」。重點是情緒被<b>處理</b>的方式。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">理論基礎</span><span class="block">辯證建構主義</span></div>
+  <h1>感受是被「建構」出來的</h1>
+  <svg viewBox="0 0 928 300" width="928" height="300">
+    <g font-size="25" fill="#23282d">
+      <rect x="0" y="40" width="200" height="120" rx="18" fill="#e6edf3" stroke="#5b7a96" stroke-width="2"/><text x="100" y="92" text-anchor="middle">內隱的</text><text x="100" y="126" text-anchor="middle">感覺運動基模</text>
+      <rect x="244" y="40" width="200" height="120" rx="18" fill="#fff" stroke="#5b7a96" stroke-width="2"/><text x="344" y="92" text-anchor="middle">注意身體的</text><text x="344" y="126" text-anchor="middle">體感</text>
+      <rect x="488" y="40" width="200" height="120" rx="18" fill="#fff" stroke="#5b7a96" stroke-width="2"/><text x="588" y="92" text-anchor="middle">放進語言</text><text x="588" y="126" text-anchor="middle">（符號化）</text>
+      <rect x="732" y="40" width="196" height="120" rx="18" fill="#e7efe8" stroke="#5f7d68" stroke-width="2"/><text x="830" y="92" text-anchor="middle">被命名的</text><text x="830" y="126" text-anchor="middle">意識感受</text>
+      <text x="464" y="240" text-anchor="middle" fill="#4b525a" font-size="24">↑ 與記憶、注意、學習、情境持續互動 ↑</text>
+    </g>
+    <g stroke="#5b7a96" stroke-width="3"><path d="M202 100 H238"/><path d="M446 100 H482"/><path d="M690 100 H726"/></g>
+    <g fill="#5b7a96"><path d="M238 92 L238 108 L244 100z"/><path d="M482 92 L482 108 L488 100z"/><path d="M726 92 L726 108 L732 100z"/></g>
+  </svg>
+  <p>情緒不是完整地躺在潛意識裡，而是以<b>前語言</b>的形式存在（Lane, 2008），經由注意與命名，成為意識到的感受。</p>
+  <div class="callout ask"><span class="t">臨床上要問什麼？</span><p>我的措辭是在幫他<b>找到</b>字詞，還是替他<b>決定</b>感受？治療師的回應本身，就參與了感受的建構。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">理論基礎</span><span class="block">人觀</span></div>
+  <h1>人是動態的自我組織系統</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>情緒是基本資料</h3><p>情緒是人類經驗的基本資料；<b>意義建構</b>用來理解情緒。情緒與認知密不可分。</p></div>
+    <div class="card sage"><h3>不斷重組的自我</h3><p>人持續重組「情境中的自我」，而且是能動者：能引導注意、建構意義。</p></div>
+    <div class="card warm"><h3>說故事的人</h3><p>人持續創造依狀態而變的敘事，來理解自己與處境。</p></div>
+    <div class="card"><h3>多重聲音</h3><p>人有多種聲音、多個故事，情緒狀態也會快速轉換。</p></div>
+  </div>
+  <div class="callout note"><span class="t">最佳適應</span><p>把理性與情緒整合起來：<b>用敘事理解情緒</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">理論基礎</span><span class="block">改變的前提</span></div>
+  <h1>先抵達，才能離開</h1>
+  <p class="big">接納經驗，是改變的前提。</p>
+  <p class="lead">原教材：個案必須先接納自己是誰，改變才可能發生（p. 6）。</p>
+  <div class="grid2">
+    <div class="card warm"><h3>✗ 急著推離開</h3><p>「我知道不該依賴他，這週就改掉！」<br>→ 陪她擬行為計畫</p></div>
+    <div class="card sage"><h3>✓ 先協助抵達</h3><p>「好像很急著不要依賴……那份依賴裡，是什麼在需要他？」</p></div>
+  </div>
+  <div class="callout ask"><span class="t">臨床上要問什麼？</span><p>我是在協助他<b>抵達</b>這份感受，還是在推他<b>離開</b>？督導中也一樣：受督者先被理解，才能學習。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">理論基礎</span><span class="block">功能不良的處理</span></div>
+  <h1>不是生病，是處理風格卡住了</h1>
+  <table>
+    <tr><th style="width:44%">原教材列出的五種機制</th><th>在晤談中可能看起來像……</th></tr>
+    <tr><td><b>①</b> 非適應性情緒被激發</td><td>一被批評，就湧起童年被羞辱時的羞愧</td></tr>
+    <tr><td><b>②</b> 意義建構過度僵化</td><td>「沒回訊息＝我被討厭」</td></tr>
+    <tr><td><b>③</b> 經驗與表達不一致</td><td>笑著描述被背叛</td></tr>
+    <tr><td><b>④</b> 無法符號化與表達</td><td>「我不知道，就是很悶」</td></tr>
+    <tr><td><b>⑤</b> 自我對立部分難以整合</td><td>一邊想離職，一邊斥責自己軟弱</td></tr>
+  </table>
+  <div class="callout warn"><span class="t">容易誤解</span><p>「不看病理」≠「不評估風險與疾病」。這是介入層次的視角，可以與正式診斷並行。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">理論基礎</span><span class="block">兩層自我組織</span></div>
+  <h1>情緒基模與敘事認同</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>情緒基模</h3><p>隱含、較高層次的情緒經驗組織，<b>會產生經驗，也會產生行動</b>。多個基模共同作用，形成一個統一的自我組織。</p><p class="small">例：憂鬱的基模常圍繞失落、不被愛、無價值或無能。</p></div>
+    <div class="card sage"><h3>敘事認同</h3><p>比情緒基模<b>更高一層</b>的自我組織。敘事起初是非語言、意象式的，隨時間展開；有開始、中間、結尾，也有主角與情節。</p></div>
+  </div>
+  <div class="callout note"><span class="t">一句話區分</span><p>情緒基模＝感受<b>怎麼被組織</b>；敘事＝這些感受<b>被說成什麼故事</b>。EFT 兩者都處理。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">理論基礎 → 督導</span><span class="block">雙重焦點</span></div>
+  <h1>EFT 督導永遠有兩個焦點</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>① 個案</h3><p>協助受督者辨識個案主要的<b>痛苦情緒基模</b>，發展更一致的敘事。</p></div>
+    <div class="card sage"><h3>② 受督者</h3><p>持續關注受督者<b>對個案的情緒反應</b>，形成一致、整合的<b>專業認同</b>。</p></div>
+  </div>
+  <h2>同樣的人觀，也用在受督者身上</h2>
+  <ul><li>治療中出現困難時，<b>不以受督者的人格評價</b></li><li>同盟出問題時，不視受督者為病理</li><li>督導者真誠承擔<b>「問題共同建構者」</b>的責任</li></ul>
+  <div class="callout warn"><span class="t">容易誤解</span><p>「我就是太內向」是人格化歸因。應改問：那一刻發生了什麼歷程？</p></div>
+</section>
+
+<!-- 原則區塊：14–20 -->
+<section class="slide">
+  <div class="top"><span class="kicker">六大原則</span><span class="block">總覽</span></div>
+  <h1>EFT 的六大原則</h1>
+  <p class="lead">同時形塑<b>治療</b>與<b>督導</b>。</p>
+  <div class="grid2" style="gap:16px">
+    <div class="card blue"><p><span class="num">1</span>跟隨與引導</p></div>
+    <div class="card blue"><p><span class="num">2</span>同理探索回應風格</p></div>
+    <div class="card blue"><p><span class="num">3</span>歷程診斷，而非人的診斷</p></div>
+    <div class="card blue"><p><span class="num">4</span>促進更深的情緒經驗</p></div>
+    <div class="card blue"><p><span class="num">5</span>學習與教導知覺技能</p></div>
+    <div class="card blue"><p><span class="num">6</span>情緒與需求跨越文化</p></div>
+  </div>
+  <div class="callout warn"><span class="t">重要界線</span><p>EFT 的<b>失功能理論</b>與<b>治療理論</b>不套用在受督者身上。督導促進學習，<b>不在督導中治療受督者</b>。</p></div>
+</section>
+
+<!-- 原則區塊：15–20 -->
+<section class="slide">
+  <div class="top"><span class="kicker">六大原則</span><span class="block">原則 1</span></div>
+  <h1>跟隨與引導：不是矛盾，是辯證</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>跟隨（內容）</h3><p>逐刻跟隨內在經驗，「手指放在情緒脈搏上」。<b>個案是經驗的專家。</b></p></div>
+    <div class="card sage"><h3>引導（歷程）</h3><p>治療師是「情緒教練」：不是個案經驗的專家，而是<b>促進下一步的專家</b>。</p></div>
+  </div>
+  <h2>歷程引導的三個方向</h2>
+  <ul><li>活化更深的經驗與更適應的回應</li><li>進行晤談中的任務（例：未竟事務）</li><li>朝向整體治療目標</li></ul>
+  <div class="callout note"><span class="t">在督導中</span><p>受督者最了解個案與自己；督導者是<b>歷程專家</b>，不是受督者經驗的權威。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">六大原則</span><span class="block">原則 2</span></div>
+  <h1>同理探索：主動投入，但試探</h1>
+  <p class="lead">以投入但<b>試探性</b>的語氣，做探索性的反映或提問，激發對方自己的理解與意義追尋。</p>
+  <div class="grid2">
+    <div class="card"><h3>在治療中</h3><p>「好像有一點什麼……是失望嗎？還是別的？」<br>讓個案比對字詞是否貼切。</p></div>
+    <div class="card"><h3>在督導中</h3><p>督導者拒絕「由專家獨自決定要處理什麼」，與受督者<b>共同建構</b>歷程概念化、督導目標與意義。</p></div>
+  </div>
+  <div class="callout ask"><span class="t">臨床上要問什麼？</span><p>這句話是從<b>對方</b>的參照架構出發，還是從<b>我</b>的？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">六大原則</span><span class="block">原則 3</span></div>
+  <h1>歷程診斷，而非人的診斷</h1>
+  <p class="lead">注意的是個案的<b>處理風格</b>、晤談中的<b>標記</b>、主要主題，並追隨情緒痛苦。</p>
+  <div class="grid2">
+    <div class="card blue"><h3>標記（marker）</h3><p>晤談中的行為，顯示個案<b>已準備好</b>處理某個問題。</p></div>
+    <div class="card sage"><h3>任務（task）</h3><p>因應標記、與個案合作展開的晤談內程序。</p></div>
+  </div>
+  <div class="card warm" style="margin-top:18px"><p><b>例：</b>對重要他人揮之不去的負面感受＝<b>未竟事務標記</b> → 空椅對話，處理受傷與憤怒。</p></div>
+  <div class="callout note"><span class="t">在督導中</span><p>同樣辨識<b>督導標記</b>，依受督者的需要協議要處理的任務。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">六大原則</span><span class="block">原則 4</span></div>
+  <h1>促進更深的情緒經驗</h1>
+  <p class="lead">假設：更深的經驗與<b>生產性的情緒處理</b>，會帶來新意義，最終走向解決。</p>
+  <div class="grid2">
+    <div class="card"><h3>治療師提供的專業</h3><p>如何深化經驗；如何覺察、取用、處理並轉化情緒；如何創造新意義。</p></div>
+    <div class="card"><h3>督導者的角色</h3><p><b>首先是訓練者。</b>協助受督者認出深化的時機與任務，並給<b>逐刻回饋</b>：這一句可以怎麼回。</p></div>
+  </div>
+  <div class="callout warn"><span class="t">容易誤解</span><p>EFT 督導不只是「討論個案概念化、擬定治療計畫」，更是一句一句地練回應。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">六大原則</span><span class="block">原則 5</span></div>
+  <h1>知覺技能：知道「何時」</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>介入技能</h3><p>知道<b>如何</b>介入</p></div>
+    <div class="card sage"><h3>知覺技能</h3><p>知道<b>何時</b>介入；能在現象出現的當下注意到它</p></div>
+  </div>
+  <p style="margin-top:18px">概念知識讓人「理解」，卻不一定讓人「能在情境中應用」。受督者需要<b>具體例子</b>，才能做出必要的知覺區辨；督導會依受督者的程度調整。</p>
+  <div class="callout ask"><span class="t">怎麼學？</span><p>在錄影中，於現象出現的<b>當下</b>暫停，被指出：「就是這裡。」</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">六大原則</span><span class="block">原則 6</span></div>
+  <h1>情緒核心相通，表達規則不同</h1>
+  <div class="grid2">
+    <div class="card sage"><h3>共同的需求</h3><p>生存、成長、依附與歸屬、被重視與被認可</p></div>
+    <div class="card warm"><h3>不同的規則</h3><p>表達與溝通情緒的方式，屬於不同的信念、習俗與態度</p></div>
+  </div>
+  <p style="margin-top:14px">原教材例：集體主義文化的個案，可能較難對父母或權威表達憤怒。良好的同盟與同理，能隨時間抵達情緒核心。<br><span class="small">取得文化知識的途徑：教育、好奇、直接經驗、開放態度。</span></p>
+  <div class="callout warn"><span class="t">批判提醒（延伸）</span><p>普世情緒觀是<b>理論前提</b>。「覺察」不等於「必須表達」，是否表達、如何表達，由個案決定。</p></div>
+</section>
+
+<!-- 情緒類型區塊：21–27 -->
+<section class="slide">
+  <div class="top"><span class="kicker">情緒類型</span><span class="block">總覽</span></div>
+  <h1>最關鍵的知覺技能：<br>區辨四種情緒</h1>
+  <svg viewBox="0 0 928 420" width="928" height="420">
+    <g font-size="30" text-anchor="middle">
+      <rect x="0" y="0" width="454" height="200" rx="22" fill="#e7efe8" stroke="#5f7d68" stroke-width="2"/>
+      <text x="227" y="80" fill="#34506b" font-size="36">原發適應性</text><text x="227" y="135" fill="#4b525a" font-size="27">對當下的直接反應，助人行動</text>
+      <rect x="474" y="0" width="454" height="200" rx="22" fill="#f6ebe2" stroke="#a5673f" stroke-width="2"/>
+      <text x="701" y="80" fill="#34506b" font-size="36">原發非適應性</text><text x="701" y="135" fill="#4b525a" font-size="27">過度學習的反應，干擾功能</text>
+      <rect x="0" y="220" width="454" height="200" rx="22" fill="#e6edf3" stroke="#5b7a96" stroke-width="2"/>
+      <text x="227" y="300" fill="#34506b" font-size="36">次發反應性</text><text x="227" y="355" fill="#4b525a" font-size="27">對反應的反應，遮蔽原發</text>
+      <rect x="474" y="220" width="454" height="200" rx="22" fill="#ece4d6" stroke="#b09a77" stroke-width="2"/>
+      <text x="701" y="300" fill="#34506b" font-size="36">工具性</text><text x="701" y="355" fill="#4b525a" font-size="27">表達出來以影響他人</text>
+    </g>
+  </svg>
+  <div class="callout note"><span class="t">怎麼教</span><p>督導者在錄影中<b>當場指出</b>例子，並討論它<b>在那一刻</b>的功能。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">情緒類型 1／4</span><span class="block">原發適應性</span></div>
+  <h1>原發適應性情緒</h1>
+  <p class="lead">自動處理情境資訊後產生，<b>直接針對當下情境</b>，讓人準備採取有效行動。</p>
+  <div class="card sage"><h3>處理方向：取用並允許</h3><p>協助它被更充分地經驗，以提供資訊與行動傾向。治療師像「代理資訊處理者」，提供字詞讓個案比對。</p></div>
+  <div class="card" style="margin-top:18px"><h3>示範用語（原教材）</h3><p>「這是你最底層、最核心的感受嗎？」<br>「往內檢查看看，這是不是你最基本的感受？」</p></div>
+  <div class="callout ask"><span class="t">辨認線索（延伸）</span><p>與情境相稱；說出來之後，更清楚、有方向。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">情緒類型 2／4</span><span class="block">原發非適應性</span></div>
+  <h1>原發非適應性情緒</h1>
+  <p class="lead">也是直接反應，但<b>已無法幫助人建設性地因應</b>；通常是基於過去（常為創傷性）經驗的過度學習反應。</p>
+  <div class="flow">
+    <span class="step">接近</span><span class="arr">→</span><span class="step">取用</span><span class="arr">→</span><span class="step">符號化</span><span class="arr">→</span><span class="step">調節探索</span><span class="arr">→</span><span class="step">轉化</span>
+  </div>
+  <div class="card warm" style="margin-top:22px"><h3>以情緒轉化情緒</h3><p>例：以<b>自我慈悲或自豪</b>轉化非適應性的羞愧。被接納而非逃避之後，情緒才能被轉化。</p></div>
+  <div class="callout ask"><span class="t">辨認線索（延伸）</span><p>「又來了」的熟悉感；強度與情境不相稱；說出來後更卡住。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">情緒類型 3／4</span><span class="block">次發反應性</span></div>
+  <h1>次發反應性情緒</h1>
+  <p class="big">「對反應的反應」</p>
+  <p class="lead">跟在原發反應之後，取代並遮蔽原本的情緒，帶出不完全適合當下的行動。</p>
+  <div class="grid2">
+    <div class="card"><h3>常見樣貌</h3><p>對悲傷的憤怒<br>對害怕的羞愧<br>無望、絕望</p></div>
+    <div class="card blue"><h3>處理方向</h3><p><b>同理探索</b>，找出底下的原發情緒。<br>例：反應性憤怒底下的恐懼。</p></div>
+  </div>
+  <div class="callout warn"><span class="t">容易誤解</span><p>不是每一份憤怒都是次發的。看<b>功能</b>，不看情緒名稱。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">情緒類型 4／4</span><span class="block">工具性</span></div>
+  <h1>工具性情緒</h1>
+  <p class="lead">被表達出來，以影響他人，具有人際功能或意圖。</p>
+  <div class="card warm"><h3>處理方向：探索它的人際功能</h3><p>「我在想，你是不是想藉著這份感受，向這個人表達某個重點、告訴他某件事？」</p></div>
+  <p style="margin-top:16px">這讓人能認出情緒中的意圖：保護自己、得到安慰，或支配他人。</p>
+  <div class="callout warn"><span class="t">容易誤解</span><p>工具性情緒<b>≠操弄</b>。道德化的標籤會破壞同盟；原教材的做法是<b>好奇地探索</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">情緒類型</span><span class="block">評估準則</span></div>
+  <h1>情緒評估的四項準則</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>① 非語言表達</h3><p>臉部表情、語調，以及事情是<b>怎麼</b>被說出來的</p></div>
+    <div class="card blue"><h3>② 普世情緒反應</h3><p>被侵犯通常會生氣；失去重要他人通常會悲傷</p></div>
+    <div class="card sage"><h3>③ 自己的情緒反應</h3><p>用受督者或治療師自身的反應作為參照</p></div>
+    <div class="card sage"><h3>④ 個案的特徵模式</h3><p>例：被忽視時，先覺得渺小，再轉為無望</p></div>
+  </div>
+  <div class="callout ask"><span class="t">交叉使用（延伸）</span><p>只靠③容易投射，只靠②會忽略文化差異。最終的檢驗是：個案對<b>試探性同理</b>的反應。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">情緒類型</span><span class="block">整合比較</span></div>
+  <h1>同一份「憤怒」，四種可能</h1>
+  <table>
+    <tr><th style="width:24%">類型</th><th style="width:40%">可能的情境</th><th>回應方向</th></tr>
+    <tr><td><b>原發適應性</b></td><td>同事搶功，堅定地說「那是我做的」</td><td>驗證並允許，讓它提供行動方向</td></tr>
+    <tr><td><b>原發非適應性</b></td><td>小事就全面爆發；「每次都這樣」</td><td>接近、符號化，再轉化</td></tr>
+    <tr><td><b>次發反應性</b></td><td>被當眾糾正後的不爽，底下是難堪</td><td>同理探索底下的原發情緒</td></tr>
+    <tr><td><b>工具性</b></td><td>「不兇他們就不會聽」</td><td>好奇地探索人際功能</td></tr>
+  </table>
+  <div class="callout note"><span class="t">一句話</span><p>先判斷情緒<b>此刻的功能</b>，再決定要深化、轉化、往下探，還是探其目的。</p></div>
+</section>
+
+<!-- 任務與源流：28–30 -->
+<section class="slide">
+  <div class="top"><span class="kicker">任務</span><span class="block">五大類別</span></div>
+  <h1>EFT 任務的五大類別</h1>
+  <div class="flow" style="margin:6px 0 20px">
+    <span class="step">同理本位</span><span class="step">關係</span><span class="step">經驗</span><span class="step">再處理</span><span class="step">演出</span>
+  </div>
+  <p class="small">具體的標記與任務在第3章展開（見單元3）。</p>
+  <div class="card sage" style="margin-top:14px"><h3>「可以做」，不是「對或錯」</h3><p>早期把介入當作<b>實驗</b>，先試探性地嘗試，再逐漸熟練、流暢。督導者的建議是提供可能性，<b>不是宣判對錯</b>。</p></div>
+  <div class="card blue" style="margin-top:16px"><h3>個人化／整合技能</h3><p>依自己的風格與人格，逐步採納並整合介入。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">歷史源流</span><span class="block">第三勢力</span></div>
+  <h1>EFT 從哪裡來？</h1>
+  <p class="lead">1960–70 年代，行為主義與精神分析之外的「第三勢力」：</p>
+  <div class="grid3">
+    <div class="card blue"><h3>個人中心</h3><p>Rogers：關係是<b>價值條件</b>的解藥，讓人被看見、被理解、被接納。<br>Gendlin：<b>經驗</b>與體感。</p></div>
+    <div class="card sage"><h3>完形</h3><p>自我實現傾向；需求自發浮現；<b>歷程指導</b>風格；以<b>分級實驗</b>為介入。</p></div>
+    <div class="card warm"><h3>存在</h3><p>終極關懷：自由、選擇、孤獨、意義；存在焦慮。</p></div>
+  </div>
+  <div class="callout note"><span class="t">EFT 的整合</span><p>完形的歷程指導＋強化情緒與覺察；個人中心的<b>安全感</b>與<b>分化經驗、建構意義</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">歷史源流</span><span class="block">EFT 的修改</span></div>
+  <h1>EFT 超越源流的地方</h1>
+  <table>
+    <tr><th style="width:24%">源流</th><th>EFT 怎麼修改它</th></tr>
+    <tr><td><b>個人中心</b></td><td>Rogers 與 Gendlin 以<b>經驗</b>為基本資料；EFT 以<b>情緒</b>為基本前提，經驗是多層處理合成的衍生物</td></tr>
+    <tr><td><b>完形</b></td><td>保留實驗，但<b>更清楚界定</b>每個實驗何時最適合使用、促進哪些改變歷程</td></tr>
+    <tr><td><b>存在</b></td><td>除了自由、孤獨、意義，也把情緒的<b>調節與符號化</b>視為終極關懷</td></tr>
+  </table>
+  <div class="card blue" style="margin-top:18px"><p><b>體感</b>需要被注意並符號化，才能產生意義；<b>基本情緒</b>（恐懼、憤怒、悲傷）需要被喚起並調節，才能取用需求與行動傾向。</p></div>
+</section>
+
+<!-- 督導者角色：31–37 -->
+<section class="slide">
+  <div class="top"><span class="kicker">督導者角色</span><span class="block">Bernard 區辨模式</span></div>
+  <h1>督導者的三種角色</h1>
+  <p class="lead">EFT 督導<b>三者都採用</b>，但各有界線。</p>
+  <div class="grid3">
+    <div class="card blue"><h3>教師</h3><p>決定受督者需要什麼知識才能更勝任。<br>EFT：更精確地說是<b>訓練</b>。</p></div>
+    <div class="card warm"><h3>諮商者</h3><p>協助探索受督者的人際或內在現實。<br>EFT：<b>有限度</b>。</p></div>
+    <div class="card sage"><h3>顧問</h3><p>作為資源，鼓勵受督者信任自己的想法與感受。</p></div>
+  </div>
+  <div class="callout ask"><span class="t">臨床上要問什麼？</span><p>此刻受督者需要的是哪一種？<b>跟隨與引導</b>，各有其時。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導者角色</span><span class="block">教師（訓練者）</span></div>
+  <h1>教師角色：大量引導，<br>但顧及關係安全</h1>
+  <p>EFT 對特定的晤談標記有高度發展的技能，所以督導<b>有很多教學與矯正性回饋</b>。許多技能必須在實際臨床情境中學。</p>
+  <div class="card sage" style="margin-top:14px"><h3>督導的藝術</h3><p>讓矯正性回饋被感受為<b>支持，而非批評</b>。</p></div>
+  <div class="grid2" style="margin-top:18px">
+    <div class="card warm"><p>✗「這裡錯了，應該反映悲傷。」</p></div>
+    <div class="card blue"><p>✓「停在這裡。她的聲音變了……這一刻可以做的有好幾種。」</p></div>
+  </div>
+  <div class="callout note"><span class="t">秘訣</span><p>督導者以<b>好奇的探索者</b>自居，而不是全知的專家。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導者角色</span><span class="block">諮商者</span></div>
+  <h1>諮商者角色：督導不是治療</h1>
+  <p class="lead">受督者的個人阻礙影響治療能力時，督導者可在<b>限度內</b>提供支持性諮商。</p>
+  <div class="grid2" style="gap:16px">
+    <div class="card"><p><span class="num">1</span>先同理，<b>詢問是否願意</b>探索</p></div>
+    <div class="card"><p><span class="num">2</span>理想上<b>只做一次</b></p></div>
+    <div class="card"><p><span class="num">3</span><b>事件本位</b>，不是持續性的</p></div>
+    <div class="card"><p><span class="num">4</span>不超過受督者的自在程度，也不超過<b>關係能承受的程度</b></p></div>
+  </div>
+  <div class="callout warn"><span class="t">第 5 條</span><p>需要更深入時，<b>轉介</b>給治療師。督導契約不含個人治療。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導者角色</span><span class="block">顧問</span></div>
+  <h1>顧問角色：信任受督者自己</h1>
+  <div class="grid2">
+    <div class="card sage"><h3>促進自我效能</h3><p>以受督者的<b>優勢與天賦</b>為基礎，鼓勵他信任自己對個案的感受與想法。</p></div>
+    <div class="card blue"><h3>資源提供者</h3><p>必要時提供知識與資訊。</p></div>
+  </div>
+  <p style="margin-top:18px">在<b>示範</b>與<b>鼓勵受督者信任自己</b>之間取得平衡；有時也擔任受督者自身晤談經驗的歷程促進者。</p>
+  <div class="callout note"><span class="t">示範也是教學</span><p>尊重、同理、真誠、合作解決問題：督導者<b>怎麼對待受督者</b>，本身就在教。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導者角色</span><span class="block">一致性</span></div>
+  <h1>一致的督導事件 vs.<br>不一致的督導事件</h1>
+  <p>一致：受督者的需要與督導者的回應相符。條件是理論取向相符、任務相關、雙方投入、目標有共識。</p>
+  <div class="grid2" style="margin-top:12px">
+    <div class="card sage"><h3>✓ 一致（原教材例）</h3><p>新手受督者說對下次晤談有籠統的擔憂 → 督導者<b>跟隨</b>，協助深化、命名並理解它。</p></div>
+    <div class="card warm"><h3>✗ 不一致（原教材例）</h3><p>受督者在概念化上卡住 → 督導者<b>直接給診斷</b>，取代了促進概念化的歷程。</p></div>
+  </div>
+  <div class="callout ask"><span class="t">臨床上要問什麼？</span><p>我心裡已有答案，就應該先說出來嗎？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導者角色</span><span class="block">權力與合作</span></div>
+  <h1>專家與共構者的辯證</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>督導者的權力</h3><p>擁有技能與經驗；在評鑑層次決定表現是否適當。<b>仍對受督者與個案負責。</b></p></div>
+    <div class="card sage"><h3>合作的姿態</h3><p>有興趣地投入、平等。<b>先問</b>受督者，個案此刻的感受是什麼。</p></div>
+  </div>
+  <p style="margin-top:14px">從專家位置傳遞知識，但<b>不羞辱、不強加</b>價值或解法；共構目標，並管理權力的平衡。</p>
+  <div class="card warm" style="margin-top:12px"><h3>承認錯誤（原教材示範）</h3><p>「我想我剛才說的不對；我現在明白你對個案感受的看法了。」</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">督導者角色</span><span class="block">參與方式</span></div>
+  <h1>督導者實際在做什麼？</h1>
+  <p class="lead">把受督者當成改變的能動者，提供 Rogers 的三條件：<b>同理、一致、無條件正向關懷</b>。</p>
+  <div class="grid2" style="gap:14px">
+    <div class="card"><ul style="padding-left:28px"><li>同理探索、對話</li><li>示範、角色扮演</li><li>經驗學習、歷程引導</li><li>把未被承認的議題帶進討論</li></ul></div>
+    <div class="card"><ul style="padding-left:28px"><li>一起看錄影，需要時<b>暫停</b></li><li>舉好與不好的介入為例</li><li>給<b>補知識的作業</b></li><li>請受督者<b>練習</b>回應</li></ul></div>
+  </div>
+  <div class="callout note"><span class="t">有治療阻礙時</span><p>督導者會<b>深化受督者的經驗</b>，但仍守住諮商者角色的界線。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">作者自述</span><span class="block">督導者的養成</span></div>
+  <h1>兩位作者如何成為督導者</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>Greenberg</h3><p>以<b>態度訓練</b>（Rogers）整合<b>技能訓練</b>（Carkhuff）；重視錄影與現場督導；<b>不用面質</b>。後來越來越技術導向，並轉介受督者做個人治療：<b>處理自己的情緒，能擴大處理他人情緒的能力</b>。</p></div>
+    <div class="card sage"><h3>Tomescu</h3><p>在威權、懼於表達的環境中長大，因此特別珍視<b>不強加、合作</b>的督導。受督者需要勇氣，也要覺察<b>權力差距</b>與失調的破壞性。</p></div>
+  </div>
+  <div class="callout ask"><span class="t">帶給我們的提醒</span><p>較具指導性的督導，需要先有<b>接納與肯定的關係框架</b>。</p></div>
+</section>
+
+<!-- 引述：39–41 -->
+<section class="slide">
+  <div class="top"><span class="kicker">原文引述 1／3</span><span class="block">p. 6</span></div>
+  <h1>改變從哪裡開始</h1>
+  <p class="quote">「個案必須先抵達一個地方，<br>才能離開那個地方。」</p>
+  <p class="en">“the client has to arrive at a place before he/she can leave that place”</p>
+  <div class="grid2" style="margin-top:14px">
+    <div class="card"><h3>臨床意義</h3><p>接納經驗是改變的前提。未被觸及的情緒，無法被轉化。</p></div>
+    <div class="card"><h3>教學重點</h3><p>自我檢核：我在協助抵達，還是在推他離開？</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">原文引述 2／3</span><span class="block">p. 19</span></div>
+  <h1>回饋的藝術</h1>
+  <p class="quote">「督導的一部分藝術，在於以讓人<br>感受為支持而非批評的方式，<br>給予矯正性回饋。」</p>
+  <p class="en">“…giving corrective feedback in a manner that is felt as support rather than criticism.”</p>
+  <div class="grid2" style="margin-top:14px">
+    <div class="card"><h3>臨床意義</h3><p>技術回饋能否被吸收，取決於關係與方式。</p></div>
+    <div class="card"><h3>教學重點</h3><p>受督者可以期待並請求；督導者要刻意練習。</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">原文引述 3／3</span><span class="block">p. 6</span></div>
+  <h1>歷程，而非病理</h1>
+  <p class="quote">「個案不被視為經驗著精神病理，<br>而是擁有一種功能不良的<br>情緒處理風格。」</p>
+  <p class="en">“clients are not seen as experiencing psychopathology, but rather as having a dysfunctional style of emotional processing.”</p>
+  <div class="grid2" style="margin-top:14px">
+    <div class="card"><h3>臨床意義</h3><p>焦點轉向可介入的歷程；也用來理解受督者。</p></div>
+    <div class="card warm"><h3>批判思考</h3><p>在需要診斷、風險評估與醫療協作時，它的限度在哪裡？</p></div>
+  </div>
+</section>
+
+<!-- 誤解與錯誤：42–43 -->
+<section class="slide">
+  <div class="top"><span class="kicker">常見誤解</span><span class="block">常見理解 → 更精確的理解</span></div>
+  <h1>六個最常見的誤解</h1>
+  <table>
+    <tr><th style="width:44%">常見理解</th><th>更精確的臨床理解</th></tr>
+    <tr><td>憤怒底下一定有悲傷</td><td>看功能：有些憤怒是原發適應性的</td></tr>
+    <tr><td>工具性情緒＝操弄</td><td>好奇地探索它的人際功能</td></tr>
+    <tr><td>不看病理＝不評估風險</td><td>風險評估永遠另外進行</td></tr>
+    <tr><td>支持性督導＝不給批評</td><td>大量回饋，重點是怎麼給</td></tr>
+    <tr><td>懂理論就能看見標記</td><td>知覺技能要在錄影中被指出</td></tr>
+    <tr><td>沒表達憤怒＝沒有憤怒</td><td>可能是文化表達規則</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">常見臨床錯誤</span><span class="block">錯誤 → 修正後的推理</span></div>
+  <h1>「她哭，是想博取同情，<br>所以我刻意不回應。」</h1>
+  <div class="card warm"><h3>✗ 錯在哪裡</h3><p>未經探索就認定是工具性情緒；忽略眼淚；把情緒道德化，破壞同盟。</p></div>
+  <div class="card sage" style="margin-top:18px"><h3>✓ 修正後的推理</h3><p>① 先同理她的難過 → ② 觀察：說出來後是更清楚，還是更卡住？ → ③ 若有人際功能的線索，好奇地問：「這份眼淚，想告訴誰什麼？」</p></div>
+  <div class="callout note"><span class="t">同時考慮</span><p>次發（遮蔽其他情緒）？原發（真實的失落）？<b>至少保留兩個假設。</b></p></div>
+</section>
+
+<!-- 自我檢測：44–45 -->
+<section class="slide">
+  <div class="top"><span class="kicker">自我檢測</span><span class="block">先作答，再翻下一頁</span></div>
+  <h1>檢查一下你記住了什麼</h1>
+  <div class="card"><p><b>Q1</b>「我氣死自己了，一直哭，很沒用。」這份生氣最可能是哪一類情緒？</p></div>
+  <div class="card" style="margin-top:14px"><p><b>Q2</b> 每次被指正小錯，就湧起熟悉的「我是廢物」的羞愧，而且整天無法工作。是哪一類？該怎麼處理？</p></div>
+  <div class="card" style="margin-top:14px"><p><b>Q3</b> 受督者卡在概念化上，督導者說：「她就是邊緣型人格，照這個做。」這是一致還是不一致的督導事件？</p></div>
+  <div class="card" style="margin-top:14px"><p><b>Q4</b> 個案說「我這週就要改掉依賴」。依「先抵達，才能離開」，第一步是什麼？</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">自我檢測</span><span class="block">解答</span></div>
+  <h1>解答與一句話說明</h1>
+  <div class="card sage"><p><b>A1 次發反應性。</b>這是對悲傷的憤怒，也就是「對反應的反應」。同理探索底下的悲傷。</p></div>
+  <div class="card sage" style="margin-top:14px"><p><b>A2 原發非適應性。</b>熟悉、過度學習、干擾功能。先接近、符號化，再以自我慈悲轉化。</p></div>
+  <div class="card warm" style="margin-top:14px"><p><b>A3 不一致。</b>督導者以專家身分直接下診斷，取代了促進概念化的歷程。</p></div>
+  <div class="card blue" style="margin-top:14px"><p><b>A4 先協助她接觸依賴裡的感受與需要</b>，而不是先擬定改變計畫。</p></div>
+  <p class="small" style="margin-top:14px">更多練習：E1 情境選擇題、E2 區辨與分類。</p>
+</section>
+
+<!-- 案例：46–48 -->
+<section class="slide">
+  <div class="top"><span class="kicker">假想案例 1／3</span><span class="block">情境為綜合改寫之假想案例</span></div>
+  <h1>阿哲：同一份憤怒的四種可能</h1>
+  <p>34 歲工程師，被主管當眾說程式「像實習生寫的」。音量提高：「他憑什麼？」<b>停頓兩秒、低頭</b>，接著說：「反正他們就是看不起工程師。」</p>
+  <div class="grid2" style="margin-top:12px">
+    <div class="card"><h3>四項準則交叉</h3><p>①低頭、停頓 ②被當眾貶低，通常難堪又生氣 ③治療師感到心疼 ④父親常說「做不到就是廢物」</p></div>
+    <div class="card blue"><h3>暫定概念化</h3><p>羞愧為核心，憤怒是次發；但也包含對不尊重的<b>適應性</b>不滿。</p></div>
+  </div>
+  <div class="callout ask"><span class="t">下一步</span><p>先驗證憤怒，再輕輕轉向低頭那一刻：「那時候心裡好像有點什麼？」</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">假想案例 2／3</span><span class="block">情境為綜合改寫之假想案例</span></div>
+  <h1>小安：督導者心裡已有答案</h1>
+  <p>碩二實習生說：「都可以……其實我沒什麼頭緒。」笑了一下，手捏著筆。錄影裡，她在個案哭時兩度轉移話題。期中評量快到了。</p>
+  <div class="grid2" style="margin-top:12px">
+    <div class="card warm"><h3>✗ 不一致</h3><p>「核心是被遺棄恐懼，你去做空椅。」</p></div>
+    <div class="card sage"><h3>✓ 一致</h3><p>「你說卡住了……我們從那份卡住開始？她哭的時候，你心裡發生了什麼？」</p></div>
+  </div>
+  <div class="callout note"><span class="t">重點</span><p>顧問 → 有限度的諮商者 → 以「可以做」教學；主動處理<b>評量帶來的權力差距</b>。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">假想案例 3／3</span><span class="block">情境為綜合改寫之假想案例</span></div>
+  <h1>林太太：「照顧婆婆是應該的」</h1>
+  <p>47 歲，照顧失智婆婆三年，失眠、「常常莫名想哭」。說「應該的」時面帶微笑，<b>下巴微繃、輕嘆一口氣</b>。</p>
+  <div class="grid2" style="margin-top:12px">
+    <div class="card"><h3>假設</h3><p>未被符號化的委屈或悲傷（經驗與表達不一致）<br>也可能是真實認同照顧的價值，而身心耗竭</p></div>
+    <div class="card sage"><h3>做法</h3><p>先驗證她的價值 → 試探地反映嘆氣 → 給予許可但<b>不強加</b>表達</p></div>
+  </div>
+  <div class="callout warn"><span class="t">文化提醒</span><p>目標是協助<b>覺察</b>，不是要求她向婆婆或先生表達不滿。也要評估照顧負荷與憂鬱。</p></div>
+</section>
+
+<!-- 整合：49–52 -->
+<section class="slide">
+  <div class="top"><span class="kicker">臨床推理框架</span><span class="block">八步</span></div>
+  <h1>評估一個情緒的八個步驟</h1>
+  <div class="grid2" style="gap:12px">
+    <div class="card"><p><span class="num">1</span>我知道什麼？</p></div>
+    <div class="card"><p><span class="num">2</span>我還不知道什麼？</p></div>
+    <div class="card"><p><span class="num">3</span>我的類型假設？</p></div>
+    <div class="card"><p><span class="num">4</span>替代解釋與文化？</p></div>
+    <div class="card"><p><span class="num">5</span>四準則怎麼說？</p></div>
+    <div class="card"><p><span class="num">6</span>下一句試探回應？</p></div>
+    <div class="card"><p><span class="num">7</span>什麼會改變判斷？</p></div>
+    <div class="card"><p><span class="num">8</span>依類型定方向</p></div>
+  </div>
+  <div class="callout ask"><span class="t">受督者版</span><p>同樣八步，用來反思「我在晤談中卡在哪裡」，並帶一個標記進督導（見工作單 B）。</p></div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">臨床意義</span><span class="block">速查</span></div>
+  <h1>這對實務意味著什麼？</h1>
+  <table>
+    <tr><th style="width:24%">面向</th><th>本單元的意涵</th></tr>
+    <tr><td><b>評估</b></td><td>除了「什麼疾患」，也問「此刻情緒如何被處理」</td></tr>
+    <tr><td><b>概念化</b></td><td>區分表層的次發情緒與底層的原發情緒</td></tr>
+    <tr><td><b>介入</b></td><td>標記引導任務；先抵達，才能離開</td></tr>
+    <tr><td><b>關係</b></td><td>個案是經驗專家，治療師是歷程專家</td></tr>
+    <tr><td><b>風險</b></td><td>永遠另外評估，歷程診斷不能取代</td></tr>
+    <tr><td><b>督導</b></td><td>雙重焦點；錄影；不以人格評價；承認錯誤</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">證據基礎</span><span class="block">強度與限制</span></div>
+  <h1>哪些主張有證據？</h1>
+  <table>
+    <tr><th style="width:44%">主張</th><th>證據性質</th></tr>
+    <tr><td>EFT 具實證支持</td><td>本章只有背景陳述；研究在第6章</td></tr>
+    <tr><td>情緒以前語言的基模存在</td><td>引用 Lane（2008）</td></tr>
+    <tr><td>情緒與需求普世相通</td><td><b>理論前提</b>，本章未引研究</td></tr>
+    <tr><td>85%–90%治療師會當督導者</td><td>調查研究（1997，歐美樣本）</td></tr>
+    <tr><td>督導者的養成經驗</td><td>作者自述，不是研究證據</td></tr>
+    <tr><td>本督導模式有效</td><td><b>尚待驗證</b>（作者於第7章承認）</td></tr>
+  </table>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">批判思考</span><span class="block">限制與爭議</span></div>
+  <h1>還沒有答案的問題</h1>
+  <div class="card"><p><b>1.</b>「不看精神病理」，在精神病、物質使用或急性風險時的限度在哪裡？</p></div>
+  <div class="card" style="margin-top:14px"><p><b>2.</b> 普世情緒觀會不會把特定文化的「自我肯定」當成普世目標？</p></div>
+  <div class="card" style="margin-top:14px"><p><b>3.</b> 督導者同時是評分者時，「合作與平等」如何真正做到？</p></div>
+  <div class="card" style="margin-top:14px"><p><b>4.</b> 作者不用面質；面對危險行為時，是否需要更直接的回饋？</p></div>
+  <div class="card" style="margin-top:14px"><p><b>5.</b> 同理，可以被「教」嗎？（態度訓練 vs. 技能訓練）</p></div>
+</section>
+
+<!-- 收束：53–55 -->
+<section class="slide">
+  <div class="top"><span class="kicker">研究生複習頁</span><span class="block">帶走什麼</span></div>
+  <h1>四個層次的學習</h1>
+  <div class="grid2">
+    <div class="card blue"><h3>必須記住</h3><p>六大原則、四種情緒、四項準則、五種機制、三種角色、五類任務</p></div>
+    <div class="card sage"><h3>必須理解</h3><p>感受如何被建構；為何先抵達；知覺 vs. 概念知識；督導不是治療</p></div>
+    <div class="card warm"><h3>必須能夠應用</h3><p>判斷情緒類型並選擇回應；辨識一致與不一致的督導事件；用「可以做」給回饋</p></div>
+    <div class="card"><h3>必須能夠質疑</h3><p>病理觀的限度；普世情緒的文化限制；權力與合作；缺乏直接實證</p></div>
+  </div>
+</section>
+
+<section class="slide">
+  <div class="top"><span class="kicker">練習與工作單導覽</span><span class="block">什麼時候用什麼</span></div>
+  <h1>搭配練習與工作單</h1>
+  <table>
+    <tr><th style="width:18%">時機</th><th>建議使用</th></tr>
+    <tr><td><b>課前</b></td><td>E1 情境選擇題；工作單 A（概念整合）</td></tr>
+    <tr><td><b>課中</b></td><td>E2 區辨分類；E4 督導逐字稿；E6 三人角色扮演</td></tr>
+    <tr><td><b>課後</b></td><td>E3 找錯；E5 情緒評估撰寫；E7 漸進概念化；E8 反思</td></tr>
+    <tr><td><b>實習中</b></td><td>工作單 B：用去識別的片段，帶一個標記進督導</td></tr>
+  </table>
+  <div class="callout note"><span class="t">工作單 A 與 B 的差別</span><p>A 建構概念架構；B 把概念應用到案例上，並做出決策。</p></div>
+</section>
+
+<section class="slide cover">
+  <div class="top"><span class="kicker">參考資料</span><span class="block" style="color:#fff;border-color:#c9d6e2">單元 1 完</span></div>
+  <h1 style="font-size:56px;margin-top:30px">督導與治療一樣：<br>改變，發生在被理解之後。</h1>
+  <div class="fill"></div>
+  <p class="small" style="color:#dfe7ef;font-size:25px">主要來源：Greenberg, L. S., &amp; Tomescu, L. R. (2017). <i>Supervision Essentials for Emotion-Focused Therapy</i>. Washington, DC: American Psychological Association. 叢書序（pp. vii–xii）與第1章（pp. 3–27）。</p>
+  <p class="small" style="color:#c7d3de;font-size:23px">本資訊圖的表格與列表皆經改寫整理，引文為短句並附頁碼。原書案例已由作者改寫以保密；本資訊圖的案例皆為綜合改寫之假想情境。標示「延伸」者為本教材的補充，不是原書主張。<br>下一單元：EFT 督導模式的基本向度（第2章）</p>
+</section>
+
+        </div>
+    </div>
+    <script>
+    // 每張資訊圖原本是 1080×1080，依螢幕寬度等比例縮放；頁碼在載入後補上
+    (function () {
+        const slides = [...document.querySelectorAll('.deck .slide')];
+        slides.forEach((el, i) => {
+            const f = document.createElement('div');
+            f.className = 'foot';
+            f.innerHTML = '<span>單元1｜EFT 督導的基礎：理論、原則與督導者角色</span><span>臨床心語 @clinicmind</span><span class="pg">' + (i + 1) + '／' + slides.length + '</span>';
+            el.appendChild(f);
+        });
+        const fit = () => {
+            const w = Math.min(1080, document.querySelector('.deck').clientWidth);
+            slides.forEach((el) => { el.style.zoom = w / 1080; });
+        };
+        fit();
+        addEventListener('resize', fit);
+    })();
+    </script>
+
+    <footer>
+        <div class="footer-links">
+            <a href="../index.html">首頁</a>
+            <a href="../eft.html">認識 EFT</a>
+            <a href="index.html">EFT 督導學習系列</a>
+            <a href="../trauma.html">認識創傷</a>
+            <a href="../resources.html">自助資源</a>
+        </div>
+        <p>教學用途。內容依據 Greenberg, L. S., &amp; Tomescu, L. R. (2017). <i>Supervision Essentials for Emotion-Focused Therapy</i>. APA. 整理改寫，並非原書翻譯；所有案例皆為綜合改寫之假想情境。</p>
+        <div class="copyright">&copy; 2026 ClinicMind 臨床心語. All Rights Reserved.</div>
+    </footer>
+
+</body>
+</html>
