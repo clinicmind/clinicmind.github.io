@@ -122,7 +122,7 @@
         <section id="screening">
             <div class="inner">
                 <h2>自我評量</h2>
-                <p>以下三份是國際上廣泛使用、可免費使用的簡短篩檢量表，可以幫助您留意自己最近的狀態。</p>
+                <p>以下四份是國際上廣泛使用的簡短篩檢量表，可以幫助您留意自己最近的狀態。</p>
                 <div class="callout">
                     <ul class="dots">
                         <li>篩檢量表<strong>不是診斷</strong>。分數只能提示「值得進一步了解」，實際狀況需要由專業人員評估。</li>
@@ -169,6 +169,18 @@
                         <div class="result" role="status" aria-live="polite"></div>
                     </form>
                     <p class="muted" style="margin-top:1rem">來源：Spitzer, R. L., et al. (2006)。可免費使用，官方中文版本見 <a href="https://www.phqscreeners.com/select-screener" rel="noopener">phqscreeners.com</a>。</p>
+                </details>
+
+
+                <details class="scale" id="pgsi">
+                    <summary>賭博問題篩檢（PGSI，9 題）</summary>
+                    <form data-scale="pgsi" novalidate>
+                        <p style="margin-top:0.8rem">在<strong>過去 12 個月</strong>，以下情況出現的頻率是：</p>
+                        <div data-items></div>
+                        <button type="submit" class="scale-btn">看結果</button>
+                        <div class="result" role="status" aria-live="polite"></div>
+                    </form>
+                    <p class="muted" style="margin-top:1rem">來源：Ferris, J., &amp; Wynne, H. (2001). 加拿大問題賭博指數（Canadian Problem Gambling Index）中的問題賭博嚴重程度指數（PGSI），加拿大物質使用與成癮中心（CCSA）發展。想更了解，請見<a href="addiction.html">認識非物質成癮</a>。</p>
                 </details>
 
                 <p class="muted" style="margin-top:1.2rem">在台灣，也可以使用衛生福利部推出的「心情溫度計」App（簡式健康量表 BSRS-5）隨時記錄心情。</p>
@@ -264,6 +276,7 @@
                             <li>緊急求助：999</li>
                             <li>社會工作局輔導熱線：2826 1126（24 小時）</li>
                             <li><a href="https://www.caritas.org.mo/youth-and-community-service/213" rel="noopener">明愛生命熱線</a>：2852 5222（24 小時）</li>
+                            <li><a href="https://skhssco.org.mo/apartment/24%E5%B0%8F%E6%99%82%E8%B3%AD%E5%8D%9A%E8%BC%94%E5%B0%8E%E7%86%B1%E7%B7%9A%E5%8F%8A-%E7%B6%B2%E4%B8%8A%E8%BC%94%E5%B0%8E/" rel="noopener">聖公會賭博輔導熱線</a>：2823 0101（24 小時）</li>
                         </ul>
                     </div>
                     <div class="card">
@@ -280,6 +293,7 @@
                         <ul class="dots">
                             <li>緊急求助：999</li>
                             <li>撒瑪利亞防止自殺會：2389 2222（24 小時）</li>
+                            <li><a href="https://www.hyab.gov.hk/tc/policy_responsibilities/District_Community_and_Public_Relations/gambling.htm" rel="noopener">戒賭輔導熱線</a>：1834 633</li>
                         </ul>
                     </div>
                 </div>
@@ -291,11 +305,17 @@
         <div class="footer-links">
             <a href="index.html">首頁</a>
             <a href="about.html">關於我</a>
+            <a href="online.html">線上諮商</a>
             <a href="articles.html">知識專欄</a>
             <a href="trauma.html">認識創傷</a>
+            <a href="addiction.html">非物質成癮</a>
             <a href="eft.html">情緒取向治療</a>
+            <a href="ipt.html">人際心理治療</a>
+            <a href="family.html">給家人與伴侶</a>
+            <a href="glossary.html">心理名詞小辭典</a>
             <a href="resources.html">自助資源</a>
             <a href="faq.html">常見問題</a>
+            <a href="talks.html">講座與合作</a>
             <a href="index.html#booking">預約與聯絡</a>
             <a href="articles.html#newsletter">訂閱電子報</a>
             <a href="faq.html#privacy">私隱說明</a>
@@ -371,6 +391,29 @@
                     const band = bands.find(([min]) => score >= min)[1];
                     return `您的分數是 <span class="score">${score} / 21</span>，落在「${band}」焦慮情緒的範圍。` +
                         (score >= 10 ? "建議與臨床心理學家、精神科醫師或家庭醫師談談，做進一步的評估。" : "如果困擾持續或加重，也歡迎尋求專業協助。");
+                }
+            },
+            pgsi: {
+                options: [["從不", 0], ["有時", 1], ["經常", 2], ["幾乎總是", 3]],
+                items: [
+                    "您下注的金額，是否超過您真正輸得起的？",
+                    "您是否需要下更大的注，才能得到同樣的興奮感？",
+                    "賭輸之後，您是否會改天再去，想把輸掉的錢贏回來？",
+                    "您是否曾經借錢或變賣東西，來籌錢賭博？",
+                    "您是否覺得自己的賭博可能有問題？",
+                    "賭博是否為您帶來健康上的問題，包括壓力或焦慮？",
+                    "是否有人批評您的賭博，或說您有賭博問題（不論您是否認同）？",
+                    "您的賭博是否為您或您的家庭帶來經濟上的問題？",
+                    "您是否對自己賭博的方式，或賭博時發生的事感到內疚？"
+                ],
+                result(score) {
+                    const bands = [[8, "問題賭博"], [3, "中度風險"], [1, "低度風險"], [0, "沒有明顯問題"]];
+                    const band = bands.find(([min]) => score >= min)[1];
+                    let text = `您的分數是 <span class="score">${score} / 27</span>，落在「${band}」的範圍。`;
+                    if (score >= 8) text += "賭博可能已經明顯影響您的生活。建議與戒賭輔導機構或臨床心理學家談談：澳門可撥 24 小時賭博輔導熱線 2823 0101，香港可撥 1834 633。";
+                    else if (score >= 3) text += "有一些值得留意的跡象。可以試著記錄每次賭博的時間、金額和當時的心情，也歡迎找專業人員聊聊。";
+                    else text += "如果您仍然有擔心，這份感受本身就值得被好好照顧。";
+                    return text;
                 }
             }
         };

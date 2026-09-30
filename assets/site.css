@@ -129,3 +129,13 @@ table caption { text-align: left; font-weight: bold; color: var(--text-dark); pa
 
 /* 中文標題按詞組斷行，不把「找回」這類詞拆開 */
 .nb { display: inline-block; }
+
+/* 心理名詞小辭典 */
+.glossary { display: grid; gap: 0.8rem; margin-top: 1rem; }
+.glossary .term { background: var(--white); border-radius: 8px; padding: 0.9rem 1.2rem; border-left: 4px solid var(--primary-color); scroll-margin-top: 5rem; }
+main section:nth-of-type(even) .glossary .term { background: var(--secondary-color); }
+.glossary .term:target { border-left-color: var(--accent-color); }
+.glossary dt { font-weight: bold; color: var(--primary-text); }
+.glossary dt .en { font-weight: normal; color: var(--text-light); font-size: 0.9rem; margin-left: 0.3rem; }
+.glossary dd { margin: 0.3rem 0 0; }
+.glossary dd a { white-space: nowrap; }

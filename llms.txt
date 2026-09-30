@@ -16,14 +16,20 @@
 - [首頁](https://clinicmind.github.io/)：服務領域、治療取向、第一次諮商怎麼進行、預約方式
 - [關於我](https://clinicmind.github.io/about.html)：專業身分、工作方式、服務對象、保密原則
 - [常見問題](https://clinicmind.github.io/faq.html)：諮商前常見的疑問、線上諮商怎麼進行、保密、伴侶諮商
+- [線上諮商怎麼進行](https://clinicmind.github.io/online.html)：流程、需要準備什麼、私隱與安全、適合與不適合的情況、線上治療的研究
+- [講座與合作](https://clinicmind.github.io/talks.html)：講座主題〈讓感受有地方放〉〈吵架的時候，我們在找什麼〉〈停不下來的時候〉，歡迎機構、學校、企業邀請
 
 ## 心理衛教
 
 - [認識創傷與實證治療](https://clinicmind.github.io/trauma.html)：創傷反應、創傷後壓力症與複雜性創傷（依 ICD-11），以及國際臨床指引推薦的治療
+- [認識非物質成癮](https://clinicmind.github.io/addiction.html)：賭博障礙與遊戲障礙（ICD-11）、警訊、為什麼停不下來、澳門香港台灣戒賭與成癮求助資源
 - [認識情緒取向治療（EFT）](https://clinicmind.github.io/eft.html)：伴侶之間的追逃循環、治療三階段、研究怎麼說
+- [認識人際心理治療（IPT）](https://clinicmind.github.io/ipt.html)：四個焦點（哀傷與失落、人際衝突、角色轉變、人際困難）、治療三階段、研究怎麼說
+- [給家人與伴侶](https://clinicmind.github.io/family.html)：家人賭博或沉迷遊戲、伴侶有創傷時，怎麼開口、怎麼保護財務與照顧自己
+- [心理名詞小辭典](https://clinicmind.github.io/glossary.html)：安放、涵容、依附、追逃循環、複雜性創傷後壓力症、容納之窗、追輸等名詞的白話定義
 - [說出來，真的會好一點嗎？談「安放」](https://clinicmind.github.io/anfang.html)：安放系列第 1 篇，從沙遊的「自由且受保護的空間」與 Bion 的「涵容」談起
 - [知識專欄](https://clinicmind.github.io/articles.html)：依問題分類的文章索引
 
 ## 自助資源
 
-- [自助資源](https://clinicmind.github.io/resources.html)：PC-PTSD-5、PHQ-9、GAD-7 自我評量（只在瀏覽器計算、不傳送），穩定練習、書籍影片，以及澳門、台灣、香港求助專線
+- [自助資源](https://clinicmind.github.io/resources.html)：PC-PTSD-5、PHQ-9、GAD-7、PGSI（賭博問題）自我評量（只在瀏覽器計算、不傳送），穩定練習、書籍影片，以及澳門、台灣、香港求助專線
