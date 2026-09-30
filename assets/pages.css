@@ -19,7 +19,7 @@ body {
 }
 
 a { color: var(--primary-text); transition: 0.3s; }
-a:hover { color: #55756F; }
+a:hover { color: #3F5A55; }
 a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--primary-color); outline-offset: 2px; }
 
 /* 導覽列 */
@@ -81,7 +81,7 @@ main section:nth-of-type(even) .callout { background: var(--secondary-color); }
 table { width: 100%; border-collapse: collapse; background: var(--white); font-size: 0.95rem; }
 main section:nth-of-type(even) table { background: var(--secondary-color); }
 th, td { text-align: left; vertical-align: top; padding: 0.7rem 0.8rem; border-bottom: 1px solid #E4E0D8; }
-th { color: var(--primary-color); white-space: nowrap; }
+th { color: var(--primary-text); white-space: nowrap; }
 
 /* 量表 */
 .scale { background: var(--white); border-radius: 10px; padding: 1.5rem; margin-top: 1.4rem; }
@@ -96,7 +96,7 @@ main section:nth-of-type(even) .scale { background: var(--secondary-color); }
 .scale-btn:hover { background: #7A5738; }
 .result { margin-top: 1rem; }
 .result:empty { display: none; }
-.result .score { font-weight: bold; color: var(--primary-color); }
+.result .score { font-weight: bold; color: var(--primary-text); }
 
 /* 頁尾 */
 footer { background-color: #333; color: #ddd; padding: 3rem 10%; font-size: 0.9rem; }

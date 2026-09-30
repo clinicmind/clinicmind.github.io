@@ -1,15 +1,15 @@
 /* 全站共用：跳到內容連結、手機選單、無障礙色彩（首頁與內頁都載入，放在其他樣式之後） */
 :root {
     --text-light: #666666;   /* 輔助文字：在米白底上對比 5:1，達 WCAG AA */
-    --primary-text: #55756F; /* 鼠尾草綠加深，用於文字連結與按鈕底色 */
-    --accent-text: #946A48;  /* 暖陶色加深，用於小標題與按鈕底色 */
+    --primary-text: #4D6C66; /* 鼠尾草綠加深，用於文字連結與按鈕底色：米白底 5:1，達 WCAG AA */
+    --accent-text: #875E3F;  /* 暖陶色加深，用於小標題與按鈕底色：米白底 5:1，達 WCAG AA */
 }
 
 .skip-link { position: absolute; left: -9999px; top: 0; background: var(--primary-text); color: #fff; padding: 0.6rem 1rem; z-index: 2000; border-radius: 0 0 6px 0; }
 .skip-link:focus { left: 0; }
 
 .btn-reserve { background-color: var(--primary-text) !important; }
-.btn-reserve:hover { background-color: #466561 !important; }
+.btn-reserve:hover { background-color: #3F5A55 !important; }
 
 .nav-toggle {
     display: none;
@@ -76,3 +76,56 @@ main section:nth-of-type(even) .newsletter { background: var(--secondary-color);
     #site-nav ul { gap: 0.75rem !important; font-size: 0.88rem; }
     #site-nav a { white-space: nowrap; }
 }
+
+/* ---- 2026-09-30 體驗與無障礙優化 ---- */
+
+/* 錨點跳轉時，標題不會被固定的導覽列蓋住 */
+html { scroll-padding-top: 5.5rem; }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { transition: none !important; animation: none !important; }
+    .service-card:hover { transform: none !important; }
+}
+
+/* 導覽列：目前頁與滑過時用加深的綠，小字也清楚 */
+nav a:hover, nav a[aria-current="page"] { color: var(--primary-text) !important; }
+nav a[aria-current="page"] { font-weight: bold; }
+.nav-toggle { min-height: 44px; min-width: 44px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, summary:focus-visible { outline: 3px solid var(--primary-text); outline-offset: 2px; }
+
+/* 內文裡的連結加底線，不只靠顏色辨識（WCAG 1.4.1） */
+main p a:not(.btn-reserve):not(.cta-button):not(.cta-secondary),
+main li a, main td a, .faq-item a, .callout a { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+main .q-list a, main .service-card, main .toc a { text-decoration: none; }
+main .q-list a strong { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+
+/* 中文不用斜體（瀏覽器只會把字硬拉斜） */
+em, cite, blockquote { font-style: normal; }
+
+/* 作者與更新日期 */
+.byline { color: var(--text-light); font-size: 0.92rem; margin-top: 1rem !important; }
+.page-hero .byline { margin-top: 1.2rem; }
+
+/* 快速認識（給第一次來的人，也方便搜尋與 AI 正確引用） */
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 0.5rem 1.4rem; background: var(--white); border-radius: 10px; padding: 1.3rem 1.5rem; margin-top: 1rem; }
+main section:nth-of-type(even) .facts { background: var(--secondary-color); }
+.facts dt { font-weight: bold; color: var(--primary-text); }
+.facts dd { margin: 0; }
+@media (max-width: 560px) { .facts { grid-template-columns: 1fr; gap: 0.1rem; } .facts dd { margin-bottom: 0.6rem; } }
+
+/* 延伸閱讀 */
+.related { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.8rem; margin-top: 1rem; }
+.related a { display: block; background: var(--white); border-radius: 8px; padding: 0.9rem 1.1rem; border-left: 4px solid var(--primary-color); text-decoration: none !important; color: var(--text-dark); }
+main section:nth-of-type(even) .related a { background: var(--secondary-color); }
+.related a:hover { border-left-color: var(--accent-color); }
+.related strong { display: block; color: var(--primary-text); }
+
+/* 頁尾連結：手指好按 */
+.footer-links a { display: inline-block; padding: 0.35rem 0; }
+footer h3, footer h4 { color: #fff; margin-bottom: 0.4rem; }
+
+/* 表格標題 */
+table caption { text-align: left; font-weight: bold; color: var(--text-dark); padding-bottom: 0.5rem; }
+
+/* 中文標題按詞組斷行，不把「找回」這類詞拆開 */
+.nb { display: inline-block; }
