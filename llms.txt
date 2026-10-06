@@ -28,6 +28,8 @@
 - [給家人與伴侶](https://clinicmind.github.io/family.html)：家人賭博或沉迷遊戲、伴侶有創傷時，怎麼開口、怎麼保護財務與照顧自己
 - [心理名詞小辭典](https://clinicmind.github.io/glossary.html)：安放、涵容、依附、追逃循環、複雜性創傷後壓力症、容納之窗、追輸等名詞的白話定義
 - [說出來，真的會好一點嗎？談「安放」](https://clinicmind.github.io/anfang.html)：安放系列第 1 篇，從沙遊的「自由且受保護的空間」與 Bion 的「涵容」談起
+- [為什麼我一靠近伴侶，我們就吵架？](https://clinicmind.github.io/anfang-2.html)：安放系列第 2 篇，從「追逃循環」談爭吵背後的依附需要
+- [當個案說：「我問過 AI 了。」](https://clinicmind.github.io/ai-in-therapy.html)：寫給臨床工作者，從功能與個案概念化理解 AI 在個案心理循環中的角色
 - [知識專欄](https://clinicmind.github.io/articles.html)：依問題分類的文章索引
 
 ## 自助資源
