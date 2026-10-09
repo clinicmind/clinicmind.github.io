@@ -126,7 +126,7 @@
                 <p>以下四份是國際上廣泛使用的簡短篩檢量表，可以幫助您留意自己最近的狀態。</p>
                 <div class="callout">
                     <ul class="dots">
-                        <li>篩檢量表<strong>不是診斷</strong>。分數只能提示「值得進一步了解」，實際狀況需要由專業人員評估。</li>
+                        <li>這些是<strong>篩檢（screening）</strong>，用來留意最近的狀態，<strong>不是評估（assessment）或診斷</strong>。分數只能提示「值得進一步了解」，實際狀況需要由專業人員評估。</li>
                         <li>您的作答<strong>只在您自己的瀏覽器裡計算</strong>，不會被傳送、儲存或記錄。</li>
                         <li>中文題目為本站依原量表整理的參考翻譯；如需正式版本，請見各量表下方的官方來源。</li>
                     </ul>
@@ -492,7 +492,7 @@
                 const missing = answers.indexOf(null);
                 if (missing !== -1) { out.textContent = `還有題目沒有回答（第 ${missing + 1} 題）。`; return; }
                 const score = answers.reduce((a, b) => a + b, 0);
-                out.innerHTML = scale.result(score, answers) + '<br><span class="muted">提醒：這只是篩檢結果，不是診斷。</span>';
+                out.innerHTML = scale.result(score, answers) + '<br><span class="muted">提醒：這是篩檢（screening）結果，不是評估（assessment）或診斷。</span>';
             });
         });
     })();
