@@ -290,6 +290,9 @@
         .form-status { font-size: 0.95rem; min-height: 1.5em; }
         .form-status.ok { color: var(--primary-text); font-weight: bold; }
         .form-status.err { color: #A63737; }
+        .draft-fallback { display: grid; gap: 0.6rem; background: var(--white); border-radius: 6px; padding: 1rem; font-size: 0.95rem; }
+        .draft-fallback textarea { font: inherit; font-size: 0.9rem; padding: 0.7rem 0.9rem; border: 1px solid #D6D1C7; border-radius: 6px; width: 100%; color: var(--text-dark); background: var(--white); }
+        .draft-fallback button { justify-self: start; font: inherit; padding: 0.5rem 1rem; border: 1px solid var(--primary-color); border-radius: 6px; background: transparent; color: var(--primary-text); cursor: pointer; }
 
         /* --- 頁尾與免責聲明 (Footer) --- */
         footer {
@@ -398,7 +401,7 @@
           "areaServed": [
             {
               "@type": "Place",
-              "name": "線上（澳門、台灣、香港及其他地區）"
+              "name": "線上（澳門、台灣、香港；需按所在地確認）"
             }
           ],
           "availableLanguage": [
@@ -745,9 +748,16 @@
                     <label for="bf-consent">我已閱讀並同意上述個人資料收集聲明</label>
                 </div>
 
-                <p class="form-note">按「送出」後，會開啟您的電子郵件程式，並帶入剛才填好的內容，再按寄出就完成了。這個表單不處理緊急狀況，若有立即危險，請撥打頁尾的緊急電話。</p>
-                <button type="submit" class="cta-button" id="bf-submit">送出</button>
+                <p class="form-note">這個按鈕會嘗試開啟您的電郵程式並填入草稿。請先檢查內容，再在電郵程式按寄送。建立草稿不代表我已收到訊息，也不代表預約已確認；收到您的來信後，我會再與您聯絡確認安排。這個表單不處理緊急狀況，若有立即危險，請撥打頁尾的緊急電話。</p>
+                <button type="submit" class="cta-button" id="bf-submit">建立電郵草稿</button>
                 <p class="form-status" id="bf-status" role="status" aria-live="polite"></p>
+                <div class="draft-fallback" id="bf-fallback" hidden>
+                    <p>收件地址：<a href="mailto:clinicmind.inquire@gmail.com">clinicmind.inquire@gmail.com</a></p>
+                    <label for="bf-draft">草稿內容（可以自行複製，貼到電郵寄出）</label>
+                    <textarea id="bf-draft" rows="9" readonly></textarea>
+                    <button type="button" id="bf-copy">複製草稿</button>
+                    <p class="form-note">如果是和別人共用的裝置，複製的內容可能會留在剪貼簿裡，寄出後可以再複製其他文字把它蓋掉。</p>
+                </div>
             </form>
         </div>
     </section>
@@ -794,7 +804,7 @@
 
         <div class="crisis-warning">
             本網站與諮商服務不提供緊急救援。<br>
-            若您或身邊的人有立即危險或自傷念頭，請撥打緊急電話或前往最近的急診室：<br>
+            若您或身邊的人有立即危險，請撥打緊急電話或前往最近的急診室。<br>若沒有立即危險，但正有自傷念頭或很難撐下去，可以現在聯絡下面的支援熱線或您信任的人：<br>
             澳門：緊急求助 999｜社會工作局輔導熱線 2826 1126（24 小時）｜明愛生命熱線 2852 5222（24 小時）<br>
             台灣：緊急求助 119｜安心專線 1925（24 小時）｜生命線 1995<br>
             香港：緊急求助 999｜撒瑪利亞防止自殺會 2389 2222（24 小時）
@@ -831,8 +841,12 @@
                     "",
                     "我已閱讀並同意網站上的個人資料收集聲明。"
                 ].join("\n");
+                const fallback = document.getElementById("bf-fallback");
+                document.getElementById("bf-draft").value = body;
+                fallback.hidden = false;
                 window.location.href = "mailto:clinicmind.inquire@gmail.com?subject=" + encodeURIComponent("網站聯絡：" + form.type.value) + "&body=" + encodeURIComponent(body);
-                say("已為您開啟電子郵件，內容都填好了，按寄出就完成。如果沒有跳出郵件程式，請直接來信 clinicmind.inquire@gmail.com。", "ok");
+                // 無法得知郵件程式是否開啟或已寄出，所以不說「完成」
+                say("如果電郵程式已開啟，請在那裡檢查內容並按寄送，訊息才會寄出。若沒有開啟，可以複製下方草稿，自行寄到 clinicmind.inquire@gmail.com。");
                 return;
             }
             btn.disabled = true; say("送出中…");
@@ -843,6 +857,20 @@
             } catch (e) {
                 say("送出沒有成功，可能是網路不穩。請稍後再試，或來信 clinicmind.inquire@gmail.com。", "err");
             } finally { btn.disabled = false; }
+        });
+    })();
+    </script>
+    <script>
+    // 複製草稿：只在使用者主動按下時執行
+    (function () {
+        const btn = document.getElementById("bf-copy");
+        const draft = document.getElementById("bf-draft");
+        if (!btn || !draft) return;
+        btn.addEventListener("click", () => {
+            const done = () => { btn.textContent = "已複製"; };
+            const manual = () => { draft.focus(); draft.select(); btn.textContent = "請手動選取並複製"; };
+            if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(draft.value).then(done, manual);
+            else manual();
         });
     })();
     </script>

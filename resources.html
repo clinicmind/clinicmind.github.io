@@ -112,9 +112,10 @@
         <section id="help">
             <div class="inner">
                 <div class="crisis-box">
-                    <strong>如果您現在有傷害自己的念頭，或身處危險之中</strong><br>
-                    請不要一個人撐著。立刻撥打緊急電話 <strong>999（澳門、香港）</strong>、<strong>119／110（台灣）</strong>，或前往最近的急診室。<br>
-                    想找人說說話，可以打 24 小時專線：澳門明愛生命熱線 2852 5222、社會工作局輔導熱線 2826 1126；台灣安心專線 1925。更多資源見<a href="#hotlines">求助專線</a>。
+                    <strong>如果您或他人正處於立即危險</strong><br>
+                    請立刻撥打緊急電話 <strong>999（澳門、香港）</strong>、<strong>119／110（台灣）</strong>，或前往最近的急診室。若可以安全做到，請讓信任的人陪著您。本網站與電郵不提供即時救援。<br>
+                    <strong>如果沒有立即危險，但您正有傷害自己的念頭，或很難撐下去</strong><br>
+                    您不必一個人撐著，可以現在打 24 小時專線：澳門明愛生命熱線 2852 5222、社會工作局輔導熱線 2826 1126；台灣安心專線 1925。更多資源見<a href="#hotlines">求助專線</a>。
                 </div>
             </div>
         </section>
@@ -146,7 +147,7 @@
                         <button type="submit" class="scale-btn">看結果</button>
                         <div class="result" role="status" aria-live="polite"></div>
                     </form>
-                    <p class="muted" style="margin-top:1rem">來源：Prins, A., et al. (2016). 美國國家創傷後壓力症中心（National Center for PTSD）編製，屬公共領域。<a href="https://www.ptsd.va.gov/professional/assessment/screens/pc-ptsd.asp" rel="noopener">官方說明</a>。較完整的 20 題版本為 <a href="https://www.ptsd.va.gov/professional/assessment/adult-sr/ptsd-checklist.asp" rel="noopener">PCL-5</a>。</p>
+                    <p class="muted" style="margin-top:1rem">來源：Prins, A., et al. (2016). 美國國家創傷後壓力症中心（National Center for PTSD）編製，屬公共領域。<a href="https://www.ptsd.va.gov/professional/assessment/screens/pc-ptsd.asp" rel="noopener">官方說明</a>。另有一份較詳細的 20 題自陳量表 <a href="https://www.ptsd.va.gov/professional/assessment/adult-sr/ptsd-checklist.asp" rel="noopener">PCL-5</a>，是不同的工具，不是 PC-PTSD-5 的加長版。</p>
                 </details>
 
                 <details class="scale" id="phq-9">
@@ -322,7 +323,7 @@
         </div>
         <div class="crisis-warning">
             本網站與諮商服務不提供緊急救援。<br>
-            若您或身邊的人有立即危險或自傷念頭，請撥打緊急電話或前往最近的急診室：<br>
+            若您或身邊的人有立即危險，請撥打緊急電話或前往最近的急診室。<br>若沒有立即危險，但正有自傷念頭或很難撐下去，可以現在聯絡下面的支援熱線或您信任的人：<br>
             澳門：緊急求助 999｜社會工作局輔導熱線 2826 1126（24 小時）｜明愛生命熱線 2852 5222（24 小時）<br>
             台灣：緊急求助 119｜安心專線 1925（24 小時）｜生命線 1995<br>
             香港：緊急求助 999｜撒瑪利亞防止自殺會 2389 2222（24 小時）
@@ -335,7 +336,9 @@
     (function () {
         const FREQ = [["完全沒有", 0], ["有幾天", 1], ["一半以上的天數", 2], ["幾乎每天", 3]];
         const YESNO = [["是", 1], ["否", 0]];
-        const HELP = '如果您有傷害自己的念頭，請不要一個人撐著：澳門可撥明愛生命熱線 2852 5222 或社會工作局輔導熱線 2826 1126，台灣可撥安心專線 1925（皆為 24 小時），有立即危險請撥 999／119。';
+
+        // PHQ-9 第 9 題的支援提示：獨立顯示，不做風險分級
+        const SAFETY9 = `<strong>您提到近期有死亡或傷害自己的想法，這值得盡快得到真人支持。</strong>謝謝您誠實地回答，這需要勇氣。<br>如果您現在有立即危險，請撥打 999（澳門、香港）或 119（台灣），或前往最近的急診室。<br>如果沒有立即危險，也請不要一個人撐著：澳門可撥明愛生命熱線 2852 5222 或社會工作局輔導熱線 2826 1126，台灣可撥安心專線 1925（皆為 24 小時），也可以聯絡您信任的人或醫療／心理專業人員。更多地區見<a href="#hotlines">求助專線</a>。`;
 
         const SCALES = {
             pcptsd: {
@@ -371,7 +374,8 @@
                     const band = bands.find(([min]) => score >= min)[1];
                     let text = `您的分數是 <span class="score">${score} / 27</span>，落在「${band}」憂鬱情緒的範圍。`;
                     text += score >= 10 ? "建議與臨床心理學家、精神科醫師或家庭醫師談談，做進一步的評估。" : "如果困擾持續或加重，也歡迎尋求專業協助。";
-                    if (answers[8] > 0) text += `<br><br><strong>您在最後一題勾選了有這樣的念頭。</strong>謝謝您誠實地回答，這需要勇氣。${HELP}`;
+                    text += "<br><br>分數高低不能用來判斷是否安全，也不能用來判斷您是否值得求助。";
+                    if (answers[8] > 0) text = SAFETY9 + "<br><br>" + text;
                     return text;
                 }
             },
@@ -449,6 +453,20 @@
                 fs.appendChild(opts);
                 box.appendChild(fs);
             });
+
+            // PHQ-9 第 9 題一選非零，就先顯示支援提示，不必等全部答完
+            if (key === "phq9") {
+                const note = document.createElement("div");
+                note.className = "crisis-box";
+                note.setAttribute("role", "status");
+                note.hidden = true;
+                note.style.marginTop = "1rem";
+                note.innerHTML = SAFETY9;
+                box.appendChild(note);
+                form.querySelectorAll('input[name="phq9-8"]').forEach((r) => r.addEventListener("change", () => {
+                    note.hidden = !(r.checked && Number(r.value) > 0);
+                }));
+            }
 
             // PC-PTSD-5：沒有經歷過相關事件時，不需要回答後面的題目
             const gate = form.querySelectorAll('input[name="gate"]');
