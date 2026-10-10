@@ -133,8 +133,8 @@
                 <p>很多伴侶吵的不是誰對誰錯，而是「我在你心裡還重要嗎？」。從依附的角度，認識追與逃的循環、表層與底層的情緒，並練習一次比較容易被聽見的表達。</p>
                 <ol class="dots">
                     <li>每次吵的事不一樣，吵法卻一模一樣</li>
-                    <li>追與逃：兩個人都在保護這段關係</li>
-                    <li>憤怒底下的害怕與渴望</li>
+                    <li>追與逃：在沒有暴力或控制的衝突裡，兩個人可能都在保護自己或這段關係</li>
+                    <li>憤怒，以及它底下可能有的害怕與渴望</li>
                     <li>練習：把「你總是……」換成「我需要……」</li>
                     <li>什麼時候需要伴侶諮商，以及安全的界線</li>
                     <li>問答</li>
@@ -170,6 +170,33 @@
                     <li>聽眾是誰、大約人數</li>
                     <li>希望的主題與日期</li>
                 </ul>
+
+                <h3>或者，用選的建立邀請草稿</h3>
+                <p>選好後按「建立電郵草稿」，會嘗試開啟您的電郵程式並填入草稿，您檢查後自己寄出；按下按鈕不代表我已收到。這個表單只用來邀請講座，和諮商預約分開，<strong>請不要填寫任何個案、學生或員工的個人資料</strong>。</p>
+                <form id="talk-form" class="talk-form" novalidate autocomplete="off">
+                    <label for="tf-org">機構名稱（可不填）</label>
+                    <input id="tf-org" type="text" maxlength="60">
+                    <label for="tf-aud">聽眾</label>
+                    <select id="tf-aud">
+                        <option>家長</option><option>學生</option><option>社福或教育工作者</option><option>企業員工</option><option>專業團體</option><option>一般大眾</option><option>其他（在信中說明）</option>
+                    </select>
+                    <label for="tf-topic">主題</label>
+                    <select id="tf-topic">
+                        <option>讓感受有地方放：談安放與涵容</option><option>吵架的時候，我們在找什麼</option><option>停不下來的時候：認識非物質成癮</option><option>其他主題（在信中說明）</option>
+                    </select>
+                    <label for="tf-size">大約人數（可不填）</label>
+                    <input id="tf-size" type="text" inputmode="numeric" maxlength="10">
+                    <label for="tf-date">希望的日期或時段（可不填）</label>
+                    <input id="tf-date" type="text" maxlength="60" placeholder="例如 2027 年 3 月的週六下午">
+                    <label for="tf-lang">語言</label>
+                    <select id="tf-lang"><option>粵語</option><option>國語</option><option>English</option></select>
+                    <button type="submit" class="talk-btn">建立電郵草稿</button>
+                    <p id="tf-status" role="status" aria-live="polite"></p>
+                    <div id="tf-fallback" hidden>
+                        <label for="tf-draft">草稿內容（如果電郵程式沒有開啟，可以複製後寄到 clinicmind.inquire@gmail.com）</label>
+                        <textarea id="tf-draft" rows="8" readonly></textarea>
+                    </div>
+                </form>
             </div>
         </section>
     </main>
@@ -203,6 +230,30 @@
         <div class="copyright">&copy; 2026 臨床心語 ClinicMind. All Rights Reserved.</div>
     </footer>
 
+    <script>
+    // 講座邀請：只在使用者的裝置上組成電郵草稿，不送出任何資料
+    (function () {
+        const f = document.getElementById("talk-form");
+        if (!f) return;
+        f.addEventListener("submit", (ev) => {
+            ev.preventDefault();
+            const v = (id) => document.getElementById(id).value.trim();
+            const body = [
+                "講座邀請",
+                "機構名稱：" + (v("tf-org") || "（未填）"),
+                "聽眾：" + v("tf-aud"),
+                "主題：" + v("tf-topic"),
+                "大約人數：" + (v("tf-size") || "（未填）"),
+                "希望的日期或時段：" + (v("tf-date") || "（未填）"),
+                "語言：" + v("tf-lang")
+            ].join("\n");
+            document.getElementById("tf-draft").value = body;
+            document.getElementById("tf-fallback").hidden = false;
+            window.location.href = "mailto:clinicmind.inquire@gmail.com?subject=" + encodeURIComponent("講座邀請：" + v("tf-topic")) + "&body=" + encodeURIComponent(body);
+            document.getElementById("tf-status").textContent = "如果電郵程式已開啟，請在那裡檢查內容並按寄送，訊息才會寄出。若沒有開啟，可以複製下方草稿自行寄出。";
+        });
+    })();
+    </script>
     <script src="assets/site.js"></script>
     <!-- Cloudflare Web Analytics：不使用 cookie、不追蹤個人，只統計匿名瀏覽次數 -->
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "36f91e88fd374fbf9d9c52d89783ec22"}'></script>

@@ -325,6 +325,17 @@
         <p class="byline">撰寫／<a href="about.html">臨床心語（臨床心理學家）</a>・最後更新 <time datetime="2026-09-30">2026 年 9 月</time></p>
     </div>
 
+    <div class="finder" data-finder data-items="main .glossary .term" data-groups="main section" hidden>
+        <label for="find-q">搜尋名詞</label>
+        <input id="find-q" type="search" maxlength="40" autocomplete="off" placeholder="中文或英文都可以，例如：涵容、attachment">
+        <p class="finder-count" data-count role="status" aria-live="polite"></p>
+        <div class="finder-empty" data-empty hidden>
+            <p>沒有找到完全相符的名詞。可以換個說法，或看下面全部分類。</p>
+            <button type="button" data-clear>清除搜尋</button>
+        </div>
+        <p class="finder-note">搜尋只在您的瀏覽器裡比對，不會送出或記錄。</p>
+    </div>
+
     <nav class="toc" aria-label="本頁目錄">
         <ol>
             <li><a href="#g-anfang">安放與治療關係</a></li>
@@ -484,6 +495,7 @@
         <div class="copyright">&copy; 2026 臨床心語 ClinicMind. All Rights Reserved.</div>
     </footer>
 
+    <script src="assets/finder.js"></script>
     <script src="assets/site.js"></script>
     <!-- Cloudflare Web Analytics：不使用 cookie、不追蹤個人，只統計匿名瀏覽次數 -->
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "36f91e88fd374fbf9d9c52d89783ec22"}'></script>
