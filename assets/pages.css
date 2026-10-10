@@ -113,3 +113,40 @@ footer a { color: #ddd; }
     main section { padding: 2.5rem 16px; }
     footer { padding: 2.5rem 16px; }
 }
+
+/* 安定練習（資源頁） */
+.calm { background: var(--white); border-radius: 10px; padding: 1.4rem 1.5rem; margin: 1.4rem 0 2rem; border-top: 4px solid var(--primary-color); }
+main section:nth-of-type(even) .calm { background: var(--secondary-color); }
+.calm h3 { margin-top: 0; }
+.calm-pick, .calm-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.9rem; }
+.calm button { font: inherit; min-height: 44px; padding: 0.45rem 1.1rem; border-radius: 6px; border: 1px solid var(--primary-text); background: transparent; color: var(--primary-text); cursor: pointer; }
+.calm button[aria-pressed="true"], .calm button.primary { background: var(--primary-text); color: #fff; }
+.calm button.worse { border-color: #8A2E2E; color: #8A2E2E; }
+.calm-stage { margin-top: 1.2rem; padding: 1.1rem 1.2rem; border-radius: 8px; background: var(--secondary-color); }
+main section:nth-of-type(even) .calm-stage { background: var(--white); }
+.calm-title { font-weight: bold; color: var(--accent-text); }
+.calm-title:focus { outline: none; }
+.calm-count { color: var(--text-light); font-size: 0.92rem; }
+.calm-step { font-size: 1.15rem; line-height: 1.9; }
+.calm-text { margin-top: 1.2rem; display: grid; gap: 0.4rem; }
+.calm-text summary { cursor: pointer; color: var(--primary-text); }
+
+/* 量表：開始前資料、結果與清除 */
+.scale-meta { display: grid; grid-template-columns: max-content 1fr; gap: 0.25rem 1rem; margin-top: 0.9rem; font-size: 0.95rem; background: var(--secondary-color); padding: 0.8rem 1rem; border-radius: 8px; }
+main section:nth-of-type(even) .scale-meta { background: var(--white); }
+.scale-meta dt { font-weight: bold; color: var(--primary-text); }
+.scale-meta dd { margin: 0; }
+@media (max-width: 560px) { .scale-meta { grid-template-columns: 1fr; gap: 0; } .scale-meta dd { margin-bottom: 0.4rem; } }
+.scale-actions { display: flex; flex-wrap: wrap; gap: 0.8rem; align-items: center; }
+.scale-btn { background: var(--primary-text); min-height: 44px; }
+.scale-btn:hover { background: #3F5A55; }
+.scale-clear { font: inherit; min-height: 44px; margin-top: 0.8rem; padding: 0.6rem 1.2rem; border: 1px solid var(--primary-text); border-radius: 5px; background: transparent; color: var(--primary-text); cursor: pointer; }
+.result > * + * { margin-top: 0.8rem; }
+.result .r-note { font-weight: bold; }
+.result .r-more { color: var(--text-light); font-size: 0.92rem; }
+
+/* 準備清單（線上諮商頁） */
+.checklist fieldset { border: 0; display: grid; gap: 0.3rem; margin-top: 0.8rem; }
+.checklist label { display: flex; gap: 0.7rem; align-items: center; min-height: 44px; background: var(--white); border-radius: 8px; padding: 0.4rem 1rem; cursor: pointer; }
+main section:nth-of-type(even) .checklist label { background: var(--secondary-color); }
+.checklist input { width: 1.15rem; height: 1.15rem; accent-color: var(--primary-color); flex: none; }

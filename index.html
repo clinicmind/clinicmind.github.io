@@ -377,6 +377,22 @@
         .start-card span { color: var(--text-dark); }
         .start-help { text-align: center; margin-top: 1.8rem; }
         .start-help a, .booking-lead a { color: var(--primary-text); font-weight: bold; text-decoration: underline; text-underline-offset: 3px; }
+        .topics { max-width: 1000px; margin: 2.2rem auto 0; text-align: center; }
+        .topics h3 { color: var(--accent-text); font-size: 1.15rem; margin-bottom: 0.3rem; }
+        .topics-note { color: var(--text-light); font-size: 0.95rem; margin-bottom: 1rem; }
+        .topic-chips { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; }
+        .topic-chips a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.4rem 1.1rem; border: 1px solid var(--primary-text); border-radius: 50px; color: var(--primary-text); font-weight: bold; }
+        .topic-chips a:hover { background: var(--secondary-color); }
+        .topic-chips a[aria-current="true"] { background: var(--primary-text); color: var(--white); }
+        .topic-result { text-align: left; max-width: 760px; margin: 1.2rem auto 0; }
+        .topic-result:empty { display: none; }
+        .topic-head { font-weight: bold; margin-bottom: 0.6rem; }
+        .topic-list { display: grid; gap: 0.6rem; }
+        .topic-list li { background: var(--secondary-color); border-radius: 8px; padding: 0.8rem 1rem; border-left: 4px solid var(--primary-color); }
+        .topic-list a { display: block; color: var(--primary-text); font-weight: bold; text-decoration: underline; text-underline-offset: 3px; }
+        .topic-list span { color: var(--text-dark); font-size: 0.95rem; }
+        .topic-more { margin-top: 0.8rem; }
+        .topic-more a { color: var(--primary-text); text-decoration: underline; text-underline-offset: 3px; }
         .process-note { text-align: center; max-width: 720px; margin: 1.6rem auto 0; color: var(--text-dark); }
 
         /* --- 聯絡表單：回覆方式、錯誤提示 --- */
@@ -607,6 +623,19 @@
                 <strong>我想了解諮商</strong>
                 <span>誰提供服務、怎麼聯絡、什麼時候才算確認預約。</span>
             </a>
+        </div>
+        <div class="topics">
+            <h3 id="topics-title">或者，按主題找</h3>
+            <p class="topics-note">選一個最接近的主題，下面會列出最多三個可以先看的地方。只在這一頁顯示，不會被記錄。</p>
+            <ul class="topic-chips" aria-labelledby="topics-title">
+                <li><a href="articles.html#trauma" data-topic="trauma">創傷反應</a></li>
+                <li><a href="articles.html#relationship" data-topic="relation">關係</a></li>
+                <li><a href="articles.html#addiction" data-topic="habit">停不下來的習慣</a></li>
+                <li><a href="articles.html#selfcare" data-topic="mood">低落與焦慮</a></li>
+                <li><a href="family.html" data-topic="family">支持家人</a></li>
+                <li><a href="articles.html" data-topic="unsure">不確定</a></li>
+            </ul>
+            <div class="topic-result" id="topic-result" aria-live="polite"></div>
         </div>
         <p class="start-help">現在就很難受，或有人有立即危險？<a href="resources.html#help">先看即時支援</a></p>
     </section>
@@ -997,6 +1026,66 @@
             if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(draft.value).then(done, manual);
             else manual();
         });
+    })();
+    </script>
+    <script>
+    // 需求導覽：只在這一頁的記憶體裡切換，不寫入網址、Cookie 或任何儲存
+    (function () {
+        const PICKS = {
+            trauma: { label: "創傷反應", items: [
+                ["trauma.html#why", "事情都過去了，為什麼身體還是很緊繃？", "先理解反應從哪裡來，不需要回想細節。"],
+                ["resources.html#practice", "一至三分鐘的安定練習", "覺得緊繃或不在當下時，可以先做一個短練習。"],
+                ["trauma.html#evidence", "有哪些治療方式有研究支持", "想知道專業協助大概是什麼樣子時。"]] },
+            relation: { label: "關係", items: [
+                ["anfang-2.html", "為什麼我一靠近伴侶，我們就吵架？", "談追與逃的循環；文中也說明暴力與控制不屬於這種循環。"],
+                ["eft.html#cycle", "為什麼我們總是為同樣的事吵架？", "從情緒與依附的角度看反覆的爭吵。"],
+                ["faq.html#couples", "伴侶不願意一起來怎麼辦？", "一個人也可以先開始。"]] },
+            habit: { label: "停不下來的習慣", items: [
+                ["addiction.html#why", "為什麼知道不好，還是停不下來？", "不從意志力不足解釋，先理解這個行為的作用。"],
+                ["addiction.html#signs", "怎麼知道賭博或打機已經是問題？", "值得留意的訊號，以及可以聯絡的支援。"],
+                ["resources.html#hotlines", "賭博輔導與其他求助專線", "想現在就找人談時。"]] },
+            mood: { label: "低落與焦慮", items: [
+                ["anfang.html", "說出來，真的會好一點嗎？", "談怎樣讓感受先有地方放。"],
+                ["ipt.html", "失去、衝突、人生轉變之後，心情一直低落？", "從人際與生活轉變理解情緒。"],
+                ["resources.html#screening", "簡短自我評量（選用）", "想留意自己最近的狀態時；不做也完全可以聯絡。"]] },
+            family: { label: "支持家人", items: [
+                ["family.html", "我在乎的人正在受苦，我可以怎麼做？", "怎麼開口，也照顧自己。"],
+                ["family.html#addiction", "家人停不下來，我可以怎麼做？", "財務與界線要按您的情況考慮，安全優先。"],
+                ["resources.html#hotlines", "求助專線", "家人或您自己需要即時支援時。"]] },
+            unsure: { label: "不確定", items: [
+                ["resources.html#practice", "先做一個短練習", "不需要先弄清楚是什麼困擾。"],
+                ["faq.html#before", "開始之前的常見問題", "例如「我的困擾夠嚴重嗎？」"],
+                ["#process", "諮商怎麼開始", "說不清楚也可以來信，我們可以一起慢慢整理。"]] }
+        };
+        const chips = document.querySelectorAll(".topic-chips a[data-topic]");
+        const out = document.getElementById("topic-result");
+        if (!chips.length || !out) return;
+        const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text) n.textContent = text; return n; };
+        chips.forEach((chip) => chip.addEventListener("click", (ev) => {
+            ev.preventDefault();
+            const key = chip.dataset.topic;
+            const already = chip.getAttribute("aria-current") === "true";
+            chips.forEach((c) => c.removeAttribute("aria-current"));
+            out.textContent = "";
+            if (already) return; // 再按一次就收起
+            chip.setAttribute("aria-current", "true");
+            const pick = PICKS[key];
+            out.appendChild(el("p", "topic-head", "關於「" + pick.label + "」，可以先看："));
+            const ul = el("ul", "topic-list");
+            pick.items.forEach(([href, title, why]) => {
+                const li = el("li");
+                const a = el("a", null, title); a.href = href;
+                li.append(a, el("span", null, why));
+                ul.appendChild(li);
+            });
+            out.appendChild(ul);
+            const more = el("p", "topic-more");
+            const all = el("a", null, "看全部文章"); all.href = chip.getAttribute("href");
+            const talk = el("a", null, "直接聯絡我"); talk.href = "#booking";
+            const help = el("a", null, "即時支援"); help.href = "resources.html#help";
+            more.append(all, "｜", talk, "｜", help);
+            out.appendChild(more);
+        }));
     })();
     </script>
     <script src="assets/site.js"></script>
