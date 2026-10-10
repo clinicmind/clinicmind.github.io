@@ -86,7 +86,7 @@
 
         /* --- Hero Section (主視覺) --- */
         .hero {
-            padding: 8rem 5% 6rem;
+            padding: 5rem 5% 4rem;
             text-align: center;
             background: radial-gradient(ellipse at 20% 0%, rgba(107, 142, 136, 0.18), transparent 60%),
                         radial-gradient(ellipse at 90% 100%, rgba(193, 152, 117, 0.16), transparent 55%),
@@ -94,7 +94,7 @@
         }
 
         .hero h1 {
-            font-size: 2.5rem;
+            font-size: clamp(1.75rem, 1.2rem + 2.4vw, 2.5rem);
             margin-bottom: 1rem;
             color: var(--text-dark);
         }
@@ -108,7 +108,7 @@
 
         .cta-button {
             display: inline-block;
-            background-color: var(--accent-text);
+            background-color: var(--primary-text);
             color: var(--white);
             padding: 1rem 2rem;
             border-radius: 5px;
@@ -117,7 +117,7 @@
         }
 
         .cta-button:hover {
-            background-color: #7A5738;
+            background-color: #3F5A55;
         }
 
         /* --- 引言區 (Introduction) --- */
@@ -170,12 +170,18 @@
 
         .credentials {
             margin-top: 1.5rem;
-            font-size: 0.9rem;
-            color: var(--text-light);
-            background: #f9f9f9;
-            padding: 1rem;
-            border-radius: 5px;
+            font-size: 0.95rem;
+            color: var(--text-dark);
+            background: var(--white);
+            padding: 1.1rem 1.3rem;
+            border-radius: 8px;
+            border-left: 4px solid var(--primary-color);
         }
+        .credentials h3 { font-size: 1.05rem; color: var(--accent-text); margin-bottom: 0.6rem; }
+        .credentials dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.35rem 1rem; }
+        .credentials dt { font-weight: bold; color: var(--primary-text); }
+        .credentials dd { margin: 0; }
+        @media (max-width: 560px) { .credentials dl { grid-template-columns: 1fr; gap: 0; } .credentials dd { margin-bottom: 0.5rem; } }
 
         /* --- 服務項目 (Services) --- */
         .services {
@@ -360,11 +366,40 @@
         .footer-links a { color: #ddd; }
         .footer-links a:hover { color: var(--white); }
 
+        /* --- 三個需求入口 --- */
+        .hero-note { font-size: 0.95rem !important; margin: 1.4rem auto 0 !important; }
+        .start { padding: 4rem 10%; background: var(--white); }
+        .start h2 { color: var(--primary-color); font-size: 1.8rem; text-align: center; margin-bottom: 0.6rem; }
+        .start-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.2rem; max-width: 1000px; margin: 0 auto; }
+        .start-card { display: block; background: var(--secondary-color); border-radius: 10px; padding: 1.4rem 1.5rem; border-top: 4px solid var(--primary-color); }
+        .start-card:hover { border-top-color: var(--accent-color); }
+        .start-card strong { display: block; color: var(--primary-text); font-size: 1.15rem; margin-bottom: 0.4rem; text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; }
+        .start-card span { color: var(--text-dark); }
+        .start-help { text-align: center; margin-top: 1.8rem; }
+        .start-help a, .booking-lead a { color: var(--primary-text); font-weight: bold; text-decoration: underline; text-underline-offset: 3px; }
+        .process-note { text-align: center; max-width: 720px; margin: 1.6rem auto 0; color: var(--text-dark); }
+
+        /* --- 聯絡表單：回覆方式、錯誤提示 --- */
+        fieldset.choice { border: 0; padding: 0; }
+        fieldset.choice legend { font-weight: bold; font-size: 0.95rem; margin-bottom: 0.4rem; }
+        fieldset.choice label { display: flex; gap: 0.5rem; align-items: center; min-height: 44px; font-weight: normal; }
+        fieldset.choice input { width: 1.1rem; height: 1.1rem; accent-color: var(--primary-color); flex: none; }
+        .phone-block { display: grid; gap: 1.2rem; background: var(--white); border-radius: 6px; padding: 1rem; }
+        .phone-block[hidden] { display: none; }
+        .field-err { color: #A63737; font-size: 0.92rem; }
+        .field-err[hidden] { display: none; }
+        .field [aria-invalid="true"] { border-color: #A63737; }
+        .form-errors { background: #FBEDED; color: #7A2424; border-left: 4px solid #A63737; border-radius: 6px; padding: 0.8rem 1rem; font-weight: bold; }
+        .form-errors[hidden] { display: none; }
+        #bf-submit, .draft-fallback button { min-height: 44px; }
+        .draft-fallback[hidden] { display: none; }
+
         /* RWD Mobile Adjustment */
         @media (max-width: 768px) {
             .hero h1 { font-size: 2rem; }
             .about { flex-direction: column; padding: 3.5rem 16px; }
             .hero { padding: 4.5rem 16px 3.5rem; }
+            .start { padding: 3rem 16px; }
             .intro, .concerns, .services, .approach, .process, .featured-article, .booking { padding-left: 16px; padding-right: 16px; }
             .about-img { min-width: 0; width: 100%; max-width: 360px; }
         }
@@ -533,13 +568,13 @@
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">選單</button>
         <nav id="site-nav" aria-label="主要導覽">
             <ul>
-                <li><a href="about.html">關於我</a></li>
-                <li><a href="index.html#services">專業服務</a></li>
-                <li><a href="trauma.html">認識創傷</a></li>
+                <li><a href="about.html">關於與資格</a></li>
+                <li><a href="index.html#services">諮商服務</a></li>
                 <li><a href="articles.html">知識專欄</a></li>
                 <li><a href="resources.html">自助資源</a></li>
                 <li><a href="faq.html">常見問題</a></li>
-                <li><a href="index.html#booking" class="btn-reserve">預約諮詢</a></li>
+                <li><a href="resources.html#help" class="nav-support">即時支援</a></li>
+                <li><a href="index.html#booking" class="btn-reserve">聯絡與預約</a></li>
             </ul>
         </nav>
     </header>
@@ -548,11 +583,32 @@
     <section class="hero">
         <p class="hero-eyebrow"><span class="nb">臨床心理學家・線上心理諮商｜</span><span class="nb">創傷・非物質成癮・親密關係</span></p>
         <h1><span class="nb">在傷痛與關係裡，</span><span class="nb">找回安放身心的空間</span></h1>
-        <p>專注創傷、非物質成癮與親密關係，所有會談都在線上進行，在自己熟悉的地方就能開始。在一個安全、不被評價的空間裡，陪您慢慢理解自己，找到新的選擇。</p>
+        <p>以創傷、難以停止的行為與親密關係為重點的線上心理諮商。您可以先了解服務，也可以只從一篇文章或一個短練習開始。</p>
         <div class="hero-actions">
-            <a href="#booking" class="cta-button">預約諮詢</a>
-            <a href="resources.html" class="cta-secondary">先看看自助資源</a>
+            <a href="#process" class="cta-button">了解諮商方式</a>
+            <a href="#start" class="cta-secondary">先找適合我的資源</a>
         </div>
+        <p class="hero-note">線上服務的適用地區與安排，會在預約前與您確認。</p>
+    </section>
+
+    <section id="start" class="start" aria-labelledby="start-title">
+        <h2 id="start-title">您現在想從哪裡開始？</h2>
+        <p class="section-lead">不需要先做測驗，也不需要先決定要不要預約。選一個最接近您現在需要的就好。</p>
+        <div class="start-grid">
+            <a class="start-card" href="resources.html#practice">
+                <strong>我想先穩定一下</strong>
+                <span>一至三分鐘的小練習，隨時可以停下來，不用輸入任何資料。</span>
+            </a>
+            <a class="start-card" href="articles.html">
+                <strong>我想了解自己的困擾</strong>
+                <span>創傷反應、關係、停不下來的習慣、照顧家人，從問題找文章。</span>
+            </a>
+            <a class="start-card" href="#process">
+                <strong>我想了解諮商</strong>
+                <span>誰提供服務、怎麼聯絡、什麼時候才算確認預約。</span>
+            </a>
+        </div>
+        <p class="start-help">現在就很難受，或有人有立即危險？<a href="resources.html#help">先看即時支援</a></p>
     </section>
 
     <section class="intro">
@@ -598,10 +654,15 @@
             </ul>
             
             <div class="credentials">
-                <strong>專業資格：</strong><br>
-                • 臨床心理學碩士<br>
-                • 澳門衛生局註冊心理治療師<br>
-                • 澳門註冊心理治療師公會創會會員
+                <h3>專業身分與服務範圍</h3>
+                <dl>
+                    <dt>提供服務的人</dt><dd>「臨床心語 ClinicMind」是我的筆名與網站名稱，所有會談都由我本人進行</dd>
+                    <dt>專業資格</dt><dd>臨床心理學碩士；澳門衛生局註冊心理治療師</dd>
+                    <dt>學會身分</dt><dd>澳門註冊心理治療師公會創會會員（學會會員身分，與衛生局註冊分開）</dd>
+                    <dt>服務對象</dt><dd>成人個別諮商、伴侶諮商、家庭治療</dd>
+                    <dt>形式與語言</dt><dd>只提供線上視訊；粵語、國語、英語</dd>
+                    <dt>適用地區</dt><dd>按您會談時實際身處的地區確認，不適合時會與您討論其他求助方向</dd>
+                </dl>
             </div>
             <p style="margin-top: 1.2rem;"><a class="text-link" href="about.html">更多關於我與我的工作方式 →</a></p>
         </div>
@@ -642,11 +703,12 @@
         <h2>第一次諮商怎麼進行</h2>
         <p class="section-lead">不需要先想好要說什麼，也不需要確定自己「夠嚴重」</p>
         <ol class="steps">
-            <li><h3>留下聯絡方式</h3><p>在下方填寫稱呼和電話，或直接來信。只需要一兩句話，不用詳細說明。</p></li>
-            <li><h3>電話初談</h3><p>我會親自回電，簡短了解您想談的事，也回答您對諮商的疑問，再一起約時間。</p></li>
-            <li><h3>第一次會談</h3><p>多半用來認識彼此，了解您的處境與期待，一起決定接下來的方向。時間與費用可在電話初談時詢問。</p></li>
-            <li><h3>之後的會談</h3><p>頻率與次數依您的需要一起討論，過程中隨時可以調整或暫停。</p></li>
+            <li><h3>您自己寄出訊息</h3><p>用下方表單建立電郵草稿，檢查後在您的電郵程式寄出；也可以直接來信或私訊。一兩句話就好。</p></li>
+            <li><h3>收到我的回覆</h3><p>我會用您選擇的方式（電郵或電話）親自回覆，簡短了解您想談的事，也回答您對諮商的疑問。</p></li>
+            <li><h3>確認是否適合與安排</h3><p>一起確認您會談時身處的地區、語言、時段，以及會談時間與費用。不適合時，我會與您討論其他求助方向。</p></li>
+            <li><h3>雙方確認後才算預約</h3><p>時間雙方都確認了，預約才算完成。第一次會談多半用來認識彼此，了解您的處境與期待；之後的頻率依您的需要一起討論，隨時可以調整或暫停。</p></li>
         </ol>
+        <p class="process-note">寄出訊息或初次聯絡，不代表已經開始治療關係；您可以問清楚再決定。</p>
         <p class="process-more"><a class="text-link" href="faq.html">費用、保密與其他常見問題 →</a></p>
     </section>
 
@@ -685,26 +747,64 @@
     <section id="booking" class="booking">
         <div class="booking-inner">
             <h2>預約與聯絡</h2>
-            <p class="booking-lead">留下稱呼和電話，我會親自以電話與您聯絡，一起看看怎麼安排比較合適。也可以直接來信 <a href="mailto:clinicmind.inquire@gmail.com">clinicmind.inquire@gmail.com</a>，或在 Instagram／Threads 私訊 @clinicmind。諮商與合作邀約都歡迎。</p>
+            <p class="booking-lead">想了解諮商、講座合作，或只是有問題想問，都可以直接來信 <a href="mailto:clinicmind.inquire@gmail.com">clinicmind.inquire@gmail.com</a>，或在 Instagram／Threads 私訊 @clinicmind。也可以用下面的表單建立電郵草稿；只有標示「必填」的欄位需要填。</p>
 
             <form id="booking-form" novalidate>
+                <p class="form-errors" id="bf-errors" tabindex="-1" hidden></p>
                 <div class="field">
-                    <label for="bf-name">怎麼稱呼您</label>
-                    <input id="bf-name" name="name" type="text" autocomplete="name" maxlength="40" required>
+                    <label for="bf-type">想聯絡的事情</label>
+                    <select id="bf-type" name="type">
+                        <option>了解或預約諮商</option>
+                        <option>講座或專業合作</option>
+                        <option>一般問題</option>
+                    </select>
                 </div>
                 <div class="field">
-                    <label for="bf-phone">聯絡電話</label>
-                    <input id="bf-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" maxlength="30" placeholder="例如 +853 6xxx xxxx" required>
+                    <label for="bf-name">怎麼稱呼您（必填，暱稱也可以）</label>
+                    <input id="bf-name" name="name" type="text" autocomplete="nickname" maxlength="40" required aria-describedby="bf-name-err">
+                    <p class="field-err" id="bf-name-err" hidden></p>
+                </div>
+                <fieldset class="field choice">
+                    <legend>希望我怎麼回覆您</legend>
+                    <label><input type="radio" name="via" value="email" checked> 電郵：回覆到您寄出這封信的電郵地址</label>
+                    <label><input type="radio" name="via" value="phone"> 電話</label>
+                </fieldset>
+                <div class="phone-block" id="bf-phone-block">
+                    <div class="field">
+                        <label for="bf-phone">聯絡電話（選電話時必填，可加國際區號）</label>
+                        <input id="bf-phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" maxlength="30" placeholder="例如 +853 6xxx xxxx" aria-describedby="bf-phone-err">
+                        <p class="field-err" id="bf-phone-err" hidden></p>
+                    </div>
+                    <div class="field-row">
+                        <div class="field">
+                            <label for="bf-time">方便接電話的時段</label>
+                            <select id="bf-time" name="time">
+                                <option>都可以</option>
+                                <option>平日白天</option>
+                                <option>平日晚上</option>
+                                <option>週末</option>
+                            </select>
+                        </div>
+                        <div class="field">
+                            <label for="bf-msg">沒接到電話時</label>
+                            <select id="bf-msg" name="voicemail">
+                                <option>可以留言或傳訊息</option>
+                                <option>請不要留言，再打給我就好</option>
+                            </select>
+                        </div>
+                    </div>
                 </div>
                 <div class="field-row">
                     <div class="field">
-                        <label for="bf-time">方便接電話的時段</label>
-                        <select id="bf-time" name="time">
-                            <option>平日白天</option>
-                            <option>平日晚上</option>
-                            <option>週末</option>
-                            <option>都可以</option>
+                        <label for="bf-region">會談時您大概身處哪裡</label>
+                        <select id="bf-region" name="region" aria-describedby="bf-region-hint">
+                            <option>澳門</option>
+                            <option>香港</option>
+                            <option>台灣</option>
+                            <option>其他地區</option>
+                            <option>還不確定</option>
                         </select>
+                        <p class="form-note" id="bf-region-hint">只需要地區，用來確認是否適合由我提供服務；不需要地址。</p>
                     </div>
                     <div class="field">
                         <label for="bf-lang">想使用的語言</label>
@@ -716,16 +816,9 @@
                     </div>
                 </div>
                 <div class="field">
-                    <label for="bf-type">想聯絡的事情</label>
-                    <select id="bf-type" name="type">
-                        <option>預約諮商</option>
-                        <option>專業合作（轉介、講座、機構合作）</option>
-                        <option>其他</option>
-                    </select>
-                </div>
-                <div class="field">
                     <label for="bf-note">簡短說明（可不填）</label>
-                    <textarea id="bf-note" name="note" rows="3" maxlength="300" placeholder="一兩句就好。請不要寫下詳細病情或其他人的資料，會談或通電話時再慢慢談。"></textarea>
+                    <textarea id="bf-note" name="note" rows="3" maxlength="300" aria-describedby="bf-note-hint"></textarea>
+                    <p class="form-note" id="bf-note-hint">一兩句就好。請不要寫身分證號碼、詳細病情或其他人的資料，之後再慢慢談。</p>
                 </div>
                 <div class="hp" aria-hidden="true">
                     <label for="bf-website">網站</label>
@@ -735,7 +828,7 @@
                 <details class="privacy">
                     <summary>個人資料收集聲明（第 8/2005 號法律《個人資料保護法》）</summary>
                     <ol>
-                        <li>您填寫的稱呼、電話、聯絡時段、語言與說明，只用於回覆您這次的預約或合作查詢。</li>
+                        <li>您填寫的稱呼、回覆方式、電話與聯絡偏好（如有）、所在地區、語言與說明，只用於回覆您這次的諮商或合作查詢。</li>
                         <li>資料會寄到並儲存在 Google 提供的雲端服務（Gmail），伺服器可能位於澳門以外的地方。</li>
                         <li>除為履行法定義務或經您同意外，資料不會轉交其他機構或實體。</li>
                         <li>查詢處理完畢後，資料會在 6 個月內刪除。</li>
@@ -744,9 +837,10 @@
                     </ol>
                 </details>
                 <div class="consent">
-                    <input id="bf-consent" name="consent" type="checkbox" required>
-                    <label for="bf-consent">我已閱讀並同意上述個人資料收集聲明</label>
+                    <input id="bf-consent" name="consent" type="checkbox" required aria-describedby="bf-consent-err">
+                    <label for="bf-consent">我已閱讀並同意上述個人資料收集聲明（必填）</label>
                 </div>
+                <p class="field-err" id="bf-consent-err" hidden></p>
 
                 <p class="form-note">這個按鈕會嘗試開啟您的電郵程式並填入草稿。請先檢查內容，再在電郵程式按寄送。建立草稿不代表我已收到訊息，也不代表預約已確認；收到您的來信後，我會再與您聯絡確認安排。這個表單不處理緊急狀況，若有立即危險，請撥打頁尾的緊急電話。</p>
                 <button type="submit" class="cta-button" id="bf-submit">建立電郵草稿</button>
@@ -823,24 +917,55 @@
         const status = document.getElementById("bf-status");
         const btn = document.getElementById("bf-submit");
         const say = (text, kind) => { status.textContent = text; status.className = "form-status " + (kind || ""); };
+        const phoneBlock = document.getElementById("bf-phone-block");
+        const errBox = document.getElementById("bf-errors");
+        const via = () => (form.querySelector('input[name="via"]:checked') || {}).value || "email";
+        const syncVia = () => { phoneBlock.hidden = via() !== "phone"; };
+        form.querySelectorAll('input[name="via"]').forEach((r) => r.addEventListener("change", syncVia));
+        syncVia();
+        const fieldErr = (input, msg) => {
+            const el = document.getElementById(input.id + "-err");
+            if (msg) { input.setAttribute("aria-invalid", "true"); el.textContent = msg; el.hidden = false; }
+            else { input.removeAttribute("aria-invalid"); el.textContent = ""; el.hidden = true; }
+        };
         form.addEventListener("submit", async (ev) => {
             ev.preventDefault();
-            const name = form.name.value.trim(), phone = form.phone.value.trim();
-            if (!name || !phone) { say("請填寫稱呼和聯絡電話。", "err"); return; }
-            if (!/^[+\d][\d\s-]{6,}$/.test(phone)) { say("電話格式看起來不太對，請再確認一次。", "err"); return; }
-            if (!form.consent.checked) { say("請先閱讀並勾選同意個人資料收集聲明。", "err"); return; }
+            if (form.website.value) return; // 防垃圾欄位被填，安靜略過
+            const name = form.name.value.trim(), phone = form.phone.value.trim(), byPhone = via() === "phone";
+            const problems = [];
+            fieldErr(form.name, name ? "" : "請填寫怎麼稱呼您，暱稱也可以。");
+            if (!name) problems.push(form.name);
+            let phoneMsg = "";
+            if (byPhone && !phone) phoneMsg = "您選了用電話回覆，請填寫聯絡電話。";
+            else if (byPhone && !/^[+\d][\d\s-]{6,}$/.test(phone)) phoneMsg = "電話格式看起來不太對，可以只用數字、空格、橫線和開頭的 +。";
+            fieldErr(form.phone, phoneMsg);
+            if (phoneMsg) problems.push(form.phone);
+            fieldErr(form.consent, form.consent.checked ? "" : "請先閱讀並勾選同意個人資料收集聲明。");
+            if (!form.consent.checked) problems.push(form.consent);
+            if (problems.length) {
+                errBox.textContent = "還有 " + problems.length + " 個地方需要補上，已在欄位下方標示。";
+                errBox.hidden = false;
+                problems[0].focus();
+                say("");
+                return;
+            }
+            errBox.hidden = true;
             if (!FORM_ENDPOINT) {
                 // 還沒有設定表單後台時，改用電子郵件寄出：開啟訪客自己的郵件程式，內容已填好
-                const body = [
-                    "稱呼：" + name,
-                    "電話：" + phone,
-                    "方便接電話的時段：" + form.time.value,
-                    "想使用的語言：" + form.lang.value,
+                const lines = [
                     "想聯絡的事情：" + form.type.value,
+                    "稱呼：" + name,
+                    "希望的回覆方式：" + (byPhone ? "電話" : "電郵（回覆到這個寄件地址）")
+                ];
+                if (byPhone) lines.push("電話：" + phone, "方便接電話的時段：" + form.time.value, "沒接到電話時：" + form.voicemail.value);
+                lines.push(
+                    "會談時所在地區：" + form.region.value,
+                    "想使用的語言：" + form.lang.value,
                     "簡短說明：" + (form.note.value.trim() || "（未填）"),
                     "",
                     "我已閱讀並同意網站上的個人資料收集聲明。"
-                ].join("\n");
+                );
+                const body = lines.join("\n");
                 const fallback = document.getElementById("bf-fallback");
                 document.getElementById("bf-draft").value = body;
                 fallback.hidden = false;
@@ -853,7 +978,7 @@
             try {
                 await fetch(FORM_ENDPOINT, { method: "POST", mode: "no-cors", body: new URLSearchParams(new FormData(form)) });
                 form.reset();
-                say("已經收到您的留言，我會盡快以電話與您聯絡。", "ok");
+                say("已經收到您的留言，我會用您選擇的方式與您聯絡。", "ok");
             } catch (e) {
                 say("送出沒有成功，可能是網路不穩。請稍後再試，或來信 clinicmind.inquire@gmail.com。", "err");
             } finally { btn.disabled = false; }
