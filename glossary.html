@@ -307,13 +307,13 @@
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">選單</button>
         <nav id="site-nav" aria-label="主要導覽">
             <ul>
-                <li><a href="about.html">關於我</a></li>
-                <li><a href="index.html#services">專業服務</a></li>
-                <li><a href="trauma.html">認識創傷</a></li>
+                <li><a href="about.html">關於與資格</a></li>
+                <li><a href="index.html#services">諮商服務</a></li>
                 <li><a href="articles.html">知識專欄</a></li>
                 <li><a href="resources.html">自助資源</a></li>
                 <li><a href="faq.html">常見問題</a></li>
-                <li><a href="index.html#booking" class="btn-reserve">預約諮詢</a></li>
+                <li><a href="resources.html#help" class="nav-support">即時支援</a></li>
+                <li><a href="index.html#booking" class="btn-reserve">聯絡與預約</a></li>
             </ul>
         </nav>
     </header>
@@ -323,6 +323,17 @@
         <h1>心理名詞小辭典</h1>
         <p>網站文章裡常出現的心理學名詞，每個用一段話說清楚，並連回可以深入閱讀的地方。</p>
         <p class="byline">撰寫／<a href="about.html">臨床心語（臨床心理學家）</a>・最後更新 <time datetime="2026-09-30">2026 年 9 月</time></p>
+    </div>
+
+    <div class="finder" data-finder data-items="main .glossary .term" data-groups="main section" hidden>
+        <label for="find-q">搜尋名詞</label>
+        <input id="find-q" type="search" maxlength="40" autocomplete="off" placeholder="中文或英文都可以，例如：涵容、attachment">
+        <p class="finder-count" data-count role="status" aria-live="polite"></p>
+        <div class="finder-empty" data-empty hidden>
+            <p>沒有找到完全相符的名詞。可以換個說法，或看下面全部分類。</p>
+            <button type="button" data-clear>清除搜尋</button>
+        </div>
+        <p class="finder-note">搜尋只在您的瀏覽器裡比對，不會送出或記錄。</p>
     </div>
 
     <nav class="toc" aria-label="本頁目錄">
@@ -476,7 +487,7 @@
         </div>
         <div class="crisis-warning">
             本網站與諮商服務不提供緊急救援。<br>
-            若您或身邊的人有立即危險或自傷念頭，請撥打緊急電話或前往最近的急診室：<br>
+            若您或身邊的人有立即危險，請撥打緊急電話或前往最近的急診室。<br>若沒有立即危險，但正有自傷念頭或很難撐下去，可以現在聯絡下面的支援熱線或您信任的人：<br>
             澳門：緊急求助 999｜社會工作局輔導熱線 2826 1126（24 小時）｜明愛生命熱線 2852 5222（24 小時）<br>
             台灣：緊急求助 119｜安心專線 1925（24 小時）｜生命線 1995<br>
             香港：緊急求助 999｜撒瑪利亞防止自殺會 2389 2222（24 小時）
@@ -484,6 +495,7 @@
         <div class="copyright">&copy; 2026 臨床心語 ClinicMind. All Rights Reserved.</div>
     </footer>
 
+    <script src="assets/finder.js"></script>
     <script src="assets/site.js"></script>
     <!-- Cloudflare Web Analytics：不使用 cookie、不追蹤個人，只統計匿名瀏覽次數 -->
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "36f91e88fd374fbf9d9c52d89783ec22"}'></script>

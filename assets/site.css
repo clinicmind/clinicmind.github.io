@@ -139,3 +139,17 @@ main section:nth-of-type(even) .glossary .term { background: var(--secondary-col
 .glossary dt .en { font-weight: normal; color: var(--text-light); font-size: 0.9rem; margin-left: 0.3rem; }
 .glossary dd { margin: 0.3rem 0 0; }
 .glossary dd a { white-space: nowrap; }
+
+/* ---- 2026-10 批次 B：導覽、按鈕與閱讀 ---- */
+
+/* 即時支援：導覽列上清楚可見的文字連結，不搶主要按鈕 */
+#site-nav .nav-support { color: #8A2E2E; font-weight: bold; text-decoration: underline; text-underline-offset: 3px; }
+#site-nav .nav-support:hover { color: #6E2222 !important; }
+
+/* 主要操作全站統一為深鼠尾草綠實心，手指好按 */
+.btn-reserve { display: inline-block; min-height: 44px; line-height: 1.6; }
+@media (min-width: 769px) { #site-nav ul { align-items: center; } #site-nav .btn-reserve { display: inline-flex; align-items: center; } }
+
+/* 內頁閱讀：內文字級稍大 */
+main .inner { font-size: 1.0625rem; }
+.page-hero h1 { font-size: clamp(1.6rem, 1.15rem + 2vw, 2.2rem) !important; }
