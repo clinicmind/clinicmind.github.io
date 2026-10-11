@@ -150,3 +150,24 @@ main section:nth-of-type(even) .scale-meta { background: var(--white); }
 .checklist label { display: flex; gap: 0.7rem; align-items: center; min-height: 44px; background: var(--white); border-radius: 8px; padding: 0.4rem 1rem; cursor: pointer; }
 main section:nth-of-type(even) .checklist label { background: var(--secondary-color); }
 .checklist input { width: 1.15rem; height: 1.15rem; accent-color: var(--primary-color); flex: none; }
+
+/* 講座邀請草稿 */
+.talk-form { display: grid; gap: 0.4rem; max-width: 34rem; margin-top: 0.8rem; }
+.talk-form label { font-weight: bold; margin-top: 0.5rem; }
+.talk-form input, .talk-form select, .talk-form textarea { font: inherit; padding: 0.6rem 0.8rem; border: 1px solid #C9C3B8; border-radius: 6px; background: var(--white); color: var(--text-dark); width: 100%; }
+.talk-btn { justify-self: start; margin-top: 0.9rem; min-height: 44px; padding: 0.6rem 1.4rem; border: 0; border-radius: 6px; background: var(--primary-text); color: #fff; font: inherit; font-weight: bold; cursor: pointer; }
+#tf-fallback[hidden] { display: none; }
+
+/* 本頁搜尋與篩選（知識專欄、名詞辭典） */
+.finder { background: var(--white); max-width: 880px; margin: 0 auto 1rem; padding: 1.2rem 1.6rem; border-radius: 10px; display: grid; gap: 0.5rem; }
+.finder[hidden] { display: none; }
+.finder > label { font-weight: bold; }
+.finder input[type=search], .finder select { font: inherit; padding: 0.6rem 0.8rem; border: 1px solid #C9C3B8; border-radius: 6px; background: var(--white); color: var(--text-dark); min-height: 44px; }
+.finder-row { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; }
+.finder-aud { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.finder button { font: inherit; min-height: 44px; padding: 0.4rem 1rem; border: 1px solid var(--primary-text); border-radius: 6px; background: transparent; color: var(--primary-text); cursor: pointer; }
+.finder button[aria-pressed="true"] { background: var(--primary-text); color: #fff; }
+.finder-count:empty { display: none; }
+.finder-empty[hidden] { display: none; }
+.finder-note { color: var(--text-light); font-size: 0.88rem; }
+.q-list a[hidden], .glossary .term[hidden], main section[hidden] { display: none; }

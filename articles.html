@@ -95,6 +95,26 @@
         <p>依照您心裡的問題，找到相關的文章與資源。本站內容為一般心理衛教，不能取代專業評估。</p>
     </div>
 
+    <div class="finder" data-finder data-items="main .q-list a" data-groups="main section" hidden>
+        <label for="find-q">搜尋文章</label>
+        <input id="find-q" type="search" maxlength="40" autocomplete="off" placeholder="例如：創傷、吵架、賭博、PTSD">
+        <div class="finder-row">
+            <label for="find-topic" class="sr-only">主題</label>
+            <select id="find-topic" data-topic><option value="">全部主題</option></select>
+            <div class="finder-aud" role="group" aria-label="讀者">
+                <button type="button" data-aud="all" aria-pressed="true">全部讀者</button>
+                <button type="button" data-aud="public" aria-pressed="false">一般讀者</button>
+                <button type="button" data-aud="professional" aria-pressed="false">專業工作者</button>
+            </div>
+        </div>
+        <p class="finder-count" data-count role="status" aria-live="polite"></p>
+        <div class="finder-empty" data-empty hidden>
+            <p>沒有找到完全相符的內容。可以換個說法，或看全部分類。</p>
+            <button type="button" data-clear>清除搜尋與篩選</button>
+        </div>
+        <p class="finder-note">搜尋只在您的瀏覽器裡比對，不會送出或記錄。</p>
+    </div>
+
     <nav class="toc" aria-label="本頁目錄">
         <ol>
             <li><a href="#anfang">安放系列</a></li>
@@ -112,8 +132,8 @@
                 <h2>安放系列</h2>
                 <p>每月一篇，回答一個常被問到的問題，談怎樣讓感受有地方放。</p>
                 <div class="q-list">
-                    <a href="anfang.html"><strong>說出來，真的會好一點嗎？</strong><span>從沙遊的「自由且受保護的空間」和 Bion 的「涵容」，談安放的三層。</span></a>
-                    <a href="anfang-2.html"><strong>為什麼我一靠近伴侶，我們就吵架？</strong><span>從追逃循環談爭吵背後的依附需要，以及怎麼讓靠近變得安全。</span></a>
+                    <a href="anfang.html" data-alias="安放 涵容 情緒 說出來"><strong>說出來，真的會好一點嗎？</strong><span>從沙遊的「自由且受保護的空間」和 Bion 的「涵容」，談安放的三層。</span></a>
+                    <a href="anfang-2.html" data-alias="伴侶 吵架 追逃 依附"><strong>為什麼我一靠近伴侶，我們就吵架？</strong><span>從追逃循環談爭吵背後的依附需要，以及怎麼讓靠近變得安全。</span></a>
                 </div>
             </div>
         </section>
@@ -125,8 +145,8 @@
                 <div class="q-list">
                     <a href="trauma.html#what"><strong>什麼樣的經驗算是「創傷」？</strong><span>不只是重大災難，長期的忽略、關係裡的傷害也可能留下痕跡。</span></a>
                     <a href="trauma.html#why"><strong>事情都過去了，為什麼身體還是很緊繃？</strong><span>身體裡的警報系統與「容納之窗」。</span></a>
-                    <a href="trauma.html#ptsd"><strong>創傷後壓力症和複雜性創傷有什麼不同？</strong><span>依世界衛生組織 ICD-11 的說明。</span></a>
-                    <a href="trauma.html#evidence"><strong>有哪些治療方式真的有研究支持？</strong><span>國際臨床指引推薦的創傷治療。</span></a>
+                    <a href="trauma.html#ptsd" data-alias="PTSD CPTSD 創傷後壓力症 ICD"><strong>創傷後壓力症和複雜性創傷有什麼不同？</strong><span>依世界衛生組織 ICD-11 的說明。</span></a>
+                    <a href="trauma.html#evidence" data-alias="CPT PE EMDR 治療 指引"><strong>有哪些治療方式真的有研究支持？</strong><span>國際臨床指引推薦的創傷治療。</span></a>
                 </div>
             </div>
         </section>
@@ -135,10 +155,10 @@
                 <h2>關於關係</h2>
                 <p>當最親近的人，也是最常讓您受傷的人。</p>
                 <div class="q-list">
-                    <a href="eft.html#cycle"><strong>為什麼我們總是為同樣的事吵架？</strong><span>追與逃的負向循環，以及爭吵底下真正的需要。</span></a>
-                    <a href="eft.html#process"><strong>伴侶諮商實際上怎麼進行？</strong><span>情緒取向治療的三個階段。</span></a>
+                    <a href="eft.html#cycle" data-alias="EFT 吵架 伴侶 追逃"><strong>為什麼我們總是為同樣的事吵架？</strong><span>追與逃的負向循環，以及爭吵底下真正的需要。</span></a>
+                    <a href="eft.html#process" data-alias="EFT 伴侶諮商"><strong>伴侶諮商實際上怎麼進行？</strong><span>情緒取向治療的三個階段。</span></a>
                     <a href="faq.html#couples"><strong>伴侶不願意一起來怎麼辦？</strong><span>一個人也可以先開始。</span></a>
-                    <a href="ipt.html"><strong>失去、衝突、人生轉變之後，心情一直低落？</strong><span>認識人際心理治療（IPT）的四個焦點。</span></a>
+                    <a href="ipt.html" data-alias="IPT 哀傷 失落 憂鬱"><strong>失去、衝突、人生轉變之後，心情一直低落？</strong><span>認識人際心理治療（IPT）的四個焦點。</span></a>
                     <a href="family.html"><strong>我在乎的人正在受苦，我可以怎麼做？</strong><span>寫給家人與伴侶：怎麼開口、怎麼照顧自己。</span></a>
                 </div>
             </div>
@@ -149,9 +169,9 @@
                 <p>賭博、網路、遊戲、購物，明知道不好卻停不下來。</p>
                 <div class="q-list">
                     <a href="trauma.html#life"><strong>創傷和成癮有什麼關係？</strong><span>有時候停不下來的行為，是在處理難以承受的感受。</span></a>
-                    <a href="addiction.html#why"><strong>為什麼知道不好，還是停不下來？</strong><span>大腦的學習、替感受找地方放，以及羞愧怎樣讓人更難求助。</span></a>
-                    <a href="addiction.html#signs"><strong>怎麼知道自己的賭博或打機已經是問題？</strong><span>值得留意的警訊，以及賭博問題自我評量。</span></a>
-                    <a href="family.html#addiction"><strong>家人停不下來，我可以怎麼做？</strong><span>保護財務、讓後果留在它該在的地方。</span></a>
+                    <a href="addiction.html#why" data-alias="賭博 打機 遊戲 購物 上網 成癮"><strong>為什麼知道不好，還是停不下來？</strong><span>大腦的學習、替感受找地方放，以及羞愧怎樣讓人更難求助。</span></a>
+                    <a href="addiction.html#signs" data-alias="賭博 打機 遊戲 PGSI"><strong>怎麼知道自己的賭博或打機已經是問題？</strong><span>值得留意的警訊，以及賭博問題自我評量。</span></a>
+                    <a href="family.html#addiction" data-alias="家人 賭債 成癮 CRAFT"><strong>家人停不下來，我可以怎麼做？</strong><span>保護財務、讓後果留在它該在的地方。</span></a>
                 </div>
             </div>
         </section>
@@ -160,12 +180,12 @@
                 <h2>照顧自己</h2>
                 <p>還沒準備好開始，或正在等待的時候。</p>
                 <div class="q-list">
-                    <a href="resources.html#screening"><strong>我的狀況需要注意嗎？</strong><span>創傷後壓力、憂鬱、焦慮、賭博問題的簡短自我評量。</span></a>
+                    <a href="resources.html#screening" data-alias="PHQ-9 GAD-7 PC-PTSD-5 PGSI 量表 測驗 憂鬱 焦慮"><strong>我的狀況需要注意嗎？</strong><span>創傷後壓力、憂鬱、焦慮、賭博問題的簡短自我評量。</span></a>
                     <a href="online.html"><strong>線上諮商，真的談得深嗎？</strong><span>線上會談怎麼進行、需要準備什麼。</span></a>
                     <a href="glossary.html"><strong>文章裡的名詞看不懂？</strong><span>心理名詞小辭典：安放、涵容、依附、容納之窗……</span></a>
-                    <a href="resources.html#practice"><strong>心裡很亂的時候，現在可以做什麼？</strong><span>今天就能做的穩定練習。</span></a>
+                    <a href="resources.html#practice" data-alias="穩定 練習 呼吸 grounding"><strong>心裡很亂的時候，現在可以做什麼？</strong><span>今天就能做的穩定練習。</span></a>
                     <a href="resources.html#when"><strong>什麼時候該找專業協助？</strong><span>幾個值得留意的訊號。</span></a>
-                    <a href="resources.html#hotlines"><strong>現在就需要找人談</strong><span>澳門、台灣、香港的求助專線。</span></a>
+                    <a href="resources.html#hotlines" data-alias="熱線 求助 危機 自殺"><strong>現在就需要找人談</strong><span>澳門、台灣、香港的求助專線。</span></a>
                 </div>
             </div>
         </section>
@@ -174,7 +194,7 @@
                 <h2>專欄文章</h2>
                 <p>從治療室裡的觀察出發，寫給正在經歷的人。</p>
                 <div class="q-list">
-                    <a href="ai-in-therapy.html"><strong>當個案說：「我問過 AI 了。」</strong><span>AI 已經進入治療室：從自我診斷、尋求確定感、依賴與現實檢驗，理解 AI 在個案心理循環中的功能。</span></a>
+                    <a href="ai-in-therapy.html" data-audience="professional" data-alias="AI 人工智能 chatgpt 聊天機器人 治療師 心理師"><strong>當個案說：「我問過 AI 了。」</strong><span>給心理健康專業工作者｜AI 已經進入治療室：從自我診斷、尋求確定感、依賴與現實檢驗，理解 AI 在個案心理循環中的功能。</span></a>
                 </div>
             </div>
         </section>
@@ -226,6 +246,7 @@
         <div class="copyright">&copy; 2026 臨床心語 ClinicMind. All Rights Reserved.</div>
     </footer>
 
+    <script src="assets/finder.js"></script>
     <script src="assets/site.js"></script>
     <!-- Cloudflare Web Analytics：不使用 cookie、不追蹤個人，只統計匿名瀏覽次數 -->
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "36f91e88fd374fbf9d9c52d89783ec22"}'></script>
