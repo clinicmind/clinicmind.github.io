@@ -1,0 +1,22 @@
+/* 閱讀完成證明：螢幕樣式與 A4 列印（規劃 8.4） */
+.cert-sheet { background: #fff; border: 2px solid var(--c-accent, #6B8E88); border-radius: 12px; padding: 2.5rem 2rem; text-align: center; margin: 1.5rem 0; }
+.cert-kicker, .cert-meta, .cert-en, .cert-url, .cert-note { color: #4A5A58; }
+.cert-title { font-size: 2rem; margin: .5rem 0 1rem; }
+.cert-name { font-size: 2rem; font-weight: 700; margin: .5rem 0; word-break: break-word; }
+.cert-book { font-size: 1.25rem; margin: .25rem 0; }
+.cert-statement { margin: 1.25rem auto; max-width: 36rem; }
+.cert-foot { font-size: .95rem; }
+.cert-code { font-family: ui-monospace, monospace; font-weight: 700; margin-left: .25rem; }
+.cert-actions { display: flex; flex-wrap: wrap; gap: .75rem; justify-content: center; }
+.cert-note { font-size: .9rem; text-align: center; }
+
+@page { size: A4 landscape; margin: 0; }
+@media print {
+  html, body { background: #fff !important; }
+  body > *:not(main) { display: none !important; }
+  main#main > *:not(#quiz) { display: none !important; }
+  #quiz > *:not(#cert-out) { display: none !important; }
+  #cert-out { display: block !important; }
+  #cert-print { box-sizing: border-box; width: 100%; height: 190mm; margin: 0; border: 0; border-radius: 0; padding: 14mm 24mm; display: flex; flex-direction: column; justify-content: center; }
+  .cert-actions, .cert-note { display: none !important; }
+}
