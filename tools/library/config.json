@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {"id": "psychopathology", "name": "精神病理與診斷"},
+    {"id": "suicide", "name": "自殺與危機"},
+    {"id": "therapy", "name": "治療取向"},
+    {"id": "children", "name": "兒童、青少年與家庭"},
+    {"id": "learning", "name": "學習、注意力與認知"},
+    {"id": "gender", "name": "性別與男性心理"},
+    {"id": "new", "name": "新加入"}
+  ],
+  "books": {
+    "oxford-psychopathology": {"category": "psychopathology", "order": 1, "title": "Oxford 精神病理學教科書 第 4 版"},
+    "psychopathology-maddux": {"category": "psychopathology", "order": 2, "title": "Maddux 變態心理學 第 5 版"},
+    "psychopathology-castonguay": {"category": "psychopathology", "order": 3, "title": "Psychopathology：從科學到臨床實務"},
+    "psychopathology-atmospheres": {"category": "psychopathology", "order": 4, "title": "精神病理學與氛圍"},
+    "independent-review-adhd-autism": {"category": "psychopathology", "order": 5, "title": "英國 ADHD／自閉症獨立檢視報告"},
+    "why-people-die-by-suicide": {"category": "suicide", "order": 1, "title": "Joiner：人為何死於自殺"},
+    "therapeutic-alliance-suicidal": {"category": "suicide", "order": 2, "title": "與自殺個案的治療同盟"},
+    "dbt-next-steps": {"category": "therapy", "order": 1, "title": "DBT Next Steps"},
+    "eft-casebook": {"category": "therapy", "order": 2, "title": "EFT 案例集"},
+    "existential-humanistic": {"category": "therapy", "order": 3, "title": "存在－人本治療"},
+    "eft-supervision": {"category": "therapy", "order": 4, "title": "情緒焦點治療督導精要（學生版）"},
+    "efft": {"category": "therapy", "order": 5, "title": "情緒取向家庭治療 EFFT"},
+    "self-driven-child": {"category": "children", "order": 1, "title": "自驅型成長"},
+    "who-child-youth-mental-health": {"category": "children", "order": 2, "title": "WHO 兒童青少年心理健康"},
+    "executive-function-education": {"category": "children", "order": 3, "title": "教育中的執行功能（學生版）"},
+    "how-people-learn-ii": {"category": "learning", "order": 1, "title": "How People Learn II"},
+    "imagination-social-perspectives": {"category": "learning", "order": 2, "title": "想像力的社會觀點"},
+    "make-it-stick": {"category": "learning", "order": 3, "title": "超牢記憶法"},
+    "distracted-mind": {"category": "learning", "order": 4, "title": "分心的大腦"},
+    "stolen-focus": {"category": "learning", "order": 5, "title": "被偷走的專注力"},
+    "why-dont-students-like-school": {"category": "learning", "order": 6, "title": "學生為什麼不喜歡上學"},
+    "metacognition-srl": {"category": "learning", "order": 7, "title": "後設認知與自我調節學習"},
+    "invisible-men": {"category": "gender", "order": 1, "title": "隱形的男人"},
+    "will-to-change": {"category": "gender", "order": 2, "title": "bell hooks：改變的意志"}
+  }
+}

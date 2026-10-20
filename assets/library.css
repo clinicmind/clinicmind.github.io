@@ -1,0 +1,48 @@
+/* 深度閱讀心理學：書房首頁、書頁、章節頁。沿用 site.css 的顏色變數。 */
+.lib { max-width: 860px; margin: 0 auto; padding: 2.2rem 1rem 3rem; }
+.lib h1 { font-size: 1.9rem; line-height: 1.35; margin: 0.4rem 0 0.6rem; color: var(--primary-text); }
+.lib h2 { font-size: 1.3rem; margin: 2rem 0 0.7rem; color: var(--primary-text); }
+.lib h3 { font-size: 1.08rem; margin: 0 0 0.3rem; }
+.lib p, .lib li { line-height: 1.85; }
+.lib a { color: var(--accent-text); }
+.lib-intro { font-size: 1.05rem; }
+.crumbs { font-size: 0.9rem; color: var(--text-light); margin-bottom: 0.5rem; }
+.crumbs a { color: var(--text-light); }
+.lib-meta { color: var(--text-light); font-size: 0.95rem; margin: 0.2rem 0; }
+.lib-credit { color: var(--text-light); font-size: 0.88rem; margin: 0 0 1rem; }
+.cite { color: var(--text-light); font-size: 0.92em; }
+.lib-notice { background: var(--secondary-color); border-left: 4px solid var(--primary-color); padding: 0.7rem 0.9rem; border-radius: 6px; font-size: 0.93rem; }
+.lib-quote, .lib-quotes li { border-left: 3px solid var(--primary-color); padding-left: 0.8rem; }
+.lib-quotes { list-style: none; padding-left: 0; }
+.lib-quotes li { margin-bottom: 0.6rem; }
+.lib-table { width: 100%; border-collapse: collapse; margin: 0.8rem 0; font-size: 0.97rem; }
+.lib-table th, .lib-table td { text-align: left; vertical-align: top; padding: 0.55rem 0.5rem; border-bottom: 1px solid #DDD; }
+.lib-table th { width: 38%; font-weight: 600; }
+.lib-fig { margin: 1rem 0; }
+.lib-fig svg.fig { width: 100%; height: auto; max-width: 640px; display: block; margin: 0 auto; }
+.lib-box { background: var(--white); border-radius: 8px; padding: 1rem 1.2rem; margin: 1.2rem 0; border-left: 4px solid var(--primary-color); }
+.lib-box h2 { margin-top: 0; }
+.lib-limits { font-size: 0.93rem; color: var(--text-light); margin-top: 1.5rem; }
+.lib-map li { margin-bottom: 0.9rem; }
+.lib-pager { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin: 2rem 0 1rem; font-size: 0.97rem; }
+.lib-rights { font-size: 0.88rem; color: var(--text-light); border-top: 1px solid #DDD; margin-top: 2rem; padding-top: 0.8rem; }
+.lib-cat { margin-top: 2rem; }
+.lib-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+@media (min-width: 620px) { .lib-grid { grid-template-columns: 1fr 1fr; } }
+@media (min-width: 980px) { .lib-grid { grid-template-columns: 1fr 1fr 1fr; } }
+.lib-card { background: var(--white); border-radius: 8px; padding: 1rem 1.1rem; border: 1px solid #E4DED2; }
+.lib-card p { margin: 0.4rem 0; font-size: 0.95rem; }
+.lib-ch-wrap summary { cursor: pointer; color: var(--accent-text); font-size: 0.95rem; margin-top: 0.5rem; }
+.lib-ch { font-size: 0.93rem; padding-left: 1.2rem; }
+.lib-finder { margin: 1rem 0 0.5rem; }
+.lib-finder input[type="search"] { width: 100%; padding: 0.65rem 0.8rem; border: 1px solid #C9C3B8; border-radius: 6px; font: inherit; }
+.lib-finder input[type="search"]:focus-visible { outline: 2px solid var(--primary-color); }
+.lib-finder .finder-count, .lib-finder .finder-empty { font-size: 0.93rem; }
+.lib-finder .finder-empty { margin-top: 0.5rem; }
+.lib-other { background: var(--secondary-color); border-radius: 8px; padding: 1rem 1.2rem; }
+@media print {
+  header, footer, .skip-link, .lib-pager, .crumbs, .nav-toggle, #site-nav { display: none !important; }
+  .lib { max-width: none; color: #000; background: #fff; padding: 0; }
+  .lib-card, .lib-box, .lib-notice { border: 1px solid #999; background: #fff; }
+  a { color: #000; text-decoration: none; }
+}
