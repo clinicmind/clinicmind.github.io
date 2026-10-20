@@ -46,3 +46,38 @@
   .lib-card, .lib-box, .lib-notice { border: 1px solid #999; background: #fff; }
   a { color: #000; text-decoration: none; }
 }
+
+/* 閱讀指引、開始前、進度、回想練習、測驗（規劃第 8 節） */
+.lib-time { font-size: 0.93rem; color: var(--text-light); margin: 0.1rem 0 0.4rem; }
+.lib-guide-tip { margin: 1.2rem 0; }
+.lib-guide-tip p { margin: 0; font-size: 0.97rem; }
+.lib-start { background: var(--white); border-radius: 8px; padding: 1rem 1.2rem; margin: 1.5rem 0; border-left: 4px solid var(--primary-color); }
+.lib-start h2 { margin-top: 0; }
+.lib-start ul { padding-left: 1.2rem; }
+.lib-progress { margin: 0.4rem 0 1rem; }
+.lib-progress progress { width: 100%; height: 0.9rem; accent-color: var(--primary-color); }
+.lib-map li.is-read > a { color: var(--text-light); }
+.lib-map li.is-read::before { content: "✓ "; color: var(--primary-text); font-weight: 700; }
+.lib-recall { background: var(--secondary-color); border-radius: 8px; padding: 1rem 1.2rem; margin-top: 2rem; }
+.lib-recall h2 { margin-top: 0; font-size: 1.15rem; }
+.lib-recall-box { width: 100%; box-sizing: border-box; font: inherit; line-height: 1.7; padding: 0.6rem 0.7rem; border: 1px solid #C9C3B8; border-radius: 6px; background: var(--white); }
+.lib-recall-box:focus-visible { outline: 2px solid var(--primary-color); }
+.lib-recall details { margin-top: 0.7rem; }
+.lib-recall summary { cursor: pointer; color: var(--accent-text); }
+.lib-done-row { margin: 1.2rem 0 0; }
+.lib-quiz-entry { margin-top: 2rem; }
+.quiz-q { border: 1px solid #E4DED2; border-radius: 8px; padding: 0.9rem 1.1rem; margin: 0 0 1rem; background: var(--white); min-width: 0; }
+.quiz-q legend { font-weight: 600; padding: 0 0.3rem; line-height: 1.7; }
+.quiz-q.is-passed { background: var(--secondary-color); }
+.quiz-opt { display: flex; gap: 0.5rem; align-items: flex-start; margin: 0.35rem 0; }
+.quiz-opt input { margin-top: 0.45rem; }
+.quiz-opt label { line-height: 1.7; }
+.quiz-ok { color: var(--primary-text); font-weight: 600; margin: 0.3rem 0 0; }
+.quiz-hint { margin-top: 0.7rem; padding: 0.6rem 0.8rem; border-left: 3px solid var(--primary-color); background: var(--secondary-color); border-radius: 4px; }
+.quiz-hint p { margin: 0.2rem 0; font-size: 0.95rem; }
+.quiz-hint[hidden] { display: none; }
+#quiz-result { margin-top: 1.5rem; }
+#quiz-result ol { padding-left: 1.2rem; }
+#cert-form { margin: 1rem 0; display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+#cert-form input { padding: 0.55rem 0.7rem; border: 1px solid #C9C3B8; border-radius: 6px; font: inherit; min-width: 14rem; }
+#cert-out { margin-top: 1rem; }

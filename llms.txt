@@ -23,8 +23,11 @@
 
 
 
+
+
 ## 深度閱讀心理學
 - [深度閱讀心理學](https://clinicmind.github.io/library/)：專業書籍學習筆記，依主題分類
+- [閱讀指引](https://clinicmind.github.io/library/guide.html)：每章怎麼讀、15 題測驗與閱讀完成證明的規則
 - [Maddux 變態心理學 第 5 版](https://clinicmind.github.io/library/psychopathology-maddux/)：Maddux 變態心理學
 
 ## 心理衛教
