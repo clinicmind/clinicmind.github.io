@@ -153,3 +153,60 @@ main section:nth-of-type(even) .glossary .term { background: var(--secondary-col
 /* 內頁閱讀：內文字級稍大 */
 main .inner { font-size: 1.0625rem; }
 .page-hero h1 { font-size: clamp(1.6rem, 1.15rem + 2vw, 2.2rem) !important; }
+
+/* ---- 2026-10 品牌形象 v1.1（臨床心語 ClinicMind Brand Identity）----
+   色彩、字體與標誌依品牌規範；所有文字色在白、米白底上皆達 WCAG AA（見各行註解）。 */
+:root {
+    --cm-forest-deep: #244A42;  /* 深森林綠：標題、頁尾底色；米白底 8.6:1 */
+    --cm-forest: #2F5D56;       /* 森林綠：標誌、按鈕、連結；米白底 6.5:1，白字在上 7.4:1 */
+    --cm-sage: #89A49C;         /* 鼠尾草綠：只作裝飾，不作文字 */
+    --cm-clay: #C19875;         /* 陶土色：圓點與少量點綴，不作小字 */
+    --cm-paper: #F7F5F0;
+    --cm-oat: #F2F0EB;
+    --cm-ink: #233D37;          /* 正文；米白底 10.3:1 */
+    --cm-ink-secondary: #536A62;/* 輔助說明；米白底 5.1:1 */
+    --cm-border: #D9D7D0;
+    --cm-font-body: "Noto Sans TC", "PingFang TC", "Heiti TC", "Microsoft JhengHei", sans-serif;
+    --cm-font-display: "Noto Serif TC", "Noto Serif CJK TC", "Songti TC", "PMingLiU", serif;
+    --cm-font-latin: Georgia, "Times New Roman", serif;
+
+    /* 沿用舊變數名稱，全站自動換成新色 */
+    --primary-color: var(--cm-forest);
+    --primary-text: var(--cm-forest);
+    --secondary-color: var(--cm-oat);
+    --text-dark: var(--cm-ink);
+    --text-light: var(--cm-ink-secondary);
+    --accent-color: var(--cm-clay);
+    --accent-text: #875E3F;     /* 暖陶色加深，用於小標題：米白底 5:1 */
+}
+
+body { font-family: var(--cm-font-body); }
+
+/* 標題用明體（Noto Serif TC），編輯感、安靜；不全部加粗 */
+h1, h2, .page-hero h1, .hero h1, main h2, .lib h1, .lib h2 { font-family: var(--cm-font-display); font-weight: 600; letter-spacing: 0.02em; }
+h1, .hero h1, .page-hero h1 { color: var(--cm-forest-deep); }
+main h3, .lib h3 { font-family: var(--cm-font-display); font-weight: 600; }
+
+/* 標誌：圖符 + 「臨床心語 ClinicMind」HTML 字樣（小螢幕也清楚，不用大圖檔） */
+.logo { display: inline-flex; align-items: center; gap: 0.55em; font-size: 1.3rem; color: var(--cm-forest-deep) !important; text-decoration: none; letter-spacing: 0; font-weight: normal; line-height: 1; }
+.logo-mark { width: 2.1em; height: 2.1em; flex: none; display: block; }
+.logo-text { display: inline-flex; flex-direction: column; gap: 0.18em; }
+.logo-zh { font-family: var(--cm-font-display); font-weight: 600; font-size: 1em; letter-spacing: 0.14em; }
+.logo-en { font-family: var(--cm-font-latin); font-size: 0.56em; letter-spacing: 0.1em; color: var(--cm-forest); }
+.logo:hover { color: var(--cm-forest-deep) !important; }
+@media (max-width: 380px) { .logo { font-size: 1.1rem; } }
+
+/* 按鈕與連結：滑過時加深成深森林綠 */
+a:hover { color: var(--cm-forest-deep); }
+.btn-reserve:hover, .cta-button:hover, .nl-form button:hover, .talk-btn:hover, .scale-btn:hover { background-color: var(--cm-forest-deep) !important; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, summary:focus-visible { outline-color: var(--cm-forest-deep); }
+
+/* 頁尾：深森林綠底、米白字（對比 8:1 以上） */
+footer { background-color: var(--cm-forest-deep) !important; color: #E3E9E5 !important; }
+footer a, .footer-links a { color: var(--cm-paper) !important; }
+footer a:hover, .footer-links a:hover { color: #FFFFFF !important; }
+.copyright { border-top-color: rgba(247, 245, 240, 0.22) !important; }
+
+
+/* 卡片與表格的細線改用品牌石霧灰 */
+th, td { border-bottom-color: var(--cm-border); }
