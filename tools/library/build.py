@@ -149,11 +149,16 @@ def page(title, desc, canonical, body, parts, jsonld="", extra_head="", extra_bo
     <meta property="og:site_name" content="臨床心語 ClinicMind">
     <meta property="og:image" content="{SITE}/assets/og-image.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="theme-color" content="#6B8E88">
+    <meta name="theme-color" content="#2F5D56">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@500;600&display=swap">
     <link rel="stylesheet" href="/assets/pages.css">
     <link rel="stylesheet" href="/assets/site.css">
     <link rel="stylesheet" href="/assets/library.css">
     <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="/assets/brand/favicon-64.png" type="image/png" sizes="64x64">
+    <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
     <link rel="canonical" href="{canonical}">
     {jsonld}
     {extra_head}
