@@ -9,7 +9,15 @@
     {"id": "new", "name": "新加入"}
   ],
   "books": {
-    "oxford-psychopathology": {"category": "psychopathology", "order": 1, "title": "Oxford 精神病理學教科書 第 4 版"},
+    "oxford-psychopathology-v1": {"category": "psychopathology", "order": 1, "title": "Oxford 精神病理學教科書 第 4 版 第 1 冊"},
+    "oxford-psychopathology-v2": {"category": "psychopathology", "order": 2, "title": "Oxford 精神病理學教科書 第 4 版 第 2 冊"},
+    "oxford-psychopathology-v3": {"category": "psychopathology", "order": 3, "title": "Oxford 精神病理學教科書 第 4 版 第 3 冊"},
+    "oxford-psychopathology-v4": {"category": "psychopathology", "order": 4, "title": "Oxford 精神病理學教科書 第 4 版 第 4 冊"},
+    "oxford-psychopathology-v5": {"category": "psychopathology", "order": 5, "title": "Oxford 精神病理學教科書 第 4 版 第 5 冊"},
+    "oxford-psychopathology-v6": {"category": "psychopathology", "order": 6, "title": "Oxford 精神病理學教科書 第 4 版 第 6 冊"},
+    "oxford-psychopathology-v7": {"category": "psychopathology", "order": 7, "title": "Oxford 精神病理學教科書 第 4 版 第 7 冊"},
+    "oxford-psychopathology-v8": {"category": "psychopathology", "order": 8, "title": "Oxford 精神病理學教科書 第 4 版 第 8 冊"},
+    "oxford-psychopathology-v9": {"category": "psychopathology", "order": 9, "title": "Oxford 精神病理學教科書 第 4 版 第 9 冊"},
     "psychopathology-maddux": {"category": "psychopathology", "order": 2, "title": "Maddux 變態心理學 第 5 版"},
     "psychopathology-castonguay": {"category": "psychopathology", "order": 3, "title": "Psychopathology：從科學到臨床實務"},
     "psychopathology-atmospheres": {"category": "psychopathology", "order": 4, "title": "精神病理學與氛圍"},
