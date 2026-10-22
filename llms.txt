@@ -27,11 +27,21 @@
 
 
 
+
 ## 深度閱讀心理學
 - [深度閱讀心理學](https://clinicmind.github.io/library/)：專業書籍學習筆記，依主題分類
 - [閱讀指引](https://clinicmind.github.io/library/guide.html)：每章怎麼讀、15 題測驗與閱讀完成證明的規則
+- [Oxford 精神病理學教科書 第 4 版 第 1 冊](https://clinicmind.github.io/library/oxford-psychopathology-v1/)：Oxford 精神病理 第 1 冊
+- [Oxford 精神病理學教科書 第 4 版 第 2 冊](https://clinicmind.github.io/library/oxford-psychopathology-v2/)：Oxford 精神病理 第 2 冊
 - [Maddux 變態心理學 第 5 版](https://clinicmind.github.io/library/psychopathology-maddux/)：Maddux 變態心理學
+- [Oxford 精神病理學教科書 第 4 版 第 3 冊](https://clinicmind.github.io/library/oxford-psychopathology-v3/)：Oxford 精神病理 第 3 冊
+- [Oxford 精神病理學教科書 第 4 版 第 4 冊](https://clinicmind.github.io/library/oxford-psychopathology-v4/)：Oxford 精神病理 第 4 冊
 - [精神病理學與氛圍](https://clinicmind.github.io/library/psychopathology-atmospheres/)：精神病理學與氛圍
+- [Oxford 精神病理學教科書 第 4 版 第 5 冊](https://clinicmind.github.io/library/oxford-psychopathology-v5/)：Oxford 精神病理 第 5 冊
+- [Oxford 精神病理學教科書 第 4 版 第 6 冊](https://clinicmind.github.io/library/oxford-psychopathology-v6/)：Oxford 精神病理 第 6 冊
+- [Oxford 精神病理學教科書 第 4 版 第 7 冊](https://clinicmind.github.io/library/oxford-psychopathology-v7/)：Oxford 精神病理 第 7 冊
+- [Oxford 精神病理學教科書 第 4 版 第 8 冊](https://clinicmind.github.io/library/oxford-psychopathology-v8/)：Oxford 精神病理 第 8 冊
+- [Oxford 精神病理學教科書 第 4 版 第 9 冊](https://clinicmind.github.io/library/oxford-psychopathology-v9/)：Oxford 精神病理 第 9 冊
 - [How People Learn II](https://clinicmind.github.io/library/how-people-learn-ii/)：HPL II 學習科學
 - [想像力的社會觀點](https://clinicmind.github.io/library/imagination-social-perspectives/)：想像與社會視角
 
