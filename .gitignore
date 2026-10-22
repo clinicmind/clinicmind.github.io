@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# 系統與編輯器
+.DS_Store
+
+# 機密與相依套件（本站不需要，預防誤傳）
+.env
+node_modules/
