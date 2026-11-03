@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#172D39">
+  <meta name="description" content="將課文轉化為 Hill–Skill–Will 執行功能工作紙及半完成筆記，免費、免登入、在瀏覽器本機處理。">
+  <title>Hill · Skill · Will｜EF 教材工作室</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="assets/jszip.min.js" defer></script>
+  <script src="engine.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar no-print">
+      <a class="brand" href="#top" aria-label="返回首頁"><span class="brand-icon" aria-hidden="true">↗</span><span>EF <strong>教學工作室</strong><small>HILL · SKILL · WILL</small></span></a>
+      <nav aria-label="主要導覽"><a href="#workbench">製作教材</a><a href="#framework">設計原則</a><a href="#guide">教師指南</a></nav>
+      <span class="privacy-pill"><span class="status-dot"></span>本機處理 · 免登入</span>
+    </header>
+
+    <main id="top">
+      <section class="hero no-print" aria-labelledby="hero-title">
+        <div class="hero-content">
+          <p class="eyebrow"><span class="line"></span> EXECUTIVE FUNCTION · FROM THEORY TO PRACTICE</p>
+          <h1 id="hero-title">課文不只教<span class="hero-highlight">知識</span>，<br>還要教會學生<span class="hero-highlight-alt">如何學習。</span></h1>
+          <p class="hero-description">上載一篇課文，將它轉化為有教學目的的<strong>半完成筆記</strong>與<strong>執行功能工作紙</strong>。從目標、策略到持續投入，讓學生真正走過 Hill · Skill · Will。</p>
+          <div class="hero-actions"><a class="primary-btn" href="#workbench">開始製作 <span aria-hidden="true">↗</span></a><a class="ghost-btn" href="#framework">了解理論依據 <span>→</span></a></div>
+          <div class="hero-proof"><span><b>00</b> 付費 API</span><span><b>03</b> 核心支柱</span><span><b>05</b> 執行功能策略</span></div>
+        </div>
+        <div class="hero-visual" aria-label="Hill、Skill、Will 的概念圖">
+          <div class="mountain-art" aria-hidden="true"><div class="sun"></div><div class="peak peak-back"></div><div class="peak peak-front"></div><div class="path"></div><div class="flag"><span></span></div></div>
+          <div class="visual-tag visual-tag-hill"><span class="tag-number">01</span><span><strong>HILL</strong><small>我想去邊度？</small></span></div>
+          <div class="visual-tag visual-tag-skill"><span class="tag-number">02</span><span><strong>SKILL</strong><small>我可以點樣做？</small></span></div>
+          <div class="visual-tag visual-tag-will"><span class="tag-number">03</span><span><strong>WILL</strong><small>我點樣堅持？</small></span></div>
+        </div>
+      </section>
+
+      <section class="principles no-print" id="framework" aria-labelledby="framework-title">
+        <div class="section-head"><div><div class="kicker">FRAMEWORK / 教學設計框架</div><h2 id="framework-title">Hill × Skill × Will</h2></div><p>參考 Moran & Gardner（2018）對目標、技能與意志的論述；以下是為課堂教材設計而發展的原創操作化工具，並非原書量表。</p></div>
+        <div class="principle-grid">
+          <article class="principle-card hill"><div class="principle-meta"><span class="roman">01</span><span class="principle-icon" aria-hidden="true">△</span></div><h3>HILL <span>目標與意義</span></h3><p>學生知道要到達哪裡，理解成功準則，並將任務連結到自己想解決的問題。</p><div class="example">「我完成之後，應該識得解釋乜嘢？」</div></article>
+          <article class="principle-card skill"><div class="principle-meta"><span class="roman">02</span><span class="principle-icon" aria-hidden="true">◇</span></div><h3>SKILL <span>策略與自我調節</span></h3><p>把規劃、分類、工作記憶、靈活轉換與自我監控，做成學生看得見、用得到的鷹架。</p><div class="example">「先圈關鍵字，再填筆記，最後核對。」</div></article>
+          <article class="principle-card will"><div class="principle-meta"><span class="roman">03</span><span class="principle-icon" aria-hidden="true">✳</span></div><h3>WILL <span>投入與堅持</span></h3><p>讓學生有合理選擇、低門檻的第一步，以及面對困難時可立即啟動的策略。</p><div class="example">「我可以揀一種表達方法，先開始 90 秒。」</div></article>
+        </div>
+      </section>
+
+      <section class="workbench no-print" id="workbench" aria-labelledby="studio-title">
+        <div class="workbench-heading"><div><div class="kicker">WORKBENCH / 教材生成器</div><h2 id="studio-title">由一篇課文，變成一堂有策略的課。</h2></div><div class="step-label"><span>01 輸入</span><span>02 設計</span><span>03 產出</span></div></div>
+        <div class="editor-grid">
+          <aside class="config-panel">
+            <form id="lesson-form" novalidate>
+              <div class="panel-title"><span class="step-circle">1</span><div><h3>課文與教材設定</h3><p>先填內容，然後選擇支援程度。</p></div></div>
+              <label class="field-label" for="lesson-title">課文標題 <em>可選</em></label>
+              <input id="lesson-title" name="title" type="text" maxlength="70" placeholder="例如：水循環與我們的生活">
+              <div class="two-fields">
+                <div><label class="field-label" for="subject">學科</label><select id="subject" name="subject"><option value="chinese">中文／閱讀</option><option value="english">英文</option><option value="math">數學</option><option value="science">科學／常識</option><option value="humanities">歷史／人文</option><option value="other">其他</option></select></div>
+                <div><label class="field-label" for="grade">學段</label><select id="grade" name="grade"><option value="p1">小學一至三年級</option><option value="p2" selected>小學四至六年級</option><option value="s1">中學初中</option><option value="s2">中學高中</option></select></div>
+              </div>
+              <label class="field-label" for="goal">Hill：本課學習目標 <em>可選；建議教師自己訂定</em></label>
+              <textarea id="goal" name="goal" class="compact-textarea" rows="2" placeholder="例如：能解釋水循環的三個關鍵過程，並找出課文證據。"></textarea>
+              <label class="field-label" for="teacher-keywords">關鍵概念 <em>可選，用逗號分隔</em></label>
+              <input id="teacher-keywords" name="keywords" type="text" placeholder="例如：蒸發、凝結、降水">
+              <div class="two-fields">
+                <div><label class="field-label" for="scaffold">Skill：鷹架強度</label><select id="scaffold" name="scaffold"><option value="high">較多支持</option><option value="standard" selected>標準支持</option><option value="low">較少支持</option></select></div>
+                <div><label class="field-label" for="output-mode">產出方式</label><select id="output-mode" name="mode"><option value="both" selected>筆記 + 工作紙</option><option value="notes">半完成筆記</option><option value="worksheet">執行功能工作紙</option></select></div>
+              </div>
+              <div class="file-drop" id="drop-zone" role="button" tabindex="0" aria-label="上載課文檔案"><input type="file" id="file-upload" accept=".txt,.md,.docx,.pdf,.html,.htm" hidden><span class="upload-icon" aria-hidden="true">⇧</span><div><strong>拖放或選取課文檔案</strong><small>TXT / MD / DOCX；PDF 需網絡載入解析器</small></div><button class="upload-action" type="button" id="browse-btn">選取檔案</button></div>
+              <div class="file-status" id="file-status" role="status" aria-live="polite"></div>
+              <label class="field-label" for="lesson-text">課文內容 <span class="required">必填</span></label>
+              <textarea id="lesson-text" name="text" class="lesson-textarea" rows="10" placeholder="直接貼上課文，或在上面上載檔案。&#10;&#10;例如：水循環是地球上的水在不同地方與狀態之間移動的過程……"></textarea>
+              <div class="input-footer"><span id="char-count">0 字</span><button id="example-btn" type="button" class="link-btn">填入示例課文</button></div>
+              <button class="generate-btn" type="submit" id="generate-btn">產生 Hill–Skill–Will 教材 <span>↗</span></button>
+              <div id="form-message" class="form-message" role="status" aria-live="polite"></div>
+            </form>
+          </aside>
+
+          <div class="preview-column">
+            <div class="preview-toolbar"><div><span class="step-circle light">2</span><div><h3>教材預覽與編輯</h3><p>可直接點擊紙上的文字調整，再匯出。</p></div></div><span id="generation-status" class="generation-status"><span class="status-dot"></span>等待課文</span></div>
+            <div class="tabbar" role="tablist" aria-label="教材預覽類型"><button type="button" class="tab active" data-tab="notes" role="tab" aria-selected="true">半完成筆記</button><button type="button" class="tab" data-tab="worksheet" role="tab" aria-selected="false">Hill–Skill–Will 工作紙</button><button type="button" class="tab" data-tab="key" role="tab" aria-selected="false">教師答案與教學提示</button></div>
+            <div class="preview-stage" id="preview-stage">
+              <div class="empty-state" id="empty-state"><div class="empty-illustration" aria-hidden="true"><span>H</span><span>S</span><span>W</span></div><h3>教材會在這裡出現</h3><p>貼上一段課文，再按「產生教材」。你可以先使用示例課文試驗輸出。</p><button type="button" id="empty-example-btn" class="outline-btn">先看看示例 <span>→</span></button></div>
+              <div class="preview-output" id="preview-output" hidden><div id="notes-view" class="view-pane"></div><div id="worksheet-view" class="view-pane" hidden></div><div id="key-view" class="view-pane" hidden></div></div>
+            </div>
+            <div class="output-actions" id="output-actions" hidden><div class="actions-top"><label class="edit-hint"><input type="checkbox" id="edit-toggle" checked> 可編輯文字</label><p>列印時自動隱藏網站介面。</p></div><div class="action-buttons"><button type="button" id="print-btn" class="primary-btn smaller">列印／儲存 PDF <span>↗</span></button><button type="button" id="word-btn" class="outline-btn">匯出 Word 相容檔</button><button type="button" id="html-btn" class="outline-btn">匯出 HTML</button><button type="button" id="reset-btn" class="quiet-btn">重新產生</button></div><div class="caution" id="output-caution"><span aria-hidden="true">ⓘ</span><span>本工具使用本機文字規則，非語意生成式 AI。教師需要核對關鍵字、題目、答案與原文是否一致。</span></div></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="guide no-print" id="guide" aria-labelledby="guide-title"><div class="guide-heading"><div class="kicker">TEACHING NOTES / 教師指南</div><h2 id="guide-title">怎樣用得有教學價值？</h2><p>工作紙是策略教學的工具，而不是更多填空功課。</p></div><div class="guide-grid">
+        <div class="guide-step"><span>01 / 示範</span><h3>大聲說出策略</h3><p>教師示範如何先辨識學習目標，圈一個關鍵詞，再找句子核對。學生需要看見「怎樣做」。</p></div>
+        <div class="guide-step"><span>02 / 共做</span><h3>把步驟外化</h3><p>在全班共同完成第一題；白板保留兩步指令。對需要較多支援的學生，提供詞庫與首步示例。</p></div>
+        <div class="guide-step"><span>03 / 獨立</span><h3>逐步撤除鷹架</h3><p>下一次可減少詞庫或提示，再觀察學生能否自行規劃、核對和完成；不要一次撤走所有支援。</p></div>
+        <div class="guide-step"><span>04 / 回顧</span><h3>看策略是否遷移</h3><p>只追蹤一個簡單指標，如起步時間、完成率或獨立使用檢查卡的次數，兩週後再調整。</p></div>
+      </div><div class="guide-tips"><div><strong>適合 30–35 人大班</strong><span>全班共用同一頁流程、兩人互核、出口票；少量學生另外加入提示，不需為每人製作不同教材。</span></div><div><strong>保護學生的自主性</strong><span>Will 是對投入、價值與意志的理解，不是評分學生「懶不懶」；不應以工作紙診斷 ADHD 或執行功能障礙。</span></div></div></section>
+      <footer class="site-footer no-print"><div><div class="footer-brand">EF <span>教學工作室</span></div><p>以《Executive Function in Education》第二版（Meltzer, Ed., 2018）為理論基礎，著重第 2 章 Hill–Skill–Will 及第 11 章課堂執行功能策略。模板與文字為原創教學改編，非原書附錄或標準化評估工具。</p></div><div><strong>理論來源</strong><a href="https://www.guilford.com/books/Executive-Function-in-Education/Lynn-Meltzer/9781462534531/contents" rel="noopener noreferrer" target="_blank">出版商與章節資料 ↗</a><a href="#top">返回頂部 ↑</a></div><div><strong>私隱與限制</strong><p>課文只在瀏覽器處理，不上傳到本網站伺服器。PDF 需要從 CDN 載入解析程式；掃描影像 PDF 暫不支援 OCR。下載檔案只存到你的裝置。</p></div></footer>
+    </main>
+  </div>
+</body>
+</html>
