@@ -1,0 +1,124 @@
+{
+ "title_zh": "研究：雙語者失智症狀平均晚 3.45 年出現，但未證可預防失智（統合分析）",
+ "title_en": "Bilingualism delays dementia symptom onset meta-analysis",
+ "summary_zh": "《Aging, Neuropsychology, and Cognition》2026 年刊出的首個貝葉斯統合分析，綜合 18 項發病年齡研究與 6 項發生率研究，探討雙語能力與失智症的關係。18 項發病年齡研究的結果顯示，雙語者出現失智症狀的年齡平均比單語者晚 3.45 年（95% 可信區間 2.8 至 4.1 年），結果只受教育年數輕微影響。但 6 項發生率研究未提供雙語可預防失智的穩健證據：雙語可能延後症狀出現，不等於預防失智。",
+ "summary_en": "The first Bayesian meta-analysis on bilingualism and dementia (Aging, Neuropsychology, and Cognition, 2026) pooled 18 age-at-onset studies and six incidence-rate studies. Across the 18 onset studies, bilinguals were on average 3.45 years older than monolinguals at symptom onset (95% credible interval 2.8 to 4.1 years), only slightly influenced by years of education. The six incidence studies did not provide robust evidence for a preventive effect: bilingualism may delay symptom onset but has not been shown to prevent dementia.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "同儕審查期刊統合分析（Neuropsychol Dev Cogn B Aging Neuropsychol Cogn 2026;33(1):1-28，DOI 10.1080/13825585.2025.2566699，Li、Coretta，愛丁堡大學）；數字照 PubMed 摘要原文抄錄",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "統合分析的原始研究多為回顧性觀察研究，不能證明雙語導致症狀延後；各失智症亞型的延後幅度不同，但每亞型研究數量有限，亞型差異仍不確定。臨床上不應把學外語說成預防失智的保證，3.45 年是群體平均差異，不是個人可預期的延後年數。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "研究：Li、Coretta，Neuropsychol Dev Cogn B Aging Neuropsychol Cogn 2026;33(1):1-28，DOI 10.1080/13825585.2025.2566699，PMID 41006960；機構：愛丁堡大學語言學與英語系；2025 年 9 月 26 日線上刊出",
+  "設計：首個貝葉斯統合分析，分別綜合雙語與失智發病年齡、雙語與失智發生率兩組研究",
+  "發病年齡：18 項研究，雙語者症狀出現年齡平均比單語者晚 3.45 年（95% 可信區間 2.8 至 4.1 年）；結果只受教育年數輕微影響，但教育對失智的影響仍不確定",
+  "發生率：6 項研究未提供雙語具預防效果的穩健證據；結論為可能延後症狀出現，但非預防",
+  "亞型：各亞型均見症狀延後模式較一致，但延後幅度因失智類型而異；每亞型研究數量有限，亞型差異是否真實仍不確定，尤需更多非阿茲海默症失智的研究",
+  "機制解釋：作者以認知儲備解釋——終身使用兩種或以上語言可能累積應對退化的能力"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "雙語",
+  "失智症",
+  "認知儲備",
+  "統合分析"
+ ],
+ "population": [
+  "長者",
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "當家屬問「學外語可否預防失智」時，你會如何用「延後症狀出現不等於預防」作區分，並說明群體平均與個人預期的分別？",
+  "面對認知儲備這類觀察性證據，你會如何向個案說明生活習慣介入的證據限度，避免把相關說成因果？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41006960/",
+   "author_handle": "",
+   "author_name": "Ziyuan Li、Stefano Coretta（愛丁堡大學）",
+   "title": "Bilingualism effect for delaying dementia onset: a Bayesian meta-analysis",
+   "content": "PubMed 摘要：首個貝葉斯統合分析，18 項發病年齡研究顯示雙語者症狀出現平均晚 3.45 年（95% 可信區間 2.8 至 4.1 年），6 項發生率研究未提供預防效果的穩健證據。",
+   "posted_at": "2026-11-04T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-04T13:30:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "bilingualism-delays-dementia-symptom-onset-meta-analysis",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "psychological-risk-protection-and-support-in-dementia",
+   "title_zh": "心理因素與失智風險：憂鬱焦慮反覆負向思考屬風險，盡責與人生目標具保護作用",
+   "title_en": "Psychological risk protection and support in dementia",
+   "summary_zh": "Marchant 等人發表觀點文章，重提「心理負債」概念。憂鬱、焦慮、反覆負向思考、孤獨與神經質與阿茲海默症及相關失智症風險相關；盡責與人生目標則具保護作用。作者強調這是選擇性綜述，並提出抗力與韌性機制框架。",
+   "summary_en": "Marchant and colleagues argue in a Nature Mental Health perspective that psychological characteristics are a meaningful part of the dementia puzzle. Depression, anxiety, repetitive negative thinking, loneliness and neuroticism are associated with higher risk of Alzheimer's and related dementias, while conscientiousness and purpose in life appear protective. The authors frame mechanisms around resistance and resilience, and note the review is selective.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "失智症",
+    "心理風險因素",
+    "長者"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "長者",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "slug": "macao-dementia-month-and-cognitive-assessment-figures",
+   "title_zh": "澳門世界失智症月：衛生中心年做逾 3,000 宗認知評估",
+   "title_en": "Macao dementia month and cognitive assessment figures",
+   "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。",
+   "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.",
+   "category": "評估與篩檢",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "澳門",
+    "失智症",
+    "認知評估",
+    "長者",
+    "衛生局"
+   ],
+   "first_seen_at": "2026-09-30T22:41:42+00:00",
+   "evidence_level": 0,
+   "population": [
+    "長者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.387,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-20T00:00:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "title_zh": "研究：兒少焦慮 CBT 與百憂解 24 週比較，兩種起點改善相近（316 人 SMART 試驗）",
+ "title_en": "Pediatric anxiety CBT fluoxetine SMART trial 24 weeks",
+ "summary_zh": "《American Journal of Psychiatry》2026 年刊出的務實型 SMART 隨機試驗，納入 316 名 8 至 17 歲嚴重焦慮兒少，在美國社區小兒科與心理健康診所比較兩種起點：先用暴露為核心的認知行為治療，或先用百憂解（fluoxetine）。24 週後，兒少自評焦慮（SCARED）整體下降 31.7%。先用 CBT 與先用藥物在主要結果上無顯著差異（24 週組間變化差異 1.45 分，95% 信賴區間 -2.25 至 5.16）；第 12 週未緩解者中，合併治療亦未在主要結果上優於持續優化單一治療。先用 CBT、12 週後未緩解再加入藥物的順序，在多項次要指標上改善最大，但主要結果差異未達顯著。",
+ "summary_en": "A pragmatic SMART randomized trial (American Journal of Psychiatry, 2026) enrolled 316 youths aged 8-17 with severe anxiety in US community paediatric and mental health clinics, comparing two starting points: exposure-based CBT first or fluoxetine first. Over 24 weeks, youth-reported anxiety (SCARED) fell 31.7% overall. Initial CBT versus fluoxetine did not differ significantly on the primary outcome (24-week difference in mean group change 1.45, 95% CI -2.25 to 5.16). Among week-12 nonremitters, combination treatment was not superior to optimized monotherapy on the primary outcome. Starting with CBT and adding fluoxetine after week 12 produced the greatest improvement across most secondary measures, but not significantly on the primary youth-reported outcome.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "同儕審查期刊隨機對照試驗（Am J Psychiatry 2026;183:668-681，DOI 10.1176/appi.ajp.20251037，Peterson 等）；核心數字經 MedicalXpress 期刊報道與 Contemporary Pediatrics 報道交叉核對一致",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "單盲設計、美國社區診所樣本，參加者社經弱勢程度高、共病多，推論至其他族群需謹慎。第 12 週後未緩解者佔多數，治療順序的次要指標差異屬探索性線索，不是主要結果的定論。開始、停用或調整兒少精神科藥物，須由兒少精神科醫師或熟悉兒少用藥的醫師評估與追蹤，不能憑本研究自行決定。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "研究：Peterson、West、Weersing 等，Am J Psychiatry 2026;183:668-681，DOI 10.1176/appi.ajp.20251037，PMID 42337414；試驗登記 NCT04760275；美國社區診所",
+  "設計：24 週務實型 SMART 試驗，兩階段隨機：第一階段 12 週，隨機分入暴露為核心的 CBT（Coping Cat）或百憂解；第 12 週達嚴格緩解標準者維持原治療，未緩解者再隨機分入持續優化原治療或加入另一種治療；單盲設計",
+  "樣本：316 名 8 至 17 歲已診斷焦慮症且尚未接受焦慮治療的兒少，症狀較重、社經弱勢程度高、共病多",
+  "主要結果：兒少自評 SCARED 焦慮量表，24 週整體下降 31.7%，具臨床意義",
+  "起點比較：先用 CBT 與先用百憂解的 24 週組間變化差異為 1.45 分（95% 信賴區間 -2.25 至 5.16），無顯著差異，CBT 僅有輕微數值優勢",
+  "第二階段：12 週未緩解者中，合併治療在第 24 週主要結果上未優於持續優化單一治療",
+  "順序線索：四種順序中，先用 CBT、12 週後未緩解再加入百憂解，在多項主要與次要指標上改善最大，但主要兒少自評結果差異未達顯著，屬後續研究線索",
+  "實務意義：選擇起點可結合孩子意願、合格治療師可近性、共病與藥物副作用監測共同決定，並預先訂立 12 週覆核點"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "兒少焦慮",
+  "CBT",
+  "百憂解",
+  "SMART試驗",
+  "隨機對照試驗"
+ ],
+ "population": [
+  "兒童",
+  "青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "當家長堅持「一定要先用藥」或「絕對不用藥」時，你會如何用本試驗的起點等效結果，帶出以孩子意願、可近性與共病作共同決定的討論？",
+  "12 週覆核點未見緩解時，你會如何與家庭討論「優化原治療」與「加入另一種治療」兩條路，而不把次要指標的順序線索說成定論？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1176/appi.ajp.20251037",
+   "author_handle": "",
+   "author_name": "Bradley S. Peterson 等（南加州大學、洛杉磯兒童醫院）",
+   "title": "A Pragmatic SMART Study of Medication and CBT Sequencing in Pediatric Anxiety Disorders: A Randomized Clinical Trial",
+   "content": "期刊原文（DOI 連結）：316 名 8 至 17 歲嚴重焦慮兒少 24 週 SMART 試驗，兒少自評焦慮整體下降 31.7%，先用 CBT 與先用百憂解無顯著差異。",
+   "posted_at": "2026-11-04T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-04T13:30:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "pediatric-anxiety-cbt-fluoxetine-smart-trial-24-weeks",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "childhood-anxiety-symptoms-and-assessment",
+   "title_zh": "兒童焦慮：症狀與評估",
+   "title_en": "Childhood Anxiety: Symptoms and Assessment",
+   "summary_zh": "NOCD Academy 的免費直播 CE 課，由 Sara Conley 博士主講。內容聚焦兒童焦慮的症狀辨識與評估，完成可獲 2 學分，仍可報名。",
+   "summary_en": "NOCD Academy free live CE webinar on 14 Oct 2026 by Sara Conley, PhD, on symptoms and assessment of childhood anxiety; 2 CE credits.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "焦慮",
+    "評估",
+    "網上研討會",
+    "免費CE"
+   ],
+   "first_seen_at": "2026-10-07T02:38:14+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": "2026-10-07T02:38:14+00:00",
+   "tier": "archive",
+   "has_ethics_flags": false,
+   "date": "2026-10-07T02:38:14+00:00",
+   "training": {
+    "provider": "NOCD Academy",
+    "price": "Free",
+    "price_tier": "免費",
+    "ce_credits": "2 CE credits | 2 CE hours",
+    "language": "English",
+    "deadline": "",
+    "event_date": "2026-10-14",
+    "format": "線上"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "internet-cbt-for-child-anxiety-two-year-rct",
+   "title_zh": "芬蘭 RCT：學校篩檢 + 10 週網上兒童焦慮 CBT，兩年後效果仍在",
+   "title_en": "Internet CBT for child anxiety two-year RCT",
+   "summary_zh": "芬蘭圖爾庫大學透過學校健康篩檢，招募 465 名有焦慮症狀的 10–13 歲兒童進行隨機對照試驗。介入組接受 10 週網上認知行為治療「Master Your Worries」，包含兒童與家長模組及每週電話指導；焦慮症狀與功能改善均優於對照組，效果在 6 至 12 個月間更明顯，並延續至兩年追蹤，症狀較重者獲益最大。研究刊於《JAMA Network Open》。",
+   "summary_en": "A University of Turku RCT of 465 school-screened Finnish children aged 10–13 found a 10-week guided internet CBT programme with parent involvement and weekly phone coaching reduced anxiety and improved functioning, with effects lasting two years (JAMA Network Open).",
+   "category": "臨床與治療應用",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "兒童焦慮",
+    "兒童 CBT",
+    "網上介入",
+    "學校篩檢",
+    "芬蘭"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.564,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-08-17T00:00:00+00:00"
+  }
+ ]
+}

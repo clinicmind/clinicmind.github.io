@@ -1,0 +1,166 @@
+{
+ "title_zh": "APA 免費短片教學：心理師實務 AI 入門五課（提示詞、衛教單張、查核輸出）",
+ "title_en": "APA AI essentials for practitioners free tutorials",
+ "summary_zh": "美國心理學會推出五段免費短片教學，由具實務經驗的心理學家示範如何用免費 AI 工具處理日常工作，包括撰寫臨床提示詞、製作衛教單張、撰寫專業簡介、查核 AI 輸出，以及用 AI 工具做文獻回顧。內容強調低風險用法及倫理考慮，適合想開始在實務中試用 AI 的心理師自學。",
+ "summary_en": "The American Psychological Association published five free short video tutorials for practitioners (Nov 2026), each led by a psychologist using free, widely available AI tools: writing better prompts for clinical practice, creating psychoeducational handouts, writing a professional bio, verifying AI outputs, and using AI for literature reviews. The focus is on practical, low-risk workflows with ethical and clinical considerations front and centre.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "免費短片教學屬入門性質，不等於完整的 AI 倫理或臨床應用培訓；各工具的私隱設定、資料保留及是否用於模型訓練，須按機構政策自行核對。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "五段短片，分別講提示詞、衛教單張、專業簡介、查核輸出及文獻回顧",
+  "示範使用免費及廣泛可用的 AI 工具",
+  "強調倫理及臨床考慮，包括查核 AI 幻覺及虛構文獻"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "AI",
+  "實務",
+  "免費"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "試用 AI 寫衛教單張或文獻回顧時，你會用哪三步查核流程，先至交畀個案或同事？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "American Psychological Association (APA)",
+  "format": "線上",
+  "price": "免費",
+  "price_tier": "免費",
+  "ce_credits": "",
+  "language": "English",
+  "event_date": "",
+  "deadline": "",
+  "audience_level": "心理師",
+  "topic": "AI 實務應用",
+  "signup_url": "https://www.apa.org/topics/artificial-intelligence-machine-learning/ai-essentials-for-practitioners"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.apa.org/topics/artificial-intelligence-machine-learning/ai-essentials-for-practitioners",
+   "author_handle": "",
+   "author_name": "American Psychological Association",
+   "title": "AI essentials for practitioners",
+   "content": "美國心理學會推出五段免費短片教學，由心理學家示範如何用免費 AI 工具處理實務工作，包括寫提示詞、製作衛教單張及查核 AI 輸出。",
+   "posted_at": "2026-11-04T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-17T01:43:46+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "apa-ai-essentials-for-practitioners-free-tutorials",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "apa-health-advisory-on-ai-chatbots-and-wellness-apps",
+   "title_zh": "APA 健康提醒：AI 聊天機器人與身心健康 App 不能取代專業照護",
+   "title_en": "APA health advisory on AI chatbots and wellness apps",
+   "summary_zh": "美國心理學會於 2025 年 11 月發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不應被當作專業心理健康照護的替代品。APA 呼籲避免使用者產生不健康的依賴、為兒童青少年等高風險族群設計特別保護、禁止 AI 冒充持照專業人員，並要求科技公司提高透明度與預設保護隱私。",
+   "summary_en": "In November 2025 the American Psychological Association issued a health advisory stating that generative AI chatbots and wellness apps should not replace professional mental health care. It calls for preventing unhealthy dependence, special protections for youth and other vulnerable groups, a ban on AI impersonating licensed professionals, and greater transparency and privacy by default.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "APA",
+    "健康提醒",
+    "專業組織指引",
+    "AI 聊天機器人",
+    "身心健康 App",
+    "兒少保護"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "一般大眾",
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.139,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2025-11-13T00:00:00+00:00"
+  },
+  {
+   "slug": "therabot-generative-ai-therapy-chatbot-rct",
+   "title_zh": "Therabot：首個生成式 AI 治療聊天機器人 RCT（NEJM AI）",
+   "title_en": "Therabot generative AI therapy chatbot RCT",
+   "summary_zh": "達特茅斯團隊在 NEJM AI 發表 Therabot 隨機對照試驗，210 名有重鬱、廣泛性焦慮或飲食疾患風險的成人分為使用組與對照組，為期 8 週。使用組憂鬱症狀平均下降 51%、焦慮 31%、體重與身形擔憂 19%，參與者評估的治療同盟與面對面治療相當；研究團隊監看回應，作者強調目前沒有生成式 AI 可以完全自主運作。",
+   "summary_en": "Dartmouth researchers reported in NEJM AI a randomized trial of Therabot with 210 adults with MDD, GAD, or eating-disorder risk over 8 weeks. Users saw average reductions of 51% in depressive, 31% in anxiety, and 19% in body-image/weight-concern symptoms, and rated the alliance comparable to in-person care; the team monitored responses and stressed that no generative AI agent is ready to operate fully autonomously.",
+   "category": "臨床與治療應用",
+   "kind": "research",
+   "model_names": [
+    "Therabot"
+   ],
+   "tags": [
+    "Therabot",
+    "RCT",
+    "生成式AI",
+    "NEJM AI",
+    "治療同盟"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.518,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2025-03-27T00:00:00+00:00"
+  },
+  {
+   "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
+   "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
+   "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
+   "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
+   "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
+   "category": "倫理與風險",
+   "kind": "incident",
+   "model_names": [],
+   "tags": [
+    "AI 聊天機器人",
+    "指引",
+    "兒童心理",
+    "危機自殺",
+    "韓國"
+   ],
+   "first_seen_at": "2026-10-13T02:38:45+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "成人",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  }
+ ]
+}

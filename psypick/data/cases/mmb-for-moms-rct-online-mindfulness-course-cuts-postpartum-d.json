@@ -1,0 +1,155 @@
+{
+ "title_zh": "RCT：線上正念認知課程 MMB for Moms 降低抑鬱復發風險（孕期至產後六個月）",
+ "title_en": "MMB for Moms RCT: online mindfulness course cuts postpartum depression relapse",
+ "summary_zh": "The Lancet Public Health 的隨機對照試驗招募 500 名有抑鬱病史、基線時非發作期的孕婦（全美 50 州）。參加八節自定進度線上正念認知課程 MMB for Moms 的一組，至產後六個月的抑鬱復發率為 33%（81/249），常規照顧組為 44%（111/251），風險比 HR 0.74（95% CI 0.56–0.99），相對風險低約 26%。",
+ "summary_en": "A randomised controlled trial in The Lancet Public Health enrolled 500 pregnant participants with a history of depression who were not in an episode at baseline, across all 50 US states. Those offered MMB for Moms, an eight-session self-paced digital mindfulness-based cognitive course, had a depression relapse rate of 33% (81/249) through six months postpartum versus 44% (111/251) with usual care (HR 0.74, 95% CI 0.56-0.99), about 26% lower relative risk.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "隨機對照試驗（The Lancet Public Health，2026-10-20 刊出）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "研究對象是有抑鬱病史而當下未發作的孕婦，屬預防復發介入；不是治療現有產後抑鬱，效果亦未證實可推廣至無病史孕婦。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "n=500 有抑鬱病史孕婦，基線時非發作期（全美 50 州）",
+  "介入：MMB for Moms，八節自定進度線上正念認知課程",
+  "復發率 33%（81/249）對 44%（111/251），HR 0.74（95% CI 0.56–0.99）",
+  "觀察期至產後六個月"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "產後抑鬱",
+  "正念",
+  "MBCT",
+  "預防",
+  "RCT"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "有抑鬱病史的孕婦個案，我們現時有沒有常規的復發預防計劃？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(26)00184-2/fulltext",
+   "author_handle": "",
+   "author_name": "Dimidjian et al.",
+   "title": "The Lancet Public Health 論文（PII: S2468-2667(26)00184-2）",
+   "content": "期刊原文頁：MMB for Moms 預防抑鬱復發的隨機對照試驗，含樣本、介入與主要結果。",
+   "posted_at": "2026-10-20T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "mmb-for-moms-rct-online-mindfulness-course-cuts-postpartum-d",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "online-program-for-anxious-parents-prevents-child-anxiety",
+   "title_zh": "焦慮家長的自助線上課程能預防孩子焦慮嗎？1,811 人 RCT 的小效果與低完成率",
+   "title_en": "Online program for anxious parents prevents child anxiety",
+   "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。",
+   "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "焦慮",
+    "親職介入",
+    "預防",
+    "數位介入",
+    "階梯式照護"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.43,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-21T00:00:00+00:00"
+  },
+  {
+   "slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days",
+   "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例",
+   "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
+   "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
+   "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "嬰幼兒心理健康",
+    "親嬰關係",
+    "政策",
+    "英國",
+    "Anna Freud"
+   ],
+   "first_seen_at": "2026-10-01T03:55:02+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.783,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-08-24T00:00:00+00:00"
+  },
+  {
+   "slug": "positive-childhood-experiences-reduce-risk-of-later-mental-i",
+   "title_zh": "正向童年經驗與成年早期心理健康的長期追蹤研究",
+   "title_en": "Positive childhood experiences reduce risk of later mental illness: longitudinal cohort",
+   "summary_zh": "縱向追蹤研究（發表於 American Journal of Psychiatry，2026 年 10 月 14 日，doi:10.1176/appi.ajp.20260007）。正向童年經驗（PCE）分數每增加 1 分（最高 10 分），成年早期符合精神障礙準則的機會率下降約 11%。",
+   "summary_en": "Longitudinal study published in the American Journal of Psychiatry on 14 October 2026 (doi:10.1176/appi.ajp.20260007). Each one-point increase in positive childhood experiences (PCE, up to 10) was associated with about 11% lower odds of meeting criteria for a psychiatric disorder in early adulthood, after adjusting for confounders.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "正向童年經驗",
+    "縱向研究",
+    "成年早期",
+    "精神障礙風險"
+   ],
+   "first_seen_at": "2026-10-19T02:37:41+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-14T00:00:00+00:00"
+  }
+ ]
+}

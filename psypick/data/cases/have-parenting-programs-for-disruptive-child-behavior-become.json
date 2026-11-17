@@ -1,0 +1,62 @@
+{
+ "title_zh": "親職課程對破壞性行為的效果有冇隨時間減弱？244 項試驗統合分析：早期下降、近年企穩",
+ "title_en": "Have parenting programs for disruptive child behavior become less effective",
+ "summary_zh": "Journal of Child Psychology and Psychiatry 2026 年第 67 卷第 1 期刊出統合分析，綜合 244 項行為親職課程隨機對照試驗（1,100 個效應量、28,916 個家庭、36 個國家），檢視課程效果估計值五十多年來的變化。效果估計值早期下降、其後企穩：近年試驗方法更嚴謹（更多主動對照組、偏倚風險較低）、樣本年齡較大、女童較多、課程節數較少、較常由獨立人員執行、較少使用暫停法；但這些變化均未能解釋早期的效應下降。作者結論是效果估計值已不再下降，但亦無上升證據，須試驗課程內容、傳授方式與個人化方法去提升效果。研究由 Patty Leijten 等領導；作者申報無利益衝突。",
+ "summary_en": "The Journal of Child Psychology and Psychiatry (2026;67(1):127-137) published a meta-analysis of 244 randomised controlled trials of behavioural parenting programmes (1,100 effect sizes; 28,916 families; 36 countries), examining how estimates of programme effects have changed over five decades. Effect estimates initially fell and then stabilised: more recent trials used more rigorous methods (more active control conditions, lower risk of bias), enrolled older samples with more girls, and evaluated interventions with fewer sessions, more often delivered by independent staff and making less use of time-out. None of these developments explained the initial reduction in effect estimates. The authors conclude that effect estimates are currently stable, neither falling nor rising, and that experimentation with content, delivery and personalisation is needed to increase programme effects. Led by Patty Leijten; the authors declare no conflicts of interest.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "系統性搜尋 22 個數據庫、灰色文獻與 4 個試驗註冊庫的統合分析（JCPP 2026 年第 67 卷第 1 期，2025 年 9 月 18 日網上刊出；244 項試驗，28,916 個家庭；DOI: 10.1111/jcpp.70049；經阿姆斯特丹大學儲存庫出版商版本核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "效應量隨時間下降的原因未解明，試驗、樣本與介入特徵均未能解釋早期下降；結果為效應量估計值的時間趨勢，不等於個別課程無效；納入試驗橫跨五十年，異質性高；研究未直接比較不同課程內容的優劣。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：244 項行為親職課程隨機對照試驗，1,100 個效應量，28,916 個家庭，36 個國家；系統性搜尋 22 個國際與地區數據庫、灰色文獻與 4 個試驗註冊庫",
+  "方法：統合分析，檢視親職課程效果估計值隨時間的變化，並測試試驗、樣本與介入特徵能否解釋趨勢",
+  "主要結果：效果估計值早期下降、其後企穩；近年試驗方法更嚴謹（更多主動對照組、偏倚風險較低）、樣本年齡較大、女童較多、節數較少、較常由獨立人員執行、較少使用暫停法",
+  "趨勢解釋：上述變化均未能解釋早期的效應下降；作者提出可能原因包括課程結構與今日家庭生活配合度下降、網上育兒資訊普及令課程內容較少新意、疊加元素未必有效",
+  "限制：下降原因未解明；異質性高；未直接比較課程內容優劣"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "親職課程",
+  "破壞性行為",
+  "統合分析",
+  "JCPP",
+  "介入效果"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「親職課程係咪愈來愈冇用」，你會點用「效應企穩、早期下降原因未明」去回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1111/jcpp.70049",
+   "author_handle": "",
+   "author_name": "Leijten、Melendez-Torres、Gardner、Weisz 等（阿姆斯特丹大學）",
+   "title": "Have parenting programs for disruptive child behavior become less effective? (JCPP 2026;67(1):127-137; DOI: 10.1111/jcpp.70049)",
+   "content": "244 項試驗統合分析：親職課程效果估計值早期下降、近年企穩，下降原因未解明。",
+   "posted_at": "2025-09-18T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-16T13:35:48+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "have-parenting-programs-for-disruptive-child-behavior-become",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

@@ -1,0 +1,148 @@
+{
+ "title_zh": "居家認知測試平板 App：與紙筆版同樣可靠且數據更豐富",
+ "title_en": "At-home tablet cognitive testing app versus paper testing",
+ "summary_zh": "美國東北大學團隊發表研究，讓認知健康長者在家的平板上完成連線測驗、畫鐘等任務。平板版與紙筆版結果一致，而且能記錄顫抖等微互動訊號。下一步將擴大測試人數。",
+ "summary_en": "Northeastern University researchers reported in JMIR Formative Research that cognitively healthy older adults completed tablet-based cognitive tests (trail-making, clock drawing) at home with results consistent with paper versions, while the app captured richer micro-interaction data such as tremor. Participants tested twice over Zoom, two months apart, for test-retest reliability.",
+ "category": "評估與篩檢",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊重測信度研究，樣本為認知健康長者",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "受試者是認知健康長者，未包括認知障礙患者；家中自測的效度與作弊／環境干擾控制仍待驗證。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "平板版與紙筆版測試結果一致",
+  "平板可記錄顫抖等紙筆測不到的微互動訊號",
+  "受試者分兩次 Zoom 測試，相隔兩個月，檢驗重測信度"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "認知評估",
+  "遠距測試",
+  "長者"
+ ],
+ "population": [
+  "長者",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "遙距認知測試進入本地服務前，哪些族群（數碼素養、視力、手部功能）最容易被系統性低估？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://medicalxpress.com/news/2026-10-cognitive-app-home.html",
+   "author_handle": "",
+   "author_name": "Quentin Coppola 等（美國東北大學 Brain Game Center）",
+   "title": "Researchers develop cognitive testing app for at-home use",
+   "content": "東北大學團隊在《JMIR Formative Research》發表研究，讓認知健康長者在家的平板上完成連線測驗、畫鐘等任務，並與紙筆版比較。",
+   "posted_at": "2026-10-22T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:01:01+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "at-home-tablet-cognitive-testing-app-versus-paper-testing",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "macao-dementia-month-and-cognitive-assessment-figures",
+   "title_zh": "澳門世界失智症月：衛生中心年做逾 3,000 宗認知評估",
+   "title_en": "Macao dementia month and cognitive assessment figures",
+   "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。",
+   "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.",
+   "category": "評估與篩檢",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "澳門",
+    "失智症",
+    "認知評估",
+    "長者",
+    "衛生局"
+   ],
+   "first_seen_at": "2026-09-30T22:41:42+00:00",
+   "evidence_level": 0,
+   "population": [
+    "長者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.387,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-20T00:00:00+00:00"
+  },
+  {
+   "slug": "psychological-risk-protection-and-support-in-dementia",
+   "title_zh": "心理因素與失智風險：憂鬱焦慮反覆負向思考屬風險，盡責與人生目標具保護作用",
+   "title_en": "Psychological risk protection and support in dementia",
+   "summary_zh": "Marchant 等人發表觀點文章，重提「心理負債」概念。憂鬱、焦慮、反覆負向思考、孤獨與神經質與阿茲海默症及相關失智症風險相關；盡責與人生目標則具保護作用。作者強調這是選擇性綜述，並提出抗力與韌性機制框架。",
+   "summary_en": "Marchant and colleagues argue in a Nature Mental Health perspective that psychological characteristics are a meaningful part of the dementia puzzle. Depression, anxiety, repetitive negative thinking, loneliness and neuroticism are associated with higher risk of Alzheimer's and related dementias, while conscientiousness and purpose in life appear protective. The authors frame mechanisms around resistance and resilience, and note the review is selective.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "失智症",
+    "心理風險因素",
+    "長者"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "長者",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "slug": "fda-clears-neurora-ai-assisted-autism-assessment-tool-for-ch",
+   "title_zh": "FDA 許可 Neurora：協助評估 18 個月至 12 歲兒童自閉症的 AI 工具",
+   "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years",
+   "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。",
+   "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.",
+   "category": "評估與篩檢",
+   "kind": "product",
+   "model_names": [],
+   "tags": [
+    "自閉症",
+    "兒童心理",
+    "評估",
+    "FDA",
+    "AI 工具"
+   ],
+   "first_seen_at": "2026-10-13T02:38:45+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  }
+ ]
+}

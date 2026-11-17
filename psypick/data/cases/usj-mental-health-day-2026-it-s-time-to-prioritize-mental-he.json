@@ -1,0 +1,199 @@
+{
+ "title_zh": "聖若瑟大學 Mental Health Day 2026：職場心理健康優先論壇（澳門）",
+ "title_en": "USJ Mental Health Day 2026: It's Time to Prioritize Mental Health in the Workplace",
+ "summary_zh": "聖若瑟大學心理學系將於 2026 年 10 月 9 日舉辦 USJ Mental Health Day 2026，主題為職場心理健康優先，與大中華企業社會責任研究所合辦，內容涵蓋職場心理社會風險管理、企業實務與職場輔導分享，並設反思活動與圓桌討論。免費參加，向公眾開放。",
+ "summary_en": "USJ Psychology Department Mental Health Day on 9 Oct 2026 (Macau): free public forum on workplace mental health, mostly in English.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "活動公告",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "活動主要以英語進行，需自行確認報名方式。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "頁面更新日期 2026 年 9 月 25 日；活動於 2026 年 10 月 9 日（五）18:30–21:10 在聖若瑟大學青洲校區 Kent Wong Gallery 舉行",
+  "主題為「It's Time to Prioritize Mental Health in the Workplace」（職場心理健康優先），配合 2026 年世界心理健康日",
+  "主辦為 USJ 心理學系（健康與環境科學學院）與大中華企業社會責任研究所（MICSRGC），內容含職場心理社會風險管理、企業實務、職場輔導分享與圓桌討論",
+  "免費參加、開放予公眾，主要以英語進行"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "職場心理健康",
+  "世界心理健康日",
+  "澳門"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者",
+  "一般大眾"
+ ],
+ "supervision_questions": [
+  "職場心理社會風險管理與個別輔導的分工是什麼？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "聖若瑟大學心理學系（與大中華企業社會責任研究所合辦）",
+  "format": "現場論壇（澳門青洲校區）",
+  "price": "免費",
+  "price_tier": "免費",
+  "ce_credits": "",
+  "language": "英語為主",
+  "event_date": "2026-10-09",
+  "deadline": "",
+  "audience_level": "公眾、臨床工作者",
+  "topic": "職場心理健康",
+  "signup_url": "https://www.usj.edu.mo/en/event/usj-mental-health-day-2026/"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.usj.edu.mo/en/event/usj-mental-health-day-2026/",
+   "author_handle": "",
+   "author_name": "聖若瑟大學心理學系（Faculty of Health and Environmental Sciences）",
+   "title": "USJ Mental Health Day 2026 – USJ Macao",
+   "content": "聖若瑟大學心理學系配合世界心理健康日舉辦 USJ Mental Health Day 2026，10 月 9 日晚間在青洲校區舉行，主題為職場心理健康，含學術與實務分享及參與式論壇，免費向公眾開放。",
+   "posted_at": "2026-09-25T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-03T01:09:46+00:00",
+ "hero_media": null,
+ "include": false,
+ "reject_reason": "純實體，不符 2026-10-23 規則",
+ "slug": "usj-mental-health-day-2026-it-s-time-to-prioritize-mental-he",
+ "featured_at": null,
+ "hot_score": 1.0,
+ "tier": "archive",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "sue-johnson-eft-webinar-series-on-demand-with-ce",
+   "title_zh": "Sue Johnson 親授伴侶 EFT 錄影課，每集 40 美元含 CE",
+   "title_en": "Sue Johnson EFT webinar series on demand with CE",
+   "summary_zh": "美國 National Register of Health Service Psychologists 提供四集由 Sue Johnson 主講的情緒取向治療（Emotionally Focused Therapy，Sue Johnson 系，非 Greenberg 的 Emotion-Focused Therapy）錄影課，主題包括以依附為本的伴侶介入、EFT Tango 與微介入、Hold Me Tight 對話與依附創傷修復，以及創傷伴侶。每集 40 美元，含 1–1.5 小時 CE，課程等級標示為進階。",
+   "summary_en": "The National Register of Health Service Psychologists offers four recorded webinars by Dr. Sue Johnson on Emotionally Focused Therapy (the Johnson model, not Greenberg's Emotion-Focused Therapy), covering attachment-based couple intervention, the EFT Tango, Hold Me Tight conversations and attachment injuries, and trauma couples. Each costs US$40 including 1–1.5 CE credits; instructional level is advanced.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "情緒取向治療",
+    "Sue Johnson 系",
+    "伴侶治療",
+    "依附",
+    "繼續教育",
+    "低價"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "National Register of Health Service Psychologists",
+    "price": "每集 40 美元（含 CE）",
+    "price_tier": "低價",
+    "ce_credits": "第一集 1.5 小時、第二至四集各 1 小時（APA 認可主辦單位）",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "",
+    "format": "錄影課（隨選觀看）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "polyvagal-institute-free-online-community-events-oct-nov-202",
+   "title_zh": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
+   "title_en": "Polyvagal Institute free online community events Oct–Nov 2026",
+   "summary_zh": "註冊為 501(c)(3) 非營利組織的 Polyvagal Institute 在 2026 年 10 月至 11 月有五場免費 Zoom 活動，包括 11/6 共同創辦人 Deb Dana 的問答，以及 11/14 Stephen Porges 與國際講者討論言語、語言發展與自律神經系統的 90 分鐘座談。報名即可在活動後收到錄影（Deb Dana 場錄影只開放兩週）。",
+   "summary_en": "The Polyvagal Institute, a registered 501(c)(3) nonprofit, hosts five free Zoom community events in Oct–Nov 2026, including a Q&A with co-founder Deb Dana (Nov 6) and a 90-minute conversation with Stephen Porges and international panelists on speech, language development and the autonomic nervous system (Nov 14). Registrants receive recordings afterwards.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "身體取向治療",
+    "多迷走神經理論",
+    "自律神經調節",
+    "兒童心理",
+    "免費"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": "2026-10-05T03:24:52+00:00",
+   "tier": "archive",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "Polyvagal Institute（501(c)(3) 非營利組織）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "2026-10-12",
+    "format": "線上直播（Zoom），附錄影"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "free-pat-ogden-webinar-on-resilience-amid-trauma",
+   "title_zh": "Pat Ogden 免費錄影講座：感覺動作心理治療談創傷下的復原力",
+   "title_en": "Free Pat Ogden webinar on resilience amid trauma",
+   "summary_zh": "Leading Edge Seminars 與 Sensorimotor Psychotherapy Institute（SPI）、SensorimotorItalia.it 合作，免費公開 Pat Ogden 與 Rebeca Farca 的錄影講座「Building Resilience in Times of War, Violence & Other Traumatic Events」。內容介紹如何協助長期處於壓力與威脅下的案主，並附講義、給案主用的 PEACE protocol 與給臨床人員的 SPI protocol 可下載。",
+   "summary_en": "Leading Edge Seminars, with the Sensorimotor Psychotherapy Institute and SensorimotorItalia.it, offers a free recorded webinar by Pat Ogden and Rebeca Farca, 'Building Resilience in Times of War, Violence & Other Traumatic Events'. It shows how to help clients living with long-term stress and threat, with a downloadable handout, a PEACE protocol for clients and an SPI protocol for clinicians.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "身體取向治療",
+    "感覺動作心理治療",
+    "創傷",
+    "復原力",
+    "免費"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "Leading Edge Seminars（與 Sensorimotor Psychotherapy Institute 合作）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "",
+    "format": "錄影講座（隨選觀看）"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

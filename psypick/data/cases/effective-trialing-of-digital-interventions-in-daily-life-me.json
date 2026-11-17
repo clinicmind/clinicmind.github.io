@@ -1,0 +1,160 @@
+{
+ "title_zh": "數碼心理健康介入的日常試驗：方法學展望",
+ "title_en": "Effective Trialing of Digital Interventions in Daily Life Mental Health Perspective",
+ "summary_zh": "文章指出數碼心理健康介入常出現先導研究亮麗、隨機對照試驗卻失敗的落差。原因包括依從率低（一項涵蓋 70 項隨機對照試驗的統合分析顯示只有 34% 用戶完成全部介入）、alpha 膨脹，以及機器學習分析的時間數據洩漏。作者建議試驗期要夠長（復發自然機率至少 50%）、提高結果量度的時間精確度，並發展效度更高的數碼表型。",
+ "summary_en": "A Perspective in npj Digital Medicine (November 6, 2026) asks why promising pilot data for digital mental health interventions so often fail in RCTs. A meta-analysis of 70 RCTs found only 34% of users completed the full intervention, and the authors point to alpha-inflation and temporal data leakage in machine-learning analyses. They recommend longer trials (relapse probability of at least 50%), weekly ground-truth classification, and digital phenotypes with stronger construct validity.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "方法學展望評論，引用 70 項 RCT 統合分析",
+ "ethics_flags": [
+  {
+   "flag": "持續監測與私隱",
+   "note": "日常監測依賴手機與穿戴裝置持續收集行為數據，試驗設計須交代數據收集範圍、保存與同意安排。",
+   "refs": [
+    "倫理與風險｜數碼監測私隱"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "展望文章非原始研究；文中數字（70 項 RCT、34% 完成率）來自引用的統合分析，個別試驗設計差異大。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "70 項隨機對照試驗的統合分析顯示，只有 34% 用戶完成全部手機介入；業界數據顯示近 75% 用戶在登入十次後便停用健康應用程式",
+  "先導研究與隨機對照試驗落差的三大原因：介入執行與依從問題、alpha 膨脹、時間數據洩漏",
+  "即時復發預防與即時適應介入目標不同：前者偵測將出現的發作並預防，後者觸發微型治療以減輕當下症狀",
+  "建議：研究期要令復發自然機率至少達 50%（約 12 個月以上）、每週都能判斷有病或無病、重視數碼表型的建構效度"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "數碼心理健康",
+  "mHealth",
+  "隨機對照試驗",
+  "研究方法"
+ ],
+ "population": [
+  "臨床工作者",
+  "一般大眾"
+ ],
+ "supervision_questions": [
+  "數碼介入的先導數據亮麗但 RCT 失敗，你會如何向團隊解釋「依從率」與「時間數據洩漏」這兩個落差來源？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.nature.com/articles/s41746-026-03414-7",
+   "author_handle": "",
+   "author_name": "Ulrich W. Ebner-Priemer, Lorenz Deserno, Markus Reichert",
+   "title": "Effective trialing of digital interventions in daily life – the mental health perspective",
+   "content": "npj Digital Medicine 刊登的方法學評論，分析數碼心理健康介入的先導研究與隨機對照試驗結果常有落差的原因，並提出即時復發預防與即時適應介入的試驗設計建議。",
+   "posted_at": "2026-11-06T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-10T01:28:21+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "effective-trialing-of-digital-interventions-in-daily-life-me",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "relax-perinatal-digital-intervention-prevents-increasing-anx",
+   "title_zh": "RCT：孕期數碼治療 RELAX 可減低焦慮惡化，八週 GAD-7 平均低 1.5 分（268 人）",
+   "title_en": "RELAX perinatal digital intervention prevents increasing anxiety RCT",
+   "summary_zh": "倫敦國王學院主導的二期隨機對照試驗，268 名高反覆負面思考、輕至中度焦慮的孕婦（16–28 週），比較自導式數碼治療 RELAX（八週 12 節：8 節網上＋4 節 SMS，含詮釋偏誤修正訓練）加常規照顧與單用常規照顧。八週時 RELAX 組 GAD-7 平均低 1.5 分（95% CI −2.4 至 −0.6；效應量 −0.42），抑鬱（PHQ-9 −0.8、EPDS −1.1）、反覆負面思考（−2.7）、憂慮（−3.6）與圍產期焦慮（PASS −5.5）亦較低；焦慮惡化者常規組佔 8.2%，RELAX 組只佔 1.5%。至 36 週時，一般焦慮、產後抑鬱與反覆負面思考的效果維持。",
+   "summary_en": "A phase 2b randomised clinical trial led by King's College London randomised 268 pregnant participants with high repetitive negative thinking and up to moderate anxiety (16-28 weeks' gestation) to the self-led digital intervention RELAX (12 sessions over 8 weeks: 8 online plus 4 SMS sessions, including cognitive bias modification for interpretation) plus usual care or usual care alone. At 8 weeks, GAD-7 was 1.5 points lower in the RELAX arm (95% CI -2.4 to -0.6; effect size -0.42), with depression (PHQ-9 -0.8, EPDS -1.1), repetitive negative thinking (-2.7), worry (-3.6) and perinatal anxiety (PASS -5.5) also lower; anxiety deteriorated in 8.2% of the usual-care arm versus 1.5% of the RELAX arm. Effects on general anxiety, postnatal depression and repetitive negative thinking were sustained at 36 weeks.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "孕期焦慮",
+    "數碼治療",
+    "RCT",
+    "反覆負面思考",
+    "預防"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
+  {
+   "slug": "flourish-ai-app-rct-stress-depression-anxiety-university-stu",
+   "title_zh": "RCT：生成式 AI 應用 Flourish 減壓，六週抑鬱明顯改善者 52.3% 對 31.7%（1,137 人）",
+   "title_en": "Flourish AI app RCT stress depression anxiety university students",
+   "summary_zh": "哈佛商學院工作論文報告一項預先註冊隨機對照試驗，1,137 名北美大學本科生（未經症狀篩查）隨機分派使用生成式 AI 心理健康應用 Flourish（每週至少兩次）或常規照顧六週。整體而言，Flourish 組的壓力（β=−0.03，P=.010）、抑鬱症狀（β=−0.03，P=.006）與焦慮症狀（β=−0.04，P=.001）軌跡均較佳。基線症狀較高者中，抑鬱明顯改善者 52.3% 對 31.7%，焦慮 50.6% 對 38.1%；基線症狀較低者中，Flourish 緩和了症狀惡化。無與介入相關的不良事件。",
+   "summary_en": "A Harvard Business School working paper reports a preregistered randomised clinical trial in which 1,137 unscreened university students at a large North American university were assigned to six weeks of the generative AI mental health app Flourish (at least twice weekly) or care as usual. Across the full sample, Flourish produced more favourable trajectories for perceived stress (beta -0.03, P=.010), depressive symptoms (beta -0.03, P=.006) and anxiety symptoms (beta -0.04, P=.001). Among participants with elevated baseline symptoms, meaningful improvement was achieved by 52.3% versus 31.7% for depression and 50.6% versus 38.1% for anxiety; among those with low baseline symptoms, Flourish buffered deterioration. No intervention-related adverse events were reported.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "生成式 AI",
+    "心理健康應用",
+    "大學生",
+    "RCT",
+    "預防"
+   ],
+   "first_seen_at": "2026-11-08T13:26:00+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-03T00:00:00+00:00"
+  },
+  {
+   "slug": "digital-phenotyping-relapse-prediction-systematic-review",
+   "title_zh": "系統性回顧：手機被動感測可提前 1–4 週預測精神疾病復發，但尚無研究證明改善結果",
+   "title_en": "Digital phenotyping relapse prediction systematic review",
+   "summary_zh": "BMC Psychiatry 的系統性回顧納入 52 篇、4,814 名參與者的研究，被動數位表型對 1–4 週後復發的預測 AUC 介於 0.70–0.88，多模態優於單一模態，個人化模型優於群體模型。睡眠改變、活動量與移動範圍下降、社交聯絡減少最具預測力；但 75% 研究偏誤風險高，多缺外部驗證，且沒有任何研究證明能改善臨床結果。",
+   "summary_en": "A BMC Psychiatry systematic review of 52 studies (4,814 participants) found passive digital phenotyping predicted relapse 1–4 weeks ahead with AUCs of 0.70–0.88; multimodal and individual-level models performed better. Sleep changes, reduced activity and mobility, and less social communication were most predictive, but 75% of studies had high risk of bias, few had external validation, and none showed improved clinical outcomes.",
+   "category": "評估與篩檢",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "數位表型",
+    "被動感測",
+    "復發預測",
+    "穿戴裝置",
+    "系統性回顧"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.518,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-05-09T00:00:00+00:00"
+  }
+ ]
+}

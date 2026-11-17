@@ -1,0 +1,164 @@
+{
+ "title_zh": "研究：12 歲擁有智能手機的青少年，兩年後出現飲食失調症狀的風險較高（8,957 人）",
+ "title_en": "Smartphone ownership age 12 eating disorder symptoms",
+ "summary_zh": "JAMA Network Open 隊列研究，分析 ABCD 研究 8,957 名青少年。12 歲擁有智能手機者佔 69.5%；至 14 歲時，擁有者出現任何飲食失調症狀的風險較高（RR 1.49）：暴食症狀 RR 1.67、不當補償行為 RR 1.50、自我價值繫於體重 RR 2.03。14 歲時 24.2% 擁有者報告至少一種症狀，對照組為 15.5%。屬觀察性關聯，不能證明手機導致症狀。",
+ "summary_en": "A JAMA Network Open cohort study of 8,957 adolescents in the ABCD Study found that owning a smartphone at age 12 (69.5%) was associated with a higher risk of eating disorder symptoms by age 14 (any symptom RR 1.49): binge-eating symptoms RR 1.67, inappropriate compensatory behaviours RR 1.50, and self-worth tied to weight RR 2.03. At 14, 24.2% of smartphone owners reported at least one symptom versus 15.5% of non-owners. The association is observational and does not prove phones cause symptoms.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊隊列研究（JAMA Network Open，2026-09-25 線上刊出；DOI: 10.1001/jamanetworkopen.2026.37897；PMCID PMC13615465；ABCD 研究）",
+ "ethics_flags": [
+  {
+   "flag": "篩檢與標籤",
+   "note": "飲食失調症狀不等於診斷；與家長談手機年齡時，避免把症狀歸咎於單一原因或標籤孩子，宜同時了解飲食、體像與社交比較等多重因素。",
+   "refs": [
+    "評估與篩檢｜假陽性與標籤效應"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "觀察性研究，不能證明因果；症狀來自青少年自述，未量度欺凌或神經發展因素；擁有手機與否並非隨機分配；症狀不等於飲食失調診斷。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：ABCD 研究 8,957 名青少年，於 12 歲與 14 歲評估",
+  "12 歲擁有智能手機者佔 69.5%（6,225 人）",
+  "14 歲時任何飲食失調症狀：擁有者風險較高（RR 1.49，95% CI 1.19–1.87）",
+  "暴食症狀 RR 1.67、不當補償行為 RR 1.50、自我價值繫於體重 RR 2.03",
+  "14 歲時至少一種症狀：擁有者 24.2%，非擁有者 15.5%",
+  "已調整基線症狀等多項因素；作者強調不能證明因果"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "智能手機",
+  "飲食失調",
+  "青少年",
+  "ABCD"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「幾歲畀手機先啱」時，你會如何用這份證據回應，而不把飲食失調風險簡化為手機問題？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13615465/",
+   "author_handle": "",
+   "author_name": "Nagata 等（加州大學三藩市分校）",
+   "title": "Smartphone Ownership and Eating Disorder Symptoms in Early Adolescence (JAMA Network Open; DOI: 10.1001/jamanetworkopen.2026.37897)",
+   "content": "期刊全文（PMC）：ABCD 隊列研究，12 歲擁有智能手機與 14 歲飲食失調症狀的關聯，含各症狀的風險比。",
+   "posted_at": "2026-09-25T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-06T13:27:53+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "smartphone-ownership-age-12-eating-disorder-symptoms",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "early-warning-signs-of-teen-eating-disorders",
+   "title_zh": "青少年飲食疾患早期警訊：「注意、詢問、行動」，不必等孩子同意才求助",
+   "title_en": "Early warning signs of teen eating disorders",
+   "summary_zh": "Lisa Damour 在 Ask Lisa Podcast 訪問前飲食疾患學會（Academy for Eating Disorders）理事長 Kelly Bhatnagar，談如何分辨青少年正常飲食變化與飲食疾患警訊。她提出「注意、詢問、行動」：觀察行為變化、以好奇而非指責的方式詢問，擔心時就尋求專業評估，不必等青少年同意；並建議尋找受過 Maudsley 家庭治療（FBT）訓練的專業人員。",
+   "summary_en": "On the Ask Lisa Podcast, Lisa Damour talks with eating-disorder specialist Kelly Bhatnagar, a recent past president of the Academy for Eating Disorders, about distinguishing normal adolescent eating changes from warning signs. Bhatnagar recommends 'Notice, Ask, Act' and seeking evaluation without waiting for the teen's agreement, and points families to clinicians trained in Maudsley family-based treatment.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "飲食疾患",
+    "青少年",
+    "家庭治療",
+    "FBT",
+    "早期辨識"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.383,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-15T00:00:00+00:00"
+  },
+  {
+   "slug": "social-media-time-and-teen-anxiety-depression-meta-analysis",
+   "title_zh": "統合分析：青少年花在社交媒體的時間，與焦慮憂鬱關聯極弱（37 項研究）",
+   "title_en": "Social media time and teen anxiety depression meta-analysis",
+   "summary_zh": "澳洲天主教大學團隊在《British Journal of Clinical Psychology》發表的系統性回顧，綜合 37 項縱貫與實驗研究、近 80,000 名 10 至 24 歲青少年。社交媒體使用時間與其後抑鬱症狀的合併相關係數 r=0.08（12 項研究），焦慮 r=0.093（5 項研究），合共解釋不足 1% 的症狀差異。效應不隨年齡、追蹤期或發表年份改變。作者認為，單靠限制使用時間，未必能解決青少年心理健康危機。",
+   "summary_en": "An Australian Catholic University systematic review in the British Journal of Clinical Psychology pooled 37 longitudinal and experimental studies of nearly 80,000 young people aged 10-24. Time on social media correlated only very weakly with later symptoms: depression pooled r = .08 (12 studies), anxiety r = .093 (5 studies), together explaining under 1% of symptom variation. Effects did not vary by age, follow-up length or publication year. The authors conclude restricting time alone is unlikely to resolve the youth mental-health crisis.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "青少年",
+    "焦慮",
+    "抑鬱",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-11-05T13:45:00+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  },
+  {
+   "slug": "taiwan-survey-35-of-teens-report-appearance-anxiety",
+   "title_zh": "兒福聯盟調查：三成五國高中生有容貌焦慮，口罩成「第二張臉」",
+   "title_en": "Taiwan survey: 35% of teens report appearance anxiety",
+   "summary_zh": "兒福聯盟問卷調查全臺一萬多名國高中生，35.4% 自陳有容貌焦慮，少女 48.7%、少男 20.6%；23.5% 每天超過一半時間戴口罩，37.2% 看到他人網路照片後曾覺得自己很醜，47.8% 曾被平台主動推播相關內容。高容貌焦慮組有 25.1% 嚴重情緒困擾、29.6% 有自殺意念；兒盟建議理解口罩背後的心理防衛、避免強摘口罩或批評外貌，並以「鏡子練習」建立自我接納。",
+   "summary_en": "A Children's Welfare League survey of over 10,000 Taiwanese secondary students found 35.4% report appearance anxiety (girls 48.7%, boys 20.6%). Among high-anxiety students, 29.6% reported suicidal ideation; 47.8% said platforms pushed appearance-related content to them.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "台灣",
+    "兒童心理",
+    "容貌焦慮",
+    "社群媒體",
+    "演算法推播",
+    "青少年"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.953,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-01T00:00:00+00:00"
+  }
+ ]
+}

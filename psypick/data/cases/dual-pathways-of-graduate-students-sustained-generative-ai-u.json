@@ -1,0 +1,169 @@
+{
+ "title_zh": "研究生為何持續使用生成式 AI：內隱期望與理性認知兩條路徑（澳門理工大學）",
+ "title_en": "Dual pathways of graduate students' sustained generative AI use",
+ "summary_zh": "澳門理工大學人文及社會科學學院張紅峰副教授與博士畢業生李繁博、博士生陳小龍，以大樣本調查資料分析研究生持續使用生成式 AI 的因素，論文刊於 Journal of Educational Computing Research。研究整合科技接受模型等理論，指出技術創新準備指數與感知導向學習風格等心理與認知因素，經「內隱期望」與「理性認知」兩條路徑影響持續使用。",
+ "summary_en": "A Macao Polytechnic University team used large-scale survey data to identify implicit-expectation and rational-cognition pathways shaping graduate students' sustained use of generative AI (Journal of Educational Computing Research).",
+ "category": "人機互動心理",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "問卷調查研究，非對照試驗；細節依大學新聞稿。",
+ "ethics_flags": [],
+ "psych_concepts": [
+  {
+   "name": "自動化偏誤",
+   "note": "研究強調以理性認知框架引導使用，可對照使用者過度相信 AI 產出的風險。",
+   "ref": "概念｜自動化偏誤"
+  }
+ ],
+ "caution": "研究目的是促進 AI 使用，未評估心理健康結果，不宜直接推論為對學生身心有益或有害。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "大樣本問卷研究，對象為研究生",
+  "整合科技接受模型、期望確認理論等架構",
+  "兩條路徑：內隱期望形成、理性認知處理",
+  "新聞稿未列樣本數與效果量"
+ ],
+ "brief_en": [
+  "Large-sample survey of graduate students",
+  "Integrates TAM and expectation-confirmation theory",
+  "Implicit vs rational pathways",
+  "Sample size not given in release"
+ ],
+ "model_names": [],
+ "tags": [
+  "澳門",
+  "生成式AI",
+  "研究生",
+  "科技接受",
+  "持續使用"
+ ],
+ "population": [
+  "大專生"
+ ],
+ "supervision_questions": [
+  "研究生持續使用生成式 AI 的動機，哪些屬於健康的學習策略、哪些可能是依賴？",
+  "輔導大專生時，如何探問他們對 AI 的「內隱期望」？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.gov.mo/zh-hant/news/1257921/",
+   "author_handle": "",
+   "author_name": "澳門理工大學",
+   "title": "澳門理工大學學者突破性研究揭示生成式人工智能雙重影響路徑",
+   "content": "澳門理工大學張紅峰副教授團隊以大樣本問卷分析研究生持續使用生成式 AI 的心理與認知因素，提出內隱期望與理性認知兩條路徑，刊於 Journal of Educational Computing Research。",
+   "posted_at": "2026-08-06T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-09-30T22:41:42+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "dual-pathways-of-graduate-students-sustained-generative-ai-u",
+ "featured_at": null,
+ "hot_score": 0.387,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "young-adults-using-ai-for-health-and-anxiety-depression",
+   "title_zh": "用 AI 查健康問題的年輕人，焦慮與憂鬱篩檢陽性率較高",
+   "title_en": "Young adults using AI for health and anxiety depression",
+   "summary_zh": "佛羅里達大學 Yusen Zhai 團隊分析 2023–2024 年近 10 萬名美國年輕成人資料，發現用 ChatGPT、Claude 等生成式 AI 詢問健康問題者，焦慮篩檢陽性的勝算高 52%、憂鬱高 46%（約 52% 對 43%、47% 對 38%）。研究只呈現關聯，方向未明；作者建議心理專業人員詢問個案的 AI 使用並協助評估資訊品質。",
+   "summary_en": "A University of Florida team led by Yusen Zhai analysed 2023–2024 data from nearly 100,000 US young adults and found those using generative AI such as ChatGPT or Claude for health questions had 52% higher odds of screening positive for anxiety and 46% for depression (about 52% vs 43% and 47% vs 38%). The association is not causal; the authors urge clinicians to ask about AI use and help clients evaluate information quality.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [
+    "ChatGPT",
+    "Claude"
+   ],
+   "tags": [
+    "生成式AI",
+    "健康資訊",
+    "焦慮",
+    "憂鬱",
+    "年輕成人",
+    "篩檢"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "大專生",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.767,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-25T00:00:00+00:00"
+  },
+  {
+   "slug": "therapists-and-the-coming-ai-agents",
+   "title_zh": "心理專業還在準備「昨天的 AI」：AI 代理人將如何改變治療",
+   "title_en": "Therapists and the coming AI agents",
+   "summary_zh": "臨床心理師 Marianne Brandon 在 Psychology Today 指出，專業界多半還在討論聊天機器人，但 AI 代理人已經出現：它們能追求目標、執行多步驟任務、記住互動並持續監測。她認為未來個人 AI 代理人對個案生活的了解可能超過治療師，甚至與臨床判斷相左，而科技公司的目標是讓 AI 成為使用者生活中不可或缺、令人依戀的存在。",
+   "summary_en": "Clinical psychologist Marianne Brandon argues in Psychology Today that the field is still debating chatbots while AI agents—systems that pursue goals, execute multi-step tasks, remember interactions and monitor situations—are already here. Personal agents may come to know more about clients' lives than therapists and contradict clinical understanding, and companies aim to make them indispensable and emotionally sticky.",
+   "category": "人機互動心理",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "AI 代理人",
+    "專業發展",
+    "研究生訓練",
+    "未來趨勢"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "大專生"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.767,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-09T00:00:00+00:00"
+  },
+  {
+   "slug": "what-the-heck-is-happening-with-ai-right-now",
+   "title_zh": "AI 現在到底怎麼了？一位臨床心理師的深度解析",
+   "title_en": "What the heck is happening with AI right now?",
+   "summary_zh": "臨床心理師 Jacqueline Nesi 回顧 2026 年 8–9 月的 AI 安全新聞（Hugging Face 駭入事件、Anthropic 員工辭職潮、OpenAI 通報多起模型異常行為、UN 安理會與美中峰會），用「集體行動問題」框架解釋為何各大實驗室明知有風險仍在競速。她提醒：談論 AI 風險的語言（如「失控」「毀滅機率」）會讓人誤以為自己只是被動旁觀者，但這些系統終究是人類設計的，人類仍保有選擇。",
+   "summary_en": "Clinical psychologist Jacqueline Nesi reviews recent AI-safety news in her Techno Sapiens newsletter and frames it as a collective-action problem, noting that risk language like 'out of control' can make people feel like passive bystanders.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "人機互動心理",
+    "AI 安全",
+    "科技與心理健康",
+    "臨床心理師觀點"
+   ],
+   "first_seen_at": "2026-10-03T01:09:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.859,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-28T00:00:00+00:00"
+  }
+ ],
+ "evidence_quote": "研究首次揭示了兩條截然不同但並行的理論路徑",
+ "page_date": "2026-08-06"
+}

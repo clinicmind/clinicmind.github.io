@@ -1,0 +1,122 @@
+{
+ "title_zh": "AHA 2025 會議研究：失眠者長期用褪黑激素，心臟衰竭風險較高（觀察性研究，未證實因果）",
+ "title_en": "AHA 2025 long-term melatonin use heart failure risk insomnia",
+ "summary_zh": "美國心臟協會 2025 年會發表的大型跨國隊列研究（TriNetX 全球研究網絡），分析 130,828 名失眠成人（平均 56 歲，61% 女性），以傾向分數配對比較用藥與未用藥者。褪黑激素用一年或以上者，五年內新發心臟衰竭為 5% 對 3%，風險比 HR 1.89，絕對差 1.9 個百分點；心臟衰竭住院 19% 對 7%，全因死亡 8% 對 4%（HR 2.09）。研究為觀察性，不能證明因果關係。",
+ "summary_en": "A large multinational cohort study presented at the American Heart Association's 2025 Scientific Sessions analysed 130,828 adults with insomnia (mean age 56; 61% women) from the TriNetX network, using propensity-score matching. Those with melatonin use for one year or more had incident heart failure of 5% vs 3% over five years (HR 1.89; absolute difference 1.9 percentage points), heart-failure hospitalisation of 19% vs 7%, and all-cause mortality of 8% vs 4% (HR 2.09). The study is observational and cannot prove causation.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "大型跨國隊列研究（TriNetX），於美國心臟協會 2025 年會發表；經美國心臟學會（ACC）官方報道核對。屬會議發表研究，未見同儕審查期刊全文。",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "觀察性研究，不能證明褪黑激素導致心臟衰竭；失眠嚴重程度、焦慮抑鬱等未量度因素可能同時影響用藥與心臟風險；美國褪黑激素為非處方，病歷記錄可能低估實際用量。正在用藥者不應自行停藥，有疑慮應諮詢醫生。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：TriNetX 全球研究網絡 130,828 名失眠成人（平均 56 歲，61% 女性）；用藥組 65,414 人，配對對照組 65,414 人",
+  "方法：傾向分數配對（人口特徵、15 項共病、心臟代謝藥物、檢驗值、生命表徵、醫療使用），排除已有心臟衰竭或曾用其他處方安眠藥者",
+  "五年內新發心臟衰竭：用藥組 5%（3,021 人）對對照組 3%（1,797 人），HR 1.89，絕對差 1.9 個百分點（p<0.001）",
+  "心臟衰竭住院 19% 對 7%；全因死亡 8% 對 4%（HR 2.09）",
+  "敏感性分析（至少兩次配藥相隔 90 日或以上）：心臟衰竭 HR 1.82，結果一致",
+  "研究者原話：研究不能證明直接因果關係，需更多研究驗證褪黑激素的心臟安全性"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "褪黑激素",
+  "失眠",
+  "心臟衰竭",
+  "觀察性研究"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案長期用褪黑激素助眠時，你會如何問用藥史與心臟風險，又不致引起不必要恐慌？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.acc.org/latest-in-cardiology/articles/2025/11/03/16/19/mon-melatonin-aha-2025",
+   "author_handle": "",
+   "author_name": "American College of Cardiology",
+   "title": "Research Suggests Long-Term Melatonin Use For Insomnia Increases HF Risk",
+   "content": "ACC 官方報道：AHA 2025 年會發表的 TriNetX 隊列研究，長期用褪黑激素與心臟衰竭風險的關聯。",
+   "posted_at": "2025-11-03T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T13:30:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "aha-2025-long-term-melatonin-use-heart-failure-risk-insomnia",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "a-circadian-subtype-of-depression-a-quarter-of-cases-poorer",
+   "title_zh": "研究提出「晝夜節律型抑鬱」：約四分一重度抑鬱個案，SSRI 反應較差",
+   "title_en": "A circadian subtype of depression: a quarter of cases, poorer SSRI response",
+   "summary_zh": "悉尼大學團隊分析澳洲抑鬱遺傳研究逾 10,000 名嚴重、復發或持續抑鬱人士的臨床與遺傳資料，辨識出「晝夜節律型抑鬱」亞型，佔 2,604 人（約 25%）。特徵包括季節性模式、抑鬱時睡得更久、醒來仍覺疲倦、夜貓子傾向，發病較早、症狀較重。此亞型對 SSRI／SNRI 反應較差、副作用較多；針對生理時鐘的治療（如光照治療、褪黑激素相關藥物）可能更合適。",
+   "summary_en": "University of Sydney researchers analysed clinical and genetic data from over 10,000 Australians with severe, recurrent or persistent depression in the Australian Genetics of Depression Study, identifying a 'circadian depression' subtype in 2,604 participants (about 25%). Features include seasonal patterns, hypersomnia, waking unrefreshed and night-owl tendencies, with earlier onset and more severe symptoms. The subtype responds less well to SSRIs/SNRIs with more side effects; circadian-targeted treatments such as light therapy and melatonin-based medication may be more relevant.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "抑鬱",
+    "晝夜節律",
+    "亞型",
+    "睡眠"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-21T00:00:00+00:00"
+  },
+  {
+   "slug": "cbt-i-meta-analysis-insomnia-therapy-reduces-suicidal-ideati",
+   "title_zh": "統合分析：失眠認知行為治療（CBT-I）可降低自殺意念，長效證據未明",
+   "title_en": "CBT-I meta-analysis: insomnia therapy reduces suicidal ideation",
+   "summary_zh": "Nature Mental Health 的系統性回顧統合 19 項隨機對照試驗、4,974 名參加者。CBT-I 在治療後降低自殺意念，比值比（RoM）0.77（95% CI 0.66–0.90），證據確定性高。但 1–12 個月追蹤的組間差異不顯著；自殺行為事件極罕見，無法判斷對行為的效果。",
+   "summary_en": "A Nature Mental Health systematic review pooled 19 RCTs with 4,974 participants. CBT-I reduced suicidal ideation post-treatment (ratio of means 0.77, 95% CI 0.66-0.90) with high-certainty evidence. Effects were not significant at 1-12 month follow-up, and suicidal behaviour was too rare (two attempts in CBT-I arms across nine trials, no deaths) to judge effects on behaviour.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "失眠",
+    "CBT-I",
+    "自殺意念",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  }
+ ]
+}

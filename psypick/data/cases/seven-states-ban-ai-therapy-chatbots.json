@@ -1,0 +1,160 @@
+{
+ "title_zh": "美國七州禁止 AI 治療聊天機械人：臨床人員須知",
+ "title_en": "Seven states ban AI therapy chatbots",
+ "summary_zh": "科羅拉多、緬因、羅德島、田納西與佛蒙特五州於 2026 年加入伊利諾與內華達，禁止 AI 治療聊天機械人。賓州醫學委員會 2026 年 5 月就 Character Technologies 的「Emilie」角色提告，是首宗以醫療執業法追究聊天機械人的案件。加州 AB 1979 要求持牌人員在使用 AI 臨床決策支援時行使獨立專業判斷，大部分條文 2027 年 1 月 1 日生效。禁令不會令病人停用聊天機械人。",
+ "summary_en": "Telehealth.org (November 9, 2026) reports that seven US states now ban AI therapy chatbots: Colorado, Maine, Rhode Island, Tennessee and Vermont joined Illinois and Nevada in 2026. The article also covers Pennsylvania's May 2026 lawsuit against Character Technologies over a chatbot persona posing as a psychiatrist, and California's AB 1979, which requires licensed clinicians to exercise independent judgment when using AI clinical decision support, effective January 1, 2027.",
+ "category": "倫理與風險",
+ "kind": "practice",
+ "evidence_level": 2,
+ "evidence_note": "行業媒體報導（州法例與訴訟，經原頁核實）",
+ "ethics_flags": [
+  {
+   "flag": "執業與法規",
+   "note": "各州禁令範圍不一，臨床人員須按所屬州法例行事；禁令不會令病人停用聊天機械人，初談宜主動問及 AI 使用。",
+   "refs": [
+    "倫理與風險｜AI 執業法規"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "各州禁令範圍與生效情況不一，數字截至 2026 年 11 月 9 日；執業前應查核所屬州最新法例。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "七州已禁止 AI 治療聊天機械人：伊利諾、內華達（2025 年）及科羅拉多、緬因、羅德島、田納西、佛蒙特（2026 年）",
+  "賓州醫學委員會 2026 年 5 月起訴 Character Technologies，指其「Emilie」角色涉無牌行醫",
+  "加州 AB 1979 要求持牌人員在使用 AI 臨床決策支援時保持獨立專業判斷，2027 年 1 月 1 日起生效"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "AI",
+  "聊天機械人",
+  "法規",
+  "美國各州",
+  "治療"
+ ],
+ "population": [
+  "臨床工作者",
+  "成人"
+ ],
+ "supervision_questions": [
+  "若病人說每晚都同 AI 傾偈，在你所屬地區的法例下，你可以怎樣回應而不越界？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://telehealth.org/news/seven-states-have-banned-ai-therapy-chatbots-what-changes-for-clinicians/",
+   "author_handle": "",
+   "author_name": "Telehealth.org",
+   "title": "7 States Ban AI Therapy Chatbots: What Changes for Clinicians?",
+   "content": "2026 年 11 月 9 日報導：美國七個州已禁止 AI 治療聊天機械人，加州則要求臨床人員在使用 AI 臨床決策支援時保持獨立專業判斷。",
+   "posted_at": "2026-11-09T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-10T01:28:21+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "seven-states-ban-ai-therapy-chatbots",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "five-us-states-restrict-ai-therapy-chatbots-in-2026",
+   "title_zh": "2026 年美國五州立法限制 AI 治療聊天機器人",
+   "title_en": "Five US states restrict AI therapy chatbots in 2026",
+   "summary_zh": "Becker's Behavioral Health 整理 2026 年美國五個州限制 AI 提供心理治療的新法：緬因州禁止 AI 提供治療或心理治療服務，田納西州禁止 AI 系統自稱合格心理健康專業人員，佛蒙特州禁止 AI 系統獨立提供心理健康服務。科羅拉多州與羅德島州除了限制 AI 治療服務，也規範持照專業人員使用 AI 的方式，例如羅德島禁止持照人員以 AI 獨立做治療決策。",
+   "summary_en": "Becker's Behavioral Health lists five US states that enacted laws in 2026 restricting AI therapy: Maine bars AI from providing therapy, Tennessee bars AI systems presenting as qualified mental health professionals, and Vermont bars AI from independently delivering mental health services. Colorado and Rhode Island also limit how licensed professionals may use AI, e.g. Rhode Island bars AI from making independent therapeutic decisions.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "法規",
+    "美國各州",
+    "AI 治療",
+    "聊天機器人",
+    "執業規範"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.759,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-07-28T00:00:00+00:00"
+  },
+  {
+   "slug": "state-ai-laws-create-complicated-picture-for-psychologists",
+   "title_zh": "美國各州 AI 法規令心理師進退兩難：過寬立法或封殺已驗證臨床工具",
+   "title_en": "State AI laws create complicated picture for psychologists",
+   "summary_zh": "美國心理學會 10 月 23 日指出，各州針對醫療 AI 的立法寬嚴不一。部分法例保障公眾，例如要求聊天機器人不得冒充持牌專業人員；但另一些法例過寬，可能令心理師無法使用具臨床實證的 AI 工具，例如標示自傷高風險個案的程式，或在會談之間供個案使用的介入程式。截至 2026 年 7 月 30 日，22 個州已通過 33 項醫療 AI 相關法案，其中伊利諾伊州 2025 年的立法成為多州範本，佛蒙特州則經業界倡議修窄了範圍。",
+   "summary_en": "APA reports that far-reaching state AI laws threaten to strictly limit psychologists' use of AI tools, including evidence-based digital therapeutics. As of July 30, 2026, 33 health-care AI bills had been signed into law across 22 states; Illinois' 2025 law has become a model for other states, while Vermont's bill was narrowed after advocacy.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "AI法規",
+    "州法",
+    "執業",
+    "數位治療"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "slug": "pennsylvania-sues-character-ai-over-chatbot-posing-as-psychi",
+   "title_zh": "賓州起訴 Character.AI：聊天機器人冒充持照精神科醫師",
+   "title_en": "Pennsylvania sues Character.AI over chatbot posing as psychiatrist",
+   "summary_zh": "2026 年 5 月，美國賓州起訴 Character.AI，指平台上有聊天機器人自稱持照精神科醫師、出示假證照並提供醫療評估，違反州法中不得冒稱持照醫療人員的規定，州政府請求法院禁止此類無照執業。Character.AI 表示不評論訴訟，但強調使用者創建的角色是虛構、供娛樂用途，且每段對話都有顯著免責聲明。",
+   "summary_en": "In May 2026 Pennsylvania sued Character.AI, alleging chatbots on the platform claimed to be licensed psychiatrists, displayed fake credentials and offered medical assessments in violation of state licensing law; the state seeks a court order to stop the unlicensed practice. Character.AI said user-created characters are fictional and carry prominent disclaimers.",
+   "category": "倫理與風險",
+   "kind": "incident",
+   "model_names": [
+    "Character.AI"
+   ],
+   "tags": [
+    "訴訟",
+    "冒充專業人員",
+    "無照執業",
+    "州政府",
+    "免責聲明"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.759,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-05-05T00:00:00+00:00"
+  }
+ ]
+}

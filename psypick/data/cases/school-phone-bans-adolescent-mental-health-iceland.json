@@ -1,0 +1,161 @@
+{
+ "title_zh": "研究：冰島 70 校禁手機，青少年心理健康無明顯改善（23,938 人次）",
+ "title_en": "School phone bans adolescent mental health Iceland",
+ "summary_zh": "JAMA Network Open 研究分析冰島全國「冰島青年」調查，70 間學校、23,938 人次 13 至 15 歲青少年，橫跨 2016 年 2 月、2018 年 2 月與 2023 年 11 月三波調查。其中 22 間學校於 2018 至 2023 年間實施上課時間禁手機。差異中差異分析顯示，禁手機與抑鬱症狀、焦慮、敵意或心理幸福感均無有意義的變化：抑鬱 β=0.65（95% CI 0.01–1.30），焦慮 β=0.21，敵意 β=0.23，幸福感 β=−0.52。欺凌、同儕支援與每日屏幕時間亦無顯著變化。作者結論：單靠禁手機，未必足以在人口層面改善青少年心理健康。研究由冰島研究基金與 NordForsk 資助。",
+ "summary_en": "A JAMA Network Open study analysed Iceland's nationwide Youth in Iceland survey: 23,938 observations of adolescents aged 13-15 from 70 schools across three waves (February 2016, February 2018 and November 2023). Twenty-two schools introduced schoolwide mobile phone bans between 2018 and 2023. Difference-in-differences analysis found no meaningful change in depressive symptoms, anxiety, hostility or mental well-being: depressive symptoms β=0.65 (95% CI 0.01-1.30), anxiety β=0.21, hostility β=0.23, well-being β=-0.52. Bullying, peer support and daily screen time also showed no significant change. The authors conclude that school phone bans implemented alone may be insufficient to improve adolescent mental health at the population level. The work was funded by the Icelandic Research Fund and NordForsk.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "重複橫斷面差異中差異研究（JAMA Network Open 2026 年 10 月 27 日刊出，9 卷 10 期 e2640893；DOI: 10.1001/jamanetworkopen.2026.40893；經 JAMA 摘要與 PubMed 摘要核實；JAMA 原文頁與 Europe PMC 回應 403，未重試）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "重複橫斷面設計，未追蹤同一批學生；政策前趨勢未完全平行（女生組的抑鬱與幸福感在 2016 至 2018 年已有不同走勢）；學校自選是否禁手機，原因未系統記錄；執行與依從情況、校內實際手機使用未量度；課堂專注、學業表現、教師工作量未量度；疫情可能對各校影響不均；抑鬱估計值雖輕微偏向變差，但未通過多重比較校正門檻（P<.002），不應解讀為禁手機有害。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：70 間學校三波全國調查，23,938 人次，13 至 15 歲，平均 13.98 歲；每波覆蓋全國同齡青少年 56.8% 至 61.9%；2018 至 2023 年間 22 間學校實施禁手機",
+  "設計：重複橫斷面差異中差異分析，學校與調查年份固定效應，調整年級、家庭組成與家庭語言；2016 年 2 月、2018 年 2 月、2023 年 11 月",
+  "主要結果：抑鬱 β=0.65（95% CI 0.01–1.30，10 至 40 分量表），焦慮 β=0.21（−0.08 至 0.50），敵意 β=0.23（−0.12 至 0.59），幸福感 β=−0.52（−1.08 至 0.03）",
+  "次要結果：同儕支援、面對面與網上欺凌、每日屏幕時間均無顯著變化；男女分組結果相近",
+  "統計門檻：11 項結果經 Bonferroni 校正，顯著門檻為 P<.002；抑鬱的 P 值為 .05，未達門檻",
+  "資助：冰島研究基金（217612-051）與 NordForsk（147386）；一名作者披露為 YouTube 諮詢委員會成員"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "手機禁令",
+  "學校",
+  "青少年",
+  "抑鬱",
+  "焦慮"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "學校問「禁手機係咪可以改善學生情緒」時，你會如何用呢份研究講「禁令本身唔夠」，而又唔否定禁令可能幫到課堂專注？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2026.40893",
+   "author_handle": "",
+   "author_name": "Bonilla Aparicio 等（Reykjavik University）",
+   "title": "School Phone Bans and Adolescent Mental Health in Iceland (JAMA Network Open; DOI: 10.1001/jamanetworkopen.2026.40893)",
+   "content": "期刊論文：冰島 70 間學校禁手機與青少年心理健康的差異中差異研究，23,938 人次。",
+   "posted_at": "2026-10-27T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-10T13:28:11+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "school-phone-bans-adolescent-mental-health-iceland",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "social-media-time-and-teen-anxiety-depression-meta-analysis",
+   "title_zh": "統合分析：青少年花在社交媒體的時間，與焦慮憂鬱關聯極弱（37 項研究）",
+   "title_en": "Social media time and teen anxiety depression meta-analysis",
+   "summary_zh": "澳洲天主教大學團隊在《British Journal of Clinical Psychology》發表的系統性回顧，綜合 37 項縱貫與實驗研究、近 80,000 名 10 至 24 歲青少年。社交媒體使用時間與其後抑鬱症狀的合併相關係數 r=0.08（12 項研究），焦慮 r=0.093（5 項研究），合共解釋不足 1% 的症狀差異。效應不隨年齡、追蹤期或發表年份改變。作者認為，單靠限制使用時間，未必能解決青少年心理健康危機。",
+   "summary_en": "An Australian Catholic University systematic review in the British Journal of Clinical Psychology pooled 37 longitudinal and experimental studies of nearly 80,000 young people aged 10-24. Time on social media correlated only very weakly with later symptoms: depression pooled r = .08 (12 studies), anxiety r = .093 (5 studies), together explaining under 1% of symptom variation. Effects did not vary by age, follow-up length or publication year. The authors conclude restricting time alone is unlikely to resolve the youth mental-health crisis.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "青少年",
+    "焦慮",
+    "抑鬱",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-11-05T13:45:00+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  },
+  {
+   "slug": "social-comparison-on-social-media-strongest-link-adolescent",
+   "title_zh": "研究：青少年在社交媒體上與人比較，與焦慮抑鬱症狀關聯最強",
+   "title_en": "Social comparison on social media strongest link adolescent mental health symptoms",
+   "summary_zh": "Child and Adolescent Psychiatry and Mental Health 於 2026 年 10 月 17 日刊出的橫斷面研究，分析挪威東南部 21 間學校 4,011 名青少年（平均 14 歲，2025 年秋季問卷）。在社交媒體使用五個面向中，「與人比較」對五種症狀的預測力最強：內化症狀（廣泛焦慮、社交焦慮、抑鬱）解釋約 20–26% 變異，外化症狀（ADHD、對立違抗）解釋 6–9%；「消磨時間」與「尋求支持」則幾無獨立關聯。研究不能證明因果關係。",
+   "summary_en": "A cross-sectional study in Child and Adolescent Psychiatry and Mental Health (published 17 October 2026) analysed 4,011 Norwegian adolescents (mean age 14) from 21 schools in South-Eastern Norway. Among five aspects of social media use, social comparison was the strongest predictor across all five symptom domains, accounting for about 20-26% of variance in internalizing symptoms (generalized anxiety, social anxiety, depression) and 6-9% in externalizing symptoms (ADHD, oppositional defiant disorder); passing time and seeking support showed negligible independent associations. The design cannot establish causation.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "社交比較",
+    "青少年",
+    "焦慮抑鬱"
+   ],
+   "first_seen_at": "2026-10-29T13:35:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-17T00:00:00+00:00"
+  },
+  {
+   "slug": "uk-under-16-social-media-ban-two-professional-perspectives",
+   "title_zh": "英國 16 歲以下社交媒體禁令：教師與神經多樣性顧問的兩種看法",
+   "title_en": "UK under-16 social media ban: two professional perspectives",
+   "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
+   "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
+   "category": "人機互動心理",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "特殊教育需要",
+    "社交媒體",
+    "青少年",
+    "神經多樣性",
+    "政策",
+    "Anna Freud"
+   ],
+   "first_seen_at": "2026-10-01T03:55:02+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.783,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-07-29T00:00:00+00:00"
+  }
+ ],
+ "evidence_quote": "not associated with meaningful changes",
+ "page_date": "2026-10-27"
+}

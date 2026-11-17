@@ -1,0 +1,61 @@
+{
+ "title_zh": "性別規範如何影響青少年心理健康？埃塞俄比亞 1,651 人研究：心理能力最關鍵",
+ "title_en": "Gendered pathways to adolescent mental health empirical assessment conceptual framework",
+ "summary_zh": "PLOS Global Public Health 2026 年 11 月 10 日刊出研究，以結構方程模型首次實證檢驗性別與青少年心理健康的性別化路徑概念框架。樣本為埃塞俄比亞 GAGE 計劃 2020 年第二輪數據的 1,651 名青少年（901 名女童、750 名男童，中位年齡 13 歲）。14 條測試路徑中，心理能力與心理困擾、性別與心理困擾、性別與性別態度，以及性別規範與心理能力、性別態度、性別角色之間有顯著關聯；整體而言，性別相關構念多互相關聯，而非直接與心理困擾關聯。作者指出機制須以縱向研究進一步探討。研究由 Bielefeld 大學團隊領導，資助來自該校；作者申報無利益衝突。",
+ "summary_en": "PLOS Global Public Health published on 10 November 2026 the first empirical test of a conceptual framework for gendered pathways to adolescent mental health, using structural equation modelling. The sample was 1,651 adolescents (901 girls, 750 boys; median age 13) from the second round (2020) of the Gender and Adolescence: Global Evidence (GAGE) project in Ethiopia. Of 14 pathways tested, statistically significant associations were found between psychological competencies and psychological distress, sex and psychological distress, sex and gender attitudes, and between gender norms and psychological competencies, gender attitudes and gender roles. Overall, the gender-related constructs were mostly associated with each other rather than directly with psychological distress. The authors note the mechanisms need longitudinal investigation. Led by a Bielefeld University team; funded by the university; the authors declare no competing interests.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "橫斷面結構方程模型研究（PLOS Glob Public Health 2026 年 11 月 10 日刊出；1,651 人，埃塞俄比亞 GAGE 數據；DOI: 10.1371/journal.pgph.0006728；經 PLOS 原頁核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "橫斷面數據，不能推論因果；2020 年埃塞俄比亞六個地點樣本，推廣至其他文化須小心；性別認同構念因數據所限未能操作化；性別態度量表未經當地驗證，經探索與驗證因素分析後範圍收窄；心理困擾以 GHQ-12 自評量度。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：埃塞俄比亞 GAGE 計劃 2020 年第二輪數據，1,651 名青少年（901 名女童、750 名男童），中位年齡 13 歲，六個地點",
+  "方法：結構方程模型，檢驗六個性別相關構念（出生指定性別、性別規範、性別態度、性別角色、心理能力）與心理困擾（GHQ-12）的關聯；另以探索與驗證因素分析檢驗新編性別規範量表",
+  "主要結果：14 條路徑中，心理能力與心理困擾、性別與心理困擾、性別與性別態度，以及性別規範與心理能力、性別態度、性別角色之間有顯著關聯",
+  "整體發現：性別相關構念多互相關聯，而非直接與心理困擾關聯；機制須以縱向研究探討",
+  "限制：橫斷面；單一國家；性別認同未能操作化；量表未經當地驗證"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "性別",
+  "青少年心理健康",
+  "心理能力",
+  "埃塞俄比亞",
+  "結構方程模型"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "青少年話「女仔就係要咁、男仔就係要咁」，你會點用呢個研究去傾性別規範與心理困擾的關係？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1371/journal.pgph.0006728",
+   "author_handle": "",
+   "author_name": "Alaze、Hagen、Schamberger、Razum、Miani（Bielefeld 大學）",
+   "title": "Gendered pathways to adolescent mental health: An empirical assessment of a new conceptual framework (PLOS Glob Public Health 2026;6(11):e0006728; DOI: 10.1371/journal.pgph.0006728)",
+   "content": "埃塞俄比亞 1,651 名青少年：性別相關構念多互相關聯，心理能力與心理困擾關聯最明顯。",
+   "posted_at": "2026-11-10T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-16T13:35:48+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "gendered-pathways-to-adolescent-mental-health-empirical-asse",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

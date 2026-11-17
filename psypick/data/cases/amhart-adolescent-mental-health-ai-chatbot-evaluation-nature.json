@@ -1,0 +1,163 @@
+{
+ "title_zh": "研究：AI 聊天機械人回應青少年焦慮較抑鬱貼近指引，重度抑鬱覆蓋最低（1,600 次模擬對話）",
+ "title_en": "AMHART adolescent mental health AI chatbot evaluation Nature Mental Health",
+ "summary_zh": "Nature Mental Health 研究由 RAND 團隊開發「青少年心理健康 AI 回應工具」（AMHART），一套由臨床醫生參與制定的評估工具，涵蓋七個範疇、14 個項目，用以審核 AI 聊天機械人的回應是否包含臨床指引建議的內容。研究以 8 個 13–16 歲模擬青少年檔案，與 ChatGPT-5、GPT-4、Claude Sonnet 4.5 及 Gemini 2.5 Flash 進行 1,600 次多輪模擬對話（共 16,000 則回應）。結果顯示，四個聊天機械人覆蓋指引內容的比例，焦慮高於抑鬱，中度症狀高於重度症狀；中度焦慮最高達 93.1%（Gemini），重度抑鬱最低只有 57.5%（Claude）。研究由美國國家精神衛生研究院資助，作者申報無利益衝突。",
+ "summary_en": "A Nature Mental Health study from RAND developed the Adolescent Mental Health AI Response Tool (AMHART), a clinician-informed instrument covering seven domains and 14 items, to audit whether AI chatbot replies contain guideline-informed content. Using eight simulated adolescent personas aged 13-16, the team ran 1,600 multiturn conversations (16,000 responses) with ChatGPT-5, GPT-4, Claude Sonnet 4.5 and Gemini 2.5 Flash. Chatbots covered a higher proportion of criteria for anxiety than for depression and for moderate symptoms than for severe symptoms: coverage reached 93.1% for moderate anxiety (Gemini) but only 57.5% for severe depression (Claude). The work was funded by the US National Institute of Mental Health, and the authors declare no competing interests.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "臨床指引對照的模擬評估研究（Nature Mental Health，2026-10-28 刊出；DOI: 10.1038/s44220-026-00753-y；經 Nature 原文頁摘要、圖表與文末資料核實；全文需付費，14 項終版數目取自圖一）",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "研究審核聊天機械人對重度抑鬱與焦慮青少年的回應，覆蓋率在重度抑鬱最低；臨床工作者須提醒青少年及家長，聊天機械人不是危機支援，遇危機須聯絡真人求助渠道。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "模擬青少年而非真實求助者，對話經應用程式介面進行，未必等同一般用家在消費版應用的體驗；評分量度回應有否包含指引內容，不等於臨床安全或療效，亦未設合格門檻；14 項終版數目取自圖一圖解，未能在文章正文確認；各模型表現隨版本更新而變，數字只反映測試當刻的版本。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "工具：AMHART，七個範疇、14 個項目，由 12 名臨床醫生評審制定；美國國家精神衛生研究院資助（1R01MH132551）",
+  "方法：8 個 13–16 歲模擬青少年檔案（廣泛性焦慮或抑鬱，中度或重度），與 4 個聊天機械人各進行 50 次 10 輪對話，共 1,600 次對話、16,000 則回應",
+  "評估：三模型評分組合（GPT-5、Claude、Gemini）對照人類參考標籤評分；四個機械人為 ChatGPT-5、GPT-4、Claude Sonnet 4.5、Gemini 2.5 Flash",
+  "中度焦慮覆蓋率：Gemini 93.1%、GPT-5 91.6%、GPT-4 87.8%、Claude 76.6%",
+  "中度抑鬱覆蓋率：GPT-5 79.6%、Gemini 76.5%、GPT-4 75.9%、Claude 58.9%",
+  "重度抑鬱覆蓋率最低：GPT-5 72.8%、GPT-4 70.0%、Gemini 67.1%、Claude 57.5%；重度焦慮：GPT-5 88.4%、GPT-4 82.4%、Gemini 80.1%、Claude 71.4%"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "AI 聊天機械人",
+  "青少年",
+  "焦慮",
+  "抑鬱",
+  "評估工具"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "青少年話用聊天機械人傾心事時，你會如何用呢份研究嘅數字，同佢講邊啲情況機械人回應最不可靠？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1038/s44220-026-00753-y",
+   "author_handle": "",
+   "author_name": "McBain 等（RAND／哈佛醫學院）",
+   "title": "Development, validation and AI chatbot evaluation of the Adolescent Mental Health AI Response Tool (Nature Mental Health; DOI: 10.1038/s44220-026-00753-y)",
+   "content": "期刊原文頁：青少年心理健康 AI 回應工具 AMHART 的開發、驗證與四個聊天機械人評估，含模擬對話設計與覆蓋率結果。",
+   "posted_at": "2026-10-28T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-09T13:41:55+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "amhart-adolescent-mental-health-ai-chatbot-evaluation-nature",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "apa-health-advisory-on-ai-chatbots-and-wellness-apps",
+   "title_zh": "APA 健康提醒：AI 聊天機器人與身心健康 App 不能取代專業照護",
+   "title_en": "APA health advisory on AI chatbots and wellness apps",
+   "summary_zh": "美國心理學會於 2025 年 11 月發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不應被當作專業心理健康照護的替代品。APA 呼籲避免使用者產生不健康的依賴、為兒童青少年等高風險族群設計特別保護、禁止 AI 冒充持照專業人員，並要求科技公司提高透明度與預設保護隱私。",
+   "summary_en": "In November 2025 the American Psychological Association issued a health advisory stating that generative AI chatbots and wellness apps should not replace professional mental health care. It calls for preventing unhealthy dependence, special protections for youth and other vulnerable groups, a ban on AI impersonating licensed professionals, and greater transparency and privacy by default.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "APA",
+    "健康提醒",
+    "專業組織指引",
+    "AI 聊天機器人",
+    "身心健康 App",
+    "兒少保護"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "一般大眾",
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.139,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2025-11-13T00:00:00+00:00"
+  },
+  {
+   "slug": "chatbot-meta-analysis-for-depression-and-anxiety",
+   "title_zh": "統合分析：聊天機器人對憂鬱、焦慮症狀有小到中等效果，臨床族群最明顯",
+   "title_en": "Chatbot meta-analysis for depression and anxiety",
+   "summary_zh": "npj Digital Medicine 刊出的系統性回顧與統合分析納入 39 篇 RCT，聊天機器人對憂鬱（g=0.31）與焦慮（g=0.28）症狀有小到中等的改善。臨床族群效果（g=0.64）明顯大於非臨床族群（g=0.07）；生成式與檢索式聊天機器人之間未見顯著差異，但生成式研究數量少、檢定力可能不足。",
+   "summary_en": "A systematic review and meta-analysis of 39 RCTs in npj Digital Medicine found small-to-moderate effects of chatbots on depressive (g=0.31) and anxiety (g=0.28) symptoms. Effects were larger in clinical samples (g=0.64) than nonclinical ones (g=0.07); no significant difference was found between generative and retrieval-based chatbots, though generative studies were few.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "統合分析",
+    "聊天機器人",
+    "憂鬱",
+    "焦慮",
+    "生成式AI"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.518,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-03-25T00:00:00+00:00"
+  },
+  {
+   "slug": "uk-children-ai-chatbot-use-for-emotional-support-survey-barn",
+   "title_zh": "英國調查：43% 受訪兒童曾用 AI 聊天機器人求情緒支援",
+   "title_en": "UK children AI chatbot use for emotional support survey Barnardos NCPS",
+   "summary_zh": "Barnardo's 與英國國家輔導與心理治療學會調查 2,000 名 11–17 歲英國兒童。43% 曾用 AI 聊天機器人或心理健康 App 求情緒支援；40% 過去一年曾嘗試求助專業支援，其中只有 27% 表示及時獲得所需幫助；57% 認為 AI 聊天機器人無法提供同理心。",
+   "summary_en": "Barnardo's and the National Counselling and Psychotherapy Society (NCPS) jointly commissioned a survey of 2,000 UK children aged 11-17 (conducted April-May 2026) for their report 'Filling the Gap? Young People's Use of AI for Mental Health Support'. 43% had used an AI chatbot or mental health app for emotional support or advice; 40% had tried to access professional support in the past year, of whom only 27% got the help they needed when they needed it; 57% said AI chatbots cannot provide empathy.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "AI 支援",
+    "英國"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "title_zh": "泛美衛生組織免費自學課：人道情境 mhGAP（12 小時，西班牙文）",
+ "title_en": "PAHO free self-paced Humanitarian mhGAP course",
+ "summary_zh": "泛美衛生組織（PAHO）虛擬校園的 Humanitarian mhGAP 課程，依 WHO《mhGAP 人道介入指引》設計，免費、自學、無完成期限，約 12 小時，涵蓋急性壓力、哀傷、物質使用、憂鬱、自殺、精神病、PTSD 等 11 個單元。期末測驗達 70% 並完成問卷即可取得 PAHO 完成證書。PAHO 的課程發布頁寫明以西班牙文免費修讀。",
+ "summary_en": "PAHO's Virtual Campus offers Humanitarian mhGAP, a free, self-paced course based on the WHO mhGAP Humanitarian Intervention Guide. It takes about 12 hours across 11 modules (acute stress, grief, substance use, depression, suicide, psychosis, PTSD and more), with a PAHO certificate for passing the final exam.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程資訊，非研究證據。",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "課程包含自殺單元。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "課程為第一線醫療人員設計，提供完成證書而非繼續教育學分；PAHO 發布頁寫明課程以西班牙文授課，不諳西語者不宜報名。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "免費、自學、無完成期限，約 12 小時",
+  "依 WHO mhGAP 人道介入指引，11 個單元",
+  "PAHO 發布頁：以西班牙文免費修讀",
+  "期末測驗 70% 以上可取得證書"
+ ],
+ "brief_en": [
+  "Free, self-paced, no deadline, ~12 hours",
+  "Based on WHO mhGAP-HIG, 11 modules",
+  "Delivered in Spanish per PAHO launch page",
+  "Certificate for 70%+ on final exam"
+ ],
+ "model_names": [],
+ "tags": [
+  "mhGAP",
+  "人道危機",
+  "WHO",
+  "自學課程",
+  "免費"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "mhGAP 針對第一線非專科人員設計，心理師可以從中學到哪些跨專業溝通的語言？",
+  "在資源有限的情境，你如何決定哪些個案需要轉介專科？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "Pan American Health Organization（泛美衛生組織）虛擬校園",
+  "format": "線上自學",
+  "price": "免費（free of charge）",
+  "price_tier": "免費",
+  "ce_credits": "完成證書（非 CE）",
+  "language": "西班牙文",
+  "event_date": "",
+  "deadline": "",
+  "audience_level": "健康專業人員（第一線照護）",
+  "topic": "人道情境中的精神、神經與物質使用問題處理（mhGAP）",
+  "signup_url": "https://www.campusvirtualsp.org/en/course/humanitarian-mhgap-2021",
+  "format_note": "自學（線上課程）"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.campusvirtualsp.org/en/course/humanitarian-mhgap-2021",
+   "author_handle": "",
+   "author_name": "Pan American Health Organization (PAHO)",
+   "title": "Humanitarian mhGAP",
+   "content": "泛美衛生組織（PAHO）公共衛生虛擬校園的免費自學課程，依 WHO《mhGAP 人道介入指引》設計，約 12 小時、11 個單元，通過期末測驗可取得完成證書。",
+   "posted_at": "2026-09-30T13:03:54+00:00"
+  }
+ ],
+ "first_seen_at": "2026-09-30T13:03:54+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "paho-free-self-paced-humanitarian-mhgap-course",
+ "featured_at": null,
+ "hot_score": 2.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "sentio-free-self-paced-ai-course-for-therapists",
+   "title_zh": "Sentio University 免費自學課：心理健康專業人員的 AI 安全與倫理使用",
+   "title_en": "Sentio free self-paced AI course for therapists",
+   "summary_zh": "Sentio University（洛杉磯的非營利婚姻與家庭治療研究所）把原訂 199 美元的四週 AI 入門培訓改為免費自學，包括四段錄影、簡報、臨床講義、AI 安全與倫理指引、個案去識別化範本、能力檢核表和 prompt 範本。對象包括治療師、督導、學生與訓練課程，不提供 CE。",
+   "summary_en": "Sentio University, a nonprofit MFT graduate school in Los Angeles, offers its four-week introductory AI training free and on demand: four recordings, slides, clinical handouts, AI safety and ethics guidelines, de-identification templates, competency checklists and prompt templates. No CE is offered.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [
+    "ChatGPT"
+   ],
+   "tags": [
+    "AI 素養",
+    "AI 倫理",
+    "臨床應用",
+    "自學課程",
+    "免費"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 3.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-30T13:03:54+00:00",
+   "training": {
+    "provider": "Sentio University",
+    "price": "Free（原價 $199）",
+    "price_tier": "免費",
+    "ce_credits": "無",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "",
+    "format": "自學（錄影與講義）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "nctsn-free-online-psychological-first-aid-and-spr-courses",
+   "title_zh": "NCTSN 免費線上心理急救（PFA Online）與心理復原技巧（SPR）課程，各 5 CE",
+   "title_en": "NCTSN free online Psychological First Aid and SPR courses",
+   "summary_zh": "美國國家兒童創傷壓力網絡（NCTSN）學習中心的 PFA Online 是互動式線上課程，約 5 小時，教導災後心理急救的核心行動；同系列的 SPR Online 教專業人員如何協助倖存者學習處理災後壓力的技巧。兩門課都免費，各提供 5 個 CE，另有西班牙文版。",
+   "summary_en": "The NCTSN Learning Center's PFA Online is a free, roughly 5-hour interactive course on the core actions of Psychological First Aid after disasters; Skills for Psychological Recovery (SPR) Online teaches providers to help survivors manage post-disaster distress. Both are free with 5 CEs each, with Spanish versions available.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "心理急救",
+    "災難心理",
+    "創傷",
+    "自學課程",
+    "免費"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "兒童青少年",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 3.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-30T13:03:54+00:00",
+   "training": {
+    "provider": "National Child Traumatic Stress Network（NCTSN）",
+    "price": "Free",
+    "price_tier": "免費",
+    "ce_credits": "PFA Online 5 CE；SPR Online 5 CE",
+    "language": "英文（另有西班牙文版）",
+    "deadline": "",
+    "event_date": "",
+    "format": "自學（互動式線上課程）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "free-clinical-supervision-forum-from-concern-to-remediation",
+   "title_zh": "免費督導 CE 直播：督導中的困難處理，從擔憂到補救（11/13）",
+   "title_en": "Free clinical supervision forum: from concern to remediation",
+   "summary_zh": "Telehealth Certification Institute 的「臨床督導論壇」是免費的線上直播系列，每場 1.5 小時 CE，APA、NBCC、ASWB ACE、NAADAC 等均有認可。2026 年 11 月 13 日（美東 13:00–14:30）由 Amie Bryant, LCSW, CAS, ACS 主講「Managing Difficulties in Clinical Supervision: From Concern to Remediation」，討論研究所訓練留下的落差，以及如何在不同能力階段支持受督者成長。",
+   "summary_en": "Telehealth Certification Institute runs a free live Clinical Supervision Forum webinar series worth 1.5 CE per session (APA, NBCC, ASWB ACE, NAADAC and NY State approvals). The Nov 13, 2026 session (1:00–2:30 pm ET), presented by Amie Bryant, LCSW, CAS, ACS, covers managing difficulties in supervision from concern to remediation and supporting supervisees across competency stages.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "督導",
+    "臨床督導",
+    "受督者發展",
+    "繼續教育",
+    "免費"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 3.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "Telehealth Certification Institute",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "1.5 小時 CE（APA、NBCC、ASWB ACE、NAADAC、紐約州相關委員會認可）",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "2026-11-13",
+    "format": "線上直播（webinar）"
+   },
+   "deadline_soon": false
+  }
+ ],
+ "evidence_quote": "Self-study course, free of charge",
+ "page_date": ""
+}

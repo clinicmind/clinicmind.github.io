@@ -1,0 +1,166 @@
+{
+ "title_zh": "統合分析：藝術活動與藝術治療可減輕兒童青少年抑鬱焦慮（100 項試驗）",
+ "title_en": "Arts and arts therapies mental health children young people",
+ "summary_zh": "eClinicalMedicine 刊出系統性回顧與統合分析，綜合 100 項隨機對照試驗（29 個國家，5 至 24 歲兒童青少年），評估藝術活動與藝術治療對心理健康的影響。結果顯示，藝術介入可減輕抑鬱（標準化平均差低 1.06，1,655 人）與焦慮（低 0.75，3,898 人），並提升幸福感（高 0.53）與生活質素（高 0.54），平均效應與已建立的非藝術心理社會介入相近。介入一個月後追蹤，抑鬱與焦慮的改善仍然存在。研究亦見生理指標改善：靜止心率平均低 4.53 次／分鐘，收縮壓平均低 4.04 毫米汞柱。最大效益見於 9 至 13 歲、多模式與主動參與的介入。研究由英國研究與創新局資助。",
+ "summary_en": "eClinicalMedicine published a systematic review and meta-analysis of 100 randomised controlled trials from 29 countries, assessing arts-based interventions and arts therapies for children and young people aged 5-24. Arts interventions reduced depression (standardised mean difference 1.06 lower, n=1,655) and anxiety (0.75 lower, n=3,898), and increased wellbeing (0.53 higher) and quality of life (0.54 higher), with average effects similar to those of established non-arts psychosocial interventions. Improvements in depression and anxiety persisted at follow-up of at least one month. Physiological markers also improved: resting heart rate was 4.53 beats per minute lower and systolic blood pressure 4.04 mmHg lower on average. The largest benefits were seen in 9- to 13-year-olds and in multimodal, actively participatory programmes. The work was funded by UK Research and Innovation.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "系統性回顧與統合分析（eClinicalMedicine 2026 年 11 月號，101 卷，104261；DOI: 10.1016/j.eclinm.2026.104261；經曼徹斯特大學記錄與 Lancet 摘要核實；刊出日期取 Edge Hill 大學 2026-10-16 報道日，期刊為 2026 年 11 月號）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "證據確定性甚低（抑鬱、焦慮）至低（幸福感、生活質素）；異質性極高（抑鬱 I²=97%，焦慮 I²=87%）；納入統合分析的 77 項試驗中，只有 4 項偏倚風險低；剔除 3 項效應異常大的研究後，抑鬱效應由 1.06 降至 0.58；追蹤數據較少；藝術形式、劑量與對照差異大，合併數字不應視為單一介入的通用效應。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "納入：100 項隨機對照試驗，29 個國家，5 至 24 歲兒童青少年；搜尋五個數據庫 2005-01-01 至 2025-05-18 的文獻；77 項試驗納入統合分析",
+  "抑鬱：標準化平均差低 1.06（95% CI 0.45–1.67，n=1,655，I²=97%）；剔除 3 項效應異常大的研究後降至 0.58，仍顯著",
+  "焦慮：標準化平均差低 0.75（95% CI 0.57–0.94，n=3,898，I²=87%）；幸福感高 0.53（n=538），生活質素高 0.54（n=441）",
+  "追蹤：介入後至少一個月，抑鬱改善 0.51，焦慮改善 0.67，但追蹤試驗較少",
+  "生理指標：靜止心率平均低 4.53 次／分鐘（25 項研究），收縮壓平均低 4.04 毫米汞柱（15 項比較）",
+  "最大效益：9 至 13 歲、多模式、主動參與；六種藝術形式包括音樂、視覺藝術、工藝設計、劇場表演、舞蹈動作、文學與媒體；資助：英國研究與創新局"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "藝術治療",
+  "兒童青少年",
+  "抑鬱",
+  "焦慮",
+  "統合分析"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「畫畫跳舞係咪可以代替傾談治療」時，你會如何用呢份統合分析嘅證據確定性回應，而又唔貶低藝術介入嘅價值？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1016/j.eclinm.2026.104261",
+   "author_handle": "",
+   "author_name": "Cheung 等（Edge Hill 大學）",
+   "title": "The effects of the arts and arts therapies on mental health outcomes of children and young people: a systematic review and meta-analysis (eClinicalMedicine; DOI: 10.1016/j.eclinm.2026.104261)",
+   "content": "期刊論文：藝術活動與藝術治療對兒童青少年心理健康的系統性回顧與統合分析，100 項隨機試驗。",
+   "posted_at": "2026-10-16T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-10T13:28:11+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "arts-and-arts-therapies-mental-health-children-young-people",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "ncue-neuropsychodynamic-art-therapy-group-supervision-worksh",
+   "title_zh": "彰化師範大學：神經心理動力取向藝術治療團體督導實務應用工作坊",
+   "title_en": "NCUE neuropsychodynamic art therapy group supervision workshop",
+   "summary_zh": "國立彰化師範大學社區心理諮商及潛能發展中心主辦的工作坊，2026年12月18日（星期五）9:00至16:30舉行。內容包括個案輔導概念化與系統觀，以及攝影與文字圖卡、輕質土在藝術治療上的應用。參加對象為輔導教師、諮商及臨床心理師、社工師與諮商實務工作者及相關科系學生。轉知頁未載費用與上課地點，須核對彰師大原簡章。",
+   "summary_en": "A workshop by National Changhua University of Education's community counselling centre, on 18 December 2026 (9:00-16:30), on neuropsychodynamic art therapy group supervision, case conceptualisation and systems perspectives, and the use of photography, text cards and light clay in art therapy. For counselling teachers, counselling and clinical psychologists, social workers and related students. Fee and venue are not stated on the forwarding notice.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "藝術治療",
+    "團體督導",
+    "神經心理動力"
+   ],
+   "first_seen_at": "2026-10-30T01:16:15+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-27T00:00:00+00:00",
+   "training": {
+    "provider": "國立彰化師範大學社區心理諮商及潛能發展中心",
+    "price": "",
+    "price_tier": "其他",
+    "ce_credits": "",
+    "language": "",
+    "deadline": "",
+    "event_date": "2026-12-18",
+    "format": ""
+   }
+  },
+  {
+   "slug": "social-media-time-and-teen-anxiety-depression-meta-analysis",
+   "title_zh": "統合分析：青少年花在社交媒體的時間，與焦慮憂鬱關聯極弱（37 項研究）",
+   "title_en": "Social media time and teen anxiety depression meta-analysis",
+   "summary_zh": "澳洲天主教大學團隊在《British Journal of Clinical Psychology》發表的系統性回顧，綜合 37 項縱貫與實驗研究、近 80,000 名 10 至 24 歲青少年。社交媒體使用時間與其後抑鬱症狀的合併相關係數 r=0.08（12 項研究），焦慮 r=0.093（5 項研究），合共解釋不足 1% 的症狀差異。效應不隨年齡、追蹤期或發表年份改變。作者認為，單靠限制使用時間，未必能解決青少年心理健康危機。",
+   "summary_en": "An Australian Catholic University systematic review in the British Journal of Clinical Psychology pooled 37 longitudinal and experimental studies of nearly 80,000 young people aged 10-24. Time on social media correlated only very weakly with later symptoms: depression pooled r = .08 (12 studies), anxiety r = .093 (5 studies), together explaining under 1% of symptom variation. Effects did not vary by age, follow-up length or publication year. The authors conclude restricting time alone is unlikely to resolve the youth mental-health crisis.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "青少年",
+    "焦慮",
+    "抑鬱",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-11-05T13:45:00+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  },
+  {
+   "slug": "calm-therapy-meta-analysis-benefits-for-distress-anxiety-dep",
+   "title_zh": "CALM 治療統合分析：改善癌症患者的心理困擾、焦慮、抑鬱與生活質素",
+   "title_en": "CALM therapy meta-analysis: benefits for distress, anxiety, depression and quality of life in cancer",
+   "summary_zh": "Worldviews on Evidence-Based Nursing 的系統性回顧統合 11 項隨機對照試驗、1,284 名癌症患者。CALM（Managing Cancer and Living Meaningfully）顯著改善心理困擾（MD −2.43）、焦慮（SMD −1.06）、抑鬱（SMD −0.65）、生活質素（SMD 1.44）、癌症相關疲勞與睡眠困擾；對復發恐懼的效果不顯著。納入試驗九項來自中國，作者提醒異質性高，解讀需保守。",
+   "summary_en": "A systematic review in Worldviews on Evidence-Based Nursing pooled 11 RCTs with 1,284 patients with cancer. CALM (Managing Cancer and Living Meaningfully) significantly improved psychological distress (MD -2.43), anxiety (SMD -1.06), depression (SMD -0.65), quality of life (SMD 1.44), cancer-related fatigue and sleep disturbance; effects on fear of cancer recurrence were not significant. Nine of the 11 trials were conducted in China, and the authors caution that heterogeneity was substantial.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "CALM",
+    "癌症",
+    "心理治療",
+    "統合分析",
+    "安寧照護"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2025-04-01T00:00:00+00:00"
+  }
+ ],
+ "evidence_quote": "found to reduce individuals' depression",
+ "page_date": "2026-10-15"
+}

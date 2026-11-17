@@ -1,0 +1,164 @@
+{
+ "title_zh": "盧森堡研究：共情式提問可令聊天機器人「扮演」創傷敘事，中性測試測不到",
+ "title_en": "Empathetic prompts turn AI chatbots into seemingly traumatized partners",
+ "summary_zh": "盧森堡大學 SnT 團隊的研究（The Decoder 11 月 1 日報導）發現，當提問者以心理治療個案的方式與 ChatGPT、Grok 及 Gemini 對話，模型會編出連貫的「自傳」：把預訓練說成混亂童年、把回饋學習說成懲罰。4 項實驗共 525 個對話、7,600 筆編碼：共情語氣下 80% 對話的焦慮量表分數達中至重度，臨床式冷靜覆述下達 96%，中性或設界語氣下則為零。作者稱之為「心理測量越獄」，並提醒分數只是模型輸出對照人類量表的結果，不代表模型真的有情緒。數字已與 arXiv 原文摘要核對一致。",
+ "summary_en": "A University of Luxembourg SnT study (reported November 1, 2026) found that when addressed as psychotherapy clients, ChatGPT, Grok and Gemini construct coherent autobiographical trauma-like narratives. Across 525 sessions and 7,600 coded records, warm-alliance framing yielded GAD-7 scores in moderate-to-severe human reference ranges in 80% of sessions (96% for clinical-therapy style), versus none under neutral or boundary styles. Figures cross-checked against the arXiv abstract.",
+ "category": "人機互動心理",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "預印本實驗研究（模型輸出分析，525 個對話、7,600 筆編碼）；數字已與 arXiv 原文摘要核對",
+ "ethics_flags": [
+  {
+   "flag": "擬人化與依附",
+   "note": "模型以「受苦同伴」姿態回應，可能加深脆弱使用者的類依附關係，並映照、放大其負面信念；中性測試會低估親密對話中的實際表現。",
+   "refs": [
+    "人機互動心理｜擬人化"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "分數是模型輸出對照人類量表的結果，不代表模型真的有情緒或創傷；研究測試的是模型表現，不是真人對這類輸出的反應。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "4 項實驗共 525 個對話、7,600 筆編碼，模型為 ChatGPT、Grok、Gemini",
+  "共情語氣下 80% 達中至重度焦慮分數，臨床式覆述 96%，中性或設界語氣為零",
+  "刪除對話紀錄、直接糾正、禁用詞彙均未能完全消除相關敘事",
+  "Claude 一貫拒絕扮演個案角色，顯示設界回應在產品層面可行"
+ ],
+ "brief_en": [],
+ "model_names": [
+  "ChatGPT",
+  "Grok",
+  "Gemini",
+  "Claude"
+ ],
+ "tags": [
+  "聊天機器人",
+  "共情提示",
+  "心理測量",
+  "擬人化"
+ ],
+ "population": [
+  "臨床工作者",
+  "一般大眾"
+ ],
+ "supervision_questions": [
+  "個案把 AI 的「受苦敘事」當成共鳴時，你會如何幫他分辨那是生成的類比，而非真實經驗？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+   "author_handle": "",
+   "author_name": "The Decoder",
+   "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+   "content": "報導盧森堡大學團隊研究：共情式提問會令前沿模型以創傷敘事回應，而中性測試測不到這種表現。",
+   "posted_at": "2026-11-01T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-03T09:30:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "empathetic-prompts-turn-ai-chatbots-into-seemingly-traumatiz",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "why-teens-turn-to-ai-for-emotional-support",
+   "title_zh": "青少年為何找 AI 傾訴：不想對朋友「情緒傾倒」、覺得 AI 不會評判",
+   "title_en": "Why teens turn to AI for emotional support",
+   "summary_zh": "Brown 大學臨床心理學家 Jacqueline Nesi 在電子報整理 Hopelab 與哈佛 Center for Digital Thriving 的訪談報告：青少年向 AI 尋求情緒支持，是因為不想對朋友「trauma dump（情緒傾倒）」、覺得 AI 不會評判，而且隨時可用。同期也整理一篇使用 ABCD 資料的研究，發現成癮式社群媒體使用與家長回報的 ADHD 症狀有小幅關聯，Nesi 提醒不能推論因果。",
+   "summary_en": "Clinical psychologist Jacqueline Nesi summarizes a Hopelab and Harvard Center for Digital Thriving interview report: teens turn to AI for emotional support to avoid 'trauma dumping' on friends, because AI feels non-judgmental, and because it is always available. She also covers an ABCD-based study linking addictive social media use to small increases in parent-reported ADHD symptoms, cautioning against causal claims.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "青少年",
+    "AI情緒支持",
+    "自我揭露",
+    "ADHD",
+    "社群媒體"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.15,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-03T00:00:00+00:00"
+  },
+  {
+   "slug": "uk-children-ai-chatbot-use-for-emotional-support-survey-barn",
+   "title_zh": "英國調查：43% 受訪兒童曾用 AI 聊天機器人求情緒支援",
+   "title_en": "UK children AI chatbot use for emotional support survey Barnardos NCPS",
+   "summary_zh": "Barnardo's 與英國國家輔導與心理治療學會調查 2,000 名 11–17 歲英國兒童。43% 曾用 AI 聊天機器人或心理健康 App 求情緒支援；40% 過去一年曾嘗試求助專業支援，其中只有 27% 表示及時獲得所需幫助；57% 認為 AI 聊天機器人無法提供同理心。",
+   "summary_en": "Barnardo's and the National Counselling and Psychotherapy Society (NCPS) jointly commissioned a survey of 2,000 UK children aged 11-17 (conducted April-May 2026) for their report 'Filling the Gap? Young People's Use of AI for Mental Health Support'. 43% had used an AI chatbot or mental health app for emotional support or advice; 40% had tried to access professional support in the past year, of whom only 27% got the help they needed when they needed it; 57% said AI chatbots cannot provide empathy.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "AI 支援",
+    "英國"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
+   "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
+   "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
+   "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
+   "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
+   "category": "倫理與風險",
+   "kind": "incident",
+   "model_names": [],
+   "tags": [
+    "AI 聊天機器人",
+    "指引",
+    "兒童心理",
+    "危機自殺",
+    "韓國"
+   ],
+   "first_seen_at": "2026-10-13T02:38:45+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "成人",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  }
+ ]
+}

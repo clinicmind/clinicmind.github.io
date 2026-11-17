@@ -1,0 +1,125 @@
+{
+ "title_zh": "研究：ADHD 患者整體死亡風險高約七成，用藥者風險較低（觀察性統合分析）",
+ "title_en": "ADHD mortality systematic review meta-analysis",
+ "summary_zh": "《JAMA Network Open》2026 年 10 月刊出的系統性回顧與統合分析，納入 19 項研究、共 15,920,970 人（女性佔 36.1%），文獻檢索至 2025 年 7 月 8 日。ADHD 患者整體死亡風險比（HR）為 1.71，自殺 1.89、意外或蓄意傷害 1.55、自然死因 1.27；ADHD 用藥者整體死亡風險比為 0.75。全部納入研究皆為觀察性研究，不能推斷因果。",
+ "summary_en": "A systematic review and meta-analysis in JAMA Network Open (October 2026) pooled 19 studies covering 15,920,970 participants (36.1% female), with literature searched to 8 July 2025. ADHD was associated with all-cause mortality (HR 1.71), suicide (HR 1.89), unintentional or intentional injury (HR 1.55) and natural-cause mortality (HR 1.27); ADHD medication use was associated with lower all-cause mortality (HR 0.75). All included studies were observational, so causality cannot be inferred.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "同儕審查系統性回顧與統合分析（JAMA Network Open，DOI: 10.1001/jamanetworkopen.2026.39448），經 PubMed 摘要頁核對",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "全部納入研究皆為觀察性研究，不能證明 ADHD 導致死亡或用藥直接預防死亡；研究間異質性大；用藥比較僅基於其中少數研究，作者提醒謹慎解讀；數字為相對風險比，不是個人死亡機率。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "納入：19 項研究，共 15,920,970 人，女性佔 36.1%；文獻檢索自 PubMed、Web of Science、PsycINFO、EMBASE、MEDLINE、CINAHL，至 2025 年 7 月 8 日",
+  "整體死亡：HR 1.71（95% CI 1.31-2.24，p < .001），即相對風險高約 71%",
+  "死因別：自殺 HR 1.89（95% CI 1.21-2.95）、意外或蓄意傷害 HR 1.55（95% CI 1.22-2.00）、自然死因 HR 1.27（95% CI 1.16-1.38）",
+  "用藥：ADHD 用藥者整體死亡 HR 0.75（95% CI 0.64-0.87，p < .001），為關聯而非因果證據",
+  "作者：利物浦大學 Lucy Corrigan 等，倫敦大學學院、倫敦國王學院、ADHD UK 合作；研究指出需標準化方法並更好控制混雜因素"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "ADHD",
+  "死亡風險",
+  "統合分析",
+  "用藥",
+  "自殺",
+  "傷害"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "面對 ADHD 來訪者同時有身體健康風險與共病時，你會如何把死亡風險的群體數字轉化為個別照護計劃，而不造成不必要的恐慌？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42895743/",
+   "author_handle": "",
+   "author_name": "PubMed",
+   "title": "Mortality Among People With Attention-Deficit/Hyperactivity Disorder: A Systematic Review and Meta-Analysis",
+   "content": "JAMA Network Open 系統性回顧與統合分析摘要：ADHD 與整體及死因別死亡率的關聯，以及用藥者的死亡風險差異。",
+   "posted_at": "2026-10-01T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-31T13:35:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "adhd-mortality-systematic-review-meta-analysis",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "dexamphetamine-vs-methylphenidate-in-children-rct",
+   "title_zh": "ADHD 兒童用藥 RCT：右旋安非他命與哌醋甲酯療效相近，體重變化有差",
+   "title_en": "Dexamphetamine vs methylphenidate in children RCT",
+   "summary_zh": "澳洲一項開放標籤隨機對照試驗納入 100 名首次用藥的 ADHD 兒童，追蹤 12 個月，比較右旋安非他命（dexamphetamine）與哌醋甲酯（methylphenidate）。兩者都令 ADHD 症狀大幅改善且無顯著差異，身高增長亦無差別；但右旋安非他命組頭三個月平均減重 1.4 公斤，哌醋甲酯組約 300 克。研究刊於《Journal of Paediatrics and Child Health》。",
+   "summary_en": "An open-label RCT of 100 treatment-naive children with ADHD found dexamphetamine and methylphenidate similarly effective over 12 months with no height difference, but greater early weight loss on dexamphetamine (1.4 kg vs 300 g).",
+   "category": "臨床與治療應用",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "特殊教育需要",
+    "ADHD",
+    "藥物治療",
+    "澳洲"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.173,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-07-15T00:00:00+00:00"
+  },
+  {
+   "slug": "hku-jckak-whole-school-3-tier-adhd-support-framework",
+   "title_zh": "港大賽馬會 ADHD 支援計劃：全校三層模式，已培訓逾 6,000 名學生",
+   "title_en": "HKU JCKAK whole-school 3-tier ADHD support framework",
+   "summary_zh": "香港大學心理學系介紹「Jockey Club Keen and Active Kids Project（JCKAK）」：由 Kathy Shum 教授團隊主導、香港賽馬會慈善信託基金資助，自 2019 年起與教育局及五間非政府機構合作，在主流中小學以全校三層介入模式支援 ADHD 學生。計劃已為逾 6,000 名學生提供實證為本訓練、裝備逾 4,000 名教育工作者，並以工作坊支援 1,500 名家長，另有數碼工具與手冊。",
+   "summary_en": "HKU Psychology describes JCKAK, a Jockey Club–funded ADHD support project led by Prof. Kathy Shum's team since 2019 with the Education Bureau and five NGOs. Using a whole-school 3-tier model, it has trained over 6,000 students and 4,000 educators and supported 1,500 parents.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "香港",
+    "兒童心理",
+    "特殊教育需要",
+    "ADHD",
+    "學校心理健康"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.953,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-30T00:00:00+00:00"
+  }
+ ]
+}

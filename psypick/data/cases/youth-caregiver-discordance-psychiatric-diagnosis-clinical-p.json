@@ -1,0 +1,73 @@
+{
+ "title_zh": "青少年與照顧者對精神科診斷的報告大不同：一個診斷只由一方報告的比例達 65%–98%（11,868 人，ABCD 研究）",
+ "title_en": "Youth caregiver discordance psychiatric diagnosis clinical problems ABCD Study",
+ "summary_zh": "JAMA Psychiatry 2026 年 11 月 11 日刊出研究通訊（Research Letter），分析 ABCD 研究 11,868 名青少年及其照顧者在 9–17 歲期間的報告。青少年與照顧者在分開的臨床訪談中回答相同診斷問題，研究按 DSM-5 分別從雙方的報告得出診斷，再比較各診斷在不同發展階段的重疊程度。結果顯示，不一致是常態：當一個診斷被報告時，約 65%–98% 情況下只由一方報告，視乎診斷與發展階段。青少年較多報告重性抑鬱症、睡眠問題、物質使用、自殺意念與企圖及非自殺性自傷；隨年齡增長，青少年報告抑鬱的比例較照顧者更高。照顧者較多報告品行障礙、飲食障礙及廣泛性與社交焦慮症，差距在年幼時最大，隨青少年長大而收窄。整體一致程度隨發展階段改善，但仍然有限。通訊作者為加州大學聖地牙哥分校 Laika D. Aguinaldo。",
+ "summary_en": "JAMA Psychiatry published a Research Letter on 11 November 2026 analysing reports from 11,868 youth and their caregivers in the ABCD Study between ages 9 and 17. Youth and caregivers answered the same diagnostic questions in separate clinical interviews, and the researchers derived DSM-5 diagnoses from each informant's report, then compared overlap by diagnosis and developmental stage. Discordance was the norm: when a diagnosis was reported, it came from only one informant in approximately 65% to 98% of cases, depending on diagnosis and stage. Youth were more likely to report major depressive disorder, sleep problems, substance use, suicidal thoughts and attempts and nonsuicidal self-injury, and teens reported depression more often than caregivers as they got older. Caregivers were more likely to report conduct disorders, eating disorders and generalised and social anxiety disorders; gaps were widest at younger ages and narrowed as teens got older. Agreement improved across stages but remained limited. Corresponding author Laika D. Aguinaldo (University of California, San Diego).",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "隊列研究通訊（JAMA Psychiatry 2026 年 11 月 11 日線上刊出；DOI: 10.1001/jamapsychiatry.2026.3768；PMID: 43013283；JAMA 原文頁被 Cloudflare 驗證阻擋，經 PubMed 記錄與加州大學聖地牙哥分校報道（Medical Xpress）核實數字）",
+ "ethics_flags": [
+  {
+   "flag": "篩檢與標籤",
+   "note": "只問一方可能漏掉需要幫助的青少年；以單一報告作診斷或篩檢決定時，須同時問青少年與照顧者，避免因報告差異而漏診或誤標。",
+   "refs": [
+    "評估與篩檢｜假陽性與標籤效應"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "JAMA 原文頁未能直接讀取，數字經大學報道核實，未經原文摘要逐字對照；研究通訊篇幅短，未詳述各診斷的具體不一致率與統計檢驗；樣本為美國 ABCD 參加者，推廣至其他地區有限。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：ABCD 研究 11,868 名青少年及其照顧者，年齡 9–17 歲；縱向追蹤兒童後期、青少年早期與中期",
+  "方法：青少年與照顧者在分開的臨床訪談中回答相同診斷問題，按 DSM-5 分別從雙方報告得出診斷，再比較各診斷在不同發展階段的重疊程度",
+  "主要結果：不一致是常態——當一個診斷被報告時，約 65%–98% 情況下只由一方報告，視乎診斷與發展階段",
+  "青少年較多報告：重性抑鬱症、睡眠問題、物質使用、自殺意念與企圖、非自殺性自傷；隨年齡增長，青少年報告抑鬱的比例較照顧者更高",
+  "照顧者較多報告：品行障礙、飲食障礙、廣泛性與社交焦慮症；差距在年幼時最大，隨青少年長大而收窄",
+  "整體一致程度隨發展階段改善，但仍然有限；作者結論：評估青少年精神健康須同時直接問青少年與照顧者"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "青少年",
+  "照顧者",
+  "診斷不一致",
+  "ABCD 研究",
+  "精神科評估"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長話「我個仔話佢冇事」，但青少年自述有自殺意念，你會點樣用呢個研究去解釋點解要同時問雙方？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1001/jamapsychiatry.2026.3768",
+   "author_handle": "",
+   "author_name": "El-Shafie 等（Laureate 腦研究所／加州大學聖地牙哥分校）",
+   "title": "Youth-Caregiver Discordance in Psychiatric Diagnosis and Clinical Problems in the ABCD Study (JAMA Psychiatry; DOI: 10.1001/jamapsychiatry.2026.3768)",
+   "content": "期刊研究通訊：11,868 名青少年與照顧者，9–17 歲，診斷報告不一致率 65%–98%。",
+   "posted_at": "2026-11-11T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-12T13:37:10+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "youth-caregiver-discordance-psychiatric-diagnosis-clinical-p",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [],
+ "evidence_quote": "came from only one informant, not both",
+ "page_date": "2026-11-11"
+}

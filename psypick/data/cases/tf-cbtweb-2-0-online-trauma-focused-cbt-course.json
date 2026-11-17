@@ -1,0 +1,213 @@
+{
+ "title_zh": "TF-CBTWeb 2.0：創傷焦點認知行為治療網上課程（US$35、11 CE）",
+ "title_en": "TF-CBTWeb 2.0 online trauma-focused CBT course",
+ "summary_zh": "TF-CBTWeb 2.0 是南卡羅來納醫科大學（MUSC）的創傷焦點認知行為治療網上課程，費用 35 美元，約 11 小時，提供 11 個 CE。課程內容包括心理教育、親職技巧、放鬆、情緒調節、認知因應、創傷敘事、親子聯合會談與安全計畫，另有西班牙文版。",
+ "summary_en": "TF-CBTWeb 2.0 is MUSC's online course in Trauma-Focused CBT. It costs US$35, takes about 11 hours and provides 11 CEs, covering psychoeducation, parenting, relaxation, affect regulation, cognitive coping, trauma narrative, conjoint sessions and safety planning; a Spanish version exists.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程資訊，非研究證據。",
+ "ethics_flags": [
+  {
+   "flag": "能力範圍",
+   "note": "網上課程是入門，實際提供 TF-CBT 仍需面授訓練與個案諮詢。",
+   "refs": [
+    "APA 2.01｜能力範圍"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "完成網上課程不等於取得 TF-CBT 認證，認證另有面授與諮詢要求。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "US$35，付給 MUSC",
+  "約 11 小時，11 個 CE",
+  "涵蓋 TF-CBT 全部 PRACTICE 元件",
+  "TF-CBT 認證計畫的訓練要求之一"
+ ],
+ "brief_en": [
+  "US$35 paid to MUSC",
+  "About 11 hours, 11 CEs",
+  "Covers all TF-CBT components",
+  "Part of TF-CBT certification training"
+ ],
+ "model_names": [],
+ "tags": [
+  "TF-CBT",
+  "兒童創傷",
+  "認知行為治療",
+  "自學課程"
+ ],
+ "population": [
+  "臨床工作者",
+  "兒童青少年"
+ ],
+ "supervision_questions": [
+  "完成網上課程後，你還需要哪些督導或諮詢才能開始做創傷敘事？",
+  "照顧者參與在你的工作場域中有哪些實際困難？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "Medical University of South Carolina（MUSC）",
+  "format": "線上自學",
+  "price": "$35",
+  "price_tier": "低價",
+  "ce_credits": "11 CEs",
+  "language": "英文（另有西班牙文版）",
+  "event_date": "",
+  "deadline": "",
+  "audience_level": "心理健康專業人員",
+  "topic": "創傷焦點認知行為治療（TF-CBT）",
+  "signup_url": "https://tfcbt2.musc.edu/en/users/sign_up",
+  "format_note": "自學（網上課程）"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://tfcbt.org/training/",
+   "author_handle": "",
+   "author_name": "TF-CBT Certification Program",
+   "title": "Training - TF-CBT Certification Program",
+   "content": "TF-CBT 認證計畫的訓練頁說明，TF-CBTWeb 2.0 是南卡羅來納醫科大學（MUSC）的網上課程，費用 35 美元，約需 11 小時，提供 11 個 CE。",
+   "posted_at": "2026-09-30T13:03:54+00:00"
+  }
+ ],
+ "first_seen_at": "2026-09-30T13:03:54+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "tf-cbtweb-2-0-online-trauma-focused-cbt-course",
+ "featured_at": null,
+ "hot_score": 3.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "nctsn-free-online-psychological-first-aid-and-spr-courses",
+   "title_zh": "NCTSN 免費線上心理急救（PFA Online）與心理復原技巧（SPR）課程，各 5 CE",
+   "title_en": "NCTSN free online Psychological First Aid and SPR courses",
+   "summary_zh": "美國國家兒童創傷壓力網絡（NCTSN）學習中心的 PFA Online 是互動式線上課程，約 5 小時，教導災後心理急救的核心行動；同系列的 SPR Online 教專業人員如何協助倖存者學習處理災後壓力的技巧。兩門課都免費，各提供 5 個 CE，另有西班牙文版。",
+   "summary_en": "The NCTSN Learning Center's PFA Online is a free, roughly 5-hour interactive course on the core actions of Psychological First Aid after disasters; Skills for Psychological Recovery (SPR) Online teaches providers to help survivors manage post-disaster distress. Both are free with 5 CEs each, with Spanish versions available.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "心理急救",
+    "災難心理",
+    "創傷",
+    "自學課程",
+    "免費"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "兒童青少年",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 3.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-30T13:03:54+00:00",
+   "training": {
+    "provider": "National Child Traumatic Stress Network（NCTSN）",
+    "price": "Free",
+    "price_tier": "免費",
+    "ce_credits": "PFA Online 5 CE；SPR Online 5 CE",
+    "language": "英文（另有西班牙文版）",
+    "deadline": "",
+    "event_date": "",
+    "format": "自學（互動式線上課程）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "understanding-anxiety-depression-and-cbt",
+   "title_zh": "認識焦慮、憂鬱與認知行為治療",
+   "title_en": "Understanding Anxiety, Depression and CBT",
+   "summary_zh": "英國瑞汀大學在 FutureLearn 的 5 週課程，由臨床心理學家 Shirley Reynolds 主講，講解焦慮與憂鬱的成因，以及實證治療 CBT 的原理與應用。免費旁聽，約 16.8 萬人註冊，適合臨床工作者複習 CBT 基礎，也適合家長教師增進心理健康素養。",
+   "summary_en": "A 5-week University of Reading FutureLearn course led by clinical psychologist Shirley Reynolds, explaining anxiety and depression and how CBT — an evidence-based treatment — works.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "焦慮",
+    "憂鬱",
+    "認知行為治療",
+    "免費旁聽",
+    "FutureLearn"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "FutureLearn / University of Reading",
+    "price": "免費旁聽（Class Central 原文 Cost: Free to audit, Price: 0 USD）；證書需付費（Certificate: Paid）",
+    "price_tier": "免費",
+    "ce_credits": "無（頁面未提及）",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "隨選",
+    "format": "線上隨選（5 週）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "depression-and-low-mood-in-young-people",
+   "title_zh": "青少年憂鬱與低落情緒：辨識與協助",
+   "title_en": "Depression and low mood in young people",
+   "summary_zh": "瑞汀大學在 FutureLearn 的 5 週課程，專為憂鬱青少年的家長、教師與基層醫療人員設計，教導辨識青少年憂鬱徵兆、區分低落情緒與憂鬱症，並運用 CBT 策略（行為活化、挑戰負向思考）與改善家庭溝通。免費旁聽，逾 6.1 萬人註冊，獲 CPD 認證可作持續專業發展證明。",
+   "summary_en": "A 5-week University of Reading FutureLearn course teaching parents, teachers and primary care professionals to recognise adolescent depression and low mood, and to use CBT-based strategies and better family communication to help.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "青少年憂鬱",
+    "親職",
+    "教師",
+    "認知行為治療",
+    "免費旁聽",
+    "FutureLearn"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "FutureLearn / University of Reading",
+    "price": "免費旁聽（Class Central 原文 Cost: Free to audit）；證書需付費（Certificate: Paid）",
+    "price_tier": "免費",
+    "ce_credits": "可作 CPD 持續專業發展證明（The CPD Certification Service 認證）；非學分制",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "隨選（頁面顯示 Available now）",
+    "format": "線上隨選（5 週）"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

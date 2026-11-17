@@ -1,0 +1,168 @@
+{
+ "title_zh": "日本全國數據：ASD 與 ADHD 新診斷趨勢——女性 ADHD 出現青年期第二高峰",
+ "title_en": "Japan nationwide data: ASD and ADHD diagnosis trends 2010-2023",
+ "summary_zh": "信州大學團隊分析日本國家數據庫（NDB，覆蓋約 99% 人口）2010–2023 年度的新診斷記錄：自閉症譜系（ASD）1,621,682 人、ADHD 1,483,470 人，以 5–9 歲最多。女性 ADHD 自約 2017 年起在 20–24 歲出現第二個診斷高峰，2020 年起接近兒童期高峰；成人則自 2013–14 年度起 ADHD 診斷數超越 ASD。研究團隊強調，增加的是「接受診斷的人數」，不是特性本身變多；日本的支援與合理調整多以正式診斷為前提。",
+ "summary_en": "A Shinshu University team analysed Japan's National Database (NDB, covering about 99% of the population) for new diagnoses in fiscal 2010-2023: 1,621,682 people with ASD and 1,483,470 with ADHD, peaking at ages 5-9. Among females, a second ADHD diagnosis peak at ages 20-24 emerged around 2017 and approached the childhood peak from 2020; among adults, ADHD diagnoses have exceeded ASD since 2013-14. The authors stress this is growth in people receiving diagnoses, not in the traits themselves, and note that support and accommodations in Japan generally require a formal diagnosis.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "全國保險數據庫分析（JAMA Network Open，2026-10-20 刊出），經信州大學官方頁核對",
+ "ethics_flags": [
+  {
+   "flag": "篩檢與標籤",
+   "note": "女性 ADHD 的青年第二高峰提示過往漏診；同時要留意成人診斷需求上升下的評估質素與把關。",
+   "refs": [
+    "評估與篩檢｜假陽性與標籤效應"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "數據是保險申報的診斷名，未逐一核對診斷基準；診斷數上升可反映求診與識別增加，不能推論發生率上升。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "NDB 覆蓋約 99% 人口；2010–2023 年度新診斷：ASD 1,621,682 人、ADHD 1,483,470 人",
+  "診斷高峰在 5–9 歲",
+  "女性 ADHD 自約 2017 年出現 20–24 歲第二高峰，2020 年起接近兒童期高峰",
+  "成人自 2013–14 年度起 ADHD 診斷數超越 ASD",
+  "研究團隊：增加的是接受診斷人數，非特性本身增加"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "ADHD",
+  "自閉症",
+  "診斷趨勢",
+  "日本",
+  "SEN"
+ ],
+ "population": [
+  "兒童青少年",
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "成年女性自述童年已被忽略的 ADHD 特徵時，你的評估會如何補回發展史？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.shinshu-u.ac.jp/faculty/medicine/medic/topics/2026/10/adhd-14.html",
+   "author_handle": "",
+   "author_name": "信州大學",
+   "title": "信州大學官方研究介紹頁：日本 ASD／ADHD 診斷趨勢",
+   "content": "介紹 JAMA Network Open 論文的研究設計（NDB 全國數據）與主要發現，含女性 ADHD 第二高峰的原文說明。",
+   "posted_at": "2026-10-20T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "japan-nationwide-data-asd-and-adhd-diagnosis-trends-2010-202",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "hkumed-prenatal-paracetamol-not-linked-to-autism-or-adhd",
+   "title_zh": "港大：孕期服撲熱息痛不增加子女自閉症或 ADHD 風險（70 萬對母子、兄弟姊妹配對）",
+   "title_en": "HKUMed prenatal paracetamol not linked to autism or ADHD",
+   "summary_zh": "港大醫學院團隊分析香港 2000–2023 年 708,020 對母子的電子病歷，以兄弟姊妹配對設計控制家族遺傳與環境因素，發現孕期使用撲熱息痛與子女自閉症譜系障礙或 ADHD 風險無關，且不同劑量、孕期與使用模式結果一致。研究刊於《JAMA Internal Medicine》，回應了美國政府早前的相關說法。",
+   "summary_en": "Using Hong Kong records of 708,020 mother–child pairs (2000–2023) and a sibling-matched design, HKUMed found no association between prenatal paracetamol exposure and ASD or ADHD, consistent across dose, trimester and pattern of use (JAMA Internal Medicine).",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "特殊教育需要",
+    "自閉症",
+    "ADHD",
+    "香港",
+    "流行病學",
+    "家長心理教育"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "一般大眾",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.782,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-07-02T00:00:00+00:00"
+  },
+  {
+   "slug": "autistic-pupils-happiness-at-school",
+   "title_zh": "自閉症學生為何在校較不快樂？英國 8,348 名青少年資料：學業自信與霸凌是關鍵",
+   "title_en": "Autistic pupils' happiness at school",
+   "summary_zh": "National Elf Service 評介一項英國全國代表性樣本研究（8,348 名青少年，其中 271 名自閉症）：自閉症學生約 27% 表示大多或全部時間在校不快樂，非自閉症學生約 14%。但在納入學業自我概念、霸凌、同儕關係、家庭親密度與社經地位後，差距消失；在自閉症學生中，學業自信是在校快樂感最強的預測因子。",
+   "summary_en": "A Mental Elf blog reviews a UK nationally representative study (8,348 adolescents, 271 autistic): about 27% of autistic pupils felt unhappy at school most or all of the time versus 14% of peers, but the gap disappeared after accounting for academic self-concept, bullying, peer relationships, family closeness and SES. Academic confidence was the strongest predictor of school happiness among autistic pupils.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "特殊教育需要",
+    "自閉症",
+    "學校適應",
+    "霸凌",
+    "學業自我概念"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.953,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-22T00:00:00+00:00"
+  },
+  {
+   "slug": "gaps-between-autism-screening-and-timely-support",
+   "title_zh": "自閉症早期篩檢到支援的斷層：篩檢不是診斷，而是路徑的起點",
+   "title_en": "Gaps between autism screening and timely support",
+   "summary_zh": "愛爾蘭 Munster 理工大學在《Pediatric Investigation》發表敘事性文獻回顧，整理 0–5 歲兒童自閉症篩檢到支援的落差。所引研究顯示：一項約 26,000 名幼兒的研究中，篩檢只找到不足四成後來確診的兒童；篩檢未過的兒童只有 31% 獲轉介專科評估；家庭平均等候 375 天才得到診斷。作者主張篩檢應被視為回應式路徑的入口，陰性結果但仍有疑慮時要持續監察。",
+   "summary_en": "A narrative review in Pediatric Investigation describes breakdowns between autism screening and support in children aged 0–5: limited screening sensitivity, only 31% of screen-positive children referred, and average 375-day waits. Screening should be an entry point, not a diagnosis.",
+   "category": "評估與篩檢",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "特殊教育需要",
+    "兒童心理",
+    "自閉症",
+    "早期篩檢",
+    "早期介入",
+    "轉介路徑"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.782,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-03T00:00:00+00:00"
+  }
+ ]
+}

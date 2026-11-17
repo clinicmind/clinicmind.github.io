@@ -1,0 +1,180 @@
+{
+ "title_zh": "從 45 秒日常對話偵測青少年思覺失調高風險：LEMon-AID 框架",
+ "title_en": "LEMon-AID emotion-informed AI detection of youth psychosis risk from speech",
+ "summary_zh": "新加坡團隊發表研究，直接叫大型語言模型從日常對話預測風險，表現與隨機猜測無異。新框架先抽取喜悅、信任、恐懼等情緒特徵再結合傳統機器學習，準確率由 55% 升至 67%，敏感度最高可達 93%。仍需進一步臨床驗證。",
+ "summary_en": "A Singapore team (NTU and the Institute of Mental Health) reported in npj Mental Health Research that asking an LLM to predict psychosis risk directly from 45-second everyday speech samples performed no better than chance, while their LEMon-AID framework (emotion features plus traditional machine learning) raised accuracy from 55% to 67%, with sensitivity up to 93%. Further clinical validation is needed.",
+ "category": "評估與篩檢",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊模型評估研究，單一樣本，未經臨床場景驗證",
+ "ethics_flags": [
+  {
+   "flag": "篩檢與標籤",
+   "note": "以語音情緒特徵標記青少年「高風險」，假陽性可能造成標籤與不必要介入；語音資料本身屬敏感個人資料。",
+   "refs": [
+    "評估與篩檢｜假陽性與標籤效應"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "敏感度 93% 的設定下特異度與假陽性率未在摘要中交代；高敏感度篩檢會帶來標籤與焦慮成本，不能作診斷或入學／就業用途。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "429 名 14–29 歲參加者，每人提供 45 秒非表露性談話樣本",
+  "直接用 LLM 預測風險，表現與隨機猜測無異",
+  "LEMon-AID 準確率由 55% 升至 67%，敏感度最高 93%"
+ ],
+ "brief_en": [],
+ "model_names": [
+  "LEMon-AID"
+ ],
+ "tags": [
+  "思覺失調早期偵測",
+  "情緒訊號",
+  "青少年"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "若機構引入高敏感度篩檢工具，我們的假陽性跟進流程與家長溝通話術準備好了嗎？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://medicalxpress.com/news/2026-10-emotion-focused-ai-early-psychosis.html",
+   "author_handle": "",
+   "author_name": "南洋理工大學與新加坡心理衛生學院（IMH）團隊",
+   "title": "Emotion-focused AI spots early signs of psychosis in youths from short speech samples",
+   "content": "新加坡團隊在《npj Mental Health Research》發表研究，用大型語言模型從 45 秒日常對話中抽取情緒特徵，偵測青少年思覺失調高風險。",
+   "posted_at": "2026-10-13T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:01:01+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "lemon-aid-emotion-informed-ai-detection-of-youth-psychosis-r",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "understanding-psychosis",
+   "title_zh": "認識思覺失調症",
+   "title_en": "Understanding Psychosis",
+   "summary_zh": "密西根大學在 Coursera 的思覺失調症課程，講解症狀、成因與治療，共 4 個模組、中階程度。免費旁聽可完整學習；另可經 MiCME 申請最高 8.5 個 AMA PRA Category 1 學分，適合精神科相關臨床工作者。",
+   "summary_en": "A University of Michigan Coursera course on psychosis — symptoms, causes and treatments — with optional CME credits via MiCME for eligible clinicians.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "思覺失調症",
+    "精神病學",
+    "CME 學分",
+    "免費旁聽",
+    "Coursera"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "Coursera / University of Michigan",
+    "price": "免費旁聽（頁面原文 Full Course, No Certificate）；證書費用頁面未列",
+    "price_tier": "免費",
+    "ce_credits": "有 — 最高 8.5 AMA PRA Category 1 Credits，需經 MiCME 另行申請（EID=93315），非 Coursera 直接提供",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "隨選",
+    "format": "線上隨選"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "hkcpsych-free-public-lecture-on-psychosis-stigma",
+   "title_zh": "香港精神科醫學院免費講座：反歧視、破謬誤，談思覺失調",
+   "title_en": "HKCPsych free public lecture on psychosis stigma",
+   "summary_zh": "香港精神科醫學院「正視精神」公眾講座系列，於 2026 年 10 月 31 日（六）晚上 7 時至 9 時在香港中央圖書館地下演講廳舉行，由精神科專科醫生劉育成主講，內容包括破解對思覺失調的誤解、個案分享及互動問答。講座免費，名額有限，先到先得。",
+   "summary_en": "A free public lecture by the Hong Kong College of Psychiatrists on 31 Oct 2026 (7–9 pm, Hong Kong Central Library) on debunking myths and stigma about psychosis, with case sharing and Q&A. First come, first served.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "香港",
+    "思覺失調",
+    "精神病污名",
+    "公眾教育",
+    "免費講座"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "一般大眾",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "香港精神科醫學院",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "",
+    "deadline": "",
+    "event_date": "2026-10-31",
+    "format": "實體講座（香港中央圖書館地下演講廳）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "at-home-tablet-cognitive-testing-app-versus-paper-testing",
+   "title_zh": "居家認知測試平板 App：與紙筆版同樣可靠且數據更豐富",
+   "title_en": "At-home tablet cognitive testing app versus paper testing",
+   "summary_zh": "美國東北大學團隊發表研究，讓認知健康長者在家的平板上完成連線測驗、畫鐘等任務。平板版與紙筆版結果一致，而且能記錄顫抖等微互動訊號。下一步將擴大測試人數。",
+   "summary_en": "Northeastern University researchers reported in JMIR Formative Research that cognitively healthy older adults completed tablet-based cognitive tests (trail-making, clock drawing) at home with results consistent with paper versions, while the app captured richer micro-interaction data such as tremor. Participants tested twice over Zoom, two months apart, for test-retest reliability.",
+   "category": "評估與篩檢",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "認知評估",
+    "遠距測試",
+    "長者"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "長者",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-22T00:00:00+00:00"
+  }
+ ]
+}

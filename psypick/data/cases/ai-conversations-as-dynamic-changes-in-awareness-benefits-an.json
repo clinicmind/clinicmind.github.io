@@ -1,0 +1,148 @@
+{
+ "title_zh": "AI 對話可助人亦可強化有害思考：Mansell 提出動態覺察框架",
+ "title_en": "AI conversations as dynamic changes in awareness: benefits and risks framework",
+ "summary_zh": "Curtin 大學 Mansell 教授提出框架，解釋同一聊天機器人為何效果可以相反。關鍵在於對話是拓寬覺察、探索問題，還是窄化為重複尋求保證與確認既有信念。作者提醒，此框架尚未經實證檢驗。",
+ "summary_en": "Curtin University's Warren Mansell proposes a framework in Digital Health explaining why the same AI chatbot can help one person and harm another: conversations that widen awareness (exploring feelings, questioning assumptions, considering new views) tend to help, while loops of reassurance-seeking and belief confirmation narrow thinking. The framework has not yet been empirically tested.",
+ "category": "臨床與治療應用",
+ "kind": "practice",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊概念框架文章，作者自承尚未經實證檢驗",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "框架是理論提案，不能當作臨床指引使用；「拓寬／窄化」的操作定義仍待研究確立。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "有助的對話：探索感受、質疑假設、考慮新觀點",
+  "有害的路徑：重複尋求保證、確認既有信念、窄化思考",
+  "作者建議設計聊天機器人時鼓勵反思與提問，而非一味附和"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "AI 聊天機器人",
+  "有害思考",
+  "覺察"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案在會談外大量與 AI 對話時，你會用什麼問題幫他分辨對話在拓寬還是窄化思考？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://techxplore.com/news/2026-10-ai-chatbots-mental-health.pdf",
+   "author_handle": "",
+   "author_name": "Warren Mansell（Curtin 大學人口健康學院）",
+   "title": "AI chatbots could help mental health but also reinforce harmful thinking",
+   "content": "Mansell 教授在《Digital Health》提出框架，解釋 AI 對話為何對不同人、或同一人在不同時間，效果可以相反，關鍵在於覺察的動態變化。",
+   "posted_at": "2026-10-19T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:01:01+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "ai-conversations-as-dynamic-changes-in-awareness-benefits-an",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "hku-led-roadmap-for-ai-and-emerging-technologies-in-mental-h",
+   "title_zh": "港大領銜 AI 與新興科技心理健康路線圖",
+   "title_en": "HKU-led roadmap for AI and emerging technologies in mental health",
+   "summary_zh": "港大心理學系 Becker 教授領銜國際團隊發表路線圖，主張結合腦指標、症狀、生活史與社會處境做到個人化治療。對話式 AI 與治療聊天機器人須植根於實證治療取向，現有證據不支持以 AI 取代真人治療或用於高風險管理。",
+   "summary_en": "An HKU-led international team published a roadmap for AI and emerging technologies in mental health care in Psychotherapy and Psychosomatics, arguing for personalised treatment that combines brain markers, symptoms, life history and social context. Conversational AI and therapy chatbots should be grounded in evidence-based approaches; current evidence does not support replacing human therapy or autonomous systems in high-risk management.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "AI 心理健康",
+    "個人化治療",
+    "路線圖"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-26T00:00:00+00:00"
+  },
+  {
+   "slug": "why-teens-turn-to-ai-for-emotional-support",
+   "title_zh": "青少年為何找 AI 傾訴：不想對朋友「情緒傾倒」、覺得 AI 不會評判",
+   "title_en": "Why teens turn to AI for emotional support",
+   "summary_zh": "Brown 大學臨床心理學家 Jacqueline Nesi 在電子報整理 Hopelab 與哈佛 Center for Digital Thriving 的訪談報告：青少年向 AI 尋求情緒支持，是因為不想對朋友「trauma dump（情緒傾倒）」、覺得 AI 不會評判，而且隨時可用。同期也整理一篇使用 ABCD 資料的研究，發現成癮式社群媒體使用與家長回報的 ADHD 症狀有小幅關聯，Nesi 提醒不能推論因果。",
+   "summary_en": "Clinical psychologist Jacqueline Nesi summarizes a Hopelab and Harvard Center for Digital Thriving interview report: teens turn to AI for emotional support to avoid 'trauma dumping' on friends, because AI feels non-judgmental, and because it is always available. She also covers an ABCD-based study linking addictive social media use to small increases in parent-reported ADHD symptoms, cautioning against causal claims.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "青少年",
+    "AI情緒支持",
+    "自我揭露",
+    "ADHD",
+    "社群媒體"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.15,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-03T00:00:00+00:00"
+  },
+  {
+   "slug": "general-purpose-ai-mental-health-support-among-24000-adolesc",
+   "title_zh": "英格蘭 2.4 萬青少年通用 AI 心理支援使用調查",
+   "title_en": "General-purpose AI mental health support among 24000 adolescents England",
+   "summary_zh": "牛津團隊分析 OxWell 調查 24,132 名英格蘭學生。過去一年曾用通用 AI 求心理支援者佔 2.7%，其中 55.9% 認為有幫助。使用與額外支援需求集中於少數族裔與心理社會較脆弱群體。",
+   "summary_en": "Oxford researchers analysed the OxWell survey of 24,132 students in England. In the past year 2.7% had used general-purpose AI for mental-health support, and 55.9% of users rated it helpful. Use and unmet need for more support were concentrated among ethnic-minority and psychosocially vulnerable groups.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "AI 心理支援",
+    "青少年",
+    "通用 AI",
+    "兒童心理"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-27T00:00:00+00:00"
+  }
+ ]
+}

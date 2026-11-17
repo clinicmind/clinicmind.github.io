@@ -1,0 +1,206 @@
+{
+ "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
+ "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
+ "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
+ "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程",
+ "ethics_flags": [
+  {
+   "flag": "能力範圍",
+   "note": "身體取向創傷介入需要相應訓練，1 小時免費課不等於完整訓練。",
+   "refs": [
+    "APA 2.01｜能力範圍"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "CE 學分限特定美國執照，港澳不一定承認；主講之一為身體教練而非持照心理師。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "2026-10-14 美東 12:00–1:00pm，Zoom 線上",
+  "主講 Ramona Ndlovu（LMFT）與 Rebecca Bromberg（身體取向教練）",
+  "學習解釋獲得性安全依附的三個元素，並練習三種身體取向技巧",
+  "1 小時 CE，適用 NBCC、賓州社工、LPC、LMFT、心理師；需用 Google 表單報名"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "創傷",
+  "依附",
+  "身體取向治療",
+  "網上研討會",
+  "免費CE"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案「懂了依附理論卻仍重複舊模式」時，身體取向介入如何與督導中的個案概念化對接？",
+  "運用身體技巧前，如何確認個案同意與穩定化條件？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "audience_level": "therapists",
+  "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
+  "deadline": "",
+  "event_date": "2026-10-14",
+  "format": "線上直播",
+  "language": "English",
+  "price": "Free",
+  "price_tier": "免費",
+  "provider": "Phoenix Center for Experiential Trauma Therapy",
+  "signup_url": "https://phoenixtraumacenter.com/event/free-webinar-creating-earned-secure-attachment-with-somatic-tools/",
+  "topic": "以身體取向工具建立獲得性安全依附",
+  "format_note": "線上"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://phoenixtraumacenter.com/event/free-webinar-creating-earned-secure-attachment-with-somatic-tools/",
+   "author_handle": "",
+   "author_name": "Phoenix Center for Experiential Trauma Therapy",
+   "title": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
+   "content": "Phoenix Center 舉辦的免費線上工作坊，用身體取向框架幫助個案把安全依附變成身體經驗，含體驗式練習。",
+   "posted_at": "2026-10-07T02:38:14+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-07T02:38:14+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
+ "featured_at": "2026-10-07T02:38:14+00:00",
+ "hot_score": 2.0,
+ "tier": "archive",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "childhood-anxiety-symptoms-and-assessment",
+   "title_zh": "兒童焦慮：症狀與評估",
+   "title_en": "Childhood Anxiety: Symptoms and Assessment",
+   "summary_zh": "NOCD Academy 的免費直播 CE 課，由 Sara Conley 博士主講。內容聚焦兒童焦慮的症狀辨識與評估，完成可獲 2 學分，仍可報名。",
+   "summary_en": "NOCD Academy free live CE webinar on 14 Oct 2026 by Sara Conley, PhD, on symptoms and assessment of childhood anxiety; 2 CE credits.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "焦慮",
+    "評估",
+    "網上研討會",
+    "免費CE"
+   ],
+   "first_seen_at": "2026-10-07T02:38:14+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": "2026-10-07T02:38:14+00:00",
+   "tier": "archive",
+   "has_ethics_flags": false,
+   "date": "2026-10-07T02:38:14+00:00",
+   "training": {
+    "provider": "NOCD Academy",
+    "price": "Free",
+    "price_tier": "免費",
+    "ce_credits": "2 CE credits | 2 CE hours",
+    "language": "English",
+    "deadline": "",
+    "event_date": "2026-10-14",
+    "format": "線上"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "free-pat-ogden-webinar-on-resilience-amid-trauma",
+   "title_zh": "Pat Ogden 免費錄影講座：感覺動作心理治療談創傷下的復原力",
+   "title_en": "Free Pat Ogden webinar on resilience amid trauma",
+   "summary_zh": "Leading Edge Seminars 與 Sensorimotor Psychotherapy Institute（SPI）、SensorimotorItalia.it 合作，免費公開 Pat Ogden 與 Rebeca Farca 的錄影講座「Building Resilience in Times of War, Violence & Other Traumatic Events」。內容介紹如何協助長期處於壓力與威脅下的案主，並附講義、給案主用的 PEACE protocol 與給臨床人員的 SPI protocol 可下載。",
+   "summary_en": "Leading Edge Seminars, with the Sensorimotor Psychotherapy Institute and SensorimotorItalia.it, offers a free recorded webinar by Pat Ogden and Rebeca Farca, 'Building Resilience in Times of War, Violence & Other Traumatic Events'. It shows how to help clients living with long-term stress and threat, with a downloadable handout, a PEACE protocol for clients and an SPI protocol for clinicians.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "身體取向治療",
+    "感覺動作心理治療",
+    "創傷",
+    "復原力",
+    "免費"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "Leading Edge Seminars（與 Sensorimotor Psychotherapy Institute 合作）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "",
+    "format": "錄影講座（隨選觀看）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "strengthening-the-objective-observer",
+   "title_zh": "強化客觀觀察者：治療中的反思實務",
+   "title_en": "Strengthening the Objective Observer",
+   "summary_zh": "eiseEducation 的免費網上講座（雪梨時間 2026-10-07 晚上 6:30–8:00，講者 Zern Liew），探討治療師如何在同理投入與客觀觀察之間取得平衡，涵蓋自我監察、偏見辨識與批判思考。直播免費；錄影或 60 天回看需付 $19；出席達 80% 可得 1.5 小時 CPD。",
+   "summary_en": "Free live webinar by eiseEducation (7 Oct 2026, 6:30–8pm Sydney time) with Zern Liew on balancing empathic engagement with reflective detachment: self-monitoring, bias recognition and critical thinking. 1.5 CPD hours with 80% attendance.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "反思實務",
+    "治療關係",
+    "CPD",
+    "網上研討會"
+   ],
+   "first_seen_at": "2026-10-07T02:38:14+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "archive",
+   "has_ethics_flags": false,
+   "date": "2026-10-07T02:38:14+00:00",
+   "training": {
+    "provider": "eiseEducation",
+    "price": "Free (Live Webinar Only)",
+    "price_tier": "免費",
+    "ce_credits": "CPD Certificate: 1.5 Hours",
+    "language": "English",
+    "deadline": "",
+    "event_date": "2026-10-07",
+    "format": "線上"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

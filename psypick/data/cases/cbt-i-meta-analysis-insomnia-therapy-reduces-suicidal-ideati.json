@@ -1,0 +1,161 @@
+{
+ "title_zh": "統合分析：失眠認知行為治療（CBT-I）可降低自殺意念，長效證據未明",
+ "title_en": "CBT-I meta-analysis: insomnia therapy reduces suicidal ideation",
+ "summary_zh": "Nature Mental Health 的系統性回顧統合 19 項隨機對照試驗、4,974 名參加者。CBT-I 在治療後降低自殺意念，比值比（RoM）0.77（95% CI 0.66–0.90），證據確定性高。但 1–12 個月追蹤的組間差異不顯著；自殺行為事件極罕見，無法判斷對行為的效果。",
+ "summary_en": "A Nature Mental Health systematic review pooled 19 RCTs with 4,974 participants. CBT-I reduced suicidal ideation post-treatment (ratio of means 0.77, 95% CI 0.66-0.90) with high-certainty evidence. Effects were not significant at 1-12 month follow-up, and suicidal behaviour was too rare (two attempts in CBT-I arms across nine trials, no deaths) to judge effects on behaviour.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "系統性回顧與統合分析（Nature Mental Health，2026-10-23 刊出）；72% 納入試驗偏倚風險屬 some concerns",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "睡眠介入可作輔助，但自殺意念的跟進仍需常規風險評估與安全計劃，不能以 CBT-I 取代。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "效果只在治療後成立，追蹤期不顯著；樣本以失眠患者為主，不能直接推論到高自殺風險臨床群體，更不能取代自殺風險評估與安全計劃。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "19 項 RCT，n=4,974",
+  "治療後自殺意念 RoM 0.77（95% CI 0.66–0.90），證據確定性高",
+  "1–12 個月追蹤：組間差異不顯著",
+  "自殺行為極罕見（9 項試驗中 CBT-I 組 2 次嘗試、無死亡），無法判斷對行為的效果",
+  "72% 試驗偏倚風險屬 some concerns"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "失眠",
+  "CBT-I",
+  "自殺意念",
+  "統合分析"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案同時有失眠與自殺意念時，你會如何排定睡眠介入與風險工作的先後？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.nature.com/articles/s44220-026-00743-0",
+   "author_handle": "",
+   "author_name": "Nature Mental Health",
+   "title": "Nature Mental Health 論文（DOI: 10.1038/s44220-026-00743-0）",
+   "content": "期刊原文頁：CBT-I 對自殺意念的系統性回顧與統合分析，含摘要、主要結果與偏倚風險評估。",
+   "posted_at": "2026-10-23T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "cbt-i-meta-analysis-insomnia-therapy-reduces-suicidal-ideati",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "adolescent-insomnia-vs-circadian-delay",
+   "title_zh": "青少年「失眠」可能是晝夜節律延遲：挪威研究近九成有相位後移指標",
+   "title_en": "Adolescent insomnia vs circadian delay",
+   "summary_zh": "ACAMH 部落格整理挪威 3,867 名高中生的研究（Arnesen 等，2025）：34.5% 符合失眠標準，但其中 88.4% 呈現晝夜節律延遲的指標。作者建議評估上學日與假日的睡眠時間差、延後就寢是否改善入睡、週末補眠等；失眠以 CBT-I 處理，節律延遲則考慮光照、褪黑激素時機與逐步提前起床時間，而非只叫孩子早點上床。",
+   "summary_en": "An ACAMH blog summarises a study of 3,867 Norwegian high-school students (Arnesen et al., 2025): 34.5% met insomnia criteria, yet 88.4% of these showed indicators of circadian delay. The author recommends assessing school-day vs free-day sleep timing, response to later bedtimes and weekend catch-up sleep; CBT-I for insomnia, and light, melatonin timing and gradual wake-time advances for circadian delay rather than simply earlier bedtimes.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "青少年",
+    "睡眠",
+    "失眠",
+    "晝夜節律",
+    "CBT-I",
+    "鑑別診斷"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.43,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-27T00:00:00+00:00"
+  },
+  {
+   "slug": "adolescent-life-event-trajectories-and-suicidal-ideation",
+   "title_zh": "青少年自殺意念：日常生活事件的「累積」也要評估",
+   "title_en": "Adolescent life event trajectories and suicidal ideation",
+   "summary_zh": "Mental Elf 評析 Chen 等人 2026 年刊於 Lancet Psychiatry 的前瞻性世代研究，以 IMAGEN 資料追蹤德、法、愛爾蘭、英國 2,161 名青少年（14、16、19、23 歲）。生活事件累積高的軌跡組，14 歲時自殺意念比例為 11.3%，其他組為 4.1%–7.8%，調整後約高 6 個百分點，家庭相關事件尤其重要。評論者建議評估青少年風險時，除重大創傷也要看日常壓力的累積。",
+   "summary_en": "The Mental Elf reviews Chen et al.'s 2026 Lancet Psychiatry prospective cohort using IMAGEN data on 2,161 adolescents in Germany, France, Ireland and the UK (ages 14–23). The high cumulative life-event trajectory group had 11.3% suicidal ideation at 14 versus 4.1–7.8% in other groups, roughly 6 percentage points higher after adjustment, with family events especially influential.",
+   "category": "評估與篩檢",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "自殺意念",
+    "青少年",
+    "生活事件",
+    "風險評估",
+    "世代研究"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.767,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-18T00:00:00+00:00"
+  },
+  {
+   "slug": "youth-self-harm-and-service-contact-before-suicide",
+   "title_zh": "青少年自傷：把每次接觸服務變成照護機會——英國 544 名自殺身亡青少年資料",
+   "title_en": "Youth self-harm and service contact before suicide",
+   "summary_zh": "ACAMH 部落格評介英國全國連續案例系列研究（Aggarwal 等，British Journal of Psychiatry, 2025）：544 名 10–19 歲自殺身亡者中 49% 有自傷紀錄、26% 有近期自傷；近期自傷者中 60% 在死亡前三個月內曾接觸心理健康服務，95% 經歷近期逆境。另有 51% 沒有自傷紀錄。作者建議評估不只看自傷行為，也要看關係、安全與環境壓力，並提供協調的個別化照護與 48 小時內的後續追蹤。",
+   "summary_en": "An ACAMH blog reviews a UK consecutive case series (Aggarwal et al., British Journal of Psychiatry, 2025) of 544 young people aged 10–19 who died by suicide: 49% had a self-harm history and 26% recent self-harm; among those with recent self-harm, 60% had contact with mental health services in the prior three months and 95% had recent adversity, while 51% had no recorded self-harm. The author urges broader assessment of relationships, safety and stressors, coordinated care and 48-hour follow-up.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "青少年",
+    "自傷",
+    "自殺預防",
+    "後續照護"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.43,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-21T00:00:00+00:00"
+  }
+ ]
+}

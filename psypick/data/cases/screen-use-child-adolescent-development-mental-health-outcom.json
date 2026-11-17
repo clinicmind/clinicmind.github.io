@@ -1,0 +1,65 @@
+{
+ "title_zh": "屏幕時間愈多，兒童學業與語言愈弱、情緒行為問題愈多：281 萬名兒童傘狀回顧，效應細小",
+ "title_en": "Screen use child adolescent development mental health outcomes umbrella review",
+ "summary_zh": "JAMA Pediatrics 2026 年 9 月 28 日網上刊出卡爾加里大學主導的定量傘狀回顧，綜合 23 項統合分析，涵蓋 64 個國家 2,817,252 名 18 歲以下兒童。屏幕時間愈多，整體學業成績愈低（r=-0.15）、語言能力愈弱（r=-0.14），內化行為問題（r=0.10；社交媒體使用 r=0.09）與外化行為問題（r=0.11）愈多，情緒問題（r=0.30）與同儕問題（r=0.28）亦較多；但與執行功能、親社會行為、數學、科學及閱讀成績無明顯關聯。作者指出效應細小，大部分原始研究為橫斷面，不能證明因果。研究由 Elizabeth Al-Jbouri、Sheri Madigan 等領導；共同作者 Christakis 為 JAMA Pediatrics 主編，利益衝突已申報。",
+ "summary_en": "JAMA Pediatrics published a quantitative umbrella review online on 28 September 2026, led by the University of Calgary, synthesising 23 meta-analyses covering 2,817,252 children aged 18 or younger across 64 countries. More screen-based media exposure was associated with lower overall academic achievement (r=-0.15) and weaker language skills (r=-0.14), more internalising behaviour problems (r=0.10; social media use r=0.09) and externalising behaviour problems (r=0.11), and more emotional problems (r=0.30) and peer problems (r=0.28); it was not associated with executive functioning, prosociality, or mathematics, science or reading scores. The authors note the effects are small and that most underlying studies are cross-sectional, so causation cannot be established. Led by Elizabeth Al-Jbouri and Sheri Madigan; co-author Christakis is Editor in Chief of JAMA Pediatrics, with conflicts of interest disclosed.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "傘狀回顧（JAMA Pediatrics 2026 年 9 月 28 日網上刊出；23 項統合分析，2,817,252 名 18 歲以下兒童，64 個國家；DOI: 10.1001/jamapediatrics.2026.4339；經 PubMed 摘要 PMID 42804186 核實；2026 年 11 月 5–12 日媒體報道再引起關注）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "關聯非因果；大部分原始研究為橫斷面，同時量度屏幕使用與身心狀況；效應細小，內化問題約只佔兒童間差異的 1%；情緒問題（r=0.30）與同儕問題（r=0.28）的估計基於較少研究、置信區間闊；未能區分社交媒體、遊戲等不同屏幕用途；共同作者 Christakis 為 JAMA Pediatrics 主編，另曾任社交媒體訴訟專家證人（利益衝突已申報）。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：23 項統合分析，2,817,252 名 18 歲以下兒童，64 個國家；文獻搜尋至 2025 年 11 月 25 日",
+  "方法：定量傘狀回顧（回顧的回顧），效應值轉換為 Pearson r 再分析；依 PRISMA 報告",
+  "主要結果：學業成績 r=-0.15（95% CI -0.23 至 -0.07）；語言能力 r=-0.14（-0.18 至 -0.10）",
+  "心理健康：內化行為問題 r=0.10（0.07–0.13），社交媒體使用 r=0.09（0.06–0.12）；外化行為問題 r=0.11（0.08–0.14）；情緒問題 r=0.30（0.08–0.50）；同儕問題 r=0.28（0.04–0.49）",
+  "無關聯：執行功能、親社會行為、數學、科學、閱讀成績",
+  "限制：效應細小；大部分原始研究為橫斷面，不能證明因果；情緒與同儕問題估計基於較少研究、置信區間闊；未能區分不同屏幕用途"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "屏幕時間",
+  "兒童發展",
+  "心理健康",
+  "傘狀回顧",
+  "JAMA Pediatrics"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「屏幕係咪搞到個仔情緒差」，你會點用呢個回顧的細小效應值與橫斷面限制去回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1001/jamapediatrics.2026.4339",
+   "author_handle": "",
+   "author_name": "Al-Jbouri、Madigan 等（卡爾加里大學）",
+   "title": "Screen Use and Child and Adolescent Development and Mental Health Outcomes: A Quantitative Umbrella Review (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.4339)",
+   "content": "傘狀回顧：23 項統合分析，281 萬名兒童；屏幕愈多，學業與語言愈弱、情緒行為問題愈多，效應細小。",
+   "posted_at": "2026-09-28T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-14T13:32:07+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "screen-use-child-adolescent-development-mental-health-outcom",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [],
+ "evidence_quote": "to screen time was associated with lower",
+ "page_date": "2026-09-28"
+}

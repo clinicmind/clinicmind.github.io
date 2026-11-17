@@ -1,0 +1,164 @@
+{
+ "title_zh": "情緒取向治療用於延長哀傷障礙：隨機對照試驗研究方案",
+ "title_en": "Emotion-focused therapy for prolonged grief disorder: RCT study protocol",
+ "summary_zh": "這是一份即將在西班牙馬德里進行的雙臂 RCT 研究方案：比較 8–10 節 Greenberg 系情緒取向治療（EFT）與以 EFT 為基礎的自助介入，對符合 ICD-11 延長哀傷障礙診斷成人的療效。主要結果為哀傷症狀（PG-13-R）與心理困擾（CORE-10），追蹤至 12 個月。",
+ "summary_en": "Protocol for a two-arm RCT in Madrid comparing 8–10 sessions of Greenberg-style emotion-focused therapy with an EFT-based self-help task for ICD-11 prolonged grief disorder.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 0,
+ "evidence_note": "研究方案，尚無療效結果",
+ "ethics_flags": [],
+ "psych_concepts": [
+  {
+   "name": "治療同盟",
+   "note": "研究把治療同盟列為次要結果，可觀察 EFT 任務與同盟的關係。",
+   "ref": "概念｜治療同盟"
+  }
+ ],
+ "caution": "只是研究方案，不能當作 EFT 治療延長哀傷障礙已有療效的證據。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "預計招募 144 名符合 ICD-11 延長哀傷障礙診斷的成人（PG-13-R ≥30）",
+  "EFT 組由具 isEFT B 級認證治療師執行 8–10 節；對照組為 EFT 任務式自助介入",
+  "主要結果：PG-13-R 哀傷症狀、CORE-10 心理困擾；次要：PHQ-9、GAD-7、治療同盟",
+  "評估點：基線、3 週、治療結束（12 週）、5 個月與 12 個月追蹤"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "情緒取向治療",
+  "Greenberg系（個體EFT）",
+  "延長哀傷障礙",
+  "RCT研究方案"
+ ],
+ "population": [
+  "成人"
+ ],
+ "supervision_questions": [
+  "Greenberg 系 EFT 的任務式介入（如空椅）用於哀傷時，督導需要特別留意哪些個案風險？",
+  "自助版與治療師版 EFT 的差別，對評估同盟的作用有什麼啟示？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://link.springer.com/article/10.1186/s13063-026-10005-0",
+   "author_handle": "",
+   "author_name": "José Gamoneda et al. (Universidad Pontificia Comillas, Madrid)",
+   "title": "Emotion-focused therapy in the treatment of prolonged grief disorder: study protocol for a randomized controlled trial",
+   "content": "這是一份即將在西班牙馬德里進行的雙臂 RCT 研究方案：比較 8–10 節 Greenberg 系個體情緒取向治療（EFT，由 isEFT 認證治療師執行）與以 EFT 任務為基礎的自助介入，對符合 ICD-11 延長哀傷障礙診斷成人的療效，追蹤至 12 個月。",
+   "posted_at": "2026-09-21T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-03T01:09:46+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "emotion-focused-therapy-for-prolonged-grief-disorder-rct-stu",
+ "featured_at": null,
+ "hot_score": 0.859,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "meta-analysis-of-emotion-focused-therapy-for-adult-distress",
+   "title_zh": "統合分析：情緒取向治療（Greenberg 系 EFT）對成人憂鬱、焦慮與 PTSD 的療效",
+   "title_en": "Meta-analysis of emotion-focused therapy for adult distress disorders",
+   "summary_zh": "這篇 2026 年 4 月刊於 Psychotherapy Research 的統合分析，針對 Greenberg 系的情緒取向治療（Emotion-Focused Therapy，個人與團體形式，排除伴侶 EFT），納入 13 篇試驗（EFT 組 348 人、對照 201 人）。EFT 相對於無治療對照效果大（g = 1.39），相對於其他既有心理治療的優勢則小（約 0.28）。作者同時指出研究品質普遍偏低、有出版偏誤跡象，樣本也集中於女性與白人或伊朗參與者。",
+   "summary_en": "A 2026 meta-analysis in Psychotherapy Research of 13 trials of (Greenberg-style) emotion-focused therapy, excluding couples EFT, found a large effect versus inactive controls (g = 1.39) and a small advantage over active therapies (about 0.28). The authors flag poor study quality, publication bias and narrow samples.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "情緒取向治療",
+    "Emotion-Focused Therapy",
+    "統合分析",
+    "憂鬱",
+    "焦慮",
+    "PTSD"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.564,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-04-19T00:00:00+00:00"
+  },
+  {
+   "slug": "session-level-feelings-and-clarification-in-emotion-focused",
+   "title_zh": "情緒取向治療歷程研究：會後的悲傷與喜悅，影響個案「釐清」與症狀改善軌跡",
+   "title_en": "Session-level feelings and clarification in emotion-focused therapy",
+   "summary_zh": "Kramer 等人於 2026 年 9 月發表的歷程研究，分析 48 位接受 Greenberg 系情緒取向治療（Emotion-Focused Therapy）個案每次會談後的自評與 CORE-10 症狀分數。結果顯示，會後感到悲傷／哀傷以及喜悅，會調節個案對問題「釐清」深度的變化軌跡，並與症狀改善有關。研究屬自然情境資料，提供會談層次的改變機制線索。",
+   "summary_en": "A 2026 process study of 48 clients in emotion-focused therapy found that post-session sadness/grief and joy moderated the trajectory of clarification depth and were linked to symptom change on the CORE-10.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "情緒取向治療",
+    "Emotion-Focused Therapy",
+    "歷程研究",
+    "會談回饋",
+    "網絡分析"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.782,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-02T00:00:00+00:00"
+  },
+  {
+   "slug": "first-rct-of-emotionally-focused-individual-therapy-efit",
+   "title_zh": "首個 EFIT 隨機對照試驗：Sue Johnson 系情緒取向個人治療用於憂鬱與焦慮",
+   "title_en": "First RCT of emotionally focused individual therapy (EFIT)",
+   "summary_zh": "這篇研究介紹整理 Wiebe、Sue Johnson、Tasca 等人 2025 年於 Psychotherapy 發表的隨機對照試驗：88 位有憂鬱與焦慮的成人隨機分派接受約 15 次情緒取向個人治療（EFIT，屬 Sue Johnson 的 Emotionally Focused Therapy 體系，非 Greenberg 的 EFT）或候補名單。相較候補組，EFIT 組的憂鬱與焦慮顯著下降，情緒調節與心理福祉也有改善；研究在 COVID-19 期間進行。",
+   "summary_en": "A practitioner write-up of Wiebe, Johnson et al. (2025, Psychotherapy): 88 adults with depression and anxiety were randomised to ~15 sessions of emotionally focused individual therapy (EFIT) or waitlist; EFIT reduced depression and anxiety and improved emotion regulation.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "情緒取向治療",
+    "EFIT",
+    "Emotionally Focused Therapy",
+    "RCT",
+    "憂鬱",
+    "焦慮",
+    "依附"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.173,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2025-07-16T00:00:00+00:00"
+  }
+ ],
+ "evidence_quote": "A two-arm randomized controlled trial",
+ "page_date": "2026-09-21"
+}

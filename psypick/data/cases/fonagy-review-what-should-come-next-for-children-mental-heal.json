@@ -1,0 +1,169 @@
+{
+ "title_zh": "Fonagy 審查之後：兒童心理健康支援不應等待診斷",
+ "title_en": "Fonagy review what should come next for children mental health",
+ "summary_zh": "英國政府委託 Fonagy 教授的獨立審查，呼籲兒童心理健康支援由「依賴診斷」轉向「以需要為先」。Anna Freud 五位專家提出五項政策訴求，包括支援不應等待診斷、預防要處理貧窮與孤獨等成因、投資學校與幼兒服務、讓兒童參與政策制定。審查未證實大規模過度診斷，但五歲以下服務缺口大。",
+ "summary_en": "Anna Freud (November 10, 2026) responds to the UK government's independent Fonagy review of children's mental health, which calls for support based on need rather than diagnosis. Five experts set out five policy asks: support should not wait for a diagnosis, prevention must tackle poverty and loneliness, schools and early-years services need investment, and children should help shape policy. The review found no evidence of large-scale overdiagnosis, but early-years specialist services reach only about 4% of families in need.",
+ "category": "研究與證據",
+ "kind": "practice",
+ "evidence_level": 0,
+ "evidence_note": "政府委託獨立審查的專家評論（政策分析）",
+ "ethics_flags": [
+  {
+   "flag": "診斷門檻與支援公平",
+   "note": "支援不應等待診斷；預防須處理貧窮與孤獨等社會成因；五歲以下專科早期服務缺口大，資源分配須兼顧最有需要的家庭。",
+   "refs": [
+    "倫理與風險｜診斷門檻"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "專家評論非審查原文；政府回應尚未發表，數字截至 2026 年 11 月 10 日。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "審查未證實大規模過度診斷",
+  "五歲以下專科早期服務僅覆蓋約 4% 有需要家庭",
+  "每年逾 115,000 名圍產期婦女的心理困難低於專科門檻",
+  "政府將於年底前發表跨部門心理健康策略回應"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "兒童心理",
+  "Fonagy 審查",
+  "英國政策",
+  "圍產期",
+  "診斷"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "審查說支援不應等待診斷，在你的服務裡，哪些個案正卡在診斷門檻之外？你會怎樣為他們爭取支援？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.annafreud.org/news/the-fonagy-review-what-should-come-next/",
+   "author_handle": "",
+   "author_name": "Anna Freud",
+   "title": "The Fonagy review: what should come next?",
+   "content": "Anna Freud 五位專家回應英國政府委託的 Fonagy 獨立審查，提出兒童心理健康政策的五項訴求。",
+   "posted_at": "2026-11-10T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-13T01:16:48+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "fonagy-review-what-should-come-next-for-children-mental-heal",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days",
+   "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例",
+   "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
+   "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
+   "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "嬰幼兒心理健康",
+    "親嬰關係",
+    "政策",
+    "英國",
+    "Anna Freud"
+   ],
+   "first_seen_at": "2026-10-01T03:55:02+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.783,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-08-24T00:00:00+00:00"
+  },
+  {
+   "slug": "japan-nationwide-data-asd-and-adhd-diagnosis-trends-2010-202",
+   "title_zh": "日本全國數據：ASD 與 ADHD 新診斷趨勢——女性 ADHD 出現青年期第二高峰",
+   "title_en": "Japan nationwide data: ASD and ADHD diagnosis trends 2010-2023",
+   "summary_zh": "信州大學團隊分析日本國家數據庫（NDB，覆蓋約 99% 人口）2010–2023 年度的新診斷記錄：自閉症譜系（ASD）1,621,682 人、ADHD 1,483,470 人，以 5–9 歲最多。女性 ADHD 自約 2017 年起在 20–24 歲出現第二個診斷高峰，2020 年起接近兒童期高峰；成人則自 2013–14 年度起 ADHD 診斷數超越 ASD。研究團隊強調，增加的是「接受診斷的人數」，不是特性本身變多；日本的支援與合理調整多以正式診斷為前提。",
+   "summary_en": "A Shinshu University team analysed Japan's National Database (NDB, covering about 99% of the population) for new diagnoses in fiscal 2010-2023: 1,621,682 people with ASD and 1,483,470 with ADHD, peaking at ages 5-9. Among females, a second ADHD diagnosis peak at ages 20-24 emerged around 2017 and approached the childhood peak from 2020; among adults, ADHD diagnoses have exceeded ASD since 2013-14. The authors stress this is growth in people receiving diagnoses, not in the traits themselves, and note that support and accommodations in Japan generally require a formal diagnosis.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "ADHD",
+    "自閉症",
+    "診斷趨勢",
+    "日本",
+    "SEN"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-20T00:00:00+00:00"
+  },
+  {
+   "slug": "nas-responds-to-uta-frith-on-autism-diagnosis",
+   "title_zh": "自閉症診斷是否過度擴張？英國自閉症協會回應 Uta Frith 新論文",
+   "title_en": "NAS responds to Uta Frith on autism diagnosis",
+   "summary_zh": "認知心理學家 Uta Frith 在《Psychological Medicine》發表〈自閉症譜系障礙：是否已失去意義並導致誤診？〉，質疑現行診斷範圍過寬。英國自閉症協會回應，診斷增加反映社會認識提升，所提亞型仍屬理論、缺乏臨床應用價值，並提醒不要讓自閉症人士互相對立。",
+   "summary_en": "Uta Frith's paper in Psychological Medicine questions whether the autism spectrum diagnosis has lost meaning and drives misdiagnosis. The NAS responds that rising diagnoses reflect awareness, that proposed subtypes remain theoretical, and warns against pitting autistic people against each other.",
+   "category": "評估與篩檢",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "特殊教育需要",
+    "兒童心理",
+    "自閉症",
+    "診斷爭議",
+    "Uta Frith",
+    "英國"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.782,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-04T00:00:00+00:00"
+  }
+ ],
+ "evidence_quote": "should not be contingent on diagnosis",
+ "page_date": "2026-11-10"
+}

@@ -1,0 +1,39 @@
+/* ClinicMind Visual Identity v1.1 | brand tokens and safe migration aliases */
+:root {
+  --cm-forest-deep: #244A42;
+  --cm-forest: #2F5D56;
+  --cm-sage: #89A49C;
+  --cm-clay: #C19875;
+  --cm-cream: #F2F0EB;
+  --cm-paper: #F7F5F0;
+  --cm-ink: #233D37;
+  --cm-ink-secondary: #536A62;
+  --cm-border: #D9D7D0;
+  --cm-mist: #EDF0EB;
+  --cm-white: #FFFFFF;
+  --cm-accent-text: #875E3F;
+  --cm-font-body: "Noto Sans TC", "Noto Sans CJK TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  --cm-font-display: "Noto Serif TC", "Noto Serif CJK TC", serif;
+  --cm-font-latin: Georgia, serif;
+  --cm-space-1: 4px;
+  --cm-space-2: 8px;
+  --cm-space-3: 12px;
+  --cm-space-4: 16px;
+  --cm-space-6: 24px;
+  --cm-space-8: 32px;
+  --cm-radius-card: 12px;
+  --cm-radius-pill: 999px;
+}
+/* Optional migration layer for the existing public site: apply only after visual QA. */
+.cm-theme {
+  --primary-color: var(--cm-forest);
+  --primary-text: var(--cm-forest-deep);
+  --secondary-color: var(--cm-cream);
+  --text-dark: var(--cm-ink);
+  --text-light: var(--cm-ink-secondary);
+  --accent-color: var(--cm-clay);
+  --accent-text: var(--cm-accent-text);
+  --white: var(--cm-white);
+}
+.cm-theme :where(a, button, input, textarea, select):focus-visible { outline: 3px solid var(--cm-forest-deep); outline-offset: 3px; }
+@media (prefers-reduced-motion: reduce) { .cm-theme * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; } }

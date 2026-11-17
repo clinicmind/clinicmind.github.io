@@ -1,0 +1,161 @@
+{
+ "title_zh": "高錕中大「腦智同護」先導計劃：AI 視網膜篩查識別高風險長者，認知評估「逆齡」三歲",
+ "title_en": "CUHK Beat AD dementia prevention AI retinal screening pilot results",
+ "summary_zh": "中大醫學院與高錕慈善基金公布「腦智同護」先導成果，AI 視網膜影像在 831 名認知功能正常長者中識出約 21% 較高阿茲海默症風險者。接受一年個人化腦健康管理者認知評分改善，水平接近年輕約三歲人士。計劃 2027 年 1 月起落戶黃大仙，兩年內為 2,700 名長者提供免費腦健康評估。",
+ "summary_en": "The Chinese University of Hong Kong (November 3, 2026) reports encouraging pilot results from its Beat AD dementia-prevention programme with the Charles K. Kao Foundation: AI retinal imaging flagged about 21% of 831 cognitively normal community participants as higher risk for Alzheimer's disease. After one year of personalised brain-health management, participants' cognitive scores improved to a level close to people about three years younger. The programme expands to Wong Tai Sin from January 2027, aiming to serve 2,700 older adults over two years.",
+ "category": "評估與篩檢",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "大學新聞稿報導的先導計劃成果（非同行評審論文）",
+ "ethics_flags": [
+  {
+   "flag": "篩查與標籤風險",
+   "note": "AI 篩查陽性者須有跟進輔導與轉介安排，避免標籤與不必要的焦慮；視網膜影像屬健康數據，收集與保存須有明確同意。",
+   "refs": [
+    "倫理與風險｜篩查私隱"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "大學新聞稿，非同行評審論文；「逆齡三歲」為認知評分比較的通俗說法；計劃 2027 年 1 月才於黃大仙推行。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "831 名參加者中約 21% 經 AI 視網膜影像篩查呈陽性",
+  "532 人一年跟進：個人化管理組腦健康評分平均改善 1.3 分，對照組 0.2 分",
+  "2027 年 1 月起於黃大仙推行，對象為 60–79 歲未確診認知障礙症的區內居民"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "認知障礙症",
+  "AI 篩查",
+  "視網膜影像",
+  "長者",
+  "預防"
+ ],
+ "population": [
+  "長者",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "AI 視網膜篩查識出高風險長者，你會如何向篩查陽性者解釋結果，同時避免不必要的焦慮？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.cpr.cuhk.edu.hk/tc/press/cuhk-and-charles-k-kao-foundation-expand-beat-ad-dementia-prevention-programme-to-community-following-encouraging-pilot-results/",
+   "author_handle": "",
+   "author_name": "香港中文大學",
+   "title": "高錕中大「腦智同護」先導計劃成效理想 參加者認知評估「逆齡」三歲 將認知障礙症預防服務擴展至社區 首站落戶黃大仙 目標兩年惠及2,700長者",
+   "content": "中大醫學院與高錕慈善基金公布「腦智同護」認知障礙症預防先導計劃成果，並宣布擴展至社區。",
+   "posted_at": "2026-11-03T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-13T01:16:48+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "cuhk-beat-ad-dementia-prevention-ai-retinal-screening-pilot",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "bilingualism-delays-dementia-symptom-onset-meta-analysis",
+   "title_zh": "研究：雙語者失智症狀平均晚 3.45 年出現，但未證可預防失智（統合分析）",
+   "title_en": "Bilingualism delays dementia symptom onset meta-analysis",
+   "summary_zh": "《Aging, Neuropsychology, and Cognition》2026 年刊出的首個貝葉斯統合分析，綜合 18 項發病年齡研究與 6 項發生率研究，探討雙語能力與失智症的關係。18 項發病年齡研究的結果顯示，雙語者出現失智症狀的年齡平均比單語者晚 3.45 年（95% 可信區間 2.8 至 4.1 年），結果只受教育年數輕微影響。但 6 項發生率研究未提供雙語可預防失智的穩健證據：雙語可能延後症狀出現，不等於預防失智。",
+   "summary_en": "The first Bayesian meta-analysis on bilingualism and dementia (Aging, Neuropsychology, and Cognition, 2026) pooled 18 age-at-onset studies and six incidence-rate studies. Across the 18 onset studies, bilinguals were on average 3.45 years older than monolinguals at symptom onset (95% credible interval 2.8 to 4.1 years), only slightly influenced by years of education. The six incidence studies did not provide robust evidence for a preventive effect: bilingualism may delay symptom onset but has not been shown to prevent dementia.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "雙語",
+    "失智症",
+    "認知儲備",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-11-04T13:30:00+00:00",
+   "evidence_level": 4,
+   "population": [
+    "長者",
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
+  {
+   "slug": "psychological-risk-protection-and-support-in-dementia",
+   "title_zh": "心理因素與失智風險：憂鬱焦慮反覆負向思考屬風險，盡責與人生目標具保護作用",
+   "title_en": "Psychological risk protection and support in dementia",
+   "summary_zh": "Marchant 等人發表觀點文章，重提「心理負債」概念。憂鬱、焦慮、反覆負向思考、孤獨與神經質與阿茲海默症及相關失智症風險相關；盡責與人生目標則具保護作用。作者強調這是選擇性綜述，並提出抗力與韌性機制框架。",
+   "summary_en": "Marchant and colleagues argue in a Nature Mental Health perspective that psychological characteristics are a meaningful part of the dementia puzzle. Depression, anxiety, repetitive negative thinking, loneliness and neuroticism are associated with higher risk of Alzheimer's and related dementias, while conscientiousness and purpose in life appear protective. The authors frame mechanisms around resistance and resilience, and note the review is selective.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "失智症",
+    "心理風險因素",
+    "長者"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "長者",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "slug": "macao-dementia-month-and-cognitive-assessment-figures",
+   "title_zh": "澳門世界失智症月：衛生中心年做逾 3,000 宗認知評估",
+   "title_en": "Macao dementia month and cognitive assessment figures",
+   "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。",
+   "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.",
+   "category": "評估與篩檢",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "澳門",
+    "失智症",
+    "認知評估",
+    "長者",
+    "衛生局"
+   ],
+   "first_seen_at": "2026-09-30T22:41:42+00:00",
+   "evidence_level": 0,
+   "population": [
+    "長者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.387,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-20T00:00:00+00:00"
+  }
+ ],
+ "evidence_quote": "在831名認知功能正常的社區參加者中，約21%透過AI視網膜影像篩查中呈陽性。",
+ "page_date": ""
+}

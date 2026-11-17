@@ -1,0 +1,157 @@
+{
+ "title_zh": "青協調查：56.5% 中學生有抑鬱表徵，45.6% 曾向 AI 傾訴心事",
+ "title_en": "HKFYG survey: 56.5% of secondary students show depressive symptoms, 45.6% confide in AI",
+ "summary_zh": "香港青年協會「中學生開學適應調查2026」以網上問卷訪問 5,469 名中一至中六學生。CES-D 量表達 16 分或以上者佔 56.5%，平均 18.2 分，中六最高（20.2 分）。45.6% 學生表示經常或有時向 AI 工具傾訴心事，高於老師（35.0%）與社工、輔導員或醫生（22.2%）；但認為 AI 有幫助者只有 46.9%，低於朋友（75.8%）、家人（64.9%）與老師（57.8%）；85.9% 認同重要事情仍需向真人求助。",
+ "summary_en": "The Hong Kong Federation of Youth Groups' 2026 school-adjustment survey collected 5,469 online responses from Secondary 1-6 students. 56.5% scored at or above the CES-D cut-off of 16 (mean 18.2; highest in Secondary 6 at 20.2). 45.6% said they often or sometimes confide in AI tools, more than teachers (35.0%) or social workers, counsellors and doctors (22.2%); yet only 46.9% found AI helpful, below friends (75.8%), family (64.9%) and teachers (57.8%). 85.9% agreed important matters still need a real person.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "機構調查（香港青年協會，2026-10-22 公布），經 SuperPAMA 2026-10-23 報道核對數字",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "學生向 AI 傾訴的比例已高於向專業人員，但自評 AI 有幫助的比例最低；前線需主動詢問學生使用 AI 的情況，及早補位。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "CES-D 是篩檢量表，高於切分點不等於臨床抑鬱診斷；網上自填問卷有自我選擇偏差。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：5,469 名中一至中六學生網上問卷（2026 年 9–10 月）",
+  "CES-D ≥16 分佔 56.5%，平均 18.2 分，中六最高 20.2 分；開學壓力平均 5.9/10 分",
+  "45.6% 經常或有時向 AI 傾訴心事，高於老師 35.0%、社工／輔導員／醫生 22.2%",
+  "認為有幫助：朋友 75.8%、家人 64.9%、老師 57.8%、AI 46.9%（最低）",
+  "85.9% 認同重要事情仍需向真人求助"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "抑鬱篩檢",
+  "青少年",
+  "AI傾訴",
+  "香港"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "學生說「我有同 AI 講」時，你會如何跟進他講了甚麼、AI 如何回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://superpama.hk/posts/secondary-students-depression-survey-2026",
+   "author_handle": "",
+   "author_name": "SuperPAMA 親子網",
+   "title": "中學生抑鬱｜青協調查：56.5%有抑鬱表徵 45.6%曾向AI傾訴心事",
+   "content": "報道青協「中學生開學適應調查2026」主要數字，包括抑鬱表徵比例與向 AI 傾訴的情況。",
+   "posted_at": "2026-10-23T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "hkfyg-survey-56-5-of-secondary-students-show-depressive-symp",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "caritas-cuhk-survey-66-of-upper-primary-students-say-too-man",
+   "title_zh": "明愛與中大調查：66% 高小學生認為評核過多，經常感到壓力",
+   "title_en": "Caritas-CUHK survey: 66% of upper primary students say too many assessments",
+   "summary_zh": "香港明愛與中文大學社會工作學系的「香港兒童主觀幸福感與家庭因素之研究」於 2025 年 10 月至 2026 年 4 月收集逾 5,200 名小四至小六學生問卷。66% 認為校內評核及考試過多，經常感到壓力；59.4% 表示難以接受突發事情並對未來感到擔憂。研究團隊提出「希望悖論」：孩子在競爭制度下壓低期望以免失望；家長帶著失望情緒說「盡力就好」，反而成為軟性壓力。",
+   "summary_en": "A Caritas Hong Kong and Chinese University social-work study surveyed over 5,200 Primary 4-6 students (Oct 2025-Apr 2026). 66% said school assessments and exams were excessive and left them often stressed; 59.4% struggled with unexpected events and worried about the future. The team describes a 'hope paradox': children lower their expectations to avoid disappointment, while parents' disappointed tone behind 'just try your best' can become soft pressure.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "學童壓力",
+    "評核",
+    "香港",
+    "親子"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-25T00:00:00+00:00"
+  },
+  {
+   "slug": "uk-children-ai-chatbot-use-for-emotional-support-survey-barn",
+   "title_zh": "英國調查：43% 受訪兒童曾用 AI 聊天機器人求情緒支援",
+   "title_en": "UK children AI chatbot use for emotional support survey Barnardos NCPS",
+   "summary_zh": "Barnardo's 與英國國家輔導與心理治療學會調查 2,000 名 11–17 歲英國兒童。43% 曾用 AI 聊天機器人或心理健康 App 求情緒支援；40% 過去一年曾嘗試求助專業支援，其中只有 27% 表示及時獲得所需幫助；57% 認為 AI 聊天機器人無法提供同理心。",
+   "summary_en": "Barnardo's and the National Counselling and Psychotherapy Society (NCPS) jointly commissioned a survey of 2,000 UK children aged 11-17 (conducted April-May 2026) for their report 'Filling the Gap? Young People's Use of AI for Mental Health Support'. 43% had used an AI chatbot or mental health app for emotional support or advice; 40% had tried to access professional support in the past year, of whom only 27% got the help they needed when they needed it; 57% said AI chatbots cannot provide empathy.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "AI 支援",
+    "英國"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "slug": "why-teens-turn-to-ai-for-emotional-support",
+   "title_zh": "青少年為何找 AI 傾訴：不想對朋友「情緒傾倒」、覺得 AI 不會評判",
+   "title_en": "Why teens turn to AI for emotional support",
+   "summary_zh": "Brown 大學臨床心理學家 Jacqueline Nesi 在電子報整理 Hopelab 與哈佛 Center for Digital Thriving 的訪談報告：青少年向 AI 尋求情緒支持，是因為不想對朋友「trauma dump（情緒傾倒）」、覺得 AI 不會評判，而且隨時可用。同期也整理一篇使用 ABCD 資料的研究，發現成癮式社群媒體使用與家長回報的 ADHD 症狀有小幅關聯，Nesi 提醒不能推論因果。",
+   "summary_en": "Clinical psychologist Jacqueline Nesi summarizes a Hopelab and Harvard Center for Digital Thriving interview report: teens turn to AI for emotional support to avoid 'trauma dumping' on friends, because AI feels non-judgmental, and because it is always available. She also covers an ABCD-based study linking addictive social media use to small increases in parent-reported ADHD symptoms, cautioning against causal claims.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "青少年",
+    "AI情緒支持",
+    "自我揭露",
+    "ADHD",
+    "社群媒體"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.15,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-03T00:00:00+00:00"
+  }
+ ]
+}

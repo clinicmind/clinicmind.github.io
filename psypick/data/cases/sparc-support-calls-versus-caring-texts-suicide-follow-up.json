@@ -1,0 +1,185 @@
+{
+ "title_zh": "RCT：自殺風險篩查陽性後跟進，成人宜電話、青少年長遠宜短訊（1,520 人）",
+ "title_en": "SPARC support calls versus caring texts suicide follow-up",
+ "summary_zh": "American Journal of Psychiatry 刊出 SPARC 實用隨機試驗，比較自殺風險篩查陽性後兩種跟進方式：實務支援電話（Instrumental Support Calls）與關懷短訊（Caring Contacts Texts）。研究在 9 間急症室與 36 間基層診所招募 723 名 12 至 17 歲青少年與 797 名 18 歲以上成人，兩組均在常規照顧上加跟進。主要結果（六個月自殺意念與行為分數）顯示，成人用電話較短訊低（調整平均差 0.50）；青少年在六個月時兩組相近，到 12 個月時短訊組較低（調整平均差 −0.64）。PCORI 摘要補充，短訊組青少年在 6 至 12 個月間自殺企圖少 2.5 倍。作者結論：最合適的跟進方式可能因年齡而異。研究由美國病人為本結果研究所（PCORI）資助。",
+ "summary_en": "The American Journal of Psychiatry published the SPARC pragmatic randomised trial comparing two follow-up approaches after a positive suicide-risk screen: instrumental support calls versus two-way Caring Contacts text messages. Across 9 emergency departments and 36 primary care clinics, 723 adolescents aged 12-17 and 797 adults aged 18 and over were randomised, with both arms added to usual care. At the primary 6-month time point, adults had lower suicidal ideation and behaviour scores with calls than with texts (adjusted difference in means 0.50); adolescents were similar at 6 months, but at 12 months their scores were lower with texts (adjusted difference -0.64). The PCORI summary adds that adolescents receiving texts reported 2.5 times fewer suicide attempts between 6 and 12 months. The authors conclude that the best follow-up care may vary by age. The trial was funded by the US Patient-Centered Outcomes Research Institute (PCORI).",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "實用隨機對照試驗（American Journal of Psychiatry 2026-10-28 線上刊出；DOI: 10.1176/appi.ajp.20260157；PMID: 42946687；經 PsychHQ 每週摘要與 PCORI 研究摘要核實；期刊原文頁回應 403，未重試）",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "試驗比較自殺風險篩查陽性後的跟進方式；跟進方式因年齡而異，但臨床須確保危機個案有即時真人求助渠道，不可只靠短訊跟進。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "兩組均在常規照顧上加跟進，未設「只得常規照顧」對照，不能證明跟進本身有效；摘要未列量表分數範圍，0.50 與 0.64 分差異的臨床意義未能判斷；摘要未列自殺企圖、死亡、住院的絕對數字與不良事件，亦未列資助與保留率；青少年 12 個月結果屬次要結果；樣本以白人為主；兩種跟進的內容、頻次、執行者未在摘要詳述。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：723 名青少年（12–17 歲，平均 14.9 歲，75% 女性）與 797 名成人（18 歲以上，平均 38.3 歲，70% 女性）；9 間急症室與 36 間基層診所；2021 年 5 月至 2022 年 7 月招募",
+  "設計：實用隨機對照試驗，按年齡分層，1:1 分配；兩組均先獲安全計劃，再加電話或短訊跟進；由當地危機熱線職員執行",
+  "主要結果：六個月 Columbia 自殺嚴重程度量表自殺意念與行為分數；成人短訊組較電話組高，調整平均差 0.50（95% CI 0.12–0.88）；青少年六個月時兩組相近",
+  "次要結果：12 個月時青少年短訊組較電話組低，調整平均差 −0.64（95% CI −1.11 至 −0.18）；成人 12 個月時兩組相近",
+  "PCORI 摘要：短訊組青少年在 6 至 12 個月間自殺企圖少 2.5 倍；電話組成人首六個月孤獨感較低；使用精神健康服務與因自殺念頭重返急症室的比率，兩組無差異",
+  "資助：美國病人為本結果研究所（PCORI，項目 Radin472）；通訊作者 Comtois（華盛頓大學）"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "自殺預防",
+  "跟進照顧",
+  "短訊",
+  "電話",
+  "青少年"
+ ],
+ "population": [
+  "兒童青少年",
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "急症室篩查陽性的青少年出院後，你會如何決定用電話定短訊跟進，而又唔誇大呢次試驗嘅次要結果？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1176/appi.ajp.20260157",
+   "author_handle": "",
+   "author_name": "Radin 等（St. Luke's Health System）",
+   "title": "Instrumental Support Calls vs. Caring Contacts Texts to Prevent Suicide in Adolescents and Adults: The SPARC Randomized Clinical Trial (American Journal of Psychiatry; DOI: 10.1176/appi.ajp.20260157)",
+   "content": "期刊論文：自殺風險篩查陽性後，實務支援電話對照關懷短訊的隨機試驗，1,520 人。",
+   "posted_at": "2026-10-28T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-10T13:28:11+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "sparc-support-calls-versus-caring-texts-suicide-follow-up",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "safety-planning-for-youth-suicide-prevention-free-online-tra",
+   "title_zh": "青少年自殺防治安全計劃（SPRC 免費線上培訓，1 CE）",
+   "title_en": "Safety Planning for Youth Suicide Prevention - Free Online Training",
+   "summary_zh": "自殺防治資源中心（SPRC）經由 Zero Suicide 平台提供的免費自學式線上培訓，教授 Stanley-Brown 安全計劃介入法，學習與青少年及其家庭／支持者合作制定降低風險的計劃。可獲美國社工協會（NASW）1 小時繼續教育學分。",
+   "summary_en": "Free self-paced SPRC / Zero Suicide training on the Stanley-Brown safety planning intervention for youth, with 1 NASW CE hour.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "自殺防治",
+    "青少年",
+    "安全計劃",
+    "免費培訓"
+   ],
+   "first_seen_at": "2026-10-03T01:09:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-03T01:09:46+00:00",
+   "training": {
+    "provider": "Suicide Prevention Resource Center（SPRC）／Zero Suicide Institute",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "one hour of continuing education from the National Association of Social Workers",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "",
+    "format": "線上自學"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "youth-self-harm-and-service-contact-before-suicide",
+   "title_zh": "青少年自傷：把每次接觸服務變成照護機會——英國 544 名自殺身亡青少年資料",
+   "title_en": "Youth self-harm and service contact before suicide",
+   "summary_zh": "ACAMH 部落格評介英國全國連續案例系列研究（Aggarwal 等，British Journal of Psychiatry, 2025）：544 名 10–19 歲自殺身亡者中 49% 有自傷紀錄、26% 有近期自傷；近期自傷者中 60% 在死亡前三個月內曾接觸心理健康服務，95% 經歷近期逆境。另有 51% 沒有自傷紀錄。作者建議評估不只看自傷行為，也要看關係、安全與環境壓力，並提供協調的個別化照護與 48 小時內的後續追蹤。",
+   "summary_en": "An ACAMH blog reviews a UK consecutive case series (Aggarwal et al., British Journal of Psychiatry, 2025) of 544 young people aged 10–19 who died by suicide: 49% had a self-harm history and 26% recent self-harm; among those with recent self-harm, 60% had contact with mental health services in the prior three months and 95% had recent adversity, while 51% had no recorded self-harm. The author urges broader assessment of relationships, safety and stressors, coordinated care and 48-hour follow-up.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "青少年",
+    "自傷",
+    "自殺預防",
+    "後續照護"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.43,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-21T00:00:00+00:00"
+  },
+  {
+   "slug": "talk-to-me-improving-mental-health-and-suicide-prevention-in",
+   "title_zh": "「跟我談談」：青少年心理健康促進與自殺預防",
+   "title_en": "'Talk to me': Improving mental health and suicide prevention in young adults",
+   "summary_zh": "澳洲科廷大學在 edX 的 6 週課程（德澳合作、經科學評估），教導如何辨識與回應青少年的心理健康危機、自傷與自殺風險，後四個模組專為家長、教師、基層醫療與心理健康專業等「守門人」設計。免費旁聽，適合臨床工作者、家長與教師。",
+   "summary_en": "A 6-week Curtin University edX course (German-Australian collaboration) on recognising and responding to mental health challenges and suicide risk in young adults, aimed at parents, teachers and health professionals as gatekeepers.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "青少年心理健康",
+    "自殺預防",
+    "守門人訓練",
+    "免費旁聽",
+    "edX"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "edX / Curtin University",
+    "price": "Free（免費）；頁面原文 Optional upgrade available",
+    "price_tier": "免費",
+    "ce_credits": "無（頁面未提及）",
+    "language": "英文（另有德文版）",
+    "deadline": "",
+    "event_date": "隨選（頁面顯示 There is one session available: Starts Nov 7）",
+    "format": "線上自定進度（6 週）"
+   },
+   "deadline_soon": false
+  }
+ ],
+ "evidence_quote": "follow-up care may vary by age, with",
+ "page_date": "2026-10-28"
+}

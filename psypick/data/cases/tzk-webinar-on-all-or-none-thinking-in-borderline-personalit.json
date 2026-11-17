@@ -1,0 +1,208 @@
+{
+ "title_zh": "邊緣型人格障礙的「全有或全無」現象（TZK Seminars 直播，1.5 CE）",
+ "title_en": "TZK webinar on all-or-none thinking in borderline personality disorder",
+ "summary_zh": "TZK Seminars 於 2026 年 10 月 28 日（UTC 14:00–15:30）舉辦直播網上研討會，由 Keith Hannan 博士從心理動力與認知行為角度解析邊緣型人格障礙的「全有或全無」現象，並談治療者面對這類個案時的反應。費用 49 美元，提供 1.5 個 CE。",
+ "summary_en": "TZK Seminars hosts a 90-minute live webinar on Oct 28, 2026 (14:00–15:30 UTC) in which Keith Hannan, PhD examines the all-or-none phenomenon in borderline personality disorder from psychodynamic and CBT perspectives, including therapists' reactions to these clients. It costs US$49 for 1.5 CEs.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程資訊，非研究證據。",
+ "ethics_flags": [],
+ "psych_concepts": [
+  {
+   "name": "治療同盟",
+   "note": "課程討論治療者對 BPD 個案的反應，與同盟破裂與修復相關。",
+   "ref": "概念｜治療同盟"
+  }
+ ],
+ "caution": "頁面未寫明 CE 由哪些機構認可，港台心理師報名前應確認能否計入所屬學會或公會的進修時數。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "10/28（三）UTC 14:00–15:30 直播",
+  "US$49，1.5 CE",
+  "心理動力與認知行為兩種觀點並陳，附臨床例子",
+  "頁面未列 CE 認證機構與程度"
+ ],
+ "brief_en": [
+  "Live Oct 28, 14:00–15:30 UTC",
+  "US$49 for 1.5 CEs",
+  "Psychodynamic and CBT perspectives",
+  "Approving bodies not listed"
+ ],
+ "model_names": [],
+ "tags": [
+  "邊緣型人格障礙",
+  "心理動力",
+  "認知行為治療",
+  "反移情"
+ ],
+ "population": [
+  "臨床工作者",
+  "成人"
+ ],
+ "supervision_questions": [
+  "面對個案把你從「最好的治療師」變成「最差的治療師」時，你的內在反應是甚麼？",
+  "你會如何把「全有或全無」的模式轉化成治療中可以討論的素材？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "TZK Seminars",
+  "format": "線上直播",
+  "price": "$49.00",
+  "price_tier": "低價",
+  "ce_credits": "1.5 CEs",
+  "language": "英文",
+  "event_date": "2026-10-28",
+  "deadline": "",
+  "audience_level": "心理健康專業人員",
+  "topic": "邊緣型人格障礙的「全有或全無」現象",
+  "signup_url": "https://www.tzkseminars.com/003146/"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.tzkseminars.com/003146/",
+   "author_handle": "",
+   "author_name": "TZK Seminars",
+   "title": "The All-or-None Phenomenon in Borderline Personality Disorder (1.5 CE's)",
+   "content": "TZK Seminars 的 90 分鐘直播網上研討會，由 Keith Hannan 博士從心理動力與認知行為觀點談邊緣型人格障礙的「全有或全無」現象，並討論治療者對這類個案的反應。費用 49 美元，1.5 個 CE。",
+   "posted_at": "2026-09-30T13:03:54+00:00"
+  }
+ ],
+ "first_seen_at": "2026-09-30T13:03:54+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "tzk-webinar-on-all-or-none-thinking-in-borderline-personalit",
+ "featured_at": null,
+ "hot_score": 1.0,
+ "tier": "archive",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "understanding-anxiety-depression-and-cbt",
+   "title_zh": "認識焦慮、憂鬱與認知行為治療",
+   "title_en": "Understanding Anxiety, Depression and CBT",
+   "summary_zh": "英國瑞汀大學在 FutureLearn 的 5 週課程，由臨床心理學家 Shirley Reynolds 主講，講解焦慮與憂鬱的成因，以及實證治療 CBT 的原理與應用。免費旁聽，約 16.8 萬人註冊，適合臨床工作者複習 CBT 基礎，也適合家長教師增進心理健康素養。",
+   "summary_en": "A 5-week University of Reading FutureLearn course led by clinical psychologist Shirley Reynolds, explaining anxiety and depression and how CBT — an evidence-based treatment — works.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "焦慮",
+    "憂鬱",
+    "認知行為治療",
+    "免費旁聽",
+    "FutureLearn"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "FutureLearn / University of Reading",
+    "price": "免費旁聽（Class Central 原文 Cost: Free to audit, Price: 0 USD）；證書需付費（Certificate: Paid）",
+    "price_tier": "免費",
+    "ce_credits": "無（頁面未提及）",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "隨選",
+    "format": "線上隨選（5 週）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "depression-and-low-mood-in-young-people",
+   "title_zh": "青少年憂鬱與低落情緒：辨識與協助",
+   "title_en": "Depression and low mood in young people",
+   "summary_zh": "瑞汀大學在 FutureLearn 的 5 週課程，專為憂鬱青少年的家長、教師與基層醫療人員設計，教導辨識青少年憂鬱徵兆、區分低落情緒與憂鬱症，並運用 CBT 策略（行為活化、挑戰負向思考）與改善家庭溝通。免費旁聽，逾 6.1 萬人註冊，獲 CPD 認證可作持續專業發展證明。",
+   "summary_en": "A 5-week University of Reading FutureLearn course teaching parents, teachers and primary care professionals to recognise adolescent depression and low mood, and to use CBT-based strategies and better family communication to help.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "青少年憂鬱",
+    "親職",
+    "教師",
+    "認知行為治療",
+    "免費旁聽",
+    "FutureLearn"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "FutureLearn / University of Reading",
+    "price": "免費旁聽（Class Central 原文 Cost: Free to audit）；證書需付費（Certificate: Paid）",
+    "price_tier": "免費",
+    "ce_credits": "可作 CPD 持續專業發展證明（The CPD Certification Service 認證）；非學分制",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "隨選（頁面顯示 Available now）",
+    "format": "線上隨選（5 週）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "tf-cbtweb-2-0-online-trauma-focused-cbt-course",
+   "title_zh": "TF-CBTWeb 2.0：創傷焦點認知行為治療網上課程（US$35、11 CE）",
+   "title_en": "TF-CBTWeb 2.0 online trauma-focused CBT course",
+   "summary_zh": "TF-CBTWeb 2.0 是南卡羅來納醫科大學（MUSC）的創傷焦點認知行為治療網上課程，費用 35 美元，約 11 小時，提供 11 個 CE。課程內容包括心理教育、親職技巧、放鬆、情緒調節、認知因應、創傷敘事、親子聯合會談與安全計畫，另有西班牙文版。",
+   "summary_en": "TF-CBTWeb 2.0 is MUSC's online course in Trauma-Focused CBT. It costs US$35, takes about 11 hours and provides 11 CEs, covering psychoeducation, parenting, relaxation, affect regulation, cognitive coping, trauma narrative, conjoint sessions and safety planning; a Spanish version exists.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "TF-CBT",
+    "兒童創傷",
+    "認知行為治療",
+    "自學課程"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 3.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-30T13:03:54+00:00",
+   "training": {
+    "provider": "Medical University of South Carolina（MUSC）",
+    "price": "$35",
+    "price_tier": "低價",
+    "ce_credits": "11 CEs",
+    "language": "英文（另有西班牙文版）",
+    "deadline": "",
+    "event_date": "",
+    "format": "自學（網上課程）"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

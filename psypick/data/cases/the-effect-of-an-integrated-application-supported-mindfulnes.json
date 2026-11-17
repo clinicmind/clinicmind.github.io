@@ -1,0 +1,69 @@
+{
+ "title_zh": "RCT：應用程式輔助正念認知課程減輕有非自殺自傷行為青少年的抑鬱（泰國，96 人）",
+ "title_en": "The effect of an integrated application-supported mindfulness-based cognitive therapy programme on depression among adolescents with non-suicidal self-injury",
+ "summary_zh": "British Journal of Clinical Psychology 2026 年刊出隨機對照試驗，在泰國兩間公立中學進行。兩間學校隨機分配至介入組或常規照顧對照組，合資格參加者按性別與基線抑鬱嚴重程度配對，每組 48 人，共 96 人。介入為每週一次、每次 60 分鐘、共八週的混合式（學校面授加應用程式支援）正念認知治療（MBCT）課程，於基線、介入後兩週及一個月後以重複量數變異數分析評估。結果顯示時間與組別有顯著交互作用（F(1.73, 162.17) = 62.59，p < .001，ηp² = .40），介入組抑鬱症狀分數整體較低。研究以非自殺自傷行為（NSSI）界定目標群體，並非治療結果，因此不能推論對自傷行為本身的效果。",
+ "summary_en": "The British Journal of Clinical Psychology (2026) published a randomised controlled trial in two public secondary schools in Thailand. The schools were randomly allocated to the intervention or usual-care control condition, with eligible participants pair-matched by sex and baseline depressive symptom severity (n = 48 per group, 96 total). The intervention was a blended school-based and application-supported mindfulness-based cognitive therapy (MBCT) programme, delivered once a week for 60 minutes over eight weeks, evaluated at baseline, two weeks post-intervention and one-month follow-up using repeated-measures ANOVA. There was a significant time-by-group interaction (F(1.73, 162.17) = 62.59, p < .001, ηp² = .40), with lower depressive symptom scores overall in the intervention group. Non-suicidal self-injury (NSSI) defined the target population and was not a treatment outcome, so effects on NSSI itself cannot be interpreted.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "隨機對照試驗（British Journal of Clinical Psychology，2026 年；96 人，泰國兩間公立中學；DOI: 10.1111/bjc.70101；經期刊摘要與朱拉隆功大學論文摘要核實）",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "研究對象為有非自殺自傷行為的青少年；NSSI 只作分組定義，未評估對自傷行為本身的效果，引用時不可把此課程說成自傷介入，臨床跟進仍需常規自傷風險評估。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "開放標籤試驗，以學校為單位隨機分配，僅兩間學校；樣本小（96 人）、追蹤僅一個月；NSSI 未作治療結果量度；泰國公立中學場景，推廣至其他地區須小心。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：泰國兩間公立中學，有非自殺自傷行為的青少年 96 人，按性別與基線抑鬱嚴重程度配對，每組 48 人",
+  "方法：開放標籤雙臂隨機對照試驗，以學校為單位隨機分配；介入為每週一次、每次 60 分鐘、共八週的混合式 MBCT 課程（學校面授加應用程式支援）；基線、介入後兩週及一個月後評估",
+  "主要結果：時間與組別交互作用顯著，F(1.73, 162.17) = 62.59，p < .001，ηp² = .40；介入組抑鬱症狀分數整體較低",
+  "限制：開放標籤、僅兩間學校、樣本小、追蹤僅一個月；NSSI 只作分組定義，未評估對自傷行為本身的效果"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "正念認知治療",
+  "MBCT",
+  "非自殺自傷",
+  "抑鬱",
+  "青少年",
+  "隨機對照試驗"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "有自傷行為的青少年個案問「做正念係咪就唔會再自傷」，你會如何說明此研究的結果與限制？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1111/bjc.70101",
+   "author_handle": "",
+   "author_name": "Jantarapakdee、Upasen、Uthis、Kwok",
+   "title": "The effect of an integrated application-supported mindfulness-based cognitive therapy programme on depression among adolescents with non-suicidal self-injury: A randomized controlled trial (Br J Clin Psychol 2026; DOI: 10.1111/bjc.70101)",
+   "content": "泰國 96 人 RCT：應用程式輔助 MBCT 課程減輕有非自殺自傷行為青少年的抑鬱症狀；NSSI 未作治療結果。",
+   "posted_at": "2026-11-12T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-17T13:32:16+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "the-effect-of-an-integrated-application-supported-mindfulnes",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

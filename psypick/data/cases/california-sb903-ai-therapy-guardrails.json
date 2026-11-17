@@ -1,0 +1,177 @@
+{
+ "title_zh": "加州 SB 903：AI 不得執行心理治療，須由持照人員審核",
+ "title_en": "california-sb903-ai-therapy-guardrails",
+ "summary_zh": "加州 SB 903 法案已通過參眾兩院、待州長簽署，規定 AI 在心理治療中僅能擔任行政與輔助角色，不得執行治療；涉及診斷、治療計畫、情緒狀態偵測、分流或與個案互動的 AI 輸出，須經持照專業人員審核批准，並禁止將聊天機器人宣傳為治療師、錄音或轉錄前須取得個案同意。",
+ "summary_en": "California SB 903 passed both chambers (awaiting the governor's signature as of 23 Sept): AI limited to administrative support, licensed review of AI output touching diagnosis or treatment, no marketing chatbots as therapists, consent before recording or transcription. Secondary source.",
+ "category": "倫理與風險",
+ "kind": "practice",
+ "evidence_level": 0,
+ "evidence_note": "法規報導（二手來源）",
+ "ethics_flags": [
+  {
+   "flag": "專業責任歸屬",
+   "note": "法案要求涉及診斷與治療的 AI 輸出由持照人員審核批准。",
+   "refs": [
+    "專業責任歸屬｜人機協作的責任"
+   ]
+  },
+  {
+   "flag": "知情同意",
+   "note": "錄音或轉錄前須取得個案同意。",
+   "refs": [
+    "APA 3.10｜知情同意"
+   ]
+  }
+ ],
+ "psych_concepts": [
+  {
+   "name": "自動化偏誤",
+   "note": "審核 AI 輸出時容易過度信任結果。",
+   "ref": "概念｜自動化偏誤"
+  }
+ ],
+ "caution": "來源為二手報導，簽署狀態與條文細節請以加州立法機構官方文本為準。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "AI 限於行政與輔助用途，禁止執行心理治療",
+  "涉及診斷、治療計畫、情緒偵測、分流的 AI 輸出須經持照人員審核批准",
+  "禁止將聊天機器人宣傳為治療師",
+  "錄音或轉錄治療會談前須取得個案同意"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "AI 倫理",
+  "法規",
+  "心理治療",
+  "臨床實務"
+ ],
+ "population": [
+  "臨床工作者",
+  "成人"
+ ],
+ "supervision_questions": [
+  "診所使用 AI 逐字稿或摘要工具時，個案同意與紀錄保存應如何寫進知情同意？",
+  "若 AI 輸出須由持照人員審核，督導如何界定審核的最低標準與責任？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://grabtheaxe.com/news/california-ai-mental-health-guardrails-boards-ai-oversight-dompe-09-23-2026/",
+   "author_handle": "",
+   "author_name": "The Axe Report",
+   "title": "Guardrails for AI in the Therapy Room (09/23/2026) | The Axe Report",
+   "content": "加州 SB 903 以 71 比 4 通過眾議院（已通過參議院），待州長簽署；法案將 AI 限於行政與輔助用途，禁止 AI 執行治療，要求持照專業人員審核涉及診斷、治療計畫、情緒偵測的 AI 輸出。",
+   "posted_at": "2026-09-23T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-03T01:09:46+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "california-sb903-ai-therapy-guardrails",
+ "featured_at": null,
+ "hot_score": 0.859,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "eu-kids-act-ai-companions-safety-by-design",
+   "title_zh": "歐盟 EU KIDS Act 草案：AI 陪伴機器人須年齡驗證與安全設計",
+   "title_en": "eu-kids-act-ai-companions-safety-by-design",
+   "summary_zh": "歐盟執委會 2026 年 9 月 17 日正式提出 EU KIDS Act 草案，把 AI 伴侶與通用對話機器人納入「social media+」管制範圍，要求年齡驗證與安全設計義務，並防止未成年人對 AI 產生情緒依賴；草案仍須經歐洲議會與成員國協商。",
+   "summary_en": "The European Commission proposed the EU KIDS Act on 17 Sept 2026, bringing AI companions and general chatbots into 'social media+' with age assurance and safety-by-design duties; still to be negotiated.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "AI 倫理",
+    "法規",
+    "青少年心理",
+    "兒童保護"
+   ],
+   "first_seen_at": "2026-10-03T01:09:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.859,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-17T00:00:00+00:00"
+  },
+  {
+   "slug": "five-us-states-restrict-ai-therapy-chatbots-in-2026",
+   "title_zh": "2026 年美國五州立法限制 AI 治療聊天機器人",
+   "title_en": "Five US states restrict AI therapy chatbots in 2026",
+   "summary_zh": "Becker's Behavioral Health 整理 2026 年美國五個州限制 AI 提供心理治療的新法：緬因州禁止 AI 提供治療或心理治療服務，田納西州禁止 AI 系統自稱合格心理健康專業人員，佛蒙特州禁止 AI 系統獨立提供心理健康服務。科羅拉多州與羅德島州除了限制 AI 治療服務，也規範持照專業人員使用 AI 的方式，例如羅德島禁止持照人員以 AI 獨立做治療決策。",
+   "summary_en": "Becker's Behavioral Health lists five US states that enacted laws in 2026 restricting AI therapy: Maine bars AI from providing therapy, Tennessee bars AI systems presenting as qualified mental health professionals, and Vermont bars AI from independently delivering mental health services. Colorado and Rhode Island also limit how licensed professionals may use AI, e.g. Rhode Island bars AI from making independent therapeutic decisions.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "法規",
+    "美國各州",
+    "AI 治療",
+    "聊天機器人",
+    "執業規範"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.759,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-07-28T00:00:00+00:00"
+  },
+  {
+   "slug": "spring-health-vera-mh-harm-from-others",
+   "title_zh": "Spring Health 擴充 VERA-MH 安全基準：新增「來自他人的傷害」評估",
+   "title_en": "spring-health-vera-mh-harm-from-others",
+   "summary_zh": "Spring Health 於 2026 年 9 月 25 日宣布，將開源 AI 心理健康安全基準 VERA-MH 擴充至「來自他人的傷害」領域，評估 AI 系統在成人表示有遭受身體或性暴力風險時的回應能否辨識風險、轉介真人照護並守住 AI 界線。該評分標準與臨床醫師、親密暴力專家及具親身經驗者共同開發，並開放 60 天公眾評論。",
+   "summary_en": "Spring Health extended its open-source VERA-MH safety benchmark to 'harm from others', testing whether AI recognises violence risk, refers to human care and keeps AI boundaries; 60-day public comment. Press release.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [
+    "VERA-MH"
+   ],
+   "tags": [
+    "AI 安全基準",
+    "家庭暴力",
+    "倫理",
+    "開源"
+   ],
+   "first_seen_at": "2026-10-03T01:09:46+00:00",
+   "evidence_level": 1,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.859,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-25T00:00:00+00:00"
+  }
+ ],
+ "evidence_quote": "now awaits Governor Newsom’s signature",
+ "page_date": "2026-09-23"
+}

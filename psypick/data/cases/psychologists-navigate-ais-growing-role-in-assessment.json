@@ -1,0 +1,164 @@
+{
+ "title_zh": "心理學家如何應對 AI 在心理評估中日增的角色",
+ "title_en": "Psychologists navigate AIs growing role in assessment",
+ "summary_zh": "AI 已廣泛用於心理評估報告撰寫，也開始協助產生測驗題目與在真實情境中偵測風險。專家提醒，通用聊天機械人不是 HIPAA 合規工具，不可輸入受保護健康資訊；過度依賴 AI 解讀結果可能導致誤診，作假偵測亦面臨挑戰。美國心理學會心理測驗與評估委員會已發布負責任使用 AI 的報告。",
+ "summary_en": "APA's Monitor on Psychology (November 1, 2026) reports on AI's growing role in psychological assessment: report writing is the most widespread use, while generative psychometrics may adapt tests in real time. Experts warn that general-purpose chatbots are not HIPAA-compliant, must not receive protected health information, and can help test-takers feign symptoms, though validity scales still catch most AI-assisted feigning. APA's Committee on Psychological Tests and Assessment has released a report on responsible AI use in assessment.",
+ "category": "評估與篩檢",
+ "kind": "practice",
+ "evidence_level": 2,
+ "evidence_note": "學會專題報導（專家訪談、心理測驗與評估委員會報告）",
+ "ethics_flags": [
+  {
+   "flag": "測驗安全與私隱",
+   "note": "通用聊天機械人可協助受測者作假，亦非 HIPAA 合規工具；受保護健康資訊不可輸入，報告輸出須經人手審核。",
+   "refs": [
+    "倫理與風險｜測驗安全"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "專題報導非指引原文；CPTA 報告細節須查原文；各機構的 AI 工具政策與私隱安排各異。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "AI 在心理評估中最普遍的用途是協助撰寫報告，專家提醒須審核輸出、揭露使用、不輸入受保護健康資訊",
+  "通用聊天機械人可能助長受測者作假，效度量表目前仍能識別多數 AI 協助的作假者，但防禦未必持久",
+  "生成式心理測量學可用 AI 即時調整測驗題目，但仍須符合信度、效度與文化公平等心理測量標準",
+  "專家認為 AI 訓練已不能視為專科，心理學教育須教導學生負責任地使用 AI"
+ ],
+ "brief_en": [],
+ "model_names": [
+  "ChatGPT",
+  "Claude",
+  "Copilot"
+ ],
+ "tags": [
+  "AI",
+  "心理評估",
+  "倫理",
+  "報告撰寫",
+  "測驗安全"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "當個案的評估報告疑似由 AI 代筆，你會用哪些問題與效度指標去核實？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.apa.org/monitor/2026/11-12/ai-psychological-assessment",
+   "author_handle": "",
+   "author_name": "Zara Abrams（美國心理學會《Monitor on Psychology》）",
+   "title": "Psychologists navigate AI’s growing role in assessment",
+   "content": "美國心理學會 2026 年 11 月專題，探討 AI 如何改變心理評估的報告撰寫、測驗設計與作假偵測，以及相關倫理風險。",
+   "posted_at": "2026-11-01T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-10T01:28:21+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "psychologists-navigate-ais-growing-role-in-assessment",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "state-ai-laws-create-complicated-picture-for-psychologists",
+   "title_zh": "美國各州 AI 法規令心理師進退兩難：過寬立法或封殺已驗證臨床工具",
+   "title_en": "State AI laws create complicated picture for psychologists",
+   "summary_zh": "美國心理學會 10 月 23 日指出，各州針對醫療 AI 的立法寬嚴不一。部分法例保障公眾，例如要求聊天機器人不得冒充持牌專業人員；但另一些法例過寬，可能令心理師無法使用具臨床實證的 AI 工具，例如標示自傷高風險個案的程式，或在會談之間供個案使用的介入程式。截至 2026 年 7 月 30 日，22 個州已通過 33 項醫療 AI 相關法案，其中伊利諾伊州 2025 年的立法成為多州範本，佛蒙特州則經業界倡議修窄了範圍。",
+   "summary_en": "APA reports that far-reaching state AI laws threaten to strictly limit psychologists' use of AI tools, including evidence-based digital therapeutics. As of July 30, 2026, 33 health-care AI bills had been signed into law across 22 states; Illinois' 2025 law has become a model for other states, while Vermont's bill was narrowed after advocacy.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "AI法規",
+    "州法",
+    "執業",
+    "數位治療"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "slug": "apa-health-advisory-on-ai-chatbots-and-wellness-apps",
+   "title_zh": "APA 健康提醒：AI 聊天機器人與身心健康 App 不能取代專業照護",
+   "title_en": "APA health advisory on AI chatbots and wellness apps",
+   "summary_zh": "美國心理學會於 2025 年 11 月發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不應被當作專業心理健康照護的替代品。APA 呼籲避免使用者產生不健康的依賴、為兒童青少年等高風險族群設計特別保護、禁止 AI 冒充持照專業人員，並要求科技公司提高透明度與預設保護隱私。",
+   "summary_en": "In November 2025 the American Psychological Association issued a health advisory stating that generative AI chatbots and wellness apps should not replace professional mental health care. It calls for preventing unhealthy dependence, special protections for youth and other vulnerable groups, a ban on AI impersonating licensed professionals, and greater transparency and privacy by default.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "APA",
+    "健康提醒",
+    "專業組織指引",
+    "AI 聊天機器人",
+    "身心健康 App",
+    "兒少保護"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "一般大眾",
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.139,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2025-11-13T00:00:00+00:00"
+  },
+  {
+   "slug": "fda-clears-neurora-ai-assisted-autism-assessment-tool-for-ch",
+   "title_zh": "FDA 許可 Neurora：協助評估 18 個月至 12 歲兒童自閉症的 AI 工具",
+   "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years",
+   "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。",
+   "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.",
+   "category": "評估與篩檢",
+   "kind": "product",
+   "model_names": [],
+   "tags": [
+    "自閉症",
+    "兒童心理",
+    "評估",
+    "FDA",
+    "AI 工具"
+   ],
+   "first_seen_at": "2026-10-13T02:38:45+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  }
+ ]
+}

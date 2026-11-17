@@ -1,0 +1,150 @@
+{
+ "title_zh": "港大領銜 AI 與新興科技心理健康路線圖",
+ "title_en": "HKU-led roadmap for AI and emerging technologies in mental health",
+ "summary_zh": "港大心理學系 Becker 教授領銜國際團隊發表路線圖，主張結合腦指標、症狀、生活史與社會處境做到個人化治療。對話式 AI 與治療聊天機器人須植根於實證治療取向，現有證據不支持以 AI 取代真人治療或用於高風險管理。",
+ "summary_en": "An HKU-led international team published a roadmap for AI and emerging technologies in mental health care in Psychotherapy and Psychosomatics, arguing for personalised treatment that combines brain markers, symptoms, life history and social context. Conversational AI and therapy chatbots should be grounded in evidence-based approaches; current evidence does not support replacing human therapy or autonomous systems in high-risk management.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊敘述性綜述與路線圖（經 MedicalXpress 報導原文重點）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "路線圖屬專家共識與前瞻建議，不是療效證據；個別主張仍待實證檢驗。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "個人化治療：結合腦指標、症狀、生活史與社會處境",
+  "對話式 AI 與治療聊天機器人須植根於實證治療取向",
+  "現有證據不支持以 AI 取代真人治療或用於高風險管理"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "AI 心理健康",
+  "個人化治療",
+  "路線圖"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "把「個人化」落到本地服務時，腦指標、生活史與社會處境三者，我們現時實際量度到幾多？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://medicalxpress.com/news/2026-10-outlines-comprehensive-roadmap-ai-mental.html",
+   "author_handle": "",
+   "author_name": "香港大學心理學系 Benjamin Becker 教授領銜國際團隊",
+   "title": "Study outlines comprehensive roadmap for AI in mental health care",
+   "content": "港大領銜國際團隊在《Psychotherapy and Psychosomatics》發表 AI 與新興科技心理健康路線圖，提出未來研究與落實的優先方向。",
+   "posted_at": "2026-10-26T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:01:01+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "hku-led-roadmap-for-ai-and-emerging-technologies-in-mental-h",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "ai-conversations-as-dynamic-changes-in-awareness-benefits-an",
+   "title_zh": "AI 對話可助人亦可強化有害思考：Mansell 提出動態覺察框架",
+   "title_en": "AI conversations as dynamic changes in awareness: benefits and risks framework",
+   "summary_zh": "Curtin 大學 Mansell 教授提出框架，解釋同一聊天機器人為何效果可以相反。關鍵在於對話是拓寬覺察、探索問題，還是窄化為重複尋求保證與確認既有信念。作者提醒，此框架尚未經實證檢驗。",
+   "summary_en": "Curtin University's Warren Mansell proposes a framework in Digital Health explaining why the same AI chatbot can help one person and harm another: conversations that widen awareness (exploring feelings, questioning assumptions, considering new views) tend to help, while loops of reassurance-seeking and belief confirmation narrow thinking. The framework has not yet been empirically tested.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "AI 聊天機器人",
+    "有害思考",
+    "覺察"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-19T00:00:00+00:00"
+  },
+  {
+   "slug": "efficacy-of-ai-driven-conversational-agents-for-mental-healt",
+   "title_zh": "統合分析：AI 對話代理對大學生憂鬱與焦慮的效果",
+   "title_en": "Efficacy of AI-driven conversational agents for mental health promotion among university students: a systematic review and meta-analysis",
+   "summary_zh": "系統性回顧與統合分析，納入以大學生為對象的 AI 對話介入隨機對照試驗。與低強度或非主動對照比較時，對憂鬱（3 項比較，Hedges g≈-0.41）與焦慮（4 項比較，g≈-0.44）有小至中等的正向效果；與主動對照（MYLO）比較則未見可靠的額外效果。作者強調證據基礎仍小、異質性高。",
+   "summary_en": "Systematic review and meta-analysis of RCTs of AI-mediated conversational interventions in university students. Against low-intensity or non-active comparators, small-to-moderate benefits for depression (k=3, g≈-0.41) and anxiety (k=4, g≈-0.44); no reliable added effect against an active conversational control (MYLO). The authors stress the small, heterogeneous evidence base.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "AI 對話代理",
+    "大學生",
+    "憂鬱",
+    "焦慮",
+    "統合分析",
+    "數位心理介入"
+   ],
+   "first_seen_at": "2026-10-12T05:30:51+00:00",
+   "evidence_level": 4,
+   "population": [
+    "大專生"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 2.031,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-09T00:00:00+00:00"
+  },
+  {
+   "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
+   "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
+   "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
+   "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
+   "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
+   "category": "倫理與風險",
+   "kind": "incident",
+   "model_names": [],
+   "tags": [
+    "AI 聊天機器人",
+    "指引",
+    "兒童心理",
+    "危機自殺",
+    "韓國"
+   ],
+   "first_seen_at": "2026-10-13T02:38:45+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "成人",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  }
+ ]
+}

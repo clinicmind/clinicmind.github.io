@@ -1,0 +1,64 @@
+{
+ "title_zh": "青少年開始荷爾蒙治療後悔嗎？376 人追蹤：96.8% 認為是正確決定，2.7% 後悔",
+ "title_en": "Satisfaction regret harm hormone therapy youth multidisciplinary gender clinic",
+ "summary_zh": "JAMA Pediatrics 2026 年 11 月 9 日網上刊出隊列研究，由德州大學西南醫學中心 Laura Kuper 領導，追蹤一所美國多學科性別診所 376 名曾於青少年時期開始荷爾蒙治療（雌激素或睾酮）的前病人。調查時參加者 14 至 28 歲，平均 20.9 歲，開始治療後平均 4.9 年（1.2 個月至 10.7 年）。以決策後悔量表（0–100 分）量度：整體後悔極低，平均 4.3 分，中位數 0；372 名完成量表者中 360 人（96.8%）認為開始治療是正確決定，10 人（2.7%）表示後悔，7 人（1.9%）認為治療令自己受害。65 人（17.3%）已停用荷爾蒙，其後悔分數較高；非二元性別認同者分數亦較高。後悔與受害均與開始治療年齡或青春期前性別多樣表現無關。",
+ "summary_en": "JAMA Pediatrics published a cohort study online on 9 November 2026, led by Laura Kuper at the University of Texas Southwestern Medical Center, following 376 former patients of a single multidisciplinary gender clinic in the US who began hormone therapy (estrogen or testosterone) as youth. Participants were aged 14 to 28 at survey (mean 20.9 years), a mean of 4.9 years after starting treatment (range 1.2 months to 10.7 years). On the Decision Regret Scale (0-100), overall regret was very low: mean 4.3, median 0; of 372 respondents with scores, 360 (96.8%) endorsed starting treatment as the right decision, 10 (2.7%) reported regret and 7 (1.9%) reported perceived harm. Sixty-five participants (17.3%) were no longer receiving hormones and had higher regret scores, as did those identifying on the nonbinary spectrum. Neither regret nor harm was associated with age at treatment initiation or prepubertal gender diversity.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "隊列研究（JAMA Pediatrics 2026 年 11 月 9 日網上刊出；DOI: 10.1001/jamapediatrics.2026.5185；經 PubMed 摘要 PMID 43002408 核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "單一美國多學科性別診所樣本；自述網上調查；約四成受邀者未回覆（據大學報道），其觀點未知；樣本 93.6% 為白人（據報道）；未記錄停藥原因；量度的是對決定的滿意度，非具體治療效果；觀察性設計，不能證明因果；作者結論支持現行照護標準，但研究本身不改變法律或政策。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：376 名曾於青少年時期開始荷爾蒙治療者（112 人雌激素，264 人睾酮）；調查時 14–28 歲，平均 20.9 歲；開始治療後平均 4.9 年（1.2 個月至 10.7 年）",
+  "方法：2023 年 10 月至 2025 年 10 月自述網上調查；決策後悔量表（0–100 分，分數愈高後悔愈大）",
+  "主要結果：整體後悔平均 4.3 分（標準差 14.7），中位數 0；360／372 人（96.8%）認為是正確決定；10 人（2.7%）後悔；7 人（1.9%）認為受害",
+  "分組：已停用荷爾蒙者 65 人（17.3%），後悔分數平均高 15.95 分；非二元性別認同者平均高 6.07 分",
+  "無關聯：後悔、受害與目前是否用藥狀態，均與開始治療年齡或青春期前性別多樣表現無關",
+  "限制：單一診所樣本；自述調查；約四成受邀者未回覆；未記錄停藥原因；量度對決定的滿意度，非具體治療效果"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "性別肯定荷爾蒙治療",
+  "跨性別青少年",
+  "決定後悔",
+  "追蹤研究"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「後悔率高唔高」，你會點用 96.8% 與 2.7% 兩個數字回應，同時講明單一診所與回覆率的限制？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1001/jamapediatrics.2026.5185",
+   "author_handle": "",
+   "author_name": "Kuper 等（德州大學西南醫學中心）",
+   "title": "Satisfaction, Regret, and Harm After Hormone Therapy in Youth From a Multidisciplinary Gender Clinic (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.5185)",
+   "content": "隊列研究：376 名青少年時期開始荷爾蒙治療者，96.8% 認為是正確決定，2.7% 後悔。",
+   "posted_at": "2026-11-09T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-14T13:32:07+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "satisfaction-regret-harm-hormone-therapy-youth-multidiscipli",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [],
+ "evidence_quote": "Neither regret nor harm nor current HT",
+ "page_date": "2026-11-09"
+}

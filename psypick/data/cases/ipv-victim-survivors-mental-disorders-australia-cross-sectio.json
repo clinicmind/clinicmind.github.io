@@ -1,0 +1,133 @@
+{
+ "title_zh": "研究：澳洲逾半親密伴侶暴力受害者符合精神疾病診斷標準（橫斷面，不能推斷因果）",
+ "title_en": "IPV victim-survivors mental disorders Australia cross-sectional study",
+ "summary_zh": "《Journal of Family Violence》2026 年 10 月 12 日線上刊出的研究，分析澳洲全國代表性「澳洲兒童受虐研究」逾 7,000 名曾有親密關係者。曾受親密伴侶暴力者 55.3% 符合重度憂鬱症、廣泛性焦慮症、創傷後壓力症候群或酒精使用障礙至少一項診斷標準，未受暴者為 24.5%；受暴者中，有多種童年受虐史者 62.5% 符合診斷標準，無童年受虐史者為 39.1%。研究為橫斷面設計，無法確定受暴與診斷的先後，不能推斷因果。",
+ "summary_en": "A study published online 12 October 2026 in the Journal of Family Violence analysed more than 7,000 Australians who had been in an intimate relationship, from the nationally representative Australian Child Maltreatment Study. 55.3% of people who had experienced intimate partner violence met criteria for at least one of major depressive disorder, generalised anxiety disorder, PTSD or alcohol use disorder, compared with 24.5% of those who had not. Among victim-survivors, 62.5% of those with multiple types of child maltreatment met criteria, versus 39.1% of those with no child maltreatment history. The cross-sectional design cannot establish which came first, so causality cannot be inferred.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊研究（Journal of Family Violence，2026-10-12 線上刊出，Beaton、Higgins、Willis），數字經作者 The Conversation 文章（2026-10-14）核對",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "橫斷面設計：受暴為終生回顧，診斷為現時或終生，無法確定先後，不能說暴力導致精神疾病；數字為符合診斷標準的比例，不是個人風險預測。臨床接觸疑似受暴者時，須以安全為先，留意求助紀錄在法律程序中可能被傳喚的私隱風險。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "研究：Beaton、Higgins、Willis，Journal of Family Violence（2026-10-12 線上刊出）；資料來源：澳洲全國代表性澳洲兒童受虐研究（Australian Child Maltreatment Study）",
+  "樣本：逾 7,000 名曾有親密關係的澳洲民眾；暴力類型：肢體、性、心理暴力（包括情緒或經濟虐待）",
+  "評估四種精神疾病：重度憂鬱症、廣泛性焦慮症、創傷後壓力症候群（PTSD）、酒精使用障礙",
+  "曾受親密伴侶暴力者 55.3% 符合至少一項診斷標準，未受暴者 24.5%，約為兩倍；四種疾病在受暴者中均較常見",
+  "受暴者中，多種童年受虐史者 62.5% 符合診斷標準，無童年受虐史者 39.1%",
+  "心理暴力在多種暴力個案中常較早出現，早期跡象包括孤立、控制日常生活、言語羞辱；約五分之二曾遭前伴侶肢體或性暴力者未尋求建議或支持"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "親密伴侶暴力",
+  "精神疾病",
+  "童年受虐",
+  "澳洲",
+  "橫斷面研究"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "面對疑似受暴的來訪者，你會如何在保障安全與私隱的前提下詢問暴力經歷，並接駁專門支援服務？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://eveningreport.nz/2026/10/14/mental-disorders-are-twice-as-common-among-victim-survivors-of-intimate-partner-violence/",
+   "author_handle": "",
+   "author_name": "The Conversation（經 Evening Report 轉載）",
+   "title": "Mental disorders are twice as common among victim-survivors of intimate partner violence",
+   "content": "作者 The Conversation 文章：澳洲兒童受虐研究逾 7,000 人分析，親密伴侶暴力受害者 55.3% 符合至少一項精神疾病診斷標準，對照組 24.5%；多種童年受虐史者 62.5%。",
+   "posted_at": "2026-10-14T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-01T13:45:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "ipv-victim-survivors-mental-disorders-australia-cross-sectio",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "macao-domestic-violence-frontline-training-2026",
+   "title_zh": "澳門社工局家暴配偶個案訓練：約 400 名前線人員學辨識與危機評估",
+   "title_en": "Macao domestic violence frontline training 2026",
+   "summary_zh": "澳門社會工作局舉辦 2026 年處理家暴配偶個案基本訓練課程，約 400 名警務、醫護、社工、輔導與教育前線人員參加。講者包括司法警察、衛生局精神科醫生與法醫，內容涵蓋預防與通報程序、從精神科與醫學角度辨識受虐徵兆、危機評估與庇護經驗；課程自 2018 年起累計 2,878 人參加。",
+   "summary_en": "Macao's Social Welfare Bureau trained about 400 frontline staff on identifying spousal abuse, crisis assessment and reporting, with speakers from police, psychiatry and forensic medicine.",
+   "category": "督導與訓練",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "澳門",
+    "家庭暴力",
+    "危機評估",
+    "跨專業訓練",
+    "社工局"
+   ],
+   "first_seen_at": "2026-09-30T22:41:42+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.387,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-22T00:00:00+00:00"
+  },
+  {
+   "slug": "pesi-free-2-day-clinical-trauma-training-kate-truitt-neurosc",
+   "title_zh": "PESI 免費兩日創傷培訓：Kate Truitt 談創傷神經科學與創傷後成長",
+   "title_en": "PESI free 2-day clinical trauma training Kate Truitt neuroscience posttraumatic growth",
+   "summary_zh": "臨床心理學家 Kate Truitt 主講的 PESI 免費兩日線上培訓，2026 年 11 月 3–4 日美中時間上午 8 時至下午 4 時直播。內容涵蓋發展與依附創傷、PTSD 與複雜性創傷、解離、階段式治療。直播與三日重播免費，CE 學分與 CCTP 證書另收費。",
+   "summary_en": "Clinical psychologist and applied neuroscientist Kate Truitt leads PESI's free two-day online trauma training on 3-4 November 2026 (8am-4pm US Central): developmental and attachment trauma, PTSD and complex trauma, dissociation and phase-based treatment. Live attendance and three-day replay are free; CE credit and the CCTP credential are available for a fee.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "創傷",
+    "神經科學",
+    "免費培訓"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-28T08:01:01+00:00",
+   "training": {
+    "provider": "PESI",
+    "price": "免費（直播與重播免費；CE 學分與 CCTP 證書另收費）",
+    "price_tier": "免費",
+    "ce_credits": "另收費（頁面原文：available for a fee）",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-03",
+    "format": "線上"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

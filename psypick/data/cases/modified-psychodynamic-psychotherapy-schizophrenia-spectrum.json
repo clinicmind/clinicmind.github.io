@@ -1,0 +1,141 @@
+{
+ "title_zh": "RCT：改良心理動力治療加常規治療，可改善思覺失調症譜系患者的心理社會功能（130 人）",
+ "title_en": "Modified psychodynamic psychotherapy schizophrenia spectrum RCT psychosocial functioning",
+ "summary_zh": "柏林 Charité 單中心隨機對照試驗，130 名 18 至 64 歲思覺失調症或情感性思覺失調門診患者，比較改良心理動力治療（MPP-S，最少 30 節）加常規治療與單用常規治療。主要結果心理社會功能（Mini-ICF-APP）：24 個月組間差 −3.45（95% CI −5.51 至 −1.40），36 個月 −4.07（−6.19 至 −1.94），介入組較佳；負性症狀亦有改善。試驗期間兩名參加者自殺身亡（每組一名）。",
+ "summary_en": "A single-centre randomised controlled trial at Charité Berlin randomised 130 outpatients aged 18-64 with schizophrenia or schizoaffective disorder to Modified Psychodynamic Psychotherapy for Schizophrenia (MPP-S, minimum 30 sessions) plus treatment as usual (TAU) or TAU alone. Psychosocial functioning (Mini-ICF-APP) favoured the intervention: between-group differences of -3.45 (95% CI -5.51 to -1.40) at 24 months and -4.07 (-6.19 to -1.94) at 36 months, with negative symptoms also improving. Two participants died by suicide during the trial (one per arm).",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "隨機對照試驗（The Lancet Psychiatry，2026 年 10 月號，13:870–83；ClinicalTrials.gov NCT02576613；單中心，n=130）",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "思覺失調症患者的自殺風險須貫穿治療全程評估；試驗期間兩組各有一名參加者自殺身亡，提醒長期心理治療亦不能取代常規風險監察。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "單一中心、樣本 130 人；參加者與治療師知悉分組，只對評估者設盲；試驗期間有兩宗自殺死亡（每組一宗，MPP-S 組死者未開始治療），不能據此判斷治療安全性；需多中心重複驗證。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：130 名 18–64 歲思覺失調症或情感性思覺失調門診患者（柏林 Charité，2015–2021 年招募）",
+  "介入：MPP-S 最少 30 節加常規治療，對照為單用常規治療；評估者設盲",
+  "心理社會功能 Mini-ICF-APP：24 個月組間差 −3.45（95% CI −5.51 至 −1.40），36 個月 −4.07（−6.19 至 −1.94）",
+  "負性症狀亦有改善；不良事件頻率兩組相近",
+  "試驗期間兩名參加者自殺身亡（每組一名，MPP-S 組死者未開始治療）"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "思覺失調",
+  "心理動力治療",
+  "心理社會功能",
+  "RCT"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "思覺失調症個案的心理治療以改善功能為目標時，你會如何設定可量度的功能指標，而不只追蹤症狀分數？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00240-3/fulltext",
+   "author_handle": "",
+   "author_name": "Montag 等（Charité 柏林）",
+   "title": "The efficacy of modified psychodynamic psychotherapy for patients with schizophrenia-spectrum disorders in Germany: a prospective, single-centre, assessor-blinded, parallel-group, randomised controlled trial (Lancet Psychiatry 2026;13:870–83)",
+   "content": "期刊原文頁：MPP-S 加常規治療對比單用常規治療的隨機對照試驗，含主要結果、負性症狀與安全性。",
+   "posted_at": "2026-10-01T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-06T13:27:53+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "modified-psychodynamic-psychotherapy-schizophrenia-spectrum",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "meta-analysis-embodied-psychodynamic-therapy-for-depression",
+   "title_zh": "統合分析：重視身體經驗的心理動力治療對憂鬱有效，與 CBT 相當（非 Bodynamic）",
+   "title_en": "Meta-analysis: embodied psychodynamic therapy for depression",
+   "summary_zh": "Heider 等人 2026 年 3 月於 Frontiers in Psychology 發表的統合分析，納入 11 個 RCT、1,624 位憂鬱成人，評估在治療中系統性處理身體現象與主觀經驗的心理動力治療（如 ISTDP、動力人際治療）。相對對照組，治療後 SMD = −0.53、追蹤期 −1.23；與 CBT 等有效治療相比則效果相當。作者特別說明這屬由上而下的心理動力取向，與 Bodynamic 或 Somatic Experiencing 等由下而上的身體心理治療不同。",
+   "summary_en": "A 2026 meta-analysis of 11 RCTs (n = 1,624) found psychodynamic therapies addressing the subjective body outperformed controls for depression (SMD −0.53 post, −1.23 follow-up) and were equivalent to CBT; the authors distinguish this from bottom-up somatic psychotherapy such as Bodynamic.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "身體取向治療",
+    "心理動力治療",
+    "憂鬱",
+    "統合分析",
+    "具身"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.173,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-03-26T00:00:00+00:00"
+  },
+  {
+   "slug": "identifying-early-signs-of-psychosis-in-adolescents-and-youn",
+   "title_zh": "識別青少年及年輕成人精神病早期徵兆",
+   "title_en": "Identifying Early Signs of Psychosis in Adolescents and Young Adults",
+   "summary_zh": "史丹佛醫學院精神科的免費線上 CME（約 2 小時，2.00 AMA PRA Category 1 學分，2027-01-07 到期）：以敘事與案例示範，訓練臨床工作者識別青少年及年輕成人精神病早期徵兆、運用高產出篩查問句，並學習如何與年輕人及其家庭談論精神病。適合家醫、兒科、精神科、護理及學校社工。",
+   "summary_en": "Stanford's free on-demand CME (2 hrs, 2.00 AMA PRA Category 1 credits, expires 2027-01-07) trains clinicians to recognize early signs of psychosis in adolescents and young adults, use high-yield screening questions, and talk with young people and families about psychosis, using narrative storytelling and case scenarios.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "精神病早期識別",
+    "青少年心理健康",
+    "CME學分",
+    "免費課程",
+    "篩查問句"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 3.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "Stanford Center for Continuing Medical Education",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "2.00 AMA PRA Category 1 Credits；非醫師參與學分 2.00 小時",
+    "language": "英文",
+    "deadline": "2027-01-07（課程到期日）",
+    "event_date": "隨選（2024-01-08 至 2027-01-07）",
+    "format": "線上隨選（約 2 小時）"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

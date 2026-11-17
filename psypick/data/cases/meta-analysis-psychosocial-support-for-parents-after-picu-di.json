@@ -1,0 +1,158 @@
+{
+ "title_zh": "統合分析：兒童深切治療出院後，給家長的心理社交支援可輕微減低 PTSD 與抑鬱症狀",
+ "title_en": "Meta-analysis: psychosocial support for parents after PICU discharge",
+ "summary_zh": "筑波大學團隊系統性回顧八項隨機對照試驗、共 470 名家長，涵蓋兒童出院後一年內的心理社交介入（覆診、篩檢轉介、電話心理教育、紓緩照護諮詢、視像 ACT 等）。PTSD 症狀標準化平均差 −0.30，抑鬱 −0.13，屬輕微效果；焦慮無顯著效果。八項試驗中有三項屬高偏倚風險。",
+ "summary_en": "A University of Tsukuba team systematically reviewed eight RCTs involving 470 parents of children discharged from paediatric intensive care, covering psychosocial interventions in the first year after discharge (follow-up clinics, screening with referral, telephone psychoeducation, palliative care consultation, videoconference ACT). PTSD symptoms improved modestly (SMD -0.30) and depression slightly (SMD -0.13); anxiety showed no significant effect. Three of the eight trials were at high risk of bias.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "系統性回顧與統合分析（Intensive and Critical Care Nursing），經筑波大學官方頁（2026-09-30）核對",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "試驗數少、樣本小，三項屬高偏倚風險；效果輕微，不宜過度推論，焦慮方面更無顯著效果。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "8 項 RCT，n=470 名家長（兒童 PICU 出院後一年內）",
+  "PTSD 症狀 SMD −0.30；抑鬱 SMD −0.13；焦慮無顯著效果",
+  "介入形式包括覆診、篩檢轉介、電話心理教育、視像 ACT",
+  "3/8 試驗屬高偏倚風險，解讀需保守"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "家長支援",
+  "PTSD",
+  "兒科",
+  "統合分析"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "兒童重症出院後，我們的服務有沒有主動跟進家長心理狀態的環節？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.tsukuba.ac.jp/en/research-news/20260930141500.html",
+   "author_handle": "",
+   "author_name": "University of Tsukuba",
+   "title": "Mental Health Support for Parents after Pediatric Intensive Care may Modestly Reduce PTSD and Depressive Symptoms",
+   "content": "筑波大學官方頁：介紹 PICU 家長支援統合分析的樣本、介入形式與效果量。",
+   "posted_at": "2026-09-30T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "meta-analysis-psychosocial-support-for-parents-after-picu-di",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "online-program-for-anxious-parents-prevents-child-anxiety",
+   "title_zh": "焦慮家長的自助線上課程能預防孩子焦慮嗎？1,811 人 RCT 的小效果與低完成率",
+   "title_en": "Online program for anxious parents prevents child anxiety",
+   "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。",
+   "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "焦慮",
+    "親職介入",
+    "預防",
+    "數位介入",
+    "階梯式照護"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.43,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-21T00:00:00+00:00"
+  },
+  {
+   "slug": "only-13-of-uk-parents-feel-they-have-enough-support-for-chil",
+   "title_zh": "英國民調：只有 13% 家長覺得孩子心理健康有足夠支援",
+   "title_en": "Only 13% of UK parents feel they have enough support for child wellbeing",
+   "summary_zh": "Anna Freud 委託 Opinium 於 2026 年 7 月 21–28 日網上訪問 1,120 名有 18 歲以下子女的英國家長。只有 13% 認為自己得到足夠支援；63% 擔心社交媒體影響、61% 擔心孩子焦慮或壓力、67% 認為學校壓力影響身心。家長最想要的是處理壓力、焦慮與情緒低落的指引（31%）和更多校內心理支援（30%）。",
+   "summary_en": "An Opinium poll of 1,120 UK parents for Anna Freud found only 13% feel they have enough support for their child's mental health. Concerns centred on social media (63%), anxiety or stress (61%) and school pressure (67%).",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "家長",
+    "民調",
+    "英國",
+    "社交媒體",
+    "Anna Freud"
+   ],
+   "first_seen_at": "2026-10-01T03:55:02+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "一般大眾",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.783,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-08-21T00:00:00+00:00"
+  },
+  {
+   "slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days",
+   "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例",
+   "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
+   "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
+   "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "嬰幼兒心理健康",
+    "親嬰關係",
+    "政策",
+    "英國",
+    "Anna Freud"
+   ],
+   "first_seen_at": "2026-10-01T03:55:02+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.783,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-08-24T00:00:00+00:00"
+  }
+ ]
+}

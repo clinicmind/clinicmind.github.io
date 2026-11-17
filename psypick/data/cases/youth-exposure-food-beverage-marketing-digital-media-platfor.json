@@ -1,0 +1,65 @@
+{
+ "title_zh": "橫斷面研究：美國青少年每年接觸近 4,000 則網上食品廣告，九成不健康，社交媒體佔八成（1,011 人）",
+ "title_en": "Youth exposure food beverage marketing digital media platforms",
+ "summary_zh": "JAMA Pediatrics 2026 年 11 月 9 日刊出橫斷面研究，以 2024 年 11 月至 2025 年 10 月實時屏幕擷取數據，估算美國 8–17 歲青少年接觸網上食品廣告的情況。1,011 名參加者（中位年齡 12 歲）每日在課外用智能手機或平板平均 3.7 小時；估算每人每年中位接觸 3,883 則食品廣告，13–17 歲青少年達 10,107 則，8–12 歲兒童為 1,427 則。最大類別為快餐（28.8%）、糖果（20.4%）與飲品（20.1%）；非餐廳食品中 91.6% 未達泛美衛生組織營養標準。82.6% 接觸來自社交媒體（TikTok 30.4%、YouTube 22.6%）；52.4% 為付費廣告，43.9% 為自發傳播。近半（46.9%）推廣食品來自兒童食品飲料廣告倡議（CFBAI）成員公司。部分作者申報接受 Bloomberg Philanthropies 資助。",
+ "summary_en": "JAMA Pediatrics published a cross-sectional study on 9 November 2026 using real-time screen capture data from November 2024 to October 2025 to estimate US youth exposure to food marketing on digital media. Among 1,011 participants aged 8-17 (median age 12), mean smartphone/tablet use outside school or homework was 3.7 hours per day, and the estimated median was 3,883 food marketing exposures per year - 10,107 for adolescents aged 13-17 versus 1,427 for children aged 8-12. The largest categories were fast food (28.8%), sweets (20.4%) and beverages (20.1%); 91.6% of nonrestaurant items did not meet Pan American Health Organization nutrient profile standards. 82.6% of exposures occurred on social media (TikTok 30.4%, YouTube 22.6%); 52.4% were paid and 43.9% earned media. Almost half (46.9%) of marketed items came from Children's Food and Beverage Advertising Initiative (CFBAI)-member companies. Some authors reported grants from Bloomberg Philanthropies.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "橫斷面研究（JAMA Pediatrics 2026 年 11 月 9 日線上刊出，e265190；DOI: 10.1001/jamapediatrics.2026.5190；PMID: 43002430；PMCID: PMC13749224；經 PubMed 摘要核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "橫斷面設計，未能證明廣告接觸導致飲食或健康結果；接觸次數由抽樣屏幕時間推算，實際數字因人而異；樣本為美國青少年，推廣至其他地區有限；部分作者申報接受 Bloomberg Philanthropies 資助。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：1,011 名美國 8–17 歲青少年（中位年齡 12 歲；51.3% 女性；511 名 8–12 歲，500 名 13–17 歲）；2024 年 11 月至 2025 年 10 月實時屏幕擷取數據",
+  "屏幕使用：每日在課外用智能手機或平板平均 3.7 小時（標準差 1.9 小時）",
+  "接觸次數：每人每年中位 3,883 則（四分位距 0–16,697）；青少年 10,107 則對兒童 1,427 則（P < .001）；女性 8,017 則對男性 2,139 則（P < .001）",
+  "食品類別：快餐 28.8%、糖果 20.4%、飲品 20.1%；非餐廳食品中 91.6% 未達泛美衛生組織營養標準",
+  "平台與形式：82.6% 接觸來自社交媒體（TikTok 30.4%、YouTube 22.6%）；52.4% 付費廣告，43.9% 自發傳播，3.7% 自有媒體",
+  "公司來源：46.9% 推廣食品來自兒童食品飲料廣告倡議（CFBAI）成員公司；部分作者申報接受 Bloomberg Philanthropies 資助"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "食品廣告",
+  "社交媒體",
+  "兒童青少年",
+  "營養",
+  "橫斷面研究"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長話個仔成日喺 TikTok 睇到零食廣告，問你有咩實證可以幫佢哋傾，你會點用呢個研究回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1001/jamapediatrics.2026.5190",
+   "author_handle": "",
+   "author_name": "Powell 等（伊利諾大學芝加哥分校）",
+   "title": "Youth Exposure to Food and Beverage Marketing on Digital Media Platforms (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.5190)",
+   "content": "期刊論文：1,011 名 8–17 歲青少年實時屏幕擷取研究，每年中位接觸 3,883 則食品廣告。",
+   "posted_at": "2026-11-09T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-12T13:37:10+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "youth-exposure-food-beverage-marketing-digital-media-platfor",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [],
+ "evidence_quote": "that youth exposure to unhealthy food",
+ "page_date": "2026-11-09"
+}

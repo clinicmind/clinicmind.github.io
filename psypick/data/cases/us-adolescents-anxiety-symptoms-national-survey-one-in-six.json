@@ -1,0 +1,163 @@
+{
+ "title_zh": "美國全國調查：六分一青少年有中至重度焦慮症狀，逾四成重度者過去一年無接受治療",
+ "title_en": "US adolescents anxiety symptoms national survey one in six",
+ "summary_zh": "2024 年美國全國藥物使用與健康調查（NSDUH），分析 15,730 名 12 至 20 歲青少年，以 GAD-7 量度焦慮症狀。輕度佔 23.7%、中度 9.6%、重度 7.2%，中至重度合共 16.8%，約六分一。重度焦慮青少年中，65.8% 過去一年有重性抑鬱發作、48.2% 有自殺意念、31.0% 過去一個月曾使用物質；41.2% 重度者與 48.3% 中度者在過去一年無接受任何心理健康治療。",
+ "summary_en": "Analysis of the 2024 US National Survey on Drug Use and Health (15,730 adolescents aged 12-20) using the GAD-7: 23.7% had mild, 9.6% moderate and 7.2% severe anxiety symptoms, with moderate-to-severe symptoms combined at 16.8% (about one in six). Among adolescents with severe symptoms, 65.8% had a past-year major depressive episode, 48.2% had past-year suicidal thoughts and 31.0% reported past-month substance use; 41.2% of those with severe and 48.3% with moderate symptoms received no mental health treatment in the past year.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊橫斷面研究（JAMA Pediatrics，2026-10-12 線上刊出；DOI: 10.1001/jamapediatrics.2026.4702；2024 年 NSDUH 全國調查，n=15,730）",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "重度焦慮青少年中近半過去一年有自殺意念，四成無接受治療；前線見到高焦慮青少年時，應常規問自殺意念與求助情況，勿只處理焦慮症狀本身。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "橫斷面設計，不能判斷焦慮與抑鬱、自殺意念或物質使用的因果方向；GAD-7 是篩檢量表，得分高不等於焦慮症診斷；只量度填問卷前兩週的症狀；2024 年為調查首次加入焦慮題目，未能比較升幅。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：2024 年 NSDUH，15,730 名 12–20 歲青少年（48.9% 女性），GAD-7 量度",
+  "輕度 23.7%（3,642 人）、中度 9.6%（1,599 人）、重度 7.2%（1,252 人）；中至重度合共 16.8%，約六分一",
+  "重度者：65.8% 過去一年有重性抑鬱發作、48.2% 有自殺意念、31.0% 過去一個月曾使用物質",
+  "41.2% 重度者與 48.3% 中度者在過去一年無接受任何心理健康治療",
+  "女性中至重度比例高於男性；重性抑鬱發作與自殺意念與重度症狀獨立相關"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "青少年",
+  "焦慮",
+  "GAD-7",
+  "美國",
+  "求助缺口"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "青少年 GAD-7 得分屬重度範圍時，你會如何同時評估抑鬱、自殺意念與求助缺口，而不只處理焦慮？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2855207",
+   "author_handle": "",
+   "author_name": "Bommersbach 等（威斯康星大學／康涅狄格大學）",
+   "title": "Estimates of Anxiety Symptoms Among US Adolescents (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.4702)",
+   "content": "期刊原文頁：2024 年 NSDUH 全國調查，15,730 名 12–20 歲青少年的焦慮症狀盛行率、共病與治療使用情況。",
+   "posted_at": "2026-10-12T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-06T13:27:53+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "us-adolescents-anxiety-symptoms-national-survey-one-in-six",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "pediatric-anxiety-cbt-fluoxetine-smart-trial-24-weeks",
+   "title_zh": "研究：兒少焦慮 CBT 與百憂解 24 週比較，兩種起點改善相近（316 人 SMART 試驗）",
+   "title_en": "Pediatric anxiety CBT fluoxetine SMART trial 24 weeks",
+   "summary_zh": "《American Journal of Psychiatry》2026 年刊出的務實型 SMART 隨機試驗，納入 316 名 8 至 17 歲嚴重焦慮兒少，在美國社區小兒科與心理健康診所比較兩種起點：先用暴露為核心的認知行為治療，或先用百憂解（fluoxetine）。24 週後，兒少自評焦慮（SCARED）整體下降 31.7%。先用 CBT 與先用藥物在主要結果上無顯著差異（24 週組間變化差異 1.45 分，95% 信賴區間 -2.25 至 5.16）；第 12 週未緩解者中，合併治療亦未在主要結果上優於持續優化單一治療。先用 CBT、12 週後未緩解再加入藥物的順序，在多項次要指標上改善最大，但主要結果差異未達顯著。",
+   "summary_en": "A pragmatic SMART randomized trial (American Journal of Psychiatry, 2026) enrolled 316 youths aged 8-17 with severe anxiety in US community paediatric and mental health clinics, comparing two starting points: exposure-based CBT first or fluoxetine first. Over 24 weeks, youth-reported anxiety (SCARED) fell 31.7% overall. Initial CBT versus fluoxetine did not differ significantly on the primary outcome (24-week difference in mean group change 1.45, 95% CI -2.25 to 5.16). Among week-12 nonremitters, combination treatment was not superior to optimized monotherapy on the primary outcome. Starting with CBT and adding fluoxetine after week 12 produced the greatest improvement across most secondary measures, but not significantly on the primary youth-reported outcome.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒少焦慮",
+    "CBT",
+    "百憂解",
+    "SMART試驗",
+    "隨機對照試驗"
+   ],
+   "first_seen_at": "2026-11-04T13:30:00+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童",
+    "青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
+  {
+   "slug": "social-media-time-and-teen-anxiety-depression-meta-analysis",
+   "title_zh": "統合分析：青少年花在社交媒體的時間，與焦慮憂鬱關聯極弱（37 項研究）",
+   "title_en": "Social media time and teen anxiety depression meta-analysis",
+   "summary_zh": "澳洲天主教大學團隊在《British Journal of Clinical Psychology》發表的系統性回顧，綜合 37 項縱貫與實驗研究、近 80,000 名 10 至 24 歲青少年。社交媒體使用時間與其後抑鬱症狀的合併相關係數 r=0.08（12 項研究），焦慮 r=0.093（5 項研究），合共解釋不足 1% 的症狀差異。效應不隨年齡、追蹤期或發表年份改變。作者認為，單靠限制使用時間，未必能解決青少年心理健康危機。",
+   "summary_en": "An Australian Catholic University systematic review in the British Journal of Clinical Psychology pooled 37 longitudinal and experimental studies of nearly 80,000 young people aged 10-24. Time on social media correlated only very weakly with later symptoms: depression pooled r = .08 (12 studies), anxiety r = .093 (5 studies), together explaining under 1% of symptom variation. Effects did not vary by age, follow-up length or publication year. The authors conclude restricting time alone is unlikely to resolve the youth mental-health crisis.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "青少年",
+    "焦慮",
+    "抑鬱",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-11-05T13:45:00+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  },
+  {
+   "slug": "adolescent-life-event-trajectories-and-suicidal-ideation",
+   "title_zh": "青少年自殺意念：日常生活事件的「累積」也要評估",
+   "title_en": "Adolescent life event trajectories and suicidal ideation",
+   "summary_zh": "Mental Elf 評析 Chen 等人 2026 年刊於 Lancet Psychiatry 的前瞻性世代研究，以 IMAGEN 資料追蹤德、法、愛爾蘭、英國 2,161 名青少年（14、16、19、23 歲）。生活事件累積高的軌跡組，14 歲時自殺意念比例為 11.3%，其他組為 4.1%–7.8%，調整後約高 6 個百分點，家庭相關事件尤其重要。評論者建議評估青少年風險時，除重大創傷也要看日常壓力的累積。",
+   "summary_en": "The Mental Elf reviews Chen et al.'s 2026 Lancet Psychiatry prospective cohort using IMAGEN data on 2,161 adolescents in Germany, France, Ireland and the UK (ages 14–23). The high cumulative life-event trajectory group had 11.3% suicidal ideation at 14 versus 4.1–7.8% in other groups, roughly 6 percentage points higher after adjustment, with family events especially influential.",
+   "category": "評估與篩檢",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "自殺意念",
+    "青少年",
+    "生活事件",
+    "風險評估",
+    "世代研究"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.767,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-18T00:00:00+00:00"
+  }
+ ]
+}

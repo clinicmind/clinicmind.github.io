@@ -1,0 +1,165 @@
+{
+ "title_zh": "RCT：孕產婦 AI 聊天機械人 Rosie 一年後未改善焦慮抑鬱（400 人）",
+ "title_en": "Generative AI maternal health chatbot Rosie RCT no improvement anxiety depression",
+ "summary_zh": "馬里蘭大學及美國國立護理研究院的研究團隊招募 400 名懷孕或產後不足六個月的少數族裔人士，隨機分派使用生成式 AI 孕產婦聊天機械人 Rosie 或每月獲贈一本童書，追蹤 12 個月。結果顯示，聊天機械人組的焦慮與抑鬱分數與對照組沒有顯著差異，急診求診、產後覆診、避孕及睡眠亦無差異。作者認為，單靠聊天機械人未必足以改善孕產婦心理健康，較適合作為輔助工具。",
+ "summary_en": "A one-year randomised clinical trial (JAMA Network Open, Nov 2026) tested Rosie, a generative AI maternal health chatbot, in 400 pregnant and postpartum participants from racial and ethnic minoritized groups. Access to the chatbot did not improve anxiety or depression at 12 months versus a monthly children's book control, nor emergency visits, postpartum care, contraception use or sleep. The authors conclude a chatbot alone may be insufficient and works better as an adjunct to human care.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "同儕審查隨機對照試驗（JAMA Network Open 2026;9(11):e2641062，2026-11-02；ClinicalTrials.gov NCT06053515；經 PubMed 摘要核實）",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "孕產婦向 AI 求助時，安全取決於風險偵測與真人跟進機制；Rosie 試驗有臨床社工覆核每宗警示，全自動工具未必有同等保障，介紹時須講明。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "參加者基線焦慮抑鬱分數偏低（中位數 GAD-7 為 2、PHQ-9 為 3），未必能推廣至症狀較重群體；聊天機械人設有人手安全通報機制（262 次警示由臨床社工跟進），結果不適用於全自動聊天機械人；探索性發現（重度使用者焦慮較高）不能推論因果；聊天機械人不是治療，不能取代專業照護。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "400 名參加者，12 個月後焦慮調整平均差 0.10、抑鬱 -0.23，兩者均無統計顯著差異",
+  "急診求診、產後覆診、避孕使用及睡眠時長亦無顯著差異",
+  "使用愈頻繁者睡眠較長，但焦慮分數亦較高，屬探索性發現",
+  "聊天機械人設有安全通報機制，262 次警示由臨床社工逐一跟進"
+ ],
+ "brief_en": [],
+ "model_names": [
+  "Rosie"
+ ],
+ "tags": [
+  "生成式 AI",
+  "孕產婦心理健康",
+  "聊天機械人",
+  "RCT"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案話用 AI 聊天機械人傾孕產焦慮時，你會如何用這份「無顯著改善」的結果同佢討論期望與求助途徑？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42981095/",
+   "author_handle": "",
+   "author_name": "Elizabeth M. Norell et al. (University of Maryland; JAMA Network Open)",
+   "title": "Generative Artificial Intelligence and Maternal Health Outcomes in Pregnant and Postpartum Individuals: A Randomized Clinical Trial",
+   "content": "一項為期一年的隨機對照試驗，測試孕產婦 AI 聊天機械人 Rosie 能否改善焦慮與抑鬱，結果與每月一本童書的對照組沒有差異。",
+   "posted_at": "2026-11-02T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-17T01:43:46+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "generative-ai-maternal-health-chatbot-rosie-rct-no-improveme",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "relax-perinatal-digital-intervention-prevents-increasing-anx",
+   "title_zh": "RCT：孕期數碼治療 RELAX 可減低焦慮惡化，八週 GAD-7 平均低 1.5 分（268 人）",
+   "title_en": "RELAX perinatal digital intervention prevents increasing anxiety RCT",
+   "summary_zh": "倫敦國王學院主導的二期隨機對照試驗，268 名高反覆負面思考、輕至中度焦慮的孕婦（16–28 週），比較自導式數碼治療 RELAX（八週 12 節：8 節網上＋4 節 SMS，含詮釋偏誤修正訓練）加常規照顧與單用常規照顧。八週時 RELAX 組 GAD-7 平均低 1.5 分（95% CI −2.4 至 −0.6；效應量 −0.42），抑鬱（PHQ-9 −0.8、EPDS −1.1）、反覆負面思考（−2.7）、憂慮（−3.6）與圍產期焦慮（PASS −5.5）亦較低；焦慮惡化者常規組佔 8.2%，RELAX 組只佔 1.5%。至 36 週時，一般焦慮、產後抑鬱與反覆負面思考的效果維持。",
+   "summary_en": "A phase 2b randomised clinical trial led by King's College London randomised 268 pregnant participants with high repetitive negative thinking and up to moderate anxiety (16-28 weeks' gestation) to the self-led digital intervention RELAX (12 sessions over 8 weeks: 8 online plus 4 SMS sessions, including cognitive bias modification for interpretation) plus usual care or usual care alone. At 8 weeks, GAD-7 was 1.5 points lower in the RELAX arm (95% CI -2.4 to -0.6; effect size -0.42), with depression (PHQ-9 -0.8, EPDS -1.1), repetitive negative thinking (-2.7), worry (-3.6) and perinatal anxiety (PASS -5.5) also lower; anxiety deteriorated in 8.2% of the usual-care arm versus 1.5% of the RELAX arm. Effects on general anxiety, postnatal depression and repetitive negative thinking were sustained at 36 weeks.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "孕期焦慮",
+    "數碼治療",
+    "RCT",
+    "反覆負面思考",
+    "預防"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
+  {
+   "slug": "mmb-for-moms-rct-online-mindfulness-course-cuts-postpartum-d",
+   "title_zh": "RCT：線上正念認知課程 MMB for Moms 降低抑鬱復發風險（孕期至產後六個月）",
+   "title_en": "MMB for Moms RCT: online mindfulness course cuts postpartum depression relapse",
+   "summary_zh": "The Lancet Public Health 的隨機對照試驗招募 500 名有抑鬱病史、基線時非發作期的孕婦（全美 50 州）。參加八節自定進度線上正念認知課程 MMB for Moms 的一組，至產後六個月的抑鬱復發率為 33%（81/249），常規照顧組為 44%（111/251），風險比 HR 0.74（95% CI 0.56–0.99），相對風險低約 26%。",
+   "summary_en": "A randomised controlled trial in The Lancet Public Health enrolled 500 pregnant participants with a history of depression who were not in an episode at baseline, across all 50 US states. Those offered MMB for Moms, an eight-session self-paced digital mindfulness-based cognitive course, had a depression relapse rate of 33% (81/249) through six months postpartum versus 44% (111/251) with usual care (HR 0.74, 95% CI 0.56-0.99), about 26% lower relative risk.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "產後抑鬱",
+    "正念",
+    "MBCT",
+    "預防",
+    "RCT"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-20T00:00:00+00:00"
+  },
+  {
+   "slug": "apa-health-advisory-on-ai-chatbots-and-wellness-apps",
+   "title_zh": "APA 健康提醒：AI 聊天機器人與身心健康 App 不能取代專業照護",
+   "title_en": "APA health advisory on AI chatbots and wellness apps",
+   "summary_zh": "美國心理學會於 2025 年 11 月發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不應被當作專業心理健康照護的替代品。APA 呼籲避免使用者產生不健康的依賴、為兒童青少年等高風險族群設計特別保護、禁止 AI 冒充持照專業人員，並要求科技公司提高透明度與預設保護隱私。",
+   "summary_en": "In November 2025 the American Psychological Association issued a health advisory stating that generative AI chatbots and wellness apps should not replace professional mental health care. It calls for preventing unhealthy dependence, special protections for youth and other vulnerable groups, a ban on AI impersonating licensed professionals, and greater transparency and privacy by default.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "APA",
+    "健康提醒",
+    "專業組織指引",
+    "AI 聊天機器人",
+    "身心健康 App",
+    "兒少保護"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "一般大眾",
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.139,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2025-11-13T00:00:00+00:00"
+  }
+ ]
+}

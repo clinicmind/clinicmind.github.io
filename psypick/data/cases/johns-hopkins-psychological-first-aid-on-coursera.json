@@ -1,0 +1,212 @@
+{
+ "title_zh": "約翰霍普金斯大學 Coursera 心理急救課程（RAPID 模式，可免費註冊）",
+ "title_en": "Johns Hopkins Psychological First Aid on Coursera",
+ "summary_zh": "約翰霍普金斯大學在 Coursera 的心理急救課程由 George Everly Jr. 講授，教授 RAPID 模式（反映式傾聽、需求評估、排序、介入、處置）。課程約 6 小時、初階程度、可自訂進度，可免費註冊，驗證證書需付費。",
+ "summary_en": "Johns Hopkins University's Psychological First Aid on Coursera, taught by George Everly Jr., covers the RAPID model (Reflective listening, Assessment, Prioritization, Intervention, Disposition). About 6 hours, beginner level and self-paced; enrollment is free, with a paid certificate.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程資訊，非研究證據。",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "課程涵蓋危機分流與降溫技巧。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "這是初階課程，適合新手或實習生建立框架，不能取代正式的危機介入訓練。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "RAPID 模式：傾聽、評估、排序、介入、處置",
+  "約 6 小時，初階，自訂進度",
+  "可免費註冊；證書需付費，可申請助學",
+  "英文授課，頁面標示 25 種語言"
+ ],
+ "brief_en": [
+  "RAPID model",
+  "About 6 hours, beginner, self-paced",
+  "Free to enroll; paid certificate",
+  "English with 25 languages listed"
+ ],
+ "model_names": [],
+ "tags": [
+  "心理急救",
+  "危機介入",
+  "自學課程",
+  "Coursera"
+ ],
+ "population": [
+  "臨床工作者",
+  "一般大眾"
+ ],
+ "supervision_questions": [
+  "RAPID 模式和你受訓的危機介入流程有哪些相同與不同？",
+  "心理急救中的自我照顧，你實際做得到哪些？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "Johns Hopkins University（Coursera）",
+  "format": "線上自學",
+  "price": "Enroll for free（證書需付費）",
+  "price_tier": "免費",
+  "ce_credits": "",
+  "language": "英文（頁面標示 25 種語言）",
+  "event_date": "",
+  "deadline": "",
+  "audience_level": "初階",
+  "topic": "心理急救（RAPID 模式）",
+  "signup_url": "https://www.coursera.org/learn/psychological-first-aid",
+  "format_note": "自學（線上課程）"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.coursera.org/learn/psychological-first-aid",
+   "author_handle": "",
+   "author_name": "Johns Hopkins University",
+   "title": "Psychological First Aid | Coursera",
+   "content": "約翰霍普金斯大學在 Coursera 開設的心理急救課程，由 George Everly 講授 RAPID 模式，約 6 小時、初階、可免費註冊，證書需付費，有多種語言字幕。",
+   "posted_at": "2026-09-30T13:03:54+00:00"
+  }
+ ],
+ "first_seen_at": "2026-09-30T13:03:54+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "johns-hopkins-psychological-first-aid-on-coursera",
+ "featured_at": null,
+ "hot_score": 2.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "nctsn-free-online-psychological-first-aid-and-spr-courses",
+   "title_zh": "NCTSN 免費線上心理急救（PFA Online）與心理復原技巧（SPR）課程，各 5 CE",
+   "title_en": "NCTSN free online Psychological First Aid and SPR courses",
+   "summary_zh": "美國國家兒童創傷壓力網絡（NCTSN）學習中心的 PFA Online 是互動式線上課程，約 5 小時，教導災後心理急救的核心行動；同系列的 SPR Online 教專業人員如何協助倖存者學習處理災後壓力的技巧。兩門課都免費，各提供 5 個 CE，另有西班牙文版。",
+   "summary_en": "The NCTSN Learning Center's PFA Online is a free, roughly 5-hour interactive course on the core actions of Psychological First Aid after disasters; Skills for Psychological Recovery (SPR) Online teaches providers to help survivors manage post-disaster distress. Both are free with 5 CEs each, with Spanish versions available.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "心理急救",
+    "災難心理",
+    "創傷",
+    "自學課程",
+    "免費"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "兒童青少年",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 3.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-30T13:03:54+00:00",
+   "training": {
+    "provider": "National Child Traumatic Stress Network（NCTSN）",
+    "price": "Free",
+    "price_tier": "免費",
+    "ce_credits": "PFA Online 5 CE；SPR Online 5 CE",
+    "language": "英文（另有西班牙文版）",
+    "deadline": "",
+    "event_date": "",
+    "format": "自學（互動式線上課程）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "positive-psychiatry-and-mental-health",
+   "title_zh": "正向精神醫學與心理健康",
+   "title_en": "Positive Psychiatry and Mental Health",
+   "summary_zh": "雪梨大學在 Coursera 開設的正向精神醫學課程，談如何在治療精神疾病之外促進幸福感與心理韌性，共 5 個模組、約 2 週。免費旁聽可交作業、拿成績（無證書），適合臨床工作者拓展復元取向視角。",
+   "summary_en": "A University of Sydney Coursera course on positive psychiatry — promoting wellbeing and resilience alongside treating mental illness — with 5 modules and over 315,000 enrolled learners.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "正向精神醫學",
+    "心理健康",
+    "復元取向",
+    "免費旁聽",
+    "Coursera"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "Coursera / The University of Sydney",
+    "price": "免費旁聽（頁面原文 Full Course, No Certificate）；證書費用頁面未列",
+    "price_tier": "免費",
+    "ce_credits": "無（頁面未提及）",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "隨選",
+    "format": "線上隨選"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "understanding-psychosis",
+   "title_zh": "認識思覺失調症",
+   "title_en": "Understanding Psychosis",
+   "summary_zh": "密西根大學在 Coursera 的思覺失調症課程，講解症狀、成因與治療，共 4 個模組、中階程度。免費旁聽可完整學習；另可經 MiCME 申請最高 8.5 個 AMA PRA Category 1 學分，適合精神科相關臨床工作者。",
+   "summary_en": "A University of Michigan Coursera course on psychosis — symptoms, causes and treatments — with optional CME credits via MiCME for eligible clinicians.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "思覺失調症",
+    "精神病學",
+    "CME 學分",
+    "免費旁聽",
+    "Coursera"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "Coursera / University of Michigan",
+    "price": "免費旁聽（頁面原文 Full Course, No Certificate）；證書費用頁面未列",
+    "price_tier": "免費",
+    "ce_credits": "有 — 最高 8.5 AMA PRA Category 1 Credits，需經 MiCME 另行申請（EID=93315），非 Coursera 直接提供",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "隨選",
+    "format": "線上隨選"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

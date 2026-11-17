@@ -1,0 +1,147 @@
+{
+ "title_zh": "心理因素與失智風險：憂鬱焦慮反覆負向思考屬風險，盡責與人生目標具保護作用",
+ "title_en": "Psychological risk protection and support in dementia",
+ "summary_zh": "Marchant 等人發表觀點文章，重提「心理負債」概念。憂鬱、焦慮、反覆負向思考、孤獨與神經質與阿茲海默症及相關失智症風險相關；盡責與人生目標則具保護作用。作者強調這是選擇性綜述，並提出抗力與韌性機制框架。",
+ "summary_en": "Marchant and colleagues argue in a Nature Mental Health perspective that psychological characteristics are a meaningful part of the dementia puzzle. Depression, anxiety, repetitive negative thinking, loneliness and neuroticism are associated with higher risk of Alzheimer's and related dementias, while conscientiousness and purpose in life appear protective. The authors frame mechanisms around resistance and resilience, and note the review is selective.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊觀點文章（選擇性綜述），多為觀察性關聯",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "心理因素與失智的關聯多為觀察性資料，不能推論因果；失智前驅期本身亦可引起憂鬱與焦慮（反向因果）。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "風險因素：憂鬱、焦慮、反覆負向思考、孤獨、神經質",
+  "保護因素：盡責、人生目標",
+  "機制框架：抗力與韌性，心理因素與生活方式交互作用"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "失智症",
+  "心理風險因素",
+  "長者"
+ ],
+ "population": [
+  "長者",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "向長者與家屬談「心理因素與失智風險」時，如何避免把風險講成責備？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://bioengineer.org/psychological-factors-shape-dementia-risk-new-perspective-argues/",
+   "author_handle": "",
+   "author_name": "Natalie L. Marchant、David Bartres Faz、Josh Stott、Antonio Terracciano、Gael Chételat 等",
+   "title": "Psychological risk, protection and support in the context of dementia",
+   "content": "Marchant 等人在《Nature Mental Health》發表觀點文章，重提「心理負債」概念，整理心理因素與失智症風險及保護作用的證據。",
+   "posted_at": "2026-10-23T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:01:01+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "psychological-risk-protection-and-support-in-dementia",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "macao-dementia-month-and-cognitive-assessment-figures",
+   "title_zh": "澳門世界失智症月：衛生中心年做逾 3,000 宗認知評估",
+   "title_en": "Macao dementia month and cognitive assessment figures",
+   "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。",
+   "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.",
+   "category": "評估與篩檢",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "澳門",
+    "失智症",
+    "認知評估",
+    "長者",
+    "衛生局"
+   ],
+   "first_seen_at": "2026-09-30T22:41:42+00:00",
+   "evidence_level": 0,
+   "population": [
+    "長者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.387,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-20T00:00:00+00:00"
+  },
+  {
+   "slug": "at-home-tablet-cognitive-testing-app-versus-paper-testing",
+   "title_zh": "居家認知測試平板 App：與紙筆版同樣可靠且數據更豐富",
+   "title_en": "At-home tablet cognitive testing app versus paper testing",
+   "summary_zh": "美國東北大學團隊發表研究，讓認知健康長者在家的平板上完成連線測驗、畫鐘等任務。平板版與紙筆版結果一致，而且能記錄顫抖等微互動訊號。下一步將擴大測試人數。",
+   "summary_en": "Northeastern University researchers reported in JMIR Formative Research that cognitively healthy older adults completed tablet-based cognitive tests (trail-making, clock drawing) at home with results consistent with paper versions, while the app captured richer micro-interaction data such as tremor. Participants tested twice over Zoom, two months apart, for test-retest reliability.",
+   "category": "評估與篩檢",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "認知評估",
+    "遠距測試",
+    "長者"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "長者",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-22T00:00:00+00:00"
+  },
+  {
+   "slug": "positive-childhood-experiences-reduce-risk-of-later-mental-i",
+   "title_zh": "正向童年經驗與成年早期心理健康的長期追蹤研究",
+   "title_en": "Positive childhood experiences reduce risk of later mental illness: longitudinal cohort",
+   "summary_zh": "縱向追蹤研究（發表於 American Journal of Psychiatry，2026 年 10 月 14 日，doi:10.1176/appi.ajp.20260007）。正向童年經驗（PCE）分數每增加 1 分（最高 10 分），成年早期符合精神障礙準則的機會率下降約 11%。",
+   "summary_en": "Longitudinal study published in the American Journal of Psychiatry on 14 October 2026 (doi:10.1176/appi.ajp.20260007). Each one-point increase in positive childhood experiences (PCE, up to 10) was associated with about 11% lower odds of meeting criteria for a psychiatric disorder in early adulthood, after adjusting for confounders.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "正向童年經驗",
+    "縱向研究",
+    "成年早期",
+    "精神障礙風險"
+   ],
+   "first_seen_at": "2026-10-19T02:37:41+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-14T00:00:00+00:00"
+  }
+ ]
+}

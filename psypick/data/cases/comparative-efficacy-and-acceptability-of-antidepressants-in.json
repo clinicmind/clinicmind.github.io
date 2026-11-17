@@ -1,0 +1,61 @@
+{
+ "title_zh": "長期抗抑鬱藥比較：115 項試驗統合分析——escitalopram、duloxetine、agomelatine 維持療效較 fluoxetine 佳",
+ "title_en": "Comparative efficacy and acceptability of antidepressants in the long-term treatment of major depressive disorder",
+ "summary_zh": "The Lancet Psychiatry 2026 年 11 月 10 日網上刊出系統性回顧與網絡統合分析，綜合 115 項雙盲隨機對照試驗、30,428 名成人單相重性抑鬱患者（平均年齡 45.3 歲，66% 女性），比較 20 種抗抑鬱藥維持治療（超過 12 週）的持續反應與可接受性。主要分析為 35 項頭對頭延續／延續延伸設計試驗（9,888 人）：與 fluoxetine 比較，escitalopram（OR 1.62，95% CI 1.21–2.18）、duloxetine（OR 1.57，1.08–2.26）與 agomelatine（OR 1.40，1.06–1.85）的持續反應率較高；escitalopram 與 duloxetine 的全因停藥率亦較低。研究由 Radboudumc 的 Paul van Haaren 等領導，無資助。",
+ "summary_en": "The Lancet Psychiatry published online on 10 November 2026 a systematic review and network meta-analysis of 115 double-blind randomised controlled trials (30,428 adults with unipolar major depressive disorder; mean age 45.3 years, 66% female), comparing 20 antidepressants for long-term treatment (over 12 weeks) on sustained response and acceptability. In the primary analysis of 35 head-to-head continuation and continuation-extension trials (n=9,888), escitalopram (OR 1.62, 95% CI 1.21-2.18), duloxetine (OR 1.57, 1.08-2.26) and agomelatine (OR 1.40, 1.06-1.85) showed higher sustained response rates than fluoxetine; escitalopram and duloxetine also had lower all-cause discontinuation. Led by Paul van Haaren and colleagues (Radboudumc); no funding.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "系統性回顧與網絡統合分析（The Lancet Psychiatry，2026 年 11 月 10 日網上刊出；115 項試驗，30,428 人；DOI: 10.1016/S2215-0366(26)00326-3；經 Radboudumc 官方新聞稿與 PubMed 摘要核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "35 項頭對頭試驗中有 19 項（54%）屬高偏倚風險，網絡統合分析的證據確定性有限，作者亦提醒結果可靠性受限；結果為群組平均，不能預測個別患者的最佳藥物；agomelatine 有肝臟風險；現正服藥有效的患者不應據此自行轉藥。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：115 項雙盲隨機對照試驗，30,428 名成人單相重性抑鬱患者（平均年齡 45.3 歲，66% 女性）；搜尋九個數據庫與監管機構網站至 2026 年 3 月 27 日",
+  "方法：系統性回顧與網絡統合分析，比較 20 種抗抑鬱藥維持治療（超過 12 週）的持續反應率與全因停藥率，以 fluoxetine 為參照；偏倚風險以 Cochrane RoB 2 評估",
+  "主要結果（35 項頭對頭延續試驗，n=9,888）：escitalopram OR 1.62（95% CI 1.21–2.18）、duloxetine OR 1.57（1.08–2.26）、agomelatine OR 1.40（1.06–1.85），持續反應率高於 fluoxetine",
+  "可接受性：escitalopram（OR 0.60，0.43–0.83）與 duloxetine（OR 0.64，0.44–0.95）全因停藥率低於 fluoxetine；reboxetine 與 milnacipran 停藥率較高",
+  "限制：19/35 項頭對頭試驗屬高偏倚風險，證據確定性有限；作者指需更多頭對頭比較試驗；資助：無"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "抗抑鬱藥",
+  "escitalopram",
+  "長期治療",
+  "統合分析",
+  "抑鬱"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案問「係咪應該轉食 escitalopram，因為研究話佢最好」，你會如何用群組平均與高偏倚風險去回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1016/S2215-0366(26)00326-3",
+   "author_handle": "",
+   "author_name": "van Haaren、van Gaalen、Ostinelli、Cipriani、Furukawa、Ruhé 等（Radboudumc）",
+   "title": "Comparative efficacy and acceptability of antidepressants in the long-term treatment of major depressive disorder: a systematic review and network meta-analysis (Lancet Psychiatry 2026; DOI: 10.1016/S2215-0366(26)00326-3)",
+   "content": "115 項試驗統合分析：escitalopram、duloxetine、agomelatine 長期維持療效較 fluoxetine 佳，但 19/35 項頭對頭試驗屬高偏倚風險。",
+   "posted_at": "2026-11-10T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-17T13:32:16+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "comparative-efficacy-and-acceptability-of-antidepressants-in",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

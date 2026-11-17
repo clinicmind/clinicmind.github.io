@@ -1,0 +1,183 @@
+{
+ "title_zh": "RCT：單劑裸蓋菇素輔助治療減輕難治抑鬱，第三週 MADRS 平均低 10.4 分（60 人）",
+ "title_en": "Psilocybin-assisted therapy for treatment-resistant depression NHS randomized trial",
+ "summary_zh": "Nature Medicine 隨機雙盲安慰劑對照可行性試驗，60 名中至重度難治抑鬱成人（平均病程 20 年），於英格蘭一間 NHS 機構接受單劑 25 mg 裸蓋菇素（COMP360）或安慰劑，輔以心理支援。第三週時 MADRS 組間平均差 −10.41 分（95% CI −14.86 至 −5.95）；反應率 43% 對 3%，緩解率 40% 對 3%；效果維持至第六週（MADRS 平均差 −12.92 分）。第六週時 GAD-7 達中度或以上者，裸蓋菇素組 17%，安慰劑組 62%。兩年追蹤正在進行。",
+ "summary_en": "A Nature Medicine double-blind, placebo-controlled feasibility randomised trial randomised 60 adults with moderate-to-severe treatment-resistant depression (mean illness duration 20 years) at a single NHS site in England to a single 25 mg dose of psilocybin (COMP360) or placebo, with psychological support. At week 3, the between-group MADRS difference was -10.41 points (95% CI -14.86 to -5.95); response rates were 43% versus 3% and remission rates 40% versus 3%. Effects were sustained at week 6 (MADRS difference -12.92 points). At week 6, 17% of the psilocybin arm versus 62% of the placebo arm scored 10 or more on the GAD-7. A two-year follow-up is underway.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "隨機雙盲安慰劑對照可行性試驗（Nature Medicine，2026-08-06 線上刊出，32:3430–3437；DOI: 10.1038/s41591-026-04541-0；ClinicalTrials.gov NCT04959253；經 Nature 原文頁核實）",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "試驗排除高自殺風險者，結果不能推論至有自殺風險的難治抑鬱個案；臨床談及迷幻藥物治療時，須說明未獲批准、只限受監管環境，並常規評估自殺風險。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "可行性試驗，樣本只有 60 人，未設功效檢定，結果屬探索性質；設盲失效——被問及的參加者中，裸蓋菇素組 13/13、安慰劑組 7/10 猜中分組，期望效應可能誇大組間差異；只追蹤六週，效果能否維持未知；藥物未獲批准，裸蓋菇素在多地屬管制物質，只可在受監管試驗環境使用；試驗藥物為 COMPASS Pathways 專利製劑 COMP360，多名作者與迷幻藥公司有利益關係（COMPASS Pathways、Beckley PsyTech 等資助、顧問或持股）；高自殺風險者被排除在外。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：60 名難治抑鬱成人（每組 30 人），中至重度、平均病程 20 年；中位年齡 40.8 歲，一半女性",
+  "介入：單劑 25 mg 裸蓋菇素（COMP360）或安慰劑，輔以心理支援；單一 NHS 機構，2021–2024 年進行",
+  "第三週 MADRS 組間平均差 −10.41 分（95% CI −14.86 至 −5.95）；第六週 −12.92 分（95% CI −17.37 至 −8.47）",
+  "第三週反應率 43% 對 3%，緩解率 40% 對 3%；第六週反應率升至 50%",
+  "第六週 GAD-7 達 10 分或以上者：裸蓋菇素組 5/30（17%），安慰劑組 18/29（62%）",
+  "設盲失效：被問及者中裸蓋菇素組 13/13、安慰劑組 7/10 猜中分組；287 宗非嚴重不良事件，4 宗嚴重不良事件中只有 1 宗被評為可能相關（安慰劑組）"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "難治抑鬱",
+  "裸蓋菇素",
+  "迷幻藥物",
+  "RCT",
+  "NHS"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案問起裸蓋菇素治療難治抑鬱時，你會如何說明這項可行性試驗的設盲失效與公司利益關係？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1038/s41591-026-04541-0",
+   "author_handle": "",
+   "author_name": "Rucker 等（倫敦國王學院）",
+   "title": "Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial (Nature Medicine; DOI: 10.1038/s41591-026-04541-0)",
+   "content": "期刊原文頁：單劑裸蓋菇素輔助治療難治抑鬱的隨機對照試驗，含樣本、主要結果、設盲與安全性。",
+   "posted_at": "2026-08-06T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-08T13:26:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "psilocybin-assisted-therapy-for-treatment-resistant-depressi",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "single-dose-mebufotenin-nasal-spray-treatment-resistant-depr",
+   "title_zh": "二期試驗：單劑迷幻藥鼻噴霧 mebufotenin 可快速減輕難治抑鬱，效果維持八週（193 人）",
+   "title_en": "Single dose mebufotenin nasal spray treatment-resistant depression phase 2b",
+   "summary_zh": "JAMA 二期隨機雙盲試驗，193 名 18–75 歲中至重度難治抑鬱成人（本集發作中 2–5 種抗抑鬱藥無效），於澳洲、歐洲與美國 38 個中心接受單劑鼻噴 mebufotenin benzoate（8 mg、12 mg）或低劑量對照（0.3 mg），輔以心理支援。29 天時 MADRS：12 mg 組降 11.1 分、8 mg 組降 12.5 分，對照組降 5.5 分；12 mg 組平均差 −5.3（95% CI −8.9 至 −1.8）。反應率 34.8%（8 mg）與 34.2%（12 mg），對照組 12.2%；緩解率 26% 與 18%，對照組 8%。效果自用藥後第 2 天出現，維持至第 57 天；八成以上活性組參加者於兩小時內達到可出院標準。",
+   "summary_en": "A JAMA phase 2b randomised, double-blind trial enrolled 193 adults aged 18-75 with moderate-to-severe treatment-resistant depression (2-5 antidepressants failed in the current episode) at 38 sites in Australia, Europe and the US. Participants received a single intranasal dose of mebufotenin benzoate (8 mg or 12 mg) or a low-dose comparator (0.3 mg) alongside psychological support. At day 29, MADRS fell by 11.1 points (12 mg) and 12.5 points (8 mg) versus 5.5 points with the comparator (mean difference -5.3, 95% CI -8.9 to -1.8, for 12 mg). Response rates were 34.8% (8 mg) and 34.2% (12 mg) versus 12.2% with the comparator; remission rates 26% and 18% versus 8%. Benefits appeared by day 2 and persisted to day 57, and over 80% of participants on active doses met discharge-readiness criteria within 2 hours.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "難治抑鬱",
+    "迷幻藥物",
+    "mebufotenin",
+    "鼻噴霧",
+    "二期試驗"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-26T00:00:00+00:00"
+  },
+  {
+   "slug": "adaa-free-webinar-psychedelics-research-to-real-life",
+   "title_zh": "免費網上講座：Carhart-Harris 談迷幻藥物研究與臨床現實（11 月 18 日）",
+   "title_en": "ADAA free webinar psychedelics research to real life",
+   "summary_zh": "美國焦慮與抑鬱協會（ADAA）首場「研究走進現實」免費網上講座，2026 年 11 月 18 日星期三 12:00–13:00 EDT（港澳 11 月 19 日 00:00–01:00）線上舉行。Robin Carhart-Harris 主講、Greg Fonzo 主持，講解迷幻藥物是甚麼、作用機制，以及現時治療效益與風險，區分臨床事實與傳言。",
+   "summary_en": "The Anxiety & Depression Association of America's first free 'Research to Real Life' webinar, held online on Wednesday 18 November 2026, 12:00-13:00 EDT (00:00-01:00 on 19 November in Hong Kong/Macau). Robin Carhart-Harris presents with Greg Fonzo moderating, covering what psychedelics are, how they work, and the current therapeutic benefits and risks, separating clinical fact from fiction.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "迷幻藥物",
+    "免費網上講座",
+    "ADAA",
+    "Carhart-Harris"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-06T13:27:53+00:00",
+   "training": {
+    "provider": "美國焦慮與抑鬱協會（ADAA）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-18",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "bessel-van-der-kolk-free-webinar-psychedelics-integration",
+   "title_zh": "免費網上講座：Bessel van der Kolk 談迷幻藥物、記憶整合與自我慈悲（11 月 22 日）",
+   "title_en": "Bessel van der Kolk free webinar psychedelics integration",
+   "summary_zh": "Mind Medicine Australia 的免費網上講座，由創傷研究先驅 Bessel van der Kolk 主講（波士頓大學醫學院精神科教授、《身體記得你》作者）。2026 年 11 月 22 日澳洲東部時間 11:00–12:15（港澳同日 08:00–09:15）線上舉行，75 分鐘含問答，YouTube 提供重播。主題為迷幻藥物如何助整合零散經驗、改變舊習慣、打開神經可塑窗口與促進自我慈悲，以及治療支援與整合的角色。",
+   "summary_en": "A free online webinar from Mind Medicine Australia, presented by trauma research pioneer Bessel van der Kolk (Professor of Psychiatry, Boston University School of Medicine; author of The Body Keeps the Score). Held online on 22 November 2026, 11:00-12:15 AEDT (08:00-09:15 Macau time), 75 minutes including Q&A, with a replay on YouTube. The session covers how psychedelics may help integrate disparate experiences, change old habits, open neuroplastic windows and promote self-compassion, and the role of therapeutic support and integration.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "創傷",
+    "迷幻藥物輔助治療",
+    "自我慈悲",
+    "免費網上講座",
+    "van der Kolk"
+   ],
+   "first_seen_at": "2026-11-05T13:45:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-05T13:45:00+00:00",
+   "training": {
+    "provider": "Mind Medicine Australia",
+    "price": "免費（可自由捐款）",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-22",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "title_zh": "每日步數愈多，青少年一年後情緒問題愈少：12,000 步組最少，效應未見平台期（5,515 人）",
+ "title_en": "Physical activity adolescent brain structure mental health academic outcomes step count",
+ "summary_zh": "JAMA Network Open 2026 年 10 月 1 日刊出倫敦國王學院主導的隊列研究，分析 ABCD 研究 5,515 名青少年（平均 11.93 歲，47.9% 女性）。參加者在 11 至 12 歲時佩戴 Fitbit 三星期記錄每日步數，一年後以兒童行為量表評估情緒問題。步數愈高，一年後整體情緒問題愈少，效應呈劑量反應，未見平台期：每日少於 5,000 步組症狀最多，約 8,000 步較少，12,000 步或以上最少；每日多 1,000 至 2,000 步已與較佳腦結構及情緒結果相關。步數較高者中央旁區與吻側前扣帶皮質較厚，中央旁區厚度在統計上中介步數與一年後較少情緒問題的關聯。步數與學業成績無明顯關聯。研究由 Qingyang Li、Amanda Paluch 與 Divyangana Rakesh 領導；資助包括 Brain & Behavior Research Foundation、英國醫學研究理事會等。",
+ "summary_en": "JAMA Network Open published a cohort study on 1 October 2026, led by King's College London, analysing 5,515 adolescents from the ABCD Study (mean age 11.93 years, 47.9% female). Participants wore Fitbit devices for three weeks at ages 11 to 12 to record daily step counts, and mental health was assessed one year later with the Child Behavior Checklist. Higher step counts were associated with fewer total mental health problems one year later, in a dose-response pattern with no plateau: adolescents averaging under 5,000 steps a day had the most symptoms, those around 8,000 had fewer, and those at 12,000 or more had the fewest; 1,000 to 2,000 more steps a day from any baseline was already linked to better brain structure and mental health. Higher step counts were linked to greater cortical thickness in the paracentral and rostral anterior cingulate regions, and paracentral thickness statistically mediated the link to fewer mental health problems a year later. Step count was not clearly linked to school grades. Led by Qingyang Li, Amanda Paluch and Divyangana Rakesh; funded by the Brain & Behavior Research Foundation and the UK Medical Research Council, among others.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "隊列研究（JAMA Network Open 2026 年 10 月 1 日刊出，9(10):e2636973；DOI: 10.1001/jamanetworkopen.2026.36973；JAMA 原文頁未能直接讀取，數字經倫敦國王學院官方報道與論文摘要核實；2026 年 11 月 9–11 日媒體報道再引起關注）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "觀察性研究，未能證明多走路直接改善情緒或腦結構；已控制參加者先前情緒問題，但本身情緒問題較少者可能本來較活躍；腦結構差異細小；極高步數參加者少，未知效應在更高步數是否持續；樣本為美國 ABCD 參加者，推廣至其他地區有限。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：ABCD 研究 5,515 名青少年，平均 11.93 歲（標準差 0.65），47.9% 女性；美國 21 個研究點",
+  "方法：11 至 12 歲時佩戴 Fitbit 三星期記錄每日步數；一年後以兒童行為量表評估情緒問題，並以腦掃描量度皮質厚度",
+  "主要結果：步數愈高，一年後整體情緒問題愈少（B −0.080，標準誤 0.015，P < .001），效應呈劑量反應，未見平台期",
+  "步數分組：每日少於 5,000 步組症狀最多，約 8,000 步較少，12,000 步或以上最少；每日多 1,000 至 2,000 步已與較佳結果相關",
+  "腦結構：步數較高者中央旁區皮質較厚（B 0.057，P < .001）與吻側前扣帶皮質較厚（B 0.052，P = .001）；中央旁區厚度在統計上中介步數與一年後較少情緒問題的關聯",
+  "學業與限制：步數與學業成績無明顯關聯；觀察性研究，未能證明因果；腦結構差異細小；樣本為美國 ABCD 參加者"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "青少年",
+  "身體活動",
+  "步數",
+  "情緒問題",
+  "腦結構",
+  "ABCD 研究"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「叫個仔每日行 12,000 步係咪可以改善情緒」，你會點用呢個研究的觀察性設計去回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1001/jamanetworkopen.2026.36973",
+   "author_handle": "",
+   "author_name": "Li、Paluch 與 Rakesh（倫敦國王學院／麻省大學阿默斯特分校）",
+   "title": "Physical Activity and Adolescent Brain Structure, Mental Health, and Academic Outcomes (JAMA Network Open; DOI: 10.1001/jamanetworkopen.2026.36973)",
+   "content": "隊列研究：5,515 名青少年，每日步數愈高一年後情緒問題愈少，12,000 步組最少。",
+   "posted_at": "2026-10-01T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-13T13:30:36+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "physical-activity-adolescent-brain-structure-mental-health-a",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [],
+ "evidence_quote": "higher daily step counts were associated",
+ "page_date": "2026-10-01"
+}

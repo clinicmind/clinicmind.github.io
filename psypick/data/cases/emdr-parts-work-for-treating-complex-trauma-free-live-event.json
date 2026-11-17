@@ -1,0 +1,209 @@
+{
+ "title_zh": "EMDR 與部分工作治療複雜性創傷（免費直播）",
+ "title_en": "EMDR & Parts Work for Treating Complex Trauma (Free Live Event)",
+ "summary_zh": "Psychotherapy Networker 舉辦的免費直播課程，於 2026-10-22 美東時間上午 10:30 至下午 6:00 線上舉行。課程聚焦以 EMDR 結合部分工作（parts work）與身體取向技巧，協助臨床工作者降低個案防衛、促進創傷處理。原價 $249.99，現免費參加，需線上報名。",
+ "summary_en": "Free live online event from Psychotherapy Networker on 22 Oct 2026 (10:30am–6:00pm EDT) on combining EMDR, parts work and body-oriented techniques for complex trauma; listed at $0 instead of $249.99.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程",
+ "ethics_flags": [
+  {
+   "flag": "能力範圍",
+   "note": "EMDR 與創傷工作需要相應訓練與督導。",
+   "refs": [
+    "APA 2.01｜能力範圍"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "頁面目前顯示報名未開放，且講者與學分資料未列，請先確認再報名；免費直播不一定附 CE 學分。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "免費直播，原價 $249.99，現價 $0.00",
+  "2026-10-22 10:30am–06:00pm EDT 線上直播",
+  "主題：EMDR 結合部分工作與身體取向技巧，治療複雜性創傷",
+  "需在 Psychotherapy Networker 報名頁註冊參加"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "EMDR",
+  "部分工作",
+  "複雜性創傷",
+  "身體取向治療",
+  "免費培訓"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "把部分工作與 EMDR 結合處理複雜性創傷時，督導需要確認治療師哪些訓練與穩定化準備？",
+  "免費直播課程不等於完整訓練，如何在督導中評估是否足以開始臨床應用？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "audience_level": "臨床工作者",
+  "ce_credits": "",
+  "deadline": "",
+  "event_date": "2026-10-22",
+  "format": "線上直播",
+  "language": "",
+  "price": "$0.00（原價 $249.99）",
+  "price_tier": "免費",
+  "provider": "Psychotherapy Networker",
+  "signup_url": "https://catalog.psychotherapynetworker.org/viewer/classroom/53052511/?gid=124306",
+  "topic": "EMDR、部分工作、身體取向技巧治療複雜性創傷",
+  "format_note": "線上直播（Live Webcast）"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://catalog.psychotherapynetworker.org/viewer/classroom/53052511/?gid=124306",
+   "author_handle": "",
+   "author_name": "Psychotherapy Networker",
+   "title": "FREE LIVE EVENT! | EMDR & Parts Work for Treating Complex Trauma",
+   "content": "Psychotherapy Networker 報名頁：免費直播課程 EMDR & Parts Work for Treating Complex Trauma，2026-10-22 美東時間 10:30am–06:00pm，結合 EMDR、部分工作與身體取向技巧處理複雜性創傷。",
+   "posted_at": "2026-10-06T02:37:46+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-06T02:37:46+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "emdr-parts-work-for-treating-complex-trauma-free-live-event",
+ "featured_at": "2026-10-16T02:38:03+00:00",
+ "hot_score": 4.0,
+ "tier": "archive",
+ "deadline_soon": true,
+ "related": [
+  {
+   "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
+   "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
+   "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
+   "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
+   "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "創傷",
+    "依附",
+    "身體取向治療",
+    "網上研討會",
+    "免費CE"
+   ],
+   "first_seen_at": "2026-10-07T02:38:14+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": "2026-10-07T02:38:14+00:00",
+   "tier": "archive",
+   "has_ethics_flags": true,
+   "date": "2026-10-07T02:38:14+00:00",
+   "training": {
+    "provider": "Phoenix Center for Experiential Trauma Therapy",
+    "price": "Free",
+    "price_tier": "免費",
+    "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
+    "language": "English",
+    "deadline": "",
+    "event_date": "2026-10-14",
+    "format": "線上"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "polyvagal-institute-free-online-community-events-oct-nov-202",
+   "title_zh": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
+   "title_en": "Polyvagal Institute free online community events Oct–Nov 2026",
+   "summary_zh": "註冊為 501(c)(3) 非營利組織的 Polyvagal Institute 在 2026 年 10 月至 11 月有五場免費 Zoom 活動，包括 11/6 共同創辦人 Deb Dana 的問答，以及 11/14 Stephen Porges 與國際講者討論言語、語言發展與自律神經系統的 90 分鐘座談。報名即可在活動後收到錄影（Deb Dana 場錄影只開放兩週）。",
+   "summary_en": "The Polyvagal Institute, a registered 501(c)(3) nonprofit, hosts five free Zoom community events in Oct–Nov 2026, including a Q&A with co-founder Deb Dana (Nov 6) and a 90-minute conversation with Stephen Porges and international panelists on speech, language development and the autonomic nervous system (Nov 14). Registrants receive recordings afterwards.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "身體取向治療",
+    "多迷走神經理論",
+    "自律神經調節",
+    "兒童心理",
+    "免費"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": "2026-10-05T03:24:52+00:00",
+   "tier": "archive",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "Polyvagal Institute（501(c)(3) 非營利組織）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "2026-10-12",
+    "format": "線上直播（Zoom），附錄影"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "free-pat-ogden-webinar-on-resilience-amid-trauma",
+   "title_zh": "Pat Ogden 免費錄影講座：感覺動作心理治療談創傷下的復原力",
+   "title_en": "Free Pat Ogden webinar on resilience amid trauma",
+   "summary_zh": "Leading Edge Seminars 與 Sensorimotor Psychotherapy Institute（SPI）、SensorimotorItalia.it 合作，免費公開 Pat Ogden 與 Rebeca Farca 的錄影講座「Building Resilience in Times of War, Violence & Other Traumatic Events」。內容介紹如何協助長期處於壓力與威脅下的案主，並附講義、給案主用的 PEACE protocol 與給臨床人員的 SPI protocol 可下載。",
+   "summary_en": "Leading Edge Seminars, with the Sensorimotor Psychotherapy Institute and SensorimotorItalia.it, offers a free recorded webinar by Pat Ogden and Rebeca Farca, 'Building Resilience in Times of War, Violence & Other Traumatic Events'. It shows how to help clients living with long-term stress and threat, with a downloadable handout, a PEACE protocol for clients and an SPI protocol for clinicians.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "身體取向治療",
+    "感覺動作心理治療",
+    "創傷",
+    "復原力",
+    "免費"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "Leading Edge Seminars（與 Sensorimotor Psychotherapy Institute 合作）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "",
+    "format": "錄影講座（隨選觀看）"
+   },
+   "deadline_soon": false
+  }
+ ],
+ "evidence_quote": "FREE LIVE EVENT!",
+ "page_date": ""
+}

@@ -1,0 +1,71 @@
+{
+ "title_zh": "免費網上培訓：將神經反饋引入學校（11 月 13 日，90 分鐘）",
+ "title_en": "Introduction of neurofeedback into schools ISNR webinar",
+ "summary_zh": "International Society for Neuroregulation & Research（ISNR）免費網上講座，由 Siegfried Othmer 博士主講，主題是將神經反饋引入學校。講座介紹神經反饋如何用於學校環境，包括講者稱丹麥研究顯示少女心理健康問題倍增、20 節訓練後衝動控制的中位心理年齡提升等臨床觀察。2026 年 11 月 13 日星期五美國東部時間中午 12 時舉行，90 分鐘，全程線上，免費參加；繼續教育學分須另付費。報名經 ISNR 會員平台。",
+ "summary_en": "The International Society for Neuroregulation & Research (ISNR) offers a free webinar, \"Introduction of Neurofeedback into Schools\", presented by Dr. Siegfried Othmer. It introduces neurofeedback in school settings, including the presenter's claims of a Danish study showing a doubling of mental-health concerns among teenage girls and median mental-age gains in impulsivity control after 20 sessions. It runs on Friday 13 November 2026 at 12:00 noon Eastern, 90 minutes, fully online and free; continuing education credit costs extra. Registration is via the ISNR member platform.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓頁面（ISNR；2026 年 11 月 13 日美國東部時間 12:00；免費；90 分鐘；經原頁核實；CE 學分須另付費，頁面未註明學分時數）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "頁面所載成效數字（衝動控制心理年齡提升、15,000 組前後測數據、韋氏智商提升 23 分）為講者宣稱，未經同儕審查證據支持；神經反饋用於學校的實證基礎有限，須與已確立的介入區分；CE 學分須另付費，學分時數未註明。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "講者：Siegfried Othmer 博士",
+  "主題：將神經反饋引入學校，包括講者對丹麥少女心理健康趨勢與訓練成效的臨床觀察",
+  "日期：2026 年 11 月 13 日星期五美國東部時間中午 12 時，90 分鐘",
+  "費用：免費參加；繼續教育學分須另付費（頁面未註明學分時數）",
+  "對象：臨床工作者、學校心理健康人員",
+  "形式：線上直播；報名經 ISNR 會員平台"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "神經反饋",
+  "學校",
+  "免費培訓"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "有學校問你神經反饋係咪值得引入，你會點樣用實證等級去同佢哋解釋講者宣稱同已確立證據嘅分別？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "ISNR（International Society for Neuroregulation & Research）",
+  "price": "免費",
+  "price_tier": "免費",
+  "ce_credits": "CE 學分須另付費（頁面未註明學分時數）",
+  "language": "英語",
+  "deadline": "",
+  "event_date": "2026-11-13",
+  "format": "線上直播",
+  "event_time_note": "12:00（美國東部時間），90 分鐘"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://isnr.org/events/webinar-introduction-of-neurofeedback-into-schools",
+   "author_handle": "",
+   "author_name": "ISNR",
+   "title": "Introduction of Neurofeedback into Schools (ISNR free webinar, 13 November 2026)",
+   "content": "培訓頁面：免費網上神經反饋講座，2026 年 11 月 13 日美國東部時間 12:00，90 分鐘。",
+   "posted_at": "2026-11-12T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-12T13:37:10+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "introduction-of-neurofeedback-into-schools-isnr-webinar",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "archive",
+ "deadline_soon": false,
+ "related": [],
+ "evidence_quote": "Introduction of Neurofeedback into",
+ "page_date": ""
+}

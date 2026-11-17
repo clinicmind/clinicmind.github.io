@@ -1,0 +1,180 @@
+{
+ "title_zh": "免費網上講座：認識 EMDR 基礎培訓（11 月 18 日，臨床工作者）",
+ "title_en": "Basic EMDR webinar free live conversation Deany Laliotis November 2026",
+ "summary_zh": "The Center for Excellence in EMDR Therapy 舉辦免費 30 分鐘網上對談，由創辦人 Deany Laliotis 主講，介紹 EMDR 是什麼、適應性訊息處理模式如何理解創傷，以及基礎培訓至進階的完整學習歷程。對象為考慮報讀 EMDR 基礎培訓的持牌臨床工作者，修讀中而有個案的研究生亦可參加。2026 年 11 月 18 日美國東岸時間下午 1 時舉行。",
+ "summary_en": "The Center for Excellence in EMDR Therapy hosts a free 30-minute live online conversation on November 18, 2026 (1:00 p.m. ET) with founder Deany Laliotis, introducing what EMDR therapy is, how the Adaptive Information Processing model informs trauma treatment, and the full training arc from Basic Training to advanced levels. It is aimed at licensed mental health clinicians considering Basic Training; graduate students on a licensing track with an active caseload are also welcome.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "免費簡介不等於 EMDR 基礎培訓；舉行日期依搜尋摘要，原頁未顯示日期，報名前請再核對。",
+ "verify_needed": true,
+ "verify_reason": "原頁未顯示舉行日期，11 月 18 日及免費依搜尋摘要",
+ "brief_zh": [
+  "免費 30 分鐘網上即時對談，無既定議程，以問答為主",
+  "講解 EMDR 及適應性訊息處理模式，以及基礎培訓的學習歷程",
+  "對象為持牌臨床工作者及有個案的在學研究生",
+  "主辦機構為 EMDRIA 認可的 EMDR 培訓組織"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "EMDR",
+  "創傷治療",
+  "免費"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案問起 EMDR 時，你會如何分辨「簡介講座」與「已受訓治療師提供 EMDR」的分別？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "The Center for Excellence in EMDR Therapy",
+  "format": "線上",
+  "price": "免費",
+  "price_tier": "免費",
+  "ce_credits": "",
+  "language": "English",
+  "event_date": "2026-11-18",
+  "deadline": "",
+  "audience_level": "持牌臨床工作者及在學研究生",
+  "topic": "EMDR 基礎培訓簡介",
+  "signup_url": "http://emdrtherapy.com/basic-emdr-webinar"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "http://emdrtherapy.com/basic-emdr-webinar",
+   "author_handle": "",
+   "author_name": "The Center for Excellence in EMDR Therapy (Deany Laliotis)",
+   "title": "Basic Webinar — The Center for Excellence in EMDR Therapy",
+   "content": "EMDR 培訓中心舉辦免費 30 分鐘網上對談，由創辦人 Deany Laliotis 介紹 EMDR 基礎培訓的內容與學習歷程，適合考慮報讀基礎培訓的持牌臨床工作者。",
+   "posted_at": "2026-11-18T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-17T01:43:46+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "basic-emdr-webinar-free-live-conversation-deany-laliotis-nov",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "emdr-parts-work-for-treating-complex-trauma-free-live-event",
+   "title_zh": "EMDR 與部分工作治療複雜性創傷（免費直播）",
+   "title_en": "EMDR & Parts Work for Treating Complex Trauma (Free Live Event)",
+   "summary_zh": "Psychotherapy Networker 舉辦的免費直播課程，於 2026-10-22 美東時間上午 10:30 至下午 6:00 線上舉行。課程聚焦以 EMDR 結合部分工作（parts work）與身體取向技巧，協助臨床工作者降低個案防衛、促進創傷處理。原價 $249.99，現免費參加，需線上報名。",
+   "summary_en": "Free live online event from Psychotherapy Networker on 22 Oct 2026 (10:30am–6:00pm EDT) on combining EMDR, parts work and body-oriented techniques for complex trauma; listed at $0 instead of $249.99.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "EMDR",
+    "部分工作",
+    "複雜性創傷",
+    "身體取向治療",
+    "免費培訓"
+   ],
+   "first_seen_at": "2026-10-06T02:37:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 4.0,
+   "mention_count": 1,
+   "featured_at": "2026-10-16T02:38:03+00:00",
+   "tier": "archive",
+   "has_ethics_flags": true,
+   "date": "2026-10-06T02:37:46+00:00",
+   "training": {
+    "provider": "Psychotherapy Networker",
+    "price": "$0.00（原價 $249.99）",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "",
+    "deadline": "",
+    "event_date": "2026-10-22",
+    "format": "線上直播（Live Webcast）"
+   },
+   "deadline_soon": true
+  },
+  {
+   "slug": "brief-emdr-for-personality-disorders-rct",
+   "title_zh": "短程 EMDR 用於人格障礙：荷蘭 RCT 顯示五週十次後症狀與診斷狀態改善",
+   "title_en": "Brief EMDR for personality disorders RCT",
+   "summary_zh": "Mental Elf 評介一項荷蘭兩所門診的隨機對照試驗（JAMA Network Open, 2025）：159 名人格障礙成人隨機分到 EMDR（每週兩次、共十次 90 分鐘）或候補名單。三個月追蹤時，以 ADP-IV 衡量 EMDR 組 44.1% 不再符合人格障礙標準，控制組 15.8%；人格障礙症狀、人格功能與情緒調節亦改善，中止率僅 5.1%、未報告不良事件。評論者提醒對照組是候補名單、追蹤期短。",
+   "summary_en": "A Mental Elf blog reviews a Dutch RCT (JAMA Network Open, 2025) in which 159 adults with personality disorders received ten 90-minute EMDR sessions over five weeks or waiting list. At three-month follow-up, 44.1% of the EMDR group no longer met PD criteria on the ADP-IV versus 15.8% of controls, with gains in PD symptoms, personality functioning and emotion regulation, 5.1% dropout and no reported adverse events. The reviewer notes the waiting-list comparator and short follow-up.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "EMDR",
+    "人格障礙",
+    "創傷",
+    "短程治療",
+    "隨機對照試驗"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.906,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-01T00:00:00+00:00"
+  },
+  {
+   "slug": "pesi-free-2-day-clinical-trauma-training-kate-truitt-neurosc",
+   "title_zh": "PESI 免費兩日創傷培訓：Kate Truitt 談創傷神經科學與創傷後成長",
+   "title_en": "PESI free 2-day clinical trauma training Kate Truitt neuroscience posttraumatic growth",
+   "summary_zh": "臨床心理學家 Kate Truitt 主講的 PESI 免費兩日線上培訓，2026 年 11 月 3–4 日美中時間上午 8 時至下午 4 時直播。內容涵蓋發展與依附創傷、PTSD 與複雜性創傷、解離、階段式治療。直播與三日重播免費，CE 學分與 CCTP 證書另收費。",
+   "summary_en": "Clinical psychologist and applied neuroscientist Kate Truitt leads PESI's free two-day online trauma training on 3-4 November 2026 (8am-4pm US Central): developmental and attachment trauma, PTSD and complex trauma, dissociation and phase-based treatment. Live attendance and three-day replay are free; CE credit and the CCTP credential are available for a fee.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "創傷",
+    "神經科學",
+    "免費培訓"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "archive",
+   "has_ethics_flags": false,
+   "date": "2026-10-28T08:01:01+00:00",
+   "training": {
+    "provider": "PESI",
+    "price": "免費（直播與重播免費；CE 學分與 CCTP 證書另收費）",
+    "price_tier": "免費",
+    "ce_credits": "另收費（頁面原文：available for a fee）",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-03",
+    "format": "線上"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+  "_說明": "把 url 改成你的 Buy Me a Coffee / Ko-fi / PayPal.me 等收款頁網址（要 https:// 開頭），存檔後重新上傳網站即可。url 留空就不會顯示按鈕。",
+  "url": "",
+  "label_zh": "請我喝杯咖啡",
+  "label_en": "Buy me a coffee",
+  "note_zh": "本站免費使用、不放廣告。贊助純屬自願，不影響內容的選擇。",
+  "note_en": "Free to use, no ads. Support is voluntary and never affects what we feature."
+}

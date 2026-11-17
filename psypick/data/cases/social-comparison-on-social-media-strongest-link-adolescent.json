@@ -1,0 +1,125 @@
+{
+ "title_zh": "研究：青少年在社交媒體上與人比較，與焦慮抑鬱症狀關聯最強",
+ "title_en": "Social comparison on social media strongest link adolescent mental health symptoms",
+ "summary_zh": "Child and Adolescent Psychiatry and Mental Health 於 2026 年 10 月 17 日刊出的橫斷面研究，分析挪威東南部 21 間學校 4,011 名青少年（平均 14 歲，2025 年秋季問卷）。在社交媒體使用五個面向中，「與人比較」對五種症狀的預測力最強：內化症狀（廣泛焦慮、社交焦慮、抑鬱）解釋約 20–26% 變異，外化症狀（ADHD、對立違抗）解釋 6–9%；「消磨時間」與「尋求支持」則幾無獨立關聯。研究不能證明因果關係。",
+ "summary_en": "A cross-sectional study in Child and Adolescent Psychiatry and Mental Health (published 17 October 2026) analysed 4,011 Norwegian adolescents (mean age 14) from 21 schools in South-Eastern Norway. Among five aspects of social media use, social comparison was the strongest predictor across all five symptom domains, accounting for about 20-26% of variance in internalizing symptoms (generalized anxiety, social anxiety, depression) and 6-9% in externalizing symptoms (ADHD, oppositional defiant disorder); passing time and seeking support showed negligible independent associations. The design cannot establish causation.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊研究（Child and Adolescent Psychiatry and Mental Health，DOI: 10.1186/s13034-026-01196-0），經期刊原文頁核對",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "橫斷面研究，不能證明社交比較導致症狀，也可能是症狀較重者更常比較；症狀以自填量表量度，非臨床診斷；樣本限挪威東南部，推廣需謹慎。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：挪威東南部 21 間學校 4,011 名青少年，平均 14 歲，2025 年秋季橫斷面問卷（PULS 研究）",
+  "五個面向：與人比較、消磨時間、尋求支持、受他人敵意、對他人敵意",
+  "與人比較預測力最強：內化症狀解釋約 20–26% 變異，外化症狀 6–9%",
+  "受他人敵意次之（3–6% 變異）；消磨時間與尋求支持幾無獨立關聯",
+  "作者無利益衝突申報；研究經挪威區域醫學研究倫理委員會批准"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "社交媒體",
+  "社交比較",
+  "青少年",
+  "焦慮抑鬱"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "青少年說「人人過得比我好」時，你會如何區分社交比較、被排斥與原有低落情緒的線索？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://link.springer.com/article/10.1186/s13034-026-01196-0",
+   "author_handle": "",
+   "author_name": "Springer Nature",
+   "title": "Specific aspects of social media use and their associations with symptoms of five mental disorders among adolescents",
+   "content": "期刊原文頁：挪威青少年社交媒體使用五個面向與五種心理症狀關聯的橫斷面研究，含摘要、方法與主要結果。",
+   "posted_at": "2026-10-17T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-29T13:35:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "social-comparison-on-social-media-strongest-link-adolescent",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "uk-under-16-social-media-ban-two-professional-perspectives",
+   "title_zh": "英國 16 歲以下社交媒體禁令：教師與神經多樣性顧問的兩種看法",
+   "title_en": "UK under-16 social media ban: two professional perspectives",
+   "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
+   "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
+   "category": "人機互動心理",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "特殊教育需要",
+    "社交媒體",
+    "青少年",
+    "神經多樣性",
+    "政策",
+    "Anna Freud"
+   ],
+   "first_seen_at": "2026-10-01T03:55:02+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.783,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-07-29T00:00:00+00:00"
+  },
+  {
+   "slug": "therapists-on-social-media-and-professional-boundaries",
+   "title_zh": "Shedler：真正的心理治療不在網路上，借專業頭銜給陌生人建議卻不負責任",
+   "title_en": "Therapists on social media and professional boundaries",
+   "summary_zh": "Jonathan Shedler 指出，心理治療需要持續的專業關係、完整的個人史與專注的評估，這些在社群媒體上都不存在。在網路上對陌生人提供類治療建議的專業人員，借用了頭銜的權威，卻不承擔法律與倫理責任；而表面的困擾背後可能藏著創傷、自殺意念或身體疾病，需要完整評估。",
+   "summary_en": "Jonathan Shedler argues psychotherapy requires an ongoing professional relationship, full history and careful evaluation, none of which exist on social media. Professionals who give therapy-like advice to strangers online borrow the authority of their credentials while assuming no legal or ethical responsibility, and surface complaints may hide trauma, suicidality or medical conditions.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "社群媒體",
+    "專業界線",
+    "心理教育",
+    "治療師網紅"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.767,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-10T00:00:00+00:00"
+  }
+ ]
+}

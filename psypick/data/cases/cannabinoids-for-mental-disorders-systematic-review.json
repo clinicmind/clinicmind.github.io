@@ -1,0 +1,61 @@
+{
+ "title_zh": "統合分析：大麻素治療精神障礙證據薄弱，僅少數適應症有低確定性訊號（54 項 RCT）",
+ "title_en": "Cannabinoids for mental disorders systematic review",
+ "summary_zh": "The Lancet Psychiatry 系統性回顧統合 54 項隨機對照試驗、2,477 名參加者。CBD 加 THC 可減輕大麻使用障礙的戒斷症狀（SMD −0.29）與每週大麻用量（−1.00 克），抽動嚴重度下降（−0.68）；失眠睡眠時間與自閉症特質亦有輕微訊號。焦慮、創傷後壓力症、精神病、厭食症、阿片類使用障礙無顯著效益；抑鬱症完全無隨機對照試驗證據。全因不良事件風險較高（OR 1.75，NNTH=7），嚴重不良事件無差異；44% 試驗偏倚風險高，多數結果證據確定性低。",
+ "summary_en": "A Lancet Psychiatry systematic review pooled 54 RCTs with 2,477 participants. Combined CBD and THC reduced cannabis withdrawal symptoms (SMD -0.29) and weekly cannabis use (-1.00 g), and tic severity fell (-0.68); sleep duration in insomnia and autistic traits showed modest signals. There was no significant benefit for anxiety, PTSD, psychotic disorders, anorexia nervosa or opioid use disorder, and no RCT evidence at all for depression. All-cause adverse events were more common (OR 1.75, NNTH=7) with no difference in serious adverse events; 44% of trials had high risk of bias and most outcomes were low-certainty evidence.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "系統性回顧與統合分析（The Lancet Psychiatry，2026 年 4 月號，13(4):304–315；2026-03-16 線上刊出；DOI: 10.1016/S2215-0366(26)00015-5；PROSPERO CRD42023392718）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "44% 納入試驗偏倚風險高，多數結果證據確定性低；試驗期平均約五週，長期效果與安全性未知；結果不否定個別患者的臨床判斷，但常規使用大麻素治療精神障礙的理據不足。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "54 項 RCT，2,477 名參加者（69% 男性，中位年齡 33.3 歲），搜尋 1980 年至 2025 年 5 月文獻",
+  "CBD＋THC：大麻戒斷症狀 SMD −0.29、每週用量 −1.00 克；抽動嚴重度 −0.68",
+  "焦慮、PTSD、精神病、厭食症、阿片類使用障礙：無顯著效益；抑鬱症無 RCT 證據",
+  "全因不良事件 OR 1.75（NNTH=7）；嚴重不良事件與退出率無差異",
+  "44% 試驗偏倚風險高；多數結果證據確定性低；作者結論：常規使用現階段理據不足"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "大麻素",
+  "CBD",
+  "THC",
+  "統合分析",
+  "物質使用"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案問「CBD 可唔可以幫到我瞓好啲／減焦慮」時，你會如何按適應症逐一說明現時證據與風險？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41856154/",
+   "author_handle": "",
+   "author_name": "Wilson 等（悉尼大學 Matilda Centre）",
+   "title": "The efficacy and safety of cannabinoids for the treatment of mental disorders and substance use disorders: a systematic review and meta-analysis (Lancet Psychiatry; DOI: 10.1016/S2215-0366(26)00015-5)",
+   "content": "PubMed 摘要：54 項 RCT 的系統性回顧與統合分析，含各適應症的效果量、偏倚風險與不良事件。",
+   "posted_at": "2026-03-16T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-06T13:27:53+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "cannabinoids-for-mental-disorders-systematic-review",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

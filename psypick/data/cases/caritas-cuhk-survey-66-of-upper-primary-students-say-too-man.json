@@ -1,0 +1,153 @@
+{
+ "title_zh": "明愛與中大調查：66% 高小學生認為評核過多，經常感到壓力",
+ "title_en": "Caritas-CUHK survey: 66% of upper primary students say too many assessments",
+ "summary_zh": "香港明愛與中文大學社會工作學系的「香港兒童主觀幸福感與家庭因素之研究」於 2025 年 10 月至 2026 年 4 月收集逾 5,200 名小四至小六學生問卷。66% 認為校內評核及考試過多，經常感到壓力；59.4% 表示難以接受突發事情並對未來感到擔憂。研究團隊提出「希望悖論」：孩子在競爭制度下壓低期望以免失望；家長帶著失望情緒說「盡力就好」，反而成為軟性壓力。",
+ "summary_en": "A Caritas Hong Kong and Chinese University social-work study surveyed over 5,200 Primary 4-6 students (Oct 2025-Apr 2026). 66% said school assessments and exams were excessive and left them often stressed; 59.4% struggled with unexpected events and worried about the future. The team describes a 'hope paradox': children lower their expectations to avoid disappointment, while parents' disappointed tone behind 'just try your best' can become soft pressure.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "大學與社福機構調查報告（2026 年 8 月發表），經 SuperPAMA 報道核對；教育局 2026-10-21 立法會書面答覆亦引用此研究",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "數字來自學童自填問卷的主觀感受，不等於臨床壓力評估；研究全文未公開，細節以報道為準。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "研究：明愛與中大社工系「香港兒童主觀幸福感與家庭因素之研究」（2026 年 8 月發表）",
+  "樣本：31 間學校及多間青少年中心，逾 5,200 名小四至小六學生，另有 40 人聚焦小組",
+  "66% 認為評核及考試過多，經常感到壓力",
+  "59.4% 難以接受突發事情，對未來感到擔憂",
+  "「希望悖論」：孩子刻意壓低期望以免失望；家長的失望語氣可變成軟性壓力"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "學童壓力",
+  "評核",
+  "香港",
+  "親子"
+ ],
+ "population": [
+  "兒童青少年"
+ ],
+ "supervision_questions": [
+  "家長說「盡力就好」時，我們如何幫他覺察語氣與表情傳遞的期望？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://superpama.hk/posts/student-stress-assessment-2026",
+   "author_handle": "",
+   "author_name": "SuperPAMA 親子網",
+   "title": "學童壓力2026｜66%高小生認為評核過多 教育局：學校可減默書測考",
+   "content": "報道明愛與中大研究的主要數字（66% 認為評核過多、希望悖論），及教育局在立法會的回應重點。",
+   "posted_at": "2026-10-25T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "caritas-cuhk-survey-66-of-upper-primary-students-say-too-man",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "hkfyg-survey-56-5-of-secondary-students-show-depressive-symp",
+   "title_zh": "青協調查：56.5% 中學生有抑鬱表徵，45.6% 曾向 AI 傾訴心事",
+   "title_en": "HKFYG survey: 56.5% of secondary students show depressive symptoms, 45.6% confide in AI",
+   "summary_zh": "香港青年協會「中學生開學適應調查2026」以網上問卷訪問 5,469 名中一至中六學生。CES-D 量表達 16 分或以上者佔 56.5%，平均 18.2 分，中六最高（20.2 分）。45.6% 學生表示經常或有時向 AI 工具傾訴心事，高於老師（35.0%）與社工、輔導員或醫生（22.2%）；但認為 AI 有幫助者只有 46.9%，低於朋友（75.8%）、家人（64.9%）與老師（57.8%）；85.9% 認同重要事情仍需向真人求助。",
+   "summary_en": "The Hong Kong Federation of Youth Groups' 2026 school-adjustment survey collected 5,469 online responses from Secondary 1-6 students. 56.5% scored at or above the CES-D cut-off of 16 (mean 18.2; highest in Secondary 6 at 20.2). 45.6% said they often or sometimes confide in AI tools, more than teachers (35.0%) or social workers, counsellors and doctors (22.2%); yet only 46.9% found AI helpful, below friends (75.8%), family (64.9%) and teachers (57.8%). 85.9% agreed important matters still need a real person.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "抑鬱篩檢",
+    "青少年",
+    "AI傾訴",
+    "香港"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "slug": "hong-kong-edb-school-mental-health-support-clarification",
+   "title_zh": "香港教育局澄清謠言：列出學童精神健康到校支援人手與措施",
+   "title_en": "Hong Kong EDB school mental health support clarification",
+   "summary_zh": "教育局指社交媒體流傳「拒增派到校支援人手」的說法全無事實根據，並列出現行支援：所有公營普通中小學設校本教育心理服務，取錄較多 SEN 學生的學校享教育心理學家與學校 1:4 的「優化服務」，以及小學一校一社工、中學一校兩社工。局方亦提到 2025 年 12 月起中學恆常化「三層應急機制」與 2026/27 學年的新計劃。",
+   "summary_en": "Hong Kong's Education Bureau rebutted claims it refused extra on-site support staff, listing school-based educational psychology services (1:4 ratio for schools with more SEN students), school social workers, and the three-tier emergency mechanism made regular in secondary schools from December 2025.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "特殊教育需要",
+    "香港",
+    "學校心理健康",
+    "教育心理學家",
+    "三層應急機制"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.782,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-12T00:00:00+00:00"
+  },
+  {
+   "slug": "hku-csrp-student-suicides-not-explained-by-adjustment-period",
+   "title_zh": "港大防自殺中心：學童自殺不能只歸咎「適應期」，前線守門員要補位",
+   "title_en": "HKU CSRP: student suicides not explained by adjustment period",
+   "summary_zh": "港大香港賽馬會防止自殺研究中心高級培訓顧問張鳳儀接受東網訪問時指出，開學「適應期」可能帶來壓力，但不能充分解釋學童自殺；自殺通常由多重因素造成，約三成自殺離世學生生前曾被診斷有精神健康問題或有相關醫療服務紀錄。她建議加強前線教師的精神健康及防止自殺培訓、重視教師身心健康、建立人人都是「守門員」的文化，並加強家校合作。",
+   "summary_en": "A senior training consultant at HKU's Centre for Suicide Research and Prevention told on.cc that the school 'adjustment period' cannot fully explain student suicides; about 30% of students who died by suicide had prior mental health diagnoses or service records. She urged gatekeeper training for teachers, attention to teacher wellbeing, and stronger home–school partnership.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "香港",
+    "自殺防治",
+    "兒童心理",
+    "學校心理健康",
+    "守門人訓練"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.953,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-25T00:00:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "title_zh": "德國 COPSY 第九輪調查：疫情六年後兒童青少年心理健康仍差過疫情前，約 6% 持續受困",
+ "title_en": "COPSY ninth wave German children adolescents mental health six years after pandemic",
+ "summary_zh": "德國漢堡-埃彭多夫大學醫院（UKE）2026 年 11 月 17 日公布 COPSY 研究第九輪調查結果。德國兒童青少年的心理健康在疫情開始六年後仍差過疫情前：21% 年輕人自述生活質素下降，24% 據家長報告有心理異常徵象，每四人中一人有焦慮症狀；抑鬱症狀佔 13%，已回到疫情前水平。第九輪有 1,531 個家庭參加；自 2020 年 5 月起累計 3,573 個家庭參加過至少一輪。數據未顯示有一個受長期影響的「新冠世代」，但約 6% 的人在疫情初已較少家庭與社會資源，至今持續受困；戰爭、經濟不明朗與氣候危機帶來新的未來焦慮。",
+ "summary_en": "The University Medical Center Hamburg-Eppendorf (UKE) published on 17 November 2026 the ninth wave of the COPSY study. Children and adolescents' mental health in Germany remains worse than before the pandemic, six years after it began: 21% of young people report reduced quality of life, 24% show signs of psychological problems according to their parents, and one in four has anxiety symptoms; depressive symptoms (13%) are back at pre-pandemic levels. The ninth wave included 1,531 families; 3,573 families have taken part in at least one wave since May 2020. The data show no lasting 'corona generation', but about 6% of participants who had fewer family and social resources at the start of the pandemic remain persistently burdened; wars, economic uncertainty and the climate crisis bring new anxieties about the future.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "德國大學醫院長期追蹤調查（UKE COPSY 研究第九輪，2026 年 11 月 17 日官方新聞稿；1,531 個家庭；經 lifePR 刊載的 UKE 新聞稿與 MedLabPortal 報道核對）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "結果來自大學新聞稿，完整論文為預印本，未經同儕審查；數字為問卷自評與家長報告，非臨床診斷；德國數據，推廣至其他地區須小心；「持續受困」組別為疫情初已較少資源的群體，不等於疫情本身造成長期損害。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：COPSY 研究第九輪，1,531 個家庭；自 2020 年 5 月起累計 3,573 個家庭參加過至少一輪調查，長期追蹤 1,132 人",
+  "主要結果：21% 年輕人自述生活質素下降；24% 據家長報告有心理異常徵象；每四人中一人（25%）有焦慮症狀；抑鬱症狀 13%，已回到疫情前水平",
+  "長期追蹤：1,132 名自疫情初參加者中，70% 既無持續亦無加重的心理問題；約 6% 持續受困，疫情初已較少家庭與社會資源",
+  "新焦慮來源：戰爭、經濟不明朗與氣候危機帶來未來焦慮；社交媒體使用仍高，部分人經常接觸令人困擾的危機資訊",
+  "限制：新聞稿數字，完整論文為預印本；問卷自評與家長報告；德國樣本"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "COPSY",
+  "德國",
+  "兒童青少年",
+  "疫情後",
+  "焦慮",
+  "生活質素"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長話「疫情搞到我個仔咁」，你會如何用「約 6% 持續受困、七成無持續問題」去回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.lifepr.de/inaktiv/universitaetsklinikum-hamburg-eppendorf-uke/copsy-studie-keine-corona-generation-aber-eine-verletzliche-gruppe-und-neue-zukunftsngste/boxid/1079762",
+   "author_handle": "",
+   "author_name": "Universitätsklinikum Hamburg-Eppendorf (UKE)",
+   "title": "COPSY-Studie: Keine „Corona-Generation“, aber eine verletzliche Gruppe und neue Zukunftsängste (UKE 新聞稿，2026-11-17)",
+   "content": "德國 UKE COPSY 第九輪調查：21% 生活質素下降、24% 家長報告心理異常、每四人一人有焦慮症狀；約 6% 持續受困。",
+   "posted_at": "2026-11-17T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-17T13:32:16+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "copsy-ninth-wave-german-children-adolescents-mental-health-s",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

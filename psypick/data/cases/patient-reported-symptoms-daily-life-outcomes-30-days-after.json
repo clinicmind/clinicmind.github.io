@@ -1,0 +1,62 @@
+{
+ "title_zh": "青少年出院後一個月抑鬱分數反升：華西醫院 333 人回顧隊列，出院後 BDI 高 7.1 分",
+ "title_en": "Patient reported symptoms daily life outcomes 30 days after psychiatric discharge children adolescents depressive disorders",
+ "summary_zh": "Journal of Clinical Medicine 2026 年 11 月 14 日刊出四川大學華西醫院單中心回顧隊列研究，333 名 9 至 18 歲抑鬱症住院青少年。比較出院前後與出院約 30 天後的自評：調整後出院 30 天本地 BDI 抑鬱分數較出院前後高 7.10 分（95% CI 4.37–9.83）；81 人同時有兩次評估，配對平均差 6.54 分。次要指標中焦慮、快感缺失、睡眠與生活質素亦較差，功能影響則無明顯差異。作者指出只有約半數合資格者在 30 天窗口完成問卷，選擇性偏差限制推論；亦未有已驗證的臨床重要變化閾值，分數差異不等於臨床惡化或復發。研究無外部資助，作者申報無利益衝突。",
+ "summary_en": "The Journal of Clinical Medicine published a single-centre retrospective cohort study on 14 November 2026 from West China Hospital, Sichuan University, covering 333 adolescents aged 9 to 18 hospitalised with depressive disorders. Comparing self-reports near discharge with about 30 days afterwards, the adjusted day-30 local Beck Depression Inventory score was 7.10 points higher than peridischarge (95% CI 4.37-9.83); among the 81 participants with both assessments, the paired mean difference was 6.54 points. Secondary measures including anxiety, anhedonia, sleep and quality of life were also less favourable, while functional impact showed no clear difference. The authors note only about half of eligible participants completed a questionnaire in the day-30 window, so selective availability limits generalisation, and without validated meaningful-change thresholds the score differences do not establish clinical deterioration or relapse. The study received no external funding and the authors declare no conflicts of interest.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "單中心回顧隊列研究（J Clin Med 2026 年 11 月 14 日刊出；333 人，9–18 歲；DOI: 10.3390/jcm15228930；經 MDPI 原文頁核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "單一醫院樣本；只有 81／333 人同時有出院前後與 30 天評估，265 名已過 30 天窗口者中僅 49.8% 完成問卷，選擇性偏差大；無已驗證的臨床重要變化閾值，統計差異不等於臨床惡化或復發；診斷取自醫生紀錄，無結構化研究診斷晤談；出院前後窗口為前後 14 天；量表為本地 BDI 版本。",
+ "verify_needed": true,
+ "verify_reason": "證據摘句補齊時發現 DOI 10.3390/jcm15228930 無法解析（doi.org 回 404、PubMed 查無此文），疑 DOI 記錄錯誤，待人手核對原始出處。",
+ "brief_zh": [
+  "樣本：333 名 9 至 18 歲抑鬱症住院青少年（華西醫院精神衛生中心，2025 年 5 月至 2026 年 8 月）；243 人貢獻 400 次觀察予主模型",
+  "方法：單中心回顧隊列，連結入院評估、臨床紀錄與電子追蹤問卷；隨機截距線性混合效應模型，調整年齡、性別與入院分數；配對分析估計個人內差異",
+  "主要結果：調整後 30 天本地 BDI 分數較出院前後高 7.10 分（95% CI 4.37–9.83）；81 人配對平均差 6.54 分（3.25–9.84）",
+  "次要結果：6 項次要比較經錯誤發現率調整後 p 值低於 0.05；功能影響的置信區間包括零，無明顯差異",
+  "限制：追蹤問卷回覆具選擇性（265 名已過窗口者中僅 49.8% 完成）；無臨床重要變化閾值；單中心；無前瞻註冊"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "抑鬱症",
+  "出院後追蹤",
+  "青少年",
+  "隊列研究",
+  "J Clin Med"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者",
+  "家長"
+ ],
+ "supervision_questions": [
+  "出院後覆診的青少年話「返到屋企反而差咗」，你會點用呢個研究的選擇性偏差去判斷係咪真係惡化？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.3390/jcm15228930",
+   "author_handle": "",
+   "author_name": "四川大學華西醫院精神衛生中心團隊",
+   "title": "Patient-Reported Symptoms and Daily-Life Outcomes Approximately 30 Days After Psychiatric Discharge in Children and Adolescents with Physician-Recorded Depressive Disorders: A Retrospective Cohort Study (J Clin Med; DOI: 10.3390/jcm15228930)",
+   "content": "回顧隊列：333 名抑鬱症住院青少年，出院 30 天後 BDI 分數較出院前後高 7.1 分，但追蹤回覆具選擇性。",
+   "posted_at": "2026-11-14T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-15T13:35:18+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "patient-reported-symptoms-daily-life-outcomes-30-days-after",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

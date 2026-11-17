@@ -1,0 +1,163 @@
+{
+ "title_zh": "Ozempic 的兩難：GLP-1 藥物在精神科的機遇與隱憂",
+ "title_en": "Ozempic dilemma GLP-1 psychiatry promises pitfalls",
+ "summary_zh": "GLP-1 受體促效劑已進入精神科，主要用於處理抗精神病藥引致的體重增加與代謝症候群。2025 年 COaST 試驗顯示，思覺失調症合併氯氮平引致肥胖的病人使用 semaglutide，體重較安慰劑組多減 13.46%。藥物亦在成癮治療現初步訊號，但對飲食失調、青少年濫用與身體形象的影響令人關注。2026 年 1 月 FDA 要求移除 GLP-1 藥物標籤上的自殺意念警告，但藥物警戒數據仍見情緒低落的訊號，臨床人員應留意有精神病史病人的情緒變化。",
+ "summary_en": "A Psychiatric Times review (November 4, 2026) examines GLP-1 receptor agonists in psychiatry: the 2025 COaST trial found semaglutide produced 13.46% placebo-subtracted weight loss in schizophrenia with clozapine-induced obesity, and early trials show signals for alcohol use disorder. The review also flags eating-disorder risks, a case of adolescent semaglutide misuse, and cultural pressures around pharmacological weight loss; the FDA asked in January 2026 to remove the suicidal-ideation warning from GLP-1 labelling, though pharmacovigilance signals persist.",
+ "category": "臨床與治療應用",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "文獻綜述（引用 RCT 與觀察性研究）",
+ "ethics_flags": [
+  {
+   "flag": "身體形象與不當使用",
+   "note": "GLP-1 藥物正常化藥物減重，或加劇身體形象焦慮與非適應症使用；青少年濫用已有個案報告。",
+   "refs": [
+    "倫理與風險｜身體形象"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "綜述文章非臨床指引；GLP-1 藥物在精神科的應用仍在研究階段，處方須按個別評估。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "COaST 試驗：semaglutide 在思覺失調症合併氯氮平引致肥胖病人中，體重較安慰劑組多減 13.46%",
+  "低劑量 semaglutide 在 2025 年第二期試驗中減少酒精使用障礙病人的渴求與飲酒量",
+  "飲食失調情況複雜：或可減少暴食，但亦有極端抑制食慾與病理性節食的個案報告；厭食症尚無臨床試驗",
+  "FDA 於 2026 年 1 月要求移除 GLP-1 藥物標籤上的自殺意念警告，但藥物警戒數據仍見情緒低落訊號"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "GLP-1",
+  "思覺失調症",
+  "體重增加",
+  "成癮",
+  "飲食失調"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案因抗精神病藥增重而想用 GLP-1 藥物，你會如何與他討論期望、身體形象與濫用風險？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.psychiatrictimes.com/view/the-ozempic-dilemma-promises-and-pitfalls-in-psychiatry",
+   "author_handle": "",
+   "author_name": "Ravleen Kaur Suri 等（Psychiatric Times）",
+   "title": "The Ozempic Dilemma: Promises and Pitfalls in Psychiatry",
+   "content": "Psychiatric Times 2026 年 11 月 4 日綜述：GLP-1 受體促效劑進入精神科，協助處理抗精神病藥引致的體重增加，但對成癮、情緒、飲食失調與身體形象的影響仍有未解問題。",
+   "posted_at": "2026-11-04T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-10T01:28:21+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "ozempic-dilemma-glp-1-psychiatry-promises-pitfalls",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "glp-1-receptor-agonists-mortality-serious-mental-illness-jam",
+   "title_zh": "研究：嚴重精神疾病患者用 GLP-1 受體促效劑，四年死亡率 4.91% 對 6.45%（逾 150 萬人配對）",
+   "title_en": "GLP-1 receptor agonists mortality serious mental illness JAMA Psychiatry",
+   "summary_zh": "JAMA Psychiatry 目標試驗模擬研究比較開始使用 GLP-1 受體促效劑與開始使用 SGLT2 抑制劑的成人，分析 TriNetX 電子健康記錄，逾 150 萬人經傾向評分配對。嚴重精神疾病組（重性抑鬱、躁鬱症、精神分裂症）共 195,184 對，四年全因死亡率為 GLP-1 組 4.91%，SGLT2 組 6.45%（風險比 0.76，絕對風險差 −1.54 個百分點）；一年死亡率為 1.46% 對 2.84%（相對風險 0.52）。效益在一年內已見，各嚴重精神疾病亞組一致，主要由 semaglutide 與 tirzepatide 帶動。研究屬觀察性設計，作者強調須以前瞻隨機試驗確認因果。",
+   "summary_en": "A JAMA Psychiatry target trial emulation compared adults starting a GLP-1 receptor agonist with adults starting an SGLT2 inhibitor, using TriNetX electronic health records with more than 1.5 million propensity score-matched participants. In the serious mental illness cohort (major depressive disorder, bipolar disorder and schizophrenia), 195,184 pairs were matched: four-year all-cause mortality was 4.91% with GLP-1 RAs versus 6.45% with SGLT2 inhibitors (hazard ratio 0.76; absolute risk difference -1.54 percentage points), and one-year mortality was 1.46% versus 2.84% (risk ratio 0.52). Benefits appeared within one year, were consistent across serious mental illness subgroups, and were driven mainly by semaglutide and tirzepatide. The design is observational, and the authors state that prospective randomised trials are needed to confirm causality.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "GLP-1",
+    "嚴重精神疾病",
+    "心血管",
+    "死亡率",
+    "藥物"
+   ],
+   "first_seen_at": "2026-11-09T13:41:55+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-08-26T00:00:00+00:00"
+  },
+  {
+   "slug": "modified-psychodynamic-psychotherapy-schizophrenia-spectrum",
+   "title_zh": "RCT：改良心理動力治療加常規治療，可改善思覺失調症譜系患者的心理社會功能（130 人）",
+   "title_en": "Modified psychodynamic psychotherapy schizophrenia spectrum RCT psychosocial functioning",
+   "summary_zh": "柏林 Charité 單中心隨機對照試驗，130 名 18 至 64 歲思覺失調症或情感性思覺失調門診患者，比較改良心理動力治療（MPP-S，最少 30 節）加常規治療與單用常規治療。主要結果心理社會功能（Mini-ICF-APP）：24 個月組間差 −3.45（95% CI −5.51 至 −1.40），36 個月 −4.07（−6.19 至 −1.94），介入組較佳；負性症狀亦有改善。試驗期間兩名參加者自殺身亡（每組一名）。",
+   "summary_en": "A single-centre randomised controlled trial at Charité Berlin randomised 130 outpatients aged 18-64 with schizophrenia or schizoaffective disorder to Modified Psychodynamic Psychotherapy for Schizophrenia (MPP-S, minimum 30 sessions) plus treatment as usual (TAU) or TAU alone. Psychosocial functioning (Mini-ICF-APP) favoured the intervention: between-group differences of -3.45 (95% CI -5.51 to -1.40) at 24 months and -4.07 (-6.19 to -1.94) at 36 months, with negative symptoms also improving. Two participants died by suicide during the trial (one per arm).",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "思覺失調",
+    "心理動力治療",
+    "心理社會功能",
+    "RCT"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-01T00:00:00+00:00"
+  },
+  {
+   "slug": "cannabinoids-for-mental-disorders-systematic-review",
+   "title_zh": "統合分析：大麻素治療精神障礙證據薄弱，僅少數適應症有低確定性訊號（54 項 RCT）",
+   "title_en": "Cannabinoids for mental disorders systematic review",
+   "summary_zh": "The Lancet Psychiatry 系統性回顧統合 54 項隨機對照試驗、2,477 名參加者。CBD 加 THC 可減輕大麻使用障礙的戒斷症狀（SMD −0.29）與每週大麻用量（−1.00 克），抽動嚴重度下降（−0.68）；失眠睡眠時間與自閉症特質亦有輕微訊號。焦慮、創傷後壓力症、精神病、厭食症、阿片類使用障礙無顯著效益；抑鬱症完全無隨機對照試驗證據。全因不良事件風險較高（OR 1.75，NNTH=7），嚴重不良事件無差異；44% 試驗偏倚風險高，多數結果證據確定性低。",
+   "summary_en": "A Lancet Psychiatry systematic review pooled 54 RCTs with 2,477 participants. Combined CBD and THC reduced cannabis withdrawal symptoms (SMD -0.29) and weekly cannabis use (-1.00 g), and tic severity fell (-0.68); sleep duration in insomnia and autistic traits showed modest signals. There was no significant benefit for anxiety, PTSD, psychotic disorders, anorexia nervosa or opioid use disorder, and no RCT evidence at all for depression. All-cause adverse events were more common (OR 1.75, NNTH=7) with no difference in serious adverse events; 44% of trials had high risk of bias and most outcomes were low-certainty evidence.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "大麻素",
+    "CBD",
+    "THC",
+    "統合分析",
+    "物質使用"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-03-16T00:00:00+00:00"
+  }
+ ],
+ "evidence_quote": "GLP-1 drugs enter psychiatry",
+ "page_date": "2026-11-04"
+}

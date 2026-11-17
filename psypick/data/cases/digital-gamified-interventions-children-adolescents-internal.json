@@ -1,0 +1,153 @@
+{
+ "title_zh": "系統性回顧及統合分析：遊戲化數碼介入對兒童青少年內化症狀僅小幅改善（27 項研究）",
+ "title_en": "Digital gamified interventions children adolescents internalizing outcomes systematic review meta-analysis",
+ "summary_zh": "這項發表於《Journal of Medical Internet Research》的系統性回顧及統合分析納入 27 項研究、共 28,777 名 5 至 18 歲兒童青少年，檢視遊戲化數碼心理健康介入對焦慮、抑鬱等內化症狀的效果。五項對照研究的統合分析顯示小幅效應（g=-0.28），但預測區間包含零，代表未來同類研究的效果仍不確定。回饋、挑戰及進度追蹤是最常用的遊戲化元素，參與度及依從性不足是常見限制。",
+ "summary_en": "A systematic review and meta-analysis in the Journal of Medical Internet Research (Nov 2026) examined gamified digital mental health interventions for children and adolescents. Across 27 studies (N=28,777), the meta-analysis of five controlled studies found only a small effect on internalizing symptoms (g=-0.28), with a prediction interval including zero. Feedback, challenges and progress tracking were the most common gamification elements; engagement and adherence limits were frequently reported.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "同儕審查系統性回顧及統合分析（J Med Internet Res 2026;28:e106933，2026-11-13；27 項研究，N=28,777）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "統合分析只納入五項對照研究，預測區間包含零，未來同類研究效果仍不確定；敘述綜合指結構化治療內容及臨床／高危樣本效果較佳，但未作調節因子檢驗；參與度及依從性不足常見，遊戲化不等於療效保證。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "納入 27 項研究、28,777 人，平均年齡 5.05 至 18.78 歲",
+  "五項對照研究統合效應 g=-0.28，屬小幅效應，預測區間包含零",
+  "回饋、挑戰及進度追蹤最常用，社交互動及競爭元素罕見",
+  "參與度及依從性不足常見，證據不足以作肯定結論"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "兒童心理",
+  "遊戲化",
+  "數碼心理健康",
+  "系統性回顧",
+  "統合分析"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「遊戲化 App 係咪可以幫到仔女焦慮」時，你會如何用「小幅效應、參與度不足」這兩點回應，而不潑冷水？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.jmir.org/2026/1/e106933",
+   "author_handle": "",
+   "author_name": "Julia Franziska Baschab et al. (Journal of Medical Internet Research)",
+   "title": "Digital Gamified Interventions Targeting Internalizing Mental Health Outcomes in Children and Adolescents: Systematic Review and Meta-Analysis",
+   "content": "系統性回顧及統合分析檢視遊戲化數碼介入對兒童青少年焦慮抑鬱等內化症狀的效果，納入 27 項研究、近 2.9 萬人。",
+   "posted_at": "2026-11-13T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-17T01:43:46+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "digital-gamified-interventions-children-adolescents-internal",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "ai-enabled-and-comparator-digital-interventions-for-adolesce",
+   "title_zh": "青少年心理健康的 AI 數位介入（2020–2025）：早期偵測、人機協作與倫理治理的範圍回顧",
+   "title_en": "AI-enabled and comparator digital interventions for adolescent mental health (2020–2025): a PRISMA-ScR scoping review",
+   "summary_zh": "以 PRISMA-ScR 方法回顧 2020–2025 年 10–24 歲族群的 AI 數位心理健康介入，共納入 19 項研究。治療師引導的網路 CBT 證據最紮實；AI 聊天機器人與 LLM 系統多停留在可行性階段，18 歲以下尚無隨機診斷性聊天機器人試驗。未成年人保護流程不一致、演算法偏誤與資料隱私是主要挑戰。",
+   "summary_en": "PRISMA-ScR scoping review of 19 studies (2020–2025) on AI-enabled and comparator digital mental-health interventions for ages 10–24: therapist-guided CBT has the strongest design evidence; chatbots are mostly at feasibility stage; evidence is preliminary and concentrated in high-income countries.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "青少年",
+    "AI 聊天機器人",
+    "倫理治理",
+    "早期偵測"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.905,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-30T00:00:00+00:00"
+  },
+  {
+   "slug": "screen-use-child-adolescent-development-mental-health-outcom",
+   "title_zh": "屏幕時間愈多，兒童學業與語言愈弱、情緒行為問題愈多：281 萬名兒童傘狀回顧，效應細小",
+   "title_en": "Screen use child adolescent development mental health outcomes umbrella review",
+   "summary_zh": "JAMA Pediatrics 2026 年 9 月 28 日網上刊出卡爾加里大學主導的定量傘狀回顧，綜合 23 項統合分析，涵蓋 64 個國家 2,817,252 名 18 歲以下兒童。屏幕時間愈多，整體學業成績愈低（r=-0.15）、語言能力愈弱（r=-0.14），內化行為問題（r=0.10；社交媒體使用 r=0.09）與外化行為問題（r=0.11）愈多，情緒問題（r=0.30）與同儕問題（r=0.28）亦較多；但與執行功能、親社會行為、數學、科學及閱讀成績無明顯關聯。作者指出效應細小，大部分原始研究為橫斷面，不能證明因果。研究由 Elizabeth Al-Jbouri、Sheri Madigan 等領導；共同作者 Christakis 為 JAMA Pediatrics 主編，利益衝突已申報。",
+   "summary_en": "JAMA Pediatrics published a quantitative umbrella review online on 28 September 2026, led by the University of Calgary, synthesising 23 meta-analyses covering 2,817,252 children aged 18 or younger across 64 countries. More screen-based media exposure was associated with lower overall academic achievement (r=-0.15) and weaker language skills (r=-0.14), more internalising behaviour problems (r=0.10; social media use r=0.09) and externalising behaviour problems (r=0.11), and more emotional problems (r=0.30) and peer problems (r=0.28); it was not associated with executive functioning, prosociality, or mathematics, science or reading scores. The authors note the effects are small and that most underlying studies are cross-sectional, so causation cannot be established. Led by Elizabeth Al-Jbouri and Sheri Madigan; co-author Christakis is Editor in Chief of JAMA Pediatrics, with conflicts of interest disclosed.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "屏幕時間",
+    "兒童發展",
+    "心理健康",
+    "傘狀回顧",
+    "JAMA Pediatrics"
+   ],
+   "first_seen_at": "2026-11-14T13:32:07+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-28T00:00:00+00:00"
+  },
+  {
+   "slug": "general-purpose-ai-mental-health-support-among-24000-adolesc",
+   "title_zh": "英格蘭 2.4 萬青少年通用 AI 心理支援使用調查",
+   "title_en": "General-purpose AI mental health support among 24000 adolescents England",
+   "summary_zh": "牛津團隊分析 OxWell 調查 24,132 名英格蘭學生。過去一年曾用通用 AI 求心理支援者佔 2.7%，其中 55.9% 認為有幫助。使用與額外支援需求集中於少數族裔與心理社會較脆弱群體。",
+   "summary_en": "Oxford researchers analysed the OxWell survey of 24,132 students in England. In the past year 2.7% had used general-purpose AI for mental-health support, and 55.9% of users rated it helpful. Use and unmet need for more support were concentrated among ethnic-minority and psychosocially vulnerable groups.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "AI 心理支援",
+    "青少年",
+    "通用 AI",
+    "兒童心理"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-27T00:00:00+00:00"
+  }
+ ]
+}

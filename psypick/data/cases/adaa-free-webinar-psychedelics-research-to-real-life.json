@@ -1,0 +1,112 @@
+{
+ "title_zh": "免費網上講座：Carhart-Harris 談迷幻藥物研究與臨床現實（11 月 18 日）",
+ "title_en": "ADAA free webinar psychedelics research to real life",
+ "summary_zh": "美國焦慮與抑鬱協會（ADAA）首場「研究走進現實」免費網上講座，2026 年 11 月 18 日星期三 12:00–13:00 EDT（港澳 11 月 19 日 00:00–01:00）線上舉行。Robin Carhart-Harris 主講、Greg Fonzo 主持，講解迷幻藥物是甚麼、作用機制，以及現時治療效益與風險，區分臨床事實與傳言。",
+ "summary_en": "The Anxiety & Depression Association of America's first free 'Research to Real Life' webinar, held online on Wednesday 18 November 2026, 12:00-13:00 EDT (00:00-01:00 on 19 November in Hong Kong/Macau). Robin Carhart-Harris presents with Greg Fonzo moderating, covering what psychedelics are, how they work, and the current therapeutic benefits and risks, separating clinical fact from fiction.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "公開教育講座，非專為臨床培訓而設；迷幻藥物輔助治療在港澳未屬常規臨床服務，證據仍在發展中；頁面標示 EDT，惟美國夏令時間已於 11 月 1 日結束，開講時間以主辦方通知為準。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "講者：Robin Carhart-Harris（加州大學神經學與精神科教授），主持 Greg Fonzo（德州大學奧斯汀分校）",
+  "2026 年 11 月 18 日星期三 12:00–13:00 EDT（港澳 11 月 19 日 00:00–01:00），線上 60 分鐘",
+  "免費參加；內容：迷幻藥物定義、作用機制、現時效益與風險",
+  "ADAA 首場「Research to Real Life」系列講座"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "迷幻藥物",
+  "免費網上講座",
+  "ADAA",
+  "Carhart-Harris"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案問起迷幻藥物輔助治療時，你會如何說明現時證據、合法狀況與風險，而不作轉介承諾？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "美國焦慮與抑鬱協會（ADAA）",
+  "topic": "Psychedelics: Research to Real Life",
+  "event_date": "2026-11-18",
+  "format": "線上直播",
+  "language": "英語",
+  "price": "免費",
+  "price_tier": "免費",
+  "audience_level": "公開講座；對迷幻藥物研究有興趣的臨床工作者及公眾",
+  "signup_url": "https://adaa.org/webinar/consumer/psychedelics-research-real-life-series",
+  "deadline": "",
+  "ce_credits": ""
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://adaa.org/webinar/consumer/psychedelics-research-real-life-series",
+   "author_handle": "",
+   "author_name": "美國焦慮與抑鬱協會（ADAA）",
+   "title": "Psychedelics: Research to Real Life Series (ADAA)",
+   "content": "活動頁：2026 年 11 月 18 日免費網上講座的時間、講者簡介與學習目標。",
+   "posted_at": "2026-11-06T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-06T13:27:53+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "adaa-free-webinar-psychedelics-research-to-real-life",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "bessel-van-der-kolk-free-webinar-psychedelics-integration",
+   "title_zh": "免費網上講座：Bessel van der Kolk 談迷幻藥物、記憶整合與自我慈悲（11 月 22 日）",
+   "title_en": "Bessel van der Kolk free webinar psychedelics integration",
+   "summary_zh": "Mind Medicine Australia 的免費網上講座，由創傷研究先驅 Bessel van der Kolk 主講（波士頓大學醫學院精神科教授、《身體記得你》作者）。2026 年 11 月 22 日澳洲東部時間 11:00–12:15（港澳同日 08:00–09:15）線上舉行，75 分鐘含問答，YouTube 提供重播。主題為迷幻藥物如何助整合零散經驗、改變舊習慣、打開神經可塑窗口與促進自我慈悲，以及治療支援與整合的角色。",
+   "summary_en": "A free online webinar from Mind Medicine Australia, presented by trauma research pioneer Bessel van der Kolk (Professor of Psychiatry, Boston University School of Medicine; author of The Body Keeps the Score). Held online on 22 November 2026, 11:00-12:15 AEDT (08:00-09:15 Macau time), 75 minutes including Q&A, with a replay on YouTube. The session covers how psychedelics may help integrate disparate experiences, change old habits, open neuroplastic windows and promote self-compassion, and the role of therapeutic support and integration.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "創傷",
+    "迷幻藥物輔助治療",
+    "自我慈悲",
+    "免費網上講座",
+    "van der Kolk"
+   ],
+   "first_seen_at": "2026-11-05T13:45:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-05T13:45:00+00:00",
+   "training": {
+    "provider": "Mind Medicine Australia",
+    "price": "免費（可自由捐款）",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-22",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "title_zh": "台灣自殺防治學會「珍愛生命數位學習網」：心理師自殺防治線上課程",
+ "title_en": "Taiwan Suicide Prevention Association e-learning for psychologists",
+ "summary_zh": "台灣自殺防治學會的「珍愛生命數位學習網」依身分分類開設自殺防治線上課程，設有臨床心理師與諮商心理師專區，可累積網路繼續教育積分。諮商心理師公會全聯會 2025 年 10 月公告，該平台有 20 門課程認列為 2026 年度專業課程。",
+ "summary_en": "The Taiwan Suicide Prevention Association runs an e-learning platform with suicide-prevention courses organized by professional role, including sections for clinical and counseling psychologists that count toward online continuing-education credit in Taiwan.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程資訊，非研究證據。",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "課程以自殺防治為主軸。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "平台官方頁面未明寫費用；諮商心理師公會全聯會公告的認列期間為 2026 年 1 月 1 日至 12 月 31 日。平台註明臨床心理師積分每月 1 日、諮商心理師每月 15 日上傳，每堂 1 分。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "依身分申請帳號，心理師有專屬課程區",
+  "可累積網路繼續教育積分（平台註明上限 80 分）",
+  "全聯會公告 2026 年有 20 門認列為專業課程",
+  "網頁未明寫是否免費"
+ ],
+ "brief_en": [
+  "Register by professional role",
+  "Counts toward Taiwan online CE credits",
+  "20 courses recognized for 2026 per TCPU notice",
+  "Fees not stated on the page"
+ ],
+ "model_names": [],
+ "tags": [
+  "自殺防治",
+  "台灣",
+  "繼續教育",
+  "自學課程"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "你目前的自殺風險評估流程，最近一次更新是何時？",
+  "線上課程學到的評估工具，如何在督導中練習使用？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "社團法人台灣自殺防治學會",
+  "format": "線上自學",
+  "price": "",
+  "price_tier": "",
+  "ce_credits": "心理師網路繼續教育積分，每堂 1 分、專業課程（全聯會公告 2026 年認列 20 堂）；臨床心理師每月 1 日、諮商心理師每月 15 日上傳",
+  "language": "中文",
+  "event_date": "",
+  "deadline": "",
+  "audience_level": "臨床心理師、諮商心理師等專業人員",
+  "topic": "自殺防治",
+  "signup_url": "https://www.tsos.org.tw/index/login",
+  "format_note": "自學（數位學習平台）"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.tsos.org.tw/p/elearning",
+   "author_handle": "",
+   "author_name": "社團法人台灣自殺防治學會",
+   "title": "珍愛生命數位學習網",
+   "content": "台灣自殺防治學會營運的數位學習平台，依身分（醫事人員、教育人員、社工、長照人員、一般民眾等）開設自殺防治相關線上課程，其中有臨床心理師與諮商心理師專區。",
+   "posted_at": "2026-09-30T13:03:54+00:00"
+  }
+ ],
+ "first_seen_at": "2026-09-30T13:03:54+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "taiwan-suicide-prevention-association-e-learning-for-psychol",
+ "featured_at": null,
+ "hot_score": 2.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "twcpa-online-systems-forum-on-adult-intimacy-issues",
+   "title_zh": "臺灣諮商心理學會秋季系統論壇：成人親密議題的系統合作模式（線上）",
+   "title_en": "TWCPA online systems forum on adult intimacy issues",
+   "summary_zh": "臺灣諮商心理學會系統工作推展委員會的秋季系統論壇，以建構「成人親密議題」的系統合作模式為總題，共三場線上課程；第一場（9 月 6 日）已辦完，尚可報名的是 10 月 18 日「家暴的系統修復」與 11 月 15 日「當走向離婚訴訟」的系統合作，兩場皆週日 09:00–12:00，以 Google Meet 進行，講者包括諮商心理師與社工督導。單場會員新台幣 500 元、非會員 1,000 元，屬低價進修；課程符合學會「系統工作師認證辦法」核心領域課程。",
+   "summary_en": "The Taiwan Counseling Psychology Association's autumn systems forum on collaborative systemic work with adult intimacy issues has three online sessions; the Sept 6 session has passed, and the remaining sessions are Oct 18 (systemic repair after domestic violence) and Nov 15 (systemic collaboration around divorce litigation), both 09:00–12:00 via Google Meet. Single sessions cost NT$500 for members and NT$1,000 for non-members.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "系統取向",
+    "伴侶與親密關係",
+    "台灣",
+    "繼續教育"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-30T13:03:54+00:00",
+   "training": {
+    "provider": "臺灣諮商心理學會系統工作推展委員會",
+    "price": "單場會員 500 元（限已繳 115 年度會費）、非會員 1,000 元（新台幣）",
+    "price_tier": "低價",
+    "ce_credits": "符合「系統工作師認證辦法」核心領域課程（協力照顧與系統合作、處理特殊議題的實務能力）；心理師繼續教育積分未載明",
+    "language": "中文",
+    "deadline": "2026-11-13",
+    "event_date": "2026-10-18",
+    "format": "線上直播（Google Meet；第一場 Zoom 已結束）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "free-clinical-supervision-forum-from-concern-to-remediation",
+   "title_zh": "免費督導 CE 直播：督導中的困難處理，從擔憂到補救（11/13）",
+   "title_en": "Free clinical supervision forum: from concern to remediation",
+   "summary_zh": "Telehealth Certification Institute 的「臨床督導論壇」是免費的線上直播系列，每場 1.5 小時 CE，APA、NBCC、ASWB ACE、NAADAC 等均有認可。2026 年 11 月 13 日（美東 13:00–14:30）由 Amie Bryant, LCSW, CAS, ACS 主講「Managing Difficulties in Clinical Supervision: From Concern to Remediation」，討論研究所訓練留下的落差，以及如何在不同能力階段支持受督者成長。",
+   "summary_en": "Telehealth Certification Institute runs a free live Clinical Supervision Forum webinar series worth 1.5 CE per session (APA, NBCC, ASWB ACE, NAADAC and NY State approvals). The Nov 13, 2026 session (1:00–2:30 pm ET), presented by Amie Bryant, LCSW, CAS, ACS, covers managing difficulties in supervision from concern to remediation and supporting supervisees across competency stages.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "督導",
+    "臨床督導",
+    "受督者發展",
+    "繼續教育",
+    "免費"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 3.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "Telehealth Certification Institute",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "1.5 小時 CE（APA、NBCC、ASWB ACE、NAADAC、紐約州相關委員會認可）",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "2026-11-13",
+    "format": "線上直播（webinar）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "sue-johnson-eft-webinar-series-on-demand-with-ce",
+   "title_zh": "Sue Johnson 親授伴侶 EFT 錄影課，每集 40 美元含 CE",
+   "title_en": "Sue Johnson EFT webinar series on demand with CE",
+   "summary_zh": "美國 National Register of Health Service Psychologists 提供四集由 Sue Johnson 主講的情緒取向治療（Emotionally Focused Therapy，Sue Johnson 系，非 Greenberg 的 Emotion-Focused Therapy）錄影課，主題包括以依附為本的伴侶介入、EFT Tango 與微介入、Hold Me Tight 對話與依附創傷修復，以及創傷伴侶。每集 40 美元，含 1–1.5 小時 CE，課程等級標示為進階。",
+   "summary_en": "The National Register of Health Service Psychologists offers four recorded webinars by Dr. Sue Johnson on Emotionally Focused Therapy (the Johnson model, not Greenberg's Emotion-Focused Therapy), covering attachment-based couple intervention, the EFT Tango, Hold Me Tight conversations and attachment injuries, and trauma couples. Each costs US$40 including 1–1.5 CE credits; instructional level is advanced.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "情緒取向治療",
+    "Sue Johnson 系",
+    "伴侶治療",
+    "依附",
+    "繼續教育",
+    "低價"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "National Register of Health Service Psychologists",
+    "price": "每集 40 美元（含 CE）",
+    "price_tier": "低價",
+    "ce_credits": "第一集 1.5 小時、第二至四集各 1 小時（APA 認可主辦單位）",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "",
+    "format": "錄影課（隨選觀看）"
+   },
+   "deadline_soon": false
+  }
+ ],
+ "evidence_quote": "網路繼續教育積分上限為80分",
+ "page_date": ""
+}

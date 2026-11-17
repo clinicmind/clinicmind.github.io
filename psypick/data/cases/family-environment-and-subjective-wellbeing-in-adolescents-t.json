@@ -1,0 +1,62 @@
+{
+ "title_zh": "家庭環境如何影響求助青少年的主觀幸福感？1,284 人研究：焦慮抑鬱症狀起中介作用",
+ "title_en": "Family environment and subjective wellbeing in adolescents the mediating roles of anxiety and depressive symptoms",
+ "summary_zh": "Frontiers in Public Health 2026 年 11 月 10 日刊出研究，分析 1,284 名 12 至 17 歲求助青少年（2021 年 9 月至 2024 年 2 月於山東省立醫院心理科求助），以問卷量度四項家庭環境指標（獨生與否、父母婚姻質素、家庭月收入、家族精神病史）與主觀幸福感（生活滿意度量表），焦慮與抑鬱症狀以 GAD-7 與 PHQ-9 量度。結果顯示，父母婚姻質素較好與較低焦慮抑鬱及較高幸福感相關，家族精神病史則相反；焦慮症狀部分中介父母婚姻質素與家族精神病史跟幸福感的關聯，抑鬱症狀完全中介獨生狀態與整體生活滿意度的關聯、並部分中介其餘路徑。性別差異主要見於家庭收入經焦慮影響幸福感的路徑。",
+ "summary_en": "Frontiers in Public Health published on 10 November 2026 a study of 1,284 treatment-seeking adolescents aged 12 to 17 (recruited September 2021 to February 2024 from the psychology department of Shandong Provincial Hospital), examining four family-environment indicators (sibling status, parental marital quality, family monthly income, family psychiatric history) and subjective wellbeing (life satisfaction scale), with anxiety and depressive symptoms measured by GAD-7 and PHQ-9. Better parental marital quality was associated with lower anxiety and depression and higher wellbeing, while a positive family psychiatric history showed the opposite pattern; anxiety symptoms partially mediated the links from parental marital quality and family psychiatric history to wellbeing, and depressive symptoms fully mediated the sibling-status link to overall life satisfaction and partially mediated other pathways. Gender differences appeared mainly in the family-income-to-wellbeing pathway via anxiety.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "橫斷面中介模型研究（Frontiers in Public Health，2026 年 11 月 10 日刊出；1,284 人，山東求助青少年樣本；DOI: 10.3389/fpubh.2026.1965162；經 Frontiers 原文核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "橫斷面設計，不能推論家庭環境、症狀與幸福感之間的因果方向；單一醫院求助樣本，推廣至社區青少年須小心；四項家庭環境指標在主要分析中未互相控制；全部為自評問卷。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：1,284 名 12 至 17 歲求助青少年（2021 年 9 月至 2024 年 2 月於山東省立醫院心理科求助）；最終分析 1,284 人（初招 1,423 人）",
+  "方法：橫斷面問卷研究，以 Hayes PROCESS 模型檢驗焦慮（GAD-7）與抑鬱（PHQ-9）對四項家庭環境指標與主觀幸福感（ASLSS）關聯的中介作用，及性別差異",
+  "主要結果：父母婚姻質素較好與較低焦慮抑鬱及較高幸福感相關；家族精神病史相反；焦慮部分中介婚姻質素與家族病史跟幸福感的關聯；抑鬱完全中介獨生狀態與整體生活滿意度的關聯",
+  "性別差異：女性 PHQ-9／GAD-7 較高、生活滿意度較低；性別異質性主要見於家庭收入經焦慮影響幸福感的路徑",
+  "限制：橫斷面；單一醫院求助樣本；家庭環境指標未互相控制；全部自評"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "家庭環境",
+  "主觀幸福感",
+  "焦慮",
+  "抑鬱",
+  "青少年"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「我哋屋企氣氛差，係咪害咗個仔唔開心」，你會如何用中介模型與橫斷面限制去回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.3389/fpubh.2026.1965162",
+   "author_handle": "",
+   "author_name": "Li、Zhang、Wang、Zhao 等（山東第一醫科大學附屬省立醫院）",
+   "title": "Family environment and subjective wellbeing in adolescents: the mediating roles of anxiety and depressive symptoms (Front Public Health 2026;14:1965162; DOI: 10.3389/fpubh.2026.1965162)",
+   "content": "山東 1,284 名求助青少年：家庭環境經焦慮與抑鬱症狀影響主觀幸福感；性別差異主要在收入路徑。",
+   "posted_at": "2026-11-10T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-17T13:32:16+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "family-environment-and-subjective-wellbeing-in-adolescents-t",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

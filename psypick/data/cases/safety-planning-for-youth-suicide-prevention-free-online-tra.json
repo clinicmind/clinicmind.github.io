@@ -1,0 +1,204 @@
+{
+ "title_zh": "青少年自殺防治安全計劃（SPRC 免費線上培訓，1 CE）",
+ "title_en": "Safety Planning for Youth Suicide Prevention - Free Online Training",
+ "summary_zh": "自殺防治資源中心（SPRC）經由 Zero Suicide 平台提供的免費自學式線上培訓，教授 Stanley-Brown 安全計劃介入法，學習與青少年及其家庭／支持者合作制定降低風險的計劃。可獲美國社工協會（NASW）1 小時繼續教育學分。",
+ "summary_en": "Free self-paced SPRC / Zero Suicide training on the Stanley-Brown safety planning intervention for youth, with 1 NASW CE hour.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "課程核心是自殺風險的安全計劃。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "CE 學分為美國社工協會（NASW）學分，港澳不一定承認。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "免費、自學式線上培訓",
+  "採用 Stanley-Brown 安全計劃介入法",
+  "可獲美國社工協會（NASW）1 小時繼續教育學分",
+  "對象：健康、行為健康與心理健康臨床人員"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "自殺防治",
+  "青少年",
+  "安全計劃",
+  "免費培訓"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "安全計劃如何與家長或監護人合作而不破壞青少年的保密？",
+  "在港澳的轉介與熱線資源，應如何放進安全計劃？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "audience_level": "health, behavioral health, and mental health clinicians",
+  "ce_credits": "one hour of continuing education from the National Association of Social Workers",
+  "deadline": "",
+  "event_date": "",
+  "format": "線上自學",
+  "language": "英語",
+  "price": "免費",
+  "price_tier": "免費",
+  "provider": "Suicide Prevention Resource Center（SPRC）／Zero Suicide Institute",
+  "signup_url": "https://zerosuicide.edc.org/resources/resource-database/safety-planning-youth-suicide-prevention-0",
+  "topic": "青少年自殺防治；安全計劃"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://zerosuicide.edc.org/resources/resource-database/safety-planning-youth-suicide-prevention-0",
+   "author_handle": "",
+   "author_name": "Suicide Prevention Resource Center（SPRC）／Zero Suicide Institute",
+   "title": "Safety Planning for Youth Suicide Prevention | Zero Suicide",
+   "content": "自殺防治資源中心（SPRC）經由 Zero Suicide 平台提供的免費自學式線上培訓，教授 Stanley-Brown 安全計劃介入法，學習與青少年及其家庭／支持者合作制定降低風險的計劃。",
+   "posted_at": "2026-10-03T01:09:46+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-03T01:09:46+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "safety-planning-for-youth-suicide-prevention-free-online-tra",
+ "featured_at": null,
+ "hot_score": 2.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "emdr-parts-work-for-treating-complex-trauma-free-live-event",
+   "title_zh": "EMDR 與部分工作治療複雜性創傷（免費直播）",
+   "title_en": "EMDR & Parts Work for Treating Complex Trauma (Free Live Event)",
+   "summary_zh": "Psychotherapy Networker 舉辦的免費直播課程，於 2026-10-22 美東時間上午 10:30 至下午 6:00 線上舉行。課程聚焦以 EMDR 結合部分工作（parts work）與身體取向技巧，協助臨床工作者降低個案防衛、促進創傷處理。原價 $249.99，現免費參加，需線上報名。",
+   "summary_en": "Free live online event from Psychotherapy Networker on 22 Oct 2026 (10:30am–6:00pm EDT) on combining EMDR, parts work and body-oriented techniques for complex trauma; listed at $0 instead of $249.99.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "EMDR",
+    "部分工作",
+    "複雜性創傷",
+    "身體取向治療",
+    "免費培訓"
+   ],
+   "first_seen_at": "2026-10-06T02:37:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 4.0,
+   "mention_count": 1,
+   "featured_at": "2026-10-16T02:38:03+00:00",
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-06T02:37:46+00:00",
+   "training": {
+    "provider": "Psychotherapy Networker",
+    "price": "$0.00（原價 $249.99）",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "",
+    "deadline": "",
+    "event_date": "2026-10-22",
+    "format": "線上直播（Live Webcast）"
+   },
+   "deadline_soon": true
+  },
+  {
+   "slug": "dan-siegel-s-mindsight-in-practice-free-live-pesi-training",
+   "title_zh": "Dan Siegel 正念治療師實務：以調節、共鳴與整合帶動臨床改變（PESI 免費直播）",
+   "title_en": "Dan Siegel's Mindsight in Practice - Free Live PESI Training",
+   "summary_zh": "PESI 於 2026 年 10 月 21 日舉辦免費線上直播培訓，由人際神經生物學創始人 Dan Siegel 主講，內容取材自其新版《The Mindful Therapist》，聚焦治療師的臨場感、調節、共鳴與整合。免費參加並可觀看 3 天回放；欲取得 CE 學分須另購升級方案。",
+   "summary_en": "PESI free live online training by Dan Siegel on 21 Oct 2026 (3 hours, 3-day replay; CE credit requires a paid upgrade).",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "人際神經生物學",
+    "治療關係",
+    "免費培訓"
+   ],
+   "first_seen_at": "2026-10-03T01:09:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 4.0,
+   "mention_count": 1,
+   "featured_at": "2026-10-16T02:38:03+00:00",
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-03T01:09:46+00:00",
+   "training": {
+    "provider": "PESI（主講：Daniel J. Siegel, MD）",
+    "price": "0 USD",
+    "price_tier": "免費",
+    "ce_credits": "up to 3 CE hours（須另購 CE 升級方案）",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-10-21",
+    "format": "線上直播（含 3 天免費回放）"
+   },
+   "deadline_soon": true
+  },
+  {
+   "slug": "mhahk-free-zoom-talks-on-student-suicide-risk-and-school-ref",
+   "title_zh": "香港心理衞生會免費 Zoom 講座：學童自殺風險辨識與拒學支援（2026 年 10 月）",
+   "title_en": "MHAHK free Zoom talks on student suicide risk and school refusal",
+   "summary_zh": "香港心理衞生會「青繫」在 2026 年 10 月 6 日及 10 月 28 日舉辦兩場免費 Zoom 講座，分別談學童自殺風險辨識與溝通、拒學的理解與支援策略，講者均為臨床心理學家。講座主要對象是教師、家長、學校社工和青年工作者，適合在學校場景工作的輔導人員與實習生作入門進修。",
+   "summary_en": "The Mental Health Association of Hong Kong's youth service runs two free Zoom talks in October 2026 by clinical psychologists: one on identifying student suicide risk and effective communication (Oct 6), one on school refusal and support strategies (Oct 28). The stated audience is teachers, parents, school social workers and youth workers.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "自殺防治",
+    "拒學",
+    "學校心理健康",
+    "香港",
+    "免費講座"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者",
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": "2026-09-30T13:03:54+00:00",
+   "tier": "archive",
+   "has_ethics_flags": true,
+   "date": "2026-09-30T13:03:54+00:00",
+   "training": {
+    "provider": "香港心理衞生會（青繫）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "中文",
+    "deadline": "",
+    "event_date": "2026-10-06",
+    "format": "線上直播（Zoom）"
+   },
+   "deadline_soon": false
+  }
+ ],
+ "evidence_quote": "free, self-paced, online training",
+ "page_date": ""
+}

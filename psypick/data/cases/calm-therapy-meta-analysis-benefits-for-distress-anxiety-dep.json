@@ -1,0 +1,152 @@
+{
+ "title_zh": "CALM 治療統合分析：改善癌症患者的心理困擾、焦慮、抑鬱與生活質素",
+ "title_en": "CALM therapy meta-analysis: benefits for distress, anxiety, depression and quality of life in cancer",
+ "summary_zh": "Worldviews on Evidence-Based Nursing 的系統性回顧統合 11 項隨機對照試驗、1,284 名癌症患者。CALM（Managing Cancer and Living Meaningfully）顯著改善心理困擾（MD −2.43）、焦慮（SMD −1.06）、抑鬱（SMD −0.65）、生活質素（SMD 1.44）、癌症相關疲勞與睡眠困擾；對復發恐懼的效果不顯著。納入試驗九項來自中國，作者提醒異質性高，解讀需保守。",
+ "summary_en": "A systematic review in Worldviews on Evidence-Based Nursing pooled 11 RCTs with 1,284 patients with cancer. CALM (Managing Cancer and Living Meaningfully) significantly improved psychological distress (MD -2.43), anxiety (SMD -1.06), depression (SMD -0.65), quality of life (SMD 1.44), cancer-related fatigue and sleep disturbance; effects on fear of cancer recurrence were not significant. Nine of the 11 trials were conducted in China, and the authors caution that heterogeneity was substantial.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "系統性回顧與統合分析（Worldviews on Evidence-Based Nursing，2025 年 4 月刊出）；經 Feed 2026-10-22 轉載發現，屬補漏收錄",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "納入試驗以中國單癌種研究為主，效果量偏大且異質性高；在本地晚期癌症照護套用前，需看回原始 CALM 試驗（如 Rodin et al. 2018）的結果。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "11 項 RCT，n=1,284（九項來自中國，另德國、加拿大各一）",
+  "心理困擾 MD −2.43；焦慮 SMD −1.06；抑鬱 SMD −0.65；生活質素 SMD 1.44",
+  "癌症相關疲勞與睡眠困擾亦有改善；復發恐懼效果不顯著",
+  "異質性高，作者建議保守解讀，需更多高質素 RCT"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "CALM",
+  "癌症",
+  "心理治療",
+  "統合分析",
+  "安寧照護"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "在晚期癌症個案中，你會如何平衡 CALM 的四個範疇（症狀溝通、自我與關係、意義、未來）在一節會談中的取捨？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12035791/",
+   "author_handle": "",
+   "author_name": "Zhang et al.",
+   "title": "Effectiveness of Managing Cancer and Living Meaningfully Therapy on Health-Related Outcomes for Patients With Cancer (PMC12035791)",
+   "content": "期刊全文（PMC）：CALM 治療的系統性回顧與統合分析，含摘要、納入試驗特徵與各結果的效果量。",
+   "posted_at": "2025-04-01T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "calm-therapy-meta-analysis-benefits-for-distress-anxiety-dep",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "emotion-focused-therapy-for-prolonged-grief-disorder-rct-stu",
+   "title_zh": "情緒取向治療用於延長哀傷障礙：隨機對照試驗研究方案",
+   "title_en": "Emotion-focused therapy for prolonged grief disorder: RCT study protocol",
+   "summary_zh": "這是一份即將在西班牙馬德里進行的雙臂 RCT 研究方案：比較 8–10 節 Greenberg 系情緒取向治療（EFT）與以 EFT 為基礎的自助介入，對符合 ICD-11 延長哀傷障礙診斷成人的療效。主要結果為哀傷症狀（PG-13-R）與心理困擾（CORE-10），追蹤至 12 個月。",
+   "summary_en": "Protocol for a two-arm RCT in Madrid comparing 8–10 sessions of Greenberg-style emotion-focused therapy with an EFT-based self-help task for ICD-11 prolonged grief disorder.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "情緒取向治療",
+    "Greenberg系（個體EFT）",
+    "延長哀傷障礙",
+    "RCT研究方案"
+   ],
+   "first_seen_at": "2026-10-03T01:09:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.859,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-21T00:00:00+00:00"
+  },
+  {
+   "slug": "body-based-therapies-plus-tms-for-ptsd-a-proposed-integrativ",
+   "title_zh": "身體為本治療結合經顱磁刺激治療創傷後壓力症：整合取向初探",
+   "title_en": "Body-based therapies plus TMS for PTSD: a proposed integrative approach",
+   "summary_zh": "這篇概念性綜述首次提議把身體為本治療（身體經驗創傷療法、感官動作心理治療、創傷敏感瑜伽等）與經顱磁刺激（TMS）結合治療 PTSD：前者由下而上調節自主神經與內感受，後者由上而下調控前額葉–邊緣系統迴路。作者整理兩者證據與機制，並指出排序、自主神經失穩等風險仍待實證研究。",
+   "summary_en": "A conceptual review proposing to combine body-based therapies with TMS for PTSD, outlining a bottom-up plus top-down rationale and open risks.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "身體取向治療",
+    "身體為本治療",
+    "創傷後壓力症",
+    "TMS經顱磁刺激",
+    "概念性綜述"
+   ],
+   "first_seen_at": "2026-10-03T01:09:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.43,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-17T00:00:00+00:00"
+  },
+  {
+   "slug": "meta-analysis-of-emotion-focused-therapy-for-adult-distress",
+   "title_zh": "統合分析：情緒取向治療（Greenberg 系 EFT）對成人憂鬱、焦慮與 PTSD 的療效",
+   "title_en": "Meta-analysis of emotion-focused therapy for adult distress disorders",
+   "summary_zh": "這篇 2026 年 4 月刊於 Psychotherapy Research 的統合分析，針對 Greenberg 系的情緒取向治療（Emotion-Focused Therapy，個人與團體形式，排除伴侶 EFT），納入 13 篇試驗（EFT 組 348 人、對照 201 人）。EFT 相對於無治療對照效果大（g = 1.39），相對於其他既有心理治療的優勢則小（約 0.28）。作者同時指出研究品質普遍偏低、有出版偏誤跡象，樣本也集中於女性與白人或伊朗參與者。",
+   "summary_en": "A 2026 meta-analysis in Psychotherapy Research of 13 trials of (Greenberg-style) emotion-focused therapy, excluding couples EFT, found a large effect versus inactive controls (g = 1.39) and a small advantage over active therapies (about 0.28). The authors flag poor study quality, publication bias and narrow samples.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "情緒取向治療",
+    "Emotion-Focused Therapy",
+    "統合分析",
+    "憂鬱",
+    "焦慮",
+    "PTSD"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.564,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-04-19T00:00:00+00:00"
+  }
+ ]
+}

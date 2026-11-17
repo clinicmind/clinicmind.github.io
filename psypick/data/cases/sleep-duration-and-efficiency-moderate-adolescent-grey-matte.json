@@ -1,0 +1,92 @@
+{
+ "title_zh": "研究：青少年睡眠時間與效率，會調節大腦灰質體積變化",
+ "title_en": "Sleep duration and efficiency moderate adolescent grey matter volume changes",
+ "summary_zh": "《SLEEP》期刊 2026 年 6 月 15 日刊出的縱貫磁振造影研究，追蹤 39 名 10 至 14 歲健康青少年（平均 12.72 歲），兩次掃描相隔六個月，期間以體動記錄儀客觀量度睡眠（平均約 130 晚）。睡眠時間與睡眠效率會調節丘腦、楔前葉、眼窩額葉皮質與杏仁核的灰質體積變化；睡得較短、較受干擾者，結構變化較小。睡眠規律與睡眠中點亦有調節作用。",
+ "summary_en": "A longitudinal MRI study in SLEEP (15 June 2026) followed 39 healthy adolescents aged 10-14 (mean 12.72 years) with scans six months apart and objective actigraphy between scans (mean about 130 nights). Sleep duration and efficiency moderated grey matter volume changes in the thalamus, precuneus, orbitofrontal cortex and amygdala; shorter and more disrupted sleep was associated with attenuated structural changes. Sleep regularity and midpoint also moderated changes.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊研究（SLEEP，DOI: 10.1093/sleep/zsag011），經 PubMed 摘要頁核對",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "樣本僅 39 名健康青少年，追蹤僅六個月；調節分析不等於證明睡眠導致腦變化；摘要資助來源為瑞士國家科學基金會，未見廠商資助。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：39 名 10 至 14 歲健康青少年，平均 12.72 歲，兩次結構磁振造影相隔六個月",
+  "睡眠量度：兩次掃描之間以體動記錄儀每日客觀記錄，平均 129.95 晚（標準差 34.01 晚）",
+  "主要結果：睡眠時間與效率調節丘腦、楔前葉、眼窩額葉皮質與杏仁核的灰質體積變化（ΔR2 .11 至 .50，p .001 至 .020）",
+  "睡得較短、較受干擾者，結構變化較小；睡眠規律與睡眠中點亦調節灰質變化（ΔR2 .05 至 .30）",
+  "研究地點：瑞士伯恩大學等機構；資助：瑞士國家科學基金會"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "睡眠",
+  "青少年",
+  "大腦發育",
+  "灰質",
+  "縱貫研究"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "青少年睡眠不足時，你會如何區分睡眠問題、情緒困擾與發展因素各自的線索？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41562565/",
+   "author_handle": "",
+   "author_name": "PubMed",
+   "title": "Sleep as a moderator of adolescent brain development-evidence from a longitudinal MRI study",
+   "content": "SLEEP 期刊原文摘要：青少年睡眠客觀量度如何調節六個月內七個社群情緒相關腦區的灰質體積變化。",
+   "posted_at": "2026-06-15T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-30T13:35:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "sleep-duration-and-efficiency-moderate-adolescent-grey-matte",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "social-comparison-on-social-media-strongest-link-adolescent",
+   "title_zh": "研究：青少年在社交媒體上與人比較，與焦慮抑鬱症狀關聯最強",
+   "title_en": "Social comparison on social media strongest link adolescent mental health symptoms",
+   "summary_zh": "Child and Adolescent Psychiatry and Mental Health 於 2026 年 10 月 17 日刊出的橫斷面研究，分析挪威東南部 21 間學校 4,011 名青少年（平均 14 歲，2025 年秋季問卷）。在社交媒體使用五個面向中，「與人比較」對五種症狀的預測力最強：內化症狀（廣泛焦慮、社交焦慮、抑鬱）解釋約 20–26% 變異，外化症狀（ADHD、對立違抗）解釋 6–9%；「消磨時間」與「尋求支持」則幾無獨立關聯。研究不能證明因果關係。",
+   "summary_en": "A cross-sectional study in Child and Adolescent Psychiatry and Mental Health (published 17 October 2026) analysed 4,011 Norwegian adolescents (mean age 14) from 21 schools in South-Eastern Norway. Among five aspects of social media use, social comparison was the strongest predictor across all five symptom domains, accounting for about 20-26% of variance in internalizing symptoms (generalized anxiety, social anxiety, depression) and 6-9% in externalizing symptoms (ADHD, oppositional defiant disorder); passing time and seeking support showed negligible independent associations. The design cannot establish causation.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "社交比較",
+    "青少年",
+    "焦慮抑鬱"
+   ],
+   "first_seen_at": "2026-10-29T13:35:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-17T00:00:00+00:00"
+  }
+ ]
+}

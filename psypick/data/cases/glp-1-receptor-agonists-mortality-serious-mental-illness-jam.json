@@ -1,0 +1,156 @@
+{
+ "title_zh": "研究：嚴重精神疾病患者用 GLP-1 受體促效劑，四年死亡率 4.91% 對 6.45%（逾 150 萬人配對）",
+ "title_en": "GLP-1 receptor agonists mortality serious mental illness JAMA Psychiatry",
+ "summary_zh": "JAMA Psychiatry 目標試驗模擬研究比較開始使用 GLP-1 受體促效劑與開始使用 SGLT2 抑制劑的成人，分析 TriNetX 電子健康記錄，逾 150 萬人經傾向評分配對。嚴重精神疾病組（重性抑鬱、躁鬱症、精神分裂症）共 195,184 對，四年全因死亡率為 GLP-1 組 4.91%，SGLT2 組 6.45%（風險比 0.76，絕對風險差 −1.54 個百分點）；一年死亡率為 1.46% 對 2.84%（相對風險 0.52）。效益在一年內已見，各嚴重精神疾病亞組一致，主要由 semaglutide 與 tirzepatide 帶動。研究屬觀察性設計，作者強調須以前瞻隨機試驗確認因果。",
+ "summary_en": "A JAMA Psychiatry target trial emulation compared adults starting a GLP-1 receptor agonist with adults starting an SGLT2 inhibitor, using TriNetX electronic health records with more than 1.5 million propensity score-matched participants. In the serious mental illness cohort (major depressive disorder, bipolar disorder and schizophrenia), 195,184 pairs were matched: four-year all-cause mortality was 4.91% with GLP-1 RAs versus 6.45% with SGLT2 inhibitors (hazard ratio 0.76; absolute risk difference -1.54 percentage points), and one-year mortality was 1.46% versus 2.84% (risk ratio 0.52). Benefits appeared within one year, were consistent across serious mental illness subgroups, and were driven mainly by semaglutide and tirzepatide. The design is observational, and the authors state that prospective randomised trials are needed to confirm causality.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "目標試驗模擬觀察研究（JAMA Psychiatry，2026-08-26 線上刊出；DOI: 10.1001/jamapsychiatry.2026.2574；JAMA 原文頁被 Cloudflare 阻擋，數字經 JAMA 摘要、多倫多大學報道與 Psychiatric Times 三方交叉核對）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "觀察性目標試驗模擬，不能完全排除未量度的混雜因素（例如服藥依從性、生活方式）；須以前瞻隨機試驗確認因果；JAMA 原文頁未能直接讀取，數字經三個來源交叉核對；對照藥為另一類已知有心血管效益的藥物（SGLT2 抑制劑），不是安慰劑；嚴重精神疾病患者預期壽命本已較一般人短 10 至 25 年。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "設計：目標試驗模擬，新用藥者、活性對照設計；TriNetX 電子健康記錄，查詢涵蓋 1.27 億病人、114 間醫療機構；數據於 2026 年 3 月查詢分析",
+  "樣本：1,528,230 人配對（764,115 對），其中嚴重精神疾病組 195,184 對，非嚴重精神疾病組 568,931 對",
+  "四年死亡率（嚴重精神疾病組）：GLP-1 組 9,585／195,184（4.91%），SGLT2 組 12,584／195,184（6.45%）；風險比 0.76（95% CI 0.74–0.78）；絕對風險差 −1.54 個百分點",
+  "一年死亡率（嚴重精神疾病組）：GLP-1 組 1.46%，SGLT2 組 2.84%；相對風險 0.52（95% CI 0.49–0.54），即相對風險低 48%",
+  "心血管事件亦較低；效益在一年內已見，各亞組一致；非嚴重精神疾病組死亡率降幅較小（風險比 0.85）",
+  "效益主要由 semaglutide 與 tirzepatide 帶動；作者強調須以前瞻隨機試驗確認"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "GLP-1",
+  "嚴重精神疾病",
+  "心血管",
+  "死亡率",
+  "藥物"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案有嚴重精神疾病，同時問起減重針會唔會影響心臟同壽命，你會如何用呢份觀察性證據回應，而又唔誇大因果？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1001/jamapsychiatry.2026.2574",
+   "author_handle": "",
+   "author_name": "McIntyre 等（University of Toronto）",
+   "title": "Glucagon-Like Peptide 1 Receptor Agonists, Mortality, and Cardiovascular Outcomes in Serious Mental Illness (JAMA Psychiatry; DOI: 10.1001/jamapsychiatry.2026.2574)",
+   "content": "期刊論文：GLP-1 受體促效劑與嚴重精神疾病患者的死亡率及心血管結果，逾 150 萬人目標試驗模擬。",
+   "posted_at": "2026-08-26T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-09T13:41:55+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "glp-1-receptor-agonists-mortality-serious-mental-illness-jam",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "adhd-mortality-systematic-review-meta-analysis",
+   "title_zh": "研究：ADHD 患者整體死亡風險高約七成，用藥者風險較低（觀察性統合分析）",
+   "title_en": "ADHD mortality systematic review meta-analysis",
+   "summary_zh": "《JAMA Network Open》2026 年 10 月刊出的系統性回顧與統合分析，納入 19 項研究、共 15,920,970 人（女性佔 36.1%），文獻檢索至 2025 年 7 月 8 日。ADHD 患者整體死亡風險比（HR）為 1.71，自殺 1.89、意外或蓄意傷害 1.55、自然死因 1.27；ADHD 用藥者整體死亡風險比為 0.75。全部納入研究皆為觀察性研究，不能推斷因果。",
+   "summary_en": "A systematic review and meta-analysis in JAMA Network Open (October 2026) pooled 19 studies covering 15,920,970 participants (36.1% female), with literature searched to 8 July 2025. ADHD was associated with all-cause mortality (HR 1.71), suicide (HR 1.89), unintentional or intentional injury (HR 1.55) and natural-cause mortality (HR 1.27); ADHD medication use was associated with lower all-cause mortality (HR 0.75). All included studies were observational, so causality cannot be inferred.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "ADHD",
+    "死亡風險",
+    "統合分析",
+    "用藥",
+    "自殺",
+    "傷害"
+   ],
+   "first_seen_at": "2026-10-31T13:35:00+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-01T00:00:00+00:00"
+  },
+  {
+   "slug": "modified-psychodynamic-psychotherapy-schizophrenia-spectrum",
+   "title_zh": "RCT：改良心理動力治療加常規治療，可改善思覺失調症譜系患者的心理社會功能（130 人）",
+   "title_en": "Modified psychodynamic psychotherapy schizophrenia spectrum RCT psychosocial functioning",
+   "summary_zh": "柏林 Charité 單中心隨機對照試驗，130 名 18 至 64 歲思覺失調症或情感性思覺失調門診患者，比較改良心理動力治療（MPP-S，最少 30 節）加常規治療與單用常規治療。主要結果心理社會功能（Mini-ICF-APP）：24 個月組間差 −3.45（95% CI −5.51 至 −1.40），36 個月 −4.07（−6.19 至 −1.94），介入組較佳；負性症狀亦有改善。試驗期間兩名參加者自殺身亡（每組一名）。",
+   "summary_en": "A single-centre randomised controlled trial at Charité Berlin randomised 130 outpatients aged 18-64 with schizophrenia or schizoaffective disorder to Modified Psychodynamic Psychotherapy for Schizophrenia (MPP-S, minimum 30 sessions) plus treatment as usual (TAU) or TAU alone. Psychosocial functioning (Mini-ICF-APP) favoured the intervention: between-group differences of -3.45 (95% CI -5.51 to -1.40) at 24 months and -4.07 (-6.19 to -1.94) at 36 months, with negative symptoms also improving. Two participants died by suicide during the trial (one per arm).",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "思覺失調",
+    "心理動力治療",
+    "心理社會功能",
+    "RCT"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-01T00:00:00+00:00"
+  },
+  {
+   "slug": "flourish-ai-app-rct-stress-depression-anxiety-university-stu",
+   "title_zh": "RCT：生成式 AI 應用 Flourish 減壓，六週抑鬱明顯改善者 52.3% 對 31.7%（1,137 人）",
+   "title_en": "Flourish AI app RCT stress depression anxiety university students",
+   "summary_zh": "哈佛商學院工作論文報告一項預先註冊隨機對照試驗，1,137 名北美大學本科生（未經症狀篩查）隨機分派使用生成式 AI 心理健康應用 Flourish（每週至少兩次）或常規照顧六週。整體而言，Flourish 組的壓力（β=−0.03，P=.010）、抑鬱症狀（β=−0.03，P=.006）與焦慮症狀（β=−0.04，P=.001）軌跡均較佳。基線症狀較高者中，抑鬱明顯改善者 52.3% 對 31.7%，焦慮 50.6% 對 38.1%；基線症狀較低者中，Flourish 緩和了症狀惡化。無與介入相關的不良事件。",
+   "summary_en": "A Harvard Business School working paper reports a preregistered randomised clinical trial in which 1,137 unscreened university students at a large North American university were assigned to six weeks of the generative AI mental health app Flourish (at least twice weekly) or care as usual. Across the full sample, Flourish produced more favourable trajectories for perceived stress (beta -0.03, P=.010), depressive symptoms (beta -0.03, P=.006) and anxiety symptoms (beta -0.04, P=.001). Among participants with elevated baseline symptoms, meaningful improvement was achieved by 52.3% versus 31.7% for depression and 50.6% versus 38.1% for anxiety; among those with low baseline symptoms, Flourish buffered deterioration. No intervention-related adverse events were reported.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "生成式 AI",
+    "心理健康應用",
+    "大學生",
+    "RCT",
+    "預防"
+   ],
+   "first_seen_at": "2026-11-08T13:26:00+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-03T00:00:00+00:00"
+  }
+ ]
+}

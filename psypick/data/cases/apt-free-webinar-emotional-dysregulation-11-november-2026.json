@@ -1,0 +1,145 @@
+{
+ "title_zh": "APT 免費線上講座：11 月 11 日談情緒調節（港澳 22:00）",
+ "title_en": "APT free webinar emotional dysregulation 11 November 2026",
+ "summary_zh": "英國心理治療協會（Association for Psychological Therapies，APT）免費 Wednesday Webinar。2026 年 11 月 11 日（星期三）英國時間 14:00-15:00 線上舉行（港澳同日 22:00-23:00），以 Zoom 進行，主題為「情緒調節：甚麼是情緒失調，如何調節自己的情緒，又如何協助來訪者調節情緒」。面向心理健康專業人員，介紹辨識情緒調節困難、回應強烈情緒，以及協助來訪者建立相關技巧。免費參加，需經 Zoom 報名連結登記。",
+ "summary_en": "A free Wednesday Webinar from the Association for Psychological Therapies (APT). On 11 November 2026 (Wednesday) 14:00-15:00 UK time (22:00-23:00 Macau time), via Zoom, on emotional dysregulation: what it is, how to regulate your own emotions, and how to help clients regulate theirs. Aimed at mental health professionals, it covers recognising difficulties with emotion regulation, responding helpfully to intense feelings, and helping clients develop these skills. Free; registration via the Zoom link.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程（APT 官方免費講座頁，列明 11 月 11 日場次與 Zoom 報名連結）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "英國時間 14:00-15:00 已換算為港澳 22:00-23:00；原頁未載明 CE 學分與報名截止日期，報名連結為 Zoom 登記頁。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "主辦：Association for Psychological Therapies（APT）；系列：免費 Wednesday Webinar",
+  "時間：2026 年 11 月 11 日（星期三）英國時間 14:00-15:00，即港澳同日 22:00-23:00；形式：Zoom 線上直播",
+  "主題：Emotional dysregulation: What is it, how can you regulate your own emotions, and how can you help your clients regulate theirs?",
+  "對象：心理健康專業人員；內容：辨識情緒調節困難、回應強烈情緒、協助來訪者建立調節技巧",
+  "費用：免費；報名：經原頁 Zoom 報名連結登記；同系列另有 2027 年 1 月 20 日、3 月 24 日、6 月 9 日場次，主題待公布"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "情緒調節",
+  "免費線上講座",
+  "APT",
+  "心理健康專業人員"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "來訪者情緒突然強烈、超出你能承載的範圍時，你會如何先穩住自己，再回應對方？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "Association for Psychological Therapies (APT)",
+  "price": "FREE（免費）",
+  "price_tier": "免費",
+  "ce_credits": "原頁未載明",
+  "language": "英語",
+  "deadline": "",
+  "event_date": "2026-11-11",
+  "format": "線上直播",
+  "audience_level": "心理健康專業人員",
+  "signup_url": "https://us02web.zoom.us/webinar/register/WN_m8etla53Tv6eCM_PDroQ1Q",
+  "topic": "情緒調節：辨識困難、調節自身情緒、協助來訪者調節情緒",
+  "format_note": "線上直播（Zoom）"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.apt.ac/webinars/free-webinars-for-mental-health-professionals.html",
+   "author_handle": "",
+   "author_name": "Association for Psychological Therapies (APT)",
+   "title": "FREE Webinars for Mental Health Professionals",
+   "content": "APT 免費講座頁：11 月 11 日情緒調節場次，英國時間 14:00-15:00，Zoom 線上舉行，面向心理健康專業人員，附報名連結。",
+   "posted_at": "2026-11-01T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-01T13:45:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "apt-free-webinar-emotional-dysregulation-11-november-2026",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "archive",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "sudden-gains-in-emotion-focused-therapy-for-youth",
+   "title_zh": "青少年情緒取向治療（EFT-Y）：一半個案在情緒調節上出現「突然進步」",
+   "title_en": "Sudden gains in emotion focused therapy for youth",
+   "summary_zh": "Foroughe 等人 2026 年 8 月發表的研究，檢視青少年情緒取向治療（EFT for Youth，屬 Greenberg 系 Emotion-Focused Therapy 的延伸）中的會談內突然進步。22 位 9–17 歲青少年中，一半至少出現一次情緒調節的突然進步，33% 在憂鬱症狀上出現突然進步；不論是否出現突然進步，療程結束時整體都有顯著改善。",
+   "summary_en": "A 2026 study of emotion focused therapy for youth (EFT-Y) with 22 participants aged 9–17 found half showed at least one sudden gain in emotion regulation and 33% in depression; all improved significantly post-treatment.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "情緒取向治療",
+    "Emotion-Focused Therapy",
+    "青少年",
+    "突然進步",
+    "情緒調節",
+    "憂鬱"
+   ],
+   "first_seen_at": "2026-10-01T03:34:06+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.782,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-08-07T00:00:00+00:00"
+  },
+  {
+   "slug": "free-live-clinical-conversation-sue-marriott-modern-attachme",
+   "title_zh": "免費線上對談：Sue Marriott 談依附光譜與關係模式創傷治療",
+   "title_en": "Free live clinical conversation Sue Marriott modern attachment spectrum trauma therapy",
+   "summary_zh": "Trauma Therapist Institute 免費線上臨床對談。2026 年 11 月 4 日美中時間 13:00 線上舉行（港澳 11 月 5 日凌晨 03:00），由 Sue Marriott（LCSW、CGP，《Secure Relating》合著者）主講，介紹現代依附調節光譜（MARS）：不把來訪者放進四個固定依附格子，而是追蹤其在光譜上的移動，並連結即時神經系統狀態。直播一週後提供回放。",
+   "summary_en": "A free live online clinical conversation from the Trauma Therapist Institute on 4 November 2026 (1:00pm Central; 03:00 Macau time on 5 November), led by Sue Marriott, LCSW, CGP, co-author of Secure Relating. It presents the Modern Attachment Regulation Spectrum (MARS): tracking clients' movement along a spectrum rather than sorting them into four fixed attachment boxes, and linking attachment activation to real-time nervous system states. On-demand replay is available one week after the live event.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "依附",
+    "創傷治療",
+    "關係模式",
+    "免費直播"
+   ],
+   "first_seen_at": "2026-10-30T13:35:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-30T00:00:00+00:00",
+   "training": {
+    "provider": "Trauma Therapist Institute",
+    "price": "FREE（免費）",
+    "price_tier": "免費",
+    "ce_credits": "原頁未載明",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-04",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

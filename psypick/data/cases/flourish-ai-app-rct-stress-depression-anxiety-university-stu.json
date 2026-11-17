@@ -1,0 +1,166 @@
+{
+ "title_zh": "RCT：生成式 AI 應用 Flourish 減壓，六週抑鬱明顯改善者 52.3% 對 31.7%（1,137 人）",
+ "title_en": "Flourish AI app RCT stress depression anxiety university students",
+ "summary_zh": "哈佛商學院工作論文報告一項預先註冊隨機對照試驗，1,137 名北美大學本科生（未經症狀篩查）隨機分派使用生成式 AI 心理健康應用 Flourish（每週至少兩次）或常規照顧六週。整體而言，Flourish 組的壓力（β=−0.03，P=.010）、抑鬱症狀（β=−0.03，P=.006）與焦慮症狀（β=−0.04，P=.001）軌跡均較佳。基線症狀較高者中，抑鬱明顯改善者 52.3% 對 31.7%，焦慮 50.6% 對 38.1%；基線症狀較低者中，Flourish 緩和了症狀惡化。無與介入相關的不良事件。",
+ "summary_en": "A Harvard Business School working paper reports a preregistered randomised clinical trial in which 1,137 unscreened university students at a large North American university were assigned to six weeks of the generative AI mental health app Flourish (at least twice weekly) or care as usual. Across the full sample, Flourish produced more favourable trajectories for perceived stress (beta -0.03, P=.010), depressive symptoms (beta -0.03, P=.006) and anxiety symptoms (beta -0.04, P=.001). Among participants with elevated baseline symptoms, meaningful improvement was achieved by 52.3% versus 31.7% for depression and 50.6% versus 38.1% for anxiety; among those with low baseline symptoms, Flourish buffered deterioration. No intervention-related adverse events were reported.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "預先註冊隨機對照試驗（哈佛商學院工作論文 27-002，2026-11-03 公布；ClinicalTrials.gov NCT06668532；AsPredicted 195084；經 HBS 工作論文 PDF 原文核實）",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "生成式 AI 心理支援的安全取決於風險偵測、危機應對流程與臨床監察，臨床工作者向個案介紹此類工具時，須說明其局限，並確認個案知道如何取得真人危機支援。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "工作論文，未經同儕審查，結果可能在正式發表前修訂；三名作者屬開發公司 Flourish Science（包括通訊作者），屬利益相關證據；參加者未設盲（用程式即知分組），結果屬自填量表；樣本為單一北美大學本科生，以研究學分招募，未經症狀篩查，推廣至臨床群體有限；六週追蹤期短，效果以軌跡斜率計，絕對分數差異小；AI 介入不等於治療，危機處理依賴內置風險偵測與臨床監察機制。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：1,137 名本科生，單一北美大學，2025 年夏秋學期以研究學分招募；無症狀篩查",
+  "介入：Flourish 生成式 AI 應用（AI 教練 Sunnie，GPT-4o／GPT-4.1），每週至少兩次，共六週；對照為常規照顧",
+  "整體軌跡：壓力 β=−0.03（P=.010）、抑鬱 β=−0.03（P=.006）、焦慮 β=−0.04（P=.001），Flourish 組均較佳",
+  "基線症狀較高者：抑鬱明顯改善 52.3% 對 31.7%（RR 1.65）、焦慮 50.6% 對 38.1%（RR 1.33）；改善定義為 PHQ-2／GAD-2 降至少 2 分",
+  "基線症狀較低者：兩組症狀均上升，但 Flourish 組升幅較小；第四週壓力較低與第六週症狀較輕相關",
+  "每節使用 8–10 分鐘；無與介入相關的不良事件；試驗預先註冊（NCT06668532）"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "生成式 AI",
+  "心理健康應用",
+  "大學生",
+  "RCT",
+  "預防"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案話想用 AI 應用處理情緒時，你會如何用這份未經同儕審查、由開發公司作者主導的證據同佢討論？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.hbs.edu/ris/Publication%20Files/27-002_5e71d8d9-4bf6-4afa-a72c-a3af2caa1501.pdf",
+   "author_handle": "",
+   "author_name": "Cachia 等（Flourish Science／哈佛商學院）",
+   "title": "AI-Powered Prevention and Early Intervention for Stress, Depression, and Anxiety: A Randomized Clinical Trial (Harvard Business School Working Paper 27-002)",
+   "content": "工作論文原文：生成式 AI 應用 Flourish 預防與早期介入的隨機對照試驗，含樣本、主要結果與安全機制。",
+   "posted_at": "2026-11-03T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-08T13:26:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "flourish-ai-app-rct-stress-depression-anxiety-university-stu",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "relax-perinatal-digital-intervention-prevents-increasing-anx",
+   "title_zh": "RCT：孕期數碼治療 RELAX 可減低焦慮惡化，八週 GAD-7 平均低 1.5 分（268 人）",
+   "title_en": "RELAX perinatal digital intervention prevents increasing anxiety RCT",
+   "summary_zh": "倫敦國王學院主導的二期隨機對照試驗，268 名高反覆負面思考、輕至中度焦慮的孕婦（16–28 週），比較自導式數碼治療 RELAX（八週 12 節：8 節網上＋4 節 SMS，含詮釋偏誤修正訓練）加常規照顧與單用常規照顧。八週時 RELAX 組 GAD-7 平均低 1.5 分（95% CI −2.4 至 −0.6；效應量 −0.42），抑鬱（PHQ-9 −0.8、EPDS −1.1）、反覆負面思考（−2.7）、憂慮（−3.6）與圍產期焦慮（PASS −5.5）亦較低；焦慮惡化者常規組佔 8.2%，RELAX 組只佔 1.5%。至 36 週時，一般焦慮、產後抑鬱與反覆負面思考的效果維持。",
+   "summary_en": "A phase 2b randomised clinical trial led by King's College London randomised 268 pregnant participants with high repetitive negative thinking and up to moderate anxiety (16-28 weeks' gestation) to the self-led digital intervention RELAX (12 sessions over 8 weeks: 8 online plus 4 SMS sessions, including cognitive bias modification for interpretation) plus usual care or usual care alone. At 8 weeks, GAD-7 was 1.5 points lower in the RELAX arm (95% CI -2.4 to -0.6; effect size -0.42), with depression (PHQ-9 -0.8, EPDS -1.1), repetitive negative thinking (-2.7), worry (-3.6) and perinatal anxiety (PASS -5.5) also lower; anxiety deteriorated in 8.2% of the usual-care arm versus 1.5% of the RELAX arm. Effects on general anxiety, postnatal depression and repetitive negative thinking were sustained at 36 weeks.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "孕期焦慮",
+    "數碼治療",
+    "RCT",
+    "反覆負面思考",
+    "預防"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
+  {
+   "slug": "apa-health-advisory-on-ai-chatbots-and-wellness-apps",
+   "title_zh": "APA 健康提醒：AI 聊天機器人與身心健康 App 不能取代專業照護",
+   "title_en": "APA health advisory on AI chatbots and wellness apps",
+   "summary_zh": "美國心理學會於 2025 年 11 月發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不應被當作專業心理健康照護的替代品。APA 呼籲避免使用者產生不健康的依賴、為兒童青少年等高風險族群設計特別保護、禁止 AI 冒充持照專業人員，並要求科技公司提高透明度與預設保護隱私。",
+   "summary_en": "In November 2025 the American Psychological Association issued a health advisory stating that generative AI chatbots and wellness apps should not replace professional mental health care. It calls for preventing unhealthy dependence, special protections for youth and other vulnerable groups, a ban on AI impersonating licensed professionals, and greater transparency and privacy by default.",
+   "category": "倫理與風險",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "APA",
+    "健康提醒",
+    "專業組織指引",
+    "AI 聊天機器人",
+    "身心健康 App",
+    "兒少保護"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 0,
+   "population": [
+    "一般大眾",
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.139,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2025-11-13T00:00:00+00:00"
+  },
+  {
+   "slug": "chatbot-meta-analysis-for-depression-and-anxiety",
+   "title_zh": "統合分析：聊天機器人對憂鬱、焦慮症狀有小到中等效果，臨床族群最明顯",
+   "title_en": "Chatbot meta-analysis for depression and anxiety",
+   "summary_zh": "npj Digital Medicine 刊出的系統性回顧與統合分析納入 39 篇 RCT，聊天機器人對憂鬱（g=0.31）與焦慮（g=0.28）症狀有小到中等的改善。臨床族群效果（g=0.64）明顯大於非臨床族群（g=0.07）；生成式與檢索式聊天機器人之間未見顯著差異，但生成式研究數量少、檢定力可能不足。",
+   "summary_en": "A systematic review and meta-analysis of 39 RCTs in npj Digital Medicine found small-to-moderate effects of chatbots on depressive (g=0.31) and anxiety (g=0.28) symptoms. Effects were larger in clinical samples (g=0.64) than nonclinical ones (g=0.07); no significant difference was found between generative and retrieval-based chatbots, though generative studies were few.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "統合分析",
+    "聊天機器人",
+    "憂鬱",
+    "焦慮",
+    "生成式AI"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.518,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-03-25T00:00:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title_zh": "丹麥 197 萬人登記研究：近六成思覺失調／雙相診斷出現在曾求助兒童青少年精神科者身上，青少年住院者風險最高",
+ "title_en": "Psychotic bipolar disorder diagnoses following CAMHS contact nationwide Danish register study",
+ "summary_zh": "Journal of Child Psychology and Psychiatry 2026 年 9 月 17 日網上刊出丹麥全國登記研究，追蹤 1990 至 2020 年出生共 1,978,630 人（30,855,257 人年）至 2021 年底。8.4% 曾接觸兒童青少年精神科服務（CAMHS）；全部思覺失調或雙相診斷中，58.3% 出現在曾接觸 CAMHS 者身上。CAMHS 接觸者診斷風險較高（HR 15.5；95% CI 15.5–15.9）；青少年期曾精神科住院者風險最高（HR 46.8；44.8–48.9），追蹤至 32 歲時約半數已獲診斷；CAMHS 接觸者追蹤至 32 歲的累積發生率為 19.3%。研究由 Maja Gregersen、Ian Kelleher 等領導；資助來自丹麥首都大區、丹麥自由研究基金等公共機構，無廠商資助。",
+ "summary_en": "The Journal of Child Psychology and Psychiatry published a nationwide Danish register study online on 17 September 2026, following 1,978,630 people born from 1990 to 2020 (30,855,257 person-years) to the end of 2021. About 8.4% had contact with child and adolescent mental health services (CAMHS); 58.3% of all psychotic or bipolar diagnoses in the population occurred among people who had attended CAMHS. CAMHS attendees had a higher risk of diagnosis (HR 15.5; 95% CI 15.5-15.9); risk was highest after a psychiatric inpatient admission in adolescence (HR 46.8; 44.8-48.9), with about half diagnosed by age 32, and the cumulative incidence among CAMHS attendees followed to age 32 was 19.3%. Led by Maja Gregersen and Ian Kelleher; funded by Danish public bodies including Region Hovedstaden and the Danish Independent Research Fund, with no industry funding.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "全國登記隊列研究（JCPP 2026 年 9 月 17 日網上刊出；1,978,630 人，30,855,257 人年；DOI: 10.1111/jcpp.70232；經愛丁堡大學儲存庫同行評審稿件與 Crossref 摘要核實；Wiley 原頁被 Cloudflare 驗證攔截未能開啟，數字與稿件摘要及 Crossref 摘要一致）",
+ "ethics_flags": [
+  {
+   "flag": "篩檢與標籤",
+   "note": "研究只描述登記診斷分佈，未測試篩檢工具；把 CAMHS 接觸史當作風險標記時，須避免把曾求助的兒童標籤為「未來患者」，亦不可用未調整的風險比作個人預測。",
+   "refs": [
+    "評估與篩檢｜假陽性與標籤效應"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "描述性研究，報告未調整關聯，非因果推論；HR 15.5 反映 CAMHS 接觸者本身已是高風險群組，不能解讀為求助導致診斷；登記診斷不等於臨床篩檢結果；研究未測試篩檢工具或預防計劃；稿件版本未載利益衝突聲明；資助為公共機構（Crossref 記錄），無廠商資助。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：丹麥 1990 至 2020 年出生共 1,978,630 人（48.7% 女性），追蹤 1995 年至 2021 年底，30,855,257 人年；8.4% 曾接觸 CAMHS",
+  "方法：全國登記隊列研究，丹麥精神科中央研究登記冊與全國病人登記冊連結；Cox 比例風險模型，CAMHS 接觸為時間依變暴露；作者說明目的為描述，故報告未調整關聯",
+  "主要結果：全部思覺失調或雙相診斷中，58.3% 出現在曾接觸 CAMHS 者身上；CAMHS 接觸者 HR 15.5（95% CI 15.5–15.9）",
+  "最高風險組：青少年期曾精神科住院者 HR 46.8（44.8–48.9），追蹤至 32 歲時約 50% 已獲診斷",
+  "累積發生率：CAMHS 接觸者追蹤至 32 歲，思覺失調或雙相診斷累積發生率 19.3%；個案中 56.2% 於首次 CAMHS 接觸 3 個月後才獲診斷，中位數 4.5 年後",
+  "限制：描述性、未調整；登記診斷無結構化研究診斷覆核；未測試任何篩檢或預防介入"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "CAMHS",
+  "思覺失調",
+  "雙相障礙",
+  "登記研究",
+  "風險預測",
+  "JCPP"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「仔女細個睇過兒童精神科，係咪大個一定會發病」，你會點用 19.3% 累積發生率與未調整的描述性限制去回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1111/jcpp.70232",
+   "author_handle": "",
+   "author_name": "Gregersen、Kelleher 等（丹麥首都大區兒童青少年精神科中心）",
+   "title": "Psychotic and bipolar disorder diagnoses following contact with child and adolescent mental health services—a longitudinal, nationwide register study of 2 million individuals (JCPP; DOI: 10.1111/jcpp.70232)",
+   "content": "全國登記研究：197 萬人，近六成思覺失調／雙相診斷出現在曾求助 CAMHS 者身上；青少年住院者風險最高。",
+   "posted_at": "2026-09-17T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-15T13:35:18+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "psychotic-bipolar-disorder-diagnoses-following-camhs-contact",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [],
+ "evidence_quote": "We followed 1,978,630 individuals",
+ "page_date": ""
+}

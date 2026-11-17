@@ -1,0 +1,63 @@
+{
+ "title_zh": "多食一份水果，青少年抑鬱風險低 13%：澳洲 6,537 人四年追蹤",
+ "title_en": "Longitudinal associations between dietary intake and common mental disorders among adolescents in Australia",
+ "summary_zh": "悉尼大學 Matilda 中心團隊在 Child and Adolescent Mental Health 刊出縱貫研究，以 Health4Life 研究數據追蹤澳洲新南威爾士、昆士蘭與西澳 71 間中學的 6,537 名青少年，由七年級至十年級、每年問卷一次，平均起始年齡 12.5 歲。每天多食一份任何種類的水果，與三年追蹤期內抑鬱症狀風險低 13%、焦慮症狀風險低 7% 相關；平均水果攝取量為每天 2 至 2.5 份。含糖飲品攝取量較高則與抑鬱與焦慮風險較高相關，對焦慮的關聯在男性較強。研究排除了基線時已達抑鬱或焦慮閾值的青少年，並調整了體能活動、年齡、性別與社經地位。",
+ "summary_en": "A University of Sydney Matilda Centre team published in Child and Adolescent Mental Health a longitudinal study using Health4Life data, following 6,537 adolescents from 71 secondary schools in New South Wales, Queensland and Western Australia from Year 7 to Year 10 with annual surveys (mean age 12.5 years at baseline). Each additional daily serving of any type of fruit was associated with a 13% lower risk of depression symptoms and a 7% lower risk of anxiety symptoms over the three-year follow-up; average fruit intake was 2 to 2.5 servings a day. Higher consumption of sugar-sweetened drinks was associated with higher risk of depression and anxiety, with the anxiety association stronger in males. The study excluded adolescents who already met thresholds for depression or anxiety at baseline and adjusted for physical activity, age, sex and socioeconomic status.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "澳洲縱貫隊列研究（Child and Adolescent Mental Health，2026 年刊出；6,537 人，71 間學校；DOI: 10.1111/camh.70129；經悉尼大學官方新聞稿核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "觀察性研究，不能確立飲食與症狀的因果方向；飲食與症狀均為自評問卷；水果與焦慮的關聯較弱，按性別分層後不顯著，完整個案分析中亦不再清晰；結果不能解讀為「食水果可預防抑鬱」。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：澳洲 Health4Life 研究，6,537 名青少年，71 間中學（新南威爾士、昆士蘭、西澳），七年級至十年級每年問卷，平均起始年齡 12.5 歲",
+  "方法：縱貫追蹤三年，排除基線時已達抑鬱或焦慮閾值的青少年；調整體能活動、年齡、性別與社經地位",
+  "主要結果：每天多食一份水果，抑鬱症狀風險低 13%，焦慮症狀風險低 7%；平均水果攝取量每天 2 至 2.5 份，隨年級上升由約 2.4 份跌至約 2 份",
+  "含糖飲品：攝取量較高與抑鬱與焦慮風險較高相關，對焦慮的關聯在男性較強",
+  "限制：觀察性設計；自評問卷；焦慮關聯較弱且不穩定；作者強調不能說食水果可預防抑鬱"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "飲食",
+  "水果",
+  "抑鬱",
+  "焦慮",
+  "青少年",
+  "預防"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「食多啲生果係咪就唔會抑鬱」，你會如何用 13% 與觀察性限制去回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1111/camh.70129",
+   "author_handle": "",
+   "author_name": "Davidson、Champion 等（悉尼大學 Matilda Centre）",
+   "title": "Longitudinal associations between dietary intake and common mental disorders among adolescents in Australia (Child Adolesc Ment Health; DOI: 10.1111/camh.70129)",
+   "content": "澳洲 6,537 名青少年四年追蹤：每天多食一份水果，抑鬱症狀風險低 13%、焦慮低 7%；含糖飲品攝取高則風險較高。",
+   "posted_at": "2026-10-19T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-17T13:32:16+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "longitudinal-associations-between-dietary-intake-and-common",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

@@ -1,0 +1,157 @@
+{
+ "title_zh": "統合分析：青少年花在社交媒體的時間，與焦慮憂鬱關聯極弱（37 項研究）",
+ "title_en": "Social media time and teen anxiety depression meta-analysis",
+ "summary_zh": "澳洲天主教大學團隊在《British Journal of Clinical Psychology》發表的系統性回顧，綜合 37 項縱貫與實驗研究、近 80,000 名 10 至 24 歲青少年。社交媒體使用時間與其後抑鬱症狀的合併相關係數 r=0.08（12 項研究），焦慮 r=0.093（5 項研究），合共解釋不足 1% 的症狀差異。效應不隨年齡、追蹤期或發表年份改變。作者認為，單靠限制使用時間，未必能解決青少年心理健康危機。",
+ "summary_en": "An Australian Catholic University systematic review in the British Journal of Clinical Psychology pooled 37 longitudinal and experimental studies of nearly 80,000 young people aged 10-24. Time on social media correlated only very weakly with later symptoms: depression pooled r = .08 (12 studies), anxiety r = .093 (5 studies), together explaining under 1% of symptom variation. Effects did not vary by age, follow-up length or publication year. The authors conclude restricting time alone is unlikely to resolve the youth mental-health crisis.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "系統性回顧與統合分析（British Journal of Clinical Psychology，2026-10-08 線上刊出；DOI: 10.1111/bjc.70100，PMID 42845154）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "37 項研究中有 36 項屬觀察性，不能證明因果；只量度使用時間或頻率，未計內容、社交比較、網絡欺凌或睡眠等因素；結果不等於社交媒體對青少年心理健康無害。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "37 項研究（36 項縱貫觀察、1 項實驗），近 80,000 名 10–24 歲青少年，來自 15 個高收入國家",
+  "抑鬱：12 項研究合併 r=0.08（95% CI 0.04–0.11）；焦慮：5 項研究合併 r=0.093（95% CI 0.059–0.126）",
+  "使用時間合共解釋不足 1% 的焦慮憂鬱症狀差異",
+  "效應不隨年齡、追蹤期或發表年份改變",
+  "唯一實驗（n=182）：已嚴重抑鬱的青年把使用限於每天 1 小時內，症狀有所減輕"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "社交媒體",
+  "青少年",
+  "焦慮",
+  "抑鬱",
+  "統合分析"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「禁手機可唔可以改善個仔嘅情緒」時，你會如何用這份證據回應，同時不否定他們的擔心？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42845154/",
+   "author_handle": "",
+   "author_name": "Peachey et al.（澳洲天主教大學）",
+   "title": "Social media exposure and anxiety and depression in young people: A systematic review and meta-analysis of longitudinal and experimental studies (Br J Clin Psychol; DOI: 10.1111/bjc.70100)",
+   "content": "PubMed 摘要：37 項縱貫與實驗研究的系統性回顧與統合分析，含抑鬱與焦慮的合併效應量。",
+   "posted_at": "2026-10-08T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-05T13:45:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "social-media-time-and-teen-anxiety-depression-meta-analysis",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "online-communication-friends-and-teen-well-being-sweden",
+   "title_zh": "瑞典研究：與現實朋友密集網上交流的青少年心理健康較佳，只與網友交流則較差（3,034 人）",
+   "title_en": "Online communication friends and teen well-being Sweden",
+   "summary_zh": "《Child and Adolescent Mental Health》2026 年 11 月 4 日刊出的合併橫斷面研究，分析瑞典 3,034 名 15 歲青少年（2017/2018 與 2021/2022 年 HBSC 調查），以簡版 Warwick-Edinburgh 心理健康量表（SWEMWBS）量度心理健康。與密友及較大朋友群密集網上交流，與較佳心理健康相關；與只在網上認識的朋友中度或密集交流，則與較差心理健康相關，女童與自覺家庭較不富裕的青少年尤甚。作者指出，重點不只是上網多久，更是與誰交流。",
+   "summary_en": "A pooled cross-sectional study in Child and Adolescent Mental Health (4 November 2026) analysed 3,034 Swedish 15-year-olds from the 2017/2018 and 2021/2022 HBSC surveys, measuring mental well-being with the Short Warwick-Edinburgh Mental Well-being Scale. Intense online communication with close friends and larger friend groups was linked to better well-being, while moderate or intense communication with online-only friends was linked to poorer well-being, especially among girls and adolescents who saw their families as less wealthy. The authors argue what matters is not only time online but who adolescents talk to.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "青少年",
+    "網上交流",
+    "心理健康",
+    "瑞典"
+   ],
+   "first_seen_at": "2026-11-05T13:45:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-04T00:00:00+00:00"
+  },
+  {
+   "slug": "social-comparison-on-social-media-strongest-link-adolescent",
+   "title_zh": "研究：青少年在社交媒體上與人比較，與焦慮抑鬱症狀關聯最強",
+   "title_en": "Social comparison on social media strongest link adolescent mental health symptoms",
+   "summary_zh": "Child and Adolescent Psychiatry and Mental Health 於 2026 年 10 月 17 日刊出的橫斷面研究，分析挪威東南部 21 間學校 4,011 名青少年（平均 14 歲，2025 年秋季問卷）。在社交媒體使用五個面向中，「與人比較」對五種症狀的預測力最強：內化症狀（廣泛焦慮、社交焦慮、抑鬱）解釋約 20–26% 變異，外化症狀（ADHD、對立違抗）解釋 6–9%；「消磨時間」與「尋求支持」則幾無獨立關聯。研究不能證明因果關係。",
+   "summary_en": "A cross-sectional study in Child and Adolescent Psychiatry and Mental Health (published 17 October 2026) analysed 4,011 Norwegian adolescents (mean age 14) from 21 schools in South-Eastern Norway. Among five aspects of social media use, social comparison was the strongest predictor across all five symptom domains, accounting for about 20-26% of variance in internalizing symptoms (generalized anxiety, social anxiety, depression) and 6-9% in externalizing symptoms (ADHD, oppositional defiant disorder); passing time and seeking support showed negligible independent associations. The design cannot establish causation.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "社交比較",
+    "青少年",
+    "焦慮抑鬱"
+   ],
+   "first_seen_at": "2026-10-29T13:35:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-17T00:00:00+00:00"
+  },
+  {
+   "slug": "uk-under-16-social-media-ban-two-professional-perspectives",
+   "title_zh": "英國 16 歲以下社交媒體禁令：教師與神經多樣性顧問的兩種看法",
+   "title_en": "UK under-16 social media ban: two professional perspectives",
+   "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
+   "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
+   "category": "人機互動心理",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "特殊教育需要",
+    "社交媒體",
+    "青少年",
+    "神經多樣性",
+    "政策",
+    "Anna Freud"
+   ],
+   "first_seen_at": "2026-10-01T03:55:02+00:00",
+   "evidence_level": 0,
+   "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.783,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-07-29T00:00:00+00:00"
+  }
+ ]
+}

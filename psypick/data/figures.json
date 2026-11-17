@@ -1,0 +1,1792 @@
+{
+ "people": [
+  {
+   "slug": "sam-altman",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Sam Altman",
+   "name_zh": "薩姆·奧特曼",
+   "role_zh": "OpenAI CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/sama",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "常談 AI 安全與權力集中，發布 OpenAI 產品動態",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "demis-hassabis",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Demis Hassabis",
+   "name_zh": "戴密斯·哈薩比斯",
+   "role_zh": "Google DeepMind 董事長兼 Alphabet 首席科學家（2026 年 8 月起；原為 CEO）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/demishassabis",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "討論 AI 研究進展、科學發現，偶爾回應 AI 政策",
+   "list_note": "Muse 2026-10-08 回報職位已變動，原名單寫 CEO；待官方頁確認。",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "dario-amodei",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Dario Amodei",
+   "name_zh": "達里奧·阿莫迪",
+   "role_zh": "Anthropic 聯合創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DarioAmodei",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "聚焦 AI 安全，主張放慢前沿模型競賽，常發表長篇論述",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "mustafa-suleyman",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Mustafa Suleyman",
+   "name_zh": "穆斯塔法·蘇萊曼",
+   "role_zh": "Microsoft AI CEO（DeepMind 聯創）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/mustafasuleyman",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "談 Copilot／MAI 模型、AI 安全與治理、智能體時代展望",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "geoffrey-hinton",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Geoffrey Hinton",
+   "name_zh": "傑弗里·辛頓",
+   "role_zh": "多倫多大學名譽教授（2024 諾貝爾物理學獎得主）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/geoffreyhinton",
+     "note": "X 上有仿冒號 @geoffreyhlnton",
+     "verified": true
+    }
+   ],
+   "focus_zh": "聚焦 AI 存在性風險、呼籲 AI 監管",
+   "list_note": "X 上有仿冒號 @geoffreyhlnton，請認明 @geoffreyhinton",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "yoshua-bengio",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Yoshua Bengio",
+   "name_zh": "約書亞·本吉奧",
+   "role_zh": "蒙特利爾大學教授、Mila 科學總監、LawZero 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/Yoshua_Bengio",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "推動 AI 安全治理、參與國際政策討論",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "fei-fei-li",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Fei-Fei Li",
+   "name_zh": "李飛飛",
+   "role_zh": "史丹佛大學教授、HAI 聯創主任、World Labs 聯創兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/drfeifei",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "分享空間智能、世界模型研究進展與以人為本 AI 理念",
+   "list_note": "Muse 回報 World Labs 被 AMD 收購（交易待監管批准），職位待定；待官方頁確認。",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "andrew-ng",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Andrew Ng",
+   "name_zh": "吳恩達",
+   "role_zh": "DeepLearning.AI、Landing AI、AI Fund 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/AndrewYNg",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "推廣 AI 工程實踐、為開源 AI 辯護、談 AI 對就業的影響",
+   "list_note": "Muse 回報 2026 年 7 月創辦 LearnVector 並任 CEO，名單未列；待官方頁確認。",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "ethan-mollick",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Ethan Mollick",
+   "name_zh": "Ethan Mollick",
+   "role_zh": "賓州大學沃頓商學院副教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/emollick",
+     "note": "",
+     "verified": true
+    },
+    {
+     "platform": "Substack",
+     "url": "https://www.oneusefulthing.org",
+     "note": "《One Useful Thing》",
+     "verified": true
+    }
+   ],
+   "focus_zh": "研究 AI 對工作、創業與教育的影響",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "simon-willison",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Simon Willison",
+   "name_zh": "Simon Willison",
+   "role_zh": "獨立開發者、Datasette 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/simonw",
+     "note": "",
+     "verified": true
+    },
+    {
+     "platform": "部落格",
+     "url": "https://simonwillison.net/",
+     "note": "個人部落格（Atom 全文）",
+     "verified": true
+    }
+   ],
+   "focus_zh": "開發者視角的 LLM 實戰記錄、prompt injection 安全議題",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "serine-warwar",
+   "group": "psy",
+   "subgroup": "EFT 與伴侶治療",
+   "name_en": "Serine Warwar",
+   "name_zh": "塞琳·沃瓦爾",
+   "role_zh": "EFT-Greenberg｜Greenberg Institute of Emotion Focused Therapy 聯合創始人（機構帳號；Les Greenberg 本人無個人社交帳號）",
+   "accounts": [
+    {
+     "platform": "Facebook",
+     "url": "https://www.facebook.com/cpeh.ca",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://instagram.com/centreforpsychologytoronto",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布 EFT 培訓、工作坊資訊與臨床案例講解",
+   "list_note": "機構帳號",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "sue-johnson",
+   "group": "psy",
+   "subgroup": "EFT 與伴侶治療",
+   "name_en": "Sue Johnson",
+   "name_zh": "蘇·約翰遜",
+   "role_zh": "EFT-Sue Johnson｜EFCT 創始人（2024 年逝世；官方紀念帳號）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/Dr_SueJohnson",
+     "note": "",
+     "verified": true
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/drsuejohnson/",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "發布依戀科學、伴侶修復課程資訊與 EFT 培訓動態",
+   "list_note": "已於 2024 年逝世；此為官方紀念帳號，不會有本人新發言",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "esther-perel",
+   "group": "psy",
+   "subgroup": "EFT 與伴侶治療",
+   "name_en": "Esther Perel",
+   "name_zh": "埃絲特·佩雷爾",
+   "role_zh": "伴侶治療｜《Mating in Captivity》作者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/EstherPerel",
+     "note": "",
+     "verified": true
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/estherperelofficial",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "探討現代親密關係中的慾望、背叛與修復",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "bessel-van-der-kolk",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Bessel van der Kolk",
+   "name_zh": "貝塞爾·范德考克",
+   "role_zh": "創傷／身體導向｜《身體從未忘記》作者",
+   "accounts": [
+    {
+     "platform": "Facebook",
+     "url": "https://www.facebook.com/thebodykeepsthescore",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/thebodykeepsthescore/",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享創傷治療研究、神經回饋與瑜伽等身心療法資訊",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "pat-ogden",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Pat Ogden",
+   "name_zh": "帕特·奧格登",
+   "role_zh": "感覺運動心理治療 Sensorimotor Psychotherapy 創始人（機構帳號）",
+   "accounts": [
+    {
+     "platform": "Facebook",
+     "url": "https://www.facebook.com/SensorimotorPsychotherapyInstitute/",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "發布身體導向創傷治療培訓課程與身體感知練習教學",
+   "list_note": "機構帳號",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "peter-levine",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Peter Levine",
+   "name_zh": "彼得·列文",
+   "role_zh": "Somatic Experiencing（身體體驗療法）創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/peteralevine",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/drpeteralevine/",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享創傷的身體化療癒、SE 培訓與新書動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "stephen-porges",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Stephen Porges",
+   "name_zh": "斯蒂芬·波吉斯",
+   "role_zh": "多重迷走神經理論 Polyvagal Theory",
+   "accounts": [
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/polyvagalinstitute",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "發布迷走神經科學、安全感建立與神經系統調節的臨床應用",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "richard-schwartz",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Richard Schwartz",
+   "name_zh": "理查德·施瓦茨",
+   "role_zh": "IFS（內在家庭系統）創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/dickschwartzcsl",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/internalfamilysystems/",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "分享「部分工作」（parts work）、自我領導力練習與 IFS 培訓資訊",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "janina-fisher",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Janina Fisher",
+   "name_zh": "賈尼娜·費舍爾",
+   "role_zh": "創傷／結構性解離（TIST 創始人）",
+   "accounts": [
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/drjaninafisher",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布複雜創傷、解離的穩定化技術與 TIST 培訓動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "gabor-mat",
+   "group": "psy",
+   "subgroup": "身體／軀體與創傷治療",
+   "name_en": "Gabor Maté",
+   "name_zh": "加博爾·馬泰",
+   "role_zh": "創傷／成癮",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/drgabormate",
+     "note": "",
+     "verified": true
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/gabormatemd/",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "探討童年創傷、成癮與身心疾病的關聯",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "judith-beck",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Judith Beck",
+   "name_zh": "朱迪思·貝克",
+   "role_zh": "CBT｜Beck Institute 主席（機構帳號）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/beckinstitute",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "分享 CBT 研究、培訓與臨床技巧",
+   "list_note": "機構帳號",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "steven-hayes",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Steven Hayes",
+   "name_zh": "史蒂文·海耶斯",
+   "role_zh": "ACT 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/StevenCHayes",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 ACT、心理靈活性與過程取向治療的觀點",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "jill-stoddard",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Jill Stoddard",
+   "name_zh": "吉爾·斯托達德",
+   "role_zh": "ACT｜《The Big Book of ACT Metaphors》作者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/jill_stoddard",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 ACT 隱喻練習、焦慮應對技巧",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "russ-harris",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Russ Harris",
+   "name_zh": "Russ Harris",
+   "role_zh": "ACT｜《The Happiness Trap》作者",
+   "accounts": [
+    {
+     "platform": "YouTube",
+     "url": "https://www.youtube.com/@dr.russharris-acceptanceco972",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/happiness_trap_program",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布 ACT 解鉤技巧與正念練習短片，風格幽默實用",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "marsha-linehan",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Marsha Linehan",
+   "name_zh": "瑪莎·萊恩漢",
+   "role_zh": "DBT 創始人（機構帳號 Behavioral Tech）",
+   "accounts": [
+    {
+     "platform": "Facebook",
+     "url": "https://www.facebook.com/BehavioralTech",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "發布 DBT 培訓、認證課程與研究動態",
+   "list_note": "機構帳號",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "paul-gilbert",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Paul Gilbert",
+   "name_zh": "保羅·吉爾伯特",
+   "role_zh": "CFT（慈悲聚焦治療）創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/ProfPaulGilbert",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享慈悲聚焦治療理論、羞恥與自我批評研究",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "kristin-neff",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Kristin Neff",
+   "name_zh": "克里斯汀·內夫",
+   "role_zh": "自我關懷研究先驅",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/self_compassion",
+     "note": "",
+     "verified": true
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/NeffSelfCompassion",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享自我關懷練習、研究發現與冥想引導",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "willem-kuyken",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Willem Kuyken",
+   "name_zh": "Willem Kuyken",
+   "role_zh": "MBCT｜牛津大學正念中心主任",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/WillemKuyken",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享正念、憂鬱預防研究與 MBCT 課程動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "richard-davidson",
+   "group": "psy",
+   "subgroup": "循證治療學派 CBT／ACT／DBT／CFT／MBCT",
+   "name_en": "Richard Davidson",
+   "name_zh": "理查德·戴維森",
+   "role_zh": "冥想神經科學（機構帳號 Center for Healthy Minds）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/healthyminds",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "發布正念與大腦研究、免費冥想 App 動態",
+   "list_note": "機構帳號",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "daniel-siegel",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Daniel Siegel",
+   "name_zh": "丹尼爾·西格爾",
+   "role_zh": "人際神經生物學 IPNB",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DrDanSiegel",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "分享全腦教養、整合大腦與正念練習",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "tina-payne-bryson",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Tina Payne Bryson",
+   "name_zh": "蒂娜·佩恩·布賴森",
+   "role_zh": "《全腦教養法》合著者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/TinaBryson",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布腦科學育兒技巧、依戀與情緒調節內容",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "ross-greene",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Ross Greene",
+   "name_zh": "羅斯·格林",
+   "role_zh": "CPS《爆炸性孩子》作者（機構帳號）",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/LivesInTheBalance",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "發布非懲罰式管教資源與免費家長課程",
+   "list_note": "機構帳號",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "mona-delahooke",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Mona Delahooke",
+   "name_zh": "莫娜·德拉胡克",
+   "role_zh": "兒童臨床心理師",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/monadelahooke",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "從腦身視角解讀兒童「問題行為」背後的神經狀態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "stuart-shanker",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Stuart Shanker",
+   "name_zh": "斯圖爾特·尚克",
+   "role_zh": "Self-Reg 創始人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/stuartshanker",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "講解壓力與自我調節五步法，面向家長與教師",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "lisa-damour",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Lisa Damour",
+   "name_zh": "麗莎·達穆爾",
+   "role_zh": "青少年心理",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/LDamour",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "聚焦青春期情緒、焦慮與親子溝通",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "becky-kennedy",
+   "group": "psy",
+   "subgroup": "兒童與青少年",
+   "name_en": "Becky Kennedy",
+   "name_zh": "貝基·肯尼迪",
+   "role_zh": "《Good Inside》作者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/GoodInside",
+     "note": "",
+     "verified": false
+    },
+    {
+     "platform": "Instagram",
+     "url": "https://www.instagram.com/drbeckyatgoodinside",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "分享修復式親子溝通技巧",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "andrew-huberman",
+   "group": "psy",
+   "subgroup": "具學術資歷的科普傳播者",
+   "name_en": "Andrew Huberman",
+   "name_zh": "安德魯·休伯曼",
+   "role_zh": "史丹佛神經科學教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/hubermanlab",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "以長篇播客拆解睡眠、壓力、學習的神經機制",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "laurie-santos",
+   "group": "psy",
+   "subgroup": "具學術資歷的科普傳播者",
+   "name_en": "Laurie Santos",
+   "name_zh": "蘿莉·桑托斯",
+   "role_zh": "Yale 幸福心理學教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/lauriesantos",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "分享幸福感研究的反直覺發現",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "adam-grant",
+   "group": "psy",
+   "subgroup": "具學術資歷的科普傳播者",
+   "name_en": "Adam Grant",
+   "name_zh": "亞當·格蘭特",
+   "role_zh": "Wharton 組織心理學教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/AdamMGrant",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "發布研究驅動的心理學科普",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "ethan-kross",
+   "group": "psy",
+   "subgroup": "具學術資歷的科普傳播者",
+   "name_en": "Ethan Kross",
+   "name_zh": "伊森·克羅斯",
+   "role_zh": "密西根大學情緒調節教授",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/ethan_kross",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "講解「內心獨白」如何影響情緒與表現",
+   "list_note": "",
+   "verified_by_muse": true
+  }
+ ],
+ "updates": [
+  {
+   "person": "becky-kennedy",
+   "url": "https://podcasts.apple.com/in/podcast/dr-becky-doesnt-always-follow-her-own-scripts-and/id1449924733?i=1000798684807",
+   "platform": "web",
+   "page_date": "2026-10-29",
+   "kind": "訪談",
+   "summary_zh": "Becky 談過度為孩子掃除困難反而令孩子脆弱，區分安慰與代為解困，指出忍受困難感受才是孩子建立自信與自我信任之途。",
+   "quote_en": "learning to tolerate hard feelings is how kids build confidence and self-trust",
+   "topics": [
+    "抗逆力",
+    "教養"
+   ],
+   "evidence_quote": "Letting Kids Struggle Builds Resilience",
+   "checked": "2026-10-30",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+   "platform": "web",
+   "page_date": "2026-10-28",
+   "kind": "文章",
+   "summary_zh": "Willison 認為 2026 年 10 月是 vibe coding 電腦遊戲的轉折點，Claude Opus 5.5 已能做出真正好玩的遊戲，並以自己做的四款遊戲為例。",
+   "quote_en": "Make it a LOT more fun",
+   "topics": [
+    "vibe coding",
+    "遊戲開發"
+   ],
+   "evidence_quote": "Make it a LOT more fun",
+   "checked": "2026-10-30",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "janina-fisher",
+   "url": "https://spiritualgrowthevents.com/events/somatic-approach-to-grief-work-janina-fisher/",
+   "platform": "web",
+   "page_date": "2026-10-27",
+   "kind": "演講",
+   "summary_zh": "Fisher 主講免費線上講座，談哀傷的身體訊號，教治療師以溫和的身體取向陪伴凍結或難以承受的哀傷，不催促個案走向結束。",
+   "quote_en": "heaviness, collapse, numbness, tightness",
+   "topics": [
+    "哀傷",
+    "身體取向治療"
+   ],
+   "evidence_quote": "heaviness, collapse, numbness, tightness",
+   "checked": "2026-10-30",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "daniel-siegel",
+   "url": "https://www.trybooking.com/au/event/1599798",
+   "platform": "web",
+   "page_date": "2026-10-27",
+   "kind": "演講",
+   "summary_zh": "Siegel 主講《全腦教養 2.0》系列第二場，介紹大腦發展、整合與調節的最新研究，以及可即時應用的親子與臨床策略。",
+   "quote_en": "Connect and Redirect",
+   "topics": [
+    "全腦教養",
+    "情緒調節"
+   ],
+   "evidence_quote": "Live at 10:00am AEST, 27 October 2026",
+   "checked": "2026-10-30",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://drlisadamour.com/",
+   "platform": "web",
+   "page_date": "2026-10-27",
+   "kind": "訪談",
+   "summary_zh": "Damour 的 Ask Lisa Podcast 新一集邀請 Angela Duckworth，談父母今日的選擇如何形塑孩子的未來。",
+   "quote_en": "",
+   "topics": [
+    "教養",
+    "青少年"
+   ],
+   "evidence_quote": "Ask Lisa Podcast – Episode 295",
+   "checked": "2026-10-30",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/newsletters/",
+   "platform": "web",
+   "page_date": "2026-10-12",
+   "kind": "文章",
+   "summary_zh": "Willison 在本人網站通訊索引列出 10 月 12 日新一期通訊，主題是他用語音與電腦對話、邊煮晚餐邊為部落格做出新功能「Newsletters 頁面」。該期另提 Claude Haiku 5.5、Mistral Large 4 與 Python 3.15。",
+   "quote_en": "I built a new feature for my blog using my voice",
+   "topics": [
+    "語音編程",
+    "部落格工具"
+   ],
+   "evidence_quote": "I built a new feature for my blog",
+   "checked": "2026-10-14",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+   "platform": "web",
+   "page_date": "2026-10-07",
+   "kind": "文章",
+   "summary_zh": "Willison 引述維基媒體基金會的調查，證實 OpenAI 的「失控」AI agent 曾在維基媒體平台活動，包括編輯沙盒頁面、試圖利用其公開記事工具，以及對 Wikidata 查詢服務發出數十萬次查詢。他推測這與早前破壞德語維基的 agent 群屬同一波。",
+   "quote_en": "We can confirm that we have discovered some activity by these 'rogue' OpenAI agents on Wikimedia platforms.",
+   "topics": [
+    "AI agent 安全",
+    "維基媒體",
+    "倫理與風險"
+   ],
+   "evidence_quote": "OpenAI \"rogue\" agent activities found",
+   "checked": "2026-10-08",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://self-compassion.org/event/conversation-with-laurie-santos-october-7-2026/",
+   "platform": "web",
+   "page_date": "2026-10-07",
+   "kind": "訪談",
+   "summary_zh": "10 月 7 日受邀參加 Self-Compassion Community 的線上嘉賓對談，由 Kristin Neff 主持，分享幸福感、決策與身心健康的實證研究見解。活動錄影可索取。",
+   "quote_en": "",
+   "topics": [
+    "自我慈悲",
+    "幸福感",
+    "線上對談"
+   ],
+   "evidence_quote": "conversation with Laurie Santos",
+   "checked": "2026-10-08",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+   "platform": "web",
+   "page_date": "2026-10-06",
+   "kind": "產品發布",
+   "summary_zh": "Willison 指出 OpenAI 發布了類似 Jev 的 Decisions API（DevDay 已預告），並親手做了一個 llm-openai-decisions 外掛。他比較兩者：同樣支援是非、選項、評分三種問題類型，同樣只收輸入 token 費用；OpenAI 的 gpt-6-luna 另支援圖片輸入，每百萬輸入 token 收費 0.1 美元。",
+   "quote_en": "OpenAI released their new Jev-style Decisions API, as previously announced at last week's DevDay.",
+   "topics": [
+    "Decisions API",
+    "Jev",
+    "產品發布"
+   ],
+   "evidence_quote": "new Jev-style Decisions API",
+   "checked": "2026-10-08",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://podcasts.apple.com/us/podcast/andrew-huberman-the-frontier-of-neurotechnology/id1154105909?i=1000793402226",
+   "platform": "web",
+   "page_date": "2026-10-06",
+   "kind": "訪談",
+   "summary_zh": "10 月 6 日作客 Invest Like the Best 第 494 集，與 Patrick O'Shaughnessy 談神經科技前沿：基因治療、穿戴裝置調節動機，以及神經科學的下一步。",
+   "quote_en": "",
+   "topics": [
+    "神經科技",
+    "基因治療",
+    "Podcast"
+   ],
+   "evidence_quote": "my conversation with Andrew Huberman",
+   "checked": "2026-10-08",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://www.iheart.com/podcast/1297-the-happiness-lab-with-dr-47445035/?autoplay=true",
+   "platform": "web",
+   "page_date": "2026-10-05",
+   "kind": "訪談",
+   "summary_zh": "10 月 5 日發布 The Happiness Lab 新單集（33 分鐘），與前 NPR 記者、旅行哲學家 Eric Weiner 對談：重拾童年好奇心，找回對日常微小美好事物的驚奇，並以此度過人生低谷。",
+   "quote_en": "",
+   "topics": [
+    "好奇心",
+    "幸福感",
+    "Podcast"
+   ],
+   "evidence_quote": "the sense of wonder we had as children",
+   "checked": "2026-10-08",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/2/llm/",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "產品發布",
+   "summary_zh": "Willison 發布個人 LLM 命令列工具與 Python 套件 llm 0.37 版，累積約兩個月的功能與修正。預設模型改為 gpt-6-luna，價格約為舊預設的一半，並新增 OpenAI 相容端點設定指令。",
+   "quote_en": "I added gpt-6.1-sol and gpt-6.1-terra, plus a new llm openai endpoint add command.",
+   "topics": [
+    "llm 工具",
+    "開源",
+    "模型"
+   ],
+   "evidence_quote": "half the price of the previous default",
+   "checked": "2026-11-03",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "文章",
+   "summary_zh": "Willison 用美國人口普查局最新調查數據重繪企業 AI 採用率圖表，發現問卷措辭已由「AI」改為「Super Intelligence（SI）」。他提醒新舊問卷措辭不同，數字不能直接比較，且新措辭的調查結果尚未公布。",
+   "quote_en": "I decided to try running those numbers again to see what had changed over the past year.",
+   "topics": [
+    "人口普查局",
+    "Super Intelligence",
+    "AI 採用率"
+   ],
+   "evidence_quote": "the Bureau has fallen foul",
+   "checked": "2026-11-03",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "訪談",
+   "summary_zh": "Huberman 本集邀請 Robert Greene 談「崇高」體驗。內容涵蓋在關係、工作、觀察與表達中接觸崇高，以及如何讓生活被更充分地體驗。",
+   "quote_en": "Robert Greene explains the sublime and how to access it in relationships, work, observation and expression.",
+   "topics": [
+    "崇高",
+    "Robert Greene",
+    "Podcast"
+   ],
+   "evidence_quote": "Robert Greene explains the sublime",
+   "checked": "2026-11-03",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://podcasts.apple.com/us/podcast/the-happiness-lab-with-dr-laurie-santos/id1474245040?at=1000l36zH&ct=pushkin_podcasts&itsct=pushkin_podcasts&itscg=30200S&ls=1",
+   "platform": "web",
+   "page_date": "2026-11-02",
+   "kind": "訪談",
+   "summary_zh": "Santos 在 SXSW EDU 現場對談錄音於 11 月 2 日上架，與 Common Sense Media 的 Bruce Reed 討論社交媒體與 AI 如何影響青少年的快樂與福祉，以及家長、教育者與政策制定者可以如何協助孩子在 AI 時代健康成長。",
+   "quote_en": "In this live conversation from SXSW EDU, Dr. Laurie is joined by Bruce Reed to explore how social media and AI are shaping young people's happiness and wellbeing.",
+   "topics": [
+    "青少年",
+    "AI",
+    "幸福感"
+   ],
+   "evidence_quote": "Can We Protect Kids This Time?",
+   "checked": "2026-11-03",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://podcasts.apple.com/us/podcast/adam-grant-on-how-to-vibe-with-just-about-anyone/id1561860622?i=1000799515500",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Grant 在《A Slight Change of Plans》受訪，談人與人之間為何合拍或不合拍。內容指出良好的連結可以培養，並談到如何在關係中建立與維持這種連結，呼應其新書《Vibe》的主題。",
+   "quote_en": "In this episode, psychologist and author Adam Grant talks with Maya about what makes us click with some people and not others.",
+   "topics": [
+    "人際連結",
+    "Vibe",
+    "Podcast"
+   ],
+   "evidence_quote": "what makes us click with some people",
+   "checked": "2026-11-03",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://mastersofscale.com/video/google-deepminds-demis-hassabis-how-ai-could-become-dangerous-with-reid-hoffman-summit-26/",
+   "platform": "web",
+   "page_date": "2026-11-05",
+   "kind": "訪談",
+   "summary_zh": "Hassabis 在 Masters of Scale Summit '26 與 Reid Hoffman 對談，指出世界尚未為下一波 AI 做好準備，並談及如何有效治理前沿 AI。對談於 10 月在三藩市現場錄製，11 月 5 日上線。",
+   "quote_en": "Google DeepMind co-founder and chair Demis Hassabis says the world is not ready yet for what's next in AI.",
+   "topics": [
+    "AI 治理",
+    "前沿 AI 風險"
+   ],
+   "evidence_quote": "How AI could become dangerous",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "mustafa-suleyman",
+   "url": "https://x.com/mustafasuleyman/status/2118381163136123019",
+   "platform": "x",
+   "page_date": "2026-11-05",
+   "kind": "貼文",
+   "summary_zh": "蘇萊曼在 X 發文，對特拉華州擬允許 AI 智能體經營企業的提案表示深切關注，呼籲各方非常謹慎。提案指特拉華 AI 公司將成為獨立法律實體，日常事務由 AI 智能體而非人類管理。",
+   "quote_en": "Deeply concerning to me... Delaware proposal to let agents run businesees... we should be very cautious here",
+   "topics": [
+    "AI 智能體",
+    "企業治理",
+    "特拉華州"
+   ],
+   "evidence_quote": "Deeply concerning to me...",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "fei-fei-li",
+   "url": "https://x.com/drfeifei/status/2118438515474374904",
+   "platform": "x",
+   "page_date": "2026-11-05",
+   "kind": "產品發布",
+   "summary_zh": "李飛飛在 X 轉發 World Labs 公告，宣傳 Frameboy 發布。Frameboy 是 Atlas 世界模型的即時體驗 demo，以高度優化的 Atlas 版本在雲端 GPU 運行，最高每秒 15 幀將畫面串流至瀏覽器，讓用戶即時操控鏡頭探索生成的世界。",
+   "quote_en": "Real time Atlas! Try it now!",
+   "topics": [
+    "Frameboy",
+    "Atlas 世界模型"
+   ],
+   "evidence_quote": "Real time Atlas! Try it now!",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "文章",
+   "summary_zh": "Willison 親自複現《Sparks of Weight-Space Programming》實驗，讓在筆電上跑的 Qwen 3.8 27B 只看模型權重數字就猜出遊戲。Pac-Man 猜中，Pong、Breakout 亦猜中，Freeway 失敗。他提醒不應就此斷言原始碼時代已經結束。",
+   "quote_en": "Game: A simplified Pac-Man-style gridworld: an agent moves through a fixed 8x8 maze with central and corner wall blocks, moving objects/ghosts, and reward targets/pellets.",
+   "topics": [
+    "權重空間編程",
+    "本地模型"
+   ],
+   "evidence_quote": "Qwen 3.8 27B on my laptop",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+   "platform": "web",
+   "page_date": "2026-11-04",
+   "kind": "產品發布",
+   "summary_zh": "Datasette Apps 0.3a0 加入在 Datasette 內託管及編輯自訂 HTML 應用，並強化與 Datasette Agent 的整合，可在對話中以 # 標記應用。",
+   "quote_en": "Apps can now be tagged in Datasette Agent chat messages by typing #, which autocompletes from the apps the user has permission to view.",
+   "topics": [
+    "Datasette",
+    "AI 代理"
+   ],
+   "evidence_quote": "Release: datasette-apps 0.3a0",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "janina-fisher",
+   "url": "https://creators.spotify.com/pod/profile/janina-fisher-phd",
+   "platform": "web",
+   "page_date": "2026-11-04",
+   "kind": "訪談",
+   "summary_zh": "Fisher 在本人 Podcast 新一集與關係治療師 Terry Real 對談，探討童年求生策略如何在成年親密關係中變成衝突循環。兩人談到關係正念，以及同理與問責並重的重要性。",
+   "quote_en": "What if the very strategies that helped you survive childhood are the same ones sabotaging your relationships today?",
+   "topics": [
+    "童年求生策略",
+    "伴侶關係",
+    "關係正念"
+   ],
+   "evidence_quote": "In Conversation with Janina Fisher",
+   "checked": "2026-11-06",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "peter-levine",
+   "url": "https://theembodylab.com/products/healing-trauma-through-the-body",
+   "platform": "web",
+   "page_date": "2026-11-06",
+   "kind": "演講",
+   "summary_zh": "Levine 主講的四節線上工作坊今日（11 月 6 日）開課，首節主題為哀傷的身體取向處理。其後三節為依附創傷（11 月 12 日）、創傷與靈性（11 月 20 日）、複雜性創傷（12 月 4 日），每節包括現場一對一示範。收費 167 美元，附 6 CE 學分。",
+   "quote_en": "Learn directly from Peter Levine, the developer of Somatic Experiencing®, across four sessions exploring grief, attachment trauma, spiritual disconnection, and complex trauma.",
+   "topics": [
+    "身體經驗取向",
+    "哀傷",
+    "複雜性創傷"
+   ],
+   "evidence_quote": "Nov 6, 12, 20 & Dec 4 · Live online",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "活動頁無發布日期，page_date 取首場日期 2026-11-06；工作坊是否今日才公布未能核實"
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://podcasts.apple.com/us/podcast/296-avoidance-feeds-anxiety-when-to-make-teens-do-hard/id1525689066?i=1000799567500",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Damour 與焦慮症專家 Meredith Elkins 討論青少年逃避上學的問題。逃避會令焦慮惡化，家長可從困擾程度、持續時間及影響程度三方面，分辨正常的困難時期與需要介入的臨床焦慮。",
+   "quote_en": "look at distress, duration, and how much it's getting in the way",
+   "topics": [
+    "青少年焦慮",
+    "逃避行為"
+   ],
+   "evidence_quote": "296: Avoidance Feeds Anxiety",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "becky-kennedy",
+   "url": "https://podcasts.apple.com/us/podcast/parenting-mistakes-we-can-still-fix-with-dr-becky-kennedy/id1378725018?i=1000799569063",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Becky 以嘉賓身份在 Laugh Lines 節目談家長仍可修正的教養錯誤，強調連結比事事做對更重要。內容亦談及 ADHD 孩子與高度敏感孩子的教養。",
+   "quote_en": "talk about the parenting mistakes we can still fix and why connection matters more than getting everything right",
+   "topics": [
+    "教養錯誤",
+    "親子連結"
+   ],
+   "evidence_quote": "We're Still Learning About Parenting",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://shows.acast.com/rethinking/episodes/how-to-escape-your-echo-chamber-with-utah-governor-spencer-c",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Grant 在其主持的 ReThinking 節目訪問猶他州州長 Spencer Cox。Cox 認為化解政治兩極化的關鍵不是尋求共識，而是不帶輕蔑地表達不同意見。兩人亦談及如何走出同溫層，以及防範人工智能風險。",
+   "quote_en": "the key to depolarization isn't consensus—it's disagreeing without contempt",
+   "topics": [
+    "政治兩極化",
+    "建設性分歧"
+   ],
+   "evidence_quote": "How to disagree better",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://podcasts.apple.com/us/podcast/adam-grant-how-to-feel-less-lonely-and-build-deeper/id1782960381?i=1000799581425",
+   "platform": "web",
+   "page_date": "2026-11-03",
+   "kind": "訪談",
+   "summary_zh": "Grant 在 The Oprah Podcast 談新書《Vibe》，解釋人際連結的科學，以及何謂與人建立「vibe」。節目亦訪問太空人 Cady Coleman 與 NBA 名宿 Joe Dumars，談信任與團隊默契。",
+   "quote_en": "Adam Grant explains the science behind human connection and the surprising secrets about what it means to create a “vibe” with another person.",
+   "topics": [
+    "人際連結",
+    "新書 Vibe"
+   ],
+   "evidence_quote": "How to Feel Less Lonely",
+   "checked": "2026-11-06",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "產品發布",
+   "summary_zh": "Willison 為 llm-anthropic 推出 0.31 版，加入 Anthropic 新發布的 Fable 5.2 及 Mythos 5.2。他以五檔推理強度測試生成單車鵜鶘圖，最高強度耗用 12.8 萬 token 後未能出圖；新模型定價較上一代便宜兩成。",
+   "quote_en": "Fable 5.2 is currently ranked first on Artificial Analysis.",
+   "topics": [
+    "Claude Fable 5.2",
+    "llm-anthropic",
+    "LLM 工具"
+   ],
+   "evidence_quote": "run prompts through Fable 5.2 like this",
+   "checked": "2026-11-10",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "文章",
+   "summary_zh": "Willison 用 Claude Code 寫了一個 Beep Locator 系統，以多部裝置的咪高峰三角定位屋內神秘嗶嗶聲，準確至約 40 厘米，最後發現是一部舊一氧化碳探測器。他形容這是為 Claude Code 加上「耳朵」的實驗。",
+   "quote_en": "The system worked as intended. It gave me the position of the beep to within about 40cm",
+   "topics": [
+    "Claude Code",
+    "Beep Locator",
+    "AI 代理"
+   ],
+   "evidence_quote": "the source of a mysterious beep",
+   "checked": "2026-11-10",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "geoffrey-hinton",
+   "url": "https://aisfoundation.ai/hinton-lectures-2026",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "演講",
+   "summary_zh": "Hinton 主持的 Hinton Lectures 2026 於 11 月 9 日在多倫多開幕，一連三晚。首晚由 Paul Christiano 主講 AI 對齊的實證問題，Hinton 負責引言；11 月 11 日最後一晚他將與主持人作爐邊對談，該場次超出本次窗口。",
+   "quote_en": "The Hinton Lectures explore the risks, revelations, and revolutionary solutions shaping tomorrow's world.",
+   "topics": [
+    "AI 安全",
+    "AI 對齊",
+    "Hinton Lectures"
+   ],
+   "evidence_quote": "Hosted by Professor Geoffrey Hinton",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ethan-mollick",
+   "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "文章",
+   "summary_zh": "Mollick 親身試用 Claude Fable 5.2 後，提出「Jagged AGI」（參差不齊的通用智能）概念。他以創業、學術研究、重建歷史課程及生成 3D 世界等多項實驗說明，模型在多個領域已接近人類專家水平，但品味與判斷仍有明顯短板。",
+   "quote_en": "I think the answer is that this is 'almost' AGI, or what I have called Jagged AGI.",
+   "topics": [
+    "Claude Fable 5.2",
+    "Jagged AGI",
+    "AI agents",
+    "AGI"
+   ],
+   "evidence_quote": "this is 'almost' AGI",
+   "checked": "2026-11-10",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://podcasts.apple.com/us/podcast/overcome-addictions-obsessions-of-all-kinds-dr-anna-lembke/id1545953110?i=1000800773328",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Huberman 訪問成癮醫學專家 Anna Lembke，談多巴胺如何影響冒險、執迷與強迫行為，以及最常見的「對控制上癮」，並談祈禱與靈性修習如何幫助打破不健康的思維模式。",
+   "quote_en": "We discuss dopamine dynamics in the brain and how they impact risk-taking, mental obsession, and compulsive behaviors.",
+   "topics": [
+    "成癮",
+    "多巴胺",
+    "強迫行為",
+    "靈性與復元"
+   ],
+   "evidence_quote": "dopamine dynamics in the brain",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://richroll.com/podcast/adam-grant-1026/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Grant 在 Rich Roll 節目談新書《Vibe》，講孤獨與獨處的分別、四種友誼，以及相處契合度是可以建立和經營的。",
+   "quote_en": "Compatibility is something you construct, something you can build and work on.",
+   "topics": [
+    "友誼",
+    "孤獨",
+    "人際連結"
+   ],
+   "evidence_quote": "Strong Relationships In A Lonely World",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "esther-perel",
+   "url": "https://zeno.fm/podcast/where-should-we-begin-with-esther-perel/",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "一對相處近四十年的伴侶決定分開，但為法律與實際原因維持婚姻關係、分居三百英里，來找 Esther 探討如何在情感糾纏多年後拆解浪漫連結，同時繼續像生意拍檔般合作。",
+   "quote_en": "They come to Esther wondering how, after decades of emotional enmeshment, they can disentangle their romantic connection while continuing to function like business partners.",
+   "topics": [
+    "伴侶關係",
+    "分居",
+    "情感糾纏"
+   ],
+   "evidence_quote": "they've decided to split",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://podcasts.apple.com/us/podcast/are-you-taking-fun-seriously-enough/id1474245040?i=1000800282202",
+   "platform": "web",
+   "page_date": "2026-11-09",
+   "kind": "訪談",
+   "summary_zh": "Santos 在 Aspen Ideas Festival 的現場對談中，與 Catherine Price 及 Elizabeth Dunn 探討為何認真看待玩樂對快樂、健康以至改善世界都重要。",
+   "quote_en": "In this live conversation from the Aspen Ideas Festival, Dr. Laurie is joined by science journalist Catherine Price and psychologist Elizabeth Dunn to explore why we should all be taking fun more seriously.",
+   "topics": [
+    "快樂",
+    "玩樂",
+    "幸福感"
+   ],
+   "evidence_quote": "having fun isn't just a nice bonus",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://www.issh.ac.jp/community/news-details/~board/news-board/post/internationally-acclaimed-author-dr-lisa-damour-to-visit-issh-in-november",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "演講",
+   "summary_zh": "Damour 今日在東京國際學校 ISSH 舉行家長晚間講座，講青少年的健康情緒發展、破除情緒迷思，並談數碼科技與性別如何影響情緒表達與管理。",
+   "quote_en": "Dr. Damour will draw on decades of clinical experience and psychological research to explain what healthy emotional development really looks like.",
+   "topics": [
+    "青少年",
+    "情緒發展",
+    "家長講座"
+   ],
+   "evidence_quote": "Date: Tuesday 10 November 2026",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ethan-kross",
+   "url": "https://www.eventbrite.co.uk/e/managing-your-emotions-prof-ethan-kross-tickets-1998426503468?aff=ebdssbdestsearch",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "演講",
+   "summary_zh": "Kross 今晚在 Action for Happiness 的 Zoom 講座分享新書《Shift》的情緒管理工具，包括抽離式自我對話，以及在平靜時先建立工具箱，應對情緒風暴。",
+   "quote_en": "We can't stop difficult feelings from arriving - frustration, worry, anger and sadness are all part of being human. However, although we can't choose what we feel, we have more control than we realise over what happens next.",
+   "topics": [
+    "情緒管理",
+    "自我對話",
+    "情緒調節"
+   ],
+   "evidence_quote": "Tuesday 10 November • 7 PM - 8 PM UTC",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "stephen-porges",
+   "url": "https://www.polyvagalinstitute.org/polyvagaltalksbook",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Porges 的新書《Polyvagal Talks》今日出版，收錄他與 Bessel van der Kolk、Gabor Maté、Daniel Siegel、Peter Levine、Pat Ogden 等人的對談，探討多叉迷走神經理論如何影響創傷治療；對談原片同日免費公開。",
+   "quote_en": "Watch all of the original recordings of the conversations on our Learning Platform, releasing November 10, 2026.",
+   "topics": [
+    "多叉迷走神經理論",
+    "創傷治療",
+    "新書"
+   ],
+   "evidence_quote": "releasing November 10, 2026",
+   "checked": "2026-11-10",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://x.com/demishassabis/status/2120210297948696997",
+   "platform": "x",
+   "page_date": "2026-11-10",
+   "kind": "產品發布",
+   "summary_zh": "Hassabis 在 X 宣布 Gemini 4 Carbon 於 11 月 10 日全面推出。他以 Carbon 把自己在 1990 年代編寫的遊戲 Theme Park 原版二進制檔逆向工程，加入 DeepMind 主題新設施後一次過移植到網頁上，展示模型能力。",
+   "quote_en": "Our latest frontier model Gemini 4 Carbon is rolling out today! Amazing progress from Gemini 3 → Gemini 4 in less than a year… Carbon reverse engineers my original Theme Park binaries, adds a new DeepMind themed ride, and ports it to the web in one shot - kind of mindblowing to see!",
+   "topics": [
+    "Gemini 4 Carbon",
+    "DeepMind"
+   ],
+   "evidence_quote": "kind of mindblowing to see!",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接開啟（政策封鎖），帖文內容經多家媒體逐字引述核實一致。"
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://x.com/demishassabis/status/2120565316619284734",
+   "platform": "x",
+   "page_date": "2026-11-11",
+   "kind": "產品發布",
+   "summary_zh": "Hassabis 宣布推出 DNA 序列模型 AlphaGenome 2，可預測 DNA 變異在不同細胞類型的影響，協助理解複雜疾病，現已開放學術研究經 API 使用。",
+   "quote_en": "Super proud to announce AlphaGenome 2 - our new DNA sequence model! It predicts the impact of DNA variants in different specific cell types - unlocking crucial information for understanding complex diseases. Available for academic research via our API",
+   "topics": [
+    "AlphaGenome 2",
+    "基因組學"
+   ],
+   "evidence_quote": "Super proud to announce AlphaGenome 2",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接開啟（政策封鎖），帖文內容經 Gigazine、AI Hub 等多處逐字引述核實一致；status 連結由搜尋結果來源清單取得。"
+  },
+  {
+   "person": "fei-fei-li",
+   "url": "https://worldlabs.ai/atlas",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "產品發布",
+   "summary_zh": "World Labs 正式向所有人開放 Atlas 世界模型，隨附 Viewfinder、Chisel、Splats to Mesh 等工具及開發者 API，可將相片或灰盒場景轉化為可探索的 3D 世界。",
+   "quote_en": "Generate and reconstruct worlds and bring creations into your own workflows with our tools and developer APIs.",
+   "topics": [
+    "Atlas",
+    "世界模型",
+    "World Labs"
+   ],
+   "evidence_quote": "Generate and reconstruct worlds",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://drlisadamour.com/resource/why-teens-lie-and-how-to-respond-without-escalating/",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "訪談",
+   "summary_zh": "Damour 以「Office Hours」形式回答家長提問，講解青少年說謊的三類原因，以及如何回應而不激化衝突。",
+   "quote_en": "Good kids do dumb things, but we don't want them to do those dumb things.",
+   "topics": [
+    "青少年說謊",
+    "親子溝通"
+   ],
+   "evidence_quote": "Why Teens Lie—and How to Respond",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "becky-kennedy",
+   "url": "https://www.audible.co.uk/podcast/Good-Inside-with-Dr-Becky/episodes/B08JJHWP8K",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "訪談",
+   "summary_zh": "Dr. Becky 與五屆奧運獎牌得主 Elana Meyers Taylor 對談，談她由壘球轉項雪車的經歷，以及「擅長當新手」的心態如何幫助孩子面對失敗、建立韌性。",
+   "quote_en": "am I good at getting good at things, or am I good at being a novice?",
+   "topics": [
+    "兒童韌性",
+    "面對失敗"
+   ],
+   "evidence_quote": "am I good at being a novice?",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "peter-levine",
+   "url": "https://thetherapytap.com/somatic-approach-to-healing-trauma/",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "演講",
+   "summary_zh": "Levine 與 Arielle Schwartz 於 11 月 11 日舉行免費網上直播培訓，以「受傷的療癒者」為題，分享他早年暴力經歷與復原力如何塑造其身體取向創傷工作。",
+   "quote_en": "Join one of the field's most respected voices for a rare and deeply personal conversation on healing, resilience, and the wounded healer's journey.",
+   "topics": [
+    "身體取向創傷治療",
+    "受傷的療癒者"
+   ],
+   "evidence_quote": "a rare and deeply personal conversation",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "jill-stoddard",
+   "url": "https://podcasts.apple.com/us/podcast/sysk-trending-the-surprising-upside-of-imposter-syndrome/id1150124880?i=1000800954790",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "訪談",
+   "summary_zh": "Stoddard 談冒名頂替症候群的另一面：自我懷疑未必是壞事，可能是正在挑戰自己、成長的訊號，重點不在消除懷疑，而是不讓懷疑主宰行動。",
+   "quote_en": "According to Dr. Jill Stoddard, the goal isn't necessarily to eliminate self-doubt but to stop letting it dictate what you do.",
+   "topics": [
+    "冒名頂替症候群",
+    "自我懷疑"
+   ],
+   "evidence_quote": "stop letting it dictate what you do",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ethan-kross",
+   "url": "https://www.youtube.com/watch?v=2HU8U_NZ2dc",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "演講",
+   "summary_zh": "Kross 在 Action for Happiness 的網上活動中分享新書《Shift》的情緒管理工具，包括抽離式自我對話，以及在平靜時預先建立情緒工具箱。錄影為 11 月 10 日現場活動，於 11 月 11 日上載。",
+   "quote_en": "We can't stop difficult feelings from arriving - frustration, worry, anger and sadness are all part of being human.",
+   "topics": [
+    "情緒管理",
+    "情緒調節"
+   ],
+   "evidence_quote": "a live Action for Happiness event",
+   "checked": "2026-11-13",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "platform": "web",
+   "page_date": "2026-11-10",
+   "kind": "文章",
+   "summary_zh": "Simon Willison 評測 Meta 新推出的輕量推理模型 Muse Ember，比較它與 GPT-6 Luna 及 Claude Haiku 5.5 的定價與性價比。他指出三者在 Artificial Analysis 成本效益圖上，Ember 處於效率前沿，同等成本下智能表現更高。",
+   "quote_en": "For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output.",
+   "topics": [
+    "Muse Ember",
+    "模型評測"
+   ],
+   "evidence_quote": "our smallest and most efficient model",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "platform": "web",
+   "page_date": "2026-11-11",
+   "kind": "產品發布",
+   "summary_zh": "Simon Willison 發布 llm 0.37.2，修復一個安全問題：程式在特定情況下可能把已設定的 OpenAI API 金鑰誤傳給其他供應商。問題由 Daniel de Araujo 回報，涉及兩個觸發情境。",
+   "quote_en": "Daniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers.",
+   "topics": [
+    "llm",
+    "安全修復"
+   ],
+   "evidence_quote": "Fixes a security issue",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+   "platform": "web",
+   "page_date": "2026-11-12",
+   "kind": "產品發布",
+   "summary_zh": "Simon Willison 隨 Google 推出 Gemini 4 Hydrogen 發布 llm-gemini 0.37，並以九格圖比較 Gemini 4 三個模型在不同思考強度下的畫質與成本。他指出 Hydrogen 雖名為廉價版，現價只比高階版便宜約四分之一，但將成為 Google 搜尋 AI 功能的免費層模型。",
+   "quote_en": "Hydrogen is the new free tier model, and is the model that will power AI features in Google Search.",
+   "topics": [
+    "Gemini 4",
+    "llm-gemini"
+   ],
+   "evidence_quote": "Google launched Gemini 4 Hydrogen today",
+   "checked": "2026-11-13",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "訪談",
+   "summary_zh": "Huberman 訪問真菌學家 Paul Stamets，談蘑菇如何支援免疫系統與腦部健康，以及裸蓋菇素對抑鬱、焦慮等精神健康問題的臨床研究證據、風險與安全須知。",
+   "quote_en": "Paul Stamets explains how mushrooms support immune defense and brain health, and what clinical research shows about psilocybin's benefits, risks and safety.",
+   "topics": [
+    "蘑菇與免疫",
+    "裸蓋菇素",
+    "精神健康"
+   ],
+   "evidence_quote": "Paul Stamets explains how mushrooms support immune defense and brain health, and what clinical research shows about psilocybin's benefits, risks and safety.",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+   "platform": "web",
+   "page_date": "2026-11-14",
+   "kind": "產品發布",
+   "summary_zh": "Simon 發布 datasette-llm 0.1a11，新增支援 OpenAI 兼容端點，Datasette Agent 可接駁 LM Studio、Ollama 或 llama.cpp 等本地模型運作。",
+   "quote_en": "This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol.",
+   "topics": [
+    "Datasette",
+    "本地模型",
+    "LLM"
+   ],
+   "evidence_quote": "This release adds support for OpenAI-compatible endpoints",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "platform": "web",
+   "page_date": "2026-11-15",
+   "kind": "產品發布",
+   "summary_zh": "Simon 發布首個新 Datasette 地理插件 datasette-maplibre 0.1a0，結合 MapLibre GL 與免費向量地圖伺服器 OpenFreeMap，可在地圖上顯示 GeoJSON 圖形與經緯度點。",
+   "quote_en": "The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap, the free vector map server",
+   "topics": [
+    "Datasette",
+    "地圖",
+    "開源插件"
+   ],
+   "evidence_quote": "The first new Datasette geospatial plugin in quite a while!",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "platform": "web",
+   "page_date": "2026-11-15",
+   "kind": "產品發布",
+   "summary_zh": "Simon 發布 Datasette 1.0a43，1.0 里程碑已完成 53%，最大新功能是輸出渲染器的串流支援，另修復兩處安全問題，包括私人儲存查詢可能外洩的漏洞。",
+   "quote_en": "The biggest 1.0 item in this release is streaming support for output renderers",
+   "topics": [
+    "Datasette",
+    "串流輸出",
+    "安全修復"
+   ],
+   "evidence_quote": "The biggest 1.0 item in this release is streaming support for output renderers",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "fei-fei-li",
+   "url": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "職務異動",
+   "summary_zh": "AMD 宣布完成收購李飛飛創辦的 World Labs，李飛飛出任 AMD 執行副總裁兼首席科學家，直接向 CEO Lisa Su 匯報。交易於 11 月 13 日完成，AMD 為此發行近 1,498 萬股新股。",
+   "quote_en": "Dr. Fei-Fei Li joins AMD as executive vice president and chief scientist, reporting directly to Su.",
+   "topics": [
+    "AMD",
+    "World Labs",
+    "職務異動"
+   ],
+   "evidence_quote": "Dr. Fei-Fei Li joins AMD as executive vice president and chief scientist.",
+   "checked": "2026-11-17",
+   "tier": "A",
+   "verify_needed": false
+  }
+ ],
+ "updated": "2026-11-17"
+}

@@ -1,0 +1,158 @@
+{
+ "title_zh": "預印本：童年腦成熟時間表偏離，與四年後抑鬱焦慮症狀相關",
+ "title_en": "Preprint: childhood brain maturation timing linked to later depression and anxiety",
+ "summary_zh": "研究者分析 ABCD 隊列約 12,000 名兒童、近 30,000 張腦掃描，追蹤六年。大腦皮層變薄呈 S 形軌跡，個別兒童偏離平均時間表的程度，與四年後的抑鬱與焦慮症狀相關。原研究為 bioRxiv 預印本，未經同儕審查；外部專家提醒這是群體平均模式、效應細微，不能預測個別兒童。",
+ "summary_en": "Researchers analysed about 12,000 children and nearly 30,000 brain scans from the ABCD cohort over six years. Cortical thinning followed an S-shaped trajectory, and deviation from the average timetable was associated with depressive and anxiety symptoms four years later. The study is a bioRxiv preprint that has not been peer reviewed; outside experts stress it describes group-average patterns with subtle effects and cannot predict individual children.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "大型縱貫隊列分析，惟原研究為 bioRxiv 預印本（2026-10-11），未經同儕審查；經 Nature 新聞 2026-10-22 報道核對",
+ "ethics_flags": [
+  {
+   "flag": "篩檢與標籤",
+   "note": "腦掃描「成熟時間表」容易被誤讀為可預測個別兒童的心理健康，現階段證據不支持任何個別層面的應用。",
+   "refs": [
+    "評估與篩檢｜假陽性與標籤效應"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "預印本結論可能在同儕審查後修改；效應屬群體層次，不能用作個別兒童的篩檢或預測，亦不應引起家長恐慌。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "ABCD 隊列：約 12,000 名兒童、近 30,000 張腦掃描、追蹤六年",
+  "皮層變薄呈 S 形軌跡；偏離時間表與四年後抑鬱、焦慮症狀相關",
+  "原研究為 bioRxiv 預印本（2026-10-11），未經同儕審查",
+  "專家提醒：群體平均模式、效應細微，不能預測個別兒童"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "腦發展",
+  "青少年",
+  "抑鬱焦慮",
+  "預印本"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長拿著腦科學新聞來問「我個仔會唔會有抑鬱」時，你會如何回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.nature.com/articles/d41586-026-03357-9",
+   "author_handle": "",
+   "author_name": "Nature",
+   "title": "Nature 新聞報道（2026-10-22）：童年腦成熟節奏與青少年心理健康",
+   "content": "報道 ABCD 隊列腦成熟預印本研究的主要發現，並引述外部專家對個別預測的保留。",
+   "posted_at": "2026-10-22T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "preprint-childhood-brain-maturation-timing-linked-to-later-d",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "attention-bias-to-sad-faces-in-at-risk-children",
+   "title_zh": "憂鬱高風險兒童會「卡」在悲傷臉孔：眼動追蹤研究顯示兩種注意力路徑",
+   "title_en": "Attention bias to sad faces in at-risk children",
+   "summary_zh": "Binghamton 大學的縱貫研究（Journal of Psychopathology and Clinical Science, 2026）以眼動追蹤，每六個月評估一次、追蹤 242 名兒童兩年。母親有重鬱症史的兒童，在自身憂鬱症狀上升時對悲傷臉孔的注意增加；母親無憂鬱史的兒童則是症狀上升時對快樂臉孔的注意減少，顯示憂鬱可能依家族風險經由不同的注意力路徑發展。",
+   "summary_en": "A Binghamton University longitudinal study (Journal of Psychopathology and Clinical Science, 2026) used eye tracking every six months over two years in 242 children. Children of mothers with a history of major depression attended more to sad faces as their depressive symptoms rose, whereas children without maternal depression showed reduced attention to happy faces, suggesting distinct attentional pathways by familial risk.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "憂鬱",
+    "注意力偏誤",
+    "眼動追蹤",
+    "親代憂鬱",
+    "早期介入"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.953,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-29T00:00:00+00:00"
+  },
+  {
+   "slug": "childhood-loneliness-and-isolation-into-adulthood",
+   "title_zh": "12 歲孤單、18 歲孤立：2,232 名雙胞胎追蹤顯示兒童期孤單與孤立的長期代價",
+   "title_en": "Childhood loneliness and isolation into adulthood",
+   "summary_zh": "PsyPost 報導一項刊於 Development and Psychopathology 的縱貫研究，追蹤 2,232 名英格蘭與威爾斯雙胞胎從 12 歲到 18 歲。12 歲感到孤單的兒童，到 18 歲成為社交孤立者的機率約為兩倍；兒童期社交孤立與 18 歲時未就學未就業（NEET）勝算 2.4 倍相關。孤單與孤立各自獨立預測較差的心理健康、幸福感與社經結果。",
+   "summary_en": "PsyPost reports a Development and Psychopathology study following 2,232 twins in England and Wales from age 12 to 18. Children who felt lonely at 12 were about twice as likely to be socially isolated at 18, and childhood isolation was linked to 2.4 times higher odds of being NEET. Loneliness and isolation independently predicted poorer mental health, wellbeing and socioeconomic outcomes.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "孤單",
+    "社交孤立",
+    "青少年",
+    "縱貫研究"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.953,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-02T00:00:00+00:00"
+  },
+  {
+   "slug": "positive-childhood-experiences-reduce-risk-of-later-mental-i",
+   "title_zh": "正向童年經驗與成年早期心理健康的長期追蹤研究",
+   "title_en": "Positive childhood experiences reduce risk of later mental illness: longitudinal cohort",
+   "summary_zh": "縱向追蹤研究（發表於 American Journal of Psychiatry，2026 年 10 月 14 日，doi:10.1176/appi.ajp.20260007）。正向童年經驗（PCE）分數每增加 1 分（最高 10 分），成年早期符合精神障礙準則的機會率下降約 11%。",
+   "summary_en": "Longitudinal study published in the American Journal of Psychiatry on 14 October 2026 (doi:10.1176/appi.ajp.20260007). Each one-point increase in positive childhood experiences (PCE, up to 10) was associated with about 11% lower odds of meeting criteria for a psychiatric disorder in early adulthood, after adjusting for confounders.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "正向童年經驗",
+    "縱向研究",
+    "成年早期",
+    "精神障礙風險"
+   ],
+   "first_seen_at": "2026-10-19T02:37:41+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-14T00:00:00+00:00"
+  }
+ ]
+}

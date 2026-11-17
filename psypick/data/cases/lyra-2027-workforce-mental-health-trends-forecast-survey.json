@@ -1,0 +1,151 @@
+{
+ "title_zh": "Lyra 2027 職場心理健康趨勢預測：83% 人力資源主管認為心理健康對業務表現更重要",
+ "title_en": "Lyra 2027 Workforce Mental Health Trends Forecast survey",
+ "summary_zh": "Lyra Health 發表第七屆年度調查，訪問超過 500 名人力資源與福利主管。92% 受訪者認為心理健康對維持業務表現不可或缺，83% 認為其重要性較三年前提高。調查亦指出，近半受訪者把人工智能與急速科技轉變列為最損害員工心理健康的職場因素之一，而一半受訪者表示兒童心理健康是他們最感準備不足的範疇。",
+ "summary_en": "Lyra Health's seventh annual Workforce Mental Health Trends Forecast (November 3, 2026), a survey of more than 500 HR and benefits leaders, finds 92% say mental health is essential to sustaining business performance and 83% say it matters more than three years ago. Nearly half (48%) cite AI and rapid technological change among the workplace factors most harming employee mental health, and half say children's mental health is among the needs they feel least prepared to address.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 1,
+ "evidence_note": "廠商自家年度調查（逾 500 名人力資源與福利主管），未經獨立核實",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "廠商自家調查，未經獨立核實；樣本為人力資源與福利主管，不代表臨床工作者或一般員工的看法。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "92% 福利主管認為心理健康對維持業務表現不可或缺",
+  "83% 認為心理健康的重要性較三年前提高",
+  "48% 把人工智能與急速科技轉變列為最損害員工心理健康的職場因素之一",
+  "一半受訪者表示兒童心理健康是最感準備不足的範疇",
+  "84% 認為單靠擴大服務覆蓋已不足夠，82% 預期心理健康預算會增加"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "職場心理健康",
+  "調查",
+  "人力資源",
+  "AI與工作"
+ ],
+ "population": [
+  "成人",
+  "一般大眾"
+ ],
+ "supervision_questions": [
+  "調查說一半主管對兒童心理健康最無準備，這個缺口在你的機構或服務中是怎樣的？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.lyrahealth.com/announcement/new-lyra-survey-83-of-hr-leaders-say-mental-health-matters-more-to-business-performance-than-it-did-three-years-ago/",
+   "author_handle": "",
+   "author_name": "Lyra Health",
+   "title": "New Lyra Survey: 83% of HR Leaders Say Mental Health Matters More to Business Performance Than It Did Three Years Ago",
+   "content": "Lyra Health 發表 2027 年職場心理健康趨勢預測，調查超過 500 名人力資源與福利主管對職場心理健康的看法。",
+   "posted_at": "2026-11-03T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-10T01:28:21+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "lyra-2027-workforce-mental-health-trends-forecast-survey",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "stress-in-america-2026-ai-users-friend-mental-health-profess",
+   "title_zh": "APA《2026 美國壓力調查》：不確定年代下，近半 AI 使用者以 AI 充當朋友或心理專業角色",
+   "title_en": "Stress in America 2026 AI users friend mental health professional role",
+   "summary_zh": "美國心理學會 10 月 22 日公布 2026 年《美國壓力調查》，由 Harris Poll 於 7 月 29 日至 8 月 24 日訪問 3,132 名美國成人。77% 以生活成本為重要壓力源，74% 以國家未來為壓力源，47% 因壓力在過去一年減少至少一種社交活動。在 AI 使用者中，49% 曾與 AI 如朋友般對話，47% 曾以 AI 擔當與心理健康專業人員相近的角色，10% 表示依賴 AI 多於親友提供建議。APA 提醒，便利不等於專業，AI 不能取代心理師的臨床判斷與人際連結。",
+   "summary_en": "APA's Stress in America 2026 survey (Harris Poll, 3,132 US adults, July 29–August 24, 2026) finds cost of living (77%) and the future of the nation (74%) as leading stress sources. Among AI users, 49% had conversed with AI as a friend and 47% had used it in a role comparable to a mental health professional.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "壓力調查",
+    "AI使用",
+    "人機互動",
+    "社交退縮"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "一般大眾",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-22T00:00:00+00:00"
+  },
+  {
+   "slug": "caritas-cuhk-survey-66-of-upper-primary-students-say-too-man",
+   "title_zh": "明愛與中大調查：66% 高小學生認為評核過多，經常感到壓力",
+   "title_en": "Caritas-CUHK survey: 66% of upper primary students say too many assessments",
+   "summary_zh": "香港明愛與中文大學社會工作學系的「香港兒童主觀幸福感與家庭因素之研究」於 2025 年 10 月至 2026 年 4 月收集逾 5,200 名小四至小六學生問卷。66% 認為校內評核及考試過多，經常感到壓力；59.4% 表示難以接受突發事情並對未來感到擔憂。研究團隊提出「希望悖論」：孩子在競爭制度下壓低期望以免失望；家長帶著失望情緒說「盡力就好」，反而成為軟性壓力。",
+   "summary_en": "A Caritas Hong Kong and Chinese University social-work study surveyed over 5,200 Primary 4-6 students (Oct 2025-Apr 2026). 66% said school assessments and exams were excessive and left them often stressed; 59.4% struggled with unexpected events and worried about the future. The team describes a 'hope paradox': children lower their expectations to avoid disappointment, while parents' disappointed tone behind 'just try your best' can become soft pressure.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "學童壓力",
+    "評核",
+    "香港",
+    "親子"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-25T00:00:00+00:00"
+  },
+  {
+   "slug": "hkfyg-survey-56-5-of-secondary-students-show-depressive-symp",
+   "title_zh": "青協調查：56.5% 中學生有抑鬱表徵，45.6% 曾向 AI 傾訴心事",
+   "title_en": "HKFYG survey: 56.5% of secondary students show depressive symptoms, 45.6% confide in AI",
+   "summary_zh": "香港青年協會「中學生開學適應調查2026」以網上問卷訪問 5,469 名中一至中六學生。CES-D 量表達 16 分或以上者佔 56.5%，平均 18.2 分，中六最高（20.2 分）。45.6% 學生表示經常或有時向 AI 工具傾訴心事，高於老師（35.0%）與社工、輔導員或醫生（22.2%）；但認為 AI 有幫助者只有 46.9%，低於朋友（75.8%）、家人（64.9%）與老師（57.8%）；85.9% 認同重要事情仍需向真人求助。",
+   "summary_en": "The Hong Kong Federation of Youth Groups' 2026 school-adjustment survey collected 5,469 online responses from Secondary 1-6 students. 56.5% scored at or above the CES-D cut-off of 16 (mean 18.2; highest in Secondary 6 at 20.2). 45.6% said they often or sometimes confide in AI tools, more than teachers (35.0%) or social workers, counsellors and doctors (22.2%); yet only 46.9% found AI helpful, below friends (75.8%), family (64.9%) and teachers (57.8%). 85.9% agreed important matters still need a real person.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "抑鬱篩檢",
+    "青少年",
+    "AI傾訴",
+    "香港"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "title_zh": "統合分析：精神分裂症患者用抗精神病藥，死亡與復發風險較低，但癌症、骨折、肺感染較高（68 項研究）",
+ "title_en": "Antipsychotic use clinical outcomes schizophrenia",
+ "summary_zh": "Molecular Psychiatry 刊出系統性回顧與統合分析，綜合 68 項觀察性研究、1,424,455 名精神分裂症患者，比較用抗精神病藥與不用的臨床結果。用藥與較低的全因死亡率相關（合併估計 0.64），復發風險亦較低（0.34）。另一方面，用藥與較高的癌症（1.41）、骨折（1.35）與肺部感染（1.25）風險相關，其他結果則無顯著差異。作者強調，全部研究均屬觀察性，殘餘混雜因素可能影響結果，不能作因果解讀，證據基礎有限，部分合併估計只來自少數研究。研究由中國國家自然科學基金資助，作者申報無利益衝突。",
+ "summary_en": "Molecular Psychiatry published a systematic review and meta-analysis of 68 observational studies covering 1,424,455 people with schizophrenia, comparing antipsychotic use with nonuse. Use was associated with lower all-cause mortality (pooled estimate 0.64) and lower relapse risk (0.34). On the other hand, use was associated with higher risks of cancer (1.41), fractures (1.35) and lung infections (1.25); other outcomes did not reach significance. The authors stress that every included study was observational, that residual confounding may shape the associations, and that the findings cannot be read as causal; the evidence base was limited, with several pooled figures resting on few studies. The work was funded by the National Natural Science Foundation of China, and the authors declare no competing interests.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 4,
+ "evidence_note": "觀察性研究系統性回顧與統合分析（Molecular Psychiatry 2026-10-27 線上刊出；DOI: 10.1038/s41380-026-03949-x；PMID: 42934261；經 PubMed 摘要核實；Nature 原文頁只抽到參考文獻段）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "全部 68 項研究均屬觀察性，不能證明因果；殘餘混雜因素與偏倚可能影響結果；證據基礎有限，部分合併估計只來自少數研究；摘要未說明合併估計是風險比、比值比抑或勝算比，亦未列各結果納入的研究數目；未比較個別藥物或劑量；復發的合併估計區間闊（0.12–0.99），上限貼近無差異點。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "納入：68 項觀察性研究，1,424,455 人；搜尋 PubMed、Embase、PsycINFO、Web of Science 至 2026 年 5 月 1 日；多層次隨機效應模型合併",
+  "全因死亡率：用藥較不用低，合併估計 0.64（95% CI 0.54–0.77）；復發風險亦較低，0.34（95% CI 0.12–0.99），但區間闊",
+  "身體健康風險：癌症 1.41（95% CI 1.17–1.69），骨折 1.35（1.17–1.56），肺部感染 1.25（1.04–1.51）；其他結果無顯著差異",
+  "地區與研究設計亞組分析顯示差異；作者指證據基礎有限，部分合併估計來自少數研究",
+  "背景：隨機試驗統合分析（65 項試驗，6,493 人）顯示，停藥一年復發率 64%，續藥 27%；死亡問題主要靠觀察性數據回答",
+  "資助：中國國家自然科學基金（82325020）；作者申報無利益衝突；第一作者 Yao（中南大學湘雅二醫院）"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "抗精神病藥",
+  "精神分裂症",
+  "死亡率",
+  "復發",
+  "身體健康"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "長期服藥的精神分裂症個案問「食藥會唔會增加患癌風險」時，你會如何用呢份觀察性統合分析回應，而又唔誇大因果？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1038/s41380-026-03949-x",
+   "author_handle": "",
+   "author_name": "Yao 等（中南大學湘雅二醫院）",
+   "title": "Real-world associations of antipsychotic use with clinical outcomes in schizophrenia: a systematic review and meta-analysis (Molecular Psychiatry; DOI: 10.1038/s41380-026-03949-x)",
+   "content": "期刊論文：抗精神病藥使用與精神分裂症臨床結果的真實世界關聯，68 項觀察性研究統合分析。",
+   "posted_at": "2026-10-27T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-10T13:28:11+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "antipsychotic-use-clinical-outcomes-schizophrenia",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "modified-psychodynamic-psychotherapy-schizophrenia-spectrum",
+   "title_zh": "RCT：改良心理動力治療加常規治療，可改善思覺失調症譜系患者的心理社會功能（130 人）",
+   "title_en": "Modified psychodynamic psychotherapy schizophrenia spectrum RCT psychosocial functioning",
+   "summary_zh": "柏林 Charité 單中心隨機對照試驗，130 名 18 至 64 歲思覺失調症或情感性思覺失調門診患者，比較改良心理動力治療（MPP-S，最少 30 節）加常規治療與單用常規治療。主要結果心理社會功能（Mini-ICF-APP）：24 個月組間差 −3.45（95% CI −5.51 至 −1.40），36 個月 −4.07（−6.19 至 −1.94），介入組較佳；負性症狀亦有改善。試驗期間兩名參加者自殺身亡（每組一名）。",
+   "summary_en": "A single-centre randomised controlled trial at Charité Berlin randomised 130 outpatients aged 18-64 with schizophrenia or schizoaffective disorder to Modified Psychodynamic Psychotherapy for Schizophrenia (MPP-S, minimum 30 sessions) plus treatment as usual (TAU) or TAU alone. Psychosocial functioning (Mini-ICF-APP) favoured the intervention: between-group differences of -3.45 (95% CI -5.51 to -1.40) at 24 months and -4.07 (-6.19 to -1.94) at 36 months, with negative symptoms also improving. Two participants died by suicide during the trial (one per arm).",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "思覺失調",
+    "心理動力治療",
+    "心理社會功能",
+    "RCT"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-01T00:00:00+00:00"
+  },
+  {
+   "slug": "glp-1-receptor-agonists-mortality-serious-mental-illness-jam",
+   "title_zh": "研究：嚴重精神疾病患者用 GLP-1 受體促效劑，四年死亡率 4.91% 對 6.45%（逾 150 萬人配對）",
+   "title_en": "GLP-1 receptor agonists mortality serious mental illness JAMA Psychiatry",
+   "summary_zh": "JAMA Psychiatry 目標試驗模擬研究比較開始使用 GLP-1 受體促效劑與開始使用 SGLT2 抑制劑的成人，分析 TriNetX 電子健康記錄，逾 150 萬人經傾向評分配對。嚴重精神疾病組（重性抑鬱、躁鬱症、精神分裂症）共 195,184 對，四年全因死亡率為 GLP-1 組 4.91%，SGLT2 組 6.45%（風險比 0.76，絕對風險差 −1.54 個百分點）；一年死亡率為 1.46% 對 2.84%（相對風險 0.52）。效益在一年內已見，各嚴重精神疾病亞組一致，主要由 semaglutide 與 tirzepatide 帶動。研究屬觀察性設計，作者強調須以前瞻隨機試驗確認因果。",
+   "summary_en": "A JAMA Psychiatry target trial emulation compared adults starting a GLP-1 receptor agonist with adults starting an SGLT2 inhibitor, using TriNetX electronic health records with more than 1.5 million propensity score-matched participants. In the serious mental illness cohort (major depressive disorder, bipolar disorder and schizophrenia), 195,184 pairs were matched: four-year all-cause mortality was 4.91% with GLP-1 RAs versus 6.45% with SGLT2 inhibitors (hazard ratio 0.76; absolute risk difference -1.54 percentage points), and one-year mortality was 1.46% versus 2.84% (risk ratio 0.52). Benefits appeared within one year, were consistent across serious mental illness subgroups, and were driven mainly by semaglutide and tirzepatide. The design is observational, and the authors state that prospective randomised trials are needed to confirm causality.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "GLP-1",
+    "嚴重精神疾病",
+    "心血管",
+    "死亡率",
+    "藥物"
+   ],
+   "first_seen_at": "2026-11-09T13:41:55+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-08-26T00:00:00+00:00"
+  },
+  {
+   "slug": "understanding-psychosis",
+   "title_zh": "認識思覺失調症",
+   "title_en": "Understanding Psychosis",
+   "summary_zh": "密西根大學在 Coursera 的思覺失調症課程，講解症狀、成因與治療，共 4 個模組、中階程度。免費旁聽可完整學習；另可經 MiCME 申請最高 8.5 個 AMA PRA Category 1 學分，適合精神科相關臨床工作者。",
+   "summary_en": "A University of Michigan Coursera course on psychosis — symptoms, causes and treatments — with optional CME credits via MiCME for eligible clinicians.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "思覺失調症",
+    "精神病學",
+    "CME 學分",
+    "免費旁聽",
+    "Coursera"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "Coursera / University of Michigan",
+    "price": "免費旁聽（頁面原文 Full Course, No Certificate）；證書費用頁面未列",
+    "price_tier": "免費",
+    "ce_credits": "有 — 最高 8.5 AMA PRA Category 1 Credits，需經 MiCME 另行申請（EID=93315），非 Coursera 直接提供",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "隨選",
+    "format": "線上隨選"
+   },
+   "deadline_soon": false
+  }
+ ],
+ "evidence_quote": "use was associated with lower all-cause",
+ "page_date": "2026-10-27"
+}

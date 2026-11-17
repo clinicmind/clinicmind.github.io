@@ -1,0 +1,114 @@
+{
+ "title_zh": "免費網上培訓：督導標準——選督導不等於選實習地點（11 月 19 日，1 CE）",
+ "title_en": "Raising the standard for supervision Kate Walker webinar",
+ "summary_zh": "Kate Walker Training 免費網上直播講座，由 Tara Fox 博士主講，主題是「提高督導標準：選督導不等於選實習地點」。講座針對輔導實習生與準督導，講解如何分辨選實習地點與選督導是兩個決定、面試督導時值得問的問題、簽督導合約前的警號，以及督導未盡責時實習生可以自保的策略，並比較 LPC、LMFT 與社工督導要求的差異。2026 年 11 月 19 日下午 5 時舉行（頁面未註明時區，主辦機構位於德州），全程線上，免費參加，可獲 1 小時繼續教育學分（符合德州 50% 要求，其他地區須自行核對）。",
+ "summary_en": "Kate Walker Training offers a free live webinar, \"Raising the Standard for Supervision: Because Choosing a Supervisor Isn't the Same as Choosing a Site\", presented by Dr. Tara Fox. Aimed at counselling associates and prospective supervisors, it covers how choosing a site differs from choosing a supervisor, questions worth asking in a supervisor interview, red flags before signing a supervision contract, and strategies for getting quality supervision when a supervisor is not holding up their end, plus a comparison of supervision requirements for LPC Associates, LMFT Associates and social workers. It runs on 19 November 2026 at 5:00 pm (timezone not stated on the page; the organiser is Texas-based), fully online and free, with 1 CE hour (meets the Texas 50% requirement; other jurisdictions should check locally).",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓頁面（Kate Walker Training；2026 年 11 月 19 日下午 5 時；免費；1 CE；經原頁核實；頁面未註明時區與會議平台，主辦機構位於德州，推定為美國中部時間，待查證）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "頁面未註明時區與會議平台；CE 學分以德州要求為準，香港、澳門與台灣的專業學分認可須自行核對；出席須開鏡頭並填寫出席表格方可獲學分證明。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "講者：Tara Fox 博士（PhD, LPC-S），與 Kate Walker 對談，設即場問答",
+  "學習目標：分辨選實習地點與選督導的評估重點；識別督導面試值得問的問題；認出簽約前的警號；督導未盡責時的自保策略；比較 LPC、LMFT 與社工的督導要求",
+  "日期：2026 年 11 月 19 日下午 5 時（頁面未註明時區；主辦機構位於德州）",
+  "費用：免費參加；可獲至少 1 小時繼續教育學分，須開鏡頭並填寫出席表格",
+  "對象：輔導實習生（LPC／LMFT／社工）、準督導與督導",
+  "形式：線上直播；Step it UP 會員可獲重播作非同步 CE"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "督導",
+  "免費培訓",
+  "CE",
+  "實習生"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "你揀督導嗰陣，會問邊三條問題去判斷佢係咪適合你？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "Kate Walker Training",
+  "price": "免費",
+  "price_tier": "免費",
+  "ce_credits": "1 CE Hour（符合德州 50% 要求；其他地區須自行核對）",
+  "language": "英語",
+  "deadline": "",
+  "event_date": "2026-11-19",
+  "format": "線上直播",
+  "event_time_note": "17:00（頁面未註明時區；主辦機構位於德州）"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://katewalkertraining.lpages.co/webinar-landing-page/",
+   "author_handle": "",
+   "author_name": "Kate Walker Training",
+   "title": "Free CE Webinars for Counselors: Raising the Standard for Supervision with Dr. Tara Fox (19 November 2026)",
+   "content": "培訓頁面：免費網上督導講座，2026 年 11 月 19 日下午 5 時，1 CE。",
+   "posted_at": "2026-11-11T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-11T13:33:22+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "raising-the-standard-for-supervision-kate-walker-webinar",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "free-clinical-supervision-forum-from-concern-to-remediation",
+   "title_zh": "免費督導 CE 直播：督導中的困難處理，從擔憂到補救（11/13）",
+   "title_en": "Free clinical supervision forum: from concern to remediation",
+   "summary_zh": "Telehealth Certification Institute 的「臨床督導論壇」是免費的線上直播系列，每場 1.5 小時 CE，APA、NBCC、ASWB ACE、NAADAC 等均有認可。2026 年 11 月 13 日（美東 13:00–14:30）由 Amie Bryant, LCSW, CAS, ACS 主講「Managing Difficulties in Clinical Supervision: From Concern to Remediation」，討論研究所訓練留下的落差，以及如何在不同能力階段支持受督者成長。",
+   "summary_en": "Telehealth Certification Institute runs a free live Clinical Supervision Forum webinar series worth 1.5 CE per session (APA, NBCC, ASWB ACE, NAADAC and NY State approvals). The Nov 13, 2026 session (1:00–2:30 pm ET), presented by Amie Bryant, LCSW, CAS, ACS, covers managing difficulties in supervision from concern to remediation and supporting supervisees across competency stages.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "督導",
+    "臨床督導",
+    "受督者發展",
+    "繼續教育",
+    "免費"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 3.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-05T03:24:52+00:00",
+   "training": {
+    "provider": "Telehealth Certification Institute",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "1.5 小時 CE（APA、NBCC、ASWB ACE、NAADAC、紐約州相關委員會認可）",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "2026-11-13",
+    "format": "線上直播（webinar）"
+   },
+   "deadline_soon": false
+  }
+ ],
+ "evidence_quote": "Raising the Standard for Supervision",
+ "page_date": ""
+}

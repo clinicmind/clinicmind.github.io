@@ -1,0 +1,74 @@
+{
+ "title_zh": "免費網上培訓：ADHD 對家長／祖父母／照顧者的影響——家中與學校的日常挑戰（11 月 18 日，Barbara van den Hoofdakker）",
+ "title_en": "World Federation ADHD webinar impact ADHD parents grandparents carers home schools November 2026",
+ "summary_zh": "世界 ADHD 聯合會免費每月網上講座系列，2026 年 11 月 18 日星期三 13:00（柏林時間，約香港時間 20:00），由荷蘭格羅寧根大學臨床心理學教授 Barbara van den Hoofdakker 主講「ADHD 對家長／祖父母／照顧者在家庭與學校的影響」。講座探討 ADHD 兒童家長與教師面對的日常挑戰：ADHD 相關行為如何增加壓力、減低自我效能，以及影響親子與師生關係；討論常見互動模式，包括衝突、頻繁糾正與升級的負面交流。對象為與 ADHD 兒童工作的心理健康專業人員與教師。費用全免，登記經 Microsoft Forms 連結。",
+ "summary_en": "The World Federation of ADHD's free monthly live webinar series holds its next session on Wednesday 18 November 2026 at 1:00 p.m. Berlin time (about 8:00 p.m. Hong Kong time), with Professor Barbara van den Hoofdakker of the University of Groningen presenting 'Impact of ADHD on parents / grandparents / carers at home and in schools'. It explores the everyday challenges faced by parents and teachers of children with ADHD: how ADHD-related behaviours can add stress, reduce self-efficacy and strain parent-child and teacher-child relationships, including common interaction patterns such as conflict, frequent corrections and escalating negative exchanges. It is aimed at mental health professionals and teachers working with children with ADHD. Attendance is free; registration is via a Microsoft Forms link.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓頁面（World Federation of ADHD；2026 年 11 月 18 日 13:00 柏林時間；免費；線上；經原頁核實，2026-11-15）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "時間為柏林時間（CET，約香港時間 20:00）；頁面未列明講座時長與錄影安排；登記經 Microsoft Forms 連結。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "講者：Barbara van den Hoofdakker 教授（荷蘭格羅寧根大學臨床心理學教授；Accare 兒童研究中心；專研行為困難兒童治療，包括 ADHD）",
+  "主題：ADHD 對家長／祖父母／照顧者在家庭與學校的影響",
+  "日期：2026 年 11 月 18 日星期三 13:00（柏林時間，約香港時間 20:00）",
+  "內容：ADHD 相關行為如何增加壓力、減低自我效能、影響親子與師生關係；常見互動模式：衝突、頻繁糾正、升級的負面交流",
+  "費用：免費參加",
+  "對象：與 ADHD 兒童工作的心理健康專業人員與教師"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "ADHD",
+  "家長",
+  "照顧者",
+  "教師",
+  "免費培訓",
+  "網上講座"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長話「日日鬧交，愈鬧愈差」，你會點用呢場講座的互動模式框架去回應？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "World Federation of ADHD（世界 ADHD 聯合會）",
+  "price": "免費",
+  "price_tier": "免費",
+  "ce_credits": "",
+  "language": "英語",
+  "deadline": "",
+  "event_date": "2026-11-18",
+  "format": "線上直播",
+  "event_time_note": "13:00（柏林時間，約香港時間 20:00）"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.adhd-federation.org/education/live-webinars",
+   "author_handle": "",
+   "author_name": "World Federation of ADHD",
+   "title": "Live Webinars - Education - World Federation of ADHD (18 November 2026: Impact of ADHD on parents / grandparents / carers at home and in schools)",
+   "content": "免費網上培訓：2026 年 11 月 18 日，van den Hoofdakker 主講 ADHD 對家長／照顧者的影響。",
+   "posted_at": "2026-11-15T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-15T13:35:18+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "world-federation-adhd-webinar-impact-adhd-parents-grandparen",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [],
+ "evidence_quote": "Impact of ADHD on parents",
+ "page_date": ""
+}

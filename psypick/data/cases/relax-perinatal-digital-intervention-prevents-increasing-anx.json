@@ -1,0 +1,166 @@
+{
+ "title_zh": "RCT：孕期數碼治療 RELAX 可減低焦慮惡化，八週 GAD-7 平均低 1.5 分（268 人）",
+ "title_en": "RELAX perinatal digital intervention prevents increasing anxiety RCT",
+ "summary_zh": "倫敦國王學院主導的二期隨機對照試驗，268 名高反覆負面思考、輕至中度焦慮的孕婦（16–28 週），比較自導式數碼治療 RELAX（八週 12 節：8 節網上＋4 節 SMS，含詮釋偏誤修正訓練）加常規照顧與單用常規照顧。八週時 RELAX 組 GAD-7 平均低 1.5 分（95% CI −2.4 至 −0.6；效應量 −0.42），抑鬱（PHQ-9 −0.8、EPDS −1.1）、反覆負面思考（−2.7）、憂慮（−3.6）與圍產期焦慮（PASS −5.5）亦較低；焦慮惡化者常規組佔 8.2%，RELAX 組只佔 1.5%。至 36 週時，一般焦慮、產後抑鬱與反覆負面思考的效果維持。",
+ "summary_en": "A phase 2b randomised clinical trial led by King's College London randomised 268 pregnant participants with high repetitive negative thinking and up to moderate anxiety (16-28 weeks' gestation) to the self-led digital intervention RELAX (12 sessions over 8 weeks: 8 online plus 4 SMS sessions, including cognitive bias modification for interpretation) plus usual care or usual care alone. At 8 weeks, GAD-7 was 1.5 points lower in the RELAX arm (95% CI -2.4 to -0.6; effect size -0.42), with depression (PHQ-9 -0.8, EPDS -1.1), repetitive negative thinking (-2.7), worry (-3.6) and perinatal anxiety (PASS -5.5) also lower; anxiety deteriorated in 8.2% of the usual-care arm versus 1.5% of the RELAX arm. Effects on general anxiety, postnatal depression and repetitive negative thinking were sustained at 36 weeks.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "隨機對照試驗（JAMA Network Open，2026-11-04 線上刊出；DOI: 10.1001/jamanetworkopen.2026.40518；二期多中心試驗，n=268；經 JAMA 原文頁核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "樣本以英國白人、高學歷孕婦為主，推廣性有限；參加者自選、未設盲、結果屬自填量表；基線焦慮只屬輕至中度；介入完成率偏低；追蹤只至 36 週，未量度子女結果；樣本量只為八週主要結果設算，次要結果解讀需謹慎。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：268 名孕婦（16–28 週），高反覆負面思考、輕至中度焦慮；每組 134 人",
+  "介入：RELAX，八週 12 節自導式數碼治療（8 節網上＋4 節 SMS），加常規照顧；對照為單用常規照顧",
+  "八週主要結果：GAD-7 平均低 1.5 分（95% CI −2.4 至 −0.6；P=.001；效應量 −0.42）",
+  "次要結果：PHQ-9 −0.8、EPDS −1.1、反覆負面思考 −2.7、憂慮 −3.6、圍產期焦慮 PASS −5.5",
+  "焦慮惡化：常規組 11 人（8.2%），RELAX 組 2 人（1.5%）；OR 5.84",
+  "36 週時一般焦慮、產後抑鬱與反覆負面思考的效果維持；無與介入相關的不良事件"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "孕期焦慮",
+  "數碼治療",
+  "RCT",
+  "反覆負面思考",
+  "預防"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "孕婦個案有高反覆負面思考但未達焦慮症診斷時，你會如何用這類低強度數碼介入作預防，而不只等症狀惡化？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856249",
+   "author_handle": "",
+   "author_name": "Hirsch 等（倫敦國王學院）",
+   "title": "RELAX Perinatal Digital Intervention to Prevent Increasing Anxiety: A Randomized Clinical Trial (JAMA Network Open; DOI: 10.1001/jamanetworkopen.2026.40518)",
+   "content": "期刊原文頁：RELAX 預防孕期焦慮惡化的隨機對照試驗，含樣本、介入與主要結果。",
+   "posted_at": "2026-11-04T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-07T13:58:54+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "relax-perinatal-digital-intervention-prevents-increasing-anx",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "mmb-for-moms-rct-online-mindfulness-course-cuts-postpartum-d",
+   "title_zh": "RCT：線上正念認知課程 MMB for Moms 降低抑鬱復發風險（孕期至產後六個月）",
+   "title_en": "MMB for Moms RCT: online mindfulness course cuts postpartum depression relapse",
+   "summary_zh": "The Lancet Public Health 的隨機對照試驗招募 500 名有抑鬱病史、基線時非發作期的孕婦（全美 50 州）。參加八節自定進度線上正念認知課程 MMB for Moms 的一組，至產後六個月的抑鬱復發率為 33%（81/249），常規照顧組為 44%（111/251），風險比 HR 0.74（95% CI 0.56–0.99），相對風險低約 26%。",
+   "summary_en": "A randomised controlled trial in The Lancet Public Health enrolled 500 pregnant participants with a history of depression who were not in an episode at baseline, across all 50 US states. Those offered MMB for Moms, an eight-session self-paced digital mindfulness-based cognitive course, had a depression relapse rate of 33% (81/249) through six months postpartum versus 44% (111/251) with usual care (HR 0.74, 95% CI 0.56-0.99), about 26% lower relative risk.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "產後抑鬱",
+    "正念",
+    "MBCT",
+    "預防",
+    "RCT"
+   ],
+   "first_seen_at": "2026-10-28T08:40:00+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-20T00:00:00+00:00"
+  },
+  {
+   "slug": "hsinchu-free-online-msc-training-perinatal-care-workers",
+   "title_zh": "新竹免費線上課：孕產照護人員學正念自我疼惜（11 月 12 日）",
+   "title_en": "Hsinchu free online MSC training perinatal care workers",
+   "summary_zh": "新竹市衛生局與新竹市社區心理衛生中心主辦的免費線上培訓。2026 年 11 月 12 日（星期四）14:00-16:00 以 Microsoft Teams 線上授課，由鍾雅惠諮商心理師主講「孕產心理健康守門員——正念自我疼惜（MSC）於孕產期心理照護之理論與實務應用」，對象為新竹市孕產婦照護人員，限額 100 人，11 月 6 日截止報名。",
+   "summary_en": "A free online training from the Hsinchu City Health Bureau and Hsinchu City Community Mental Health Center. On 12 November 2026 (Thursday) 14:00-16:00, via Microsoft Teams, Chung Ya-Hui, counseling psychologist, presents mindful self-compassion (MSC) in perinatal mental health care theory and practice, for perinatal care workers in Hsinchu City. Places are limited to 100; registration closes 6 November.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "正念自我疼惜",
+    "孕產期",
+    "心理健康守門員",
+    "免費線上課"
+   ],
+   "first_seen_at": "2026-10-31T13:35:00+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-31T00:00:00+00:00",
+   "training": {
+    "provider": "新竹市衛生局、新竹市社區心理衛生中心",
+    "price": "FREE（免費）",
+    "price_tier": "免費",
+    "ce_credits": "原頁未載明",
+    "language": "中文",
+    "deadline": "2026-11-06",
+    "event_date": "2026-11-12",
+    "format": "線上視訊（Microsoft Teams）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "online-program-for-anxious-parents-prevents-child-anxiety",
+   "title_zh": "焦慮家長的自助線上課程能預防孩子焦慮嗎？1,811 人 RCT 的小效果與低完成率",
+   "title_en": "Online program for anxious parents prevents child anxiety",
+   "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。",
+   "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "焦慮",
+    "親職介入",
+    "預防",
+    "數位介入",
+    "階梯式照護"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.43,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-21T00:00:00+00:00"
+  }
+ ]
+}

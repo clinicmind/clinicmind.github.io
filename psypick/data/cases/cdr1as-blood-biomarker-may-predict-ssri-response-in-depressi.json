@@ -1,0 +1,153 @@
+{
+ "title_zh": "血液環狀 RNA CDR1as 或可預測 SSRI 治療反應（尚待獨立驗證）",
+ "title_en": "CDR1as blood biomarker may predict SSRI response in depression",
+ "summary_zh": "Molecular Psychiatry 研究分析 EMBARC 與 ANTARES 兩個臨床隊列的治療前血液樣本。對舍曲林（sertraline）無反應者的基線 CDR1as 水平，比有反應者高約 80%。CDR1as 可預測 SSRI 類藥物的反應與緩解，但不能預測安慰劑或安非他酮（bupropion）的效果。作者團隊包括開發此檢測的公司 Circular Genomics 成員。",
+ "summary_en": "A Molecular Psychiatry study analysed pre-treatment blood samples from the EMBARC and ANTARES cohorts. Baseline CDR1as levels were about 80% higher in sertraline non-responders than responders. CDR1as predicted response and remission with SSRIs as a class, but not with placebo or bupropion. The author team includes members of Circular Genomics, the company developing the test.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊生物標記研究（Molecular Psychiatry, DOI: 10.1038/s41380-026-03491-w），經 PsyPost 2026-10-22 報道核對",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "研究由檢測開發公司團隊主導，屬利益相關證據；屬隊列樣本的事後分析，檢測未獲臨床批准，現階段不能用來指導處方。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "基線 CDR1as 高者對舍曲林反應較差（無反應者水平高約 80%）",
+  "預測力限於 SSRI 類藥物，不及於安慰劑與安非他酮",
+  "動物與細胞研究顯示 CDR1as 受 5-HT2A 與 BDNF 信號調控",
+  "作者團隊包括檢測開發公司 Circular Genomics 成員，需獨立重複驗證"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "抑鬱",
+  "SSRI",
+  "生物標記",
+  "精準精神醫學"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案問「有冇驗血知邊隻藥啱我」時，你會如何說明這類檢測的現況與限制？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.psypost.org/blood-test-could-predict-if-an-antidepressant-will-work-for-you/",
+   "author_handle": "",
+   "author_name": "PsyPost",
+   "title": "New biological marker could end trial and error in depression care",
+   "content": "報道 Molecular Psychiatry 的 CDR1as 研究：以治療前血液環狀 RNA 水平預測 SSRI 反應，含特異性與動物機制結果。",
+   "posted_at": "2026-10-22T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "cdr1as-blood-biomarker-may-predict-ssri-response-in-depressi",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "petrushka-ml-decision-support-for-antidepressants-rct",
+   "title_zh": "機器學習決策支援幫忙挑抗憂鬱劑：PETRUSHKA RCT 降低 8 週停藥",
+   "title_en": "PETRUSHKA ML decision support for antidepressants RCT",
+   "summary_zh": "Mental Elf 評析 Cipriani 等人 2026 年刊於 JAMA 的 PETRUSHKA 隨機對照試驗。這個決策支援工具以機器學習預測模型結合病人對副作用的偏好，在巴西、英國、加拿大 47 個據點納入 520 位重度憂鬱症患者（主要分析 493 人）；8 週停藥人數 41 對 69（RR=0.62），24 週停藥無明顯差異，但憂鬱與焦慮分數較低。",
+   "summary_en": "The Mental Elf reviews Cipriani et al.'s 2026 JAMA RCT of PETRUSHKA, a decision-support tool combining machine-learning prediction models with patients' side-effect preferences. Across 47 sites in Brazil, the UK and Canada (520 eligible, 493 analysed), 8-week discontinuation was 41 vs 69 (RR=0.62); 24-week discontinuation did not clearly differ, though depression and anxiety scores were lower.",
+   "category": "臨床與治療應用",
+   "kind": "research",
+   "model_names": [
+    "PETRUSHKA"
+   ],
+   "tags": [
+    "機器學習",
+    "決策支援",
+    "抗憂鬱劑",
+    "共享決策",
+    "RCT"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.534,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-30T00:00:00+00:00"
+  },
+  {
+   "slug": "digital-phenotyping-relapse-prediction-systematic-review",
+   "title_zh": "系統性回顧：手機被動感測可提前 1–4 週預測精神疾病復發，但尚無研究證明改善結果",
+   "title_en": "Digital phenotyping relapse prediction systematic review",
+   "summary_zh": "BMC Psychiatry 的系統性回顧納入 52 篇、4,814 名參與者的研究，被動數位表型對 1–4 週後復發的預測 AUC 介於 0.70–0.88，多模態優於單一模態，個人化模型優於群體模型。睡眠改變、活動量與移動範圍下降、社交聯絡減少最具預測力；但 75% 研究偏誤風險高，多缺外部驗證，且沒有任何研究證明能改善臨床結果。",
+   "summary_en": "A BMC Psychiatry systematic review of 52 studies (4,814 participants) found passive digital phenotyping predicted relapse 1–4 weeks ahead with AUCs of 0.70–0.88; multimodal and individual-level models performed better. Sleep changes, reduced activity and mobility, and less social communication were most predictive, but 75% of studies had high risk of bias, few had external validation, and none showed improved clinical outcomes.",
+   "category": "評估與篩檢",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "數位表型",
+    "被動感測",
+    "復發預測",
+    "穿戴裝置",
+    "系統性回顧"
+   ],
+   "first_seen_at": "2026-09-30T13:03:54+00:00",
+   "evidence_level": 4,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.518,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-05-09T00:00:00+00:00"
+  },
+  {
+   "slug": "first-evaluation-of-n170-latency-as-an-eeg-biomarker-of-trea",
+   "title_zh": "N170 潛伏期作為自閉症 arbaclofen 治療反應 EEG 生物標記的首次評估",
+   "title_en": "First evaluation of N170 latency as an EEG biomarker of treatment response in an arbaclofe",
+   "summary_zh": "在 122 名 5–17 歲自閉症兒童青少年的 arbaclofen 雙盲 RCT 中，N170 潛伏期在 16 週內保持穩定，藥物未改變 N170；基線 N170 亦未能預測社交功能的變化。研究同時證實多中心自閉症藥物試驗整合 EEG 的可行性。",
+   "summary_en": "In a 122-participant RCT of arbaclofen in autistic children, N170 latency did not change with treatment and baseline N170 did not predict outcome; EEG integration in multi-site trials proved feasible.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "特殊教育需要",
+    "自閉症",
+    "EEG生物標記",
+    "隨機對照試驗",
+    "藥物研究"
+   ],
+   "first_seen_at": "2026-10-03T01:09:46+00:00",
+   "evidence_level": 3,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 0.859,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-23T00:00:00+00:00"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "title_zh": "英格蘭三代兒童追蹤：有精神科診斷的兒童三年後惡化比例由 34% 升至 52%",
+ "title_en": "Change in severity and impact of child psychiatric disorders over 3 years England surveys 1999 2004 2017",
+ "summary_zh": "Journal of Child Psychology and Psychiatry 2026 年 9 月 30 日網上刊出英格蘭三次全國概率抽樣調查趨勢分析，比較 1999、2004 與 2017 年基線 5 至 13 歲、符合 ICD-10 精神科診斷（包括 ADHD）的兒童，三年後（2002、2007、2020 年）的困難程度與功能影響。基線有診斷的兒童在三年後困難較多，而這種關聯逐代增強；2017 年組別的兒童更常報告問題影響較大。個人變化亦呈時間梯度：1999 年組別 34% 在三年後惡化，2017 年組別升至 52%，好轉比例相應下降。研究由 Jessica M. Armitage、Stephan Collishaw 等領導，資助來自 Wolfson Foundation；作者申報無利益衝突。",
+ "summary_en": "The Journal of Child Psychology and Psychiatry published online on 30 September 2026 a trend analysis of three nationally representative probability surveys in England (1999, 2004 and 2017), comparing children aged 5 to 13 at baseline who met criteria for an ICD-10 psychiatric disorder (including ADHD) on difficulties and functional impact three years later (follow-ups in 2002, 2007 and 2020). Having a disorder at baseline predicted greater difficulties at follow-up in every survey, and the association grew stronger with each successive cohort; children in the 2017 survey were also more likely to report a greater impact of their problems. Individual change showed the same gradient: 34% of children with a disorder in 1999 had deteriorated by three-year follow-up, compared with 52% of those in 2017, with the proportion improving falling correspondingly. Led by Jessica M. Armitage and Stephan Collishaw; funded by the Wolfson Foundation; the authors declare no conflicts of interest.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "英格蘭三次全國概率抽樣調查趨勢分析（JCPP 2026 年 9 月 30 日網上刊出；DOI: 10.1111/jcpp.70231；經卡迪夫大學儲存庫出版商版本與 Crossref 摘要核實）",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "觀察性趨勢分析，不能確立惡化比例上升的原因；2020 年追蹤程序與 2002、2007 年追蹤不同，須小心解讀；困難變化以 SDQ 總分增減 3 分或以上界定，未必等於臨床惡化；結果反映英格蘭情況，推廣至其他地區須小心。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：英格蘭三次全國概率抽樣調查（1999、2004 年英國兒童青少年精神健康調查，2017 年英格蘭兒童青少年精神健康調查），基線 5 至 13 歲兒童，各有三年追蹤（2002、2007、2020 年）",
+  "方法：基線診斷以 DAWBA 結構化診斷評估按 ICD-10 準則評定，包括焦慮、抑鬱、品行、過度活躍／ADHD、飲食與抽動障礙；三年後困難程度以家長與兒童自評 SDQ 總分及影響補充題量度",
+  "主要結果：三個調查中，基線有診斷的兒童三年後困難分數均較高；關聯強度逐代上升，2017 年組別的家長與兒童自評困難均較 1999 與 2004 年組別更強",
+  "個人變化：1999 年組別 34% 在三年後惡化（SDQ 總分升 3 分或以上），2017 年組別升至 52%；好轉比例相應下降",
+  "限制：觀察性趨勢分析；2020 年追蹤程序與之前不同；未探討惡化原因；只包括英格蘭兒童"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "精神科診斷",
+  "世代趨勢",
+  "SDQ",
+  "英格蘭",
+  "JCPP",
+  "功能受損"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長問「點解而家啲細路有咗診斷之後好似仲難好返」，你會點用 34% 升至 52% 的惡化比例與觀察性限制去回應？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1111/jcpp.70231",
+   "author_handle": "",
+   "author_name": "Armitage、Newlove-Delgado、Ford、Collishaw 等（卡迪夫大學 Wolfson 中心）",
+   "title": "Change in the severity and impact of child psychiatric disorders over 3 years: an analysis of trends using the national child mental health surveys of England from 1999, 2004, and 2017 (JCPP; DOI: 10.1111/jcpp.70231)",
+   "content": "英格蘭三代追蹤：有精神科診斷的兒童三年後惡化比例由 1999 年 34% 升至 2017 年 52%。",
+   "posted_at": "2026-09-30T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-16T13:35:48+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "change-in-severity-and-impact-of-child-psychiatric-disorders",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

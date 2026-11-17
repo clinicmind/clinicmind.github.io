@@ -1,0 +1,128 @@
+{
+ "title_zh": "研究：挪威基層醫療心理求助升幅，主要來自症狀編碼而非確診（2010-2024，逾 372 萬人）",
+ "title_en": "Norway primary care mental health consultations 2010-2024",
+ "summary_zh": "《Journal of Epidemiology & Community Health》2026 年刊出的挪威全國登記研究，分析 2010 至 2024 年 10 至 46 歲全部人口（N=3,728,002）的基層醫療求助紀錄。心理健康求助盛行率由 9.9% 升至 16.0%（相對升幅 62%），女性由 11.8% 升至 19.6%，男性由 8.2% 升至 12.6%。升幅主要來自症狀編碼：焦慮症狀求助佔比由 0.44% 升至 1.7%，焦慮症診斷編碼僅由 0.95% 升至 1.4%；抑鬱症狀由 0.73% 升至 1.8%，抑鬱症診斷則維持 2.8% 至 2.7%。作者認為模式可能反映求助門檻降低或編碼習慣改變，但不能排除潛在困擾真的增加。",
+ "summary_en": "A Norwegian nationwide register-based study published in the Journal of Epidemiology & Community Health in 2026 analysed primary care records for the entire population aged 10-46 from 2010 to 2024 (N=3,728,002). Mental health consultation prevalence rose from 9.9% to 16.0% (a 62% relative increase): 11.8% to 19.6% for girls/women and 8.2% to 12.6% for boys/men. The rise was driven mainly by symptom-coded consultations: anxiety-symptom shares rose from 0.44% to 1.7% while anxiety-disorder coding rose only from 0.95% to 1.4%; depressive-symptom shares rose from 0.73% to 1.8% while depressive-disorder coding was stable at 2.8% to 2.7%. The authors suggest lowered help-seeking thresholds and/or coding changes, while not excluding a real rise in underlying distress.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊原創研究（Journal of Epidemiology & Community Health 2026;80(10):777，DOI 10.1136/jech-2026-226059，Beck、Reme、Worn，挪威公共衛生研究所）；數字照 BMJ 摘要原文抄錄",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "重複橫斷面登記研究，非因果設計：症狀編碼升幅不能證明求助者病情沒有惡化，也不能證明診斷減少；行政數據不含症狀嚴重度，無法確定升幅機制。臨床上不應以此否定求助者的困擾，症狀層面的求助增加本身仍需認真對待。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "研究：Beck、Reme、Worn，Journal of Epidemiology & Community Health 2026;80(10):777，DOI 10.1136/jech-2026-226059；機構：挪威公共衛生研究所；資助：挪威研究委員會，作者聲明無利益衝突，外部同儕審查",
+  "設計：全國重複橫斷面研究，2010 至 2024 年挪威 10 至 46 歲全部人口（N=3,728,002），以基層醫療全科醫生聯繫的行政登記資料區分症狀編碼（ICPC-2 P01、P03）與疾病編碼（P74、P76）",
+  "整體：心理健康求助盛行率由 9.9% 升至 16.0%，相對升幅 62%；女性由 11.8% 升至 19.6%（升 66%），男性由 8.2% 升至 12.6%（升 54%）",
+  "焦慮：症狀編碼求助佔比由 0.44% 升至 1.7%（相對升幅約 286%），疾病編碼僅由 0.95% 升至 1.4%",
+  "抑鬱：症狀編碼由 0.73% 升至 1.8%，疾病編碼維持 2.8% 至 2.7%，大致穩定",
+  "2020 年後，21 至 30 歲成人的抑鬱症狀盛行率加速上升；作者結論：模式提示求助門檻降低或編碼改變，但不能排除潛在困擾增加，對資源規劃有啟示",
+  "限制：行政數據不含症狀嚴重度，無法提供升幅機制的確切證據；專家評論亦提醒，不應據此斷言診斷減少或痛苦沒有增加"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "挪威",
+  "基層醫療",
+  "求助行為",
+  "焦慮",
+  "抑鬱",
+  "登記研究"
+ ],
+ "population": [
+  "青少年",
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "當來訪者以症狀而非診斷來求助時，你會如何在不急於貼標籤的前提下，評估困擾程度與支援需要？",
+  "求助數字上升時，你會如何向服務規劃者說明症狀編碼與疾病編碼的分別，避免資源只按診斷數字分配？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://jech.bmj.com/content/80/10/777",
+   "author_handle": "",
+   "author_name": "Kathryn Christine Beck、Bjorn-Atle Reme、Jonathan Worn（挪威公共衛生研究所）",
+   "title": "Secular trends in primary care utilisation for mental health problems: a Norwegian register-based population-wide study",
+   "content": "BMJ 原文摘要：挪威 2010 至 2024 年 10 至 46 歲全部人口（N=3,728,002）基層醫療登記研究，心理求助盛行率由 9.9% 升至 16.0%，升幅主要來自症狀編碼。",
+   "posted_at": "2026-11-03T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-03T13:30:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "norway-primary-care-mental-health-consultations-2010-2024",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "social-comparison-on-social-media-strongest-link-adolescent",
+   "title_zh": "研究：青少年在社交媒體上與人比較，與焦慮抑鬱症狀關聯最強",
+   "title_en": "Social comparison on social media strongest link adolescent mental health symptoms",
+   "summary_zh": "Child and Adolescent Psychiatry and Mental Health 於 2026 年 10 月 17 日刊出的橫斷面研究，分析挪威東南部 21 間學校 4,011 名青少年（平均 14 歲，2025 年秋季問卷）。在社交媒體使用五個面向中，「與人比較」對五種症狀的預測力最強：內化症狀（廣泛焦慮、社交焦慮、抑鬱）解釋約 20–26% 變異，外化症狀（ADHD、對立違抗）解釋 6–9%；「消磨時間」與「尋求支持」則幾無獨立關聯。研究不能證明因果關係。",
+   "summary_en": "A cross-sectional study in Child and Adolescent Psychiatry and Mental Health (published 17 October 2026) analysed 4,011 Norwegian adolescents (mean age 14) from 21 schools in South-Eastern Norway. Among five aspects of social media use, social comparison was the strongest predictor across all five symptom domains, accounting for about 20-26% of variance in internalizing symptoms (generalized anxiety, social anxiety, depression) and 6-9% in externalizing symptoms (ADHD, oppositional defiant disorder); passing time and seeking support showed negligible independent associations. The design cannot establish causation.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "社交媒體",
+    "社交比較",
+    "青少年",
+    "焦慮抑鬱"
+   ],
+   "first_seen_at": "2026-10-29T13:35:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-17T00:00:00+00:00"
+  },
+  {
+   "slug": "stress-in-america-2026-ai-users-friend-mental-health-profess",
+   "title_zh": "APA《2026 美國壓力調查》：不確定年代下，近半 AI 使用者以 AI 充當朋友或心理專業角色",
+   "title_en": "Stress in America 2026 AI users friend mental health professional role",
+   "summary_zh": "美國心理學會 10 月 22 日公布 2026 年《美國壓力調查》，由 Harris Poll 於 7 月 29 日至 8 月 24 日訪問 3,132 名美國成人。77% 以生活成本為重要壓力源，74% 以國家未來為壓力源，47% 因壓力在過去一年減少至少一種社交活動。在 AI 使用者中，49% 曾與 AI 如朋友般對話，47% 曾以 AI 擔當與心理健康專業人員相近的角色，10% 表示依賴 AI 多於親友提供建議。APA 提醒，便利不等於專業，AI 不能取代心理師的臨床判斷與人際連結。",
+   "summary_en": "APA's Stress in America 2026 survey (Harris Poll, 3,132 US adults, July 29–August 24, 2026) finds cost of living (77%) and the future of the nation (74%) as leading stress sources. Among AI users, 49% had conversed with AI as a friend and 47% had used it in a role comparable to a mental health professional.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "壓力調查",
+    "AI使用",
+    "人機互動",
+    "社交退縮"
+   ],
+   "first_seen_at": "2026-11-03T09:30:00+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人",
+    "一般大眾",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-22T00:00:00+00:00"
+  }
+ ]
+}

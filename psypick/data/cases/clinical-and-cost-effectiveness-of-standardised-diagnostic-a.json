@@ -1,0 +1,70 @@
+{
+ "title_zh": "DAWBA 標準化診斷評估無助 CAMHS 情緒困難兒童診斷：1,225 人 RCT，獲 JCPP 2026 最佳論文獎",
+ "title_en": "Clinical and cost effectiveness of standardised diagnostic assessment children adolescents emotional difficulties STADIA randomised controlled trial",
+ "summary_zh": "Journal of Child Psychology and Psychiatry 2025 年第 66 卷第 6 期刊出 STADIA 多中心隨機對照試驗，並獲 JCPP 2026 年度最佳論文獎（2026 年 11 月 12 日公布）。研究在英格蘭八間大型 NHS 信託的兒童青少年精神科服務，隨機分配 1,225 名 5 至 17 歲因情緒困難被轉介的兒童青少年，接受 DAWBA 標準化診斷評估加常規評估（615 人）或只接受常規評估（610 人）。12 個月時，介入組 68 人（11%）獲情緒障礙診斷，對照組 72 人（12%），調整風險比 0.94（95% CI 0.70–1.28）；介入不具成本效益，次要結果亦無差異，CAMHS 接受轉介比例相若（45% 對 43%）。研究由 Kapil Sayal 等領導（諾定咸大學）；利益衝突聲明載於致謝部分。",
+ "summary_en": "The Journal of Child Psychology and Psychiatry (2025;66(6):805-820) published the STADIA multi-centre randomised controlled trial, which won the JCPP Best Paper Award 2026 (announced 12 November 2026). Across eight large NHS Trusts in England, 1,225 children and young people aged 5 to 17 with emotional difficulties referred to CAMHS were randomised to receive the Development and Well-Being Assessment (DAWBA) standardised diagnostic assessment plus assessment-as-usual (615) or assessment-as-usual alone (610). At 12 months, 68 participants (11%) in the intervention group received an emotional disorder diagnosis versus 72 (12%) in the control group (adjusted risk ratio 0.94; 95% CI 0.70-1.28); the intervention was not cost-effective, with no differences in secondary outcomes, and CAMHS acceptance of the index referral was similar (45% vs 43%). Led by Kapil Sayal and colleagues (University of Nottingham); conflict of interest disclosures are in the Acknowledgements.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 3,
+ "evidence_note": "多中心隨機對照試驗（JCPP 2025 年第 66 卷第 6 期，2025 年 1 月 7 日網上刊出；1,225 人；試驗註冊 ISRCTN15748675；DOI: 10.1111/jcpp.14090；經諾定咸大學儲存庫出版商版本與 PubMed 核實；獲 JCPP 2026 年度最佳論文獎，2026 年 11 月 12 日公布）",
+ "ethics_flags": [
+  {
+   "flag": "篩檢與標籤",
+   "note": "診斷本身在臨床實務具爭議（污名與標籤）；研究顯示加做標準化評估未必改善診斷結果，引用時須避免把「做多個評估」等同「更好照顧」，亦不可把零結果解讀為評估工具本身無用。",
+   "refs": [
+    "評估與篩檢｜假陽性與標籤效應"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "務實性試驗：研究未追蹤臨床醫生實際查看 DAWBA 報告的程度，零結果可能反映執行方式而非工具本身；只包括非緊急轉介；結果限於英格蘭 CAMHS 場景；利益衝突聲明載於致謝部分，未於摘要列出。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：英格蘭八間大型 NHS 信託 CAMHS 轉介的 5 至 17 歲情緒困難兒童青少年 1,225 人（58% 女性），隨機分配 615 人介入組、610 人對照組；試驗註冊 ISRCTN15748675",
+  "方法：多中心雙臂平行隨機對照試驗，介入組接受 DAWBA 標準化診斷評估加常規評估，對照組只接受常規評估；主要結果為隨機分配後 12 個月內臨床醫生作出的情緒障礙診斷",
+  "主要結果：12 個月時獲情緒障礙診斷者介入組 68 人（11%），對照組 72 人（12%），調整風險比 0.94（95% CI 0.70–1.28）；介入組依從率（全部或部分完成）80%（494／615）",
+  "次要結果：介入不具成本效益；服務相關與參加者自評次要結果均無差異；CAMHS 接受轉介比例介入組 45%，對照組 43%（風險比 1.06，95% CI 0.94–1.19）",
+  "限制：務實性試驗，未追蹤臨床醫生使用 DAWBA 報告的程度；只包括非緊急轉介；英格蘭 CAMHS 場景"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "DAWBA",
+  "標準化診斷評估",
+  "CAMHS",
+  "隨機對照試驗",
+  "JCPP",
+  "情緒障礙"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長要求「做個標準化評估先安心」，你會點用 STADIA 的零結果去傾評估與臨床判斷的關係？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1111/jcpp.14090",
+   "author_handle": "",
+   "author_name": "Sayal、Wyatt、Partlett、Montgomery 等（諾定咸大學）",
+   "title": "The clinical and cost effectiveness of a STAndardised DIagnostic Assessment for children and adolescents with emotional difficulties: the STADIA multi-centre randomised controlled trial (JCPP 2025;66(6):805-820; DOI: 10.1111/jcpp.14090)",
+   "content": "STADIA 試驗：1,225 名 CAMHS 轉介兒童，DAWBA 加常規評估與只常規評估的診斷率相若（11% 對 12%），獲 JCPP 2026 最佳論文獎。",
+   "posted_at": "2025-01-07T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-16T13:35:48+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "clinical-and-cost-effectiveness-of-standardised-diagnostic-a",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

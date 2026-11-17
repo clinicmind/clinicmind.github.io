@@ -1,0 +1,173 @@
+{
+ "title_zh": "研究：迷幻藥求助熱線 25,419 次對話，困擾程度與用藥時機關係大過物質種類",
+ "title_en": "Fireside Database psychedelic support interactions Science Advances",
+ "summary_zh": "Science Advances 刊出 Fireside Database，分析美國 Fireside Project 迷幻藥支援熱線於 2021 年 4 月至 2026 年 2 月間、由 220 名受訓義工處理的 25,419 次同儕支援互動，另整合 2,777 份來電者滿意度調查。裸蓋菇素是最常提及的物質，佔有物質記錄互動的 59.9%。整體困擾率介乎 40.7%（MDMA）至 47.2%（大麻）；按來電時機分組後，使用中的困擾率約 47%，事後整合期約 36%，同一時機內各物質之間無顯著差異。有記錄社交處境的來電者中，66.3% 當時獨自一人；有精神健康史記錄者中，60.5% 自述至少一種精神診斷。轉介 911／988 的比例全部低於 1%。研究由 Fireside Project 營運經費資助，多名作者屬該機構僱員。",
+ "summary_en": "Science Advances published the Fireside Database, analysing 25,419 peer-support interactions handled by 220 trained volunteers at the Fireside Project's Psychedelic Support Line in the United States between April 2021 and February 2026, plus 2,777 caller satisfaction surveys. Psilocybin was the most commonly reported substance (59.9% of coded interactions). Pooled distress rates ranged from 40.7% (MDMA) to 47.2% (cannabis); once calls were split by timing, distress was about 47% during active trips versus about 36% during integration, with no significant differences across substances within either call type. Of callers with known social context, 66.3% were alone; of those with recorded mental-health history, 60.5% reported at least one psychiatric diagnosis. Escalation to 911/988 stayed below 1% for every substance. The work was funded by Fireside Project operational funds, and several authors are its employees.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "大型觀察性支援記錄數據庫（Science Advances，2026-10-30 刊出，12 卷 44 期；DOI: 10.1126/sciadv.aeg4737；經 Science 原文頁摘要核實）",
+ "ethics_flags": [
+  {
+   "flag": "危機處理",
+   "note": "數據庫記錄迷幻藥使用中或事後求助的真實處境，66.3% 來電者獨自一人，轉介 911／988 比例低於 1%；臨床談及迷幻藥使用時，須說明非臨床環境的風險，並確認求助者知道危機求助渠道。",
+   "refs": [
+    "危機處理｜自殺與自傷風險"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "數據只來自單一機構的求助者，不能推論為所有迷幻藥或大麻使用者的群體風險；研究由 Fireside Project 營運經費資助，創辦人兼執行總監為作者之一，多名作者屬機構僱員，屬機構自我評估；滿意度是唯一量度的結果，不能證明熱線防止了傷害；43 宗（0.2%）涉及帶領者虐待的來電者自述，未經獨立調查核實。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：25,419 次同儕支援互動，220 名受訓義工，2021 年 4 月至 2026 年 2 月；另有 2,777 份滿意度調查（佔互動 10.9%）",
+  "物質：有物質記錄的互動中，裸蓋菇素佔 59.9%，其次為 LSD 14.4%、大麻 12.8%、氯胺酮 7.7%、MDMA 4.4%、死藤水 3.2%",
+  "困擾率：整體 40.7%（MDMA）至 47.2%（大麻）；使用中約 47%，事後整合期約 36%，同一時機內各物質無顯著差異",
+  "大麻困擾率較高主因是時機：70.2% 大麻來電者在用藥進行中致電",
+  "處境：有社交處境記錄者（6,998 人）中，66.3% 獨自一人，16.6% 有陪伴者；焦慮與不知所措是最常見情緒困擾",
+  "精神健康史：有記錄者（7,826 人）中 60.5% 自述至少一種精神診斷，創傷後壓力症 18.5%、重性抑鬱 16.7%、廣泛性焦慮 8.8%；2.4% 自述精神分裂症"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "迷幻藥物",
+  "同儕支援",
+  "求助熱線",
+  "減害",
+  "數據庫"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案話喺屋企獨自用迷幻藥，唔舒服先打去求助熱線，你會如何用呢份數據同佢討論事前準備同埋獨自用藥嘅風險？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1126/sciadv.aeg4737",
+   "author_handle": "",
+   "author_name": "Schoeller 等（Fireside Project）",
+   "title": "The Fireside Database: Large-scale evidence from 25,419 psychedelic support interactions (Science Advances; DOI: 10.1126/sciadv.aeg4737)",
+   "content": "期刊原文頁：迷幻藥支援熱線 25,419 次互動的大型數據庫，含物質、困擾率、來電處境與滿意度。",
+   "posted_at": "2026-10-30T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-09T13:41:55+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "fireside-database-psychedelic-support-interactions-science-a",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "psilocybin-assisted-therapy-for-treatment-resistant-depressi",
+   "title_zh": "RCT：單劑裸蓋菇素輔助治療減輕難治抑鬱，第三週 MADRS 平均低 10.4 分（60 人）",
+   "title_en": "Psilocybin-assisted therapy for treatment-resistant depression NHS randomized trial",
+   "summary_zh": "Nature Medicine 隨機雙盲安慰劑對照可行性試驗，60 名中至重度難治抑鬱成人（平均病程 20 年），於英格蘭一間 NHS 機構接受單劑 25 mg 裸蓋菇素（COMP360）或安慰劑，輔以心理支援。第三週時 MADRS 組間平均差 −10.41 分（95% CI −14.86 至 −5.95）；反應率 43% 對 3%，緩解率 40% 對 3%；效果維持至第六週（MADRS 平均差 −12.92 分）。第六週時 GAD-7 達中度或以上者，裸蓋菇素組 17%，安慰劑組 62%。兩年追蹤正在進行。",
+   "summary_en": "A Nature Medicine double-blind, placebo-controlled feasibility randomised trial randomised 60 adults with moderate-to-severe treatment-resistant depression (mean illness duration 20 years) at a single NHS site in England to a single 25 mg dose of psilocybin (COMP360) or placebo, with psychological support. At week 3, the between-group MADRS difference was -10.41 points (95% CI -14.86 to -5.95); response rates were 43% versus 3% and remission rates 40% versus 3%. Effects were sustained at week 6 (MADRS difference -12.92 points). At week 6, 17% of the psilocybin arm versus 62% of the placebo arm scored 10 or more on the GAD-7. A two-year follow-up is underway.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "難治抑鬱",
+    "裸蓋菇素",
+    "迷幻藥物",
+    "RCT",
+    "NHS"
+   ],
+   "first_seen_at": "2026-11-08T13:26:00+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-06T00:00:00+00:00"
+  },
+  {
+   "slug": "single-dose-mebufotenin-nasal-spray-treatment-resistant-depr",
+   "title_zh": "二期試驗：單劑迷幻藥鼻噴霧 mebufotenin 可快速減輕難治抑鬱，效果維持八週（193 人）",
+   "title_en": "Single dose mebufotenin nasal spray treatment-resistant depression phase 2b",
+   "summary_zh": "JAMA 二期隨機雙盲試驗，193 名 18–75 歲中至重度難治抑鬱成人（本集發作中 2–5 種抗抑鬱藥無效），於澳洲、歐洲與美國 38 個中心接受單劑鼻噴 mebufotenin benzoate（8 mg、12 mg）或低劑量對照（0.3 mg），輔以心理支援。29 天時 MADRS：12 mg 組降 11.1 分、8 mg 組降 12.5 分，對照組降 5.5 分；12 mg 組平均差 −5.3（95% CI −8.9 至 −1.8）。反應率 34.8%（8 mg）與 34.2%（12 mg），對照組 12.2%；緩解率 26% 與 18%，對照組 8%。效果自用藥後第 2 天出現，維持至第 57 天；八成以上活性組參加者於兩小時內達到可出院標準。",
+   "summary_en": "A JAMA phase 2b randomised, double-blind trial enrolled 193 adults aged 18-75 with moderate-to-severe treatment-resistant depression (2-5 antidepressants failed in the current episode) at 38 sites in Australia, Europe and the US. Participants received a single intranasal dose of mebufotenin benzoate (8 mg or 12 mg) or a low-dose comparator (0.3 mg) alongside psychological support. At day 29, MADRS fell by 11.1 points (12 mg) and 12.5 points (8 mg) versus 5.5 points with the comparator (mean difference -5.3, 95% CI -8.9 to -1.8, for 12 mg). Response rates were 34.8% (8 mg) and 34.2% (12 mg) versus 12.2% with the comparator; remission rates 26% and 18% versus 8%. Benefits appeared by day 2 and persisted to day 57, and over 80% of participants on active doses met discharge-readiness criteria within 2 hours.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "難治抑鬱",
+    "迷幻藥物",
+    "mebufotenin",
+    "鼻噴霧",
+    "二期試驗"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 3,
+   "population": [
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-26T00:00:00+00:00"
+  },
+  {
+   "slug": "adaa-free-webinar-psychedelics-research-to-real-life",
+   "title_zh": "免費網上講座：Carhart-Harris 談迷幻藥物研究與臨床現實（11 月 18 日）",
+   "title_en": "ADAA free webinar psychedelics research to real life",
+   "summary_zh": "美國焦慮與抑鬱協會（ADAA）首場「研究走進現實」免費網上講座，2026 年 11 月 18 日星期三 12:00–13:00 EDT（港澳 11 月 19 日 00:00–01:00）線上舉行。Robin Carhart-Harris 主講、Greg Fonzo 主持，講解迷幻藥物是甚麼、作用機制，以及現時治療效益與風險，區分臨床事實與傳言。",
+   "summary_en": "The Anxiety & Depression Association of America's first free 'Research to Real Life' webinar, held online on Wednesday 18 November 2026, 12:00-13:00 EDT (00:00-01:00 on 19 November in Hong Kong/Macau). Robin Carhart-Harris presents with Greg Fonzo moderating, covering what psychedelics are, how they work, and the current therapeutic benefits and risks, separating clinical fact from fiction.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "迷幻藥物",
+    "免費網上講座",
+    "ADAA",
+    "Carhart-Harris"
+   ],
+   "first_seen_at": "2026-11-06T13:27:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-11-06T13:27:53+00:00",
+   "training": {
+    "provider": "美國焦慮與抑鬱協會（ADAA）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-18",
+    "format": "線上直播"
+   },
+   "deadline_soon": false
+  }
+ ]
+}

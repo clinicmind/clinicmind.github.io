@@ -1,0 +1,158 @@
+{
+ "title_zh": "美國各州 AI 法規令心理師進退兩難：過寬立法或封殺已驗證臨床工具",
+ "title_en": "State AI laws create complicated picture for psychologists",
+ "summary_zh": "美國心理學會 10 月 23 日指出，各州針對醫療 AI 的立法寬嚴不一。部分法例保障公眾，例如要求聊天機器人不得冒充持牌專業人員；但另一些法例過寬，可能令心理師無法使用具臨床實證的 AI 工具，例如標示自傷高風險個案的程式，或在會談之間供個案使用的介入程式。截至 2026 年 7 月 30 日，22 個州已通過 33 項醫療 AI 相關法案，其中伊利諾伊州 2025 年的立法成為多州範本，佛蒙特州則經業界倡議修窄了範圍。",
+ "summary_en": "APA reports that far-reaching state AI laws threaten to strictly limit psychologists' use of AI tools, including evidence-based digital therapeutics. As of July 30, 2026, 33 health-care AI bills had been signed into law across 22 states; Illinois' 2025 law has become a model for other states, while Vermont's bill was narrowed after advocacy.",
+ "category": "倫理與風險",
+ "kind": "practice",
+ "evidence_level": 2,
+ "evidence_note": "APA 官方報導（法規與倡議分析，非研究論文）",
+ "ethics_flags": [
+  {
+   "flag": "執業與法規",
+   "note": "過寬的 AI 法例可能令心理師無法使用已驗證的臨床工具，影響個案可獲得的照顧；同時法例亦要求聊天機器人不得冒充持牌人員、須有危機處理程序。",
+   "refs": [
+    "倫理與風險｜AI 執業法規"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "各州立法仍在快速變動，本文數字截至 2026 年 7 月 30 日；執業前應查核所屬州最新法例與牌照委員會指引。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "截至 2026 年 7 月 30 日，22 個州通過 33 項醫療 AI 相關法案",
+  "伊利諾伊州 2025 年立法禁止 AI 獨立作治療決定及直接與個案作治療溝通，成為多州範本",
+  "佛蒙特州法案經心理學會倡議修窄，避免殃及負責任地使用 AI 的心理師",
+  "APA 建議心理師聯繫所屬州心理學會，跟進立法發展"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "AI法規",
+  "州法",
+  "執業",
+  "數位治療"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "你現時使用的電子病歷或臨床工具中，哪些已內嵌 AI？若所屬州收緊法例，哪些流程最先受影響？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.apa.org/topics/artificial-intelligence-machine-learning/state-ai-laws-psychologists",
+   "author_handle": "",
+   "author_name": "American Psychological Association",
+   "title": "State artificial intelligence laws create a complicated picture for psychologists",
+   "content": "APA 指出各州 AI 法規寬嚴不一，部分法例可能令心理師無法使用已驗證的臨床 AI 工具，呼籲業界參與各州倡議。",
+   "posted_at": "2026-10-23T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-03T09:30:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "state-ai-laws-create-complicated-picture-for-psychologists",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
+   "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
+   "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
+   "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
+   "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
+   "category": "倫理與風險",
+   "kind": "incident",
+   "model_names": [],
+   "tags": [
+    "AI 聊天機器人",
+    "指引",
+    "兒童心理",
+    "危機自殺",
+    "韓國"
+   ],
+   "first_seen_at": "2026-10-13T02:38:45+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "成人",
+    "一般大眾"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-08T00:00:00+00:00"
+  },
+  {
+   "slug": "why-teens-turn-to-ai-for-emotional-support",
+   "title_zh": "青少年為何找 AI 傾訴：不想對朋友「情緒傾倒」、覺得 AI 不會評判",
+   "title_en": "Why teens turn to AI for emotional support",
+   "summary_zh": "Brown 大學臨床心理學家 Jacqueline Nesi 在電子報整理 Hopelab 與哈佛 Center for Digital Thriving 的訪談報告：青少年向 AI 尋求情緒支持，是因為不想對朋友「trauma dump（情緒傾倒）」、覺得 AI 不會評判，而且隨時可用。同期也整理一篇使用 ABCD 資料的研究，發現成癮式社群媒體使用與家長回報的 ADHD 症狀有小幅關聯，Nesi 提醒不能推論因果。",
+   "summary_en": "Clinical psychologist Jacqueline Nesi summarizes a Hopelab and Harvard Center for Digital Thriving interview report: teens turn to AI for emotional support to avoid 'trauma dumping' on friends, because AI feels non-judgmental, and because it is always available. She also covers an ABCD-based study linking addictive social media use to small increases in parent-reported ADHD symptoms, cautioning against causal claims.",
+   "category": "人機互動心理",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "青少年",
+    "AI情緒支持",
+    "自我揭露",
+    "ADHD",
+    "社群媒體"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.15,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-08-03T00:00:00+00:00"
+  },
+  {
+   "slug": "uk-children-ai-chatbot-use-for-emotional-support-survey-barn",
+   "title_zh": "英國調查：43% 受訪兒童曾用 AI 聊天機器人求情緒支援",
+   "title_en": "UK children AI chatbot use for emotional support survey Barnardos NCPS",
+   "summary_zh": "Barnardo's 與英國國家輔導與心理治療學會調查 2,000 名 11–17 歲英國兒童。43% 曾用 AI 聊天機器人或心理健康 App 求情緒支援；40% 過去一年曾嘗試求助專業支援，其中只有 27% 表示及時獲得所需幫助；57% 認為 AI 聊天機器人無法提供同理心。",
+   "summary_en": "Barnardo's and the National Counselling and Psychotherapy Society (NCPS) jointly commissioned a survey of 2,000 UK children aged 11-17 (conducted April-May 2026) for their report 'Filling the Gap? Young People's Use of AI for Mental Health Support'. 43% had used an AI chatbot or mental health app for emotional support or advice; 40% had tried to access professional support in the past year, of whom only 27% got the help they needed when they needed it; 57% said AI chatbots cannot provide empathy.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "AI 支援",
+    "英國"
+   ],
+   "first_seen_at": "2026-10-28T08:01:01+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-23T00:00:00+00:00"
+  }
+ ]
+}

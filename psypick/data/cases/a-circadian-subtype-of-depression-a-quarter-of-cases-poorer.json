@@ -1,0 +1,163 @@
+{
+ "title_zh": "研究提出「晝夜節律型抑鬱」：約四分一重度抑鬱個案，SSRI 反應較差",
+ "title_en": "A circadian subtype of depression: a quarter of cases, poorer SSRI response",
+ "summary_zh": "悉尼大學團隊分析澳洲抑鬱遺傳研究逾 10,000 名嚴重、復發或持續抑鬱人士的臨床與遺傳資料，辨識出「晝夜節律型抑鬱」亞型，佔 2,604 人（約 25%）。特徵包括季節性模式、抑鬱時睡得更久、醒來仍覺疲倦、夜貓子傾向，發病較早、症狀較重。此亞型對 SSRI／SNRI 反應較差、副作用較多；針對生理時鐘的治療（如光照治療、褪黑激素相關藥物）可能更合適。",
+ "summary_en": "University of Sydney researchers analysed clinical and genetic data from over 10,000 Australians with severe, recurrent or persistent depression in the Australian Genetics of Depression Study, identifying a 'circadian depression' subtype in 2,604 participants (about 25%). Features include seasonal patterns, hypersomnia, waking unrefreshed and night-owl tendencies, with earlier onset and more severe symptoms. The subtype responds less well to SSRIs/SNRIs with more side effects; circadian-targeted treatments such as light therapy and melatonin-based medication may be more relevant.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊研究（British Journal of Psychiatry, DOI: 10.1192/bjp.2026.10798），經悉尼大學官方頁核對",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "亞型來自單一澳洲隊列的分析，臨床識別標準與前瞻驗證仍待建立；患者不應自行停藥或換藥。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：澳洲抑鬱遺傳研究逾 10,000 人（嚴重、復發或持續抑鬱）",
+  "2,604 人（約 25%）屬晝夜節律型：季節性、嗜睡、晨起疲倦、夜貓子傾向",
+  "發病較早、症狀較重、自殺意念較多",
+  "對 SSRI／SNRI 反應較差、副作用較多；光照與褪黑激素方向的治療可能更合適"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "抑鬱",
+  "晝夜節律",
+  "亞型",
+  "睡眠"
+ ],
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案用 SSRI 效果不佳時，你會否系統地問睡眠節律與季節模式？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.sydney.edu.au/news-opinion/news/2026/10/21/researchers-identify-circadian-subtype-of-depression-.html",
+   "author_handle": "",
+   "author_name": "The University of Sydney",
+   "title": "Researchers identify new 'circadian' subtype of depression",
+   "content": "悉尼大學官方頁：介紹 British Journal of Psychiatry 論文的亞型特徵、比例與治療含意。",
+   "posted_at": "2026-10-21T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-28T08:40:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "a-circadian-subtype-of-depression-a-quarter-of-cases-poorer",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "adolescent-insomnia-vs-circadian-delay",
+   "title_zh": "青少年「失眠」可能是晝夜節律延遲：挪威研究近九成有相位後移指標",
+   "title_en": "Adolescent insomnia vs circadian delay",
+   "summary_zh": "ACAMH 部落格整理挪威 3,867 名高中生的研究（Arnesen 等，2025）：34.5% 符合失眠標準，但其中 88.4% 呈現晝夜節律延遲的指標。作者建議評估上學日與假日的睡眠時間差、延後就寢是否改善入睡、週末補眠等；失眠以 CBT-I 處理，節律延遲則考慮光照、褪黑激素時機與逐步提前起床時間，而非只叫孩子早點上床。",
+   "summary_en": "An ACAMH blog summarises a study of 3,867 Norwegian high-school students (Arnesen et al., 2025): 34.5% met insomnia criteria, yet 88.4% of these showed indicators of circadian delay. The author recommends assessing school-day vs free-day sleep timing, response to later bedtimes and weekend catch-up sleep; CBT-I for insomnia, and light, melatonin timing and gradual wake-time advances for circadian delay rather than simply earlier bedtimes.",
+   "category": "臨床與治療應用",
+   "kind": "practice",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "青少年",
+    "睡眠",
+    "失眠",
+    "晝夜節律",
+    "CBT-I",
+    "鑑別診斷"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.43,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-27T00:00:00+00:00"
+  },
+  {
+   "slug": "understanding-anxiety-depression-and-cbt",
+   "title_zh": "認識焦慮、憂鬱與認知行為治療",
+   "title_en": "Understanding Anxiety, Depression and CBT",
+   "summary_zh": "英國瑞汀大學在 FutureLearn 的 5 週課程，由臨床心理學家 Shirley Reynolds 主講，講解焦慮與憂鬱的成因，以及實證治療 CBT 的原理與應用。免費旁聽，約 16.8 萬人註冊，適合臨床工作者複習 CBT 基礎，也適合家長教師增進心理健康素養。",
+   "summary_en": "A 5-week University of Reading FutureLearn course led by clinical psychologist Shirley Reynolds, explaining anxiety and depression and how CBT — an evidence-based treatment — works.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "焦慮",
+    "憂鬱",
+    "認知行為治療",
+    "免費旁聽",
+    "FutureLearn"
+   ],
+   "first_seen_at": "2026-10-05T03:01:53+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-05T03:01:53+00:00",
+   "training": {
+    "provider": "FutureLearn / University of Reading",
+    "price": "免費旁聽（Class Central 原文 Cost: Free to audit, Price: 0 USD）；證書需付費（Certificate: Paid）",
+    "price_tier": "免費",
+    "ce_credits": "無（頁面未提及）",
+    "language": "英文",
+    "deadline": "",
+    "event_date": "隨選",
+    "format": "線上隨選（5 週）"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "interpretation-bias-in-anxiety-meta-analysis",
+   "title_zh": "統合分析：焦慮的負向解釋偏誤跨年齡、跨疾患都成立",
+   "title_en": "Interpretation bias in anxiety meta-analysis",
+   "summary_zh": "Mental Elf 評析 Würtz 等人 2026 年刊於 Clinical Psychological Science 的三層統合分析，納入 265 篇研究、295 個獨立樣本、逾 5 萬名參與者。焦慮程度越高，負向解釋偏誤越明顯（g=0.48），且跨年齡、臨床與非臨床樣本及不同焦慮症皆一致；直接測量比反應時間等間接測量效果大，情境內容貼近個人擔憂時效果也較大。",
+   "summary_en": "The Mental Elf reviews Würtz et al.'s 2026 three-level meta-analysis in Clinical Psychological Science (265 studies, 295 samples, 50,000+ participants). Higher anxiety was associated with more negative interpretation bias (g=0.48), consistent across ages, clinical and nonclinical samples and anxiety disorders; direct measures and concern-specific scenarios yielded larger effects.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "焦慮",
+    "解釋偏誤",
+    "認知行為治療",
+    "統合分析"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 4,
+   "population": [
+    "兒童青少年",
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 1.15,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-09-29T00:00:00+00:00"
+  }
+ ]
+}

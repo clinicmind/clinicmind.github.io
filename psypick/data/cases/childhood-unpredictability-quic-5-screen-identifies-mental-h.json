@@ -1,0 +1,160 @@
+{
+ "title_zh": "研究：童年生活「不可預測」獨立於 ACEs，可找出標準篩查測不到的高危兒童（29,861 人）",
+ "title_en": "Childhood unpredictability QUIC-5 screen identifies mental health risk missed by ACEs",
+ "summary_zh": "Nature Mental Health 研究分析 29,861 名 0–17 歲兒童於 2021–2024 年在加州橙縣 19 間兒科診所健兒門診的篩查數據，比較標準 ACEs 問卷（PEARLS）與五題「童年不可預測性問卷」（QUIC-5）。兩者分數愈高，抑鬱、焦慮、外化問題、睡眠障礙、頭痛與腹痛的診斷機會愈高，呈劑量關係。抑鬱例子：PEARLS 4 分或以上、QUIC-5 零分者，勝算比 7.9；PEARLS 零分但 QUIC-5 高分（4+）者，勝算比 11.7（50 人），即標準 ACEs 篩查測不到的高危群；睡眠障礙方面 QUIC-5 的預測力強於 PEARLS。",
+ "summary_en": "A Nature Mental Health study analysed screening data from 29,861 children aged 0-17 attending well-child visits at 19 paediatric clinics in Orange County, California (2021-2024), comparing the standard ACEs questionnaire (PEARLS) with the five-item Questionnaire on Unpredictability in Childhood (QUIC-5). Higher scores on either screen were associated with greater odds of depression, anxiety, externalising problems, sleep disorders, headaches and abdominal pain, in a dose-dependent pattern. For depression, children scoring 4 or more on PEARLS with zero on QUIC-5 had an odds ratio of 7.9, while the 50 children with zero PEARLS but high QUIC-5 (4+) had an odds ratio of 11.7 - a high-risk group the standard ACEs screen would miss. QUIC-5 was a stronger predictor than PEARLS for sleep disorders.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "同儕審查期刊橫斷面研究（Nature Mental Health，2026-07-21 線上刊出，4:1219–1226；DOI: 10.1038/s44220-026-00681-x；經 Nature 原文頁核實）",
+ "ethics_flags": [
+  {
+   "flag": "篩檢與標籤",
+   "note": "QUIC-5 可找出 ACEs 測不到的高危兒童，但分數高不等於診斷；與家長談不可預測性時避免標籤家庭，宜聚焦可改變的家庭常規與可預測的日程。",
+   "refs": [
+    "評估與篩檢｜假陽性與標籤效應"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "橫斷面設計，不能判斷不可預測經歷或 ACEs 是否先於診斷出現，亦不能證明因果；診斷來自病歷，未向臨床醫生求助的症狀不會入內；勝算比是相對關聯，非個別兒童的絕對風險；無 ACEs 但高不可預測組只有 50 人；研究只在單一縣份的診所網絡進行。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：29,861 名 0–17 歲兒童（14,418 名女童），19 間兒科診所，2021–2024 年健兒門診",
+  "工具：PEARLS（標準 ACEs 篩查）＋QUIC-5（五題不可預測性問卷）；12 歲以上兒童亦自填",
+  "0–4 歲兒童：13% 至少一種 ACE、23% 至少一種不可預測經歷",
+  "4 項或以上暴露 vs 零暴露：PEARLS 勝算比 1.7–7.2，QUIC-5 勝算比 1.6–6.1（青少年自填）",
+  "抑鬱：PEARLS≥4 且 QUIC-5=0，OR 7.9；PEARLS=0 且 QUIC-5 高分（4+），OR 11.7（n=50）",
+  "睡眠障礙方面，QUIC-5 的預測力強於 PEARLS"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "童年逆境",
+  "ACEs",
+  "不可預測性",
+  "篩檢",
+  "兒童心理"
+ ],
+ "population": [
+  "兒童青少年",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "問家長「屋企日程有幾穩定」時，你會如何把不可預測性納入評估，而不令家長覺得被指責？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1038/s44220-026-00681-x",
+   "author_handle": "",
+   "author_name": "Glynn 等（Chapman University）",
+   "title": "Unpredictability is a childhood adversity that contributes to mental health problems (Nature Mental Health; DOI: 10.1038/s44220-026-00681-x)",
+   "content": "期刊原文頁：QUIC-5 不可預測性篩查與兒童心理健康的研究，含樣本、勝算比與熱圖分析。",
+   "posted_at": "2026-07-21T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-07T13:58:54+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "childhood-unpredictability-quic-5-screen-identifies-mental-h",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "positive-childhood-experiences-reduce-risk-of-later-mental-i",
+   "title_zh": "正向童年經驗與成年早期心理健康的長期追蹤研究",
+   "title_en": "Positive childhood experiences reduce risk of later mental illness: longitudinal cohort",
+   "summary_zh": "縱向追蹤研究（發表於 American Journal of Psychiatry，2026 年 10 月 14 日，doi:10.1176/appi.ajp.20260007）。正向童年經驗（PCE）分數每增加 1 分（最高 10 分），成年早期符合精神障礙準則的機會率下降約 11%。",
+   "summary_en": "Longitudinal study published in the American Journal of Psychiatry on 14 October 2026 (doi:10.1176/appi.ajp.20260007). Each one-point increase in positive childhood experiences (PCE, up to 10) was associated with about 11% lower odds of meeting criteria for a psychiatric disorder in early adulthood, after adjusting for confounders.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "正向童年經驗",
+    "縱向研究",
+    "成年早期",
+    "精神障礙風險"
+   ],
+   "first_seen_at": "2026-10-19T02:37:41+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-14T00:00:00+00:00"
+  },
+  {
+   "slug": "childhood-loneliness-and-isolation-into-adulthood",
+   "title_zh": "12 歲孤單、18 歲孤立：2,232 名雙胞胎追蹤顯示兒童期孤單與孤立的長期代價",
+   "title_en": "Childhood loneliness and isolation into adulthood",
+   "summary_zh": "PsyPost 報導一項刊於 Development and Psychopathology 的縱貫研究，追蹤 2,232 名英格蘭與威爾斯雙胞胎從 12 歲到 18 歲。12 歲感到孤單的兒童，到 18 歲成為社交孤立者的機率約為兩倍；兒童期社交孤立與 18 歲時未就學未就業（NEET）勝算 2.4 倍相關。孤單與孤立各自獨立預測較差的心理健康、幸福感與社經結果。",
+   "summary_en": "PsyPost reports a Development and Psychopathology study following 2,232 twins in England and Wales from age 12 to 18. Children who felt lonely at 12 were about twice as likely to be socially isolated at 18, and childhood isolation was linked to 2.4 times higher odds of being NEET. Loneliness and isolation independently predicted poorer mental health, wellbeing and socioeconomic outcomes.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "兒童心理",
+    "孤單",
+    "社交孤立",
+    "青少年",
+    "縱貫研究"
+   ],
+   "first_seen_at": "2026-10-05T03:24:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.953,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-02T00:00:00+00:00"
+  },
+  {
+   "slug": "adolescent-life-event-trajectories-and-suicidal-ideation",
+   "title_zh": "青少年自殺意念：日常生活事件的「累積」也要評估",
+   "title_en": "Adolescent life event trajectories and suicidal ideation",
+   "summary_zh": "Mental Elf 評析 Chen 等人 2026 年刊於 Lancet Psychiatry 的前瞻性世代研究，以 IMAGEN 資料追蹤德、法、愛爾蘭、英國 2,161 名青少年（14、16、19、23 歲）。生活事件累積高的軌跡組，14 歲時自殺意念比例為 11.3%，其他組為 4.1%–7.8%，調整後約高 6 個百分點，家庭相關事件尤其重要。評論者建議評估青少年風險時，除重大創傷也要看日常壓力的累積。",
+   "summary_en": "The Mental Elf reviews Chen et al.'s 2026 Lancet Psychiatry prospective cohort using IMAGEN data on 2,161 adolescents in Germany, France, Ireland and the UK (ages 14–23). The high cumulative life-event trajectory group had 11.3% suicidal ideation at 14 versus 4.1–7.8% in other groups, roughly 6 percentage points higher after adjustment, with family events especially influential.",
+   "category": "評估與篩檢",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "自殺意念",
+    "青少年",
+    "生活事件",
+    "風險評估",
+    "世代研究"
+   ],
+   "first_seen_at": "2026-09-30T18:00:52+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.767,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-09-18T00:00:00+00:00"
+  }
+ ]
+}

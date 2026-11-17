@@ -1,0 +1,71 @@
+{
+ "title_zh": "免費網上講座：Bessel van der Kolk 談迷幻藥物、記憶整合與自我慈悲（11 月 22 日）",
+ "title_en": "Bessel van der Kolk free webinar psychedelics integration",
+ "summary_zh": "Mind Medicine Australia 的免費網上講座，由創傷研究先驅 Bessel van der Kolk 主講（波士頓大學醫學院精神科教授、《身體記得你》作者）。2026 年 11 月 22 日澳洲東部時間 11:00–12:15（港澳同日 08:00–09:15）線上舉行，75 分鐘含問答，YouTube 提供重播。主題為迷幻藥物如何助整合零散經驗、改變舊習慣、打開神經可塑窗口與促進自我慈悲，以及治療支援與整合的角色。",
+ "summary_en": "A free online webinar from Mind Medicine Australia, presented by trauma research pioneer Bessel van der Kolk (Professor of Psychiatry, Boston University School of Medicine; author of The Body Keeps the Score). Held online on 22 November 2026, 11:00-12:15 AEDT (08:00-09:15 Macau time), 75 minutes including Q&A, with a replay on YouTube. The session covers how psychedelics may help integrate disparate experiences, change old habits, open neuroplastic windows and promote self-compassion, and the role of therapeutic support and integration.",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "主辦方 Mind Medicine Australia 為推動藥用迷幻藥物治療的倡議組織；講座只談臨床與合法應用，聲明不鼓勵非法使用；迷幻藥物輔助治療在港澳未屬常規臨床服務，證據仍在發展中。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "講者：Bessel van der Kolk，波士頓大學醫學院精神科教授、創傷研究基金會主席",
+  "2026 年 11 月 22 日 11:00–12:15 AEDT（港澳同日 08:00–09:15），線上 75 分鐘含問答",
+  "免費參加（可自由捐款）；重播將上載至主辦方 YouTube 頻道",
+  "內容：迷幻藥物與自我慈悲、神經可塑窗口、治療支援與整合、關鍵期與治療窗口"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "創傷",
+  "迷幻藥物輔助治療",
+  "自我慈悲",
+  "免費網上講座",
+  "van der Kolk"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "個案問起迷幻藥物輔助治療時，你會如何說明現時證據、合法狀況與風險，而不作轉介承諾？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "provider": "Mind Medicine Australia",
+  "topic": "Remembering: How psychedelics can help to integrate disparate experiences, change old habits, and promote flexibility and self-compassion",
+  "event_date": "2026-11-22",
+  "format": "線上直播",
+  "language": "英語",
+  "price": "免費（可自由捐款）",
+  "price_tier": "免費",
+  "audience_level": "對迷幻藥物輔助治療有興趣的臨床工作者及助人專業人員（公開講座）",
+  "signup_url": "https://events.humanitix.com/mind-medicine-australia-free-webinar-remembering-how-psychedelics-can-help-to-integrate-disparate-experiences-change-old-habits-and-promote-flexibility-and-self-compassion",
+  "deadline": "",
+  "ce_credits": ""
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://events.humanitix.com/mind-medicine-australia-free-webinar-remembering-how-psychedelics-can-help-to-integrate-disparate-experiences-change-old-habits-and-promote-flexibility-and-self-compassion",
+   "author_handle": "",
+   "author_name": "Mind Medicine Australia",
+   "title": "Mind Medicine Australia FREE Webinar: Remembering: How psychedelics can help to integrate disparate experiences, change old habits, and promote flexibility and self-compassion with Dr Bessel van der Kolk (USA)",
+   "content": "活動頁：2026 年 11 月 22 日免費網上講座的時間、形式、講者簡介與免責聲明。",
+   "posted_at": "2026-11-05T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-05T13:45:00+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "bessel-van-der-kolk-free-webinar-psychedelics-integration",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": []
+}

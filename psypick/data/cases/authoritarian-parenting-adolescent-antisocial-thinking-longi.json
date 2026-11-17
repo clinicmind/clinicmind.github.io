@@ -1,0 +1,164 @@
+{
+ "title_zh": "研究：威權式管教與青少年反社會思維穩定相關，焦慮抑鬱約 18 個月後才見輕微上升（491 人）",
+ "title_en": "Authoritarian parenting adolescent antisocial thinking longitudinal study",
+ "summary_zh": "Journal of Research on Adolescence 縱貫研究分析美國 491 名青少年及其家長，於 2021 年 11 月至 2023 年夏季完成四波調查（每波相隔約六個月），青少年平均 15.3 歲。組間比較顯示，基線威權式管教愈嚴厲，青少年的反社會思維穩定水平愈高，即較認同違規與攻擊合理；威權管教與焦慮或抑鬱的平均水平則無顯著關聯。組內追蹤顯示，基線管教與第二、三波的波動無關，但到約 18 個月後的第四波，管教較嚴厲者的焦慮與抑鬱較個人基線輕微上升。研究屬觀察性設計，不能證明因果；樣本限於順性別異性戀青少年與親生父母。",
+ "summary_en": "A longitudinal study in the Journal of Research on Adolescence analysed 491 US adolescents and their parents across four survey waves from November 2021 to summer 2023 (about six months apart); adolescents averaged 15.3 years old. Between-person comparisons showed that stricter authoritarian parenting at baseline was associated with modestly higher stable levels of antisocial thinking, meaning stronger beliefs that rule-breaking and aggression are acceptable, while links with average anxiety or depression were not significant. Within-person tracking found no link at waves two and three, but by wave four, about 18 months later, stricter baseline parenting was associated with modest within-person increases in anxiety and depression above each teenager's own baseline. The design is observational and cannot establish causation; the sample was limited to cisgender, heterosexual adolescents with a biological parent.",
+ "category": "研究與證據",
+ "kind": "research",
+ "evidence_level": 2,
+ "evidence_note": "縱貫觀察研究（Journal of Research on Adolescence；DOI: 10.1111/jora.70259；經 PsyPost 全文報道核實，期刊頁回應 403，未重試）",
+ "ethics_flags": [
+  {
+   "flag": "評估與篩檢",
+   "note": "反社會思維是預防工作的切入點，不是對青少年的定性標籤；臨床與家長工作應避免憑一次量表分數為青少年貼上標籤，並留意信念未必會轉化為行為。",
+   "refs": [
+    "評估與篩檢｜假陽性與標籤效應"
+   ]
+  }
+ ],
+ "psych_concepts": [],
+ "caution": "觀察性縱貫設計，只能顯示關聯，不能證明管教導致結果；管教只在基線量度一次，未能檢驗管教變化是否先於情緒變化；樣本限於順性別異性戀青少年與親生父母，回應家長 71.3% 為母親；社區樣本平均分數偏低；反社會思維不等於實際行為；抑鬱的組內關聯剛達統計顯著門檻。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "樣本：491 名美國青少年及其家長，經 AmeriSpeak 隨機抽樣小組招募；四波調查，2021 年 11 月至 2023 年夏季，每波相隔約六個月；青少年平均 15.3 歲，51.5% 女性",
+  "量度：家長基線填寫 12 題威權式管教問卷（0–4 分，平均 0.61 分）；青少年於第二至四波自評焦慮、抑鬱與反社會思維",
+  "組間：威權管教愈高，反社會思維穩定水平愈高；與焦慮或抑鬱平均水平無顯著關聯",
+  "組內：基線管教與第二、三波波動無關；約 18 個月後的第四波，與個人焦慮及抑鬱輕微上升相關",
+  "三種結果的組間水平互相關聯，但組內互相預測均不顯著；男女模式無顯著差異",
+  "作者提醒：短期無可見困難，不等於日後不會出現困難；溫暖、解釋與建設性指導值得持續使用"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "管教方式",
+  "青少年",
+  "反社會思維",
+  "焦慮",
+  "抑鬱"
+ ],
+ "population": [
+  "兒童青少年",
+  "家長",
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "家長話「嚴啲先至聽話」，你會如何用呢份研究嘅組間同組內結果，同佢講短期見唔到問題唔等於無長遠影響？"
+ ],
+ "original_prompt": "",
+ "training": null,
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://doi.org/10.1111/jora.70259",
+   "author_handle": "",
+   "author_name": "Wusirige 等（Syracuse University）",
+   "title": "Longitudinal associations between authoritarian parenting and adolescent antisocial thinking, depression, and anxiety: Between- and within-person effects (Journal of Research on Adolescence; DOI: 10.1111/jora.70259)",
+   "content": "期刊論文：威權式管教與青少年反社會思維、焦慮、抑鬱的縱貫關聯，含組間與組內效應分析。",
+   "posted_at": "2026-11-08T00:00:00+00:00"
+  }
+ ],
+ "first_seen_at": "2026-11-09T13:41:55+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "authoritarian-parenting-adolescent-antisocial-thinking-longi",
+ "featured_at": null,
+ "hot_score": 0.0,
+ "tier": "live",
+ "deadline_soon": false,
+ "related": [
+  {
+   "slug": "childhood-unpredictability-quic-5-screen-identifies-mental-h",
+   "title_zh": "研究：童年生活「不可預測」獨立於 ACEs，可找出標準篩查測不到的高危兒童（29,861 人）",
+   "title_en": "Childhood unpredictability QUIC-5 screen identifies mental health risk missed by ACEs",
+   "summary_zh": "Nature Mental Health 研究分析 29,861 名 0–17 歲兒童於 2021–2024 年在加州橙縣 19 間兒科診所健兒門診的篩查數據，比較標準 ACEs 問卷（PEARLS）與五題「童年不可預測性問卷」（QUIC-5）。兩者分數愈高，抑鬱、焦慮、外化問題、睡眠障礙、頭痛與腹痛的診斷機會愈高，呈劑量關係。抑鬱例子：PEARLS 4 分或以上、QUIC-5 零分者，勝算比 7.9；PEARLS 零分但 QUIC-5 高分（4+）者，勝算比 11.7（50 人），即標準 ACEs 篩查測不到的高危群；睡眠障礙方面 QUIC-5 的預測力強於 PEARLS。",
+   "summary_en": "A Nature Mental Health study analysed screening data from 29,861 children aged 0-17 attending well-child visits at 19 paediatric clinics in Orange County, California (2021-2024), comparing the standard ACEs questionnaire (PEARLS) with the five-item Questionnaire on Unpredictability in Childhood (QUIC-5). Higher scores on either screen were associated with greater odds of depression, anxiety, externalising problems, sleep disorders, headaches and abdominal pain, in a dose-dependent pattern. For depression, children scoring 4 or more on PEARLS with zero on QUIC-5 had an odds ratio of 7.9, while the 50 children with zero PEARLS but high QUIC-5 (4+) had an odds ratio of 11.7 - a high-risk group the standard ACEs screen would miss. QUIC-5 was a stronger predictor than PEARLS for sleep disorders.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "童年逆境",
+    "ACEs",
+    "不可預測性",
+    "篩檢",
+    "兒童心理"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-07-21T00:00:00+00:00"
+  },
+  {
+   "slug": "positive-childhood-experiences-reduce-risk-of-later-mental-i",
+   "title_zh": "正向童年經驗與成年早期心理健康的長期追蹤研究",
+   "title_en": "Positive childhood experiences reduce risk of later mental illness: longitudinal cohort",
+   "summary_zh": "縱向追蹤研究（發表於 American Journal of Psychiatry，2026 年 10 月 14 日，doi:10.1176/appi.ajp.20260007）。正向童年經驗（PCE）分數每增加 1 分（最高 10 分），成年早期符合精神障礙準則的機會率下降約 11%。",
+   "summary_en": "Longitudinal study published in the American Journal of Psychiatry on 14 October 2026 (doi:10.1176/appi.ajp.20260007). Each one-point increase in positive childhood experiences (PCE, up to 10) was associated with about 11% lower odds of meeting criteria for a psychiatric disorder in early adulthood, after adjusting for confounders.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "正向童年經驗",
+    "縱向研究",
+    "成年早期",
+    "精神障礙風險"
+   ],
+   "first_seen_at": "2026-10-19T02:37:41+00:00",
+   "evidence_level": 2,
+   "population": [
+    "成人"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": false,
+   "date": "2026-10-14T00:00:00+00:00"
+  },
+  {
+   "slug": "body-size-trajectories-childhood-to-adulthood-depression-anx",
+   "title_zh": "研究：童年體型偏離平均與成年抑鬱焦慮風險較高，成年體重正常者風險無顯著差異（368,756 人）",
+   "title_en": "Body size trajectories childhood to adulthood depression anxiety risk UK Biobank",
+   "summary_zh": "英國生物樣本庫（UK Biobank）前瞻性隊列研究，368,756 名 40–69 歲成人，入組時無抑鬱或焦慮診斷，追蹤中位逾 13 年。10 歲時自述體型偏瘦者，成年抑鬱風險高 9%、焦慮高 13%；偏胖者抑鬱高 19%、焦慮高 11%。成年體重是主導因素：超重者抑鬱高 18%，肥胖者抑鬱高 52%、焦慮高 15%；童年偏瘦至成年肥胖組風險最高（抑鬱高 73%、焦慮高 33%）。童年偏胖但成年體重正常者，風險與一直平均者無顯著差異；成年 BMI 解釋童年偏胖與成年抑鬱關聯的約 45%。",
+   "summary_en": "A UK Biobank prospective cohort study followed 368,756 adults aged 40-69 with no depression or anxiety diagnosis at enrolment for a median of over 13 years. Recalling a thinner-than-average body size at age 10 was associated with 9% higher depression risk and 13% higher anxiety risk in adulthood; a plumper-than-average childhood size with 19% higher depression and 11% higher anxiety risk. Adult weight was the dominant factor: overweight adults had 18% higher depression risk, and adults with obesity 52% higher depression and 15% higher anxiety risk; the thinner-in-childhood to obese-in-adulthood group had the highest risks (depression +73%, anxiety +33%). Participants plumper in childhood but at normal weight as adults showed no statistically significant excess risk; adult BMI explained about 45% of the link between childhood plumpness and adult depression.",
+   "category": "研究與證據",
+   "kind": "research",
+   "model_names": [],
+   "tags": [
+    "體重",
+    "體像",
+    "抑鬱",
+    "焦慮",
+    "UK Biobank"
+   ],
+   "first_seen_at": "2026-11-07T13:58:54+00:00",
+   "evidence_level": 2,
+   "population": [
+    "兒童青少年",
+    "成人",
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 0.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-11-05T00:00:00+00:00"
+  }
+ ]
+}

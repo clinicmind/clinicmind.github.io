@@ -1,0 +1,193 @@
+{
+ "title_zh": "Dan Siegel 正念治療師實務：以調節、共鳴與整合帶動臨床改變（PESI 免費直播）",
+ "title_en": "Dan Siegel's Mindsight in Practice - Free Live PESI Training",
+ "summary_zh": "PESI 於 2026 年 10 月 21 日舉辦免費線上直播培訓，由人際神經生物學創始人 Dan Siegel 主講，內容取材自其新版《The Mindful Therapist》，聚焦治療師的臨場感、調節、共鳴與整合。免費參加並可觀看 3 天回放；欲取得 CE 學分須另購升級方案。",
+ "summary_en": "PESI free live online training by Dan Siegel on 21 Oct 2026 (3 hours, 3-day replay; CE credit requires a paid upgrade).",
+ "category": "進修與培訓",
+ "kind": "training",
+ "evidence_level": 0,
+ "evidence_note": "培訓課程",
+ "ethics_flags": [],
+ "psych_concepts": [],
+ "caution": "CE 學分須另購升級，免費版沒有學分。",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "2026 年 10 月 21 日 11:00am–2:00pm（CT）線上直播，共 3 小時",
+  "免費報名；未能即時參加者註冊後可免費觀看 3 天回放",
+  "官方頁標示 Price: 0 USD；CE 學分（up to 3 CE hours）須另購升級方案",
+  "對象：諮商師、社工、心理師、婚姻與家庭治療師、精神科醫師等"
+ ],
+ "brief_en": [],
+ "model_names": [],
+ "tags": [
+  "人際神經生物學",
+  "治療關係",
+  "免費培訓"
+ ],
+ "population": [
+  "臨床工作者"
+ ],
+ "supervision_questions": [
+  "治療師的臨場感與調節如何在督導中練習？",
+  "免費直播與付費 CE 的差別，機構在培訓預算上如何取捨？"
+ ],
+ "original_prompt": "",
+ "training": {
+  "audience_level": "Counselors, Social Workers, Psychologists, Marriage & Family Therapists, Psychiatrists, Other Mental Health Professionals",
+  "ce_credits": "up to 3 CE hours（須另購 CE 升級方案）",
+  "deadline": "",
+  "event_date": "2026-10-21",
+  "format": "線上直播",
+  "language": "英語",
+  "price": "0 USD",
+  "price_tier": "免費",
+  "provider": "PESI（主講：Daniel J. Siegel, MD）",
+  "signup_url": "https://www.pesi.com/sales/bh_s_110000_dansiegelmindsight_organic-2485170/",
+  "topic": "人際神經生物學；治療師臨場感、調節、共鳴與整合",
+  "format_note": "線上直播（含 3 天免費回放）"
+ },
+ "posts": [
+  {
+   "platform": "web",
+   "url": "https://www.pesi.com/sales/bh_s_110000_dansiegelmindsight_organic-2485170/",
+   "author_handle": "",
+   "author_name": "PESI（主講：Daniel J. Siegel, MD）",
+   "title": "FREE LIVE EVENT! | Dan Siegel's Mindsight in Practice",
+   "content": "PESI 舉辦的免費線上直播培訓，由人際神經生物學創始人 Dan Siegel 主講，取材自其新版《The Mindful Therapist》，教導治療師以調節、共鳴與整合帶動臨床改變。",
+   "posted_at": "2026-10-03T01:09:46+00:00"
+  }
+ ],
+ "first_seen_at": "2026-10-03T01:09:46+00:00",
+ "hero_media": null,
+ "include": true,
+ "reject_reason": "",
+ "slug": "dan-siegel-s-mindsight-in-practice-free-live-pesi-training",
+ "featured_at": "2026-10-16T02:38:03+00:00",
+ "hot_score": 4.0,
+ "tier": "archive",
+ "deadline_soon": true,
+ "related": [
+  {
+   "slug": "strengthening-the-objective-observer",
+   "title_zh": "強化客觀觀察者：治療中的反思實務",
+   "title_en": "Strengthening the Objective Observer",
+   "summary_zh": "eiseEducation 的免費網上講座（雪梨時間 2026-10-07 晚上 6:30–8:00，講者 Zern Liew），探討治療師如何在同理投入與客觀觀察之間取得平衡，涵蓋自我監察、偏見辨識與批判思考。直播免費；錄影或 60 天回看需付 $19；出席達 80% 可得 1.5 小時 CPD。",
+   "summary_en": "Free live webinar by eiseEducation (7 Oct 2026, 6:30–8pm Sydney time) with Zern Liew on balancing empathic engagement with reflective detachment: self-monitoring, bias recognition and critical thinking. 1.5 CPD hours with 80% attendance.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "反思實務",
+    "治療關係",
+    "CPD",
+    "網上研討會"
+   ],
+   "first_seen_at": "2026-10-07T02:38:14+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": false,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "archive",
+   "has_ethics_flags": false,
+   "date": "2026-10-07T02:38:14+00:00",
+   "training": {
+    "provider": "eiseEducation",
+    "price": "Free (Live Webinar Only)",
+    "price_tier": "免費",
+    "ce_credits": "CPD Certificate: 1.5 Hours",
+    "language": "English",
+    "deadline": "",
+    "event_date": "2026-10-07",
+    "format": "線上"
+   },
+   "deadline_soon": false
+  },
+  {
+   "slug": "emdr-parts-work-for-treating-complex-trauma-free-live-event",
+   "title_zh": "EMDR 與部分工作治療複雜性創傷（免費直播）",
+   "title_en": "EMDR & Parts Work for Treating Complex Trauma (Free Live Event)",
+   "summary_zh": "Psychotherapy Networker 舉辦的免費直播課程，於 2026-10-22 美東時間上午 10:30 至下午 6:00 線上舉行。課程聚焦以 EMDR 結合部分工作（parts work）與身體取向技巧，協助臨床工作者降低個案防衛、促進創傷處理。原價 $249.99，現免費參加，需線上報名。",
+   "summary_en": "Free live online event from Psychotherapy Networker on 22 Oct 2026 (10:30am–6:00pm EDT) on combining EMDR, parts work and body-oriented techniques for complex trauma; listed at $0 instead of $249.99.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "EMDR",
+    "部分工作",
+    "複雜性創傷",
+    "身體取向治療",
+    "免費培訓"
+   ],
+   "first_seen_at": "2026-10-06T02:37:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 4.0,
+   "mention_count": 1,
+   "featured_at": "2026-10-16T02:38:03+00:00",
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-06T02:37:46+00:00",
+   "training": {
+    "provider": "Psychotherapy Networker",
+    "price": "$0.00（原價 $249.99）",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "",
+    "deadline": "",
+    "event_date": "2026-10-22",
+    "format": "線上直播（Live Webcast）"
+   },
+   "deadline_soon": true
+  },
+  {
+   "slug": "safety-planning-for-youth-suicide-prevention-free-online-tra",
+   "title_zh": "青少年自殺防治安全計劃（SPRC 免費線上培訓，1 CE）",
+   "title_en": "Safety Planning for Youth Suicide Prevention - Free Online Training",
+   "summary_zh": "自殺防治資源中心（SPRC）經由 Zero Suicide 平台提供的免費自學式線上培訓，教授 Stanley-Brown 安全計劃介入法，學習與青少年及其家庭／支持者合作制定降低風險的計劃。可獲美國社工協會（NASW）1 小時繼續教育學分。",
+   "summary_en": "Free self-paced SPRC / Zero Suicide training on the Stanley-Brown safety planning intervention for youth, with 1 NASW CE hour.",
+   "category": "進修與培訓",
+   "kind": "training",
+   "model_names": [],
+   "tags": [
+    "自殺防治",
+    "青少年",
+    "安全計劃",
+    "免費培訓"
+   ],
+   "first_seen_at": "2026-10-03T01:09:46+00:00",
+   "evidence_level": 0,
+   "population": [
+    "臨床工作者"
+   ],
+   "hero_media": null,
+   "verify_needed": true,
+   "hot_score": 2.0,
+   "mention_count": 1,
+   "featured_at": null,
+   "tier": "live",
+   "has_ethics_flags": true,
+   "date": "2026-10-03T01:09:46+00:00",
+   "training": {
+    "provider": "Suicide Prevention Resource Center（SPRC）／Zero Suicide Institute",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "one hour of continuing education from the National Association of Social Workers",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "",
+    "format": "線上自學"
+   },
+   "deadline_soon": false
+  }
+ ]
+}
