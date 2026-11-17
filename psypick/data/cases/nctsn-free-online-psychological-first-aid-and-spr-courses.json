@@ -212,5 +212,11 @@
       "deadline_soon": false
     }
   ],
-  "date": "2026-09-30T13:03:54+00:00"
+  "date": "2026-09-30T13:03:54+00:00",
+  "poster": {
+    "src": "posters/nctsn-free-online-psychological-first-aid-and-spr-courses.svg",
+    "alt": "NCTSN 免費線上心理急救（PFA Online）與心理復原技巧（SPR）課程，各 5 CE",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

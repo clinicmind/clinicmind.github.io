@@ -202,5 +202,11 @@
       "deadline_soon": false
     }
   ],
-  "date": "2026-10-05T03:24:52+00:00"
+  "date": "2026-10-05T03:24:52+00:00",
+  "poster": {
+    "src": "posters/polyvagal-institute-free-online-community-events-oct-nov-202.svg",
+    "alt": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

@@ -154,5 +154,11 @@
       "date": "2025-07-16T00:00:00+00:00"
     }
   ],
-  "date": "2026-10-09T00:00:00+00:00"
+  "date": "2026-10-09T00:00:00+00:00",
+  "poster": {
+    "src": "posters/efficacy-of-ai-driven-conversational-agents-for-mental-healt.svg",
+    "alt": "統合分析：AI 對話代理對大學生憂鬱與焦慮的效果",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

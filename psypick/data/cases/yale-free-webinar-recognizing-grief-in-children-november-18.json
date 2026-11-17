@@ -161,5 +161,11 @@
       "date": "2026-10-14T00:00:00+00:00"
     }
   ],
-  "date": "2026-11-08T13:26:00+00:00"
+  "date": "2026-11-08T13:26:00+00:00",
+  "poster": {
+    "src": "posters/yale-free-webinar-recognizing-grief-in-children-november-18.svg",
+    "alt": "免費網上講座：識別兒童哀傷，耶魯兒童研究中心（11/18）",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

@@ -198,5 +198,11 @@
       "deadline_soon": false
     }
   ],
-  "date": "2026-10-05T03:01:53+00:00"
+  "date": "2026-10-05T03:01:53+00:00",
+  "poster": {
+    "src": "posters/identifying-early-signs-of-psychosis-in-adolescents-and-youn.svg",
+    "alt": "識別青少年及年輕成人精神病早期徵兆",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

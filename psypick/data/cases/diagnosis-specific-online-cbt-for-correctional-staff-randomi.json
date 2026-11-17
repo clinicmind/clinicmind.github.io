@@ -145,5 +145,11 @@
       "date": "2026-10-14T00:00:00+00:00"
     }
   ],
-  "date": "2026-10-16T00:00:00+00:00"
+  "date": "2026-10-16T00:00:00+00:00",
+  "poster": {
+    "src": "posters/diagnosis-specific-online-cbt-for-correctional-staff-randomi.svg",
+    "alt": "針對懲教人員的診斷專屬網上認知行為治療：隨機對照試驗",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

@@ -210,5 +210,11 @@
       "deadline_soon": false
     }
   ],
-  "date": "2026-09-30T13:03:54+00:00"
+  "date": "2026-09-30T13:03:54+00:00",
+  "poster": {
+    "src": "posters/uw-free-webinar-on-trauma-focused-therapy-via-telehealth.svg",
+    "alt": "華盛頓大學免費網上研討會：透過遠距進行創傷焦點治療（2026-10-16）",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

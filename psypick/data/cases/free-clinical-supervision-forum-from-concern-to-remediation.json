@@ -212,5 +212,11 @@
       "deadline_soon": false
     }
   ],
-  "date": "2026-10-05T03:24:52+00:00"
+  "date": "2026-10-05T03:24:52+00:00",
+  "poster": {
+    "src": "posters/free-clinical-supervision-forum-from-concern-to-remediation.svg",
+    "alt": "免費督導 CE 直播：督導中的困難處理，從擔憂到補救（11/13）",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

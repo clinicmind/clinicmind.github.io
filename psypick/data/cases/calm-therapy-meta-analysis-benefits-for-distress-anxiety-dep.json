@@ -149,5 +149,11 @@
       "date": "2026-04-19T00:00:00+00:00"
     }
   ],
-  "date": "2025-04-01T00:00:00+00:00"
+  "date": "2025-04-01T00:00:00+00:00",
+  "poster": {
+    "src": "posters/calm-therapy-meta-analysis-benefits-for-distress-anxiety-dep.svg",
+    "alt": "CALM 治療統合分析：改善癌症患者的心理困擾、焦慮、抑鬱與生活質素",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

@@ -206,5 +206,11 @@
   ],
   "evidence_quote": "FREE LIVE EVENT!",
   "page_date": "",
-  "date": "2026-10-06T02:37:46+00:00"
+  "date": "2026-10-06T02:37:46+00:00",
+  "poster": {
+    "src": "posters/emdr-parts-work-for-treating-complex-trauma-free-live-event.svg",
+    "alt": "EMDR 與部分工作治療複雜性創傷（免費直播）",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

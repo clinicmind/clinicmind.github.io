@@ -146,5 +146,11 @@
       "date": "2026-10-02T00:00:00+00:00"
     }
   ],
-  "date": "2026-10-14T00:00:00+00:00"
+  "date": "2026-10-14T00:00:00+00:00",
+  "poster": {
+    "src": "posters/positive-childhood-experiences-reduce-risk-of-later-mental-i.svg",
+    "alt": "正向童年經驗與成年早期心理健康的長期追蹤研究",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

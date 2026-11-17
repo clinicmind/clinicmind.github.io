@@ -172,5 +172,11 @@
       "date": "2026-08-14T00:00:00+00:00"
     }
   ],
-  "date": "2026-10-01T00:00:00+00:00"
+  "date": "2026-10-01T00:00:00+00:00",
+  "poster": {
+    "src": "posters/taiwan-survey-35-of-teens-report-appearance-anxiety.svg",
+    "alt": "兒福聯盟調查：三成五國高中生有容貌焦慮，口罩成「第二張臉」",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

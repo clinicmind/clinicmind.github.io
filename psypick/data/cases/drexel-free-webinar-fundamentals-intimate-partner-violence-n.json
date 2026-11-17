@@ -170,5 +170,11 @@
       "date": "2026-08-03T00:00:00+00:00"
     }
   ],
-  "date": "2026-11-03T09:30:00+00:00"
+  "date": "2026-11-03T09:30:00+00:00",
+  "poster": {
+    "src": "posters/drexel-free-webinar-fundamentals-intimate-partner-violence-n.svg",
+    "alt": "Drexel 免費網上研討會：11 月 12 日親密伴侶暴力基礎（港澳 22:30）",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

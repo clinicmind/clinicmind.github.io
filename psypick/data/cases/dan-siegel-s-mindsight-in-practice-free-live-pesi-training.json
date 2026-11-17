@@ -190,5 +190,11 @@
       "deadline_soon": false
     }
   ],
-  "date": "2026-10-03T01:09:46+00:00"
+  "date": "2026-10-03T01:09:46+00:00",
+  "poster": {
+    "src": "posters/dan-siegel-s-mindsight-in-practice-free-live-pesi-training.svg",
+    "alt": "Dan Siegel 正念治療師實務：以調節、共鳴與整合帶動臨床改變（PESI 免費直播）",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

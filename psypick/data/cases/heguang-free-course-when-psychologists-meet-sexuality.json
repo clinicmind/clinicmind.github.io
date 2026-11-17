@@ -70,5 +70,11 @@
   "tier": "archive",
   "deadline_soon": false,
   "related": [],
-  "date": "2026-11-05T13:45:00+00:00"
+  "date": "2026-11-05T13:45:00+00:00",
+  "poster": {
+    "src": "posters/heguang-free-course-when-psychologists-meet-sexuality.svg",
+    "alt": "荷光免費線上課：當心理師遇見「性」——五堂性諮商專業共學課（11 月 10 日起）",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

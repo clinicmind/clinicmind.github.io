@@ -122,5 +122,11 @@
       "date": "2026-09-30T00:00:00+00:00"
     }
   ],
-  "date": "2026-10-01T00:00:00+00:00"
+  "date": "2026-10-01T00:00:00+00:00",
+  "poster": {
+    "src": "posters/adhd-mortality-systematic-review-meta-analysis.svg",
+    "alt": "研究：ADHD 患者整體死亡風險高約七成，用藥者風險較低（觀察性統合分析）",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

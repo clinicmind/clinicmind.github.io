@@ -189,5 +189,11 @@
       "deadline_soon": true
     }
   ],
-  "date": "2026-10-28T08:01:01+00:00"
+  "date": "2026-10-28T08:01:01+00:00",
+  "poster": {
+    "src": "posters/pesi-free-2-day-clinical-trauma-training-kate-truitt-neurosc.svg",
+    "alt": "PESI 免費兩日創傷培訓：Kate Truitt 談創傷神經科學與創傷後成長",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

@@ -158,5 +158,11 @@
       "date": "2026-10-09T00:00:00+00:00"
     }
   ],
-  "date": "2026-09-29T00:00:00+00:00"
+  "date": "2026-09-29T00:00:00+00:00",
+  "poster": {
+    "src": "posters/interpretation-bias-in-anxiety-meta-analysis.svg",
+    "alt": "統合分析：焦慮的負向解釋偏誤跨年齡、跨疾患都成立",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

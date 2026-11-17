@@ -225,5 +225,11 @@
       "deadline_soon": false
     }
   ],
-  "date": "2026-09-30T13:03:54+00:00"
+  "date": "2026-09-30T13:03:54+00:00",
+  "poster": {
+    "src": "posters/sentio-free-self-paced-ai-course-for-therapists.svg",
+    "alt": "Sentio University 免費自學課：心理健康專業人員的 AI 安全與倫理使用",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

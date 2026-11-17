@@ -213,5 +213,11 @@
       "deadline_soon": false
     }
   ],
-  "date": "2026-10-01T03:34:06+00:00"
+  "date": "2026-10-01T03:34:06+00:00",
+  "poster": {
+    "src": "posters/uc-davis-free-pcit-web-course.svg",
+    "alt": "UC Davis 免費 PCIT 網上課程：10 小時、最多 10 個 APA 學分",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

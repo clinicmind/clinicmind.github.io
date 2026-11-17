@@ -161,5 +161,11 @@
       "date": "2026-10-14T00:00:00+00:00"
     }
   ],
-  "date": "2026-10-01T00:00:00+00:00"
+  "date": "2026-10-01T00:00:00+00:00",
+  "poster": {
+    "src": "posters/brief-emdr-for-personality-disorders-rct.svg",
+    "alt": "短程 EMDR 用於人格障礙：荷蘭 RCT 顯示五週十次後症狀與診斷狀態改善",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }

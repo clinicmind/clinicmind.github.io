@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:53:11+00:00",
+  "generated_at": "2026-11-17T22:59:12+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -2244,7 +2244,13 @@
         "event_date": "2026-11-18",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": true,
+      "poster": {
+        "src": "posters/yale-free-webinar-recognizing-grief-in-children-november-18.svg",
+        "alt": "免費網上講座：識別兒童哀傷，耶魯兒童研究中心（11/18）",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "ieee-webinar-designing-computational-tools-behavioral-clinic",
@@ -2778,7 +2784,13 @@
         "event_date": "2026-11-10",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/heguang-free-course-when-psychologists-meet-sexuality.svg",
+        "alt": "荷光免費線上課：當心理師遇見「性」——五堂性諮商專業共學課（11 月 10 日起）",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "bessel-van-der-kolk-free-webinar-psychedelics-integration",
@@ -3143,7 +3155,13 @@
         "event_date": "2026-11-12",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/drexel-free-webinar-fundamentals-intimate-partner-violence-n.svg",
+        "alt": "Drexel 免費網上研討會：11 月 12 日親密伴侶暴力基礎（港澳 22:30）",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "drexel-free-webinar-active-listening-cultural-humility-novem",
@@ -3286,7 +3304,13 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
-      "date": "2026-10-01T00:00:00+00:00"
+      "date": "2026-10-01T00:00:00+00:00",
+      "poster": {
+        "src": "posters/adhd-mortality-systematic-review-meta-analysis.svg",
+        "alt": "研究：ADHD 患者整體死亡風險高約七成，用藥者風險較低（觀察性統合分析）",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "hsinchu-free-online-msc-training-perinatal-care-workers",
@@ -3957,7 +3981,13 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
-      "date": "2025-04-01T00:00:00+00:00"
+      "date": "2025-04-01T00:00:00+00:00",
+      "poster": {
+        "src": "posters/calm-therapy-meta-analysis-benefits-for-distress-anxiety-dep.svg",
+        "alt": "CALM 治療統合分析：改善癌症患者的心理困擾、焦慮、抑鬱與生活質素",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "general-purpose-ai-mental-health-support-among-24000-adolesc",
@@ -4240,7 +4270,13 @@
         "event_date": "2026-11-03",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/pesi-free-2-day-clinical-trauma-training-kate-truitt-neurosc.svg",
+        "alt": "PESI 免費兩日創傷培訓：Kate Truitt 談創傷神經科學與創傷後成長",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "anthropic-gives-metr-employee-like-access-to-evaluate-fronti",
@@ -4300,7 +4336,13 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
-      "date": "2026-10-16T00:00:00+00:00"
+      "date": "2026-10-16T00:00:00+00:00",
+      "poster": {
+        "src": "posters/diagnosis-specific-online-cbt-for-correctional-staff-randomi.svg",
+        "alt": "針對懲教人員的診斷專屬網上認知行為治療：隨機對照試驗",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "positive-childhood-experiences-reduce-risk-of-later-mental-i",
@@ -4329,7 +4371,13 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
-      "date": "2026-10-14T00:00:00+00:00"
+      "date": "2026-10-14T00:00:00+00:00",
+      "poster": {
+        "src": "posters/positive-childhood-experiences-reduce-risk-of-later-mental-i.svg",
+        "alt": "正向童年經驗與成年早期心理健康的長期追蹤研究",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
@@ -4484,7 +4532,13 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
-      "date": "2026-10-09T00:00:00+00:00"
+      "date": "2026-10-09T00:00:00+00:00",
+      "poster": {
+        "src": "posters/efficacy-of-ai-driven-conversational-agents-for-mental-healt.svg",
+        "alt": "統合分析：AI 對話代理對大學生憂鬱與焦慮的效果",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "ask-lisa-podcast-episode-292-how-pornographic-content-harms",
@@ -4708,7 +4762,13 @@
         "event_date": "2026-10-22",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/emdr-parts-work-for-treating-complex-trauma-free-live-event.svg",
+        "alt": "EMDR 與部分工作治療複雜性創傷（免費直播）",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "autistic-pupils-happiness-at-school",
@@ -4769,7 +4829,13 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": true,
-      "date": "2026-10-01T00:00:00+00:00"
+      "date": "2026-10-01T00:00:00+00:00",
+      "poster": {
+        "src": "posters/brief-emdr-for-personality-disorders-rct.svg",
+        "alt": "短程 EMDR 用於人格障礙：荷蘭 RCT 顯示五週十次後症狀與診斷狀態改善",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "attention-bias-to-sad-faces-in-at-risk-children",
@@ -4830,7 +4896,13 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
-      "date": "2026-10-02T00:00:00+00:00"
+      "date": "2026-10-02T00:00:00+00:00",
+      "poster": {
+        "src": "posters/childhood-loneliness-and-isolation-into-adulthood.svg",
+        "alt": "12 歲孤單、18 歲孤立：2,232 名雙胞胎追蹤顯示兒童期孤單與孤立的長期代價",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "online-program-for-anxious-parents-prevents-child-anxiety",
@@ -5127,7 +5199,13 @@
         "event_date": "2026-11-13",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/free-clinical-supervision-forum-from-concern-to-remediation.svg",
+        "alt": "免費督導 CE 直播：督導中的困難處理，從擔憂到補救（11/13）",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "sue-johnson-eft-webinar-series-on-demand-with-ce",
@@ -5212,7 +5290,13 @@
         "event_date": "2026-10-12",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/polyvagal-institute-free-online-community-events-oct-nov-202.svg",
+        "alt": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "low-cost-on-demand-efft-short-courses-by-ad-le-lafrance",
@@ -5297,7 +5381,13 @@
         "event_date": "",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/classroom-wise-free-school-mental-health-literacy-course.svg",
+        "alt": "Classroom WISE：免費自學的學校心理健康素養課程",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "free-pat-ogden-webinar-on-resilience-amid-trauma",
@@ -5432,7 +5522,13 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": true,
-      "date": "2026-10-01T00:00:00+00:00"
+      "date": "2026-10-01T00:00:00+00:00",
+      "poster": {
+        "src": "posters/taiwan-survey-35-of-teens-report-appearance-anxiety.svg",
+        "alt": "兒福聯盟調查：三成五國高中生有容貌焦慮，口罩成「第二張臉」",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "taiwan-youth-psychiatric-crisis-wards-to-open-21-beds",
@@ -5567,7 +5663,13 @@
         "event_date": "隨選",
         "deadline": "2027-01-07（課程到期日）"
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/identifying-early-signs-of-psychosis-in-adolescents-and-youn.svg",
+        "alt": "識別青少年及年輕成人精神病早期徵兆",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "introduction-to-clinical-psychology",
@@ -6095,7 +6197,13 @@
         "event_date": "2026-10-21",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/dan-siegel-s-mindsight-in-practice-free-live-pesi-training.svg",
+        "alt": "Dan Siegel 正念治療師實務：以調節、共鳴與整合帶動臨床改變（PESI 免費直播）",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "safety-planning-for-youth-suicide-prevention-free-online-tra",
@@ -6878,7 +6986,13 @@
         "event_date": "",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/uc-davis-free-pcit-web-course.svg",
+        "alt": "UC Davis 免費 PCIT 網上課程：10 小時、最多 10 個 APA 學分",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "coursera-adhd-autism-learning-disabilities-in-school",
@@ -8149,7 +8263,13 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
-      "date": "2026-09-29T00:00:00+00:00"
+      "date": "2026-09-29T00:00:00+00:00",
+      "poster": {
+        "src": "posters/interpretation-bias-in-anxiety-meta-analysis.svg",
+        "alt": "統合分析：焦慮的負向解釋偏誤跨年齡、跨疾患都成立",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "adolescent-life-event-trajectories-and-suicidal-ideation",
@@ -9209,7 +9329,13 @@
         "event_date": "2026-10-16",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/uw-free-webinar-on-trauma-focused-therapy-via-telehealth.svg",
+        "alt": "華盛頓大學免費網上研討會：透過遠距進行創傷焦點治療（2026-10-16）",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "tzk-webinar-on-all-or-none-thinking-in-borderline-personalit",
@@ -9293,7 +9419,13 @@
         "event_date": "",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/sentio-free-self-paced-ai-course-for-therapists.svg",
+        "alt": "Sentio University 免費自學課：心理健康專業人員的 AI 安全與倫理使用",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "nctsn-free-online-psychological-first-aid-and-spr-courses",
@@ -9336,7 +9468,13 @@
         "event_date": "",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": false,
+      "poster": {
+        "src": "posters/nctsn-free-online-psychological-first-aid-and-spr-courses.svg",
+        "alt": "NCTSN 免費線上心理急救（PFA Online）與心理復原技巧（SPR）課程，各 5 CE",
+        "style": "unknown",
+        "made": "2026-11-03"
+      }
     },
     {
       "slug": "johns-hopkins-psychological-first-aid-on-coursera",

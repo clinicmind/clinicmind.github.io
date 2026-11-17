@@ -157,5 +157,11 @@
       "date": "2026-08-14T00:00:00+00:00"
     }
   ],
-  "date": "2026-10-02T00:00:00+00:00"
+  "date": "2026-10-02T00:00:00+00:00",
+  "poster": {
+    "src": "posters/childhood-loneliness-and-isolation-into-adulthood.svg",
+    "alt": "12 歲孤單、18 歲孤立：2,232 名雙胞胎追蹤顯示兒童期孤單與孤立的長期代價",
+    "style": "unknown",
+    "made": "2026-11-03"
+  }
 }
