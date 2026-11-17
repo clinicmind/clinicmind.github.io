@@ -1,0 +1,47 @@
+name: Deploy Pages
+
+# T2-3：檢查通過才部署。validate.py 失敗 → 不部署，真網站保持上一版。
+# 本檔須由 Gu 在 GitHub 網頁版人手新增至 clinicmind/clinicmind.github.io 的
+# .github/workflows/pages.yml（Muse 的 GitHub App 沒有 Workflows 權限）。
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate PsyPick data
+        run: python3 tools/validate.py --data-dir psypick/data
+
+      - name: Build PsyPick index and version
+        run: python3 tools/psypick/build.py --data-dir psypick/data --sha "${{ github.sha }}"
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
