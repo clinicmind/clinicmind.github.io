@@ -1,1 +1,160 @@
-{"title_zh": "FDA 許可 Neurora：協助評估 18 個月至 12 歲兒童自閉症的 AI 工具", "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years", "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。", "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.", "category": "評估與篩檢", "kind": "product", "evidence_level": 2, "evidence_note": "FDA 許可已由醫療器材媒體（Medical Device Network、Becker's）報導；許可本身不等於臨床有效性證明", "ethics_flags": [], "psych_concepts": [], "caution": "FDA 許可狀態以廠商與媒體報導為依據，FDA 資料庫原文未直接核對。", "verify_needed": false, "verify_reason": "", "brief_zh": ["屬 FDA 第二類（Class II）醫療器材許可，用於輔助診斷", "需與病史及臨床資料合併判斷，不能單獨作診斷", "目前為廠商與媒體報導，獨立臨床驗證資料需另行查閱"], "brief_en": [], "model_names": [], "tags": ["自閉症", "兒童心理", "評估", "FDA", "AI 工具"], "population": ["兒童青少年"], "supervision_questions": ["在兒童評估中，AI 輔助結果應如何與臨床觀察及家長資料對照？", "若家長以此工具結果作為診斷依據，我們怎樣解釋其限制？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.medicaldevice-network.com/news/argus-cognitive-paediatric-autism-diagnostic-secures-fda-clearance/", "author_handle": "", "author_name": "Medical Device Network", "title": "Argus Cognitive's paediatric autism diagnostic secures FDA clearance", "content": "", "posted_at": "2026-10-08T00:00:00+00:00"}], "first_seen_at": "2026-10-13T02:38:45+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "fda-clears-neurora-ai-assisted-autism-assessment-tool-for-ch", "featured_at": null, "hot_score": 0.0, "tier": "live", "deadline_soon": false, "related": [{"slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions", "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對", "title_en": "NAS opposes NHS autism and ADHD assessment restrictions", "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。", "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.", "category": "評估與篩檢", "kind": "incident", "model_names": [], "tags": ["特殊教育需要", "兒童心理", "自閉症", "ADHD", "評估輪候", "英國", "NHS"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 0, "population": ["兒童青少年", "成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-25T00:00:00+00:00"}, {"slug": "nas-responds-to-uta-frith-on-autism-diagnosis", "title_zh": "自閉症診斷是否過度擴張？英國自閉症協會回應 Uta Frith 新論文", "title_en": "NAS responds to Uta Frith on autism diagnosis", "summary_zh": "認知心理學家 Uta Frith 在《Psychological Medicine》發表〈自閉症譜系障礙：是否已失去意義並導致誤診？〉，質疑現行診斷範圍過寬。英國自閉症協會回應，診斷增加反映社會認識提升，所提亞型仍屬理論、缺乏臨床應用價值，並提醒不要讓自閉症人士互相對立。", "summary_en": "Uta Frith's paper in Psychological Medicine questions whether the autism spectrum diagnosis has lost meaning and drives misdiagnosis. The NAS responds that rising diagnoses reflect awareness, that proposed subtypes remain theoretical, and warns against pitting autistic people against each other.", "category": "評估與篩檢", "kind": "practice", "model_names": [], "tags": ["特殊教育需要", "兒童心理", "自閉症", "診斷爭議", "Uta Frith", "英國"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 0, "population": ["兒童青少年", "成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-04T00:00:00+00:00"}, {"slug": "gaps-between-autism-screening-and-timely-support", "title_zh": "自閉症早期篩檢到支援的斷層：篩檢不是診斷，而是路徑的起點", "title_en": "Gaps between autism screening and timely support", "summary_zh": "愛爾蘭 Munster 理工大學在《Pediatric Investigation》發表敘事性文獻回顧，整理 0–5 歲兒童自閉症篩檢到支援的落差。所引研究顯示：一項約 26,000 名幼兒的研究中，篩檢只找到不足四成後來確診的兒童；篩檢未過的兒童只有 31% 獲轉介專科評估；家庭平均等候 375 天才得到診斷。作者主張篩檢應被視為回應式路徑的入口，陰性結果但仍有疑慮時要持續監察。", "summary_en": "A narrative review in Pediatric Investigation describes breakdowns between autism screening and support in children aged 0–5: limited screening sensitivity, only 31% of screen-positive children referred, and average 375-day waits. Screening should be an entry point, not a diagnosis.", "category": "評估與篩檢", "kind": "research", "model_names": [], "tags": ["特殊教育需要", "兒童心理", "自閉症", "早期篩檢", "早期介入", "轉介路徑"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-03T00:00:00+00:00"}]}
+{
+  "title_zh": "FDA 許可 Neurora：協助評估 18 個月至 12 歲兒童自閉症的 AI 工具",
+  "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years",
+  "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。",
+  "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.",
+  "category": "評估與篩檢",
+  "kind": "product",
+  "evidence_level": 2,
+  "evidence_note": "FDA 許可已由醫療器材媒體（Medical Device Network、Becker's）報導；許可本身不等於臨床有效性證明",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "FDA 許可狀態以廠商與媒體報導為依據，FDA 資料庫原文未直接核對。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "屬 FDA 第二類（Class II）醫療器材許可，用於輔助診斷",
+    "需與病史及臨床資料合併判斷，不能單獨作診斷",
+    "目前為廠商與媒體報導，獨立臨床驗證資料需另行查閱"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "自閉症",
+    "兒童心理",
+    "評估",
+    "FDA",
+    "AI 工具"
+  ],
+  "population": [
+    "兒童青少年"
+  ],
+  "supervision_questions": [
+    "在兒童評估中，AI 輔助結果應如何與臨床觀察及家長資料對照？",
+    "若家長以此工具結果作為診斷依據，我們怎樣解釋其限制？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.medicaldevice-network.com/news/argus-cognitive-paediatric-autism-diagnostic-secures-fda-clearance/",
+      "author_handle": "",
+      "author_name": "Medical Device Network",
+      "title": "Argus Cognitive's paediatric autism diagnostic secures FDA clearance",
+      "content": "",
+      "posted_at": "2026-10-08T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-13T02:38:45+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "fda-clears-neurora-ai-assisted-autism-assessment-tool-for-ch",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions",
+      "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對",
+      "title_en": "NAS opposes NHS autism and ADHD assessment restrictions",
+      "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。",
+      "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.",
+      "category": "評估與篩檢",
+      "kind": "incident",
+      "model_names": [],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "ADHD",
+        "評估輪候",
+        "英國",
+        "NHS"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "slug": "nas-responds-to-uta-frith-on-autism-diagnosis",
+      "title_zh": "自閉症診斷是否過度擴張？英國自閉症協會回應 Uta Frith 新論文",
+      "title_en": "NAS responds to Uta Frith on autism diagnosis",
+      "summary_zh": "認知心理學家 Uta Frith 在《Psychological Medicine》發表〈自閉症譜系障礙：是否已失去意義並導致誤診？〉，質疑現行診斷範圍過寬。英國自閉症協會回應，診斷增加反映社會認識提升，所提亞型仍屬理論、缺乏臨床應用價值，並提醒不要讓自閉症人士互相對立。",
+      "summary_en": "Uta Frith's paper in Psychological Medicine questions whether the autism spectrum diagnosis has lost meaning and drives misdiagnosis. The NAS responds that rising diagnoses reflect awareness, that proposed subtypes remain theoretical, and warns against pitting autistic people against each other.",
+      "category": "評估與篩檢",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "診斷爭議",
+        "Uta Frith",
+        "英國"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-04T00:00:00+00:00"
+    },
+    {
+      "slug": "gaps-between-autism-screening-and-timely-support",
+      "title_zh": "自閉症早期篩檢到支援的斷層：篩檢不是診斷，而是路徑的起點",
+      "title_en": "Gaps between autism screening and timely support",
+      "summary_zh": "愛爾蘭 Munster 理工大學在《Pediatric Investigation》發表敘事性文獻回顧，整理 0–5 歲兒童自閉症篩檢到支援的落差。所引研究顯示：一項約 26,000 名幼兒的研究中，篩檢只找到不足四成後來確診的兒童；篩檢未過的兒童只有 31% 獲轉介專科評估；家庭平均等候 375 天才得到診斷。作者主張篩檢應被視為回應式路徑的入口，陰性結果但仍有疑慮時要持續監察。",
+      "summary_en": "A narrative review in Pediatric Investigation describes breakdowns between autism screening and support in children aged 0–5: limited screening sensitivity, only 31% of screen-positive children referred, and average 375-day waits. Screening should be an entry point, not a diagnosis.",
+      "category": "評估與篩檢",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "早期篩檢",
+        "早期介入",
+        "轉介路徑"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-03T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-10-08T00:00:00+00:00"
+}

@@ -1,1 +1,168 @@
-{"title_zh": "統合分析：重視身體經驗的心理動力治療對憂鬱有效，與 CBT 相當（非 Bodynamic）", "title_en": "Meta-analysis: embodied psychodynamic therapy for depression", "summary_zh": "Heider 等人 2026 年 3 月於 Frontiers in Psychology 發表的統合分析，納入 11 個 RCT、1,624 位憂鬱成人，評估在治療中系統性處理身體現象與主觀經驗的心理動力治療（如 ISTDP、動力人際治療）。相對對照組，治療後 SMD = −0.53、追蹤期 −1.23；與 CBT 等有效治療相比則效果相當。作者特別說明這屬由上而下的心理動力取向，與 Bodynamic 或 Somatic Experiencing 等由下而上的身體心理治療不同。", "summary_en": "A 2026 meta-analysis of 11 RCTs (n = 1,624) found psychodynamic therapies addressing the subjective body outperformed controls for depression (SMD −0.53 post, −1.23 follow-up) and were equivalent to CBT; the authors distinguish this from bottom-up somatic psychotherapy such as Bodynamic.", "category": "研究與證據", "kind": "research", "evidence_level": 4, "evidence_note": "RCT 的系統性回顧與統合分析，但納入試驗少、異質性高。", "ethics_flags": [], "psych_concepts": [{"name": "共同因素", "note": "與 CBT 效果相當的結果，可放在不同取向效果相近的共同因素脈絡下討論。", "ref": "概念｜共同因素"}], "caution": "此證據不能直接套用到 Bodynamic 或 Somatic Experiencing；試驗數少且異質性高，個別研究對結果影響大。", "verify_needed": false, "verify_reason": "", "brief_zh": ["屬相關的身體取向研究，不是 Bodynamic 本身", "11 個 RCT、1,624 人，對象為憂鬱成人", "對照：治療後 SMD −0.53，追蹤期 −1.23；與 CBT 相當", "異質性高（I² 約 89–90%）"], "brief_en": ["Related embodied work, not Bodynamic", "11 RCTs, n = 1,624", "SMD −0.53 post, −1.23 follow-up; ≈ CBT", "High heterogeneity"], "model_names": [], "tags": ["身體取向治療", "心理動力治療", "憂鬱", "統合分析", "具身"], "population": ["成人", "臨床工作者"], "supervision_questions": ["個案說的話與身體表現不一致時，你會怎樣把這個觀察帶回會談？", "這篇的『由上而下』身體工作，與 Bodynamic 的『由下而上』練習在介入上差在哪裏？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1727473/full", "author_handle": "", "author_name": "Maximilian Heider、Serge Sulz、Georg Franzen（Frontiers in Psychology）", "title": "Psychodynamic treatments taking an embodied perspective and their effect on depressive symptomatology: a systematic review and meta-analysis of randomized controlled trials", "content": "統合 11 個 RCT（1,624 位憂鬱成人），評估在治療中處理「主觀身體經驗」的心理動力治療；作者強調這與由下而上的身體心理治療不同。", "posted_at": "2026-03-26T00:00:00+00:00"}], "first_seen_at": "2026-10-01T03:34:06+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "meta-analysis-embodied-psychodynamic-therapy-for-depression", "featured_at": null, "hot_score": 1.173, "tier": "live", "deadline_soon": false, "related": [{"slug": "meta-analysis-of-emotion-focused-therapy-for-adult-distress", "title_zh": "統合分析：情緒取向治療（Greenberg 系 EFT）對成人憂鬱、焦慮與 PTSD 的療效", "title_en": "Meta-analysis of emotion-focused therapy for adult distress disorders", "summary_zh": "這篇 2026 年 4 月刊於 Psychotherapy Research 的統合分析，針對 Greenberg 系的情緒取向治療（Emotion-Focused Therapy，個人與團體形式，排除伴侶 EFT），納入 13 篇試驗（EFT 組 348 人、對照 201 人）。EFT 相對於無治療對照效果大（g = 1.39），相對於其他既有心理治療的優勢則小（約 0.28）。作者同時指出研究品質普遍偏低、有出版偏誤跡象，樣本也集中於女性與白人或伊朗參與者。", "summary_en": "A 2026 meta-analysis in Psychotherapy Research of 13 trials of (Greenberg-style) emotion-focused therapy, excluding couples EFT, found a large effect versus inactive controls (g = 1.39) and a small advantage over active therapies (about 0.28). The authors flag poor study quality, publication bias and narrow samples.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["情緒取向治療", "Emotion-Focused Therapy", "統合分析", "憂鬱", "焦慮", "PTSD"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 4, "population": ["成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 1.564, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-04-19T00:00:00+00:00"}, {"slug": "chatbot-meta-analysis-for-depression-and-anxiety", "title_zh": "統合分析：聊天機器人對憂鬱、焦慮症狀有小到中等效果，臨床族群最明顯", "title_en": "Chatbot meta-analysis for depression and anxiety", "summary_zh": "npj Digital Medicine 刊出的系統性回顧與統合分析納入 39 篇 RCT，聊天機器人對憂鬱（g=0.31）與焦慮（g=0.28）症狀有小到中等的改善。臨床族群效果（g=0.64）明顯大於非臨床族群（g=0.07）；生成式與檢索式聊天機器人之間未見顯著差異，但生成式研究數量少、檢定力可能不足。", "summary_en": "A systematic review and meta-analysis of 39 RCTs in npj Digital Medicine found small-to-moderate effects of chatbots on depressive (g=0.31) and anxiety (g=0.28) symptoms. Effects were larger in clinical samples (g=0.64) than nonclinical ones (g=0.07); no significant difference was found between generative and retrieval-based chatbots, though generative studies were few.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["統合分析", "聊天機器人", "憂鬱", "焦慮", "生成式AI"], "first_seen_at": "2026-09-30T13:03:54+00:00", "evidence_level": 4, "population": ["成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.518, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-03-25T00:00:00+00:00"}, {"slug": "efficacy-of-ai-driven-conversational-agents-for-mental-healt", "title_zh": "統合分析：AI 對話代理對大學生憂鬱與焦慮的效果", "title_en": "Efficacy of AI-driven conversational agents for mental health promotion among university students: a systematic review and meta-analysis", "summary_zh": "系統性回顧與統合分析，納入以大學生為對象的 AI 對話介入隨機對照試驗。與低強度或非主動對照比較時，對憂鬱（3 項比較，Hedges g≈-0.41）與焦慮（4 項比較，g≈-0.44）有小至中等的正向效果；與主動對照（MYLO）比較則未見可靠的額外效果。作者強調證據基礎仍小、異質性高。", "summary_en": "Systematic review and meta-analysis of RCTs of AI-mediated conversational interventions in university students. Against low-intensity or non-active comparators, small-to-moderate benefits for depression (k=3, g≈-0.41) and anxiety (k=4, g≈-0.44); no reliable added effect against an active conversational control (MYLO). The authors stress the small, heterogeneous evidence base.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["AI 對話代理", "大學生", "憂鬱", "焦慮", "統合分析", "數位心理介入"], "first_seen_at": "2026-10-12T05:30:51+00:00", "evidence_level": 4, "population": ["大專生"], "hero_media": null, "verify_needed": false, "hot_score": 2.031, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-09T00:00:00+00:00"}]}
+{
+  "title_zh": "統合分析：重視身體經驗的心理動力治療對憂鬱有效，與 CBT 相當（非 Bodynamic）",
+  "title_en": "Meta-analysis: embodied psychodynamic therapy for depression",
+  "summary_zh": "Heider 等人 2026 年 3 月於 Frontiers in Psychology 發表的統合分析，納入 11 個 RCT、1,624 位憂鬱成人，評估在治療中系統性處理身體現象與主觀經驗的心理動力治療（如 ISTDP、動力人際治療）。相對對照組，治療後 SMD = −0.53、追蹤期 −1.23；與 CBT 等有效治療相比則效果相當。作者特別說明這屬由上而下的心理動力取向，與 Bodynamic 或 Somatic Experiencing 等由下而上的身體心理治療不同。",
+  "summary_en": "A 2026 meta-analysis of 11 RCTs (n = 1,624) found psychodynamic therapies addressing the subjective body outperformed controls for depression (SMD −0.53 post, −1.23 follow-up) and were equivalent to CBT; the authors distinguish this from bottom-up somatic psychotherapy such as Bodynamic.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 4,
+  "evidence_note": "RCT 的系統性回顧與統合分析，但納入試驗少、異質性高。",
+  "ethics_flags": [],
+  "psych_concepts": [
+    {
+      "name": "共同因素",
+      "note": "與 CBT 效果相當的結果，可放在不同取向效果相近的共同因素脈絡下討論。",
+      "ref": "概念｜共同因素"
+    }
+  ],
+  "caution": "此證據不能直接套用到 Bodynamic 或 Somatic Experiencing；試驗數少且異質性高，個別研究對結果影響大。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "屬相關的身體取向研究，不是 Bodynamic 本身",
+    "11 個 RCT、1,624 人，對象為憂鬱成人",
+    "對照：治療後 SMD −0.53，追蹤期 −1.23；與 CBT 相當",
+    "異質性高（I² 約 89–90%）"
+  ],
+  "brief_en": [
+    "Related embodied work, not Bodynamic",
+    "11 RCTs, n = 1,624",
+    "SMD −0.53 post, −1.23 follow-up; ≈ CBT",
+    "High heterogeneity"
+  ],
+  "model_names": [],
+  "tags": [
+    "身體取向治療",
+    "心理動力治療",
+    "憂鬱",
+    "統合分析",
+    "具身"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "個案說的話與身體表現不一致時，你會怎樣把這個觀察帶回會談？",
+    "這篇的『由上而下』身體工作，與 Bodynamic 的『由下而上』練習在介入上差在哪裏？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1727473/full",
+      "author_handle": "",
+      "author_name": "Maximilian Heider、Serge Sulz、Georg Franzen（Frontiers in Psychology）",
+      "title": "Psychodynamic treatments taking an embodied perspective and their effect on depressive symptomatology: a systematic review and meta-analysis of randomized controlled trials",
+      "content": "統合 11 個 RCT（1,624 位憂鬱成人），評估在治療中處理「主觀身體經驗」的心理動力治療；作者強調這與由下而上的身體心理治療不同。",
+      "posted_at": "2026-03-26T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-01T03:34:06+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "meta-analysis-embodied-psychodynamic-therapy-for-depression",
+  "featured_at": null,
+  "hot_score": 1.173,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "meta-analysis-of-emotion-focused-therapy-for-adult-distress",
+      "title_zh": "統合分析：情緒取向治療（Greenberg 系 EFT）對成人憂鬱、焦慮與 PTSD 的療效",
+      "title_en": "Meta-analysis of emotion-focused therapy for adult distress disorders",
+      "summary_zh": "這篇 2026 年 4 月刊於 Psychotherapy Research 的統合分析，針對 Greenberg 系的情緒取向治療（Emotion-Focused Therapy，個人與團體形式，排除伴侶 EFT），納入 13 篇試驗（EFT 組 348 人、對照 201 人）。EFT 相對於無治療對照效果大（g = 1.39），相對於其他既有心理治療的優勢則小（約 0.28）。作者同時指出研究品質普遍偏低、有出版偏誤跡象，樣本也集中於女性與白人或伊朗參與者。",
+      "summary_en": "A 2026 meta-analysis in Psychotherapy Research of 13 trials of (Greenberg-style) emotion-focused therapy, excluding couples EFT, found a large effect versus inactive controls (g = 1.39) and a small advantage over active therapies (about 0.28). The authors flag poor study quality, publication bias and narrow samples.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Emotion-Focused Therapy",
+        "統合分析",
+        "憂鬱",
+        "焦慮",
+        "PTSD"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 4,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.564,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-04-19T00:00:00+00:00"
+    },
+    {
+      "slug": "chatbot-meta-analysis-for-depression-and-anxiety",
+      "title_zh": "統合分析：聊天機器人對憂鬱、焦慮症狀有小到中等效果，臨床族群最明顯",
+      "title_en": "Chatbot meta-analysis for depression and anxiety",
+      "summary_zh": "npj Digital Medicine 刊出的系統性回顧與統合分析納入 39 篇 RCT，聊天機器人對憂鬱（g=0.31）與焦慮（g=0.28）症狀有小到中等的改善。臨床族群效果（g=0.64）明顯大於非臨床族群（g=0.07）；生成式與檢索式聊天機器人之間未見顯著差異，但生成式研究數量少、檢定力可能不足。",
+      "summary_en": "A systematic review and meta-analysis of 39 RCTs in npj Digital Medicine found small-to-moderate effects of chatbots on depressive (g=0.31) and anxiety (g=0.28) symptoms. Effects were larger in clinical samples (g=0.64) than nonclinical ones (g=0.07); no significant difference was found between generative and retrieval-based chatbots, though generative studies were few.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "統合分析",
+        "聊天機器人",
+        "憂鬱",
+        "焦慮",
+        "生成式AI"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 4,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.518,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-03-25T00:00:00+00:00"
+    },
+    {
+      "slug": "efficacy-of-ai-driven-conversational-agents-for-mental-healt",
+      "title_zh": "統合分析：AI 對話代理對大學生憂鬱與焦慮的效果",
+      "title_en": "Efficacy of AI-driven conversational agents for mental health promotion among university students: a systematic review and meta-analysis",
+      "summary_zh": "系統性回顧與統合分析，納入以大學生為對象的 AI 對話介入隨機對照試驗。與低強度或非主動對照比較時，對憂鬱（3 項比較，Hedges g≈-0.41）與焦慮（4 項比較，g≈-0.44）有小至中等的正向效果；與主動對照（MYLO）比較則未見可靠的額外效果。作者強調證據基礎仍小、異質性高。",
+      "summary_en": "Systematic review and meta-analysis of RCTs of AI-mediated conversational interventions in university students. Against low-intensity or non-active comparators, small-to-moderate benefits for depression (k=3, g≈-0.41) and anxiety (k=4, g≈-0.44); no reliable added effect against an active conversational control (MYLO). The authors stress the small, heterogeneous evidence base.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "AI 對話代理",
+        "大學生",
+        "憂鬱",
+        "焦慮",
+        "統合分析",
+        "數位心理介入"
+      ],
+      "first_seen_at": "2026-10-12T05:30:51+00:00",
+      "evidence_level": 4,
+      "population": [
+        "大專生"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.031,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-09T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-03-26T00:00:00+00:00"
+}

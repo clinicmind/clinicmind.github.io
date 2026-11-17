@@ -1,65 +1,66 @@
 {
- "title_zh": "個別數據統合分析：SSRI 治兒童青少年強迫症效果小但真實，基線越嚴重反應越差（4 項試驗，614 人）",
- "title_en": "SSRIs pediatric OCD individual participant data meta-analysis",
- "summary_zh": "Journal of the American Academy of Child and Adolescent Psychiatry 刊出個別參與者數據（IPD）統合分析，綜合 SSRI 對照安慰劑治療兒童青少年強迫症的隨機試驗。研究取自荷蘭監管機構登記冊的原始數據，納入 4 項短期雙盲隨機試驗共 614 名患者，佔歷來所有雙盲安慰劑對照試驗參與者的 86%。結果顯示，SSRI 較安慰劑多減 3.0 分 CY-BOCS（95% CI 2.5–3.5，Hedges' g 0.38），達到至少 35% 症狀減輕的反應機會高近一倍（OR 1.89）。基線嚴重程度越高，反應機會越低（基線每高 1 分，反應機會低約 8%）。作者結論：SSRI 效果小但真實，須向家長說明平均改善有限。研究於 2025 年 7 月刊出，2026 年 11 月 4 日經 MediCAMHS 每日簡報重新討論。",
- "summary_en": "The Journal of the American Academy of Child and Adolescent Psychiatry published an individual-participant-data (IPD) meta-analysis of SSRIs versus placebo for pediatric obsessive-compulsive disorder. Using raw data from the Dutch regulatory authority registry, the analysis included 4 short-term double-blind randomised trials with 614 patients, representing 86% of all participants ever enrolled in double-blind placebo-controlled SSRI trials for pediatric OCD. SSRIs reduced CY-BOCS scores by 3.0 points more than placebo (95% CI 2.5-3.5, Hedges' g 0.38), and nearly doubled the odds of response of at least 35% symptom reduction (OR 1.89). Higher baseline severity predicted lower odds of response (about 8% lower per 1-point increase). The authors conclude the effect is small but real, and families should be told the average gain is modest. Published July 2025; re-discussed in the MediCAMHS Daily Briefing on 4 November 2026.",
- "category": "研究與證據",
- "kind": "research",
- "evidence_level": 4,
- "evidence_note": "個別參與者數據統合分析（Journal of the American Academy of Child and Adolescent Psychiatry 2025 年 7 月，64 卷 7 期 775–785 頁；2025 年 1 月 10 日線上刊出；DOI: 10.1016/j.jaac.2025.01.001；PMID: 39799995；經 PubMed 摘要與烏特勒支大學記錄核實；2026-11-04 經 MediCAMHS 每日簡報重新討論）",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "平均只低 3.0 分，低於文中引述的 5.1 分最小臨床重要差異，平均改善有限；全部試驗在北美進行，白人參與者過多，推廣性有限；試驗期短（約 10 至 13 週），長期效果未知；未能納入社經地位與共病等數據；安慰劑反應率高，個別反應差異大。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "樣本：4 項短期雙盲安慰劑對照隨機試驗，614 名 6 至 18 歲強迫症兒童青少年；佔歷來所有同類試驗參與者的 86%；數據取自荷蘭監管機構登記冊",
-  "設計：個別參與者數據統合分析，一階段與二階段分析並行；主要結果為 CY-BOCS 分數變化；反應定義為症狀減輕至少 35%",
-  "主要結果：SSRI 較安慰劑多減 3.0 分 CY-BOCS（95% CI 2.5–3.5，Hedges' g 0.38）；反應機會 OR 1.89（95% CI 1.45–2.45）",
-  "調節因素：基線嚴重程度越高，反應機會越低（每高 1 分，勝算比 0.92，p = .0074）；年齡、性別、體重與病程未見明顯調節作用",
-  "限制：全部試驗在北美進行，白人過多；偏倚風險整體偏低；未能納入社經地位與共病數據；試驗期短",
-  "作者：Sem E. Cohen 等（阿姆斯特丹大學醫學中心）；刊於 JAACAP 2025 年 7 月號"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "強迫症",
-  "SSRI",
-  "兒童青少年",
-  "統合分析",
-  "個別參與者數據"
- ],
- "population": [
-  "兒童青少年",
-  "家長",
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "家長問「食藥會好幾多」，你會點樣用「平均低 3 分、未達 5.1 分重要差異」去解釋，而又唔令佢哋失望到放棄治療？"
- ],
- "original_prompt": "",
- "training": null,
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://pubmed.ncbi.nlm.nih.gov/39799995/",
-   "author_handle": "",
-   "author_name": "Cohen 等（阿姆斯特丹大學醫學中心）",
-   "title": "Systematic Review and Meta-Analysis of Individual Participant Data: Randomized, Placebo-Controlled Trials of Selective Serotonin Reuptake Inhibitors for Pediatric Obsessive-Compulsive Disorder (JAACAP; DOI: 10.1016/j.jaac.2025.01.001)",
-   "content": "期刊論文：4 項隨機試驗個別參與者數據統合分析，614 名兒童青少年強迫症患者。",
-   "posted_at": "2025-07-01T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-11-11T13:33:22+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "ssris-pediatric-ocd-individual-participant-data-meta-analysi",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [],
- "evidence_quote": "4 studies comprising 614 patients",
- "page_date": "2025 Jan 10"
+  "title_zh": "個別數據統合分析：SSRI 治兒童青少年強迫症效果小但真實，基線越嚴重反應越差（4 項試驗，614 人）",
+  "title_en": "SSRIs pediatric OCD individual participant data meta-analysis",
+  "summary_zh": "Journal of the American Academy of Child and Adolescent Psychiatry 刊出個別參與者數據（IPD）統合分析，綜合 SSRI 對照安慰劑治療兒童青少年強迫症的隨機試驗。研究取自荷蘭監管機構登記冊的原始數據，納入 4 項短期雙盲隨機試驗共 614 名患者，佔歷來所有雙盲安慰劑對照試驗參與者的 86%。結果顯示，SSRI 較安慰劑多減 3.0 分 CY-BOCS（95% CI 2.5–3.5，Hedges' g 0.38），達到至少 35% 症狀減輕的反應機會高近一倍（OR 1.89）。基線嚴重程度越高，反應機會越低（基線每高 1 分，反應機會低約 8%）。作者結論：SSRI 效果小但真實，須向家長說明平均改善有限。研究於 2025 年 7 月刊出，2026 年 11 月 4 日經 MediCAMHS 每日簡報重新討論。",
+  "summary_en": "The Journal of the American Academy of Child and Adolescent Psychiatry published an individual-participant-data (IPD) meta-analysis of SSRIs versus placebo for pediatric obsessive-compulsive disorder. Using raw data from the Dutch regulatory authority registry, the analysis included 4 short-term double-blind randomised trials with 614 patients, representing 86% of all participants ever enrolled in double-blind placebo-controlled SSRI trials for pediatric OCD. SSRIs reduced CY-BOCS scores by 3.0 points more than placebo (95% CI 2.5-3.5, Hedges' g 0.38), and nearly doubled the odds of response of at least 35% symptom reduction (OR 1.89). Higher baseline severity predicted lower odds of response (about 8% lower per 1-point increase). The authors conclude the effect is small but real, and families should be told the average gain is modest. Published July 2025; re-discussed in the MediCAMHS Daily Briefing on 4 November 2026.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 4,
+  "evidence_note": "個別參與者數據統合分析（Journal of the American Academy of Child and Adolescent Psychiatry 2025 年 7 月，64 卷 7 期 775–785 頁；2025 年 1 月 10 日線上刊出；DOI: 10.1016/j.jaac.2025.01.001；PMID: 39799995；經 PubMed 摘要與烏特勒支大學記錄核實；2026-11-04 經 MediCAMHS 每日簡報重新討論）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "平均只低 3.0 分，低於文中引述的 5.1 分最小臨床重要差異，平均改善有限；全部試驗在北美進行，白人參與者過多，推廣性有限；試驗期短（約 10 至 13 週），長期效果未知；未能納入社經地位與共病等數據；安慰劑反應率高，個別反應差異大。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "樣本：4 項短期雙盲安慰劑對照隨機試驗，614 名 6 至 18 歲強迫症兒童青少年；佔歷來所有同類試驗參與者的 86%；數據取自荷蘭監管機構登記冊",
+    "設計：個別參與者數據統合分析，一階段與二階段分析並行；主要結果為 CY-BOCS 分數變化；反應定義為症狀減輕至少 35%",
+    "主要結果：SSRI 較安慰劑多減 3.0 分 CY-BOCS（95% CI 2.5–3.5，Hedges' g 0.38）；反應機會 OR 1.89（95% CI 1.45–2.45）",
+    "調節因素：基線嚴重程度越高，反應機會越低（每高 1 分，勝算比 0.92，p = .0074）；年齡、性別、體重與病程未見明顯調節作用",
+    "限制：全部試驗在北美進行，白人過多；偏倚風險整體偏低；未能納入社經地位與共病數據；試驗期短",
+    "作者：Sem E. Cohen 等（阿姆斯特丹大學醫學中心）；刊於 JAACAP 2025 年 7 月號"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "強迫症",
+    "SSRI",
+    "兒童青少年",
+    "統合分析",
+    "個別參與者數據"
+  ],
+  "population": [
+    "兒童青少年",
+    "家長",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "家長問「食藥會好幾多」，你會點樣用「平均低 3 分、未達 5.1 分重要差異」去解釋，而又唔令佢哋失望到放棄治療？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39799995/",
+      "author_handle": "",
+      "author_name": "Cohen 等（阿姆斯特丹大學醫學中心）",
+      "title": "Systematic Review and Meta-Analysis of Individual Participant Data: Randomized, Placebo-Controlled Trials of Selective Serotonin Reuptake Inhibitors for Pediatric Obsessive-Compulsive Disorder (JAACAP; DOI: 10.1016/j.jaac.2025.01.001)",
+      "content": "期刊論文：4 項隨機試驗個別參與者數據統合分析，614 名兒童青少年強迫症患者。",
+      "posted_at": "2025-07-01T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-11T13:33:22+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ssris-pediatric-ocd-individual-participant-data-meta-analysi",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "4 studies comprising 614 patients",
+  "page_date": "2025 Jan 10",
+  "date": "2025-07-01T00:00:00+00:00"
 }

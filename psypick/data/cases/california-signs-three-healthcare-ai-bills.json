@@ -1,1 +1,192 @@
-{"title_zh": "加州簽署三項醫療 AI 法案：AI 只能當顧問、須處理演算法偏誤", "title_en": "California signs three healthcare AI bills", "summary_zh": "加州州長簽署三項醫療 AI 法案：AB 1979 把 AI 在臨床照護中限於諮詢角色、不得執行需執照的臨床功能，並保護經由聊天機器人取得的病人健康資訊；SB 503 要求醫療 AI 開發者與使用者辨識、減輕並持續監測臨床決策支援系統的偏誤風險；AB 1609 禁止大型企業把客服聊天機器人包裝成真人。同時被否決的有 AB 2575 和處理 AI 心理治療的 SB 903。", "summary_en": "California's governor signed three healthcare AI bills: AB 1979 restricts AI to an advisory role in clinical care, bars it from performing licensed clinical functions and protects health information accessed through chatbots; SB 503 requires developers and deployers to identify, mitigate and monitor bias risks in clinical decision support; AB 1609 bars large enterprises from presenting customer-service chatbots as human. AB 2575 and the AI-in-psychotherapy bill SB 903 were vetoed.", "category": "倫理與風險", "kind": "practice", "evidence_level": 0, "evidence_note": "新聞報導立法結果，非實證研究。", "ethics_flags": [{"flag": "專業責任歸屬", "note": "AB 1979 明定 AI 只能作諮詢，需執照的臨床判斷仍由人負責。", "refs": ["專業責任歸屬｜人機協作的責任"]}, {"flag": "偏誤與公平", "note": "SB 503 要求開發者與使用機構辨識、減輕並定期監測臨床決策支援系統的偏誤影響。", "refs": ["偏誤與公平｜演算法偏誤"]}, {"flag": "保密與隱私", "note": "AB 1979 把醫療保密延伸到經由聊天機器人取得的病人健康資訊。", "refs": ["APA 4.01｜保密的維持"]}], "psych_concepts": [{"name": "自動化偏誤", "note": "被否決的 AB 2575 處理「臨床人員沒推翻 AI 輸出」的責任問題，提醒人機協作時容易過度信任系統建議。", "ref": "概念｜自動化偏誤"}], "caution": "這些是加州的醫療機構規範，條文細節與生效日期應查閱原法案，不宜直接套用到其他地區。", "verify_needed": false, "verify_reason": "", "brief_zh": ["AB 1979：AI 只能作臨床諮詢，不得執行需執照的功能", "AB 1979：擴大醫療保密，涵蓋經聊天機器人取得的健康資訊", "SB 503：臨床決策支援系統須辨識並減輕偏誤風險", "AB 2575、SB 903 遭否決"], "brief_en": ["AB 1979: AI limited to an advisory clinical role", "AB 1979: confidentiality covers health data via chatbots", "SB 503: clinical decision support must address bias risks", "AB 2575 and SB 903 vetoed"], "model_names": [], "tags": ["加州", "AB 1979", "SB 503", "醫療 AI 法規", "演算法偏誤", "美國州法"], "population": ["臨床工作者", "一般大眾"], "supervision_questions": ["機構現用的評估或分流工具算不算「臨床決策支援系統」？誰負責監測它的偏誤？", "個案透過 AI 聊天機器人留下的健康資訊，在你的保密說明中有沒有被涵蓋？", "AI 只能當顧問的原則，在督導記錄與治療計畫上要如何具體落實？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.healthcareitnews.com/news/california-gov-newsom-signs-3-bills-govern-healthcare-ai", "author_handle": "", "author_name": "Healthcare IT News（Andrea Fox）", "title": "California Gov. Newsom signs 3 bills to govern healthcare AI", "content": "報導加州州長簽署三項醫療 AI 法案：AB 1979 把 AI 限於臨床照護的諮詢角色並擴大醫療保密保障，SB 503 要求處理臨床決策支援系統的偏誤風險，AB 1609 規範客服聊天機器人不得冒充真人；另否決 AB 2575 與 SB 903。", "posted_at": "2026-10-01T00:00:00+00:00"}], "first_seen_at": "2026-10-05T03:24:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "california-signs-three-healthcare-ai-bills", "featured_at": null, "hot_score": 0.953, "tier": "live", "deadline_soon": false, "related": [{"slug": "newsom-vetoes-california-sb-903-on-ai-in-therapy", "title_zh": "加州州長否決 SB 903：AI 心理治療限制法案未能成法", "title_en": "Newsom vetoes California SB 903 on AI in therapy", "summary_zh": "加州州長 Newsom 否決了 SB 903。該法案原本要禁止 AI 演算法提供或宣傳心理治療服務，持照專業人員只能把 AI 用於行政或輔助支援，用 AI 錄製治療會談前須清楚揭露並取得同意，也不准 AI 獨立與個案互動或作治療決定。法案在參議院全票通過、眾議院以 71 比 4 通過；州長的否決理由認為對病人與臨床人員的保護「過了頭」，提案人 Padilla 則強烈批評。", "summary_en": "California Governor Gavin Newsom vetoed SB 903, which would have barred AI from providing or advertising therapy, limited licensed clinicians to administrative or supplementary AI use, required disclosure and consent before AI recording of sessions, and banned AI from independently interacting with clients or making therapeutic decisions. The bill had passed the Senate unanimously and the Assembly 71-4; the veto message said its protections went too far, drawing sharp criticism from author Sen. Steve Padilla.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["加州", "SB 903", "否決", "AI 治療法規", "美國州法", "知情同意"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-10-01T00:00:00+00:00"}, {"slug": "connecticut-ai-companion-rules-take-effect-october-1", "title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程", "title_en": "Connecticut AI companion rules take effect October 1", "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。", "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["康乃狄克州", "AI 陪伴", "美國州法", "自殺防治", "兒少保護", "法規生效"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-30T00:00:00+00:00"}, {"slug": "acp-position-paper-on-ai-ethics-in-practice", "title_zh": "美國內科醫師學會 AI 倫理立場：守住醫病關係、防止去技能化", "title_en": "ACP position paper on AI ethics in practice", "summary_zh": "美國內科醫師學會（ACP）在 Annals of Internal Medicine 發表 AI 與醫療專業倫理的立場文件，Psychiatric Times 整理其重點：AI 應維護醫病關係，因為 AI 無法對病人負責或形成治療同盟；臨床人員須獨立評估 AI 輸出、主動偵測偏誤；避免訓練中與資淺人員的去技能化；傾向揭露 AI 使用；並建立涵蓋 AI 全生命週期的在地治理。", "summary_en": "Psychiatric Times summarizes an American College of Physicians position paper in Annals of Internal Medicine on AI ethics: AI should preserve the patient–clinician relationship because it cannot be accountable or form a therapeutic alliance; clinicians must independently evaluate outputs and detect bias, guard against deskilling (especially trainees), err toward disclosing AI use, and set up lifecycle-wide local governance.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["專業組織指引", "ACP", "去技能化", "揭露", "演算法偏誤"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-31T00:00:00+00:00"}]}
+{
+  "title_zh": "加州簽署三項醫療 AI 法案：AI 只能當顧問、須處理演算法偏誤",
+  "title_en": "California signs three healthcare AI bills",
+  "summary_zh": "加州州長簽署三項醫療 AI 法案：AB 1979 把 AI 在臨床照護中限於諮詢角色、不得執行需執照的臨床功能，並保護經由聊天機器人取得的病人健康資訊；SB 503 要求醫療 AI 開發者與使用者辨識、減輕並持續監測臨床決策支援系統的偏誤風險；AB 1609 禁止大型企業把客服聊天機器人包裝成真人。同時被否決的有 AB 2575 和處理 AI 心理治療的 SB 903。",
+  "summary_en": "California's governor signed three healthcare AI bills: AB 1979 restricts AI to an advisory role in clinical care, bars it from performing licensed clinical functions and protects health information accessed through chatbots; SB 503 requires developers and deployers to identify, mitigate and monitor bias risks in clinical decision support; AB 1609 bars large enterprises from presenting customer-service chatbots as human. AB 2575 and the AI-in-psychotherapy bill SB 903 were vetoed.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "新聞報導立法結果，非實證研究。",
+  "ethics_flags": [
+    {
+      "flag": "專業責任歸屬",
+      "note": "AB 1979 明定 AI 只能作諮詢，需執照的臨床判斷仍由人負責。",
+      "refs": [
+        "專業責任歸屬｜人機協作的責任"
+      ]
+    },
+    {
+      "flag": "偏誤與公平",
+      "note": "SB 503 要求開發者與使用機構辨識、減輕並定期監測臨床決策支援系統的偏誤影響。",
+      "refs": [
+        "偏誤與公平｜演算法偏誤"
+      ]
+    },
+    {
+      "flag": "保密與隱私",
+      "note": "AB 1979 把醫療保密延伸到經由聊天機器人取得的病人健康資訊。",
+      "refs": [
+        "APA 4.01｜保密的維持"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "自動化偏誤",
+      "note": "被否決的 AB 2575 處理「臨床人員沒推翻 AI 輸出」的責任問題，提醒人機協作時容易過度信任系統建議。",
+      "ref": "概念｜自動化偏誤"
+    }
+  ],
+  "caution": "這些是加州的醫療機構規範，條文細節與生效日期應查閱原法案，不宜直接套用到其他地區。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "AB 1979：AI 只能作臨床諮詢，不得執行需執照的功能",
+    "AB 1979：擴大醫療保密，涵蓋經聊天機器人取得的健康資訊",
+    "SB 503：臨床決策支援系統須辨識並減輕偏誤風險",
+    "AB 2575、SB 903 遭否決"
+  ],
+  "brief_en": [
+    "AB 1979: AI limited to an advisory clinical role",
+    "AB 1979: confidentiality covers health data via chatbots",
+    "SB 503: clinical decision support must address bias risks",
+    "AB 2575 and SB 903 vetoed"
+  ],
+  "model_names": [],
+  "tags": [
+    "加州",
+    "AB 1979",
+    "SB 503",
+    "醫療 AI 法規",
+    "演算法偏誤",
+    "美國州法"
+  ],
+  "population": [
+    "臨床工作者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "機構現用的評估或分流工具算不算「臨床決策支援系統」？誰負責監測它的偏誤？",
+    "個案透過 AI 聊天機器人留下的健康資訊，在你的保密說明中有沒有被涵蓋？",
+    "AI 只能當顧問的原則，在督導記錄與治療計畫上要如何具體落實？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.healthcareitnews.com/news/california-gov-newsom-signs-3-bills-govern-healthcare-ai",
+      "author_handle": "",
+      "author_name": "Healthcare IT News（Andrea Fox）",
+      "title": "California Gov. Newsom signs 3 bills to govern healthcare AI",
+      "content": "報導加州州長簽署三項醫療 AI 法案：AB 1979 把 AI 限於臨床照護的諮詢角色並擴大醫療保密保障，SB 503 要求處理臨床決策支援系統的偏誤風險，AB 1609 規範客服聊天機器人不得冒充真人；另否決 AB 2575 與 SB 903。",
+      "posted_at": "2026-10-01T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-05T03:24:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "california-signs-three-healthcare-ai-bills",
+  "featured_at": null,
+  "hot_score": 0.953,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "newsom-vetoes-california-sb-903-on-ai-in-therapy",
+      "title_zh": "加州州長否決 SB 903：AI 心理治療限制法案未能成法",
+      "title_en": "Newsom vetoes California SB 903 on AI in therapy",
+      "summary_zh": "加州州長 Newsom 否決了 SB 903。該法案原本要禁止 AI 演算法提供或宣傳心理治療服務，持照專業人員只能把 AI 用於行政或輔助支援，用 AI 錄製治療會談前須清楚揭露並取得同意，也不准 AI 獨立與個案互動或作治療決定。法案在參議院全票通過、眾議院以 71 比 4 通過；州長的否決理由認為對病人與臨床人員的保護「過了頭」，提案人 Padilla 則強烈批評。",
+      "summary_en": "California Governor Gavin Newsom vetoed SB 903, which would have barred AI from providing or advertising therapy, limited licensed clinicians to administrative or supplementary AI use, required disclosure and consent before AI recording of sessions, and banned AI from independently interacting with clients or making therapeutic decisions. The bill had passed the Senate unanimously and the Assembly 71-4; the veto message said its protections went too far, drawing sharp criticism from author Sen. Steve Padilla.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "加州",
+        "SB 903",
+        "否決",
+        "AI 治療法規",
+        "美國州法",
+        "知情同意"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "slug": "connecticut-ai-companion-rules-take-effect-october-1",
+      "title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程",
+      "title_en": "Connecticut AI companion rules take effect October 1",
+      "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。",
+      "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "康乃狄克州",
+        "AI 陪伴",
+        "美國州法",
+        "自殺防治",
+        "兒少保護",
+        "法規生效"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "slug": "acp-position-paper-on-ai-ethics-in-practice",
+      "title_zh": "美國內科醫師學會 AI 倫理立場：守住醫病關係、防止去技能化",
+      "title_en": "ACP position paper on AI ethics in practice",
+      "summary_zh": "美國內科醫師學會（ACP）在 Annals of Internal Medicine 發表 AI 與醫療專業倫理的立場文件，Psychiatric Times 整理其重點：AI 應維護醫病關係，因為 AI 無法對病人負責或形成治療同盟；臨床人員須獨立評估 AI 輸出、主動偵測偏誤；避免訓練中與資淺人員的去技能化；傾向揭露 AI 使用；並建立涵蓋 AI 全生命週期的在地治理。",
+      "summary_en": "Psychiatric Times summarizes an American College of Physicians position paper in Annals of Internal Medicine on AI ethics: AI should preserve the patient–clinician relationship because it cannot be accountable or form a therapeutic alliance; clinicians must independently evaluate outputs and detect bias, guard against deskilling (especially trainees), err toward disclosing AI use, and set up lifecycle-wide local governance.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "專業組織指引",
+        "ACP",
+        "去技能化",
+        "揭露",
+        "演算法偏誤"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-31T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-10-01T00:00:00+00:00"
+}

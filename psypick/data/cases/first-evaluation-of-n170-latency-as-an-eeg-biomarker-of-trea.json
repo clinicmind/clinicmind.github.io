@@ -1,163 +1,164 @@
 {
- "title_zh": "N170 潛伏期作為自閉症 arbaclofen 治療反應 EEG 生物標記的首次評估",
- "title_en": "First evaluation of N170 latency as an EEG biomarker of treatment response in an arbaclofe",
- "summary_zh": "在 122 名 5–17 歲自閉症兒童青少年的 arbaclofen 雙盲 RCT 中，N170 潛伏期在 16 週內保持穩定，藥物未改變 N170；基線 N170 亦未能預測社交功能的變化。研究同時證實多中心自閉症藥物試驗整合 EEG 的可行性。",
- "summary_en": "In a 122-participant RCT of arbaclofen in autistic children, N170 latency did not change with treatment and baseline N170 did not predict outcome; EEG integration in multi-site trials proved feasible.",
- "category": "研究與證據",
- "kind": "research",
- "evidence_level": 3,
- "evidence_note": "雙盲隨機對照試驗（N=122），但為負面生物標記結果",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "結果顯示 N170 不適合單獨作為治療反應指標，不應用於個別孩子的臨床判斷。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "122 名 5–17 歲自閉症兒童青少年，arbaclofen（N=59）vs 安慰劑（N=63），為期 16 週",
-  "arbaclofen 未改變 N170 潛伏期（p=0.737）；基線 N170 未預測任何臨床結果變化",
-  "安慰劑組 N170 變慢與同儕互動困難相關；arbaclofen 組則與社交認知困難較少相關",
-  "結論：N170 作為治療反應生物標記的效用有限，但 EEG 整合入多中心試驗可行"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "兒童心理",
-  "特殊教育需要",
-  "自閉症",
-  "EEG生物標記",
-  "隨機對照試驗",
-  "藥物研究"
- ],
- "population": [
-  "兒童青少年"
- ],
- "supervision_questions": [
-  "自閉症的生物標記研究出現陰性結果時，臨床上應如何向家長說明「目前還不能用腦電圖判斷藥物有沒有效」？",
-  "SEN 相關研究強調個別差異，督導時如何避免把群體層面的結果套用到單一個案？"
- ],
- "original_prompt": "",
- "training": null,
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://link.springer.com/article/10.1186/s13229-026-00742-z",
-   "author_handle": "",
-   "author_name": "Eleonora Broggi et al. (AIMS-CT1 Group)",
-   "title": "First evaluation of N170 latency as an EEG biomarker of treatment response in a randomised controlled trial of arbaclofen for autism",
-   "content": "在 122 名 5–17 歲自閉症兒童青少年的 arbaclofen 雙盲安慰劑對照試驗中，檢驗臉部處理速度的 EEG 指標 N170 潛伏期能否作為治療反應的生物標記。結果顯示 N170 在 16 週內穩定、藥物未改變 N170，作為生物標記的效用有限，但證實了多中心自閉症藥物試驗整合 EEG 的可行性。",
-   "posted_at": "2026-09-23T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-10-03T01:09:46+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "first-evaluation-of-n170-latency-as-an-eeg-biomarker-of-trea",
- "featured_at": null,
- "hot_score": 0.859,
- "tier": "live",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "autistic-pupils-happiness-at-school",
-   "title_zh": "自閉症學生為何在校較不快樂？英國 8,348 名青少年資料：學業自信與霸凌是關鍵",
-   "title_en": "Autistic pupils' happiness at school",
-   "summary_zh": "National Elf Service 評介一項英國全國代表性樣本研究（8,348 名青少年，其中 271 名自閉症）：自閉症學生約 27% 表示大多或全部時間在校不快樂，非自閉症學生約 14%。但在納入學業自我概念、霸凌、同儕關係、家庭親密度與社經地位後，差距消失；在自閉症學生中，學業自信是在校快樂感最強的預測因子。",
-   "summary_en": "A Mental Elf blog reviews a UK nationally representative study (8,348 adolescents, 271 autistic): about 27% of autistic pupils felt unhappy at school most or all of the time versus 14% of peers, but the gap disappeared after accounting for academic self-concept, bullying, peer relationships, family closeness and SES. Academic confidence was the strongest predictor of school happiness among autistic pupils.",
-   "category": "研究與證據",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
+  "title_zh": "N170 潛伏期作為自閉症 arbaclofen 治療反應 EEG 生物標記的首次評估",
+  "title_en": "First evaluation of N170 latency as an EEG biomarker of treatment response in an arbaclofe",
+  "summary_zh": "在 122 名 5–17 歲自閉症兒童青少年的 arbaclofen 雙盲 RCT 中，N170 潛伏期在 16 週內保持穩定，藥物未改變 N170；基線 N170 亦未能預測社交功能的變化。研究同時證實多中心自閉症藥物試驗整合 EEG 的可行性。",
+  "summary_en": "In a 122-participant RCT of arbaclofen in autistic children, N170 latency did not change with treatment and baseline N170 did not predict outcome; EEG integration in multi-site trials proved feasible.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "雙盲隨機對照試驗（N=122），但為負面生物標記結果",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "結果顯示 N170 不適合單獨作為治療反應指標，不應用於個別孩子的臨床判斷。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "122 名 5–17 歲自閉症兒童青少年，arbaclofen（N=59）vs 安慰劑（N=63），為期 16 週",
+    "arbaclofen 未改變 N170 潛伏期（p=0.737）；基線 N170 未預測任何臨床結果變化",
+    "安慰劑組 N170 變慢與同儕互動困難相關；arbaclofen 組則與社交認知困難較少相關",
+    "結論：N170 作為治療反應生物標記的效用有限，但 EEG 整合入多中心試驗可行"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
     "兒童心理",
     "特殊教育需要",
     "自閉症",
-    "學校適應",
-    "霸凌",
-    "學業自我概念"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 2,
-   "population": [
+    "EEG生物標記",
+    "隨機對照試驗",
+    "藥物研究"
+  ],
+  "population": [
     "兒童青少年"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.953,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-09-22T00:00:00+00:00"
-  },
-  {
-   "slug": "hkumed-prenatal-paracetamol-not-linked-to-autism-or-adhd",
-   "title_zh": "港大：孕期服撲熱息痛不增加子女自閉症或 ADHD 風險（70 萬對母子、兄弟姊妹配對）",
-   "title_en": "HKUMed prenatal paracetamol not linked to autism or ADHD",
-   "summary_zh": "港大醫學院團隊分析香港 2000–2023 年 708,020 對母子的電子病歷，以兄弟姊妹配對設計控制家族遺傳與環境因素，發現孕期使用撲熱息痛與子女自閉症譜系障礙或 ADHD 風險無關，且不同劑量、孕期與使用模式結果一致。研究刊於《JAMA Internal Medicine》，回應了美國政府早前的相關說法。",
-   "summary_en": "Using Hong Kong records of 708,020 mother–child pairs (2000–2023) and a sibling-matched design, HKUMed found no association between prenatal paracetamol exposure and ASD or ADHD, consistent across dose, trimester and pattern of use (JAMA Internal Medicine).",
-   "category": "研究與證據",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "特殊教育需要",
-    "自閉症",
-    "ADHD",
-    "香港",
-    "流行病學",
-    "家長心理教育"
-   ],
-   "first_seen_at": "2026-10-01T03:34:06+00:00",
-   "evidence_level": 2,
-   "population": [
-    "兒童青少年",
-    "一般大眾",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.782,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-07-02T00:00:00+00:00"
-  },
-  {
-   "slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions",
-   "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對",
-   "title_en": "NAS opposes NHS autism and ADHD assessment restrictions",
-   "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。",
-   "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.",
-   "category": "評估與篩檢",
-   "kind": "incident",
-   "model_names": [],
-   "tags": [
-    "特殊教育需要",
-    "兒童心理",
-    "自閉症",
-    "ADHD",
-    "評估輪候",
-    "英國",
-    "NHS"
-   ],
-   "first_seen_at": "2026-10-01T03:34:06+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "成人",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.782,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-09-25T00:00:00+00:00"
-  }
- ],
- "evidence_quote": "arbaclofen did not modulate N170L",
- "page_date": "2026-09-23"
+  ],
+  "supervision_questions": [
+    "自閉症的生物標記研究出現陰性結果時，臨床上應如何向家長說明「目前還不能用腦電圖判斷藥物有沒有效」？",
+    "SEN 相關研究強調個別差異，督導時如何避免把群體層面的結果套用到單一個案？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://link.springer.com/article/10.1186/s13229-026-00742-z",
+      "author_handle": "",
+      "author_name": "Eleonora Broggi et al. (AIMS-CT1 Group)",
+      "title": "First evaluation of N170 latency as an EEG biomarker of treatment response in a randomised controlled trial of arbaclofen for autism",
+      "content": "在 122 名 5–17 歲自閉症兒童青少年的 arbaclofen 雙盲安慰劑對照試驗中，檢驗臉部處理速度的 EEG 指標 N170 潛伏期能否作為治療反應的生物標記。結果顯示 N170 在 16 週內穩定、藥物未改變 N170，作為生物標記的效用有限，但證實了多中心自閉症藥物試驗整合 EEG 的可行性。",
+      "posted_at": "2026-09-23T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-03T01:09:46+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "first-evaluation-of-n170-latency-as-an-eeg-biomarker-of-trea",
+  "featured_at": null,
+  "hot_score": 0.859,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "autistic-pupils-happiness-at-school",
+      "title_zh": "自閉症學生為何在校較不快樂？英國 8,348 名青少年資料：學業自信與霸凌是關鍵",
+      "title_en": "Autistic pupils' happiness at school",
+      "summary_zh": "National Elf Service 評介一項英國全國代表性樣本研究（8,348 名青少年，其中 271 名自閉症）：自閉症學生約 27% 表示大多或全部時間在校不快樂，非自閉症學生約 14%。但在納入學業自我概念、霸凌、同儕關係、家庭親密度與社經地位後，差距消失；在自閉症學生中，學業自信是在校快樂感最強的預測因子。",
+      "summary_en": "A Mental Elf blog reviews a UK nationally representative study (8,348 adolescents, 271 autistic): about 27% of autistic pupils felt unhappy at school most or all of the time versus 14% of peers, but the gap disappeared after accounting for academic self-concept, bullying, peer relationships, family closeness and SES. Academic confidence was the strongest predictor of school happiness among autistic pupils.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "特殊教育需要",
+        "自閉症",
+        "學校適應",
+        "霸凌",
+        "學業自我概念"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-22T00:00:00+00:00"
+    },
+    {
+      "slug": "hkumed-prenatal-paracetamol-not-linked-to-autism-or-adhd",
+      "title_zh": "港大：孕期服撲熱息痛不增加子女自閉症或 ADHD 風險（70 萬對母子、兄弟姊妹配對）",
+      "title_en": "HKUMed prenatal paracetamol not linked to autism or ADHD",
+      "summary_zh": "港大醫學院團隊分析香港 2000–2023 年 708,020 對母子的電子病歷，以兄弟姊妹配對設計控制家族遺傳與環境因素，發現孕期使用撲熱息痛與子女自閉症譜系障礙或 ADHD 風險無關，且不同劑量、孕期與使用模式結果一致。研究刊於《JAMA Internal Medicine》，回應了美國政府早前的相關說法。",
+      "summary_en": "Using Hong Kong records of 708,020 mother–child pairs (2000–2023) and a sibling-matched design, HKUMed found no association between prenatal paracetamol exposure and ASD or ADHD, consistent across dose, trimester and pattern of use (JAMA Internal Medicine).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "特殊教育需要",
+        "自閉症",
+        "ADHD",
+        "香港",
+        "流行病學",
+        "家長心理教育"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "一般大眾",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-07-02T00:00:00+00:00"
+    },
+    {
+      "slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions",
+      "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對",
+      "title_en": "NAS opposes NHS autism and ADHD assessment restrictions",
+      "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。",
+      "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.",
+      "category": "評估與篩檢",
+      "kind": "incident",
+      "model_names": [],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "ADHD",
+        "評估輪候",
+        "英國",
+        "NHS"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-25T00:00:00+00:00"
+    }
+  ],
+  "evidence_quote": "arbaclofen did not modulate N170L",
+  "page_date": "2026-09-23",
+  "date": "2026-09-23T00:00:00+00:00"
 }

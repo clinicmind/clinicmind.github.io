@@ -1,1 +1,175 @@
-{"title_zh": "英國 16 歲以下社交媒體禁令：教師與神經多樣性顧問的兩種看法", "title_en": "UK under-16 social media ban: two professional perspectives", "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。", "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.", "category": "人機互動心理", "kind": "practice", "evidence_level": 0, "evidence_note": "兩位專業人員的意見文章。", "ethics_flags": [], "psych_concepts": [{"name": "擬社會關係", "note": "網上連結對孤立青少年的意義是討論焦點之一。", "ref": "概念｜擬社會關係"}], "caution": "文章為意見交流，澳洲七成繞過的數字未附原始來源。", "verify_needed": false, "verify_reason": "", "brief_zh": ["禁令涵蓋 YouTube、Instagram 等，WhatsApp 除外", "支持方：網絡欺凌、深偽、睡眠問題", "保留方：神經多樣與孤立青少年靠網上連結", "澳洲經驗：約七成年輕人找到繞過方法"], "brief_en": ["Ban covers YouTube, Instagram; not WhatsApp", "Support: cyberbullying, deepfakes, sleep", "Concern: connection for neurodivergent youth", "Australia: ~7 in 10 found workarounds"], "model_names": [], "tags": ["兒童心理", "特殊教育需要", "社交媒體", "青少年", "神經多樣性", "政策", "Anna Freud"], "population": ["兒童青少年", "臨床工作者", "一般大眾"], "supervision_questions": ["對依賴網上社群的神經多樣青少年，禁令可能帶來哪些失落？你會如何評估？", "與家長談社交媒體使用時，怎樣平衡保護與自主？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.annafreud.org/news/exploring-the-social-media-ban-perspectives-from-professionals", "author_handle": "", "author_name": "Anna Freud", "title": "Exploring the social media ban: perspectives from professionals", "content": "針對英國政府 2026 年 6 月宣布明年起禁止 16 歲以下使用多個社交平台，Anna Freud 邀請一位教師顧問與一位自閉症及神經多樣性顧問分享支持與保留的觀點。", "posted_at": "2026-07-29T00:00:00+00:00"}], "first_seen_at": "2026-10-01T03:55:02+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "uk-under-16-social-media-ban-two-professional-perspectives", "featured_at": null, "hot_score": 0.783, "tier": "live", "deadline_soon": false, "related": [{"slug": "only-13-of-uk-parents-feel-they-have-enough-support-for-chil", "title_zh": "英國民調：只有 13% 家長覺得孩子心理健康有足夠支援", "title_en": "Only 13% of UK parents feel they have enough support for child wellbeing", "summary_zh": "Anna Freud 委託 Opinium 於 2026 年 7 月 21–28 日網上訪問 1,120 名有 18 歲以下子女的英國家長。只有 13% 認為自己得到足夠支援；63% 擔心社交媒體影響、61% 擔心孩子焦慮或壓力、67% 認為學校壓力影響身心。家長最想要的是處理壓力、焦慮與情緒低落的指引（31%）和更多校內心理支援（30%）。", "summary_en": "An Opinium poll of 1,120 UK parents for Anna Freud found only 13% feel they have enough support for their child's mental health. Concerns centred on social media (63%), anxiety or stress (61%) and school pressure (67%).", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["兒童心理", "家長", "民調", "英國", "社交媒體", "Anna Freud"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-21T00:00:00+00:00"}, {"slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days", "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例", "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days", "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。", "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["兒童心理", "嬰幼兒心理健康", "親嬰關係", "政策", "英國", "Anna Freud"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-24T00:00:00+00:00"}, {"slug": "future-minds-report-1-1-million-children-may-miss-mental-hea", "title_zh": "英國 Future Minds 期中成績單：110 萬兒童恐得不到心理治療", "title_en": "Future Minds report: 1.1 million children may miss mental health care", "summary_zh": "Anna Freud、YoungMinds、Mind 等組成的 Future Minds 聯盟發表《兒童青少年心理健康期中成績單》，估計本屆國會餘下任期將有 390 萬宗轉介，其中約 110 萬名兒童可能得不到支援，整體評為「急需改善」。報告提出四項建議，包括兒童心理健康開支「三重鎖」、訂立並執行輪候時間標準、在每個社區設立 25 歲以下早期支援中心。", "summary_en": "The Future Minds coalition, including Anna Freud, rated children's mental health 'Requires Urgent Improvement', estimating 1.1 million children could miss support by the end of this Parliament. It recommends a spending triple lock, enforced waiting-time standards and Early Support Hubs in every community.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["兒童心理", "英國", "NHS", "輪候時間", "政策", "Anna Freud"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-28T00:00:00+00:00"}]}
+{
+  "title_zh": "英國 16 歲以下社交媒體禁令：教師與神經多樣性顧問的兩種看法",
+  "title_en": "UK under-16 social media ban: two professional perspectives",
+  "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
+  "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
+  "category": "人機互動心理",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "兩位專業人員的意見文章。",
+  "ethics_flags": [],
+  "psych_concepts": [
+    {
+      "name": "擬社會關係",
+      "note": "網上連結對孤立青少年的意義是討論焦點之一。",
+      "ref": "概念｜擬社會關係"
+    }
+  ],
+  "caution": "文章為意見交流，澳洲七成繞過的數字未附原始來源。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "禁令涵蓋 YouTube、Instagram 等，WhatsApp 除外",
+    "支持方：網絡欺凌、深偽、睡眠問題",
+    "保留方：神經多樣與孤立青少年靠網上連結",
+    "澳洲經驗：約七成年輕人找到繞過方法"
+  ],
+  "brief_en": [
+    "Ban covers YouTube, Instagram; not WhatsApp",
+    "Support: cyberbullying, deepfakes, sleep",
+    "Concern: connection for neurodivergent youth",
+    "Australia: ~7 in 10 found workarounds"
+  ],
+  "model_names": [],
+  "tags": [
+    "兒童心理",
+    "特殊教育需要",
+    "社交媒體",
+    "青少年",
+    "神經多樣性",
+    "政策",
+    "Anna Freud"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "對依賴網上社群的神經多樣青少年，禁令可能帶來哪些失落？你會如何評估？",
+    "與家長談社交媒體使用時，怎樣平衡保護與自主？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.annafreud.org/news/exploring-the-social-media-ban-perspectives-from-professionals",
+      "author_handle": "",
+      "author_name": "Anna Freud",
+      "title": "Exploring the social media ban: perspectives from professionals",
+      "content": "針對英國政府 2026 年 6 月宣布明年起禁止 16 歲以下使用多個社交平台，Anna Freud 邀請一位教師顧問與一位自閉症及神經多樣性顧問分享支持與保留的觀點。",
+      "posted_at": "2026-07-29T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-01T03:55:02+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "uk-under-16-social-media-ban-two-professional-perspectives",
+  "featured_at": null,
+  "hot_score": 0.783,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "only-13-of-uk-parents-feel-they-have-enough-support-for-chil",
+      "title_zh": "英國民調：只有 13% 家長覺得孩子心理健康有足夠支援",
+      "title_en": "Only 13% of UK parents feel they have enough support for child wellbeing",
+      "summary_zh": "Anna Freud 委託 Opinium 於 2026 年 7 月 21–28 日網上訪問 1,120 名有 18 歲以下子女的英國家長。只有 13% 認為自己得到足夠支援；63% 擔心社交媒體影響、61% 擔心孩子焦慮或壓力、67% 認為學校壓力影響身心。家長最想要的是處理壓力、焦慮與情緒低落的指引（31%）和更多校內心理支援（30%）。",
+      "summary_en": "An Opinium poll of 1,120 UK parents for Anna Freud found only 13% feel they have enough support for their child's mental health. Concerns centred on social media (63%), anxiety or stress (61%) and school pressure (67%).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "家長",
+        "民調",
+        "英國",
+        "社交媒體",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-21T00:00:00+00:00"
+    },
+    {
+      "slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days",
+      "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例",
+      "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
+      "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
+      "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "嬰幼兒心理健康",
+        "親嬰關係",
+        "政策",
+        "英國",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-24T00:00:00+00:00"
+    },
+    {
+      "slug": "future-minds-report-1-1-million-children-may-miss-mental-hea",
+      "title_zh": "英國 Future Minds 期中成績單：110 萬兒童恐得不到心理治療",
+      "title_en": "Future Minds report: 1.1 million children may miss mental health care",
+      "summary_zh": "Anna Freud、YoungMinds、Mind 等組成的 Future Minds 聯盟發表《兒童青少年心理健康期中成績單》，估計本屆國會餘下任期將有 390 萬宗轉介，其中約 110 萬名兒童可能得不到支援，整體評為「急需改善」。報告提出四項建議，包括兒童心理健康開支「三重鎖」、訂立並執行輪候時間標準、在每個社區設立 25 歲以下早期支援中心。",
+      "summary_en": "The Future Minds coalition, including Anna Freud, rated children's mental health 'Requires Urgent Improvement', estimating 1.1 million children could miss support by the end of this Parliament. It recommends a spending triple lock, enforced waiting-time standards and Early Support Hubs in every community.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "英國",
+        "NHS",
+        "輪候時間",
+        "政策",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-28T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-07-29T00:00:00+00:00"
+}

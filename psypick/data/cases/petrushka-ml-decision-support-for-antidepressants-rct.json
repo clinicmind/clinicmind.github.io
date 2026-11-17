@@ -1,1 +1,179 @@
-{"title_zh": "機器學習決策支援幫忙挑抗憂鬱劑：PETRUSHKA RCT 降低 8 週停藥", "title_en": "PETRUSHKA ML decision support for antidepressants RCT", "summary_zh": "Mental Elf 評析 Cipriani 等人 2026 年刊於 JAMA 的 PETRUSHKA 隨機對照試驗。這個決策支援工具以機器學習預測模型結合病人對副作用的偏好，在巴西、英國、加拿大 47 個據點納入 520 位重度憂鬱症患者（主要分析 493 人）；8 週停藥人數 41 對 69（RR=0.62），24 週停藥無明顯差異，但憂鬱與焦慮分數較低。", "summary_en": "The Mental Elf reviews Cipriani et al.'s 2026 JAMA RCT of PETRUSHKA, a decision-support tool combining machine-learning prediction models with patients' side-effect preferences. Across 47 sites in Brazil, the UK and Canada (520 eligible, 493 analysed), 8-week discontinuation was 41 vs 69 (RR=0.62); 24-week discontinuation did not clearly differ, though depression and anxiety scores were lower.", "category": "臨床與治療應用", "kind": "research", "evidence_level": 3, "evidence_note": "評析對象為多國多中心隨機對照試驗（JAMA 2026），臨床人員與病人未盲化。", "ethics_flags": [{"flag": "專業責任歸屬", "note": "工具提供建議，處方決定仍由臨床人員與病人共同做出。", "refs": ["專業責任歸屬｜人機協作的責任"]}], "psych_concepts": [{"name": "自動化偏誤", "note": "非專科醫師使用決策支援時，需留意過度依賴模型建議。", "ref": "概念｜自動化偏誤"}], "caution": "試驗未盲化、24 週資料缺失多，且只評估單用抗憂鬱劑，不宜推論到合併心理治療的情境。", "verify_needed": false, "verify_reason": "", "brief_zh": ["JAMA RCT；47 個據點、主要分析 493 人", "8 週停藥 41 vs 69（RR=0.62）", "因副作用停藥也較少（RR=0.59）", "24 週缺失資料多，效果較不穩固"], "brief_en": ["JAMA RCT; 47 sites, 493 analysed", "8-week discontinuation 41 vs 69 (RR=0.62)", "Fewer adverse-event discontinuations (RR=0.59)", "High missing data at 24 weeks; weaker long-term evidence"], "model_names": ["PETRUSHKA"], "tags": ["機器學習", "決策支援", "抗憂鬱劑", "共享決策", "RCT"], "population": ["成人"], "supervision_questions": ["把病人偏好納入演算法，和一般共享決策有何不同？心理師可以扮演什麼角色？", "試驗只看單用藥物，沒有合併心理治療，這對我們的個案有何限制？", "若個案帶著這類工具的建議來會談，你會如何討論？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.nationalelfservice.net/treatment/antidepressants/the-petrushka-tool-matching-antidepressants-to-peoples-needs-and-preferences/", "author_handle": "", "author_name": "Oonagh Coleman（The Mental Elf／National Elf Service）", "title": "The PETRUSHKA tool: matching antidepressants to people's needs and preferences", "content": "Mental Elf 評析刊於 JAMA 的 PETRUSHKA 隨機對照試驗：以機器學習預測模型結合病人副作用偏好的決策支援工具，在英國、巴西、加拿大 47 個據點，8 週停藥風險低於一般照護。", "posted_at": "2026-09-30T00:00:00+00:00"}], "first_seen_at": "2026-09-30T18:00:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "petrushka-ml-decision-support-for-antidepressants-rct", "featured_at": null, "hot_score": 1.534, "tier": "live", "deadline_soon": false, "related": [{"slug": "therabot-generative-ai-therapy-chatbot-rct", "title_zh": "Therabot：首個生成式 AI 治療聊天機器人 RCT（NEJM AI）", "title_en": "Therabot generative AI therapy chatbot RCT", "summary_zh": "達特茅斯團隊在 NEJM AI 發表 Therabot 隨機對照試驗，210 名有重鬱、廣泛性焦慮或飲食疾患風險的成人分為使用組與對照組，為期 8 週。使用組憂鬱症狀平均下降 51%、焦慮 31%、體重與身形擔憂 19%，參與者評估的治療同盟與面對面治療相當；研究團隊監看回應，作者強調目前沒有生成式 AI 可以完全自主運作。", "summary_en": "Dartmouth researchers reported in NEJM AI a randomized trial of Therabot with 210 adults with MDD, GAD, or eating-disorder risk over 8 weeks. Users saw average reductions of 51% in depressive, 31% in anxiety, and 19% in body-image/weight-concern symptoms, and rated the alliance comparable to in-person care; the team monitored responses and stressed that no generative AI agent is ready to operate fully autonomously.", "category": "臨床與治療應用", "kind": "research", "model_names": ["Therabot"], "tags": ["Therabot", "RCT", "生成式AI", "NEJM AI", "治療同盟"], "first_seen_at": "2026-09-30T13:03:54+00:00", "evidence_level": 3, "population": ["成人"], "hero_media": null, "verify_needed": false, "hot_score": 1.518, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2025-03-27T00:00:00+00:00"}, {"slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho", "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護", "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day", "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。", "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["WHO", "去機構化", "社區照護", "世界心理健康日", "政策"], "first_seen_at": "2026-10-13T02:38:45+00:00", "evidence_level": 3, "population": ["成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.707, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-09T00:00:00+00:00"}, {"slug": "online-program-for-anxious-parents-prevents-child-anxiety", "title_zh": "焦慮家長的自助線上課程能預防孩子焦慮嗎？1,811 人 RCT 的小效果與低完成率", "title_en": "Online program for anxious parents prevents child anxiety", "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。", "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["兒童心理", "焦慮", "親職介入", "預防", "數位介入", "階梯式照護"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 3, "population": ["兒童青少年", "成人"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-09-21T00:00:00+00:00"}]}
+{
+  "title_zh": "機器學習決策支援幫忙挑抗憂鬱劑：PETRUSHKA RCT 降低 8 週停藥",
+  "title_en": "PETRUSHKA ML decision support for antidepressants RCT",
+  "summary_zh": "Mental Elf 評析 Cipriani 等人 2026 年刊於 JAMA 的 PETRUSHKA 隨機對照試驗。這個決策支援工具以機器學習預測模型結合病人對副作用的偏好，在巴西、英國、加拿大 47 個據點納入 520 位重度憂鬱症患者（主要分析 493 人）；8 週停藥人數 41 對 69（RR=0.62），24 週停藥無明顯差異，但憂鬱與焦慮分數較低。",
+  "summary_en": "The Mental Elf reviews Cipriani et al.'s 2026 JAMA RCT of PETRUSHKA, a decision-support tool combining machine-learning prediction models with patients' side-effect preferences. Across 47 sites in Brazil, the UK and Canada (520 eligible, 493 analysed), 8-week discontinuation was 41 vs 69 (RR=0.62); 24-week discontinuation did not clearly differ, though depression and anxiety scores were lower.",
+  "category": "臨床與治療應用",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "評析對象為多國多中心隨機對照試驗（JAMA 2026），臨床人員與病人未盲化。",
+  "ethics_flags": [
+    {
+      "flag": "專業責任歸屬",
+      "note": "工具提供建議，處方決定仍由臨床人員與病人共同做出。",
+      "refs": [
+        "專業責任歸屬｜人機協作的責任"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "自動化偏誤",
+      "note": "非專科醫師使用決策支援時，需留意過度依賴模型建議。",
+      "ref": "概念｜自動化偏誤"
+    }
+  ],
+  "caution": "試驗未盲化、24 週資料缺失多，且只評估單用抗憂鬱劑，不宜推論到合併心理治療的情境。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "JAMA RCT；47 個據點、主要分析 493 人",
+    "8 週停藥 41 vs 69（RR=0.62）",
+    "因副作用停藥也較少（RR=0.59）",
+    "24 週缺失資料多，效果較不穩固"
+  ],
+  "brief_en": [
+    "JAMA RCT; 47 sites, 493 analysed",
+    "8-week discontinuation 41 vs 69 (RR=0.62)",
+    "Fewer adverse-event discontinuations (RR=0.59)",
+    "High missing data at 24 weeks; weaker long-term evidence"
+  ],
+  "model_names": [
+    "PETRUSHKA"
+  ],
+  "tags": [
+    "機器學習",
+    "決策支援",
+    "抗憂鬱劑",
+    "共享決策",
+    "RCT"
+  ],
+  "population": [
+    "成人"
+  ],
+  "supervision_questions": [
+    "把病人偏好納入演算法，和一般共享決策有何不同？心理師可以扮演什麼角色？",
+    "試驗只看單用藥物，沒有合併心理治療，這對我們的個案有何限制？",
+    "若個案帶著這類工具的建議來會談，你會如何討論？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.nationalelfservice.net/treatment/antidepressants/the-petrushka-tool-matching-antidepressants-to-peoples-needs-and-preferences/",
+      "author_handle": "",
+      "author_name": "Oonagh Coleman（The Mental Elf／National Elf Service）",
+      "title": "The PETRUSHKA tool: matching antidepressants to people's needs and preferences",
+      "content": "Mental Elf 評析刊於 JAMA 的 PETRUSHKA 隨機對照試驗：以機器學習預測模型結合病人副作用偏好的決策支援工具，在英國、巴西、加拿大 47 個據點，8 週停藥風險低於一般照護。",
+      "posted_at": "2026-09-30T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:00:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "petrushka-ml-decision-support-for-antidepressants-rct",
+  "featured_at": null,
+  "hot_score": 1.534,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "therabot-generative-ai-therapy-chatbot-rct",
+      "title_zh": "Therabot：首個生成式 AI 治療聊天機器人 RCT（NEJM AI）",
+      "title_en": "Therabot generative AI therapy chatbot RCT",
+      "summary_zh": "達特茅斯團隊在 NEJM AI 發表 Therabot 隨機對照試驗，210 名有重鬱、廣泛性焦慮或飲食疾患風險的成人分為使用組與對照組，為期 8 週。使用組憂鬱症狀平均下降 51%、焦慮 31%、體重與身形擔憂 19%，參與者評估的治療同盟與面對面治療相當；研究團隊監看回應，作者強調目前沒有生成式 AI 可以完全自主運作。",
+      "summary_en": "Dartmouth researchers reported in NEJM AI a randomized trial of Therabot with 210 adults with MDD, GAD, or eating-disorder risk over 8 weeks. Users saw average reductions of 51% in depressive, 31% in anxiety, and 19% in body-image/weight-concern symptoms, and rated the alliance comparable to in-person care; the team monitored responses and stressed that no generative AI agent is ready to operate fully autonomously.",
+      "category": "臨床與治療應用",
+      "kind": "research",
+      "model_names": [
+        "Therabot"
+      ],
+      "tags": [
+        "Therabot",
+        "RCT",
+        "生成式AI",
+        "NEJM AI",
+        "治療同盟"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.518,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2025-03-27T00:00:00+00:00"
+    },
+    {
+      "slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho",
+      "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護",
+      "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day",
+      "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。",
+      "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "WHO",
+        "去機構化",
+        "社區照護",
+        "世界心理健康日",
+        "政策"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.707,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-09T00:00:00+00:00"
+    },
+    {
+      "slug": "online-program-for-anxious-parents-prevents-child-anxiety",
+      "title_zh": "焦慮家長的自助線上課程能預防孩子焦慮嗎？1,811 人 RCT 的小效果與低完成率",
+      "title_en": "Online program for anxious parents prevents child anxiety",
+      "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。",
+      "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "焦慮",
+        "親職介入",
+        "預防",
+        "數位介入",
+        "階梯式照護"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-09-21T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-30T00:00:00+00:00"
+}

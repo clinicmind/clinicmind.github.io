@@ -1,72 +1,73 @@
 {
- "title_zh": "青少年精神病理的層次結構：一個整體因素下分九個窄帶症狀因素，父母報告比青少年自述更穩定（588 人）",
- "title_en": "Testing hierarchical structural model youth psychopathology symptoms informants gender pubertal status",
- "summary_zh": "Journal of the American Academy of Child & Adolescent Psychiatry 2026 年 11 月號刊出研究，以探索性因素分析檢視青少年精神病理症狀的層次結構。研究分析 588 名社區青少年（基線平均 13.58 歲，9.3 至 17.5 歲，55.5% 女性）及其父母的報告，追蹤 18 個月。結果顯示症狀由一個整體精神病理因素層層展開至九個可詮釋的窄帶症狀因素；中層複製以往兒童精神病理研究的三大寬帶譜系：內化、外化失抑制與人格失調。寬帶譜系結構在不同報告者之間大致一致；窄帶結構在性別與青春期狀態之間有細微差異，青少年自述的結構隨時間變化較父母報告大。研究已預註冊。共同第一作者為 Benjamin L. Hankin 與 Cassandra M. Brandes。",
- "summary_en": "The Journal of the American Academy of Child & Adolescent Psychiatry (November 2026) published a study using exploratory factor analysis to test the hierarchical structure of youth psychopathology symptoms. The researchers analysed reports from 588 community youth (baseline mean age 13.58 years, range 9.3-17.5, 55.5% female) and their parents, followed over 18 months. Symptoms unfolded from one general psychopathology factor down to nine interpretable narrowband symptom factors; the intermediate level replicated three broadband spectra from prior child psychopathology research: internalizing, disinhibited externalizing and personality dysregulation. The broadband structure was largely consistent across informants, while the narrowband structure showed nuanced differences across gender and pubertal status, and youth-reported structure changed more over time than parent-reported structure. The study was preregistered. Shared first authors Benjamin L. Hankin and Cassandra M. Brandes.",
- "category": "評估與篩檢",
- "kind": "research",
- "evidence_level": 2,
- "evidence_note": "探索性因素分析（Journal of the American Academy of Child & Adolescent Psychiatry 2026 年 11 月號，65(11):1398–1411；經 JAACAP 原文 PDF 全文核實；研究已預註冊，OSF https://osf.io/9agvs/）",
- "ethics_flags": [
-  {
-   "flag": "篩檢與標籤",
-   "note": "維度模型仍屬研究框架，不可取代 DSM／ICD 診斷作臨床決定；以因素結構為兒童分類時，須避免過早標籤化。",
-   "refs": [
-    "評估與篩檢｜假陽性與標籤效應"
-   ]
-  }
- ],
- "psych_concepts": [],
- "caution": "探索性描述研究，樣本為美國社區青少年，推廣至臨床樣本與其他地區有限；窄帶因素結構在性別、青春期與時間之間有差異；模型未作臨床診斷用途驗證；HiTOP 仍屬研究框架，未取代 DSM／ICD。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "樣本：588 名社區青少年及其父母，基線平均 13.58 歲（9.3–17.5 歲），55.5% 女性；來自美國丹佛與新澤西中部",
-  "方法：探索性因素分析，以青少年自述與父母報告的症狀項目建構層次模型；追蹤 18 個月，比較不同時間、報告者、性別與青春期狀態",
-  "主要結果：症狀由一個整體精神病理因素展開至九個可詮釋的窄帶症狀因素",
-  "中層結構：複製三大寬帶譜系——內化、外化失抑制與人格失調；寬帶譜系在不同報告者之間大致一致",
-  "差異：窄帶結構在性別與青春期狀態之間有細微差異；青少年自述的結構隨時間變化較父母報告大，父母報告較穩定",
-  "預註冊：研究設計與分析計劃已預註冊（OSF）"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "HiTOP",
-  "精神病理分類",
-  "青少年",
-  "因素分析",
-  "評估"
- ],
- "population": [
-  "兒童青少年",
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "督導問 DSM 診斷與 HiTOP 維度模型有咩分別，你會點用呢個研究去解釋？"
- ],
- "original_prompt": "",
- "training": null,
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.jaacap.org/action/showPdf?pii=S0890-8567%2826%2900025-0",
-   "author_handle": "",
-   "author_name": "Hankin 與 Brandes 等",
-   "title": "Testing a Hierarchical Structural Model of Youth Psychopathology Symptoms Over Time and Across Informants, Gender, and Pubertal Status (JAACAP 2026;65(11):1398–1411)",
-   "content": "探索性因素分析：588 名青少年，症狀由一個整體因素展開至九個窄帶因素。",
-   "posted_at": "2026-11-01T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-11-13T13:30:36+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "testing-hierarchical-structural-model-youth-psychopathology",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [],
- "evidence_quote": "588 youths",
- "page_date": "November 2026"
+  "title_zh": "青少年精神病理的層次結構：一個整體因素下分九個窄帶症狀因素，父母報告比青少年自述更穩定（588 人）",
+  "title_en": "Testing hierarchical structural model youth psychopathology symptoms informants gender pubertal status",
+  "summary_zh": "Journal of the American Academy of Child & Adolescent Psychiatry 2026 年 11 月號刊出研究，以探索性因素分析檢視青少年精神病理症狀的層次結構。研究分析 588 名社區青少年（基線平均 13.58 歲，9.3 至 17.5 歲，55.5% 女性）及其父母的報告，追蹤 18 個月。結果顯示症狀由一個整體精神病理因素層層展開至九個可詮釋的窄帶症狀因素；中層複製以往兒童精神病理研究的三大寬帶譜系：內化、外化失抑制與人格失調。寬帶譜系結構在不同報告者之間大致一致；窄帶結構在性別與青春期狀態之間有細微差異，青少年自述的結構隨時間變化較父母報告大。研究已預註冊。共同第一作者為 Benjamin L. Hankin 與 Cassandra M. Brandes。",
+  "summary_en": "The Journal of the American Academy of Child & Adolescent Psychiatry (November 2026) published a study using exploratory factor analysis to test the hierarchical structure of youth psychopathology symptoms. The researchers analysed reports from 588 community youth (baseline mean age 13.58 years, range 9.3-17.5, 55.5% female) and their parents, followed over 18 months. Symptoms unfolded from one general psychopathology factor down to nine interpretable narrowband symptom factors; the intermediate level replicated three broadband spectra from prior child psychopathology research: internalizing, disinhibited externalizing and personality dysregulation. The broadband structure was largely consistent across informants, while the narrowband structure showed nuanced differences across gender and pubertal status, and youth-reported structure changed more over time than parent-reported structure. The study was preregistered. Shared first authors Benjamin L. Hankin and Cassandra M. Brandes.",
+  "category": "評估與篩檢",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "探索性因素分析（Journal of the American Academy of Child & Adolescent Psychiatry 2026 年 11 月號，65(11):1398–1411；經 JAACAP 原文 PDF 全文核實；研究已預註冊，OSF https://osf.io/9agvs/）",
+  "ethics_flags": [
+    {
+      "flag": "篩檢與標籤",
+      "note": "維度模型仍屬研究框架，不可取代 DSM／ICD 診斷作臨床決定；以因素結構為兒童分類時，須避免過早標籤化。",
+      "refs": [
+        "評估與篩檢｜假陽性與標籤效應"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "探索性描述研究，樣本為美國社區青少年，推廣至臨床樣本與其他地區有限；窄帶因素結構在性別、青春期與時間之間有差異；模型未作臨床診斷用途驗證；HiTOP 仍屬研究框架，未取代 DSM／ICD。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "樣本：588 名社區青少年及其父母，基線平均 13.58 歲（9.3–17.5 歲），55.5% 女性；來自美國丹佛與新澤西中部",
+    "方法：探索性因素分析，以青少年自述與父母報告的症狀項目建構層次模型；追蹤 18 個月，比較不同時間、報告者、性別與青春期狀態",
+    "主要結果：症狀由一個整體精神病理因素展開至九個可詮釋的窄帶症狀因素",
+    "中層結構：複製三大寬帶譜系——內化、外化失抑制與人格失調；寬帶譜系在不同報告者之間大致一致",
+    "差異：窄帶結構在性別與青春期狀態之間有細微差異；青少年自述的結構隨時間變化較父母報告大，父母報告較穩定",
+    "預註冊：研究設計與分析計劃已預註冊（OSF）"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "HiTOP",
+    "精神病理分類",
+    "青少年",
+    "因素分析",
+    "評估"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "督導問 DSM 診斷與 HiTOP 維度模型有咩分別，你會點用呢個研究去解釋？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.jaacap.org/action/showPdf?pii=S0890-8567%2826%2900025-0",
+      "author_handle": "",
+      "author_name": "Hankin 與 Brandes 等",
+      "title": "Testing a Hierarchical Structural Model of Youth Psychopathology Symptoms Over Time and Across Informants, Gender, and Pubertal Status (JAACAP 2026;65(11):1398–1411)",
+      "content": "探索性因素分析：588 名青少年，症狀由一個整體因素展開至九個窄帶因素。",
+      "posted_at": "2026-11-01T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-13T13:30:36+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "testing-hierarchical-structural-model-youth-psychopathology",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "588 youths",
+  "page_date": "November 2026",
+  "date": "2026-11-01T00:00:00+00:00"
 }

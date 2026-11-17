@@ -1,191 +1,192 @@
 {
- "title_zh": "Coursera 免費課程：學校中的 ADHD、自閉症與學習障礙",
- "title_en": "Coursera ADHD autism learning disabilities in school",
- "summary_zh": "科羅拉多大學在 Coursera 開設的自學課程，約 9 小時、4 個單元，分別介紹 ADHD、自閉症譜系障礙、學習障礙與腦震盪，重點在辨識症狀與了解診斷流程，屬「兒童青少年學校健康」專項課程的一部分。可免費報讀，證書另需付費（頁面未列價格）。",
- "summary_en": "A free-to-enrol, self-paced Coursera course from the University of Colorado (about 9 hours, 4 modules) covering ADHD, autism, learning disabilities and concussion in school settings.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程資訊，非研究。",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "入門課程，未列明心理師繼續教育學分；內容以美國學校制度為背景。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "免費報讀、自訂進度，約 9 小時",
-  "4 個單元：ADHD、自閉症、學習障礙、腦震盪",
-  "著重症狀辨識與診斷流程",
-  "屬學校健康專項課程，證書另計費用"
- ],
- "brief_en": [
-  "Free to enrol, ~9 hours",
-  "Four modules incl. ADHD, autism, LD",
-  "Focus on recognition and diagnosis",
-  "Certificate costs extra"
- ],
- "model_names": [],
- "tags": [
-  "特殊教育需要",
-  "ADHD",
-  "自閉症",
-  "學習障礙",
-  "學校",
-  "免費課程"
- ],
- "population": [
-  "臨床工作者",
-  "兒童青少年"
- ],
- "supervision_questions": [
-  "這類以美國學校制度為背景的課程，哪些內容可直接用於本地 SEN 支援，哪些需要調整？",
-  "實習生完成入門課程後，如何在督導下累積 SEN 評估經驗？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "University of Colorado System（Coursera）",
-  "format": "線上自學",
-  "price": "免費報讀；證書費用頁面未列明",
-  "price_tier": "免費",
-  "ce_credits": "",
-  "language": "英文（提供 24 種語言選項）",
-  "event_date": "",
-  "deadline": "",
-  "audience_level": "入門",
-  "topic": "學校中的 ADHD、自閉症、學習障礙與腦震盪",
-  "signup_url": "https://www.coursera.org/learn/autism-spectrum-disorder",
-  "format_note": "網上自學課程（4 個單元）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.coursera.org/learn/autism-spectrum-disorder",
-   "author_handle": "",
-   "author_name": "University of Colorado System",
-   "title": "Managing ADHD, Autism, Learning Disabilities, and Concussion in School",
-   "content": "科羅拉多大學在 Coursera 開設的免費自學課程，約 9 小時、4 個單元，介紹學校情境中 ADHD、自閉症、學習障礙與腦震盪的辨識與診斷流程，屬學校健康專項課程之一。",
-   "posted_at": "2026-10-01T03:34:06+00:00"
-  }
- ],
- "first_seen_at": "2026-10-01T03:34:06+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "coursera-adhd-autism-learning-disabilities-in-school",
- "featured_at": null,
- "hot_score": 2.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions",
-   "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對",
-   "title_en": "NAS opposes NHS autism and ADHD assessment restrictions",
-   "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。",
-   "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.",
-   "category": "評估與篩檢",
-   "kind": "incident",
-   "model_names": [],
-   "tags": [
+  "title_zh": "Coursera 免費課程：學校中的 ADHD、自閉症與學習障礙",
+  "title_en": "Coursera ADHD autism learning disabilities in school",
+  "summary_zh": "科羅拉多大學在 Coursera 開設的自學課程，約 9 小時、4 個單元，分別介紹 ADHD、自閉症譜系障礙、學習障礙與腦震盪，重點在辨識症狀與了解診斷流程，屬「兒童青少年學校健康」專項課程的一部分。可免費報讀，證書另需付費（頁面未列價格）。",
+  "summary_en": "A free-to-enrol, self-paced Coursera course from the University of Colorado (about 9 hours, 4 modules) covering ADHD, autism, learning disabilities and concussion in school settings.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程資訊，非研究。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "入門課程，未列明心理師繼續教育學分；內容以美國學校制度為背景。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "免費報讀、自訂進度，約 9 小時",
+    "4 個單元：ADHD、自閉症、學習障礙、腦震盪",
+    "著重症狀辨識與診斷流程",
+    "屬學校健康專項課程，證書另計費用"
+  ],
+  "brief_en": [
+    "Free to enrol, ~9 hours",
+    "Four modules incl. ADHD, autism, LD",
+    "Focus on recognition and diagnosis",
+    "Certificate costs extra"
+  ],
+  "model_names": [],
+  "tags": [
     "特殊教育需要",
-    "兒童心理",
-    "自閉症",
     "ADHD",
-    "評估輪候",
-    "英國",
-    "NHS"
-   ],
-   "first_seen_at": "2026-10-01T03:34:06+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "成人",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.782,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-09-25T00:00:00+00:00"
-  },
-  {
-   "slug": "hkumed-prenatal-paracetamol-not-linked-to-autism-or-adhd",
-   "title_zh": "港大：孕期服撲熱息痛不增加子女自閉症或 ADHD 風險（70 萬對母子、兄弟姊妹配對）",
-   "title_en": "HKUMed prenatal paracetamol not linked to autism or ADHD",
-   "summary_zh": "港大醫學院團隊分析香港 2000–2023 年 708,020 對母子的電子病歷，以兄弟姊妹配對設計控制家族遺傳與環境因素，發現孕期使用撲熱息痛與子女自閉症譜系障礙或 ADHD 風險無關，且不同劑量、孕期與使用模式結果一致。研究刊於《JAMA Internal Medicine》，回應了美國政府早前的相關說法。",
-   "summary_en": "Using Hong Kong records of 708,020 mother–child pairs (2000–2023) and a sibling-matched design, HKUMed found no association between prenatal paracetamol exposure and ASD or ADHD, consistent across dose, trimester and pattern of use (JAMA Internal Medicine).",
-   "category": "研究與證據",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "特殊教育需要",
     "自閉症",
-    "ADHD",
-    "香港",
-    "流行病學",
-    "家長心理教育"
-   ],
-   "first_seen_at": "2026-10-01T03:34:06+00:00",
-   "evidence_level": 2,
-   "population": [
-    "兒童青少年",
-    "一般大眾",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.782,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-07-02T00:00:00+00:00"
-  },
-  {
-   "slug": "free-e-learning-anti-racism-and-mental-health-in-schools",
-   "title_zh": "免費自學：Anna Freud「反種族主義與學校心理健康」網上課程",
-   "title_en": "Free e-learning: Anti-Racism and Mental Health in Schools",
-   "summary_zh": "Anna Freud 提供的免費自學網上課程，約 3–5 小時，報名後 12 個月內可修讀。五個單元涵蓋帶領反種族主義改變、全校合作、了解及促進黑人與少數族裔學生的身心健康、支援少數族裔職員，並附反思活動，完成後可申請 CPD 證書。",
-   "summary_en": "A free, self-paced Anna Freud e-learning course (3–5 hours, 12 months' access) with five modules on anti-racism and the wellbeing of Black and racially minoritised students and staff; CPD certificate on completion.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "學校心理健康",
-    "反種族主義",
-    "免費課程",
-    "Anna Freud"
-   ],
-   "first_seen_at": "2026-10-01T03:55:02+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-01T03:55:02+00:00",
-   "training": {
-    "provider": "Anna Freud",
-    "price": "免費",
+    "學習障礙",
+    "學校",
+    "免費課程"
+  ],
+  "population": [
+    "臨床工作者",
+    "兒童青少年"
+  ],
+  "supervision_questions": [
+    "這類以美國學校制度為背景的課程，哪些內容可直接用於本地 SEN 支援，哪些需要調整？",
+    "實習生完成入門課程後，如何在督導下累積 SEN 評估經驗？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "University of Colorado System（Coursera）",
+    "format": "線上自學",
+    "price": "免費報讀；證書費用頁面未列明",
     "price_tier": "免費",
-    "ce_credits": "CPD 證書（CPD Service）",
-    "language": "英語",
-    "deadline": "",
+    "ce_credits": "",
+    "language": "英文（提供 24 種語言選項）",
     "event_date": "",
-    "format": "網上自學"
-   },
-   "deadline_soon": false
-  }
- ]
+    "deadline": "",
+    "audience_level": "入門",
+    "topic": "學校中的 ADHD、自閉症、學習障礙與腦震盪",
+    "signup_url": "https://www.coursera.org/learn/autism-spectrum-disorder",
+    "format_note": "網上自學課程（4 個單元）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.coursera.org/learn/autism-spectrum-disorder",
+      "author_handle": "",
+      "author_name": "University of Colorado System",
+      "title": "Managing ADHD, Autism, Learning Disabilities, and Concussion in School",
+      "content": "科羅拉多大學在 Coursera 開設的免費自學課程，約 9 小時、4 個單元，介紹學校情境中 ADHD、自閉症、學習障礙與腦震盪的辨識與診斷流程，屬學校健康專項課程之一。",
+      "posted_at": "2026-10-01T03:34:06+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-01T03:34:06+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "coursera-adhd-autism-learning-disabilities-in-school",
+  "featured_at": null,
+  "hot_score": 2.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions",
+      "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對",
+      "title_en": "NAS opposes NHS autism and ADHD assessment restrictions",
+      "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。",
+      "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.",
+      "category": "評估與篩檢",
+      "kind": "incident",
+      "model_names": [],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "ADHD",
+        "評估輪候",
+        "英國",
+        "NHS"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "slug": "hkumed-prenatal-paracetamol-not-linked-to-autism-or-adhd",
+      "title_zh": "港大：孕期服撲熱息痛不增加子女自閉症或 ADHD 風險（70 萬對母子、兄弟姊妹配對）",
+      "title_en": "HKUMed prenatal paracetamol not linked to autism or ADHD",
+      "summary_zh": "港大醫學院團隊分析香港 2000–2023 年 708,020 對母子的電子病歷，以兄弟姊妹配對設計控制家族遺傳與環境因素，發現孕期使用撲熱息痛與子女自閉症譜系障礙或 ADHD 風險無關，且不同劑量、孕期與使用模式結果一致。研究刊於《JAMA Internal Medicine》，回應了美國政府早前的相關說法。",
+      "summary_en": "Using Hong Kong records of 708,020 mother–child pairs (2000–2023) and a sibling-matched design, HKUMed found no association between prenatal paracetamol exposure and ASD or ADHD, consistent across dose, trimester and pattern of use (JAMA Internal Medicine).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "特殊教育需要",
+        "自閉症",
+        "ADHD",
+        "香港",
+        "流行病學",
+        "家長心理教育"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "一般大眾",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-07-02T00:00:00+00:00"
+    },
+    {
+      "slug": "free-e-learning-anti-racism-and-mental-health-in-schools",
+      "title_zh": "免費自學：Anna Freud「反種族主義與學校心理健康」網上課程",
+      "title_en": "Free e-learning: Anti-Racism and Mental Health in Schools",
+      "summary_zh": "Anna Freud 提供的免費自學網上課程，約 3–5 小時，報名後 12 個月內可修讀。五個單元涵蓋帶領反種族主義改變、全校合作、了解及促進黑人與少數族裔學生的身心健康、支援少數族裔職員，並附反思活動，完成後可申請 CPD 證書。",
+      "summary_en": "A free, self-paced Anna Freud e-learning course (3–5 hours, 12 months' access) with five modules on anti-racism and the wellbeing of Black and racially minoritised students and staff; CPD certificate on completion.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "學校心理健康",
+        "反種族主義",
+        "免費課程",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T03:55:02+00:00",
+      "training": {
+        "provider": "Anna Freud",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "CPD 證書（CPD Service）",
+        "language": "英語",
+        "deadline": "",
+        "event_date": "",
+        "format": "網上自學"
+      },
+      "deadline_soon": false
+    }
+  ],
+  "date": "2026-10-01T03:34:06+00:00"
 }

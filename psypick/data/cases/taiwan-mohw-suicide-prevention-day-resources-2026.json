@@ -1,1 +1,175 @@
-{"title_zh": "衛福部世界自殺防治日：現行資源總整理與「改變自殺敘事」", "title_en": "Taiwan MOHW suicide prevention day resources 2026", "summary_zh": "衛生福利部在 2026 年世界自殺防治日記者會呼應「改變自殺敘事」主題，呼籲從沉默與污名轉向傾聽與理解。記者會整理多項現行資源：15–45 歲每年 3 次免費心理諮商（滿意度 96%）、24 小時 1925 安心專線、男性關懷專線、75 處社區心理衛生中心、青少年匿名文字諮詢及「一問二應三轉介」守門人訓練。", "summary_en": "At its 2026 World Suicide Prevention Day briefing, Taiwan's health ministry echoed the 'change the narrative' theme and summarised current resources: three free counselling sessions a year for ages 15–45, the 1925 hotline, a men's line, 75 community mental health centres, text counselling for youth and gatekeeper training.", "category": "倫理與風險", "kind": "practice", "evidence_level": 0, "evidence_note": "政府新聞稿，滿意度數字為主辦方自述。", "ethics_flags": [{"flag": "危機處理", "note": "整理可轉介的危機與支持資源，適合更新機構轉介清單。", "refs": ["危機處理｜自殺與自傷風險"]}], "psych_concepts": [], "caution": "新聞稿以宣導為主，方案申請資格與名額請以心理健康司最新公告為準。", "verify_needed": false, "verify_reason": "", "brief_zh": ["主題：改變自殺敘事，從污名走向傾聽", "15–45 歲每年 3 次免費心理諮商，滿意度 96%", "1925 安心專線 24 小時、男性關懷專線 0800-013-999", "青少年匿名文字諮詢、「一問二應三轉介」守門人訓練"], "brief_en": ["Theme: changing the narrative on suicide", "Three free sessions/year for ages 15–45", "1925 hotline and men's line", "Text counselling and gatekeeper training"], "model_names": [], "tags": ["自殺防治", "台灣", "政策", "守門人", "轉介資源"], "population": ["兒童青少年", "成人", "一般大眾", "臨床工作者"], "supervision_questions": ["你的機構轉介清單是否已納入青少年文字諮詢與男性關懷專線？", "「改變自殺敘事」在會談中可以怎樣落實？哪些說法可能強化污名？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-502-87918-107.html", "author_handle": "", "author_name": "衛生福利部心理健康司", "title": "世界自殺防治日記者會 「改變自殺敘事–綻放韌性 共築未來」", "content": "衛福部在世界自殺防治日記者會整理現行自殺防治資源，包括 15–45 歲免費心理諮商、1925 安心專線、男性關懷專線、75 處社區心理衛生中心、青少年文字諮詢與守門人訓練。", "posted_at": "2026-09-12T00:00:00+00:00"}], "first_seen_at": "2026-09-30T18:00:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "taiwan-mohw-suicide-prevention-day-resources-2026", "featured_at": null, "hot_score": 0.767, "tier": "live", "deadline_soon": false, "related": [{"slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days", "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例", "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days", "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。", "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["兒童心理", "嬰幼兒心理健康", "親嬰關係", "政策", "英國", "Anna Freud"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-24T00:00:00+00:00"}, {"slug": "connecticut-ai-companion-rules-take-effect-october-1", "title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程", "title_en": "Connecticut AI companion rules take effect October 1", "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。", "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["康乃狄克州", "AI 陪伴", "美國州法", "自殺防治", "兒少保護", "法規生效"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-30T00:00:00+00:00"}, {"slug": "taiwan-minors-counselling-without-parental-accompaniment", "title_zh": "台灣：青少年心理諮商可不強制家長陪同，身心科診療仍研議", "title_en": "Taiwan minors counselling without parental accompaniment", "summary_zh": "台灣公共政策網路參與平台有提案建議讓特定年齡青少年就醫身心科與接受心理諮商時免家長陪同，9 月 26 日達附議門檻，共 5,772 人附議。衛福部長石崇良表示，部方已就心理諮商發函說明，當事人對諮商內容有充分理解時不強制家長陪同；至於精神科診斷與用藥涉及醫療相關法規，仍在部內研議，政府須於 11 月 26 日前回應。", "summary_en": "A Taiwanese e-petition (5,772 signatures) asks that adolescents be allowed psychiatric and counselling care without parental accompaniment. The health minister said counselling does not require a parent if the minor sufficiently understands it, while psychiatric diagnosis and medication remain under review; a formal reply is due by 26 November.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["兒童心理", "台灣", "知情同意", "未成年人", "心理諮商", "衛福部"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 1.173, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-30T00:00:00+00:00"}]}
+{
+  "title_zh": "衛福部世界自殺防治日：現行資源總整理與「改變自殺敘事」",
+  "title_en": "Taiwan MOHW suicide prevention day resources 2026",
+  "summary_zh": "衛生福利部在 2026 年世界自殺防治日記者會呼應「改變自殺敘事」主題，呼籲從沉默與污名轉向傾聽與理解。記者會整理多項現行資源：15–45 歲每年 3 次免費心理諮商（滿意度 96%）、24 小時 1925 安心專線、男性關懷專線、75 處社區心理衛生中心、青少年匿名文字諮詢及「一問二應三轉介」守門人訓練。",
+  "summary_en": "At its 2026 World Suicide Prevention Day briefing, Taiwan's health ministry echoed the 'change the narrative' theme and summarised current resources: three free counselling sessions a year for ages 15–45, the 1925 hotline, a men's line, 75 community mental health centres, text counselling for youth and gatekeeper training.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "政府新聞稿，滿意度數字為主辦方自述。",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "整理可轉介的危機與支持資源，適合更新機構轉介清單。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "新聞稿以宣導為主，方案申請資格與名額請以心理健康司最新公告為準。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "主題：改變自殺敘事，從污名走向傾聽",
+    "15–45 歲每年 3 次免費心理諮商，滿意度 96%",
+    "1925 安心專線 24 小時、男性關懷專線 0800-013-999",
+    "青少年匿名文字諮詢、「一問二應三轉介」守門人訓練"
+  ],
+  "brief_en": [
+    "Theme: changing the narrative on suicide",
+    "Three free sessions/year for ages 15–45",
+    "1925 hotline and men's line",
+    "Text counselling and gatekeeper training"
+  ],
+  "model_names": [],
+  "tags": [
+    "自殺防治",
+    "台灣",
+    "政策",
+    "守門人",
+    "轉介資源"
+  ],
+  "population": [
+    "兒童青少年",
+    "成人",
+    "一般大眾",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "你的機構轉介清單是否已納入青少年文字諮詢與男性關懷專線？",
+    "「改變自殺敘事」在會談中可以怎樣落實？哪些說法可能強化污名？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-502-87918-107.html",
+      "author_handle": "",
+      "author_name": "衛生福利部心理健康司",
+      "title": "世界自殺防治日記者會 「改變自殺敘事–綻放韌性 共築未來」",
+      "content": "衛福部在世界自殺防治日記者會整理現行自殺防治資源，包括 15–45 歲免費心理諮商、1925 安心專線、男性關懷專線、75 處社區心理衛生中心、青少年文字諮詢與守門人訓練。",
+      "posted_at": "2026-09-12T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:00:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "taiwan-mohw-suicide-prevention-day-resources-2026",
+  "featured_at": null,
+  "hot_score": 0.767,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days",
+      "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例",
+      "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
+      "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
+      "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "嬰幼兒心理健康",
+        "親嬰關係",
+        "政策",
+        "英國",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-24T00:00:00+00:00"
+    },
+    {
+      "slug": "connecticut-ai-companion-rules-take-effect-october-1",
+      "title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程",
+      "title_en": "Connecticut AI companion rules take effect October 1",
+      "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。",
+      "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "康乃狄克州",
+        "AI 陪伴",
+        "美國州法",
+        "自殺防治",
+        "兒少保護",
+        "法規生效"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "slug": "taiwan-minors-counselling-without-parental-accompaniment",
+      "title_zh": "台灣：青少年心理諮商可不強制家長陪同，身心科診療仍研議",
+      "title_en": "Taiwan minors counselling without parental accompaniment",
+      "summary_zh": "台灣公共政策網路參與平台有提案建議讓特定年齡青少年就醫身心科與接受心理諮商時免家長陪同，9 月 26 日達附議門檻，共 5,772 人附議。衛福部長石崇良表示，部方已就心理諮商發函說明，當事人對諮商內容有充分理解時不強制家長陪同；至於精神科診斷與用藥涉及醫療相關法規，仍在部內研議，政府須於 11 月 26 日前回應。",
+      "summary_en": "A Taiwanese e-petition (5,772 signatures) asks that adolescents be allowed psychiatric and counselling care without parental accompaniment. The health minister said counselling does not require a parent if the minor sufficiently understands it, while psychiatric diagnosis and medication remain under review; a formal reply is due by 26 November.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "台灣",
+        "知情同意",
+        "未成年人",
+        "心理諮商",
+        "衛福部"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.173,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-30T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-12T00:00:00+00:00"
+}

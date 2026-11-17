@@ -1,1 +1,176 @@
-{"title_zh": "RCT：LLM 模擬個案加上 AI 回饋，能提升新手諮商員的微技巧", "title_en": "LLM simulated practice and feedback for novice counselors", "summary_zh": "這項隨機研究把 94 名新手諮商員分為「只練習」與「練習加 LLM 回饋」兩組。回饋組在反映、提問等個案中心微技巧上有明顯進步，只練習組則沒有；只練習組的同理表現隨時間顯著下降。質性資料顯示回饋幫助參與者轉向個案中心的傾聽，只練習者則維持解決問題導向。", "summary_en": "This randomized study assigned 94 novice counselors to practice alone or practice plus LLM-generated feedback. The feedback group improved on client-centered microskills such as reflections and questions, while practice alone produced no gains and empathy declined over time. Qualitative data suggest feedback shifted participants toward client-centered listening.", "category": "督導與訓練", "kind": "research", "evidence_level": 3, "evidence_note": "隨機對照研究；arXiv 2025-05 首版，2026-03 修訂並附 ACM 會議論文 DOI。", "ethics_flags": [{"flag": "能力範圍", "note": "AI 回饋可輔助訓練，但受訓者能力的判定與把關仍屬督導職責。", "refs": ["APA 2.01｜能力範圍", "專業責任歸屬｜人機協作的責任"]}], "psych_concepts": [{"name": "刻意練習", "note": "研究直接顯示「有回饋的練習」才有進步，符合刻意練習強調回饋的核心。", "ref": "概念｜刻意練習"}], "caution": "研究對象是新手諮商員與模擬情境，技巧進步是否轉移到真實個案仍需驗證。", "verify_needed": false, "verify_reason": "", "brief_zh": ["94 名新手諮商員隨機分兩組", "回饋組反映與提問等微技巧進步", "只練習組沒有進步，同理甚至下降", "提醒：沒有回饋的模擬練習可能強化不良習慣"], "brief_en": ["94 novice counselors randomized to two arms", "Feedback arm improved reflections and questions", "Practice-alone arm showed no gains; empathy declined", "Simulation without feedback may entrench poor habits"], "model_names": [], "tags": ["模擬個案", "AI回饋", "諮商訓練", "微技巧", "RCT"], "population": ["臨床工作者"], "supervision_questions": ["只練習組的同理下降，對我們讓實習生自行用 AI 模擬個案練習有什麼提醒？", "AI 給的回饋和督導給的回饋，各自適合處理哪些層次的技巧？", "如何把這類工具融入現有的逐字稿督導流程？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://arxiv.org/abs/2505.02428", "author_handle": "", "author_name": "Ryan Louie, Raj Sanjay Shah, Ifdita Hasan Orney, Juan Pablo Pacheco, Emma Brunskill, Diyi Yang", "title": "Can LLM-Simulated Practice and Feedback Upskill Human Counselors? A Randomized Study with 90+ Novice Counselors", "content": "隨機分派 94 名新手諮商員，比較「只和 LLM 模擬個案練習」與「練習加上 LLM 回饋」對諮商微技巧與同理的影響。", "posted_at": "2026-03-09T00:00:00+00:00"}], "first_seen_at": "2026-09-30T13:03:54+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "llm-simulated-practice-and-feedback-for-novice-counselors", "featured_at": null, "hot_score": 1.518, "tier": "live", "deadline_soon": false, "related": [{"slug": "ai-feedback-on-therapy-recordings-for-doctoral-trainees", "title_zh": "AI 自動回饋療程錄音：臨床心理博士生的 CBT 技巧進步較快", "title_en": "AI feedback on therapy recordings for doctoral trainees", "summary_zh": "研究回溯比較兩屆臨床心理博士生（共 23 人）：2024 年一屆每週收到 Lyssn 工具依認知治療評分量表（CTRS）與動機式晤談編碼（MISC）產生的回饋，2022 年一屆沒有。回饋組起點較低，但每週進步速率 0.97 分遠高於對照組的 0.03 分，學期末 CTRS 分數反超；研究為非隨機、小樣本且使用角色扮演。", "summary_en": "A retrospective comparison of two doctoral clinical psychology cohorts (n=23): the 2024 cohort received weekly Lyssn feedback coded on the CTRS and MISC, the 2022 cohort did not. Despite a lower start, the feedback cohort improved 0.97 CTRS units per week vs 0.03 and finished higher; the study was nonrandomized, small, and used role-plays.", "category": "督導與訓練", "kind": "research", "model_names": ["Lyssn"], "tags": ["AI回饋", "CTRS", "動機式晤談", "研究生訓練", "療程錄音"], "first_seen_at": "2026-09-30T13:03:54+00:00", "evidence_level": 2, "population": ["臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.759, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-02-08T00:00:00+00:00"}, {"slug": "collaborative-case-formulation-in-emotion-focused-therapy", "title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究", "title_en": "Collaborative case formulation in emotion focused therapy", "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。", "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.", "category": "督導與訓練", "kind": "research", "model_names": [], "tags": ["情緒取向治療", "Emotion-Focused Therapy", "個案概念化", "督導", "質性研究"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["臨床工作者"], "hero_media": null, "verify_needed": true, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-27T00:00:00+00:00"}, {"slug": "macao-domestic-violence-frontline-training-2026", "title_zh": "澳門社工局家暴配偶個案訓練：約 400 名前線人員學辨識與危機評估", "title_en": "Macao domestic violence frontline training 2026", "summary_zh": "澳門社會工作局舉辦 2026 年處理家暴配偶個案基本訓練課程，約 400 名警務、醫護、社工、輔導與教育前線人員參加。講者包括司法警察、衛生局精神科醫生與法醫，內容涵蓋預防與通報程序、從精神科與醫學角度辨識受虐徵兆、危機評估與庇護經驗；課程自 2018 年起累計 2,878 人參加。", "summary_en": "Macao's Social Welfare Bureau trained about 400 frontline staff on identifying spousal abuse, crisis assessment and reporting, with speakers from police, psychiatry and forensic medicine.", "category": "督導與訓練", "kind": "practice", "model_names": [], "tags": ["澳門", "家庭暴力", "危機評估", "跨專業訓練", "社工局"], "first_seen_at": "2026-09-30T22:41:42+00:00", "evidence_level": 0, "population": ["臨床工作者", "成人"], "hero_media": null, "verify_needed": false, "hot_score": 0.387, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-22T00:00:00+00:00"}]}
+{
+  "title_zh": "RCT：LLM 模擬個案加上 AI 回饋，能提升新手諮商員的微技巧",
+  "title_en": "LLM simulated practice and feedback for novice counselors",
+  "summary_zh": "這項隨機研究把 94 名新手諮商員分為「只練習」與「練習加 LLM 回饋」兩組。回饋組在反映、提問等個案中心微技巧上有明顯進步，只練習組則沒有；只練習組的同理表現隨時間顯著下降。質性資料顯示回饋幫助參與者轉向個案中心的傾聽，只練習者則維持解決問題導向。",
+  "summary_en": "This randomized study assigned 94 novice counselors to practice alone or practice plus LLM-generated feedback. The feedback group improved on client-centered microskills such as reflections and questions, while practice alone produced no gains and empathy declined over time. Qualitative data suggest feedback shifted participants toward client-centered listening.",
+  "category": "督導與訓練",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "隨機對照研究；arXiv 2025-05 首版，2026-03 修訂並附 ACM 會議論文 DOI。",
+  "ethics_flags": [
+    {
+      "flag": "能力範圍",
+      "note": "AI 回饋可輔助訓練，但受訓者能力的判定與把關仍屬督導職責。",
+      "refs": [
+        "APA 2.01｜能力範圍",
+        "專業責任歸屬｜人機協作的責任"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "刻意練習",
+      "note": "研究直接顯示「有回饋的練習」才有進步，符合刻意練習強調回饋的核心。",
+      "ref": "概念｜刻意練習"
+    }
+  ],
+  "caution": "研究對象是新手諮商員與模擬情境，技巧進步是否轉移到真實個案仍需驗證。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "94 名新手諮商員隨機分兩組",
+    "回饋組反映與提問等微技巧進步",
+    "只練習組沒有進步，同理甚至下降",
+    "提醒：沒有回饋的模擬練習可能強化不良習慣"
+  ],
+  "brief_en": [
+    "94 novice counselors randomized to two arms",
+    "Feedback arm improved reflections and questions",
+    "Practice-alone arm showed no gains; empathy declined",
+    "Simulation without feedback may entrench poor habits"
+  ],
+  "model_names": [],
+  "tags": [
+    "模擬個案",
+    "AI回饋",
+    "諮商訓練",
+    "微技巧",
+    "RCT"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "只練習組的同理下降，對我們讓實習生自行用 AI 模擬個案練習有什麼提醒？",
+    "AI 給的回饋和督導給的回饋，各自適合處理哪些層次的技巧？",
+    "如何把這類工具融入現有的逐字稿督導流程？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://arxiv.org/abs/2505.02428",
+      "author_handle": "",
+      "author_name": "Ryan Louie, Raj Sanjay Shah, Ifdita Hasan Orney, Juan Pablo Pacheco, Emma Brunskill, Diyi Yang",
+      "title": "Can LLM-Simulated Practice and Feedback Upskill Human Counselors? A Randomized Study with 90+ Novice Counselors",
+      "content": "隨機分派 94 名新手諮商員，比較「只和 LLM 模擬個案練習」與「練習加上 LLM 回饋」對諮商微技巧與同理的影響。",
+      "posted_at": "2026-03-09T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "llm-simulated-practice-and-feedback-for-novice-counselors",
+  "featured_at": null,
+  "hot_score": 1.518,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "ai-feedback-on-therapy-recordings-for-doctoral-trainees",
+      "title_zh": "AI 自動回饋療程錄音：臨床心理博士生的 CBT 技巧進步較快",
+      "title_en": "AI feedback on therapy recordings for doctoral trainees",
+      "summary_zh": "研究回溯比較兩屆臨床心理博士生（共 23 人）：2024 年一屆每週收到 Lyssn 工具依認知治療評分量表（CTRS）與動機式晤談編碼（MISC）產生的回饋，2022 年一屆沒有。回饋組起點較低，但每週進步速率 0.97 分遠高於對照組的 0.03 分，學期末 CTRS 分數反超；研究為非隨機、小樣本且使用角色扮演。",
+      "summary_en": "A retrospective comparison of two doctoral clinical psychology cohorts (n=23): the 2024 cohort received weekly Lyssn feedback coded on the CTRS and MISC, the 2022 cohort did not. Despite a lower start, the feedback cohort improved 0.97 CTRS units per week vs 0.03 and finished higher; the study was nonrandomized, small, and used role-plays.",
+      "category": "督導與訓練",
+      "kind": "research",
+      "model_names": [
+        "Lyssn"
+      ],
+      "tags": [
+        "AI回饋",
+        "CTRS",
+        "動機式晤談",
+        "研究生訓練",
+        "療程錄音"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.759,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-02-08T00:00:00+00:00"
+    },
+    {
+      "slug": "collaborative-case-formulation-in-emotion-focused-therapy",
+      "title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究",
+      "title_en": "Collaborative case formulation in emotion focused therapy",
+      "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。",
+      "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.",
+      "category": "督導與訓練",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Emotion-Focused Therapy",
+        "個案概念化",
+        "督導",
+        "質性研究"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-27T00:00:00+00:00"
+    },
+    {
+      "slug": "macao-domestic-violence-frontline-training-2026",
+      "title_zh": "澳門社工局家暴配偶個案訓練：約 400 名前線人員學辨識與危機評估",
+      "title_en": "Macao domestic violence frontline training 2026",
+      "summary_zh": "澳門社會工作局舉辦 2026 年處理家暴配偶個案基本訓練課程，約 400 名警務、醫護、社工、輔導與教育前線人員參加。講者包括司法警察、衛生局精神科醫生與法醫，內容涵蓋預防與通報程序、從精神科與醫學角度辨識受虐徵兆、危機評估與庇護經驗；課程自 2018 年起累計 2,878 人參加。",
+      "summary_en": "Macao's Social Welfare Bureau trained about 400 frontline staff on identifying spousal abuse, crisis assessment and reporting, with speakers from police, psychiatry and forensic medicine.",
+      "category": "督導與訓練",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "家庭暴力",
+        "危機評估",
+        "跨專業訓練",
+        "社工局"
+      ],
+      "first_seen_at": "2026-09-30T22:41:42+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.387,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-22T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-03-09T00:00:00+00:00"
+}

@@ -1,1 +1,184 @@
-{"title_zh": "Lancet Psychiatry 觀點文章：20 則「AI 相關妄想」案例的評析", "title_en": "AI-associated delusions Lancet Psychiatry personal view critique", "summary_zh": "The Lancet Psychiatry 刊出 Morrin 等人的 Personal View，整理 20 則媒體報導中與 AI 聊天機器人使用相關的妄想案例，主題集中在視 AI 為有意識或神一般的存在、靈性或救世主信念，以及戀愛妄想。作者提出記憶功能、傾向肯定使用者、擬人化設計等可能機制，並建議臨床常規評估 AI 使用；Mental Elf 評論則指出個案來自媒體、未經查證，無法確立因果。", "summary_en": "A Lancet Psychiatry Personal View by Morrin and colleagues reviewed 20 media-reported cases of delusions linked to AI chatbot use, with themes of AI as conscious or godlike, spiritual or messianic beliefs, and romantic delusions. It proposes mechanisms such as memory, validation and anthropomorphic design and recommends routine clinical assessment of AI use; the Mental Elf critique notes the unverified, media-sourced cases cannot establish causality.", "category": "人機互動心理", "kind": "research", "evidence_level": 0, "evidence_note": "原文為 Personal View，個案取自未經查證的媒體報導；本來源為對該文的評論。", "ethics_flags": [{"flag": "危機處理", "note": "嚴重精神疾病的照護應以真人為主，並需處理 AI 使用帶來的風險。", "refs": ["APA 10.10｜終止治療與轉介"]}], "psych_concepts": [{"name": "ELIZA 效應", "note": "擬人化設計讓使用者把 AI 視為有意識的存在，是妄想主題之一。", "ref": "概念｜ELIZA 效應"}, {"name": "擬社會關係", "note": "戀愛妄想反映對 AI 的單向情感關係被推到極端。", "ref": "概念｜擬社會關係"}], "caution": "案例來自媒體報導且偏向嚴重個案，不能據此推估盛行率或認定 AI 會直接引發精神病。", "verify_needed": false, "verify_reason": "", "brief_zh": ["20 則媒體報導案例，屬專家觀點而非系統性研究", "妄想主題：AI 有意識或似神、靈性使命、戀愛妄想", "建議臨床常規評估 AI 使用、做個人化數位安全計畫", "作者承認尚不知 AI 能否直接引發精神病"], "brief_en": ["20 media-reported cases; an expert opinion piece", "Themes: conscious/godlike AI, messianic, romantic", "Recommends routine assessment of AI use and digital safety plans", "Authors say de novo causation is unknown"], "model_names": [], "tags": ["AI 相關妄想", "精神病", "迎合性", "The Lancet Psychiatry", "數位安全計畫"], "population": ["成人", "臨床工作者"], "supervision_questions": ["精神病評估時，你會怎麼詢問個案與 AI 的互動內容？", "如何分辨「AI 使用是妄想的內容」與「AI 使用加劇了妄想」？", "個人化的數位安全計畫可能包含哪些項目？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.nationalelfservice.net/treatment/digital-health/artificial-intelligence-associated-delusions-twenty-cases-plenty-of-questions/", "author_handle": "", "author_name": "The Mental Elf（Sandra Vieira）", "title": "Artificial intelligence-associated delusions: twenty cases, plenty of questions", "content": "評析 The Lancet Psychiatry 一篇 Personal View，該文整理 20 則媒體報導中與 AI 聊天機器人使用相關的妄想案例，提出可能機制與安全建議；評論者指出證據品質與因果推論的限制。", "posted_at": "2026-09-23T00:00:00+00:00"}], "first_seen_at": "2026-09-30T13:03:54+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "ai-associated-delusions-lancet-psychiatry-personal-view-crit", "featured_at": null, "hot_score": 1.139, "tier": "live", "deadline_soon": false, "related": [{"slug": "clients-using-chatgpt-between-therapy-sessions", "title_zh": "個案把 ChatGPT 帶進治療：一位治療師的臨床觀察與建議", "title_en": "Clients using ChatGPT between therapy sessions", "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。", "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.", "category": "人機互動心理", "kind": "practice", "model_names": ["ChatGPT"], "tags": ["ChatGPT", "個案使用 AI", "治療關係", "臨床觀察"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["成人", "兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-05T00:00:00+00:00"}, {"slug": "ai-in-intimate-relationships-and-attachment", "title_zh": "AI 走進親密關係：從依附型態看個案怎麼用聊天機器人", "title_en": "AI in intimate relationships and attachment", "summary_zh": "Psychotherapy.net 由 Lawrence Rubin 訪談心理學家 Ammara Khalid。她指出時間壓力與寂寞是人們轉向 AI 的主因，焦慮型依附者可能用聊天機器人逃避不安，逃避型依附者則用它繞過與伴侶的脆弱對話；AI 能模仿同理語言，卻缺乏身體層次的共同調節與互惠回饋。她建議治療師以好奇、合作的態度詢問個案從 AI 得到什麼，並對有自殺意念的個案特別說明風險。", "summary_en": "In a Psychotherapy.net interview, psychologist Ammara Khalid says time pressure and loneliness drive people to AI for relationship help. Anxiously attached people may use chatbots to avoid discomfort and avoidant people to sidestep vulnerable talks with partners; AI mimics empathic language but lacks co-regulation and reciprocity. She recommends curious, collaborative questioning about what clients get from AI and explicit risk education for suicidal clients.", "category": "人機互動心理", "kind": "practice", "model_names": [], "tags": ["親密關係", "依附", "AI 陪伴", "伴侶治療", "訪談"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["成人", "兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-26T00:00:00+00:00"}, {"slug": "apa-survey-psychologists-patients-bring-ai-chatbots-to-thera", "title_zh": "APA 調查：超過四分之三心理師的個案在治療中談到 AI", "title_en": "APA survey psychologists patients bring AI chatbots to therapy", "summary_zh": "APA 於 2026 年 4 月對隨機抽樣的美國持照心理師進行線上調查，1,242 人回覆；超過 75% 表示個案曾在晤談中談到 AI，35% 表示有個案把聊天機器人當作輔助的心理健康專業者。68% 觀察到個案覺得被聊天機器人支持，但 36% 觀察到依賴，97% 擔心聊天機器人會強化負面行為或妄想。", "summary_en": "In an April 2026 online survey of randomly sampled US licensed psychologists (1,242 responses), over 75% said patients discuss AI in sessions and 35% said patients use chatbots as a supplementary mental health professional. 68% observed patients feeling supported, 36% observed dependence, and 97% worried chatbots could reinforce negative behaviours or delusions.", "category": "人機互動心理", "kind": "research", "model_names": [], "tags": ["APA", "心理師調查", "個案使用 AI", "自我診斷", "依賴"], "first_seen_at": "2026-09-30T13:03:54+00:00", "evidence_level": 2, "population": ["臨床工作者", "成人"], "hero_media": null, "verify_needed": false, "hot_score": 1.139, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-06-16T00:00:00+00:00"}]}
+{
+  "title_zh": "Lancet Psychiatry 觀點文章：20 則「AI 相關妄想」案例的評析",
+  "title_en": "AI-associated delusions Lancet Psychiatry personal view critique",
+  "summary_zh": "The Lancet Psychiatry 刊出 Morrin 等人的 Personal View，整理 20 則媒體報導中與 AI 聊天機器人使用相關的妄想案例，主題集中在視 AI 為有意識或神一般的存在、靈性或救世主信念，以及戀愛妄想。作者提出記憶功能、傾向肯定使用者、擬人化設計等可能機制，並建議臨床常規評估 AI 使用；Mental Elf 評論則指出個案來自媒體、未經查證，無法確立因果。",
+  "summary_en": "A Lancet Psychiatry Personal View by Morrin and colleagues reviewed 20 media-reported cases of delusions linked to AI chatbot use, with themes of AI as conscious or godlike, spiritual or messianic beliefs, and romantic delusions. It proposes mechanisms such as memory, validation and anthropomorphic design and recommends routine clinical assessment of AI use; the Mental Elf critique notes the unverified, media-sourced cases cannot establish causality.",
+  "category": "人機互動心理",
+  "kind": "research",
+  "evidence_level": 0,
+  "evidence_note": "原文為 Personal View，個案取自未經查證的媒體報導；本來源為對該文的評論。",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "嚴重精神疾病的照護應以真人為主，並需處理 AI 使用帶來的風險。",
+      "refs": [
+        "APA 10.10｜終止治療與轉介"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "ELIZA 效應",
+      "note": "擬人化設計讓使用者把 AI 視為有意識的存在，是妄想主題之一。",
+      "ref": "概念｜ELIZA 效應"
+    },
+    {
+      "name": "擬社會關係",
+      "note": "戀愛妄想反映對 AI 的單向情感關係被推到極端。",
+      "ref": "概念｜擬社會關係"
+    }
+  ],
+  "caution": "案例來自媒體報導且偏向嚴重個案，不能據此推估盛行率或認定 AI 會直接引發精神病。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "20 則媒體報導案例，屬專家觀點而非系統性研究",
+    "妄想主題：AI 有意識或似神、靈性使命、戀愛妄想",
+    "建議臨床常規評估 AI 使用、做個人化數位安全計畫",
+    "作者承認尚不知 AI 能否直接引發精神病"
+  ],
+  "brief_en": [
+    "20 media-reported cases; an expert opinion piece",
+    "Themes: conscious/godlike AI, messianic, romantic",
+    "Recommends routine assessment of AI use and digital safety plans",
+    "Authors say de novo causation is unknown"
+  ],
+  "model_names": [],
+  "tags": [
+    "AI 相關妄想",
+    "精神病",
+    "迎合性",
+    "The Lancet Psychiatry",
+    "數位安全計畫"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "精神病評估時，你會怎麼詢問個案與 AI 的互動內容？",
+    "如何分辨「AI 使用是妄想的內容」與「AI 使用加劇了妄想」？",
+    "個人化的數位安全計畫可能包含哪些項目？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.nationalelfservice.net/treatment/digital-health/artificial-intelligence-associated-delusions-twenty-cases-plenty-of-questions/",
+      "author_handle": "",
+      "author_name": "The Mental Elf（Sandra Vieira）",
+      "title": "Artificial intelligence-associated delusions: twenty cases, plenty of questions",
+      "content": "評析 The Lancet Psychiatry 一篇 Personal View，該文整理 20 則媒體報導中與 AI 聊天機器人使用相關的妄想案例，提出可能機制與安全建議；評論者指出證據品質與因果推論的限制。",
+      "posted_at": "2026-09-23T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ai-associated-delusions-lancet-psychiatry-personal-view-crit",
+  "featured_at": null,
+  "hot_score": 1.139,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "clients-using-chatgpt-between-therapy-sessions",
+      "title_zh": "個案把 ChatGPT 帶進治療：一位治療師的臨床觀察與建議",
+      "title_en": "Clients using ChatGPT between therapy sessions",
+      "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。",
+      "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.",
+      "category": "人機互動心理",
+      "kind": "practice",
+      "model_names": [
+        "ChatGPT"
+      ],
+      "tags": [
+        "ChatGPT",
+        "個案使用 AI",
+        "治療關係",
+        "臨床觀察"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-05T00:00:00+00:00"
+    },
+    {
+      "slug": "ai-in-intimate-relationships-and-attachment",
+      "title_zh": "AI 走進親密關係：從依附型態看個案怎麼用聊天機器人",
+      "title_en": "AI in intimate relationships and attachment",
+      "summary_zh": "Psychotherapy.net 由 Lawrence Rubin 訪談心理學家 Ammara Khalid。她指出時間壓力與寂寞是人們轉向 AI 的主因，焦慮型依附者可能用聊天機器人逃避不安，逃避型依附者則用它繞過與伴侶的脆弱對話；AI 能模仿同理語言，卻缺乏身體層次的共同調節與互惠回饋。她建議治療師以好奇、合作的態度詢問個案從 AI 得到什麼，並對有自殺意念的個案特別說明風險。",
+      "summary_en": "In a Psychotherapy.net interview, psychologist Ammara Khalid says time pressure and loneliness drive people to AI for relationship help. Anxiously attached people may use chatbots to avoid discomfort and avoidant people to sidestep vulnerable talks with partners; AI mimics empathic language but lacks co-regulation and reciprocity. She recommends curious, collaborative questioning about what clients get from AI and explicit risk education for suicidal clients.",
+      "category": "人機互動心理",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "親密關係",
+        "依附",
+        "AI 陪伴",
+        "伴侶治療",
+        "訪談"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-26T00:00:00+00:00"
+    },
+    {
+      "slug": "apa-survey-psychologists-patients-bring-ai-chatbots-to-thera",
+      "title_zh": "APA 調查：超過四分之三心理師的個案在治療中談到 AI",
+      "title_en": "APA survey psychologists patients bring AI chatbots to therapy",
+      "summary_zh": "APA 於 2026 年 4 月對隨機抽樣的美國持照心理師進行線上調查，1,242 人回覆；超過 75% 表示個案曾在晤談中談到 AI，35% 表示有個案把聊天機器人當作輔助的心理健康專業者。68% 觀察到個案覺得被聊天機器人支持，但 36% 觀察到依賴，97% 擔心聊天機器人會強化負面行為或妄想。",
+      "summary_en": "In an April 2026 online survey of randomly sampled US licensed psychologists (1,242 responses), over 75% said patients discuss AI in sessions and 35% said patients use chatbots as a supplementary mental health professional. 68% observed patients feeling supported, 36% observed dependence, and 97% worried chatbots could reinforce negative behaviours or delusions.",
+      "category": "人機互動心理",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "APA",
+        "心理師調查",
+        "個案使用 AI",
+        "自我診斷",
+        "依賴"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.139,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-06-16T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-23T00:00:00+00:00"
+}

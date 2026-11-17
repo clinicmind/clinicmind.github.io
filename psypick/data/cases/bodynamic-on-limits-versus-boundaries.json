@@ -1,1 +1,167 @@
-{"title_zh": "Bodynamic 觀點：區分「極限」與「界線」，先調節再面對衝突", "title_en": "Bodynamic on limits versus boundaries", "summary_zh": "Bodynamic International 執行長 Hadi Bahlawan Marcher 的文章，以 Bodynamic 發展理論區分「極限」（我能給多少能量）與「界線」（我的邊界在哪裏、尊嚴是否被侵犯），並對應自主期與意志期的發展及特定肌群。文中建議治療師先引導個案感受呼吸、腳踏地面、啟動穩定肌群，再處理關係衝突，主張「先調節，再對質」。", "summary_en": "Bodynamic International's CEO distinguishes limits (energy capacity) from boundaries (dignity and personal space), linking them to Bodynamic developmental stages and muscle groups, and recommends regulation before confrontation.", "category": "臨床與治療應用", "kind": "practice", "evidence_level": 0, "evidence_note": "治療取向創辦機構的觀點文章，未提供研究證據；文中引用神經科學但無具體文獻。", "ethics_flags": [], "psych_concepts": [], "caution": "肌肉與心理能力的對應是 Bodynamic 的理論主張，尚缺實證支持，宜當作臨床假設而非定論。", "verify_needed": false, "verify_reason": "", "brief_zh": ["Bodynamic 本身的理論文章", "極限＝能量容量（內感）；界線＝尊嚴與空間（外感）", "對應自主期（8 個月–2.5 歲）與意志期（2–4 歲）", "臨床建議：先調節再對質"], "brief_en": ["Bodynamic theory piece", "Limits vs boundaries", "Linked to Autonomy and Will stages", "Regulation before confrontation"], "model_names": [], "tags": ["Bodynamic", "界線", "自我功能", "身體覺察", "發展理論"], "population": ["成人", "臨床工作者"], "supervision_questions": ["個案說『我受不了了』時，你怎樣分辨是能量耗盡（極限）還是尊嚴被侵犯（界線）？", "在請個案做扎根或啟動肌群練習前，你需要先建立哪些安全與同意的程序？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://gamma.bodynamic.com/when-no-builds-trust", "author_handle": "", "author_name": "Hadi Bahlawan Marcher（Bodynamic International）", "title": "When \"No\" Builds Trust", "content": "Bodynamic International 執行長的文章，區分「極限」（能量容量）與「界線」（尊嚴與個人空間），並以 Bodynamic 發展階段與肌肉對應說明如何在衝突前先調節。", "posted_at": "2026-05-13T00:00:00+00:00"}], "first_seen_at": "2026-10-01T03:34:06+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "bodynamic-on-limits-versus-boundaries", "featured_at": null, "hot_score": 0.391, "tier": "live", "deadline_soon": false, "related": [{"slug": "digital-therapeutics-vs-mental-health-apps-for-therapists", "title_zh": "數位療法 vs 心理健康 App：治療師推薦前該知道的事", "title_en": "Digital therapeutics vs mental health apps for therapists", "summary_zh": "臨床心理師 Noel Cooper 在 Society for the Advancement of Psychotherapy 網站說明兩類工具：一是經 FDA 監管、需處方的數位療法（如 Rejoyn、SleepioRx、EndeavorRx），CMS 已於 2024 年 11 月核准相關給付代碼；二是未受監管、證據參差的大眾心理健康 App（含 AI 聊天機器人）。他建議治療師推薦前仔細審核風險與效益、做好知情同意，並例行詢問個案的科技與 AI 使用。", "summary_en": "Clinical psychologist Noel Cooper distinguishes FDA-regulated, prescription digital therapeutics (e.g., Rejoyn, SleepioRx, EndeavorRx), for which CMS approved management codes in November 2024, from unregulated mass-market mental health apps including AI chatbots. He advises vetting apps before recommending them, thorough informed consent, and routinely asking clients about technology and AI use.", "category": "臨床與治療應用", "kind": "practice", "model_names": ["Rejoyn", "SleepioRx", "EndeavorRx"], "tags": ["數位療法", "心理健康 App", "FDA", "APA Labs", "知情同意"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["臨床工作者", "成人", "兒童青少年"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-09T00:00:00+00:00"}, {"slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho", "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護", "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day", "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。", "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["WHO", "去機構化", "社區照護", "世界心理健康日", "政策"], "first_seen_at": "2026-10-13T02:38:45+00:00", "evidence_level": 3, "population": ["成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.707, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-09T00:00:00+00:00"}, {"slug": "online-program-for-anxious-parents-prevents-child-anxiety", "title_zh": "焦慮家長的自助線上課程能預防孩子焦慮嗎？1,811 人 RCT 的小效果與低完成率", "title_en": "Online program for anxious parents prevents child anxiety", "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。", "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["兒童心理", "焦慮", "親職介入", "預防", "數位介入", "階梯式照護"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 3, "population": ["兒童青少年", "成人"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-09-21T00:00:00+00:00"}]}
+{
+  "title_zh": "Bodynamic 觀點：區分「極限」與「界線」，先調節再面對衝突",
+  "title_en": "Bodynamic on limits versus boundaries",
+  "summary_zh": "Bodynamic International 執行長 Hadi Bahlawan Marcher 的文章，以 Bodynamic 發展理論區分「極限」（我能給多少能量）與「界線」（我的邊界在哪裏、尊嚴是否被侵犯），並對應自主期與意志期的發展及特定肌群。文中建議治療師先引導個案感受呼吸、腳踏地面、啟動穩定肌群，再處理關係衝突，主張「先調節，再對質」。",
+  "summary_en": "Bodynamic International's CEO distinguishes limits (energy capacity) from boundaries (dignity and personal space), linking them to Bodynamic developmental stages and muscle groups, and recommends regulation before confrontation.",
+  "category": "臨床與治療應用",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "治療取向創辦機構的觀點文章，未提供研究證據；文中引用神經科學但無具體文獻。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "肌肉與心理能力的對應是 Bodynamic 的理論主張，尚缺實證支持，宜當作臨床假設而非定論。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "Bodynamic 本身的理論文章",
+    "極限＝能量容量（內感）；界線＝尊嚴與空間（外感）",
+    "對應自主期（8 個月–2.5 歲）與意志期（2–4 歲）",
+    "臨床建議：先調節再對質"
+  ],
+  "brief_en": [
+    "Bodynamic theory piece",
+    "Limits vs boundaries",
+    "Linked to Autonomy and Will stages",
+    "Regulation before confrontation"
+  ],
+  "model_names": [],
+  "tags": [
+    "Bodynamic",
+    "界線",
+    "自我功能",
+    "身體覺察",
+    "發展理論"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "個案說『我受不了了』時，你怎樣分辨是能量耗盡（極限）還是尊嚴被侵犯（界線）？",
+    "在請個案做扎根或啟動肌群練習前，你需要先建立哪些安全與同意的程序？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://gamma.bodynamic.com/when-no-builds-trust",
+      "author_handle": "",
+      "author_name": "Hadi Bahlawan Marcher（Bodynamic International）",
+      "title": "When \"No\" Builds Trust",
+      "content": "Bodynamic International 執行長的文章，區分「極限」（能量容量）與「界線」（尊嚴與個人空間），並以 Bodynamic 發展階段與肌肉對應說明如何在衝突前先調節。",
+      "posted_at": "2026-05-13T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-01T03:34:06+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "bodynamic-on-limits-versus-boundaries",
+  "featured_at": null,
+  "hot_score": 0.391,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "digital-therapeutics-vs-mental-health-apps-for-therapists",
+      "title_zh": "數位療法 vs 心理健康 App：治療師推薦前該知道的事",
+      "title_en": "Digital therapeutics vs mental health apps for therapists",
+      "summary_zh": "臨床心理師 Noel Cooper 在 Society for the Advancement of Psychotherapy 網站說明兩類工具：一是經 FDA 監管、需處方的數位療法（如 Rejoyn、SleepioRx、EndeavorRx），CMS 已於 2024 年 11 月核准相關給付代碼；二是未受監管、證據參差的大眾心理健康 App（含 AI 聊天機器人）。他建議治療師推薦前仔細審核風險與效益、做好知情同意，並例行詢問個案的科技與 AI 使用。",
+      "summary_en": "Clinical psychologist Noel Cooper distinguishes FDA-regulated, prescription digital therapeutics (e.g., Rejoyn, SleepioRx, EndeavorRx), for which CMS approved management codes in November 2024, from unregulated mass-market mental health apps including AI chatbots. He advises vetting apps before recommending them, thorough informed consent, and routinely asking clients about technology and AI use.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [
+        "Rejoyn",
+        "SleepioRx",
+        "EndeavorRx"
+      ],
+      "tags": [
+        "數位療法",
+        "心理健康 App",
+        "FDA",
+        "APA Labs",
+        "知情同意"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "成人",
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-09T00:00:00+00:00"
+    },
+    {
+      "slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho",
+      "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護",
+      "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day",
+      "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。",
+      "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "WHO",
+        "去機構化",
+        "社區照護",
+        "世界心理健康日",
+        "政策"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.707,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-09T00:00:00+00:00"
+    },
+    {
+      "slug": "online-program-for-anxious-parents-prevents-child-anxiety",
+      "title_zh": "焦慮家長的自助線上課程能預防孩子焦慮嗎？1,811 人 RCT 的小效果與低完成率",
+      "title_en": "Online program for anxious parents prevents child anxiety",
+      "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。",
+      "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "焦慮",
+        "親職介入",
+        "預防",
+        "數位介入",
+        "階梯式照護"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-09-21T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-05-13T00:00:00+00:00"
+}

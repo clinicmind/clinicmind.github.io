@@ -1,1 +1,161 @@
-{"title_zh": "澳門仁伯爵醫院 10/14 精神科衛教講座：口服藥副作用與處理", "title_en": "Macao CSJ Hospital talk on psychiatric medication side effects", "summary_zh": "澳門衛生局公布仁伯爵綜合醫院 10 月份專科衛教講座，其中精神科講座「認識精神科口服藥常見的副作用及處理」於 10 月 14 日下午 2 時 30 分至 3 時 30 分，在門診大樓地下層精神科候診區舉行，由專科護士或資深護士主講，毋須預約。對心理治療師而言，可作為轉介或陪同服藥個案與家屬了解藥物副作用的社區資源。", "summary_en": "Macao's Health Bureau lists a free, walk-in talk at Conde S. Januário Hospital on 14 Oct 2026 (2:30–3:30 pm, psychiatry waiting area) on common side effects of oral psychiatric medication and how to manage them, given by specialist or senior nurses.", "category": "臨床與治療應用", "kind": "practice", "evidence_level": 0, "evidence_note": "政府活動公告。", "ethics_flags": [], "psych_concepts": [], "caution": "講座以病人與家屬為對象，心理治療師不宜就用藥調整給建議，應轉回精神科醫生。", "verify_needed": false, "verify_reason": "", "brief_zh": ["2026-10-14 14:30–15:30", "門診大樓地下層精神科候診區", "專科護士或資深護士主講", "毋須預約；查詢 8390 5000"], "brief_en": ["14 Oct 2026, 2:30–3:30 pm", "Psychiatry waiting area", "Nurse-led", "Walk-in"], "model_names": [], "tags": ["澳門", "精神科藥物", "服藥依從", "衛教講座", "免費講座"], "population": ["成人", "一般大眾"], "supervision_questions": ["個案向你抱怨藥物副作用時，心理治療師的角色界線在哪裡？", "如何與精神科團隊溝通，協助個案處理服藥疑慮而不越權？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.gov.mo/zh-hant/news/1268691/", "author_handle": "", "author_name": "澳門衛生局", "title": "仁伯爵綜合醫院10月份專科衛教講座", "content": "仁伯爵綜合醫院每月舉辦專科衛教講座，由專科護士或資深護士主講。10 月 14 日下午在門診大樓地下層精神科候診區講「認識精神科口服藥常見的副作用及處理」，毋須預約。", "posted_at": "2026-09-24T00:00:00+00:00"}], "first_seen_at": "2026-10-05T03:24:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "macao-csj-hospital-talk-on-psychiatric-medication-side-effec", "featured_at": null, "hot_score": 0.477, "tier": "live", "deadline_soon": false, "related": [{"slug": "macao-mobile-mental-health-support-van", "title_zh": "澳門衛生局與街總推出「心晴驛站」流動心理健康服務車", "title_en": "Macao mobile mental health support van", "summary_zh": "澳門衛生局與街坊會聯合總會推出「心晴驛站」流動服務車，自 2026 年 8 月 24 日起在不同社區定點提供心理健康資訊、即時支援與轉介，以及情緒管理小型講座與工作坊。新聞稿同時整理現有資源：九間衛生中心的心理服務、24 小時心晴熱線 2871 2356 與「心晴快測」自評工具。", "summary_en": "Macao's Health Bureau and the neighbourhood associations federation launched a mobile mental health van on 24 August 2026, offering outreach, on-the-spot support and referral, and small emotion-management workshops in community sites.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["澳門", "社區心理健康", "外展服務", "衛生局", "街總"], "first_seen_at": "2026-09-30T22:41:42+00:00", "evidence_level": 0, "population": ["成人", "長者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.774, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-27T00:00:00+00:00"}, {"slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho", "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護", "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day", "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。", "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["WHO", "去機構化", "社區照護", "世界心理健康日", "政策"], "first_seen_at": "2026-10-13T02:38:45+00:00", "evidence_level": 3, "population": ["成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.707, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-09T00:00:00+00:00"}, {"slug": "university-of-macau-mental-health-awareness-month-2026", "title_zh": "澳門大學 2026 心理健康月：「聽見心聲 看見真誠」", "title_en": "University of Macau Mental Health Awareness Month 2026", "summary_zh": "澳門大學學生事務部學生輔導處在 2026 年 10 月 1 日至 31 日舉辦心理健康月，主題「聽見心聲 看見真誠」（Real Conversation, Real Connection），由十所書院及圖書館合辦。活動網頁列出正念冥想、情緒調節、壓力管理、心理急救標準課程等工作坊。", "summary_en": "The University of Macau's Student Counselling Section runs its Mental Health Awareness Month from 1–31 October 2026 with residential colleges and the library, featuring mindfulness, stress and psychological first aid workshops.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["澳門", "澳門大學", "大專生心理健康", "心理健康月", "學生輔導"], "first_seen_at": "2026-09-30T22:41:42+00:00", "evidence_level": 0, "population": ["大專生"], "hero_media": null, "verify_needed": true, "hot_score": 0.387, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-09-30T00:00:00+00:00"}]}
+{
+  "title_zh": "澳門仁伯爵醫院 10/14 精神科衛教講座：口服藥副作用與處理",
+  "title_en": "Macao CSJ Hospital talk on psychiatric medication side effects",
+  "summary_zh": "澳門衛生局公布仁伯爵綜合醫院 10 月份專科衛教講座，其中精神科講座「認識精神科口服藥常見的副作用及處理」於 10 月 14 日下午 2 時 30 分至 3 時 30 分，在門診大樓地下層精神科候診區舉行，由專科護士或資深護士主講，毋須預約。對心理治療師而言，可作為轉介或陪同服藥個案與家屬了解藥物副作用的社區資源。",
+  "summary_en": "Macao's Health Bureau lists a free, walk-in talk at Conde S. Januário Hospital on 14 Oct 2026 (2:30–3:30 pm, psychiatry waiting area) on common side effects of oral psychiatric medication and how to manage them, given by specialist or senior nurses.",
+  "category": "臨床與治療應用",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "政府活動公告。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "講座以病人與家屬為對象，心理治療師不宜就用藥調整給建議，應轉回精神科醫生。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "2026-10-14 14:30–15:30",
+    "門診大樓地下層精神科候診區",
+    "專科護士或資深護士主講",
+    "毋須預約；查詢 8390 5000"
+  ],
+  "brief_en": [
+    "14 Oct 2026, 2:30–3:30 pm",
+    "Psychiatry waiting area",
+    "Nurse-led",
+    "Walk-in"
+  ],
+  "model_names": [],
+  "tags": [
+    "澳門",
+    "精神科藥物",
+    "服藥依從",
+    "衛教講座",
+    "免費講座"
+  ],
+  "population": [
+    "成人",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "個案向你抱怨藥物副作用時，心理治療師的角色界線在哪裡？",
+    "如何與精神科團隊溝通，協助個案處理服藥疑慮而不越權？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.gov.mo/zh-hant/news/1268691/",
+      "author_handle": "",
+      "author_name": "澳門衛生局",
+      "title": "仁伯爵綜合醫院10月份專科衛教講座",
+      "content": "仁伯爵綜合醫院每月舉辦專科衛教講座，由專科護士或資深護士主講。10 月 14 日下午在門診大樓地下層精神科候診區講「認識精神科口服藥常見的副作用及處理」，毋須預約。",
+      "posted_at": "2026-09-24T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-05T03:24:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "macao-csj-hospital-talk-on-psychiatric-medication-side-effec",
+  "featured_at": null,
+  "hot_score": 0.477,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "macao-mobile-mental-health-support-van",
+      "title_zh": "澳門衛生局與街總推出「心晴驛站」流動心理健康服務車",
+      "title_en": "Macao mobile mental health support van",
+      "summary_zh": "澳門衛生局與街坊會聯合總會推出「心晴驛站」流動服務車，自 2026 年 8 月 24 日起在不同社區定點提供心理健康資訊、即時支援與轉介，以及情緒管理小型講座與工作坊。新聞稿同時整理現有資源：九間衛生中心的心理服務、24 小時心晴熱線 2871 2356 與「心晴快測」自評工具。",
+      "summary_en": "Macao's Health Bureau and the neighbourhood associations federation launched a mobile mental health van on 24 August 2026, offering outreach, on-the-spot support and referral, and small emotion-management workshops in community sites.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "社區心理健康",
+        "外展服務",
+        "衛生局",
+        "街總"
+      ],
+      "first_seen_at": "2026-09-30T22:41:42+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "長者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.774,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-27T00:00:00+00:00"
+    },
+    {
+      "slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho",
+      "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護",
+      "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day",
+      "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。",
+      "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "WHO",
+        "去機構化",
+        "社區照護",
+        "世界心理健康日",
+        "政策"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.707,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-09T00:00:00+00:00"
+    },
+    {
+      "slug": "university-of-macau-mental-health-awareness-month-2026",
+      "title_zh": "澳門大學 2026 心理健康月：「聽見心聲 看見真誠」",
+      "title_en": "University of Macau Mental Health Awareness Month 2026",
+      "summary_zh": "澳門大學學生事務部學生輔導處在 2026 年 10 月 1 日至 31 日舉辦心理健康月，主題「聽見心聲 看見真誠」（Real Conversation, Real Connection），由十所書院及圖書館合辦。活動網頁列出正念冥想、情緒調節、壓力管理、心理急救標準課程等工作坊。",
+      "summary_en": "The University of Macau's Student Counselling Section runs its Mental Health Awareness Month from 1–31 October 2026 with residential colleges and the library, featuring mindfulness, stress and psychological first aid workshops.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "澳門大學",
+        "大專生心理健康",
+        "心理健康月",
+        "學生輔導"
+      ],
+      "first_seen_at": "2026-09-30T22:41:42+00:00",
+      "evidence_level": 0,
+      "population": [
+        "大專生"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.387,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-09-30T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-24T00:00:00+00:00"
+}

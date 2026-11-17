@@ -1,73 +1,74 @@
 {
- "title_zh": "免費網上培訓：如何診斷有／無共病的 ADHD——實證評估入門（12 月 16 日，Luis Augusto Rohde）",
- "title_en": "World Federation ADHD webinar diagnose ADHD comorbidity December 2026",
- "summary_zh": "世界 ADHD 聯合會免費每月網上講座系列，下一場為 2026 年 12 月 16 日 13:00（柏林時間，約香港時間 20:00），由巴西南里奧格蘭德聯邦大學精神病學教授 Luis Augusto Rohde 主講「如何診斷有／無共病的 ADHD？」。內容涵蓋 DSM-5 與 ICD-11 核心症狀評估、評定量表、結構化晤談、共病識別、鑑別診斷與補充評估策略。對象為心理健康專業人員（包括心理學家、精神科醫生）、基層醫療與兒科醫生。費用全免，登記經 Microsoft Forms 連結；過往講座錄影設於網上圖書館。",
- "summary_en": "The World Federation of ADHD's free monthly live webinar series holds its next session on 16 December 2026 at 1:00 p.m. Berlin time (about 8:00 p.m. Hong Kong time), with Professor Luis Augusto Rohde of the Federal University of Rio Grande do Sul, Brazil, presenting 'How to diagnose ADHD in people without & with comorbidity?'. It covers evidence-based ADHD assessment across the lifespan: core symptoms under DSM-5 and ICD-11, rating scales, structured interviews, identifying co-occurring conditions, differential diagnosis and complementary assessment strategies. It is aimed at mental health professionals (including psychologists and psychiatrists), primary care professionals and paediatricians. Attendance is free; registration is via a Microsoft Forms link; recordings of past webinars are available in the online library.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓頁面（World Federation of ADHD；2026 年 12 月 16 日 13:00 柏林時間；免費；線上；經原頁核實，2026-11-14）",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "時間為柏林時間（CET，約香港時間 20:00）；頁面未列明講座時長與錄影安排；登記經 Microsoft Forms 連結。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "講者：Luis Augusto Rohde 教授（巴西南里奧格蘭德聯邦大學精神病學教授；前世界 ADHD 聯合會主席；IACAPAP 主席 2022–2026；參與制訂 DSM-5 的 ADHD 診斷標準；發表 500 多篇論文）",
-  "主題：如何診斷有／無共病的 ADHD——實證評估入門",
-  "日期：2026 年 12 月 16 日星期三 13:00（柏林時間，約香港時間 20:00）",
-  "內容：DSM-5 與 ICD-11 核心症狀評估、評定量表、結構化晤談、共病識別、鑑別診斷與補充評估策略",
-  "費用：免費參加",
-  "對象：心理健康專業人員（心理學家、精神科醫生）、基層醫療與兒科醫生；適合評估入門或進修者"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "ADHD",
-  "診斷評估",
-  "共病",
-  "免費培訓",
-  "網上講座"
- ],
- "population": [
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "同事話 ADHD 診斷只靠問卷就夠，你會點用呢場講座的評估框架去回應？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "World Federation of ADHD（世界 ADHD 聯合會）",
-  "price": "免費",
-  "price_tier": "免費",
-  "ce_credits": "",
-  "language": "英語",
-  "deadline": "",
-  "event_date": "2026-12-16",
-  "format": "線上直播",
-  "event_time_note": "13:00（柏林時間，約香港時間 20:00）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.adhd-federation.org/education/live-webinars",
-   "author_handle": "",
-   "author_name": "World Federation of ADHD",
-   "title": "Live Webinars - Education - World Federation of ADHD (16 December 2026: How to diagnose ADHD in people without & with comorbidity?)",
-   "content": "免費網上培訓：2026 年 12 月 16 日，Rohde 主講有／無共病的 ADHD 實證診斷評估。",
-   "posted_at": "2026-11-14T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-11-14T13:32:07+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "world-federation-adhd-webinar-diagnose-adhd-comorbidity-dece",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [],
- "evidence_quote": "How to diagnose ADHD in people without",
- "page_date": ""
+  "title_zh": "免費網上培訓：如何診斷有／無共病的 ADHD——實證評估入門（12 月 16 日，Luis Augusto Rohde）",
+  "title_en": "World Federation ADHD webinar diagnose ADHD comorbidity December 2026",
+  "summary_zh": "世界 ADHD 聯合會免費每月網上講座系列，下一場為 2026 年 12 月 16 日 13:00（柏林時間，約香港時間 20:00），由巴西南里奧格蘭德聯邦大學精神病學教授 Luis Augusto Rohde 主講「如何診斷有／無共病的 ADHD？」。內容涵蓋 DSM-5 與 ICD-11 核心症狀評估、評定量表、結構化晤談、共病識別、鑑別診斷與補充評估策略。對象為心理健康專業人員（包括心理學家、精神科醫生）、基層醫療與兒科醫生。費用全免，登記經 Microsoft Forms 連結；過往講座錄影設於網上圖書館。",
+  "summary_en": "The World Federation of ADHD's free monthly live webinar series holds its next session on 16 December 2026 at 1:00 p.m. Berlin time (about 8:00 p.m. Hong Kong time), with Professor Luis Augusto Rohde of the Federal University of Rio Grande do Sul, Brazil, presenting 'How to diagnose ADHD in people without & with comorbidity?'. It covers evidence-based ADHD assessment across the lifespan: core symptoms under DSM-5 and ICD-11, rating scales, structured interviews, identifying co-occurring conditions, differential diagnosis and complementary assessment strategies. It is aimed at mental health professionals (including psychologists and psychiatrists), primary care professionals and paediatricians. Attendance is free; registration is via a Microsoft Forms link; recordings of past webinars are available in the online library.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓頁面（World Federation of ADHD；2026 年 12 月 16 日 13:00 柏林時間；免費；線上；經原頁核實，2026-11-14）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "時間為柏林時間（CET，約香港時間 20:00）；頁面未列明講座時長與錄影安排；登記經 Microsoft Forms 連結。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "講者：Luis Augusto Rohde 教授（巴西南里奧格蘭德聯邦大學精神病學教授；前世界 ADHD 聯合會主席；IACAPAP 主席 2022–2026；參與制訂 DSM-5 的 ADHD 診斷標準；發表 500 多篇論文）",
+    "主題：如何診斷有／無共病的 ADHD——實證評估入門",
+    "日期：2026 年 12 月 16 日星期三 13:00（柏林時間，約香港時間 20:00）",
+    "內容：DSM-5 與 ICD-11 核心症狀評估、評定量表、結構化晤談、共病識別、鑑別診斷與補充評估策略",
+    "費用：免費參加",
+    "對象：心理健康專業人員（心理學家、精神科醫生）、基層醫療與兒科醫生；適合評估入門或進修者"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "ADHD",
+    "診斷評估",
+    "共病",
+    "免費培訓",
+    "網上講座"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "同事話 ADHD 診斷只靠問卷就夠，你會點用呢場講座的評估框架去回應？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "World Federation of ADHD（世界 ADHD 聯合會）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-12-16",
+    "format": "線上直播",
+    "event_time_note": "13:00（柏林時間，約香港時間 20:00）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.adhd-federation.org/education/live-webinars",
+      "author_handle": "",
+      "author_name": "World Federation of ADHD",
+      "title": "Live Webinars - Education - World Federation of ADHD (16 December 2026: How to diagnose ADHD in people without & with comorbidity?)",
+      "content": "免費網上培訓：2026 年 12 月 16 日，Rohde 主講有／無共病的 ADHD 實證診斷評估。",
+      "posted_at": "2026-11-14T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-14T13:32:07+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "world-federation-adhd-webinar-diagnose-adhd-comorbidity-dece",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "How to diagnose ADHD in people without",
+  "page_date": "",
+  "date": "2026-11-14T13:32:07+00:00"
 }

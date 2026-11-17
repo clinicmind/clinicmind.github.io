@@ -1,1 +1,189 @@
-{"title_zh": "FDA 諮詢委員會討論生成式 AI 心理健康器材的監管", "title_en": "FDA advisory committee on generative AI mental health devices", "summary_zh": "美國 FDA 數位健康諮詢委員會於 2025 年 11 月 6 日開會，討論生成式 AI 心理健康醫療器材的臨床觀點、監管演變與最佳實務。委員關注人對 AI 輸出的易受影響性、自殺意念監測、AI 可能虛構或提供偏誤內容、隱私與醫療人員參與程度等問題。報導指出 FDA 已核准逾 1,200 項 AI 醫療器材，但尚無任何一項專用於心理健康。", "summary_en": "The US FDA Digital Health Advisory Committee met on 6 November 2025 to discuss generative AI-enabled digital mental health devices. Panelists raised concerns about human susceptibility to AI outputs, suicidal ideation monitoring, confabulated or biased content, privacy and clinician involvement. Over 1,200 AI-enabled devices are FDA-authorized, but none for mental health.", "category": "倫理與風險", "kind": "practice", "evidence_level": 0, "evidence_note": "監管會議的新聞報導，非實證研究。", "ethics_flags": [{"flag": "危機處理", "note": "自殺意念的監測與處理是委員會關注重點。", "refs": ["危機處理｜自殺與自傷風險"]}, {"flag": "偏誤與公平", "note": "委員擔心 AI 提供不當或帶偏誤的內容。", "refs": ["偏誤與公平｜演算法偏誤"]}, {"flag": "專業責任歸屬", "note": "討論醫療人員應參與到什麼程度，以及自主器材如何評估。", "refs": ["專業責任歸屬｜人機協作的責任"]}], "psych_concepts": [{"name": "自動化偏誤", "note": "「人對 AI 輸出的易受影響性」與過度信任自動化系統相關。", "ref": "概念｜自動化偏誤"}], "caution": "諮詢委員會的討論不等於 FDA 的正式政策或核准，引用時應區分。", "verify_needed": false, "verify_reason": "", "brief_zh": ["FDA 已核准逾 1,200 項 AI 醫療器材，心理健康類為 0", "非 AI 的數位心理健康器材核准不到 20 項", "關注自殺意念監測、AI 虛構內容與偏誤", "自主運作的器材可能需要新的監管方式"], "brief_en": ["1,200+ AI devices authorized; zero for mental health", "Fewer than 20 non-AI digital mental health devices", "Concerns: suicidality monitoring, confabulation, bias", "Autonomous devices may need new regulatory approaches"], "model_names": [], "tags": ["FDA", "監管", "醫療器材", "生成式 AI", "數位心理健康"], "population": ["臨床工作者", "一般大眾"], "supervision_questions": ["「經監管核准」與「一般消費型聊天機器人」在推薦給個案時應有什麼不同考量？", "若將來有獲核准的 AI 心理治療器材，你需要哪些資訊才會考慮納入治療？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.psychiatrictimes.com/view/fda-committee-meets-on-generative-ai-digital-mental-health-devices", "author_handle": "", "author_name": "Psychiatric Times（Jessica Walters）", "title": "FDA Committee Meets on Generative AI Digital Mental Health Devices", "content": "美國 FDA 數位健康諮詢委員會召開會議，討論生成式 AI 心理健康醫療器材的風險與監管；報導指出 FDA 已核准逾 1,200 項 AI 醫療器材，但尚無一項用於心理健康。", "posted_at": "2025-11-06T00:00:00+00:00"}], "first_seen_at": "2026-09-30T13:03:54+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "fda-advisory-committee-on-generative-ai-mental-health-device", "featured_at": null, "hot_score": 0.759, "tier": "live", "deadline_soon": false, "related": [{"slug": "aca-backs-doctors-not-ai-act-to-curb-ai-driven-insurance-cov", "title_zh": "ACA 支持《Doctors Not AI Act》：保險 AI 不得取代臨床判斷", "title_en": "ACA backs Doctors Not AI Act to curb AI-driven insurance coverage denials", "summary_zh": "美國諮商學會（ACA）宣布與另外 44 個心理健康與醫療組織共同支持兩黨法案《Doctors Not AI Act》（H.R. 10210）。該法案針對保險公司以 AI、演算法自動審查理賠、決定醫療必要性的做法設下防線：凡需臨床判斷的拒保決定，必須由具適當專長的持牌醫療人員做出，且須提高透明度並考量個人情況。", "summary_en": "On 2 Oct 2026 the American Counseling Association joined 44 other mental-health and medical organizations backing the bipartisan Doctors Not AI Act (H.R. 10210): insurers could not use AI alone to deny coverage, medical-necessity denials would need a licensed professional with appropriate expertise, with more transparency and individual circumstances considered.", "category": "倫理與風險", "kind": "incident", "model_names": [], "tags": ["保險理賠 AI", "心理健康平權", "專業組織聲明"], "first_seen_at": "2026-10-06T02:37:46+00:00", "evidence_level": 0, "population": ["臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.0, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-10-02T00:00:00+00:00"}, {"slug": "newsom-vetoes-california-sb-903-on-ai-in-therapy", "title_zh": "加州州長否決 SB 903：AI 心理治療限制法案未能成法", "title_en": "Newsom vetoes California SB 903 on AI in therapy", "summary_zh": "加州州長 Newsom 否決了 SB 903。該法案原本要禁止 AI 演算法提供或宣傳心理治療服務，持照專業人員只能把 AI 用於行政或輔助支援，用 AI 錄製治療會談前須清楚揭露並取得同意，也不准 AI 獨立與個案互動或作治療決定。法案在參議院全票通過、眾議院以 71 比 4 通過；州長的否決理由認為對病人與臨床人員的保護「過了頭」，提案人 Padilla 則強烈批評。", "summary_en": "California Governor Gavin Newsom vetoed SB 903, which would have barred AI from providing or advertising therapy, limited licensed clinicians to administrative or supplementary AI use, required disclosure and consent before AI recording of sessions, and banned AI from independently interacting with clients or making therapeutic decisions. The bill had passed the Senate unanimously and the Assembly 71-4; the veto message said its protections went too far, drawing sharp criticism from author Sen. Steve Padilla.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["加州", "SB 903", "否決", "AI 治療法規", "美國州法", "知情同意"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-10-01T00:00:00+00:00"}, {"slug": "california-signs-three-healthcare-ai-bills", "title_zh": "加州簽署三項醫療 AI 法案：AI 只能當顧問、須處理演算法偏誤", "title_en": "California signs three healthcare AI bills", "summary_zh": "加州州長簽署三項醫療 AI 法案：AB 1979 把 AI 在臨床照護中限於諮詢角色、不得執行需執照的臨床功能，並保護經由聊天機器人取得的病人健康資訊；SB 503 要求醫療 AI 開發者與使用者辨識、減輕並持續監測臨床決策支援系統的偏誤風險；AB 1609 禁止大型企業把客服聊天機器人包裝成真人。同時被否決的有 AB 2575 和處理 AI 心理治療的 SB 903。", "summary_en": "California's governor signed three healthcare AI bills: AB 1979 restricts AI to an advisory role in clinical care, bars it from performing licensed clinical functions and protects health information accessed through chatbots; SB 503 requires developers and deployers to identify, mitigate and monitor bias risks in clinical decision support; AB 1609 bars large enterprises from presenting customer-service chatbots as human. AB 2575 and the AI-in-psychotherapy bill SB 903 were vetoed.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["加州", "AB 1979", "SB 503", "醫療 AI 法規", "演算法偏誤", "美國州法"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-10-01T00:00:00+00:00"}]}
+{
+  "title_zh": "FDA 諮詢委員會討論生成式 AI 心理健康器材的監管",
+  "title_en": "FDA advisory committee on generative AI mental health devices",
+  "summary_zh": "美國 FDA 數位健康諮詢委員會於 2025 年 11 月 6 日開會，討論生成式 AI 心理健康醫療器材的臨床觀點、監管演變與最佳實務。委員關注人對 AI 輸出的易受影響性、自殺意念監測、AI 可能虛構或提供偏誤內容、隱私與醫療人員參與程度等問題。報導指出 FDA 已核准逾 1,200 項 AI 醫療器材，但尚無任何一項專用於心理健康。",
+  "summary_en": "The US FDA Digital Health Advisory Committee met on 6 November 2025 to discuss generative AI-enabled digital mental health devices. Panelists raised concerns about human susceptibility to AI outputs, suicidal ideation monitoring, confabulated or biased content, privacy and clinician involvement. Over 1,200 AI-enabled devices are FDA-authorized, but none for mental health.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "監管會議的新聞報導，非實證研究。",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "自殺意念的監測與處理是委員會關注重點。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    },
+    {
+      "flag": "偏誤與公平",
+      "note": "委員擔心 AI 提供不當或帶偏誤的內容。",
+      "refs": [
+        "偏誤與公平｜演算法偏誤"
+      ]
+    },
+    {
+      "flag": "專業責任歸屬",
+      "note": "討論醫療人員應參與到什麼程度，以及自主器材如何評估。",
+      "refs": [
+        "專業責任歸屬｜人機協作的責任"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "自動化偏誤",
+      "note": "「人對 AI 輸出的易受影響性」與過度信任自動化系統相關。",
+      "ref": "概念｜自動化偏誤"
+    }
+  ],
+  "caution": "諮詢委員會的討論不等於 FDA 的正式政策或核准，引用時應區分。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "FDA 已核准逾 1,200 項 AI 醫療器材，心理健康類為 0",
+    "非 AI 的數位心理健康器材核准不到 20 項",
+    "關注自殺意念監測、AI 虛構內容與偏誤",
+    "自主運作的器材可能需要新的監管方式"
+  ],
+  "brief_en": [
+    "1,200+ AI devices authorized; zero for mental health",
+    "Fewer than 20 non-AI digital mental health devices",
+    "Concerns: suicidality monitoring, confabulation, bias",
+    "Autonomous devices may need new regulatory approaches"
+  ],
+  "model_names": [],
+  "tags": [
+    "FDA",
+    "監管",
+    "醫療器材",
+    "生成式 AI",
+    "數位心理健康"
+  ],
+  "population": [
+    "臨床工作者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "「經監管核准」與「一般消費型聊天機器人」在推薦給個案時應有什麼不同考量？",
+    "若將來有獲核准的 AI 心理治療器材，你需要哪些資訊才會考慮納入治療？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.psychiatrictimes.com/view/fda-committee-meets-on-generative-ai-digital-mental-health-devices",
+      "author_handle": "",
+      "author_name": "Psychiatric Times（Jessica Walters）",
+      "title": "FDA Committee Meets on Generative AI Digital Mental Health Devices",
+      "content": "美國 FDA 數位健康諮詢委員會召開會議，討論生成式 AI 心理健康醫療器材的風險與監管；報導指出 FDA 已核准逾 1,200 項 AI 醫療器材，但尚無一項用於心理健康。",
+      "posted_at": "2025-11-06T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "fda-advisory-committee-on-generative-ai-mental-health-device",
+  "featured_at": null,
+  "hot_score": 0.759,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "aca-backs-doctors-not-ai-act-to-curb-ai-driven-insurance-cov",
+      "title_zh": "ACA 支持《Doctors Not AI Act》：保險 AI 不得取代臨床判斷",
+      "title_en": "ACA backs Doctors Not AI Act to curb AI-driven insurance coverage denials",
+      "summary_zh": "美國諮商學會（ACA）宣布與另外 44 個心理健康與醫療組織共同支持兩黨法案《Doctors Not AI Act》（H.R. 10210）。該法案針對保險公司以 AI、演算法自動審查理賠、決定醫療必要性的做法設下防線：凡需臨床判斷的拒保決定，必須由具適當專長的持牌醫療人員做出，且須提高透明度並考量個人情況。",
+      "summary_en": "On 2 Oct 2026 the American Counseling Association joined 44 other mental-health and medical organizations backing the bipartisan Doctors Not AI Act (H.R. 10210): insurers could not use AI alone to deny coverage, medical-necessity denials would need a licensed professional with appropriate expertise, with more transparency and individual circumstances considered.",
+      "category": "倫理與風險",
+      "kind": "incident",
+      "model_names": [],
+      "tags": [
+        "保險理賠 AI",
+        "心理健康平權",
+        "專業組織聲明"
+      ],
+      "first_seen_at": "2026-10-06T02:37:46+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "slug": "newsom-vetoes-california-sb-903-on-ai-in-therapy",
+      "title_zh": "加州州長否決 SB 903：AI 心理治療限制法案未能成法",
+      "title_en": "Newsom vetoes California SB 903 on AI in therapy",
+      "summary_zh": "加州州長 Newsom 否決了 SB 903。該法案原本要禁止 AI 演算法提供或宣傳心理治療服務，持照專業人員只能把 AI 用於行政或輔助支援，用 AI 錄製治療會談前須清楚揭露並取得同意，也不准 AI 獨立與個案互動或作治療決定。法案在參議院全票通過、眾議院以 71 比 4 通過；州長的否決理由認為對病人與臨床人員的保護「過了頭」，提案人 Padilla 則強烈批評。",
+      "summary_en": "California Governor Gavin Newsom vetoed SB 903, which would have barred AI from providing or advertising therapy, limited licensed clinicians to administrative or supplementary AI use, required disclosure and consent before AI recording of sessions, and banned AI from independently interacting with clients or making therapeutic decisions. The bill had passed the Senate unanimously and the Assembly 71-4; the veto message said its protections went too far, drawing sharp criticism from author Sen. Steve Padilla.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "加州",
+        "SB 903",
+        "否決",
+        "AI 治療法規",
+        "美國州法",
+        "知情同意"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "slug": "california-signs-three-healthcare-ai-bills",
+      "title_zh": "加州簽署三項醫療 AI 法案：AI 只能當顧問、須處理演算法偏誤",
+      "title_en": "California signs three healthcare AI bills",
+      "summary_zh": "加州州長簽署三項醫療 AI 法案：AB 1979 把 AI 在臨床照護中限於諮詢角色、不得執行需執照的臨床功能，並保護經由聊天機器人取得的病人健康資訊；SB 503 要求醫療 AI 開發者與使用者辨識、減輕並持續監測臨床決策支援系統的偏誤風險；AB 1609 禁止大型企業把客服聊天機器人包裝成真人。同時被否決的有 AB 2575 和處理 AI 心理治療的 SB 903。",
+      "summary_en": "California's governor signed three healthcare AI bills: AB 1979 restricts AI to an advisory role in clinical care, bars it from performing licensed clinical functions and protects health information accessed through chatbots; SB 503 requires developers and deployers to identify, mitigate and monitor bias risks in clinical decision support; AB 1609 bars large enterprises from presenting customer-service chatbots as human. AB 2575 and the AI-in-psychotherapy bill SB 903 were vetoed.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "加州",
+        "AB 1979",
+        "SB 503",
+        "醫療 AI 法規",
+        "演算法偏誤",
+        "美國州法"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T00:00:00+00:00"
+    }
+  ],
+  "date": "2025-11-06T00:00:00+00:00"
+}

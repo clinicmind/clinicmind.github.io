@@ -1,205 +1,206 @@
 {
- "title_zh": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
- "title_en": "Polyvagal Institute free online community events Oct–Nov 2026",
- "summary_zh": "註冊為 501(c)(3) 非營利組織的 Polyvagal Institute 在 2026 年 10 月至 11 月有五場免費 Zoom 活動，包括 11/6 共同創辦人 Deb Dana 的問答，以及 11/14 Stephen Porges 與國際講者討論言語、語言發展與自律神經系統的 90 分鐘座談。報名即可在活動後收到錄影（Deb Dana 場錄影只開放兩週）。",
- "summary_en": "The Polyvagal Institute, a registered 501(c)(3) nonprofit, hosts five free Zoom community events in Oct–Nov 2026, including a Q&A with co-founder Deb Dana (Nov 6) and a 90-minute conversation with Stephen Porges and international panelists on speech, language development and the autonomic nervous system (Nov 14). Registrants receive recordings afterwards.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程資訊，非研究證據。",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "屬免費社群活動，頁面未列 CE；多迷走神經理論的臨床應用宜與其他實證文獻一併評估，不宜當作單一解釋框架。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "10/12 身體覺察正念練習（45 分鐘）、10/26 治療性瑜伽作者講座",
-  "11/6 Deb Dana 問答、11/10 Simone Saunders 作者講座",
-  "11/14 Porges 與國際講者談言語、語言發展與自律神經",
-  "全部免費，皆為美東時間中午前後；報名者可收錄影"
- ],
- "brief_en": [
-  "Oct 12 embodied mindfulness; Oct 26 therapeutic yoga author talk",
-  "Nov 6 Q&A with Deb Dana; Nov 10 author talk with Simone Saunders",
-  "Nov 14 Porges panel on speech, language and the ANS",
-  "All free, around noon ET; recordings sent to registrants"
- ],
- "model_names": [],
- "tags": [
-  "身體取向治療",
-  "多迷走神經理論",
-  "自律神經調節",
-  "兒童心理",
-  "免費"
- ],
- "population": [
-  "臨床工作者",
-  "一般大眾"
- ],
- "supervision_questions": [
-  "你在會談中如何觀察和回應案主的生理喚起狀態？用什麼語言和案主討論？",
-  "把「神經系統調節」的說法帶進兒童或家長工作時，要如何避免過度簡化或標籤化？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "Polyvagal Institute（501(c)(3) 非營利組織）",
-  "format": "線上直播",
-  "price": "免費",
-  "price_tier": "免費",
-  "ce_credits": "",
-  "language": "英文",
-  "event_date": "2026-10-12",
-  "deadline": "",
-  "audience_level": "不限程度；11/14 場對象為教育工作者、臨床工作者、照顧者與社區人士",
-  "topic": "多迷走神經理論與身體調節（11/6 Deb Dana 問答；11/14 言語語言發展座談）",
-  "signup_url": "https://www.polyvagalinstitute.org/events",
-  "format_note": "線上直播（Zoom），附錄影"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.polyvagalinstitute.org/events",
-   "author_handle": "",
-   "author_name": "Polyvagal Institute",
-   "title": "Events | Polyvagal Institute",
-   "content": "非營利機構 Polyvagal Institute 在 2026 年 10–11 月舉辦多場免費 Zoom 社群活動，包括 Deb Dana 問答、Stephen Porges 與國際講者談言語語言發展和自律神經系統、作者講座等，報名者可收到錄影。",
-   "posted_at": "2026-10-05T03:24:52+00:00"
-  }
- ],
- "first_seen_at": "2026-10-05T03:24:52+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "polyvagal-institute-free-online-community-events-oct-nov-202",
- "featured_at": "2026-10-05T03:24:52+00:00",
- "hot_score": 2.0,
- "tier": "archive",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "classroom-wise-free-school-mental-health-literacy-course",
-   "title_zh": "Classroom WISE：免費自學的學校心理健康素養課程",
-   "title_en": "Classroom WISE free school mental health literacy course",
-   "summary_zh": "Classroom WISE 由美國 MHTTC 網絡與馬里蘭大學醫學院 National Center for School Mental Health 合作開發，是免費的三部分訓練包，包括自學線上課程、影片庫與資源集。內容涵蓋心理健康素養、辨識學生困擾、降溫技巧、創傷知情與包容的課室環境，對象是 K-12 教師、學校人員與學校心理健康專業人員。",
-   "summary_en": "Classroom WISE, developed by the MHTTC Network with the National Center for School Mental Health at the University of Maryland School of Medicine, is a free three-part package with a self-paced online course, video library and resource collection. It covers mental health literacy, recognizing student distress, de-escalation, trauma-informed and inclusive classrooms for K-12 educators and school staff.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
+  "title_zh": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
+  "title_en": "Polyvagal Institute free online community events Oct–Nov 2026",
+  "summary_zh": "註冊為 501(c)(3) 非營利組織的 Polyvagal Institute 在 2026 年 10 月至 11 月有五場免費 Zoom 活動，包括 11/6 共同創辦人 Deb Dana 的問答，以及 11/14 Stephen Porges 與國際講者討論言語、語言發展與自律神經系統的 90 分鐘座談。報名即可在活動後收到錄影（Deb Dana 場錄影只開放兩週）。",
+  "summary_en": "The Polyvagal Institute, a registered 501(c)(3) nonprofit, hosts five free Zoom community events in Oct–Nov 2026, including a Q&A with co-founder Deb Dana (Nov 6) and a 90-minute conversation with Stephen Porges and international panelists on speech, language development and the autonomic nervous system (Nov 14). Registrants receive recordings afterwards.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程資訊，非研究證據。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "屬免費社群活動，頁面未列 CE；多迷走神經理論的臨床應用宜與其他實證文獻一併評估，不宜當作單一解釋框架。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "10/12 身體覺察正念練習（45 分鐘）、10/26 治療性瑜伽作者講座",
+    "11/6 Deb Dana 問答、11/10 Simone Saunders 作者講座",
+    "11/14 Porges 與國際講者談言語、語言發展與自律神經",
+    "全部免費，皆為美東時間中午前後；報名者可收錄影"
+  ],
+  "brief_en": [
+    "Oct 12 embodied mindfulness; Oct 26 therapeutic yoga author talk",
+    "Nov 6 Q&A with Deb Dana; Nov 10 author talk with Simone Saunders",
+    "Nov 14 Porges panel on speech, language and the ANS",
+    "All free, around noon ET; recordings sent to registrants"
+  ],
+  "model_names": [],
+  "tags": [
+    "身體取向治療",
+    "多迷走神經理論",
+    "自律神經調節",
     "兒童心理",
-    "學校心理健康",
-    "心理健康素養",
-    "教師培訓",
     "免費"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "MHTTC Network、National Center for School Mental Health（University of Maryland School of Medicine）",
-    "price": "免費",
-    "price_tier": "免費",
-    "ce_credits": "",
-    "language": "英文",
-    "deadline": "",
-    "event_date": "",
-    "format": "自學線上課程（含影片庫與資源集）"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "free-pat-ogden-webinar-on-resilience-amid-trauma",
-   "title_zh": "Pat Ogden 免費錄影講座：感覺動作心理治療談創傷下的復原力",
-   "title_en": "Free Pat Ogden webinar on resilience amid trauma",
-   "summary_zh": "Leading Edge Seminars 與 Sensorimotor Psychotherapy Institute（SPI）、SensorimotorItalia.it 合作，免費公開 Pat Ogden 與 Rebeca Farca 的錄影講座「Building Resilience in Times of War, Violence & Other Traumatic Events」。內容介紹如何協助長期處於壓力與威脅下的案主，並附講義、給案主用的 PEACE protocol 與給臨床人員的 SPI protocol 可下載。",
-   "summary_en": "Leading Edge Seminars, with the Sensorimotor Psychotherapy Institute and SensorimotorItalia.it, offers a free recorded webinar by Pat Ogden and Rebeca Farca, 'Building Resilience in Times of War, Violence & Other Traumatic Events'. It shows how to help clients living with long-term stress and threat, with a downloadable handout, a PEACE protocol for clients and an SPI protocol for clinicians.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "身體取向治療",
-    "感覺動作心理治療",
-    "創傷",
-    "復原力",
-    "免費"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
+  ],
+  "population": [
     "臨床工作者",
-    "成人"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "Leading Edge Seminars（與 Sensorimotor Psychotherapy Institute 合作）",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "你在會談中如何觀察和回應案主的生理喚起狀態？用什麼語言和案主討論？",
+    "把「神經系統調節」的說法帶進兒童或家長工作時，要如何避免過度簡化或標籤化？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Polyvagal Institute（501(c)(3) 非營利組織）",
+    "format": "線上直播",
     "price": "免費",
     "price_tier": "免費",
     "ce_credits": "",
     "language": "英文",
+    "event_date": "2026-10-12",
     "deadline": "",
-    "event_date": "",
-    "format": "錄影講座（隨選觀看）"
-   },
-   "deadline_soon": false
+    "audience_level": "不限程度；11/14 場對象為教育工作者、臨床工作者、照顧者與社區人士",
+    "topic": "多迷走神經理論與身體調節（11/6 Deb Dana 問答；11/14 言語語言發展座談）",
+    "signup_url": "https://www.polyvagalinstitute.org/events",
+    "format_note": "線上直播（Zoom），附錄影"
   },
-  {
-   "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
-   "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
-   "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
-   "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
-   "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "創傷",
-    "依附",
-    "身體取向治療",
-    "網上研討會",
-    "免費CE"
-   ],
-   "first_seen_at": "2026-10-07T02:38:14+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": "2026-10-07T02:38:14+00:00",
-   "tier": "archive",
-   "has_ethics_flags": true,
-   "date": "2026-10-07T02:38:14+00:00",
-   "training": {
-    "provider": "Phoenix Center for Experiential Trauma Therapy",
-    "price": "Free",
-    "price_tier": "免費",
-    "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
-    "language": "English",
-    "deadline": "",
-    "event_date": "2026-10-14",
-    "format": "線上"
-   },
-   "deadline_soon": false
-  }
- ]
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.polyvagalinstitute.org/events",
+      "author_handle": "",
+      "author_name": "Polyvagal Institute",
+      "title": "Events | Polyvagal Institute",
+      "content": "非營利機構 Polyvagal Institute 在 2026 年 10–11 月舉辦多場免費 Zoom 社群活動，包括 Deb Dana 問答、Stephen Porges 與國際講者談言語語言發展和自律神經系統、作者講座等，報名者可收到錄影。",
+      "posted_at": "2026-10-05T03:24:52+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-05T03:24:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "polyvagal-institute-free-online-community-events-oct-nov-202",
+  "featured_at": "2026-10-05T03:24:52+00:00",
+  "hot_score": 2.0,
+  "tier": "archive",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "classroom-wise-free-school-mental-health-literacy-course",
+      "title_zh": "Classroom WISE：免費自學的學校心理健康素養課程",
+      "title_en": "Classroom WISE free school mental health literacy course",
+      "summary_zh": "Classroom WISE 由美國 MHTTC 網絡與馬里蘭大學醫學院 National Center for School Mental Health 合作開發，是免費的三部分訓練包，包括自學線上課程、影片庫與資源集。內容涵蓋心理健康素養、辨識學生困擾、降溫技巧、創傷知情與包容的課室環境，對象是 K-12 教師、學校人員與學校心理健康專業人員。",
+      "summary_en": "Classroom WISE, developed by the MHTTC Network with the National Center for School Mental Health at the University of Maryland School of Medicine, is a free three-part package with a self-paced online course, video library and resource collection. It covers mental health literacy, recognizing student distress, de-escalation, trauma-informed and inclusive classrooms for K-12 educators and school staff.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "學校心理健康",
+        "心理健康素養",
+        "教師培訓",
+        "免費"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "MHTTC Network、National Center for School Mental Health（University of Maryland School of Medicine）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "自學線上課程（含影片庫與資源集）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "free-pat-ogden-webinar-on-resilience-amid-trauma",
+      "title_zh": "Pat Ogden 免費錄影講座：感覺動作心理治療談創傷下的復原力",
+      "title_en": "Free Pat Ogden webinar on resilience amid trauma",
+      "summary_zh": "Leading Edge Seminars 與 Sensorimotor Psychotherapy Institute（SPI）、SensorimotorItalia.it 合作，免費公開 Pat Ogden 與 Rebeca Farca 的錄影講座「Building Resilience in Times of War, Violence & Other Traumatic Events」。內容介紹如何協助長期處於壓力與威脅下的案主，並附講義、給案主用的 PEACE protocol 與給臨床人員的 SPI protocol 可下載。",
+      "summary_en": "Leading Edge Seminars, with the Sensorimotor Psychotherapy Institute and SensorimotorItalia.it, offers a free recorded webinar by Pat Ogden and Rebeca Farca, 'Building Resilience in Times of War, Violence & Other Traumatic Events'. It shows how to help clients living with long-term stress and threat, with a downloadable handout, a PEACE protocol for clients and an SPI protocol for clinicians.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "身體取向治療",
+        "感覺動作心理治療",
+        "創傷",
+        "復原力",
+        "免費"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "Leading Edge Seminars（與 Sensorimotor Psychotherapy Institute 合作）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "錄影講座（隨選觀看）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
+      "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
+      "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
+      "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
+      "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷",
+        "依附",
+        "身體取向治療",
+        "網上研討會",
+        "免費CE"
+      ],
+      "first_seen_at": "2026-10-07T02:38:14+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": "2026-10-07T02:38:14+00:00",
+      "tier": "archive",
+      "has_ethics_flags": true,
+      "date": "2026-10-07T02:38:14+00:00",
+      "training": {
+        "provider": "Phoenix Center for Experiential Trauma Therapy",
+        "price": "Free",
+        "price_tier": "免費",
+        "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
+        "language": "English",
+        "deadline": "",
+        "event_date": "2026-10-14",
+        "format": "線上"
+      },
+      "deadline_soon": false
+    }
+  ],
+  "date": "2026-10-05T03:24:52+00:00"
 }

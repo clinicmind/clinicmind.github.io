@@ -1,1 +1,178 @@
-{"title_zh": "自閉症診斷是否過度擴張？英國自閉症協會回應 Uta Frith 新論文", "title_en": "NAS responds to Uta Frith on autism diagnosis", "summary_zh": "認知心理學家 Uta Frith 在《Psychological Medicine》發表〈自閉症譜系障礙：是否已失去意義並導致誤診？〉，質疑現行診斷範圍過寬。英國自閉症協會回應，診斷增加反映社會認識提升，所提亞型仍屬理論、缺乏臨床應用價值，並提醒不要讓自閉症人士互相對立。", "summary_en": "Uta Frith's paper in Psychological Medicine questions whether the autism spectrum diagnosis has lost meaning and drives misdiagnosis. The NAS responds that rising diagnoses reflect awareness, that proposed subtypes remain theoretical, and warns against pitting autistic people against each other.", "category": "評估與篩檢", "kind": "practice", "evidence_level": 0, "evidence_note": "學術評論與倡議團體回應，非實證研究。", "ethics_flags": [{"flag": "能力範圍", "note": "診斷門檻爭議提醒評估者要清楚自己採用的準則與工具限制。", "refs": ["APA 9.02｜評估工具的使用"]}], "psych_concepts": [], "caution": "此頁只呈現 NAS 立場；判斷論點前應直接閱讀 Frith 原文。", "verify_needed": false, "verify_reason": "", "brief_zh": ["Frith 論文刊於 Psychological Medicine，質疑譜系診斷過寬", "NAS：診斷增加反映認識提升而非診斷問題", "NAS：所提亞型「純屬理論」，暫無臨床應用", "「較輕特質」等用語可能低估實際困難"], "brief_en": ["Frith questions breadth of ASD diagnosis", "NAS: rise reflects awareness", "NAS: proposed subtypes remain theoretical", "Terms like 'milder traits' may mislead"], "model_names": [], "tags": ["特殊教育需要", "兒童心理", "自閉症", "診斷爭議", "Uta Frith", "英國"], "population": ["兒童青少年", "成人", "臨床工作者"], "supervision_questions": ["你在評估中如何區分「有自閉特質」與「符合診斷」？依據是什麼？", "面對家長擔心「是否過度診斷」，你會如何回應？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.autism.org.uk/what-we-do/news/our-response-to-professor-dame-uta-friths-new-paper", "author_handle": "", "author_name": "National Autistic Society", "title": "Our response to Professor Dame Uta Frith's new paper", "content": "Uta Frith 在 Psychological Medicine 發表文章，質疑自閉症譜系診斷是否已失去意義並導致誤診；英國自閉症協會回應，認為診斷增加反映認識提升，並反對以「輕重」區分自閉症人士。", "posted_at": "2026-08-04T00:00:00+00:00"}], "first_seen_at": "2026-10-01T03:34:06+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "nas-responds-to-uta-frith-on-autism-diagnosis", "featured_at": null, "hot_score": 0.782, "tier": "live", "deadline_soon": false, "related": [{"slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions", "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對", "title_en": "NAS opposes NHS autism and ADHD assessment restrictions", "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。", "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.", "category": "評估與篩檢", "kind": "incident", "model_names": [], "tags": ["特殊教育需要", "兒童心理", "自閉症", "ADHD", "評估輪候", "英國", "NHS"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 0, "population": ["兒童青少年", "成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-25T00:00:00+00:00"}, {"slug": "gaps-between-autism-screening-and-timely-support", "title_zh": "自閉症早期篩檢到支援的斷層：篩檢不是診斷，而是路徑的起點", "title_en": "Gaps between autism screening and timely support", "summary_zh": "愛爾蘭 Munster 理工大學在《Pediatric Investigation》發表敘事性文獻回顧，整理 0–5 歲兒童自閉症篩檢到支援的落差。所引研究顯示：一項約 26,000 名幼兒的研究中，篩檢只找到不足四成後來確診的兒童；篩檢未過的兒童只有 31% 獲轉介專科評估；家庭平均等候 375 天才得到診斷。作者主張篩檢應被視為回應式路徑的入口，陰性結果但仍有疑慮時要持續監察。", "summary_en": "A narrative review in Pediatric Investigation describes breakdowns between autism screening and support in children aged 0–5: limited screening sensitivity, only 31% of screen-positive children referred, and average 375-day waits. Screening should be an entry point, not a diagnosis.", "category": "評估與篩檢", "kind": "research", "model_names": [], "tags": ["特殊教育需要", "兒童心理", "自閉症", "早期篩檢", "早期介入", "轉介路徑"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-03T00:00:00+00:00"}, {"slug": "cami-2dnet-ai-motor-imitation-autism-screening", "title_zh": "CAMI-2DNet：用一般影片量化動作模仿，輔助自閉症篩檢", "title_en": "CAMI-2DNet AI motor imitation autism screening", "summary_zh": "Kennedy Krieger 研究所與賓州大學工程學院開發電腦視覺系統 CAMI-2DNet，分析兒童模仿施測者簡單動作的一般影片，自動量化動作模仿能力；動作模仿差異可區分自閉症兒童與一般發展兒童，且不需昂貴動作捕捉設備或人工逐格評分。團隊強調工具不是用來單獨診斷，而是輔助臨床評估與追蹤變化。", "summary_en": "Kennedy Krieger Institute and Penn Engineering developed CAMI-2DNet, a computer vision tool that scores children's motor imitation from ordinary video to support autism assessment. It is not intended to diagnose on its own.", "category": "評估與篩檢", "kind": "research", "model_names": ["CAMI-2DNet"], "tags": ["特殊教育需要", "兒童心理", "自閉症", "AI 篩檢", "電腦視覺", "動作模仿"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 1.173, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-07-29T00:00:00+00:00"}]}
+{
+  "title_zh": "自閉症診斷是否過度擴張？英國自閉症協會回應 Uta Frith 新論文",
+  "title_en": "NAS responds to Uta Frith on autism diagnosis",
+  "summary_zh": "認知心理學家 Uta Frith 在《Psychological Medicine》發表〈自閉症譜系障礙：是否已失去意義並導致誤診？〉，質疑現行診斷範圍過寬。英國自閉症協會回應，診斷增加反映社會認識提升，所提亞型仍屬理論、缺乏臨床應用價值，並提醒不要讓自閉症人士互相對立。",
+  "summary_en": "Uta Frith's paper in Psychological Medicine questions whether the autism spectrum diagnosis has lost meaning and drives misdiagnosis. The NAS responds that rising diagnoses reflect awareness, that proposed subtypes remain theoretical, and warns against pitting autistic people against each other.",
+  "category": "評估與篩檢",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "學術評論與倡議團體回應，非實證研究。",
+  "ethics_flags": [
+    {
+      "flag": "能力範圍",
+      "note": "診斷門檻爭議提醒評估者要清楚自己採用的準則與工具限制。",
+      "refs": [
+        "APA 9.02｜評估工具的使用"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "此頁只呈現 NAS 立場；判斷論點前應直接閱讀 Frith 原文。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "Frith 論文刊於 Psychological Medicine，質疑譜系診斷過寬",
+    "NAS：診斷增加反映認識提升而非診斷問題",
+    "NAS：所提亞型「純屬理論」，暫無臨床應用",
+    "「較輕特質」等用語可能低估實際困難"
+  ],
+  "brief_en": [
+    "Frith questions breadth of ASD diagnosis",
+    "NAS: rise reflects awareness",
+    "NAS: proposed subtypes remain theoretical",
+    "Terms like 'milder traits' may mislead"
+  ],
+  "model_names": [],
+  "tags": [
+    "特殊教育需要",
+    "兒童心理",
+    "自閉症",
+    "診斷爭議",
+    "Uta Frith",
+    "英國"
+  ],
+  "population": [
+    "兒童青少年",
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "你在評估中如何區分「有自閉特質」與「符合診斷」？依據是什麼？",
+    "面對家長擔心「是否過度診斷」，你會如何回應？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.autism.org.uk/what-we-do/news/our-response-to-professor-dame-uta-friths-new-paper",
+      "author_handle": "",
+      "author_name": "National Autistic Society",
+      "title": "Our response to Professor Dame Uta Frith's new paper",
+      "content": "Uta Frith 在 Psychological Medicine 發表文章，質疑自閉症譜系診斷是否已失去意義並導致誤診；英國自閉症協會回應，認為診斷增加反映認識提升，並反對以「輕重」區分自閉症人士。",
+      "posted_at": "2026-08-04T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-01T03:34:06+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "nas-responds-to-uta-frith-on-autism-diagnosis",
+  "featured_at": null,
+  "hot_score": 0.782,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions",
+      "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對",
+      "title_en": "NAS opposes NHS autism and ADHD assessment restrictions",
+      "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。",
+      "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.",
+      "category": "評估與篩檢",
+      "kind": "incident",
+      "model_names": [],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "ADHD",
+        "評估輪候",
+        "英國",
+        "NHS"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "slug": "gaps-between-autism-screening-and-timely-support",
+      "title_zh": "自閉症早期篩檢到支援的斷層：篩檢不是診斷，而是路徑的起點",
+      "title_en": "Gaps between autism screening and timely support",
+      "summary_zh": "愛爾蘭 Munster 理工大學在《Pediatric Investigation》發表敘事性文獻回顧，整理 0–5 歲兒童自閉症篩檢到支援的落差。所引研究顯示：一項約 26,000 名幼兒的研究中，篩檢只找到不足四成後來確診的兒童；篩檢未過的兒童只有 31% 獲轉介專科評估；家庭平均等候 375 天才得到診斷。作者主張篩檢應被視為回應式路徑的入口，陰性結果但仍有疑慮時要持續監察。",
+      "summary_en": "A narrative review in Pediatric Investigation describes breakdowns between autism screening and support in children aged 0–5: limited screening sensitivity, only 31% of screen-positive children referred, and average 375-day waits. Screening should be an entry point, not a diagnosis.",
+      "category": "評估與篩檢",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "早期篩檢",
+        "早期介入",
+        "轉介路徑"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "slug": "cami-2dnet-ai-motor-imitation-autism-screening",
+      "title_zh": "CAMI-2DNet：用一般影片量化動作模仿，輔助自閉症篩檢",
+      "title_en": "CAMI-2DNet AI motor imitation autism screening",
+      "summary_zh": "Kennedy Krieger 研究所與賓州大學工程學院開發電腦視覺系統 CAMI-2DNet，分析兒童模仿施測者簡單動作的一般影片，自動量化動作模仿能力；動作模仿差異可區分自閉症兒童與一般發展兒童，且不需昂貴動作捕捉設備或人工逐格評分。團隊強調工具不是用來單獨診斷，而是輔助臨床評估與追蹤變化。",
+      "summary_en": "Kennedy Krieger Institute and Penn Engineering developed CAMI-2DNet, a computer vision tool that scores children's motor imitation from ordinary video to support autism assessment. It is not intended to diagnose on its own.",
+      "category": "評估與篩檢",
+      "kind": "research",
+      "model_names": [
+        "CAMI-2DNet"
+      ],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "AI 篩檢",
+        "電腦視覺",
+        "動作模仿"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.173,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-07-29T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-08-04T00:00:00+00:00"
+}

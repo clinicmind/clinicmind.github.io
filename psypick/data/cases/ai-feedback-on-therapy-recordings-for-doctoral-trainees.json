@@ -1,1 +1,183 @@
-{"title_zh": "AI 自動回饋療程錄音：臨床心理博士生的 CBT 技巧進步較快", "title_en": "AI feedback on therapy recordings for doctoral trainees", "summary_zh": "研究回溯比較兩屆臨床心理博士生（共 23 人）：2024 年一屆每週收到 Lyssn 工具依認知治療評分量表（CTRS）與動機式晤談編碼（MISC）產生的回饋，2022 年一屆沒有。回饋組起點較低，但每週進步速率 0.97 分遠高於對照組的 0.03 分，學期末 CTRS 分數反超；研究為非隨機、小樣本且使用角色扮演。", "summary_en": "A retrospective comparison of two doctoral clinical psychology cohorts (n=23): the 2024 cohort received weekly Lyssn feedback coded on the CTRS and MISC, the 2022 cohort did not. Despite a lower start, the feedback cohort improved 0.97 CTRS units per week vs 0.03 and finished higher; the study was nonrandomized, small, and used role-plays.", "category": "督導與訓練", "kind": "research", "evidence_level": 2, "evidence_note": "兩屆學生的回溯性比較，未隨機分派，屬前導層級證據。", "ethics_flags": [{"flag": "保密與隱私", "note": "療程錄音上傳至第三方工具分析，實務上若用真實個案錄音需處理去識別化與資料保存。", "refs": ["APA 4.01｜保密的維持", "去識別化｜教學與督導資料"]}], "psych_concepts": [{"name": "刻意練習", "note": "每週標準化回饋讓受訓者可以針對特定技巧反覆練習。", "ref": "概念｜刻意練習"}, {"name": "自動化偏誤", "note": "受訓者與督導可能過度相信自動評分，需要保留人工複核。", "ref": "概念｜自動化偏誤"}], "caution": "非隨機、小樣本且用角色扮演，若要用於真實個案錄音還需處理同意與保密。", "verify_needed": false, "verify_reason": "", "brief_zh": ["23 名博士生，兩屆回溯比較，非隨機", "AI 依 CTRS、MISC 自動編碼錄音並產生回饋", "每週進步 0.97 vs 0.03；學期末 46.16 vs 43.31", "限制：樣本小、基線不同、使用角色扮演而非真實個案"], "brief_en": ["23 doctoral students, two cohorts, nonrandomized", "AI codes recordings on CTRS and MISC and generates feedback", "Weekly gain 0.97 vs 0.03; end scores 46.16 vs 43.31", "Small sample, baseline differences, role-plays not real clients"], "model_names": ["Lyssn"], "tags": ["AI回饋", "CTRS", "動機式晤談", "研究生訓練", "療程錄音"], "population": ["臨床工作者"], "supervision_questions": ["AI 評分與督導的觀察不一致時，我們要以什麼為準？", "若要把真實個案錄音交給 AI 分析，需要取得哪些同意？", "CTRS 分數上升是否等於臨床能力提升？還有哪些面向沒被量到？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://link.springer.com/article/10.1007/s41347-026-00603-9", "author_handle": "", "author_name": "John Young, McCall Schruff, Elijah Mudryk, John P. Bentley（Journal of Technology in Behavioral Science）", "title": "Artificial Intelligence-generated Feedback as a Training Tool for Enhancing Psychotherapy Skill", "content": "比較兩屆臨床心理博士班學生，一屆每週收到 AI 自動編碼的療程回饋（依 CTRS 與 MISC），另一屆沒有，看認知治療技巧的進步速度。", "posted_at": "2026-02-08T00:00:00+00:00"}], "first_seen_at": "2026-09-30T13:03:54+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "ai-feedback-on-therapy-recordings-for-doctoral-trainees", "featured_at": null, "hot_score": 0.759, "tier": "live", "deadline_soon": false, "related": [{"slug": "semantic-similarity-scoring-of-therapy-session-fidelity", "title_zh": "用語意相似度對照評分量表，自動評估療程品質與治療忠實度", "title_en": "Semantic similarity scoring of therapy session fidelity", "summary_zh": "CLPsych 2026 的這篇論文把治療者語句與 CTRS、MISC、WAI 等量表條目做語意比對，並用 LLM 生成示範語句來擴充條目，不需額外訓練模型。在精神病超高風險青年的 182 份逐字稿與 133 份公開動機式晤談示範中，能區分不同治療取向（Cohen's d 約 0.7–0.85），但尚未與人工評分做相關驗證。", "summary_en": "This CLPsych 2026 paper scores therapist utterances by semantic similarity to CTRS, MISC and WAI items, augmented with LLM-generated exemplars, without model training. On 182 transcripts from youth at ultra-high risk for psychosis and 133 public MI demos, it separated treatment modalities (Cohen's d ~0.7–0.85), but was not validated against human fidelity ratings.", "category": "督導與訓練", "kind": "research", "model_names": ["Gemini 3.0", "SentenceBERT"], "tags": ["治療忠實度", "逐字稿分析", "CTRS", "動機式晤談", "自然語言處理"], "first_seen_at": "2026-09-30T13:03:54+00:00", "evidence_level": 2, "population": ["臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.759, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-07-04T00:00:00+00:00"}, {"slug": "llm-simulated-practice-and-feedback-for-novice-counselors", "title_zh": "RCT：LLM 模擬個案加上 AI 回饋，能提升新手諮商員的微技巧", "title_en": "LLM simulated practice and feedback for novice counselors", "summary_zh": "這項隨機研究把 94 名新手諮商員分為「只練習」與「練習加 LLM 回饋」兩組。回饋組在反映、提問等個案中心微技巧上有明顯進步，只練習組則沒有；只練習組的同理表現隨時間顯著下降。質性資料顯示回饋幫助參與者轉向個案中心的傾聽，只練習者則維持解決問題導向。", "summary_en": "This randomized study assigned 94 novice counselors to practice alone or practice plus LLM-generated feedback. The feedback group improved on client-centered microskills such as reflections and questions, while practice alone produced no gains and empathy declined over time. Qualitative data suggest feedback shifted participants toward client-centered listening.", "category": "督導與訓練", "kind": "research", "model_names": [], "tags": ["模擬個案", "AI回饋", "諮商訓練", "微技巧", "RCT"], "first_seen_at": "2026-09-30T13:03:54+00:00", "evidence_level": 3, "population": ["臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 1.518, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-03-09T00:00:00+00:00"}, {"slug": "collaborative-case-formulation-in-emotion-focused-therapy", "title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究", "title_en": "Collaborative case formulation in emotion focused therapy", "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。", "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.", "category": "督導與訓練", "kind": "research", "model_names": [], "tags": ["情緒取向治療", "Emotion-Focused Therapy", "個案概念化", "督導", "質性研究"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["臨床工作者"], "hero_media": null, "verify_needed": true, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-27T00:00:00+00:00"}]}
+{
+  "title_zh": "AI 自動回饋療程錄音：臨床心理博士生的 CBT 技巧進步較快",
+  "title_en": "AI feedback on therapy recordings for doctoral trainees",
+  "summary_zh": "研究回溯比較兩屆臨床心理博士生（共 23 人）：2024 年一屆每週收到 Lyssn 工具依認知治療評分量表（CTRS）與動機式晤談編碼（MISC）產生的回饋，2022 年一屆沒有。回饋組起點較低，但每週進步速率 0.97 分遠高於對照組的 0.03 分，學期末 CTRS 分數反超；研究為非隨機、小樣本且使用角色扮演。",
+  "summary_en": "A retrospective comparison of two doctoral clinical psychology cohorts (n=23): the 2024 cohort received weekly Lyssn feedback coded on the CTRS and MISC, the 2022 cohort did not. Despite a lower start, the feedback cohort improved 0.97 CTRS units per week vs 0.03 and finished higher; the study was nonrandomized, small, and used role-plays.",
+  "category": "督導與訓練",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "兩屆學生的回溯性比較，未隨機分派，屬前導層級證據。",
+  "ethics_flags": [
+    {
+      "flag": "保密與隱私",
+      "note": "療程錄音上傳至第三方工具分析，實務上若用真實個案錄音需處理去識別化與資料保存。",
+      "refs": [
+        "APA 4.01｜保密的維持",
+        "去識別化｜教學與督導資料"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "刻意練習",
+      "note": "每週標準化回饋讓受訓者可以針對特定技巧反覆練習。",
+      "ref": "概念｜刻意練習"
+    },
+    {
+      "name": "自動化偏誤",
+      "note": "受訓者與督導可能過度相信自動評分，需要保留人工複核。",
+      "ref": "概念｜自動化偏誤"
+    }
+  ],
+  "caution": "非隨機、小樣本且用角色扮演，若要用於真實個案錄音還需處理同意與保密。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "23 名博士生，兩屆回溯比較，非隨機",
+    "AI 依 CTRS、MISC 自動編碼錄音並產生回饋",
+    "每週進步 0.97 vs 0.03；學期末 46.16 vs 43.31",
+    "限制：樣本小、基線不同、使用角色扮演而非真實個案"
+  ],
+  "brief_en": [
+    "23 doctoral students, two cohorts, nonrandomized",
+    "AI codes recordings on CTRS and MISC and generates feedback",
+    "Weekly gain 0.97 vs 0.03; end scores 46.16 vs 43.31",
+    "Small sample, baseline differences, role-plays not real clients"
+  ],
+  "model_names": [
+    "Lyssn"
+  ],
+  "tags": [
+    "AI回饋",
+    "CTRS",
+    "動機式晤談",
+    "研究生訓練",
+    "療程錄音"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "AI 評分與督導的觀察不一致時，我們要以什麼為準？",
+    "若要把真實個案錄音交給 AI 分析，需要取得哪些同意？",
+    "CTRS 分數上升是否等於臨床能力提升？還有哪些面向沒被量到？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://link.springer.com/article/10.1007/s41347-026-00603-9",
+      "author_handle": "",
+      "author_name": "John Young, McCall Schruff, Elijah Mudryk, John P. Bentley（Journal of Technology in Behavioral Science）",
+      "title": "Artificial Intelligence-generated Feedback as a Training Tool for Enhancing Psychotherapy Skill",
+      "content": "比較兩屆臨床心理博士班學生，一屆每週收到 AI 自動編碼的療程回饋（依 CTRS 與 MISC），另一屆沒有，看認知治療技巧的進步速度。",
+      "posted_at": "2026-02-08T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ai-feedback-on-therapy-recordings-for-doctoral-trainees",
+  "featured_at": null,
+  "hot_score": 0.759,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "semantic-similarity-scoring-of-therapy-session-fidelity",
+      "title_zh": "用語意相似度對照評分量表，自動評估療程品質與治療忠實度",
+      "title_en": "Semantic similarity scoring of therapy session fidelity",
+      "summary_zh": "CLPsych 2026 的這篇論文把治療者語句與 CTRS、MISC、WAI 等量表條目做語意比對，並用 LLM 生成示範語句來擴充條目，不需額外訓練模型。在精神病超高風險青年的 182 份逐字稿與 133 份公開動機式晤談示範中，能區分不同治療取向（Cohen's d 約 0.7–0.85），但尚未與人工評分做相關驗證。",
+      "summary_en": "This CLPsych 2026 paper scores therapist utterances by semantic similarity to CTRS, MISC and WAI items, augmented with LLM-generated exemplars, without model training. On 182 transcripts from youth at ultra-high risk for psychosis and 133 public MI demos, it separated treatment modalities (Cohen's d ~0.7–0.85), but was not validated against human fidelity ratings.",
+      "category": "督導與訓練",
+      "kind": "research",
+      "model_names": [
+        "Gemini 3.0",
+        "SentenceBERT"
+      ],
+      "tags": [
+        "治療忠實度",
+        "逐字稿分析",
+        "CTRS",
+        "動機式晤談",
+        "自然語言處理"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.759,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-07-04T00:00:00+00:00"
+    },
+    {
+      "slug": "llm-simulated-practice-and-feedback-for-novice-counselors",
+      "title_zh": "RCT：LLM 模擬個案加上 AI 回饋，能提升新手諮商員的微技巧",
+      "title_en": "LLM simulated practice and feedback for novice counselors",
+      "summary_zh": "這項隨機研究把 94 名新手諮商員分為「只練習」與「練習加 LLM 回饋」兩組。回饋組在反映、提問等個案中心微技巧上有明顯進步，只練習組則沒有；只練習組的同理表現隨時間顯著下降。質性資料顯示回饋幫助參與者轉向個案中心的傾聽，只練習者則維持解決問題導向。",
+      "summary_en": "This randomized study assigned 94 novice counselors to practice alone or practice plus LLM-generated feedback. The feedback group improved on client-centered microskills such as reflections and questions, while practice alone produced no gains and empathy declined over time. Qualitative data suggest feedback shifted participants toward client-centered listening.",
+      "category": "督導與訓練",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "模擬個案",
+        "AI回饋",
+        "諮商訓練",
+        "微技巧",
+        "RCT"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 3,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.518,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-03-09T00:00:00+00:00"
+    },
+    {
+      "slug": "collaborative-case-formulation-in-emotion-focused-therapy",
+      "title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究",
+      "title_en": "Collaborative case formulation in emotion focused therapy",
+      "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。",
+      "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.",
+      "category": "督導與訓練",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Emotion-Focused Therapy",
+        "個案概念化",
+        "督導",
+        "質性研究"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-27T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-02-08T00:00:00+00:00"
+}

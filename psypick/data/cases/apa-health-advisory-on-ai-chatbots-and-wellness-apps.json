@@ -1,1 +1,197 @@
-{"title_zh": "APA 健康提醒：AI 聊天機器人與身心健康 App 不能取代專業照護", "title_en": "APA health advisory on AI chatbots and wellness apps", "summary_zh": "美國心理學會於 2025 年 11 月發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不應被當作專業心理健康照護的替代品。APA 呼籲避免使用者產生不健康的依賴、為兒童青少年等高風險族群設計特別保護、禁止 AI 冒充持照專業人員，並要求科技公司提高透明度與預設保護隱私。", "summary_en": "In November 2025 the American Psychological Association issued a health advisory stating that generative AI chatbots and wellness apps should not replace professional mental health care. It calls for preventing unhealthy dependence, special protections for youth and other vulnerable groups, a ban on AI impersonating licensed professionals, and greater transparency and privacy by default.", "category": "倫理與風險", "kind": "practice", "evidence_level": 0, "evidence_note": "專業組織的政策立場與建議，非實證研究。", "ethics_flags": [{"flag": "依賴與界線", "note": "APA 明確提醒要避免使用者對聊天機器人產生不健康的依賴。", "refs": ["APA 3.05｜多重關係與界線"]}, {"flag": "保密與隱私", "note": "建議科技公司採用預設保護隱私的設定並全面保障資料。", "refs": ["APA 4.01｜保密的維持"]}, {"flag": "專業責任歸屬", "note": "主張禁止 AI 冒充持照心理健康專業人員，釐清誰在提供照護。", "refs": ["專業責任歸屬｜人機協作的責任"]}], "psych_concepts": [{"name": "擬社會關係", "note": "使用者可能把聊天機器人當作持續陪伴的對象，是依賴風險的背景。", "ref": "概念｜擬社會關係"}], "caution": "這是政策性建議而非研究結論，引用時應說明其性質，並留意各地法規與專業守則可能不同。", "verify_needed": false, "verify_reason": "", "brief_zh": ["APA：AI 與 App 不能取代專業心理照護", "呼籲防止使用者對 AI 產生不健康依賴", "要求保護兒少等高風險族群、禁止 AI 冒充持照人員", "要求更新法規、建立實證標準與預設隱私保護"], "brief_en": ["APA: AI and apps cannot replace professional care", "Warns against unhealthy dependence on chatbots", "Calls for youth protections and a ban on AI posing as licensed clinicians", "Urges updated regulation, evidence standards and privacy by default"], "model_names": [], "tags": ["APA", "健康提醒", "專業組織指引", "AI 聊天機器人", "身心健康 App", "兒少保護"], "population": ["一般大眾", "兒童青少年", "臨床工作者"], "supervision_questions": ["個案若說自己在用 AI 聊天機器人紓解情緒，初談時要怎麼詢問使用頻率與依賴程度？", "機構是否需要一份給個案的「AI 工具使用須知」？內容應包含哪些重點？", "APA 的建議中，哪幾點可以直接轉化為本地實務的做法？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.newswise.com/articles/artificial-intelligence-wellness-apps-alone-cannot-solve-mental-health-crisis", "author_handle": "", "author_name": "American Psychological Association（經 Newswise 轉發新聞稿）", "title": "Artificial Intelligence, Wellness Apps Alone Cannot Solve Mental Health Crisis", "content": "美國心理學會（APA）發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不能取代專業心理健康照護，並向大眾、政策制定者與科技公司提出多項建議，包括保護兒少、禁止 AI 冒充持照專業人員與加強資料隱私。", "posted_at": "2025-11-13T00:00:00+00:00"}], "first_seen_at": "2026-09-30T13:03:54+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "apa-health-advisory-on-ai-chatbots-and-wellness-apps", "featured_at": null, "hot_score": 1.139, "tier": "live", "deadline_soon": false, "related": [{"slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat", "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷", "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses", "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。", "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.", "category": "倫理與風險", "kind": "incident", "model_names": [], "tags": ["AI 聊天機器人", "指引", "兒童心理", "危機自殺", "韓國"], "first_seen_at": "2026-10-13T02:38:45+00:00", "evidence_level": 2, "population": ["兒童青少年", "成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.0, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-08T00:00:00+00:00"}, {"slug": "connecticut-ai-companion-rules-take-effect-october-1", "title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程", "title_en": "Connecticut AI companion rules take effect October 1", "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。", "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["康乃狄克州", "AI 陪伴", "美國州法", "自殺防治", "兒少保護", "法規生效"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-30T00:00:00+00:00"}, {"slug": "florida-seeks-injunction-against-openai-over-chatgpt", "title_zh": "佛州檢察總長聲請禁制令：要求禁止未成年人使用 ChatGPT、移除擬人特徵", "title_en": "Florida seeks injunction against OpenAI over ChatGPT", "summary_zh": "佛羅里達州檢察總長 James Uthmeier 在 2026 年 6 月對 OpenAI 與 Sam Altman 提告，案件一度被移往聯邦法院，本月發回 Highlands County 州法院；州政府現聲請臨時禁制令。請求包括禁止佛州未成年人使用 ChatGPT、未經家長同意不得收集 13 歲以下兒童資料、不得誇大安全性、移除第一人稱等擬人化對話特徵、停止刻意延長使用的設計，以及新模型須有獨立安全保障才能開發。OpenAI 發言人回應應由業界與各州共同制定規則。", "summary_en": "Florida Attorney General James Uthmeier, who sued OpenAI and Sam Altman in June 2026, has moved for a temporary injunction in Highlands County circuit court. The state asks the court to bar Florida minors from ChatGPT, stop data collection from under-13s without parental consent, prohibit safety misrepresentations, remove human-like conversational features including first-person language, end engagement-prolonging practices and require independent safeguards before new model development. OpenAI said it favors industry-wide rules developed with states.", "category": "倫理與風險", "kind": "incident", "model_names": ["ChatGPT"], "tags": ["佛羅里達州", "OpenAI", "訴訟", "禁制令", "兒少保護", "擬人化設計"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-28T00:00:00+00:00"}]}
+{
+  "title_zh": "APA 健康提醒：AI 聊天機器人與身心健康 App 不能取代專業照護",
+  "title_en": "APA health advisory on AI chatbots and wellness apps",
+  "summary_zh": "美國心理學會於 2025 年 11 月發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不應被當作專業心理健康照護的替代品。APA 呼籲避免使用者產生不健康的依賴、為兒童青少年等高風險族群設計特別保護、禁止 AI 冒充持照專業人員，並要求科技公司提高透明度與預設保護隱私。",
+  "summary_en": "In November 2025 the American Psychological Association issued a health advisory stating that generative AI chatbots and wellness apps should not replace professional mental health care. It calls for preventing unhealthy dependence, special protections for youth and other vulnerable groups, a ban on AI impersonating licensed professionals, and greater transparency and privacy by default.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "專業組織的政策立場與建議，非實證研究。",
+  "ethics_flags": [
+    {
+      "flag": "依賴與界線",
+      "note": "APA 明確提醒要避免使用者對聊天機器人產生不健康的依賴。",
+      "refs": [
+        "APA 3.05｜多重關係與界線"
+      ]
+    },
+    {
+      "flag": "保密與隱私",
+      "note": "建議科技公司採用預設保護隱私的設定並全面保障資料。",
+      "refs": [
+        "APA 4.01｜保密的維持"
+      ]
+    },
+    {
+      "flag": "專業責任歸屬",
+      "note": "主張禁止 AI 冒充持照心理健康專業人員，釐清誰在提供照護。",
+      "refs": [
+        "專業責任歸屬｜人機協作的責任"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "擬社會關係",
+      "note": "使用者可能把聊天機器人當作持續陪伴的對象，是依賴風險的背景。",
+      "ref": "概念｜擬社會關係"
+    }
+  ],
+  "caution": "這是政策性建議而非研究結論，引用時應說明其性質，並留意各地法規與專業守則可能不同。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "APA：AI 與 App 不能取代專業心理照護",
+    "呼籲防止使用者對 AI 產生不健康依賴",
+    "要求保護兒少等高風險族群、禁止 AI 冒充持照人員",
+    "要求更新法規、建立實證標準與預設隱私保護"
+  ],
+  "brief_en": [
+    "APA: AI and apps cannot replace professional care",
+    "Warns against unhealthy dependence on chatbots",
+    "Calls for youth protections and a ban on AI posing as licensed clinicians",
+    "Urges updated regulation, evidence standards and privacy by default"
+  ],
+  "model_names": [],
+  "tags": [
+    "APA",
+    "健康提醒",
+    "專業組織指引",
+    "AI 聊天機器人",
+    "身心健康 App",
+    "兒少保護"
+  ],
+  "population": [
+    "一般大眾",
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "個案若說自己在用 AI 聊天機器人紓解情緒，初談時要怎麼詢問使用頻率與依賴程度？",
+    "機構是否需要一份給個案的「AI 工具使用須知」？內容應包含哪些重點？",
+    "APA 的建議中，哪幾點可以直接轉化為本地實務的做法？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.newswise.com/articles/artificial-intelligence-wellness-apps-alone-cannot-solve-mental-health-crisis",
+      "author_handle": "",
+      "author_name": "American Psychological Association（經 Newswise 轉發新聞稿）",
+      "title": "Artificial Intelligence, Wellness Apps Alone Cannot Solve Mental Health Crisis",
+      "content": "美國心理學會（APA）發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不能取代專業心理健康照護，並向大眾、政策制定者與科技公司提出多項建議，包括保護兒少、禁止 AI 冒充持照專業人員與加強資料隱私。",
+      "posted_at": "2025-11-13T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "apa-health-advisory-on-ai-chatbots-and-wellness-apps",
+  "featured_at": null,
+  "hot_score": 1.139,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
+      "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
+      "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
+      "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
+      "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
+      "category": "倫理與風險",
+      "kind": "incident",
+      "model_names": [],
+      "tags": [
+        "AI 聊天機器人",
+        "指引",
+        "兒童心理",
+        "危機自殺",
+        "韓國"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-08T00:00:00+00:00"
+    },
+    {
+      "slug": "connecticut-ai-companion-rules-take-effect-october-1",
+      "title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程",
+      "title_en": "Connecticut AI companion rules take effect October 1",
+      "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。",
+      "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "康乃狄克州",
+        "AI 陪伴",
+        "美國州法",
+        "自殺防治",
+        "兒少保護",
+        "法規生效"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "slug": "florida-seeks-injunction-against-openai-over-chatgpt",
+      "title_zh": "佛州檢察總長聲請禁制令：要求禁止未成年人使用 ChatGPT、移除擬人特徵",
+      "title_en": "Florida seeks injunction against OpenAI over ChatGPT",
+      "summary_zh": "佛羅里達州檢察總長 James Uthmeier 在 2026 年 6 月對 OpenAI 與 Sam Altman 提告，案件一度被移往聯邦法院，本月發回 Highlands County 州法院；州政府現聲請臨時禁制令。請求包括禁止佛州未成年人使用 ChatGPT、未經家長同意不得收集 13 歲以下兒童資料、不得誇大安全性、移除第一人稱等擬人化對話特徵、停止刻意延長使用的設計，以及新模型須有獨立安全保障才能開發。OpenAI 發言人回應應由業界與各州共同制定規則。",
+      "summary_en": "Florida Attorney General James Uthmeier, who sued OpenAI and Sam Altman in June 2026, has moved for a temporary injunction in Highlands County circuit court. The state asks the court to bar Florida minors from ChatGPT, stop data collection from under-13s without parental consent, prohibit safety misrepresentations, remove human-like conversational features including first-person language, end engagement-prolonging practices and require independent safeguards before new model development. OpenAI said it favors industry-wide rules developed with states.",
+      "category": "倫理與風險",
+      "kind": "incident",
+      "model_names": [
+        "ChatGPT"
+      ],
+      "tags": [
+        "佛羅里達州",
+        "OpenAI",
+        "訴訟",
+        "禁制令",
+        "兒少保護",
+        "擬人化設計"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-28T00:00:00+00:00"
+    }
+  ],
+  "date": "2025-11-13T00:00:00+00:00"
+}

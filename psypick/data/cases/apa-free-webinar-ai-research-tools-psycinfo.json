@@ -1,211 +1,212 @@
 {
- "title_zh": "APA 免費網路研討會：用 AI 工具搜尋 APA PsycInfo（10 月場次）",
- "title_en": "APA free webinar AI research tools PsycInfo",
- "summary_zh": "APA Publishing 部落格公布 2026 秋季免費 Zoom 研討會。「Semester Special: AI Research Tools in APA Databases」示範 APA 資料庫的語意搜尋、全文 AI 摘要與對話功能，適合已有基本資料庫經驗者；尚未舉行的場次為 10 月 6 日上午 11 時與 10 月 19 日下午 2 時（美東時間）。另有 PsycInfo 初階（10/16）與進階搜尋（10/23）場次。",
- "summary_en": "APA Publishing announced free fall 2026 Zoom webinars. 'Semester Special: AI Research Tools in APA Databases' demonstrates semantic search, AI full-text summaries and chat features; remaining sessions are Oct 6 at 11 am ET and Oct 19 at 2 pm ET. Beginner (Oct 16) and advanced (Oct 23) PsycInfo search sessions are also offered.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "課程公告，非研究。",
- "ethics_flags": [],
- "psych_concepts": [
-  {
-   "name": "自動化偏誤",
-   "note": "使用 AI 摘要做文獻回顧時，需核對原文，避免直接採信摘要。",
-   "ref": "概念｜自動化偏誤"
-  }
- ],
- "caution": "AI 摘要可能遺漏或誤述重點，引用前仍須閱讀原文。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "免費、Zoom 直播、每場約 60 分鐘（初階／進階）",
-  "AI 專場：語意搜尋、AI 摘要、對話功能",
-  "剩餘 AI 場次：10/6、10/19（美東時間）",
-  "頁面未提及繼續教育學分"
- ],
- "brief_en": [
-  "Free Zoom webinars",
-  "AI session: semantic search, AI summaries, chat",
-  "Remaining AI sessions: Oct 6 and Oct 19 (ET)",
-  "No CE credits mentioned"
- ],
- "model_names": [],
- "tags": [
-  "APA",
-  "PsycInfo",
-  "文獻搜尋",
-  "AI 研究工具",
-  "免費"
- ],
- "population": [
-  "臨床工作者",
-  "大專生"
- ],
- "supervision_questions": [
-  "在撰寫個案報告或文獻回顧時，你如何核對 AI 摘要與原文是否一致？",
-  "AI 語意搜尋可能漏掉哪些重要文獻？如何補足？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "American Psychological Association（APA PsycInfo）",
-  "format": "線上直播",
-  "price": "免費",
-  "price_tier": "免費",
-  "ce_credits": "",
-  "language": "英文",
-  "event_date": "2026-10-06",
-  "deadline": "",
-  "audience_level": "具基本學術資料庫使用經驗（教師、學生、研究者、圖書館員）",
-  "topic": "APA 資料庫的 AI 研究工具：語意搜尋、全文 AI 摘要與對話功能（另一場 2026-10-19 美東 2:00 pm）",
-  "signup_url": "https://apa-org.zoom.us/webinar/register/4217845680545/WN_BG2ktq_FQ8GWbTaBYdMS9A",
-  "format_note": "線上直播（Zoom）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://blog.apapubs.org/2026/08/10/apa-psycinfo-webinars-fall-2026/",
-   "author_handle": "",
-   "author_name": "Marta Soto（APA Publishing Blog）",
-   "title": "APA PsycInfo Webinars: Fall 2026",
-   "content": "APA Publishing 公布 2026 秋季免費 Zoom 網路研討會，包括 APA PsycInfo 初階、進階搜尋，以及介紹 APA 資料庫語意搜尋、AI 全文摘要與對話功能的「AI Research Tools」專場。",
-   "posted_at": "2026-08-10T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-09-30T18:00:52+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "apa-free-webinar-ai-research-tools-psycinfo",
- "featured_at": "2026-09-30T18:00:52+00:00",
- "hot_score": 2.0,
- "tier": "archive",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "free-clinical-supervision-forum-from-concern-to-remediation",
-   "title_zh": "免費督導 CE 直播：督導中的困難處理，從擔憂到補救（11/13）",
-   "title_en": "Free clinical supervision forum: from concern to remediation",
-   "summary_zh": "Telehealth Certification Institute 的「臨床督導論壇」是免費的線上直播系列，每場 1.5 小時 CE，APA、NBCC、ASWB ACE、NAADAC 等均有認可。2026 年 11 月 13 日（美東 13:00–14:30）由 Amie Bryant, LCSW, CAS, ACS 主講「Managing Difficulties in Clinical Supervision: From Concern to Remediation」，討論研究所訓練留下的落差，以及如何在不同能力階段支持受督者成長。",
-   "summary_en": "Telehealth Certification Institute runs a free live Clinical Supervision Forum webinar series worth 1.5 CE per session (APA, NBCC, ASWB ACE, NAADAC and NY State approvals). The Nov 13, 2026 session (1:00–2:30 pm ET), presented by Amie Bryant, LCSW, CAS, ACS, covers managing difficulties in supervision from concern to remediation and supporting supervisees across competency stages.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "督導",
-    "臨床督導",
-    "受督者發展",
-    "繼續教育",
+  "title_zh": "APA 免費網路研討會：用 AI 工具搜尋 APA PsycInfo（10 月場次）",
+  "title_en": "APA free webinar AI research tools PsycInfo",
+  "summary_zh": "APA Publishing 部落格公布 2026 秋季免費 Zoom 研討會。「Semester Special: AI Research Tools in APA Databases」示範 APA 資料庫的語意搜尋、全文 AI 摘要與對話功能，適合已有基本資料庫經驗者；尚未舉行的場次為 10 月 6 日上午 11 時與 10 月 19 日下午 2 時（美東時間）。另有 PsycInfo 初階（10/16）與進階搜尋（10/23）場次。",
+  "summary_en": "APA Publishing announced free fall 2026 Zoom webinars. 'Semester Special: AI Research Tools in APA Databases' demonstrates semantic search, AI full-text summaries and chat features; remaining sessions are Oct 6 at 11 am ET and Oct 19 at 2 pm ET. Beginner (Oct 16) and advanced (Oct 23) PsycInfo search sessions are also offered.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "課程公告，非研究。",
+  "ethics_flags": [],
+  "psych_concepts": [
+    {
+      "name": "自動化偏誤",
+      "note": "使用 AI 摘要做文獻回顧時，需核對原文，避免直接採信摘要。",
+      "ref": "概念｜自動化偏誤"
+    }
+  ],
+  "caution": "AI 摘要可能遺漏或誤述重點，引用前仍須閱讀原文。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "免費、Zoom 直播、每場約 60 分鐘（初階／進階）",
+    "AI 專場：語意搜尋、AI 摘要、對話功能",
+    "剩餘 AI 場次：10/6、10/19（美東時間）",
+    "頁面未提及繼續教育學分"
+  ],
+  "brief_en": [
+    "Free Zoom webinars",
+    "AI session: semantic search, AI summaries, chat",
+    "Remaining AI sessions: Oct 6 and Oct 19 (ET)",
+    "No CE credits mentioned"
+  ],
+  "model_names": [],
+  "tags": [
+    "APA",
+    "PsycInfo",
+    "文獻搜尋",
+    "AI 研究工具",
     "免費"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 3.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "Telehealth Certification Institute",
-    "price": "免費",
-    "price_tier": "免費",
-    "ce_credits": "1.5 小時 CE（APA、NBCC、ASWB ACE、NAADAC、紐約州相關委員會認可）",
-    "language": "英文",
-    "deadline": "",
-    "event_date": "2026-11-13",
-    "format": "線上直播（webinar）"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "polyvagal-institute-free-online-community-events-oct-nov-202",
-   "title_zh": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
-   "title_en": "Polyvagal Institute free online community events Oct–Nov 2026",
-   "summary_zh": "註冊為 501(c)(3) 非營利組織的 Polyvagal Institute 在 2026 年 10 月至 11 月有五場免費 Zoom 活動，包括 11/6 共同創辦人 Deb Dana 的問答，以及 11/14 Stephen Porges 與國際講者討論言語、語言發展與自律神經系統的 90 分鐘座談。報名即可在活動後收到錄影（Deb Dana 場錄影只開放兩週）。",
-   "summary_en": "The Polyvagal Institute, a registered 501(c)(3) nonprofit, hosts five free Zoom community events in Oct–Nov 2026, including a Q&A with co-founder Deb Dana (Nov 6) and a 90-minute conversation with Stephen Porges and international panelists on speech, language development and the autonomic nervous system (Nov 14). Registrants receive recordings afterwards.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "身體取向治療",
-    "多迷走神經理論",
-    "自律神經調節",
-    "兒童心理",
-    "免費"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
+  ],
+  "population": [
     "臨床工作者",
-    "一般大眾"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": "2026-10-05T03:24:52+00:00",
-   "tier": "archive",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "Polyvagal Institute（501(c)(3) 非營利組織）",
+    "大專生"
+  ],
+  "supervision_questions": [
+    "在撰寫個案報告或文獻回顧時，你如何核對 AI 摘要與原文是否一致？",
+    "AI 語意搜尋可能漏掉哪些重要文獻？如何補足？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "American Psychological Association（APA PsycInfo）",
+    "format": "線上直播",
     "price": "免費",
     "price_tier": "免費",
     "ce_credits": "",
     "language": "英文",
+    "event_date": "2026-10-06",
     "deadline": "",
-    "event_date": "2026-10-12",
-    "format": "線上直播（Zoom），附錄影"
-   },
-   "deadline_soon": false
+    "audience_level": "具基本學術資料庫使用經驗（教師、學生、研究者、圖書館員）",
+    "topic": "APA 資料庫的 AI 研究工具：語意搜尋、全文 AI 摘要與對話功能（另一場 2026-10-19 美東 2:00 pm）",
+    "signup_url": "https://apa-org.zoom.us/webinar/register/4217845680545/WN_BG2ktq_FQ8GWbTaBYdMS9A",
+    "format_note": "線上直播（Zoom）"
   },
-  {
-   "slug": "classroom-wise-free-school-mental-health-literacy-course",
-   "title_zh": "Classroom WISE：免費自學的學校心理健康素養課程",
-   "title_en": "Classroom WISE free school mental health literacy course",
-   "summary_zh": "Classroom WISE 由美國 MHTTC 網絡與馬里蘭大學醫學院 National Center for School Mental Health 合作開發，是免費的三部分訓練包，包括自學線上課程、影片庫與資源集。內容涵蓋心理健康素養、辨識學生困擾、降溫技巧、創傷知情與包容的課室環境，對象是 K-12 教師、學校人員與學校心理健康專業人員。",
-   "summary_en": "Classroom WISE, developed by the MHTTC Network with the National Center for School Mental Health at the University of Maryland School of Medicine, is a free three-part package with a self-paced online course, video library and resource collection. It covers mental health literacy, recognizing student distress, de-escalation, trauma-informed and inclusive classrooms for K-12 educators and school staff.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "學校心理健康",
-    "心理健康素養",
-    "教師培訓",
-    "免費"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "MHTTC Network、National Center for School Mental Health（University of Maryland School of Medicine）",
-    "price": "免費",
-    "price_tier": "免費",
-    "ce_credits": "",
-    "language": "英文",
-    "deadline": "",
-    "event_date": "",
-    "format": "自學線上課程（含影片庫與資源集）"
-   },
-   "deadline_soon": false
-  }
- ]
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://blog.apapubs.org/2026/08/10/apa-psycinfo-webinars-fall-2026/",
+      "author_handle": "",
+      "author_name": "Marta Soto（APA Publishing Blog）",
+      "title": "APA PsycInfo Webinars: Fall 2026",
+      "content": "APA Publishing 公布 2026 秋季免費 Zoom 網路研討會，包括 APA PsycInfo 初階、進階搜尋，以及介紹 APA 資料庫語意搜尋、AI 全文摘要與對話功能的「AI Research Tools」專場。",
+      "posted_at": "2026-08-10T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:00:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "apa-free-webinar-ai-research-tools-psycinfo",
+  "featured_at": "2026-09-30T18:00:52+00:00",
+  "hot_score": 2.0,
+  "tier": "archive",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "free-clinical-supervision-forum-from-concern-to-remediation",
+      "title_zh": "免費督導 CE 直播：督導中的困難處理，從擔憂到補救（11/13）",
+      "title_en": "Free clinical supervision forum: from concern to remediation",
+      "summary_zh": "Telehealth Certification Institute 的「臨床督導論壇」是免費的線上直播系列，每場 1.5 小時 CE，APA、NBCC、ASWB ACE、NAADAC 等均有認可。2026 年 11 月 13 日（美東 13:00–14:30）由 Amie Bryant, LCSW, CAS, ACS 主講「Managing Difficulties in Clinical Supervision: From Concern to Remediation」，討論研究所訓練留下的落差，以及如何在不同能力階段支持受督者成長。",
+      "summary_en": "Telehealth Certification Institute runs a free live Clinical Supervision Forum webinar series worth 1.5 CE per session (APA, NBCC, ASWB ACE, NAADAC and NY State approvals). The Nov 13, 2026 session (1:00–2:30 pm ET), presented by Amie Bryant, LCSW, CAS, ACS, covers managing difficulties in supervision from concern to remediation and supporting supervisees across competency stages.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "督導",
+        "臨床督導",
+        "受督者發展",
+        "繼續教育",
+        "免費"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 3.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "Telehealth Certification Institute",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "1.5 小時 CE（APA、NBCC、ASWB ACE、NAADAC、紐約州相關委員會認可）",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "2026-11-13",
+        "format": "線上直播（webinar）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "polyvagal-institute-free-online-community-events-oct-nov-202",
+      "title_zh": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
+      "title_en": "Polyvagal Institute free online community events Oct–Nov 2026",
+      "summary_zh": "註冊為 501(c)(3) 非營利組織的 Polyvagal Institute 在 2026 年 10 月至 11 月有五場免費 Zoom 活動，包括 11/6 共同創辦人 Deb Dana 的問答，以及 11/14 Stephen Porges 與國際講者討論言語、語言發展與自律神經系統的 90 分鐘座談。報名即可在活動後收到錄影（Deb Dana 場錄影只開放兩週）。",
+      "summary_en": "The Polyvagal Institute, a registered 501(c)(3) nonprofit, hosts five free Zoom community events in Oct–Nov 2026, including a Q&A with co-founder Deb Dana (Nov 6) and a 90-minute conversation with Stephen Porges and international panelists on speech, language development and the autonomic nervous system (Nov 14). Registrants receive recordings afterwards.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "身體取向治療",
+        "多迷走神經理論",
+        "自律神經調節",
+        "兒童心理",
+        "免費"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": "2026-10-05T03:24:52+00:00",
+      "tier": "archive",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "Polyvagal Institute（501(c)(3) 非營利組織）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "2026-10-12",
+        "format": "線上直播（Zoom），附錄影"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "classroom-wise-free-school-mental-health-literacy-course",
+      "title_zh": "Classroom WISE：免費自學的學校心理健康素養課程",
+      "title_en": "Classroom WISE free school mental health literacy course",
+      "summary_zh": "Classroom WISE 由美國 MHTTC 網絡與馬里蘭大學醫學院 National Center for School Mental Health 合作開發，是免費的三部分訓練包，包括自學線上課程、影片庫與資源集。內容涵蓋心理健康素養、辨識學生困擾、降溫技巧、創傷知情與包容的課室環境，對象是 K-12 教師、學校人員與學校心理健康專業人員。",
+      "summary_en": "Classroom WISE, developed by the MHTTC Network with the National Center for School Mental Health at the University of Maryland School of Medicine, is a free three-part package with a self-paced online course, video library and resource collection. It covers mental health literacy, recognizing student distress, de-escalation, trauma-informed and inclusive classrooms for K-12 educators and school staff.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "學校心理健康",
+        "心理健康素養",
+        "教師培訓",
+        "免費"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "MHTTC Network、National Center for School Mental Health（University of Maryland School of Medicine）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "自學線上課程（含影片庫與資源集）"
+      },
+      "deadline_soon": false
+    }
+  ],
+  "date": "2026-08-10T00:00:00+00:00"
 }

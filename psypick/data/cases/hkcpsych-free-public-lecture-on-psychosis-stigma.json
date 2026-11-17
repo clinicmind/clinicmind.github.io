@@ -1,205 +1,206 @@
 {
- "title_zh": "香港精神科醫學院免費講座：反歧視、破謬誤，談思覺失調",
- "title_en": "HKCPsych free public lecture on psychosis stigma",
- "summary_zh": "香港精神科醫學院「正視精神」公眾講座系列，於 2026 年 10 月 31 日（六）晚上 7 時至 9 時在香港中央圖書館地下演講廳舉行，由精神科專科醫生劉育成主講，內容包括破解對思覺失調的誤解、個案分享及互動問答。講座免費，名額有限，先到先得。",
- "summary_en": "A free public lecture by the Hong Kong College of Psychiatrists on 31 Oct 2026 (7–9 pm, Hong Kong Central Library) on debunking myths and stigma about psychosis, with case sharing and Q&A. First come, first served.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "活動公告。",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "對象為一般公眾，未列持續進修學分；頁面未註明講座語言及報名截止日。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "2026-10-31（六）19:00–21:00",
-  "香港中央圖書館地下演講廳",
-  "精神科專科醫生劉育成主講",
-  "免費，先到先得"
- ],
- "brief_en": [
-  "31 Oct 2026, 7–9 pm",
-  "Hong Kong Central Library",
-  "Psychiatrist speaker",
-  "Free, first come first served"
- ],
- "model_names": [],
- "tags": [
-  "香港",
-  "思覺失調",
-  "精神病污名",
-  "公眾教育",
-  "免費講座"
- ],
- "population": [
-  "一般大眾",
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "個案或家屬對思覺失調有哪些常見誤解？你會怎樣在治療中回應？",
-  "公眾講座中的個案分享要怎樣處理，才能保護當事人私隱？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "香港精神科醫學院",
-  "format": "實體講座（香港中央圖書館地下演講廳）",
-  "price": "免費",
-  "price_tier": "免費",
-  "ce_credits": "",
-  "language": "",
-  "event_date": "2026-10-31",
-  "deadline": "",
-  "audience_level": "公眾",
-  "topic": "思覺失調、精神病污名與迷思",
-  "signup_url": "https://bit.ly/public-lecture-202627-form"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://healthtalk.hk/tc/activity-details.php?id=2350",
-   "author_handle": "",
-   "author_name": "香港精神科醫學院（健康講座網刊登）",
-   "title": "「正視精神」反歧視、破謬誤 思覺不再失調",
-   "content": "香港精神科醫學院公眾講座系列其中一場，由精神科專科醫生劉育成主講，談思覺失調的誤解與歧視，設個案分享與問答。2026 年 10 月 31 日晚上在香港中央圖書館舉行，免費，先到先得。",
-   "posted_at": "2026-10-05T03:24:52+00:00"
-  }
- ],
- "first_seen_at": "2026-10-05T03:24:52+00:00",
- "hero_media": null,
- "include": false,
- "reject_reason": "純實體，不符 2026-10-23 規則",
- "slug": "hkcpsych-free-public-lecture-on-psychosis-stigma",
- "featured_at": null,
- "hot_score": 1.0,
- "tier": "archive",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "mhahk-free-zoom-talks-on-student-suicide-risk-and-school-ref",
-   "title_zh": "香港心理衞生會免費 Zoom 講座：學童自殺風險辨識與拒學支援（2026 年 10 月）",
-   "title_en": "MHAHK free Zoom talks on student suicide risk and school refusal",
-   "summary_zh": "香港心理衞生會「青繫」在 2026 年 10 月 6 日及 10 月 28 日舉辦兩場免費 Zoom 講座，分別談學童自殺風險辨識與溝通、拒學的理解與支援策略，講者均為臨床心理學家。講座主要對象是教師、家長、學校社工和青年工作者，適合在學校場景工作的輔導人員與實習生作入門進修。",
-   "summary_en": "The Mental Health Association of Hong Kong's youth service runs two free Zoom talks in October 2026 by clinical psychologists: one on identifying student suicide risk and effective communication (Oct 6), one on school refusal and support strategies (Oct 28). The stated audience is teachers, parents, school social workers and youth workers.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "自殺防治",
-    "拒學",
-    "學校心理健康",
+  "title_zh": "香港精神科醫學院免費講座：反歧視、破謬誤，談思覺失調",
+  "title_en": "HKCPsych free public lecture on psychosis stigma",
+  "summary_zh": "香港精神科醫學院「正視精神」公眾講座系列，於 2026 年 10 月 31 日（六）晚上 7 時至 9 時在香港中央圖書館地下演講廳舉行，由精神科專科醫生劉育成主講，內容包括破解對思覺失調的誤解、個案分享及互動問答。講座免費，名額有限，先到先得。",
+  "summary_en": "A free public lecture by the Hong Kong College of Psychiatrists on 31 Oct 2026 (7–9 pm, Hong Kong Central Library) on debunking myths and stigma about psychosis, with case sharing and Q&A. First come, first served.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "活動公告。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "對象為一般公眾，未列持續進修學分；頁面未註明講座語言及報名截止日。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "2026-10-31（六）19:00–21:00",
+    "香港中央圖書館地下演講廳",
+    "精神科專科醫生劉育成主講",
+    "免費，先到先得"
+  ],
+  "brief_en": [
+    "31 Oct 2026, 7–9 pm",
+    "Hong Kong Central Library",
+    "Psychiatrist speaker",
+    "Free, first come first served"
+  ],
+  "model_names": [],
+  "tags": [
     "香港",
+    "思覺失調",
+    "精神病污名",
+    "公眾教育",
     "免費講座"
-   ],
-   "first_seen_at": "2026-09-30T13:03:54+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者",
-    "兒童青少年"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": "2026-09-30T13:03:54+00:00",
-   "tier": "archive",
-   "has_ethics_flags": true,
-   "date": "2026-09-30T13:03:54+00:00",
-   "training": {
-    "provider": "香港心理衞生會（青繫）",
-    "price": "免費",
-    "price_tier": "免費",
-    "ce_credits": "",
-    "language": "中文",
-    "deadline": "",
-    "event_date": "2026-10-06",
-    "format": "線上直播（Zoom）"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "free-webinar-introduction-to-ambit-and-mentalization",
-   "title_zh": "免費一小時講座：AMBIT 與心智化入門（Anna Freud）",
-   "title_en": "Free webinar: Introduction to AMBIT and mentalization",
-   "summary_zh": "Anna Freud 舉辦的免費一小時 Zoom 講座，介紹 AMBIT：一套由 Anna Freud 在過去 15 年發展、為多重需要人士建立更有效照護系統的框架，常用於危機與高壓工作場景。講座亦說明心智化概念與 AMBIT 培訓選項，對象包括青少年工作者、社工與心理健康專業人員。",
-   "summary_en": "A free one-hour Zoom webinar from Anna Freud introducing AMBIT, a mentalization-based framework for building effective care systems around people with multiple needs, and its training options.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "心智化",
-    "AMBIT",
-    "免費講座",
-    "Anna Freud"
-   ],
-   "first_seen_at": "2026-10-01T03:55:02+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
+  ],
+  "population": [
+    "一般大眾",
     "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 1.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-01T03:55:02+00:00",
-   "training": {
-    "provider": "Anna Freud",
+  ],
+  "supervision_questions": [
+    "個案或家屬對思覺失調有哪些常見誤解？你會怎樣在治療中回應？",
+    "公眾講座中的個案分享要怎樣處理，才能保護當事人私隱？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "香港精神科醫學院",
+    "format": "實體講座（香港中央圖書館地下演講廳）",
     "price": "免費",
     "price_tier": "免費",
     "ce_credits": "",
-    "language": "英語",
+    "language": "",
+    "event_date": "2026-10-31",
     "deadline": "",
-    "event_date": "",
-    "format": "網上直播（Zoom）"
-   },
-   "deadline_soon": false
+    "audience_level": "公眾",
+    "topic": "思覺失調、精神病污名與迷思",
+    "signup_url": "https://bit.ly/public-lecture-202627-form"
   },
-  {
-   "slug": "polyvagal-institute-free-online-community-events-oct-nov-202",
-   "title_zh": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
-   "title_en": "Polyvagal Institute free online community events Oct–Nov 2026",
-   "summary_zh": "註冊為 501(c)(3) 非營利組織的 Polyvagal Institute 在 2026 年 10 月至 11 月有五場免費 Zoom 活動，包括 11/6 共同創辦人 Deb Dana 的問答，以及 11/14 Stephen Porges 與國際講者討論言語、語言發展與自律神經系統的 90 分鐘座談。報名即可在活動後收到錄影（Deb Dana 場錄影只開放兩週）。",
-   "summary_en": "The Polyvagal Institute, a registered 501(c)(3) nonprofit, hosts five free Zoom community events in Oct–Nov 2026, including a Q&A with co-founder Deb Dana (Nov 6) and a 90-minute conversation with Stephen Porges and international panelists on speech, language development and the autonomic nervous system (Nov 14). Registrants receive recordings afterwards.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "身體取向治療",
-    "多迷走神經理論",
-    "自律神經調節",
-    "兒童心理",
-    "免費"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者",
-    "一般大眾"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": "2026-10-05T03:24:52+00:00",
-   "tier": "archive",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "Polyvagal Institute（501(c)(3) 非營利組織）",
-    "price": "免費",
-    "price_tier": "免費",
-    "ce_credits": "",
-    "language": "英文",
-    "deadline": "",
-    "event_date": "2026-10-12",
-    "format": "線上直播（Zoom），附錄影"
-   },
-   "deadline_soon": false
-  }
- ]
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://healthtalk.hk/tc/activity-details.php?id=2350",
+      "author_handle": "",
+      "author_name": "香港精神科醫學院（健康講座網刊登）",
+      "title": "「正視精神」反歧視、破謬誤 思覺不再失調",
+      "content": "香港精神科醫學院公眾講座系列其中一場，由精神科專科醫生劉育成主講，談思覺失調的誤解與歧視，設個案分享與問答。2026 年 10 月 31 日晚上在香港中央圖書館舉行，免費，先到先得。",
+      "posted_at": "2026-10-05T03:24:52+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-05T03:24:52+00:00",
+  "hero_media": null,
+  "include": false,
+  "reject_reason": "純實體，不符 2026-10-23 規則",
+  "slug": "hkcpsych-free-public-lecture-on-psychosis-stigma",
+  "featured_at": null,
+  "hot_score": 1.0,
+  "tier": "archive",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "mhahk-free-zoom-talks-on-student-suicide-risk-and-school-ref",
+      "title_zh": "香港心理衞生會免費 Zoom 講座：學童自殺風險辨識與拒學支援（2026 年 10 月）",
+      "title_en": "MHAHK free Zoom talks on student suicide risk and school refusal",
+      "summary_zh": "香港心理衞生會「青繫」在 2026 年 10 月 6 日及 10 月 28 日舉辦兩場免費 Zoom 講座，分別談學童自殺風險辨識與溝通、拒學的理解與支援策略，講者均為臨床心理學家。講座主要對象是教師、家長、學校社工和青年工作者，適合在學校場景工作的輔導人員與實習生作入門進修。",
+      "summary_en": "The Mental Health Association of Hong Kong's youth service runs two free Zoom talks in October 2026 by clinical psychologists: one on identifying student suicide risk and effective communication (Oct 6), one on school refusal and support strategies (Oct 28). The stated audience is teachers, parents, school social workers and youth workers.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "自殺防治",
+        "拒學",
+        "學校心理健康",
+        "香港",
+        "免費講座"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": "2026-09-30T13:03:54+00:00",
+      "tier": "archive",
+      "has_ethics_flags": true,
+      "date": "2026-09-30T13:03:54+00:00",
+      "training": {
+        "provider": "香港心理衞生會（青繫）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "中文",
+        "deadline": "",
+        "event_date": "2026-10-06",
+        "format": "線上直播（Zoom）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "free-webinar-introduction-to-ambit-and-mentalization",
+      "title_zh": "免費一小時講座：AMBIT 與心智化入門（Anna Freud）",
+      "title_en": "Free webinar: Introduction to AMBIT and mentalization",
+      "summary_zh": "Anna Freud 舉辦的免費一小時 Zoom 講座，介紹 AMBIT：一套由 Anna Freud 在過去 15 年發展、為多重需要人士建立更有效照護系統的框架，常用於危機與高壓工作場景。講座亦說明心智化概念與 AMBIT 培訓選項，對象包括青少年工作者、社工與心理健康專業人員。",
+      "summary_en": "A free one-hour Zoom webinar from Anna Freud introducing AMBIT, a mentalization-based framework for building effective care systems around people with multiple needs, and its training options.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "心智化",
+        "AMBIT",
+        "免費講座",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 1.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-01T03:55:02+00:00",
+      "training": {
+        "provider": "Anna Freud",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英語",
+        "deadline": "",
+        "event_date": "",
+        "format": "網上直播（Zoom）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "polyvagal-institute-free-online-community-events-oct-nov-202",
+      "title_zh": "多迷走神經研究所 10–11 月免費線上活動：Deb Dana 問答、Porges 談言語發展",
+      "title_en": "Polyvagal Institute free online community events Oct–Nov 2026",
+      "summary_zh": "註冊為 501(c)(3) 非營利組織的 Polyvagal Institute 在 2026 年 10 月至 11 月有五場免費 Zoom 活動，包括 11/6 共同創辦人 Deb Dana 的問答，以及 11/14 Stephen Porges 與國際講者討論言語、語言發展與自律神經系統的 90 分鐘座談。報名即可在活動後收到錄影（Deb Dana 場錄影只開放兩週）。",
+      "summary_en": "The Polyvagal Institute, a registered 501(c)(3) nonprofit, hosts five free Zoom community events in Oct–Nov 2026, including a Q&A with co-founder Deb Dana (Nov 6) and a 90-minute conversation with Stephen Porges and international panelists on speech, language development and the autonomic nervous system (Nov 14). Registrants receive recordings afterwards.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "身體取向治療",
+        "多迷走神經理論",
+        "自律神經調節",
+        "兒童心理",
+        "免費"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": "2026-10-05T03:24:52+00:00",
+      "tier": "archive",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "Polyvagal Institute（501(c)(3) 非營利組織）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "2026-10-12",
+        "format": "線上直播（Zoom），附錄影"
+      },
+      "deadline_soon": false
+    }
+  ],
+  "date": "2026-10-05T03:24:52+00:00"
 }

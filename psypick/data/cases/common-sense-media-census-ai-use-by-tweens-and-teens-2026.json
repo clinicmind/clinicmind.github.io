@@ -1,1 +1,191 @@
-{"title_zh": "Common Sense Media 普查：逾三分之一兒少用 AI 談感受與個人問題", "title_en": "Common Sense Media census AI use by tweens and teens 2026", "summary_zh": "Common Sense Media 於 2026 年 6 月發布首份年度兒少 AI 使用普查，調查 1,204 名 9–17 歲兒少，86% 使用 AI、近四分之一每天使用。超過三分之一曾用 AI 談感受或個人問題，四分之一認為 AI 比大多數人更懂自己，兩成表示一個月不用 AI 會很困難；超過四成從未和家長討論過 AI 安全。", "summary_en": "Common Sense Media's first annual census (June 2026) surveyed 1,204 children aged 9-17: 86% use AI and nearly a quarter daily. Over a third have used AI to talk about feelings or personal problems, a quarter believe AI understands them better than most people, and a fifth say going a month without AI would be hard; over 40% never discussed AI safety with a parent.", "category": "人機互動心理", "kind": "research", "evidence_level": 2, "evidence_note": "大型描述性調查；新聞稿未詳述抽樣方法，屬橫斷面資料。", "ethics_flags": [{"flag": "依賴與界線", "note": "兩成兒少表示一個月不用 AI 會很困難，顯示依賴風險。", "refs": ["APA 3.05｜多重關係與界線"]}, {"flag": "偏誤與公平", "note": "兒少是 AI 產品較少專門驗證的族群，工具的適用性需特別留意。", "refs": ["偏誤與公平｜演算法偏誤"]}], "psych_concepts": [{"name": "擬社會關係", "note": "四分之一兒少認為 AI 比多數人更懂自己，反映單向關係的吸引力。", "ref": "概念｜擬社會關係"}, {"name": "自我揭露與線上去抑制", "note": "兒少可能更容易向 AI 揭露感受與困擾。", "ref": "概念｜自我揭露與線上去抑制"}], "caution": "新聞稿的百分比未附完整抽樣說明，引用具體數字前最好對照正式報告。", "verify_needed": false, "verify_reason": "", "brief_zh": ["樣本 1,204 名 9–17 歲兒少，86% 使用 AI", "超過三分之一用 AI 談感受或個人問題", "25% 認為 AI 比多數人更懂自己", "16% 聊天機器人使用者遇過不當內容，僅三分之一告訴大人"], "brief_en": ["1,204 children aged 9-17; 86% use AI", "Over a third discuss feelings or problems with AI", "25% feel AI understands them better than most people", "16% of chatbot users saw inappropriate content; a third told an adult"], "model_names": [], "tags": ["兒童青少年", "AI 使用調查", "情緒支持", "親子溝通", "Common Sense Media"], "population": ["兒童青少年"], "supervision_questions": ["兒少初談時，要不要把「會不會跟 AI 講心事」列為固定問題？", "如何協助家長和孩子談 AI 使用，而不是只設限制？", "兒少覺得 AI 更懂自己時，這對治療關係有什麼提示？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.commonsensemedia.org/press-releases/common-sense-media-releases-inaugural-annual-study-on-ai-use-by-tweens-and-teens", "author_handle": "", "author_name": "Common Sense Media", "title": "Common Sense Media Releases Inaugural Annual Study on AI Use by Tweens and Teens", "content": "Common Sense Media 首份年度 AI 使用普查調查 1,204 名 9–17 歲兒少，86% 使用 AI，超過三分之一曾用 AI 談感受或個人問題。", "posted_at": "2026-06-08T00:00:00+00:00"}], "first_seen_at": "2026-09-30T13:03:54+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "common-sense-media-census-ai-use-by-tweens-and-teens-2026", "featured_at": null, "hot_score": 1.139, "tier": "live", "deadline_soon": false, "related": [{"slug": "uk-under-16-social-media-ban-two-professional-perspectives", "title_zh": "英國 16 歲以下社交媒體禁令：教師與神經多樣性顧問的兩種看法", "title_en": "UK under-16 social media ban: two professional perspectives", "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。", "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.", "category": "人機互動心理", "kind": "practice", "model_names": [], "tags": ["兒童心理", "特殊教育需要", "社交媒體", "青少年", "神經多樣性", "政策", "Anna Freud"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-07-29T00:00:00+00:00"}, {"slug": "taiwan-2026-survey-ai-deepfake-risks-among-junior-high-stude", "title_zh": "兒盟 2026 國中生調查：三成遇過 AI 亂象，僅三成能辨識 AI 假圖", "title_en": "Taiwan 2026 survey: AI deepfake risks among junior high students", "summary_zh": "兒福聯盟在 2026 年 4–5 月透過學校發放線上問卷，取得 11,920 份國中生有效樣本。31.4% 曾經歷或目睹 AI 相關問題，15.1% 看過 AI 製作的假照片或影片，2.5% 看過同學被 AI 生成的性影像，而只有 31.8% 能辨識 AI 生成的假新聞圖片；54.8% 遇過網路霸凌或令人不舒服的內容。", "summary_en": "A 2026 online survey of 11,920 Taiwanese junior high students found 31.4% had experienced or witnessed AI-related problems, 15.1% had seen AI-faked images or videos and 2.5% had seen AI-generated sexual images of classmates; only 31.8% could identify an AI-generated fake news image.", "category": "人機互動心理", "kind": "research", "model_names": [], "tags": ["深偽", "網路霸凌", "青少年", "台灣", "數位素養"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 2, "population": ["兒童青少年"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-26T00:00:00+00:00"}, {"slug": "clients-using-chatgpt-between-therapy-sessions", "title_zh": "個案把 ChatGPT 帶進治療：一位治療師的臨床觀察與建議", "title_en": "Clients using ChatGPT between therapy sessions", "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。", "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.", "category": "人機互動心理", "kind": "practice", "model_names": ["ChatGPT"], "tags": ["ChatGPT", "個案使用 AI", "治療關係", "臨床觀察"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["成人", "兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-05T00:00:00+00:00"}]}
+{
+  "title_zh": "Common Sense Media 普查：逾三分之一兒少用 AI 談感受與個人問題",
+  "title_en": "Common Sense Media census AI use by tweens and teens 2026",
+  "summary_zh": "Common Sense Media 於 2026 年 6 月發布首份年度兒少 AI 使用普查，調查 1,204 名 9–17 歲兒少，86% 使用 AI、近四分之一每天使用。超過三分之一曾用 AI 談感受或個人問題，四分之一認為 AI 比大多數人更懂自己，兩成表示一個月不用 AI 會很困難；超過四成從未和家長討論過 AI 安全。",
+  "summary_en": "Common Sense Media's first annual census (June 2026) surveyed 1,204 children aged 9-17: 86% use AI and nearly a quarter daily. Over a third have used AI to talk about feelings or personal problems, a quarter believe AI understands them better than most people, and a fifth say going a month without AI would be hard; over 40% never discussed AI safety with a parent.",
+  "category": "人機互動心理",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "大型描述性調查；新聞稿未詳述抽樣方法，屬橫斷面資料。",
+  "ethics_flags": [
+    {
+      "flag": "依賴與界線",
+      "note": "兩成兒少表示一個月不用 AI 會很困難，顯示依賴風險。",
+      "refs": [
+        "APA 3.05｜多重關係與界線"
+      ]
+    },
+    {
+      "flag": "偏誤與公平",
+      "note": "兒少是 AI 產品較少專門驗證的族群，工具的適用性需特別留意。",
+      "refs": [
+        "偏誤與公平｜演算法偏誤"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "擬社會關係",
+      "note": "四分之一兒少認為 AI 比多數人更懂自己，反映單向關係的吸引力。",
+      "ref": "概念｜擬社會關係"
+    },
+    {
+      "name": "自我揭露與線上去抑制",
+      "note": "兒少可能更容易向 AI 揭露感受與困擾。",
+      "ref": "概念｜自我揭露與線上去抑制"
+    }
+  ],
+  "caution": "新聞稿的百分比未附完整抽樣說明，引用具體數字前最好對照正式報告。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "樣本 1,204 名 9–17 歲兒少，86% 使用 AI",
+    "超過三分之一用 AI 談感受或個人問題",
+    "25% 認為 AI 比多數人更懂自己",
+    "16% 聊天機器人使用者遇過不當內容，僅三分之一告訴大人"
+  ],
+  "brief_en": [
+    "1,204 children aged 9-17; 86% use AI",
+    "Over a third discuss feelings or problems with AI",
+    "25% feel AI understands them better than most people",
+    "16% of chatbot users saw inappropriate content; a third told an adult"
+  ],
+  "model_names": [],
+  "tags": [
+    "兒童青少年",
+    "AI 使用調查",
+    "情緒支持",
+    "親子溝通",
+    "Common Sense Media"
+  ],
+  "population": [
+    "兒童青少年"
+  ],
+  "supervision_questions": [
+    "兒少初談時，要不要把「會不會跟 AI 講心事」列為固定問題？",
+    "如何協助家長和孩子談 AI 使用，而不是只設限制？",
+    "兒少覺得 AI 更懂自己時，這對治療關係有什麼提示？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.commonsensemedia.org/press-releases/common-sense-media-releases-inaugural-annual-study-on-ai-use-by-tweens-and-teens",
+      "author_handle": "",
+      "author_name": "Common Sense Media",
+      "title": "Common Sense Media Releases Inaugural Annual Study on AI Use by Tweens and Teens",
+      "content": "Common Sense Media 首份年度 AI 使用普查調查 1,204 名 9–17 歲兒少，86% 使用 AI，超過三分之一曾用 AI 談感受或個人問題。",
+      "posted_at": "2026-06-08T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "common-sense-media-census-ai-use-by-tweens-and-teens-2026",
+  "featured_at": null,
+  "hot_score": 1.139,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "uk-under-16-social-media-ban-two-professional-perspectives",
+      "title_zh": "英國 16 歲以下社交媒體禁令：教師與神經多樣性顧問的兩種看法",
+      "title_en": "UK under-16 social media ban: two professional perspectives",
+      "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
+      "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
+      "category": "人機互動心理",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "特殊教育需要",
+        "社交媒體",
+        "青少年",
+        "神經多樣性",
+        "政策",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-07-29T00:00:00+00:00"
+    },
+    {
+      "slug": "taiwan-2026-survey-ai-deepfake-risks-among-junior-high-stude",
+      "title_zh": "兒盟 2026 國中生調查：三成遇過 AI 亂象，僅三成能辨識 AI 假圖",
+      "title_en": "Taiwan 2026 survey: AI deepfake risks among junior high students",
+      "summary_zh": "兒福聯盟在 2026 年 4–5 月透過學校發放線上問卷，取得 11,920 份國中生有效樣本。31.4% 曾經歷或目睹 AI 相關問題，15.1% 看過 AI 製作的假照片或影片，2.5% 看過同學被 AI 生成的性影像，而只有 31.8% 能辨識 AI 生成的假新聞圖片；54.8% 遇過網路霸凌或令人不舒服的內容。",
+      "summary_en": "A 2026 online survey of 11,920 Taiwanese junior high students found 31.4% had experienced or witnessed AI-related problems, 15.1% had seen AI-faked images or videos and 2.5% had seen AI-generated sexual images of classmates; only 31.8% could identify an AI-generated fake news image.",
+      "category": "人機互動心理",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "深偽",
+        "網路霸凌",
+        "青少年",
+        "台灣",
+        "數位素養"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-26T00:00:00+00:00"
+    },
+    {
+      "slug": "clients-using-chatgpt-between-therapy-sessions",
+      "title_zh": "個案把 ChatGPT 帶進治療：一位治療師的臨床觀察與建議",
+      "title_en": "Clients using ChatGPT between therapy sessions",
+      "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。",
+      "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.",
+      "category": "人機互動心理",
+      "kind": "practice",
+      "model_names": [
+        "ChatGPT"
+      ],
+      "tags": [
+        "ChatGPT",
+        "個案使用 AI",
+        "治療關係",
+        "臨床觀察"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-05T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-06-08T00:00:00+00:00"
+}

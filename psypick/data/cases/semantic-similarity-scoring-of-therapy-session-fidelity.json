@@ -1,1 +1,190 @@
-{"title_zh": "用語意相似度對照評分量表，自動評估療程品質與治療忠實度", "title_en": "Semantic similarity scoring of therapy session fidelity", "summary_zh": "CLPsych 2026 的這篇論文把治療者語句與 CTRS、MISC、WAI 等量表條目做語意比對，並用 LLM 生成示範語句來擴充條目，不需額外訓練模型。在精神病超高風險青年的 182 份逐字稿與 133 份公開動機式晤談示範中，能區分不同治療取向（Cohen's d 約 0.7–0.85），但尚未與人工評分做相關驗證。", "summary_en": "This CLPsych 2026 paper scores therapist utterances by semantic similarity to CTRS, MISC and WAI items, augmented with LLM-generated exemplars, without model training. On 182 transcripts from youth at ultra-high risk for psychosis and 133 public MI demos, it separated treatment modalities (Cohen's d ~0.7–0.85), but was not validated against human fidelity ratings.", "category": "督導與訓練", "kind": "research", "evidence_level": 2, "evidence_note": "方法學前導研究，使用既有資料集，未與人工評分做效度驗證。", "ethics_flags": [{"flag": "偏誤與公平", "note": "作者指出 LLM 生成的範例可能偏好特定方言或治療風格。", "refs": ["偏誤與公平｜演算法偏誤"]}, {"flag": "保密與隱私", "note": "將真實療程逐字稿交給外部 API 處理時需去識別化。", "refs": ["去識別化｜教學與督導資料", "APA 4.01｜保密的維持"]}], "psych_concepts": [{"name": "治療同盟", "note": "研究嘗試以 WAI 條目自動估計同盟相關語句，但語意比對難以捕捉關係中的互動與時機。", "ref": "概念｜治療同盟"}, {"name": "自動化偏誤", "note": "尚未驗證的自動評分若用於督導，容易被過度信任。", "ref": "概念｜自動化偏誤"}], "caution": "尚未與人工評分驗證，目前只適合作研究參考，不宜用於評鑑受訓者。", "verify_needed": false, "verify_reason": "", "brief_zh": ["比對治療者語句與 CTRS、MISC、WAI 量表條目", "用 Gemini 生成示範語句擴充量表描述", "區分治療取向的效果量由約 0.5 提升到 0.85", "尚未與人工評分比對；只抓語意，抓不到時機與回應性"], "brief_en": ["Matches therapist utterances to CTRS, MISC, WAI items", "Gemini-generated exemplars enrich scale descriptions", "Modality separation rose from d≈0.5 to 0.85", "No validation against human ratings; misses timing and responsiveness"], "model_names": ["Gemini 3.0", "SentenceBERT"], "tags": ["治療忠實度", "逐字稿分析", "CTRS", "動機式晤談", "自然語言處理"], "population": ["臨床工作者"], "supervision_questions": ["哪些治療品質面向適合用自動化工具初篩，哪些一定要由督導判斷？", "若工具偏好某種說話風格，對不同文化背景的治療者公平嗎？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://aclanthology.org/2026.clpsych-1.22.pdf", "author_handle": "", "author_name": "Kejian Cui, Simon D'Alfonso, Mike Conway（University of Melbourne，CLPsych 2026）", "title": "Measuring the quality of therapy sessions against assessment scales using augmented semantic-similarity approaches", "content": "墨爾本大學團隊以語意相似度比對治療者語句與 CTRS、MISC、WAI 量表條目，並用 LLM 生成範例語句擴充，嘗試免訓練地評估療程忠實度。", "posted_at": "2026-07-04T00:00:00+00:00"}], "first_seen_at": "2026-09-30T13:03:54+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "semantic-similarity-scoring-of-therapy-session-fidelity", "featured_at": null, "hot_score": 0.759, "tier": "live", "deadline_soon": false, "related": [{"slug": "ai-feedback-on-therapy-recordings-for-doctoral-trainees", "title_zh": "AI 自動回饋療程錄音：臨床心理博士生的 CBT 技巧進步較快", "title_en": "AI feedback on therapy recordings for doctoral trainees", "summary_zh": "研究回溯比較兩屆臨床心理博士生（共 23 人）：2024 年一屆每週收到 Lyssn 工具依認知治療評分量表（CTRS）與動機式晤談編碼（MISC）產生的回饋，2022 年一屆沒有。回饋組起點較低，但每週進步速率 0.97 分遠高於對照組的 0.03 分，學期末 CTRS 分數反超；研究為非隨機、小樣本且使用角色扮演。", "summary_en": "A retrospective comparison of two doctoral clinical psychology cohorts (n=23): the 2024 cohort received weekly Lyssn feedback coded on the CTRS and MISC, the 2022 cohort did not. Despite a lower start, the feedback cohort improved 0.97 CTRS units per week vs 0.03 and finished higher; the study was nonrandomized, small, and used role-plays.", "category": "督導與訓練", "kind": "research", "model_names": ["Lyssn"], "tags": ["AI回饋", "CTRS", "動機式晤談", "研究生訓練", "療程錄音"], "first_seen_at": "2026-09-30T13:03:54+00:00", "evidence_level": 2, "population": ["臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.759, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-02-08T00:00:00+00:00"}, {"slug": "collaborative-case-formulation-in-emotion-focused-therapy", "title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究", "title_en": "Collaborative case formulation in emotion focused therapy", "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。", "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.", "category": "督導與訓練", "kind": "research", "model_names": [], "tags": ["情緒取向治療", "Emotion-Focused Therapy", "個案概念化", "督導", "質性研究"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["臨床工作者"], "hero_media": null, "verify_needed": true, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-27T00:00:00+00:00"}, {"slug": "macao-domestic-violence-frontline-training-2026", "title_zh": "澳門社工局家暴配偶個案訓練：約 400 名前線人員學辨識與危機評估", "title_en": "Macao domestic violence frontline training 2026", "summary_zh": "澳門社會工作局舉辦 2026 年處理家暴配偶個案基本訓練課程，約 400 名警務、醫護、社工、輔導與教育前線人員參加。講者包括司法警察、衛生局精神科醫生與法醫，內容涵蓋預防與通報程序、從精神科與醫學角度辨識受虐徵兆、危機評估與庇護經驗；課程自 2018 年起累計 2,878 人參加。", "summary_en": "Macao's Social Welfare Bureau trained about 400 frontline staff on identifying spousal abuse, crisis assessment and reporting, with speakers from police, psychiatry and forensic medicine.", "category": "督導與訓練", "kind": "practice", "model_names": [], "tags": ["澳門", "家庭暴力", "危機評估", "跨專業訓練", "社工局"], "first_seen_at": "2026-09-30T22:41:42+00:00", "evidence_level": 0, "population": ["臨床工作者", "成人"], "hero_media": null, "verify_needed": false, "hot_score": 0.387, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-22T00:00:00+00:00"}]}
+{
+  "title_zh": "用語意相似度對照評分量表，自動評估療程品質與治療忠實度",
+  "title_en": "Semantic similarity scoring of therapy session fidelity",
+  "summary_zh": "CLPsych 2026 的這篇論文把治療者語句與 CTRS、MISC、WAI 等量表條目做語意比對，並用 LLM 生成示範語句來擴充條目，不需額外訓練模型。在精神病超高風險青年的 182 份逐字稿與 133 份公開動機式晤談示範中，能區分不同治療取向（Cohen's d 約 0.7–0.85），但尚未與人工評分做相關驗證。",
+  "summary_en": "This CLPsych 2026 paper scores therapist utterances by semantic similarity to CTRS, MISC and WAI items, augmented with LLM-generated exemplars, without model training. On 182 transcripts from youth at ultra-high risk for psychosis and 133 public MI demos, it separated treatment modalities (Cohen's d ~0.7–0.85), but was not validated against human fidelity ratings.",
+  "category": "督導與訓練",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "方法學前導研究，使用既有資料集，未與人工評分做效度驗證。",
+  "ethics_flags": [
+    {
+      "flag": "偏誤與公平",
+      "note": "作者指出 LLM 生成的範例可能偏好特定方言或治療風格。",
+      "refs": [
+        "偏誤與公平｜演算法偏誤"
+      ]
+    },
+    {
+      "flag": "保密與隱私",
+      "note": "將真實療程逐字稿交給外部 API 處理時需去識別化。",
+      "refs": [
+        "去識別化｜教學與督導資料",
+        "APA 4.01｜保密的維持"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "治療同盟",
+      "note": "研究嘗試以 WAI 條目自動估計同盟相關語句，但語意比對難以捕捉關係中的互動與時機。",
+      "ref": "概念｜治療同盟"
+    },
+    {
+      "name": "自動化偏誤",
+      "note": "尚未驗證的自動評分若用於督導，容易被過度信任。",
+      "ref": "概念｜自動化偏誤"
+    }
+  ],
+  "caution": "尚未與人工評分驗證，目前只適合作研究參考，不宜用於評鑑受訓者。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "比對治療者語句與 CTRS、MISC、WAI 量表條目",
+    "用 Gemini 生成示範語句擴充量表描述",
+    "區分治療取向的效果量由約 0.5 提升到 0.85",
+    "尚未與人工評分比對；只抓語意，抓不到時機與回應性"
+  ],
+  "brief_en": [
+    "Matches therapist utterances to CTRS, MISC, WAI items",
+    "Gemini-generated exemplars enrich scale descriptions",
+    "Modality separation rose from d≈0.5 to 0.85",
+    "No validation against human ratings; misses timing and responsiveness"
+  ],
+  "model_names": [
+    "Gemini 3.0",
+    "SentenceBERT"
+  ],
+  "tags": [
+    "治療忠實度",
+    "逐字稿分析",
+    "CTRS",
+    "動機式晤談",
+    "自然語言處理"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "哪些治療品質面向適合用自動化工具初篩，哪些一定要由督導判斷？",
+    "若工具偏好某種說話風格，對不同文化背景的治療者公平嗎？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://aclanthology.org/2026.clpsych-1.22.pdf",
+      "author_handle": "",
+      "author_name": "Kejian Cui, Simon D'Alfonso, Mike Conway（University of Melbourne，CLPsych 2026）",
+      "title": "Measuring the quality of therapy sessions against assessment scales using augmented semantic-similarity approaches",
+      "content": "墨爾本大學團隊以語意相似度比對治療者語句與 CTRS、MISC、WAI 量表條目，並用 LLM 生成範例語句擴充，嘗試免訓練地評估療程忠實度。",
+      "posted_at": "2026-07-04T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "semantic-similarity-scoring-of-therapy-session-fidelity",
+  "featured_at": null,
+  "hot_score": 0.759,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "ai-feedback-on-therapy-recordings-for-doctoral-trainees",
+      "title_zh": "AI 自動回饋療程錄音：臨床心理博士生的 CBT 技巧進步較快",
+      "title_en": "AI feedback on therapy recordings for doctoral trainees",
+      "summary_zh": "研究回溯比較兩屆臨床心理博士生（共 23 人）：2024 年一屆每週收到 Lyssn 工具依認知治療評分量表（CTRS）與動機式晤談編碼（MISC）產生的回饋，2022 年一屆沒有。回饋組起點較低，但每週進步速率 0.97 分遠高於對照組的 0.03 分，學期末 CTRS 分數反超；研究為非隨機、小樣本且使用角色扮演。",
+      "summary_en": "A retrospective comparison of two doctoral clinical psychology cohorts (n=23): the 2024 cohort received weekly Lyssn feedback coded on the CTRS and MISC, the 2022 cohort did not. Despite a lower start, the feedback cohort improved 0.97 CTRS units per week vs 0.03 and finished higher; the study was nonrandomized, small, and used role-plays.",
+      "category": "督導與訓練",
+      "kind": "research",
+      "model_names": [
+        "Lyssn"
+      ],
+      "tags": [
+        "AI回饋",
+        "CTRS",
+        "動機式晤談",
+        "研究生訓練",
+        "療程錄音"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.759,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-02-08T00:00:00+00:00"
+    },
+    {
+      "slug": "collaborative-case-formulation-in-emotion-focused-therapy",
+      "title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究",
+      "title_en": "Collaborative case formulation in emotion focused therapy",
+      "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。",
+      "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.",
+      "category": "督導與訓練",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Emotion-Focused Therapy",
+        "個案概念化",
+        "督導",
+        "質性研究"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-27T00:00:00+00:00"
+    },
+    {
+      "slug": "macao-domestic-violence-frontline-training-2026",
+      "title_zh": "澳門社工局家暴配偶個案訓練：約 400 名前線人員學辨識與危機評估",
+      "title_en": "Macao domestic violence frontline training 2026",
+      "summary_zh": "澳門社會工作局舉辦 2026 年處理家暴配偶個案基本訓練課程，約 400 名警務、醫護、社工、輔導與教育前線人員參加。講者包括司法警察、衛生局精神科醫生與法醫，內容涵蓋預防與通報程序、從精神科與醫學角度辨識受虐徵兆、危機評估與庇護經驗；課程自 2018 年起累計 2,878 人參加。",
+      "summary_en": "Macao's Social Welfare Bureau trained about 400 frontline staff on identifying spousal abuse, crisis assessment and reporting, with speakers from police, psychiatry and forensic medicine.",
+      "category": "督導與訓練",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "家庭暴力",
+        "危機評估",
+        "跨專業訓練",
+        "社工局"
+      ],
+      "first_seen_at": "2026-09-30T22:41:42+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.387,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-22T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-07-04T00:00:00+00:00"
+}

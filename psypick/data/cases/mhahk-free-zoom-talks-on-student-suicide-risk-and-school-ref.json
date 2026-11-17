@@ -1,192 +1,193 @@
 {
- "title_zh": "香港心理衞生會免費 Zoom 講座：學童自殺風險辨識與拒學支援（2026 年 10 月）",
- "title_en": "MHAHK free Zoom talks on student suicide risk and school refusal",
- "summary_zh": "香港心理衞生會「青繫」在 2026 年 10 月 6 日及 10 月 28 日舉辦兩場免費 Zoom 講座，分別談學童自殺風險辨識與溝通、拒學的理解與支援策略，講者均為臨床心理學家。講座主要對象是教師、家長、學校社工和青年工作者，適合在學校場景工作的輔導人員與實習生作入門進修。",
- "summary_en": "The Mental Health Association of Hong Kong's youth service runs two free Zoom talks in October 2026 by clinical psychologists: one on identifying student suicide risk and effective communication (Oct 6), one on school refusal and support strategies (Oct 28). The stated audience is teachers, parents, school social workers and youth workers.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程資訊，非研究證據。",
- "ethics_flags": [
-  {
-   "flag": "危機處理",
-   "note": "講座涵蓋自殺警號、危機應對與長期支援，屬危機處理基本功。",
-   "refs": [
-    "危機處理｜自殺與自傷風險"
-   ]
-  }
- ],
- "psych_concepts": [],
- "caution": "講座對象以教師與家長為主，內容屬入門程度，臨床評估仍需依所屬機構的風險評估程序進行。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "10/6（二）10:00–12:00：辨識學童自殺風險與有效溝通",
-  "10/28（三）9:30–11:00：理解拒學與支援策略",
-  "Zoom 進行、免費、每場限 100 人",
-  "兩場各有 Google 表單報名，頁面未列截止日與 CPD"
- ],
- "brief_en": [
-  "Oct 6: student suicide risk and communication",
-  "Oct 28: understanding school refusal",
-  "Free on Zoom, 100 places per session",
-  "No deadline or CPD points stated"
- ],
- "model_names": [],
- "tags": [
-  "自殺防治",
-  "拒學",
-  "學校心理健康",
-  "香港",
-  "免費講座"
- ],
- "population": [
-  "臨床工作者",
-  "兒童青少年"
- ],
- "supervision_questions": [
-  "在學校場景中，當學生透露自殺念頭時，你的保密界線與通報流程是甚麼？",
-  "拒學背後可能有哪些心理機制？你會如何與家長和老師分工合作？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "香港心理衞生會（青繫）",
-  "format": "線上直播",
-  "price": "免費",
-  "price_tier": "免費",
-  "ce_credits": "",
-  "language": "中文",
-  "event_date": "2026-10-06",
-  "deadline": "",
-  "audience_level": "入門（對象：教師、家長、學校社工、青年工作者）",
-  "topic": "學童自殺風險辨識；拒學支援（第二場 2026-10-28）",
-  "signup_url": "https://forms.gle/1QibgLXuwLwzqRDr7",
-  "format_note": "線上直播（Zoom）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.mhahk.org.hk/index.php/202610youthconnect/",
-   "author_handle": "",
-   "author_name": "香港心理衞生會（青繫）",
-   "title": "「青繫」推出「學童精神健康系列講座」",
-   "content": "香港心理衞生會青年服務「青繫」於 2026 年 10 月舉辦兩場 Zoom 免費講座，由臨床心理學家主講學童自殺風險辨識與拒學議題，對象為教師、家長、學校社工及青年工作者，每場名額 100 人。",
-   "posted_at": "2026-09-30T13:03:54+00:00"
-  }
- ],
- "first_seen_at": "2026-09-30T13:03:54+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "mhahk-free-zoom-talks-on-student-suicide-risk-and-school-ref",
- "featured_at": "2026-09-30T13:03:54+00:00",
- "hot_score": 2.0,
- "tier": "archive",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "hku-csrp-student-suicides-not-explained-by-adjustment-period",
-   "title_zh": "港大防自殺中心：學童自殺不能只歸咎「適應期」，前線守門員要補位",
-   "title_en": "HKU CSRP: student suicides not explained by adjustment period",
-   "summary_zh": "港大香港賽馬會防止自殺研究中心高級培訓顧問張鳳儀接受東網訪問時指出，開學「適應期」可能帶來壓力，但不能充分解釋學童自殺；自殺通常由多重因素造成，約三成自殺離世學生生前曾被診斷有精神健康問題或有相關醫療服務紀錄。她建議加強前線教師的精神健康及防止自殺培訓、重視教師身心健康、建立人人都是「守門員」的文化，並加強家校合作。",
-   "summary_en": "A senior training consultant at HKU's Centre for Suicide Research and Prevention told on.cc that the school 'adjustment period' cannot fully explain student suicides; about 30% of students who died by suicide had prior mental health diagnoses or service records. She urged gatekeeper training for teachers, attention to teacher wellbeing, and stronger home–school partnership.",
-   "category": "臨床與治療應用",
-   "kind": "practice",
-   "model_names": [],
-   "tags": [
-    "香港",
+  "title_zh": "香港心理衞生會免費 Zoom 講座：學童自殺風險辨識與拒學支援（2026 年 10 月）",
+  "title_en": "MHAHK free Zoom talks on student suicide risk and school refusal",
+  "summary_zh": "香港心理衞生會「青繫」在 2026 年 10 月 6 日及 10 月 28 日舉辦兩場免費 Zoom 講座，分別談學童自殺風險辨識與溝通、拒學的理解與支援策略，講者均為臨床心理學家。講座主要對象是教師、家長、學校社工和青年工作者，適合在學校場景工作的輔導人員與實習生作入門進修。",
+  "summary_en": "The Mental Health Association of Hong Kong's youth service runs two free Zoom talks in October 2026 by clinical psychologists: one on identifying student suicide risk and effective communication (Oct 6), one on school refusal and support strategies (Oct 28). The stated audience is teachers, parents, school social workers and youth workers.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程資訊，非研究證據。",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "講座涵蓋自殺警號、危機應對與長期支援，屬危機處理基本功。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "講座對象以教師與家長為主，內容屬入門程度，臨床評估仍需依所屬機構的風險評估程序進行。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "10/6（二）10:00–12:00：辨識學童自殺風險與有效溝通",
+    "10/28（三）9:30–11:00：理解拒學與支援策略",
+    "Zoom 進行、免費、每場限 100 人",
+    "兩場各有 Google 表單報名，頁面未列截止日與 CPD"
+  ],
+  "brief_en": [
+    "Oct 6: student suicide risk and communication",
+    "Oct 28: understanding school refusal",
+    "Free on Zoom, 100 places per session",
+    "No deadline or CPD points stated"
+  ],
+  "model_names": [],
+  "tags": [
     "自殺防治",
-    "兒童心理",
+    "拒學",
     "學校心理健康",
-    "守門人訓練"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.953,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-09-25T00:00:00+00:00"
-  },
-  {
-   "slug": "hkcpsych-free-public-lecture-on-psychosis-stigma",
-   "title_zh": "香港精神科醫學院免費講座：反歧視、破謬誤，談思覺失調",
-   "title_en": "HKCPsych free public lecture on psychosis stigma",
-   "summary_zh": "香港精神科醫學院「正視精神」公眾講座系列，於 2026 年 10 月 31 日（六）晚上 7 時至 9 時在香港中央圖書館地下演講廳舉行，由精神科專科醫生劉育成主講，內容包括破解對思覺失調的誤解、個案分享及互動問答。講座免費，名額有限，先到先得。",
-   "summary_en": "A free public lecture by the Hong Kong College of Psychiatrists on 31 Oct 2026 (7–9 pm, Hong Kong Central Library) on debunking myths and stigma about psychosis, with case sharing and Q&A. First come, first served.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
     "香港",
-    "思覺失調",
-    "精神病污名",
-    "公眾教育",
     "免費講座"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "一般大眾",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 1.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "香港精神科醫學院",
+  ],
+  "population": [
+    "臨床工作者",
+    "兒童青少年"
+  ],
+  "supervision_questions": [
+    "在學校場景中，當學生透露自殺念頭時，你的保密界線與通報流程是甚麼？",
+    "拒學背後可能有哪些心理機制？你會如何與家長和老師分工合作？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "香港心理衞生會（青繫）",
+    "format": "線上直播",
     "price": "免費",
     "price_tier": "免費",
     "ce_credits": "",
-    "language": "",
+    "language": "中文",
+    "event_date": "2026-10-06",
     "deadline": "",
-    "event_date": "2026-10-31",
-    "format": "實體講座（香港中央圖書館地下演講廳）"
-   },
-   "deadline_soon": false
+    "audience_level": "入門（對象：教師、家長、學校社工、青年工作者）",
+    "topic": "學童自殺風險辨識；拒學支援（第二場 2026-10-28）",
+    "signup_url": "https://forms.gle/1QibgLXuwLwzqRDr7",
+    "format_note": "線上直播（Zoom）"
   },
-  {
-   "slug": "mhahk-teacher-consultation-line-for-student-mental-health-cr",
-   "title_zh": "香港心理衞生會開設教師專業諮詢專線：處理學童精神健康危機",
-   "title_en": "MHAHK teacher consultation line for student mental health crises",
-   "summary_zh": "香港心理衞生會在 2026 年 9 月 15 日至 10 月 30 日開設「學童精神健康危機－教師專業諮詢專線」，為教師與學校人員提供個案諮詢與服務導航，協助判斷風險程度、即時處理和轉介。專線註明不是 24 小時危機熱線，遇到迫切自殺風險仍要啟動學校危機程序並報警求助。",
-   "summary_en": "The Mental Health Association of Hong Kong runs a time-limited consultation line (15 Sep–30 Oct 2026, weekday afternoons) helping teachers assess student mental health risk, get immediate handling advice and referral options. It is explicitly not a 24-hour crisis line.",
-   "category": "臨床與治療應用",
-   "kind": "practice",
-   "model_names": [],
-   "tags": [
-    "香港",
-    "學校心理健康",
-    "自殺防治",
-    "教師支援",
-    "諮詢專線"
-   ],
-   "first_seen_at": "2026-09-30T18:00:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.767,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-09-15T00:00:00+00:00"
-  }
- ]
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.mhahk.org.hk/index.php/202610youthconnect/",
+      "author_handle": "",
+      "author_name": "香港心理衞生會（青繫）",
+      "title": "「青繫」推出「學童精神健康系列講座」",
+      "content": "香港心理衞生會青年服務「青繫」於 2026 年 10 月舉辦兩場 Zoom 免費講座，由臨床心理學家主講學童自殺風險辨識與拒學議題，對象為教師、家長、學校社工及青年工作者，每場名額 100 人。",
+      "posted_at": "2026-09-30T13:03:54+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "mhahk-free-zoom-talks-on-student-suicide-risk-and-school-ref",
+  "featured_at": "2026-09-30T13:03:54+00:00",
+  "hot_score": 2.0,
+  "tier": "archive",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "hku-csrp-student-suicides-not-explained-by-adjustment-period",
+      "title_zh": "港大防自殺中心：學童自殺不能只歸咎「適應期」，前線守門員要補位",
+      "title_en": "HKU CSRP: student suicides not explained by adjustment period",
+      "summary_zh": "港大香港賽馬會防止自殺研究中心高級培訓顧問張鳳儀接受東網訪問時指出，開學「適應期」可能帶來壓力，但不能充分解釋學童自殺；自殺通常由多重因素造成，約三成自殺離世學生生前曾被診斷有精神健康問題或有相關醫療服務紀錄。她建議加強前線教師的精神健康及防止自殺培訓、重視教師身心健康、建立人人都是「守門員」的文化，並加強家校合作。",
+      "summary_en": "A senior training consultant at HKU's Centre for Suicide Research and Prevention told on.cc that the school 'adjustment period' cannot fully explain student suicides; about 30% of students who died by suicide had prior mental health diagnoses or service records. She urged gatekeeper training for teachers, attention to teacher wellbeing, and stronger home–school partnership.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "香港",
+        "自殺防治",
+        "兒童心理",
+        "學校心理健康",
+        "守門人訓練"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "slug": "hkcpsych-free-public-lecture-on-psychosis-stigma",
+      "title_zh": "香港精神科醫學院免費講座：反歧視、破謬誤，談思覺失調",
+      "title_en": "HKCPsych free public lecture on psychosis stigma",
+      "summary_zh": "香港精神科醫學院「正視精神」公眾講座系列，於 2026 年 10 月 31 日（六）晚上 7 時至 9 時在香港中央圖書館地下演講廳舉行，由精神科專科醫生劉育成主講，內容包括破解對思覺失調的誤解、個案分享及互動問答。講座免費，名額有限，先到先得。",
+      "summary_en": "A free public lecture by the Hong Kong College of Psychiatrists on 31 Oct 2026 (7–9 pm, Hong Kong Central Library) on debunking myths and stigma about psychosis, with case sharing and Q&A. First come, first served.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "香港",
+        "思覺失調",
+        "精神病污名",
+        "公眾教育",
+        "免費講座"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "一般大眾",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "香港精神科醫學院",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "",
+        "deadline": "",
+        "event_date": "2026-10-31",
+        "format": "實體講座（香港中央圖書館地下演講廳）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "mhahk-teacher-consultation-line-for-student-mental-health-cr",
+      "title_zh": "香港心理衞生會開設教師專業諮詢專線：處理學童精神健康危機",
+      "title_en": "MHAHK teacher consultation line for student mental health crises",
+      "summary_zh": "香港心理衞生會在 2026 年 9 月 15 日至 10 月 30 日開設「學童精神健康危機－教師專業諮詢專線」，為教師與學校人員提供個案諮詢與服務導航，協助判斷風險程度、即時處理和轉介。專線註明不是 24 小時危機熱線，遇到迫切自殺風險仍要啟動學校危機程序並報警求助。",
+      "summary_en": "The Mental Health Association of Hong Kong runs a time-limited consultation line (15 Sep–30 Oct 2026, weekday afternoons) helping teachers assess student mental health risk, get immediate handling advice and referral options. It is explicitly not a 24-hour crisis line.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "香港",
+        "學校心理健康",
+        "自殺防治",
+        "教師支援",
+        "諮詢專線"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-15T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-30T13:03:54+00:00"
 }

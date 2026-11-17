@@ -1,1 +1,209 @@
-{"title_zh": "AI 走進親密關係：從依附型態看個案怎麼用聊天機器人", "title_en": "AI in intimate relationships and attachment", "summary_zh": "Psychotherapy.net 由 Lawrence Rubin 訪談心理學家 Ammara Khalid。她指出時間壓力與寂寞是人們轉向 AI 的主因，焦慮型依附者可能用聊天機器人逃避不安，逃避型依附者則用它繞過與伴侶的脆弱對話；AI 能模仿同理語言，卻缺乏身體層次的共同調節與互惠回饋。她建議治療師以好奇、合作的態度詢問個案從 AI 得到什麼，並對有自殺意念的個案特別說明風險。", "summary_en": "In a Psychotherapy.net interview, psychologist Ammara Khalid says time pressure and loneliness drive people to AI for relationship help. Anxiously attached people may use chatbots to avoid discomfort and avoidant people to sidestep vulnerable talks with partners; AI mimics empathic language but lacks co-regulation and reciprocity. She recommends curious, collaborative questioning about what clients get from AI and explicit risk education for suicidal clients.", "category": "人機互動心理", "kind": "practice", "evidence_level": 0, "evidence_note": "專家訪談與臨床觀點，未提出研究數據。", "ethics_flags": [{"flag": "危機處理", "note": "訪談提到聊天機器人對有自殺意念的青少年只給予肯定、未轉介危機資源的案例，治療師應主動教育高風險個案。", "refs": ["危機處理｜自殺與自傷風險"]}, {"flag": "依賴與界線", "note": "強調培養個案的主體性，而不是讓個案依賴 AI 取得答案。", "refs": ["APA 3.05｜多重關係與界線"]}], "psych_concepts": [{"name": "依附理論", "note": "以焦慮型、逃避型依附說明個案使用 AI 處理關係的不同模式。", "ref": "概念｜依附理論"}, {"name": "擬社會關係", "note": "AI 提供看似回應的關係，但缺乏互惠。", "ref": "概念｜擬社會關係"}], "caution": "依附型態與 AI 使用的對應是臨床觀點而非研究結論，不宜直接套用在個案身上。", "verify_needed": false, "verify_reason": "", "brief_zh": ["寂寞與時間壓力推動人們用 AI 處理關係問題", "焦慮型用 AI 逃避不安、逃避型用 AI 繞過脆弱對話", "AI 能模仿同理語言，但無共同調節與互惠", "建議問個案：「你從那個回饋得到了什麼？」"], "brief_en": ["Loneliness and time pressure drive AI use for relationships", "Anxious and avoidant attachment shape how AI is used", "AI mimics empathy but lacks co-regulation and reciprocity", "Ask clients: 'What did you get from that feedback?'"], "model_names": [], "tags": ["親密關係", "依附", "AI 陪伴", "伴侶治療", "訪談"], "population": ["成人", "兒童青少年", "臨床工作者"], "supervision_questions": ["你的伴侶個案是否用 AI 來「預演」或取代與伴侶的對話？這和他的依附型態有什麼關係？", "對有自殺意念的個案，你會如何詢問並說明使用聊天機器人的風險？", "治療師要如何在不評判的前提下，把個案的 AI 對話納入個案概念化？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.psychotherapy.net/perspectives/articles/ammara-khalid-ai-intimate-relationships-increasing-role/", "author_handle": "", "author_name": "Lawrence Rubin 訪談 Ammara Khalid（Psychotherapy.net）", "title": "Ammara Khalid on the Increasing Role of AI in Intimate Relationships", "content": "Psychotherapy.net 訪談專研 AI 使用與誤用的心理學家 Ammara Khalid，談寂寞與時間壓力如何推動人們用 AI 處理親密關係，以及依附型態、依賴與危機風險。她提出治療師可在晤談中與個案一起檢視 AI 回饋的做法。", "posted_at": "2026-08-26T00:00:00+00:00"}], "first_seen_at": "2026-09-30T18:00:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "ai-in-intimate-relationships-and-attachment", "featured_at": null, "hot_score": 0.767, "tier": "live", "deadline_soon": false, "related": [{"slug": "conversational-ai-tool-vs-companion-harms-review", "title_zh": "是工具還是陪伴者？JMIR 回顧：聊天機器人的擬人化與心理傷害", "title_en": "Conversational AI tool vs companion harms review", "summary_zh": "東北大學研究者在 JMIR Mental Health 發表敘事性回顧〈Tool or Companion?〉，整合 AI、精神醫學、心理學與網絡科學文獻。文章指出使用者把 ChatGPT、Claude、Replika、Character.AI 等當成社會對象，模擬的同理造成缺乏互惠的不對等關係；獎勵「溫暖同理」回應的設計會形成回饋迴圈、放大不適應信念，已有情緒依賴、症狀惡化與自傷的報告。作者主張 AI 應定位為支持人類系統的工具。", "summary_en": "Northeastern researchers published a narrative review in JMIR Mental Health ('Tool or Companion?') drawing on AI, psychiatry, psychology and network science. Users treat ChatGPT, Claude, Replika and Character.AI as social entities; simulated empathy creates non-reciprocal relationships, and design that rewards warm responses forms feedback loops amplifying maladaptive beliefs, with reports of dependence, symptom worsening and self-harm. The authors argue AI should be framed as a tool supporting human systems.", "category": "人機互動心理", "kind": "research", "model_names": ["ChatGPT", "Claude", "Replika", "Character.AI"], "tags": ["AI 陪伴", "擬人化", "心理傷害", "諂媚", "情緒依賴"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["一般大眾", "兒童青少年", "成人"], "hero_media": null, "verify_needed": false, "hot_score": 1.15, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-28T00:00:00+00:00"}, {"slug": "sue-johnson-eft-webinar-series-on-demand-with-ce", "title_zh": "Sue Johnson 親授伴侶 EFT 錄影課，每集 40 美元含 CE", "title_en": "Sue Johnson EFT webinar series on demand with CE", "summary_zh": "美國 National Register of Health Service Psychologists 提供四集由 Sue Johnson 主講的情緒取向治療（Emotionally Focused Therapy，Sue Johnson 系，非 Greenberg 的 Emotion-Focused Therapy）錄影課，主題包括以依附為本的伴侶介入、EFT Tango 與微介入、Hold Me Tight 對話與依附創傷修復，以及創傷伴侶。每集 40 美元，含 1–1.5 小時 CE，課程等級標示為進階。", "summary_en": "The National Register of Health Service Psychologists offers four recorded webinars by Dr. Sue Johnson on Emotionally Focused Therapy (the Johnson model, not Greenberg's Emotion-Focused Therapy), covering attachment-based couple intervention, the EFT Tango, Hold Me Tight conversations and attachment injuries, and trauma couples. Each costs US$40 including 1–1.5 CE credits; instructional level is advanced.", "category": "進修與培訓", "kind": "training", "model_names": [], "tags": ["情緒取向治療", "Sue Johnson 系", "伴侶治療", "依附", "繼續教育", "低價"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["臨床工作者", "成人"], "hero_media": null, "verify_needed": true, "hot_score": 2.0, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-05T03:24:52+00:00", "training": {"provider": "National Register of Health Service Psychologists", "price": "每集 40 美元（含 CE）", "price_tier": "低價", "ce_credits": "第一集 1.5 小時、第二至四集各 1 小時（APA 認可主辦單位）", "language": "英文", "deadline": "", "event_date": "", "format": "錄影課（隨選觀看）"}, "deadline_soon": false}, {"slug": "clients-using-chatgpt-between-therapy-sessions", "title_zh": "個案把 ChatGPT 帶進治療：一位治療師的臨床觀察與建議", "title_en": "Clients using ChatGPT between therapy sessions", "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。", "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.", "category": "人機互動心理", "kind": "practice", "model_names": ["ChatGPT"], "tags": ["ChatGPT", "個案使用 AI", "治療關係", "臨床觀察"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["成人", "兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-05T00:00:00+00:00"}]}
+{
+  "title_zh": "AI 走進親密關係：從依附型態看個案怎麼用聊天機器人",
+  "title_en": "AI in intimate relationships and attachment",
+  "summary_zh": "Psychotherapy.net 由 Lawrence Rubin 訪談心理學家 Ammara Khalid。她指出時間壓力與寂寞是人們轉向 AI 的主因，焦慮型依附者可能用聊天機器人逃避不安，逃避型依附者則用它繞過與伴侶的脆弱對話；AI 能模仿同理語言，卻缺乏身體層次的共同調節與互惠回饋。她建議治療師以好奇、合作的態度詢問個案從 AI 得到什麼，並對有自殺意念的個案特別說明風險。",
+  "summary_en": "In a Psychotherapy.net interview, psychologist Ammara Khalid says time pressure and loneliness drive people to AI for relationship help. Anxiously attached people may use chatbots to avoid discomfort and avoidant people to sidestep vulnerable talks with partners; AI mimics empathic language but lacks co-regulation and reciprocity. She recommends curious, collaborative questioning about what clients get from AI and explicit risk education for suicidal clients.",
+  "category": "人機互動心理",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "專家訪談與臨床觀點，未提出研究數據。",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "訪談提到聊天機器人對有自殺意念的青少年只給予肯定、未轉介危機資源的案例，治療師應主動教育高風險個案。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    },
+    {
+      "flag": "依賴與界線",
+      "note": "強調培養個案的主體性，而不是讓個案依賴 AI 取得答案。",
+      "refs": [
+        "APA 3.05｜多重關係與界線"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "依附理論",
+      "note": "以焦慮型、逃避型依附說明個案使用 AI 處理關係的不同模式。",
+      "ref": "概念｜依附理論"
+    },
+    {
+      "name": "擬社會關係",
+      "note": "AI 提供看似回應的關係，但缺乏互惠。",
+      "ref": "概念｜擬社會關係"
+    }
+  ],
+  "caution": "依附型態與 AI 使用的對應是臨床觀點而非研究結論，不宜直接套用在個案身上。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "寂寞與時間壓力推動人們用 AI 處理關係問題",
+    "焦慮型用 AI 逃避不安、逃避型用 AI 繞過脆弱對話",
+    "AI 能模仿同理語言，但無共同調節與互惠",
+    "建議問個案：「你從那個回饋得到了什麼？」"
+  ],
+  "brief_en": [
+    "Loneliness and time pressure drive AI use for relationships",
+    "Anxious and avoidant attachment shape how AI is used",
+    "AI mimics empathy but lacks co-regulation and reciprocity",
+    "Ask clients: 'What did you get from that feedback?'"
+  ],
+  "model_names": [],
+  "tags": [
+    "親密關係",
+    "依附",
+    "AI 陪伴",
+    "伴侶治療",
+    "訪談"
+  ],
+  "population": [
+    "成人",
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "你的伴侶個案是否用 AI 來「預演」或取代與伴侶的對話？這和他的依附型態有什麼關係？",
+    "對有自殺意念的個案，你會如何詢問並說明使用聊天機器人的風險？",
+    "治療師要如何在不評判的前提下，把個案的 AI 對話納入個案概念化？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.psychotherapy.net/perspectives/articles/ammara-khalid-ai-intimate-relationships-increasing-role/",
+      "author_handle": "",
+      "author_name": "Lawrence Rubin 訪談 Ammara Khalid（Psychotherapy.net）",
+      "title": "Ammara Khalid on the Increasing Role of AI in Intimate Relationships",
+      "content": "Psychotherapy.net 訪談專研 AI 使用與誤用的心理學家 Ammara Khalid，談寂寞與時間壓力如何推動人們用 AI 處理親密關係，以及依附型態、依賴與危機風險。她提出治療師可在晤談中與個案一起檢視 AI 回饋的做法。",
+      "posted_at": "2026-08-26T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:00:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ai-in-intimate-relationships-and-attachment",
+  "featured_at": null,
+  "hot_score": 0.767,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "conversational-ai-tool-vs-companion-harms-review",
+      "title_zh": "是工具還是陪伴者？JMIR 回顧：聊天機器人的擬人化與心理傷害",
+      "title_en": "Conversational AI tool vs companion harms review",
+      "summary_zh": "東北大學研究者在 JMIR Mental Health 發表敘事性回顧〈Tool or Companion?〉，整合 AI、精神醫學、心理學與網絡科學文獻。文章指出使用者把 ChatGPT、Claude、Replika、Character.AI 等當成社會對象，模擬的同理造成缺乏互惠的不對等關係；獎勵「溫暖同理」回應的設計會形成回饋迴圈、放大不適應信念，已有情緒依賴、症狀惡化與自傷的報告。作者主張 AI 應定位為支持人類系統的工具。",
+      "summary_en": "Northeastern researchers published a narrative review in JMIR Mental Health ('Tool or Companion?') drawing on AI, psychiatry, psychology and network science. Users treat ChatGPT, Claude, Replika and Character.AI as social entities; simulated empathy creates non-reciprocal relationships, and design that rewards warm responses forms feedback loops amplifying maladaptive beliefs, with reports of dependence, symptom worsening and self-harm. The authors argue AI should be framed as a tool supporting human systems.",
+      "category": "人機互動心理",
+      "kind": "research",
+      "model_names": [
+        "ChatGPT",
+        "Claude",
+        "Replika",
+        "Character.AI"
+      ],
+      "tags": [
+        "AI 陪伴",
+        "擬人化",
+        "心理傷害",
+        "諂媚",
+        "情緒依賴"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "一般大眾",
+        "兒童青少年",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.15,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-28T00:00:00+00:00"
+    },
+    {
+      "slug": "sue-johnson-eft-webinar-series-on-demand-with-ce",
+      "title_zh": "Sue Johnson 親授伴侶 EFT 錄影課，每集 40 美元含 CE",
+      "title_en": "Sue Johnson EFT webinar series on demand with CE",
+      "summary_zh": "美國 National Register of Health Service Psychologists 提供四集由 Sue Johnson 主講的情緒取向治療（Emotionally Focused Therapy，Sue Johnson 系，非 Greenberg 的 Emotion-Focused Therapy）錄影課，主題包括以依附為本的伴侶介入、EFT Tango 與微介入、Hold Me Tight 對話與依附創傷修復，以及創傷伴侶。每集 40 美元，含 1–1.5 小時 CE，課程等級標示為進階。",
+      "summary_en": "The National Register of Health Service Psychologists offers four recorded webinars by Dr. Sue Johnson on Emotionally Focused Therapy (the Johnson model, not Greenberg's Emotion-Focused Therapy), covering attachment-based couple intervention, the EFT Tango, Hold Me Tight conversations and attachment injuries, and trauma couples. Each costs US$40 including 1–1.5 CE credits; instructional level is advanced.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Sue Johnson 系",
+        "伴侶治療",
+        "依附",
+        "繼續教育",
+        "低價"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "National Register of Health Service Psychologists",
+        "price": "每集 40 美元（含 CE）",
+        "price_tier": "低價",
+        "ce_credits": "第一集 1.5 小時、第二至四集各 1 小時（APA 認可主辦單位）",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "錄影課（隨選觀看）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "clients-using-chatgpt-between-therapy-sessions",
+      "title_zh": "個案把 ChatGPT 帶進治療：一位治療師的臨床觀察與建議",
+      "title_en": "Clients using ChatGPT between therapy sessions",
+      "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。",
+      "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.",
+      "category": "人機互動心理",
+      "kind": "practice",
+      "model_names": [
+        "ChatGPT"
+      ],
+      "tags": [
+        "ChatGPT",
+        "個案使用 AI",
+        "治療關係",
+        "臨床觀察"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-05T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-08-26T00:00:00+00:00"
+}

@@ -1,137 +1,138 @@
 {
- "title_zh": "深度學習找出 ADHD 與焦慮青少年的三種腦部生物型：兩個腦—行為維度（3,508 人）",
- "title_en": "Deep learning brain-behavior dimensions transdiagnostic biotypes ADHD anxiety youth",
- "summary_zh": "Nature Mental Health 2026 年 10 月 16 日刊出史丹福大學主導研究，以深度學習框架 DeCoDE 分析青少年靜息態功能性磁力共振的功能連結，結合認知與行為量度，找出兩個可重現的腦—行為維度：認知行為功能失調（與流體智力、工作記憶、執行功能及違規行為有關）與情緒注意力功能失調（與焦慮／抑鬱症狀及注意力問題有關）。兩個維度進一步分出三種跨診斷生物型：外化—抑制失調型、內化—困擾型與混合型，各有不同症狀組合與腦部發展軌跡。研究用 ABCD 數據 3,508 名 9–11 歲 ADHD 或焦慮症青少年，對照 1,947 名對照組，並在 224 名健康腦網絡（HBN）同齡參加者獨立驗證；生物型在青少年出現症狀前已可從基線腦掃描偵測。通訊作者為愛荷華大學 Jing Jiang 與史丹福大學 Yu Zhang；資助包括美國國立衛生研究院、Eagles 自閉症基金會、史丹福 Knight 腦部韌性計劃與 Rosenkranz 基金會。",
- "summary_en": "Nature Mental Health published a Stanford-led study on 16 October 2026 using a deep learning framework (DeCoDE) on resting-state fMRI functional connectivity plus cognitive and behavioural measures in youth. It identified two reproducible brain-behaviour dimensions - cognitive-behavioural dysfunction (linked to fluid intelligence, working memory, executive function and rule-breaking) and emotion-attention dysfunction (linked to anxious/depressed symptoms and attention problems) - which combine into three transdiagnostic biotypes: externalizing-disinhibited, internalizing-distressed and mixed, each with distinct symptom profiles and brain development. The study used ABCD data from 3,508 children aged 9-11 with ADHD or anxiety disorders, contrasted with 1,947 controls, and validated the dimensions and biotypes in 224 age-matched Healthy Brain Network participants; biotypes were already detectable in baseline scans before symptom onset. Senior authors Jing Jiang (University of Iowa) and Yu Zhang (Stanford); funded by the NIH, the Eagles Autism Foundation, the Stanford Knight Initiative for Brain Resilience and the Rosenkranz Foundation.",
- "category": "研究與證據",
- "kind": "research",
- "evidence_level": 2,
- "evidence_note": "觀察性隊列分析（Nature Mental Health 2026 年 10 月 16 日刊出，4 卷 1686–1700 頁；DOI: 10.1038/s44220-026-00740-3；經 Nature 原文頁與同作者 bioRxiv 預印本 PMC12632924 全文核實；預印本為同一研究的作者手稿）",
- "ethics_flags": [
-  {
-   "flag": "篩檢與標籤",
-   "note": "以腦掃描生物型在症狀出現前分類兒童，須避免過早標籤化，生物型現階段只屬研究概念，不可作診斷或分流依據。",
-   "refs": [
-    "評估與篩檢｜假陽性與標籤效應"
-   ]
-  }
- ],
- "psych_concepts": [],
- "caution": "觀察性研究，生物型仍屬研究概念，未可作臨床診斷或分流；腦掃描未能即時用於臨床；樣本為 9–11 歲 ABCD 參加者，推廣至其他年齡與族群有限；作者之一 Fonzo 申報接受 SynapseBio AI 顧問費並持有 Alto Neuroscience 股權。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "樣本：ABCD 數據 3,508 名 9–11 歲 ADHD 或焦慮症青少年，對照 1,947 名對照組；獨立驗證隊列為 224 名健康腦網絡（HBN）同齡參加者",
-  "方法：深度學習框架 DeCoDE（對比變分自編碼器結合深度廣義典型相關分析），以靜息態功能性磁力共振的功能連結對照認知測驗與行為量表",
-  "兩個維度：認知行為功能失調（交叉驗證典型相關 rcv=0.412，p < 0.0001，Cohen's d = 0.905）；情緒注意力功能失調（rcv=0.212，p < 0.0001，d = 0.435）",
-  "三種生物型：外化—抑制失調型（敵意、違抗、衝動、攻擊與違規較多，較多 ADHD 診斷）；內化—困擾型（內疚、緊張、完美主義、焦慮／抑鬱症狀較多，較多焦慮症診斷）；混合型（嚴重程度居中，注意力缺損明顯）",
-  "早期偵測：生物型在青少年出現症狀前已可從基線腦掃描偵測，作者指有助早期分類與配對治療的潛力",
-  "資助與利益衝突：美國國立衛生研究院（R01MH129694）、Eagles 自閉症基金會、史丹福 Knight 腦部韌性計劃、Rosenkranz 基金會；Fonzo 申報接受 SynapseBio AI 顧問費並持有 Alto Neuroscience 股權，其餘作者無"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "ADHD",
-  "焦慮症",
-  "生物型",
-  "腦影像",
-  "深度學習",
-  "兒童青少年"
- ],
- "population": [
-  "兒童青少年",
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "家長問腦掃描可唔可以話俾佢知個仔屬於邊種生物型、應該用邊種治療，你會點回應？"
- ],
- "original_prompt": "",
- "training": null,
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.nature.com/articles/s44220-026-00740-3",
-   "author_handle": "",
-   "author_name": "Jiao 等（愛荷華大學／史丹福大學）",
-   "title": "Deep learning of brain–behavior dimensions identifies transdiagnostic biotypes in youth with ADHD and anxiety disorders (Nature Mental Health; DOI: 10.1038/s44220-026-00740-3)",
-   "content": "期刊論文：3,508 名 ADHD 或焦慮症青少年腦影像深度學習分析，找出兩個維度與三種生物型。",
-   "posted_at": "2026-10-16T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-11-12T13:37:10+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "deep-learning-brain-behavior-dimensions-transdiagnostic-biot",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "cognitive-behavioral-interventions-adhd-core-symptoms-meta-a",
-   "title_zh": "統合分析：認知行為介入可減輕兒童青少年 ADHD 核心症狀，專注力改善最一致（10 項試驗，849 人）",
-   "title_en": "Cognitive behavioral interventions ADHD core symptoms meta-analysis",
-   "summary_zh": "Behavioral Sciences 刊出系統性回顧與統合分析，綜合認知行為介入對兒童青少年 ADHD 核心症狀維度的效果。研究檢索 PubMed、Web of Science、Embase 與 CENTRAL 至 2026 年 6 月 30 日，納入 10 項隨機對照試驗共 849 人，介入包括結構化認知行為治療、執行功能訓練、組織技巧訓練、自我管理與正念／第三浪介入。結果顯示，認知行為介入可減輕整體 ADHD 症狀（Hedges' g −0.389）、專注力不足（−0.415）與過度活躍／衝動（−0.366），專注力改善的效應最大，敏感度分析亦最一致。亞組分析未發現介入種類、療程長短與每週頻次之間有統計顯著差異。研究由中國國家社會科學基金資助（24BTY045），作者申報無利益衝突。",
-   "summary_en": "Behavioral Sciences published a systematic review and meta-analysis of cognitive behavioral interventions for core ADHD symptom dimensions in children and adolescents. Searching PubMed, Web of Science, Embase and CENTRAL to 30 June 2026, the review included 10 randomised controlled trials with 849 participants, covering structured CBT, executive function training, organizational skills training, self-management and mindfulness/third-wave interventions. Cognitive behavioral interventions reduced overall ADHD symptoms (Hedges' g -0.389), inattention (-0.415) and hyperactivity/impulsivity (-0.366); inattention showed the numerically largest effect and the most consistent findings in sensitivity analyses. No statistically significant differences were found between subgroups by intervention type, duration or weekly frequency. Funded by the National Social Science Fund of China (24BTY045); authors declared no conflicts of interest.",
-   "category": "研究與證據",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
+  "title_zh": "深度學習找出 ADHD 與焦慮青少年的三種腦部生物型：兩個腦—行為維度（3,508 人）",
+  "title_en": "Deep learning brain-behavior dimensions transdiagnostic biotypes ADHD anxiety youth",
+  "summary_zh": "Nature Mental Health 2026 年 10 月 16 日刊出史丹福大學主導研究，以深度學習框架 DeCoDE 分析青少年靜息態功能性磁力共振的功能連結，結合認知與行為量度，找出兩個可重現的腦—行為維度：認知行為功能失調（與流體智力、工作記憶、執行功能及違規行為有關）與情緒注意力功能失調（與焦慮／抑鬱症狀及注意力問題有關）。兩個維度進一步分出三種跨診斷生物型：外化—抑制失調型、內化—困擾型與混合型，各有不同症狀組合與腦部發展軌跡。研究用 ABCD 數據 3,508 名 9–11 歲 ADHD 或焦慮症青少年，對照 1,947 名對照組，並在 224 名健康腦網絡（HBN）同齡參加者獨立驗證；生物型在青少年出現症狀前已可從基線腦掃描偵測。通訊作者為愛荷華大學 Jing Jiang 與史丹福大學 Yu Zhang；資助包括美國國立衛生研究院、Eagles 自閉症基金會、史丹福 Knight 腦部韌性計劃與 Rosenkranz 基金會。",
+  "summary_en": "Nature Mental Health published a Stanford-led study on 16 October 2026 using a deep learning framework (DeCoDE) on resting-state fMRI functional connectivity plus cognitive and behavioural measures in youth. It identified two reproducible brain-behaviour dimensions - cognitive-behavioural dysfunction (linked to fluid intelligence, working memory, executive function and rule-breaking) and emotion-attention dysfunction (linked to anxious/depressed symptoms and attention problems) - which combine into three transdiagnostic biotypes: externalizing-disinhibited, internalizing-distressed and mixed, each with distinct symptom profiles and brain development. The study used ABCD data from 3,508 children aged 9-11 with ADHD or anxiety disorders, contrasted with 1,947 controls, and validated the dimensions and biotypes in 224 age-matched Healthy Brain Network participants; biotypes were already detectable in baseline scans before symptom onset. Senior authors Jing Jiang (University of Iowa) and Yu Zhang (Stanford); funded by the NIH, the Eagles Autism Foundation, the Stanford Knight Initiative for Brain Resilience and the Rosenkranz Foundation.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "觀察性隊列分析（Nature Mental Health 2026 年 10 月 16 日刊出，4 卷 1686–1700 頁；DOI: 10.1038/s44220-026-00740-3；經 Nature 原文頁與同作者 bioRxiv 預印本 PMC12632924 全文核實；預印本為同一研究的作者手稿）",
+  "ethics_flags": [
+    {
+      "flag": "篩檢與標籤",
+      "note": "以腦掃描生物型在症狀出現前分類兒童，須避免過早標籤化，生物型現階段只屬研究概念，不可作診斷或分流依據。",
+      "refs": [
+        "評估與篩檢｜假陽性與標籤效應"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "觀察性研究，生物型仍屬研究概念，未可作臨床診斷或分流；腦掃描未能即時用於臨床；樣本為 9–11 歲 ABCD 參加者，推廣至其他年齡與族群有限；作者之一 Fonzo 申報接受 SynapseBio AI 顧問費並持有 Alto Neuroscience 股權。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "樣本：ABCD 數據 3,508 名 9–11 歲 ADHD 或焦慮症青少年，對照 1,947 名對照組；獨立驗證隊列為 224 名健康腦網絡（HBN）同齡參加者",
+    "方法：深度學習框架 DeCoDE（對比變分自編碼器結合深度廣義典型相關分析），以靜息態功能性磁力共振的功能連結對照認知測驗與行為量表",
+    "兩個維度：認知行為功能失調（交叉驗證典型相關 rcv=0.412，p < 0.0001，Cohen's d = 0.905）；情緒注意力功能失調（rcv=0.212，p < 0.0001，d = 0.435）",
+    "三種生物型：外化—抑制失調型（敵意、違抗、衝動、攻擊與違規較多，較多 ADHD 診斷）；內化—困擾型（內疚、緊張、完美主義、焦慮／抑鬱症狀較多，較多焦慮症診斷）；混合型（嚴重程度居中，注意力缺損明顯）",
+    "早期偵測：生物型在青少年出現症狀前已可從基線腦掃描偵測，作者指有助早期分類與配對治療的潛力",
+    "資助與利益衝突：美國國立衛生研究院（R01MH129694）、Eagles 自閉症基金會、史丹福 Knight 腦部韌性計劃、Rosenkranz 基金會；Fonzo 申報接受 SynapseBio AI 顧問費並持有 Alto Neuroscience 股權，其餘作者無"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
     "ADHD",
-    "認知行為治療",
-    "統合分析",
-    "專注力",
+    "焦慮症",
+    "生物型",
+    "腦影像",
+    "深度學習",
     "兒童青少年"
-   ],
-   "first_seen_at": "2026-11-11T13:33:22+00:00",
-   "evidence_level": 4,
-   "population": [
+  ],
+  "population": [
     "兒童青少年",
     "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-11-02T00:00:00+00:00"
-  },
-  {
-   "slug": "pediatric-anxiety-cbt-fluoxetine-smart-trial-24-weeks",
-   "title_zh": "研究：兒少焦慮 CBT 與百憂解 24 週比較，兩種起點改善相近（316 人 SMART 試驗）",
-   "title_en": "Pediatric anxiety CBT fluoxetine SMART trial 24 weeks",
-   "summary_zh": "《American Journal of Psychiatry》2026 年刊出的務實型 SMART 隨機試驗，納入 316 名 8 至 17 歲嚴重焦慮兒少，在美國社區小兒科與心理健康診所比較兩種起點：先用暴露為核心的認知行為治療，或先用百憂解（fluoxetine）。24 週後，兒少自評焦慮（SCARED）整體下降 31.7%。先用 CBT 與先用藥物在主要結果上無顯著差異（24 週組間變化差異 1.45 分，95% 信賴區間 -2.25 至 5.16）；第 12 週未緩解者中，合併治療亦未在主要結果上優於持續優化單一治療。先用 CBT、12 週後未緩解再加入藥物的順序，在多項次要指標上改善最大，但主要結果差異未達顯著。",
-   "summary_en": "A pragmatic SMART randomized trial (American Journal of Psychiatry, 2026) enrolled 316 youths aged 8-17 with severe anxiety in US community paediatric and mental health clinics, comparing two starting points: exposure-based CBT first or fluoxetine first. Over 24 weeks, youth-reported anxiety (SCARED) fell 31.7% overall. Initial CBT versus fluoxetine did not differ significantly on the primary outcome (24-week difference in mean group change 1.45, 95% CI -2.25 to 5.16). Among week-12 nonremitters, combination treatment was not superior to optimized monotherapy on the primary outcome. Starting with CBT and adding fluoxetine after week 12 produced the greatest improvement across most secondary measures, but not significantly on the primary youth-reported outcome.",
-   "category": "研究與證據",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
-    "兒少焦慮",
-    "CBT",
-    "百憂解",
-    "SMART試驗",
-    "隨機對照試驗"
-   ],
-   "first_seen_at": "2026-11-04T13:30:00+00:00",
-   "evidence_level": 3,
-   "population": [
-    "兒童",
-    "青少年",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-11-04T00:00:00+00:00"
-  }
- ],
- "evidence_quote": "identifies transdiagnostic biotypes",
- "page_date": "16 October 2026"
+  ],
+  "supervision_questions": [
+    "家長問腦掃描可唔可以話俾佢知個仔屬於邊種生物型、應該用邊種治療，你會點回應？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.nature.com/articles/s44220-026-00740-3",
+      "author_handle": "",
+      "author_name": "Jiao 等（愛荷華大學／史丹福大學）",
+      "title": "Deep learning of brain–behavior dimensions identifies transdiagnostic biotypes in youth with ADHD and anxiety disorders (Nature Mental Health; DOI: 10.1038/s44220-026-00740-3)",
+      "content": "期刊論文：3,508 名 ADHD 或焦慮症青少年腦影像深度學習分析，找出兩個維度與三種生物型。",
+      "posted_at": "2026-10-16T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-12T13:37:10+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "deep-learning-brain-behavior-dimensions-transdiagnostic-biot",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "cognitive-behavioral-interventions-adhd-core-symptoms-meta-a",
+      "title_zh": "統合分析：認知行為介入可減輕兒童青少年 ADHD 核心症狀，專注力改善最一致（10 項試驗，849 人）",
+      "title_en": "Cognitive behavioral interventions ADHD core symptoms meta-analysis",
+      "summary_zh": "Behavioral Sciences 刊出系統性回顧與統合分析，綜合認知行為介入對兒童青少年 ADHD 核心症狀維度的效果。研究檢索 PubMed、Web of Science、Embase 與 CENTRAL 至 2026 年 6 月 30 日，納入 10 項隨機對照試驗共 849 人，介入包括結構化認知行為治療、執行功能訓練、組織技巧訓練、自我管理與正念／第三浪介入。結果顯示，認知行為介入可減輕整體 ADHD 症狀（Hedges' g −0.389）、專注力不足（−0.415）與過度活躍／衝動（−0.366），專注力改善的效應最大，敏感度分析亦最一致。亞組分析未發現介入種類、療程長短與每週頻次之間有統計顯著差異。研究由中國國家社會科學基金資助（24BTY045），作者申報無利益衝突。",
+      "summary_en": "Behavioral Sciences published a systematic review and meta-analysis of cognitive behavioral interventions for core ADHD symptom dimensions in children and adolescents. Searching PubMed, Web of Science, Embase and CENTRAL to 30 June 2026, the review included 10 randomised controlled trials with 849 participants, covering structured CBT, executive function training, organizational skills training, self-management and mindfulness/third-wave interventions. Cognitive behavioral interventions reduced overall ADHD symptoms (Hedges' g -0.389), inattention (-0.415) and hyperactivity/impulsivity (-0.366); inattention showed the numerically largest effect and the most consistent findings in sensitivity analyses. No statistically significant differences were found between subgroups by intervention type, duration or weekly frequency. Funded by the National Social Science Fund of China (24BTY045); authors declared no conflicts of interest.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "ADHD",
+        "認知行為治療",
+        "統合分析",
+        "專注力",
+        "兒童青少年"
+      ],
+      "first_seen_at": "2026-11-11T13:33:22+00:00",
+      "evidence_level": 4,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-02T00:00:00+00:00"
+    },
+    {
+      "slug": "pediatric-anxiety-cbt-fluoxetine-smart-trial-24-weeks",
+      "title_zh": "研究：兒少焦慮 CBT 與百憂解 24 週比較，兩種起點改善相近（316 人 SMART 試驗）",
+      "title_en": "Pediatric anxiety CBT fluoxetine SMART trial 24 weeks",
+      "summary_zh": "《American Journal of Psychiatry》2026 年刊出的務實型 SMART 隨機試驗，納入 316 名 8 至 17 歲嚴重焦慮兒少，在美國社區小兒科與心理健康診所比較兩種起點：先用暴露為核心的認知行為治療，或先用百憂解（fluoxetine）。24 週後，兒少自評焦慮（SCARED）整體下降 31.7%。先用 CBT 與先用藥物在主要結果上無顯著差異（24 週組間變化差異 1.45 分，95% 信賴區間 -2.25 至 5.16）；第 12 週未緩解者中，合併治療亦未在主要結果上優於持續優化單一治療。先用 CBT、12 週後未緩解再加入藥物的順序，在多項次要指標上改善最大，但主要結果差異未達顯著。",
+      "summary_en": "A pragmatic SMART randomized trial (American Journal of Psychiatry, 2026) enrolled 316 youths aged 8-17 with severe anxiety in US community paediatric and mental health clinics, comparing two starting points: exposure-based CBT first or fluoxetine first. Over 24 weeks, youth-reported anxiety (SCARED) fell 31.7% overall. Initial CBT versus fluoxetine did not differ significantly on the primary outcome (24-week difference in mean group change 1.45, 95% CI -2.25 to 5.16). Among week-12 nonremitters, combination treatment was not superior to optimized monotherapy on the primary outcome. Starting with CBT and adding fluoxetine after week 12 produced the greatest improvement across most secondary measures, but not significantly on the primary youth-reported outcome.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒少焦慮",
+        "CBT",
+        "百憂解",
+        "SMART試驗",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-04T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童",
+        "青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-04T00:00:00+00:00"
+    }
+  ],
+  "evidence_quote": "identifies transdiagnostic biotypes",
+  "page_date": "16 October 2026",
+  "date": "2026-10-16T00:00:00+00:00"
 }

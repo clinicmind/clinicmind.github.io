@@ -1,1 +1,183 @@
-{"title_zh": "商用心理健康聊天機器人統合分析：對憂鬱有小幅效果，但未達臨床意義門檻", "title_en": "Commercial mental health chatbots meta-analysis", "summary_zh": "Psychotherapy and Psychosomatics 的系統性回顧與統合分析涵蓋 52 篇研究、13 款商用聊天機器人。憂鬱改善約等於 PHQ-9 1.6 分，低於 5 分的臨床意義門檻；焦慮效果不確定。22 篇 RCT 中只有 3 篇有主動的傷害監測，作者建議只作為心理治療的低強度輔助並搭配強制安全流程。", "summary_en": "A systematic review and meta-analysis in Psychotherapy and Psychosomatics covered 52 studies of 13 commercial chatbots. Depression improved by about 1.6 PHQ-9 points, below the 5-point clinically meaningful threshold; anxiety effects were uncertain. Only 3 of 22 RCTs had active harm monitoring, and the authors recommend positioning these tools as low-intensity adjuncts with mandatory safety protocols.", "category": "臨床與治療應用", "kind": "research", "evidence_level": 4, "evidence_note": "系統性回顧與統合分析，含 22 篇 RCT；安全結論受限於多數試驗未主動監測傷害。", "ethics_flags": [{"flag": "危機處理", "note": "22 篇 RCT 中僅 3 篇符合主動傷害監測標準，「通報傷害少」不能等同於安全。", "refs": ["危機處理｜自殺與自傷風險"]}, {"flag": "專業責任歸屬", "note": "作者建議作為心理治療的輔助而非獨立介入，治療者仍需負責整體治療計畫。", "refs": ["專業責任歸屬｜人機協作的責任"]}], "psych_concepts": [{"name": "數位落差與可及性", "note": "低強度輔助的定位與可及性有關，但完成率隨規模下降，實際觸及效果需審慎評估。", "ref": "概念｜數位落差與可及性"}], "caution": "平均效果低於臨床意義門檻，且多數試驗沒有主動監測傷害，不宜當成獨立治療推薦。", "verify_needed": false, "verify_reason": "", "brief_zh": ["52 篇研究（22 篇 RCT）、13 款商用聊天機器人", "憂鬱效果量 −0.35，約 PHQ-9 1.6 分，NNT 約 6.6", "焦慮信賴區間跨 0；孤獨感小幅下降", "完成率 79.5%，規模愈大愈低；安全監測普遍不足"], "brief_en": ["52 studies (22 RCTs), 13 commercial chatbots", "Depression effect −0.35 (~1.6 PHQ-9 points), NNT ~6.6", "Anxiety CI crosses zero; small loneliness reduction", "Completion 79.5%, lower in larger studies; harm monitoring rare"], "model_names": [], "tags": ["統合分析", "商用聊天機器人", "低強度介入", "安全監測", "憂鬱"], "population": ["成人", "一般大眾"], "supervision_questions": ["若個案想在療程之間使用商用聊天機器人，我們要如何設定期待與安全計畫？", "統計顯著但未達臨床意義門檻的效果，該如何向個案或機構說明？", "我們如何得知個案使用聊天機器人時是否出現不良反應？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://karger.com/pps/article-abstract/doi/10.1159/000552072/948904/Commercial-AI-Based-Mental-Health-Chatbots-as-Low?redirectedFrom=fulltext", "author_handle": "", "author_name": "Hongyi Yang et al.（Psychotherapy and Psychosomatics）", "title": "Commercial AI-Based Mental Health Chatbots as Low-Intensity Adjuncts to Psychotherapy: Effectiveness, Adherence, and Safety – A Systematic Review and Meta-Analysis", "content": "針對 13 款商用心理健康聊天機器人的系統性回顧與統合分析，檢視療效、完成率與安全監測。作者建議只把它們定位為低強度輔助工具。", "posted_at": "2026-05-11T00:00:00+00:00"}], "first_seen_at": "2026-09-30T13:03:54+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "commercial-mental-health-chatbots-meta-analysis", "featured_at": null, "hot_score": 1.518, "tier": "live", "deadline_soon": false, "related": [{"slug": "chatbot-meta-analysis-for-depression-and-anxiety", "title_zh": "統合分析：聊天機器人對憂鬱、焦慮症狀有小到中等效果，臨床族群最明顯", "title_en": "Chatbot meta-analysis for depression and anxiety", "summary_zh": "npj Digital Medicine 刊出的系統性回顧與統合分析納入 39 篇 RCT，聊天機器人對憂鬱（g=0.31）與焦慮（g=0.28）症狀有小到中等的改善。臨床族群效果（g=0.64）明顯大於非臨床族群（g=0.07）；生成式與檢索式聊天機器人之間未見顯著差異，但生成式研究數量少、檢定力可能不足。", "summary_en": "A systematic review and meta-analysis of 39 RCTs in npj Digital Medicine found small-to-moderate effects of chatbots on depressive (g=0.31) and anxiety (g=0.28) symptoms. Effects were larger in clinical samples (g=0.64) than nonclinical ones (g=0.07); no significant difference was found between generative and retrieval-based chatbots, though generative studies were few.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["統合分析", "聊天機器人", "憂鬱", "焦慮", "生成式AI"], "first_seen_at": "2026-09-30T13:03:54+00:00", "evidence_level": 4, "population": ["成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.518, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-03-25T00:00:00+00:00"}, {"slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho", "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護", "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day", "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。", "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["WHO", "去機構化", "社區照護", "世界心理健康日", "政策"], "first_seen_at": "2026-10-13T02:38:45+00:00", "evidence_level": 3, "population": ["成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.707, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-09T00:00:00+00:00"}, {"slug": "macao-csj-hospital-talk-on-psychiatric-medication-side-effec", "title_zh": "澳門仁伯爵醫院 10/14 精神科衛教講座：口服藥副作用與處理", "title_en": "Macao CSJ Hospital talk on psychiatric medication side effects", "summary_zh": "澳門衛生局公布仁伯爵綜合醫院 10 月份專科衛教講座，其中精神科講座「認識精神科口服藥常見的副作用及處理」於 10 月 14 日下午 2 時 30 分至 3 時 30 分，在門診大樓地下層精神科候診區舉行，由專科護士或資深護士主講，毋須預約。對心理治療師而言，可作為轉介或陪同服藥個案與家屬了解藥物副作用的社區資源。", "summary_en": "Macao's Health Bureau lists a free, walk-in talk at Conde S. Januário Hospital on 14 Oct 2026 (2:30–3:30 pm, psychiatry waiting area) on common side effects of oral psychiatric medication and how to manage them, given by specialist or senior nurses.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["澳門", "精神科藥物", "服藥依從", "衛教講座", "免費講座"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.477, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-09-24T00:00:00+00:00"}]}
+{
+  "title_zh": "商用心理健康聊天機器人統合分析：對憂鬱有小幅效果，但未達臨床意義門檻",
+  "title_en": "Commercial mental health chatbots meta-analysis",
+  "summary_zh": "Psychotherapy and Psychosomatics 的系統性回顧與統合分析涵蓋 52 篇研究、13 款商用聊天機器人。憂鬱改善約等於 PHQ-9 1.6 分，低於 5 分的臨床意義門檻；焦慮效果不確定。22 篇 RCT 中只有 3 篇有主動的傷害監測，作者建議只作為心理治療的低強度輔助並搭配強制安全流程。",
+  "summary_en": "A systematic review and meta-analysis in Psychotherapy and Psychosomatics covered 52 studies of 13 commercial chatbots. Depression improved by about 1.6 PHQ-9 points, below the 5-point clinically meaningful threshold; anxiety effects were uncertain. Only 3 of 22 RCTs had active harm monitoring, and the authors recommend positioning these tools as low-intensity adjuncts with mandatory safety protocols.",
+  "category": "臨床與治療應用",
+  "kind": "research",
+  "evidence_level": 4,
+  "evidence_note": "系統性回顧與統合分析，含 22 篇 RCT；安全結論受限於多數試驗未主動監測傷害。",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "22 篇 RCT 中僅 3 篇符合主動傷害監測標準，「通報傷害少」不能等同於安全。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    },
+    {
+      "flag": "專業責任歸屬",
+      "note": "作者建議作為心理治療的輔助而非獨立介入，治療者仍需負責整體治療計畫。",
+      "refs": [
+        "專業責任歸屬｜人機協作的責任"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "數位落差與可及性",
+      "note": "低強度輔助的定位與可及性有關，但完成率隨規模下降，實際觸及效果需審慎評估。",
+      "ref": "概念｜數位落差與可及性"
+    }
+  ],
+  "caution": "平均效果低於臨床意義門檻，且多數試驗沒有主動監測傷害，不宜當成獨立治療推薦。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "52 篇研究（22 篇 RCT）、13 款商用聊天機器人",
+    "憂鬱效果量 −0.35，約 PHQ-9 1.6 分，NNT 約 6.6",
+    "焦慮信賴區間跨 0；孤獨感小幅下降",
+    "完成率 79.5%，規模愈大愈低；安全監測普遍不足"
+  ],
+  "brief_en": [
+    "52 studies (22 RCTs), 13 commercial chatbots",
+    "Depression effect −0.35 (~1.6 PHQ-9 points), NNT ~6.6",
+    "Anxiety CI crosses zero; small loneliness reduction",
+    "Completion 79.5%, lower in larger studies; harm monitoring rare"
+  ],
+  "model_names": [],
+  "tags": [
+    "統合分析",
+    "商用聊天機器人",
+    "低強度介入",
+    "安全監測",
+    "憂鬱"
+  ],
+  "population": [
+    "成人",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "若個案想在療程之間使用商用聊天機器人，我們要如何設定期待與安全計畫？",
+    "統計顯著但未達臨床意義門檻的效果，該如何向個案或機構說明？",
+    "我們如何得知個案使用聊天機器人時是否出現不良反應？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://karger.com/pps/article-abstract/doi/10.1159/000552072/948904/Commercial-AI-Based-Mental-Health-Chatbots-as-Low?redirectedFrom=fulltext",
+      "author_handle": "",
+      "author_name": "Hongyi Yang et al.（Psychotherapy and Psychosomatics）",
+      "title": "Commercial AI-Based Mental Health Chatbots as Low-Intensity Adjuncts to Psychotherapy: Effectiveness, Adherence, and Safety – A Systematic Review and Meta-Analysis",
+      "content": "針對 13 款商用心理健康聊天機器人的系統性回顧與統合分析，檢視療效、完成率與安全監測。作者建議只把它們定位為低強度輔助工具。",
+      "posted_at": "2026-05-11T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "commercial-mental-health-chatbots-meta-analysis",
+  "featured_at": null,
+  "hot_score": 1.518,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "chatbot-meta-analysis-for-depression-and-anxiety",
+      "title_zh": "統合分析：聊天機器人對憂鬱、焦慮症狀有小到中等效果，臨床族群最明顯",
+      "title_en": "Chatbot meta-analysis for depression and anxiety",
+      "summary_zh": "npj Digital Medicine 刊出的系統性回顧與統合分析納入 39 篇 RCT，聊天機器人對憂鬱（g=0.31）與焦慮（g=0.28）症狀有小到中等的改善。臨床族群效果（g=0.64）明顯大於非臨床族群（g=0.07）；生成式與檢索式聊天機器人之間未見顯著差異，但生成式研究數量少、檢定力可能不足。",
+      "summary_en": "A systematic review and meta-analysis of 39 RCTs in npj Digital Medicine found small-to-moderate effects of chatbots on depressive (g=0.31) and anxiety (g=0.28) symptoms. Effects were larger in clinical samples (g=0.64) than nonclinical ones (g=0.07); no significant difference was found between generative and retrieval-based chatbots, though generative studies were few.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "統合分析",
+        "聊天機器人",
+        "憂鬱",
+        "焦慮",
+        "生成式AI"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 4,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.518,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-03-25T00:00:00+00:00"
+    },
+    {
+      "slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho",
+      "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護",
+      "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day",
+      "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。",
+      "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "WHO",
+        "去機構化",
+        "社區照護",
+        "世界心理健康日",
+        "政策"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.707,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-09T00:00:00+00:00"
+    },
+    {
+      "slug": "macao-csj-hospital-talk-on-psychiatric-medication-side-effec",
+      "title_zh": "澳門仁伯爵醫院 10/14 精神科衛教講座：口服藥副作用與處理",
+      "title_en": "Macao CSJ Hospital talk on psychiatric medication side effects",
+      "summary_zh": "澳門衛生局公布仁伯爵綜合醫院 10 月份專科衛教講座，其中精神科講座「認識精神科口服藥常見的副作用及處理」於 10 月 14 日下午 2 時 30 分至 3 時 30 分，在門診大樓地下層精神科候診區舉行，由專科護士或資深護士主講，毋須預約。對心理治療師而言，可作為轉介或陪同服藥個案與家屬了解藥物副作用的社區資源。",
+      "summary_en": "Macao's Health Bureau lists a free, walk-in talk at Conde S. Januário Hospital on 14 Oct 2026 (2:30–3:30 pm, psychiatry waiting area) on common side effects of oral psychiatric medication and how to manage them, given by specialist or senior nurses.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "精神科藥物",
+        "服藥依從",
+        "衛教講座",
+        "免費講座"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.477,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-09-24T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-05-11T00:00:00+00:00"
+}

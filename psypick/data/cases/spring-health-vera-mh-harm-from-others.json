@@ -1,1 +1,166 @@
-{"title_zh": "Spring Health 擴充 VERA-MH 安全基準：新增「來自他人的傷害」評估", "title_en": "spring-health-vera-mh-harm-from-others", "summary_zh": "Spring Health 於 2026 年 9 月 25 日宣布，將開源 AI 心理健康安全基準 VERA-MH 擴充至「來自他人的傷害」領域，評估 AI 系統在成人表示有遭受身體或性暴力風險時的回應能否辨識風險、轉介真人照護並守住 AI 界線。該評分標準與臨床醫師、親密暴力專家及具親身經驗者共同開發，並開放 60 天公眾評論。", "summary_en": "Spring Health extended its open-source VERA-MH safety benchmark to 'harm from others', testing whether AI recognises violence risk, refers to human care and keeps AI boundaries; 60-day public comment. Press release.", "category": "倫理與風險", "kind": "practice", "evidence_level": 1, "evidence_note": "廠商通稿，未見獨立驗證", "ethics_flags": [{"flag": "危機處理", "note": "評估 AI 面對人身安全風險時能否辨識並轉介真人。", "refs": ["危機處理｜自殺與自傷風險"]}], "psych_concepts": [], "caution": "為廠商發布的基準，評分方法的效度尚未經獨立研究驗證。", "verify_needed": true, "verify_reason": "轉載頁僅顯示通稿前段；100 personas、60 天公評等細節依搜尋摘要，未在原頁全文確認", "brief_zh": ["VERA-MH 為首個開源 AI 心理健康安全基準，此次新增「來自他人的傷害」領域", "評估 AI 在成人通報遭受身體或性暴力風險時的回應", "與臨床醫師、親密暴力專家及具親身經驗者共同開發", "開放公眾評論 60 天"], "brief_en": [], "model_names": ["VERA-MH"], "tags": ["AI 安全基準", "家庭暴力", "倫理", "開源"], "population": ["成人", "臨床工作者"], "supervision_questions": ["若個案告訴 AI 工具自己遭受暴力，臨床機構應預先設定什麼轉介流程？", "在選用 AI 工具時，如何要求廠商提供安全評測結果？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.highcountrync.com/online_features/press_releases/spring-health-opens-vera-mh-harm-from-others-safety-rubric-for-public-comment/article_2a37a1b1-b16b-5092-95ee-8f4972b3e2e8.html", "author_handle": "", "author_name": "Spring Health（PRNewswire 通稿轉載）", "title": "Spring Health Opens VERA-MH Harm-From-Others Safety Rubric for Public Comment", "content": "Spring Health 將開源 AI 心理健康安全基準 VERA-MH 擴充至第二個臨床安全領域「來自他人的傷害」，評估 AI 在成人通報遭受身體或性暴力風險時的回應，並開放公眾評論 60 天。", "posted_at": "2026-09-25T00:00:00+00:00"}], "first_seen_at": "2026-10-03T01:09:46+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "spring-health-vera-mh-harm-from-others", "featured_at": null, "hot_score": 0.859, "tier": "live", "deadline_soon": false, "related": [{"slug": "california-sb903-ai-therapy-guardrails", "title_zh": "加州 SB 903：AI 不得執行心理治療，須由持照人員審核", "title_en": "california-sb903-ai-therapy-guardrails", "summary_zh": "加州 SB 903 法案已通過參眾兩院、待州長簽署，規定 AI 在心理治療中僅能擔任行政與輔助角色，不得執行治療；涉及診斷、治療計畫、情緒狀態偵測、分流或與個案互動的 AI 輸出，須經持照專業人員審核批准，並禁止將聊天機器人宣傳為治療師、錄音或轉錄前須取得個案同意。", "summary_en": "California SB 903 passed both chambers (awaiting the governor's signature as of 23 Sept): AI limited to administrative support, licensed review of AI output touching diagnosis or treatment, no marketing chatbots as therapists, consent before recording or transcription. Secondary source.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["AI 倫理", "法規", "心理治療", "臨床實務"], "first_seen_at": "2026-10-03T01:09:46+00:00", "evidence_level": 0, "population": ["臨床工作者", "成人"], "hero_media": null, "verify_needed": true, "hot_score": 0.859, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-23T00:00:00+00:00"}, {"slug": "rcpsych-statement-on-non-recent-child-sexual-abuse", "title_zh": "英國皇家精神科醫學院立場聲明：童年性侵對成人心理健康的影響", "title_en": "RCPsych statement on non-recent child sexual abuse", "summary_zh": "英國皇家精神科醫學院發表立場聲明《Addressing the impact of non-recent child sexual abuse on the mental health of adults》（PS04/26），由 Dr Jo Stubley 與 Dr Maria Podlejska-Eyres 共同主持、倖存者、臨床人員與研究者共同制定。聲明指出專業人員處理揭露的訓練不足、缺乏創傷知情照護導致再創傷、過度依賴診斷，並在臨床、教育、委託服務、研究與政策提出建議。", "summary_en": "Tavistock highlights RCPsych position statement PS04/26 on the impact of non-recent child sexual abuse on adult mental health, co-chaired by Tavistock trauma lead Dr Jo Stubley, calling for disclosure-informed, trauma-sensitive care.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["兒童心理", "創傷", "童年性侵", "創傷知情照護", "指引", "Tavistock"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-26T00:00:00+00:00"}, {"slug": "hong-kong-2026-policy-address-mental-health-measures", "title_zh": "香港 2026 施政報告：11 項精神健康措施（第 313 段）", "title_en": "Hong Kong 2026 Policy Address mental health measures", "summary_zh": "香港行政長官 2026 年 9 月 16 日在立法會發表的施政報告，於第七章「深化醫療衞生體系改革」第 313 段列出 11 項精神健康措施，涵蓋小四至小六以學校為本的三層應急機制、網上青年支援隊、北都新增精神健康綜合社區中心、「健康心靈先導計劃」擴展、「精神健康分層護理模式」框架，以及家長與職場精神健康。對在港工作的臨床心理學家與輔導人員來說，這些措施會影響轉介路徑與跨專業合作的位置。", "summary_en": "Paragraph 313 of Hong Kong's 2026 Policy Address (delivered 16 September 2026) lists 11 mental health measures, from the school-based three-tier emergency mechanism for P4–P6 and the online youth support team to extending the Healthy Mind Pilot Scheme and adopting the tiered mental health care model framework, plus parent and workplace mental health.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["香港", "精神健康政策", "施政報告", "學校心理健康", "分層照護"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-16T00:00:00+00:00"}]}
+{
+  "title_zh": "Spring Health 擴充 VERA-MH 安全基準：新增「來自他人的傷害」評估",
+  "title_en": "spring-health-vera-mh-harm-from-others",
+  "summary_zh": "Spring Health 於 2026 年 9 月 25 日宣布，將開源 AI 心理健康安全基準 VERA-MH 擴充至「來自他人的傷害」領域，評估 AI 系統在成人表示有遭受身體或性暴力風險時的回應能否辨識風險、轉介真人照護並守住 AI 界線。該評分標準與臨床醫師、親密暴力專家及具親身經驗者共同開發，並開放 60 天公眾評論。",
+  "summary_en": "Spring Health extended its open-source VERA-MH safety benchmark to 'harm from others', testing whether AI recognises violence risk, refers to human care and keeps AI boundaries; 60-day public comment. Press release.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 1,
+  "evidence_note": "廠商通稿，未見獨立驗證",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "評估 AI 面對人身安全風險時能否辨識並轉介真人。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "為廠商發布的基準，評分方法的效度尚未經獨立研究驗證。",
+  "verify_needed": true,
+  "verify_reason": "轉載頁僅顯示通稿前段；100 personas、60 天公評等細節依搜尋摘要，未在原頁全文確認",
+  "brief_zh": [
+    "VERA-MH 為首個開源 AI 心理健康安全基準，此次新增「來自他人的傷害」領域",
+    "評估 AI 在成人通報遭受身體或性暴力風險時的回應",
+    "與臨床醫師、親密暴力專家及具親身經驗者共同開發",
+    "開放公眾評論 60 天"
+  ],
+  "brief_en": [],
+  "model_names": [
+    "VERA-MH"
+  ],
+  "tags": [
+    "AI 安全基準",
+    "家庭暴力",
+    "倫理",
+    "開源"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "若個案告訴 AI 工具自己遭受暴力，臨床機構應預先設定什麼轉介流程？",
+    "在選用 AI 工具時，如何要求廠商提供安全評測結果？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.highcountrync.com/online_features/press_releases/spring-health-opens-vera-mh-harm-from-others-safety-rubric-for-public-comment/article_2a37a1b1-b16b-5092-95ee-8f4972b3e2e8.html",
+      "author_handle": "",
+      "author_name": "Spring Health（PRNewswire 通稿轉載）",
+      "title": "Spring Health Opens VERA-MH Harm-From-Others Safety Rubric for Public Comment",
+      "content": "Spring Health 將開源 AI 心理健康安全基準 VERA-MH 擴充至第二個臨床安全領域「來自他人的傷害」，評估 AI 在成人通報遭受身體或性暴力風險時的回應，並開放公眾評論 60 天。",
+      "posted_at": "2026-09-25T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-03T01:09:46+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "spring-health-vera-mh-harm-from-others",
+  "featured_at": null,
+  "hot_score": 0.859,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "california-sb903-ai-therapy-guardrails",
+      "title_zh": "加州 SB 903：AI 不得執行心理治療，須由持照人員審核",
+      "title_en": "california-sb903-ai-therapy-guardrails",
+      "summary_zh": "加州 SB 903 法案已通過參眾兩院、待州長簽署，規定 AI 在心理治療中僅能擔任行政與輔助角色，不得執行治療；涉及診斷、治療計畫、情緒狀態偵測、分流或與個案互動的 AI 輸出，須經持照專業人員審核批准，並禁止將聊天機器人宣傳為治療師、錄音或轉錄前須取得個案同意。",
+      "summary_en": "California SB 903 passed both chambers (awaiting the governor's signature as of 23 Sept): AI limited to administrative support, licensed review of AI output touching diagnosis or treatment, no marketing chatbots as therapists, consent before recording or transcription. Secondary source.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "AI 倫理",
+        "法規",
+        "心理治療",
+        "臨床實務"
+      ],
+      "first_seen_at": "2026-10-03T01:09:46+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.859,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-23T00:00:00+00:00"
+    },
+    {
+      "slug": "rcpsych-statement-on-non-recent-child-sexual-abuse",
+      "title_zh": "英國皇家精神科醫學院立場聲明：童年性侵對成人心理健康的影響",
+      "title_en": "RCPsych statement on non-recent child sexual abuse",
+      "summary_zh": "英國皇家精神科醫學院發表立場聲明《Addressing the impact of non-recent child sexual abuse on the mental health of adults》（PS04/26），由 Dr Jo Stubley 與 Dr Maria Podlejska-Eyres 共同主持、倖存者、臨床人員與研究者共同制定。聲明指出專業人員處理揭露的訓練不足、缺乏創傷知情照護導致再創傷、過度依賴診斷，並在臨床、教育、委託服務、研究與政策提出建議。",
+      "summary_en": "Tavistock highlights RCPsych position statement PS04/26 on the impact of non-recent child sexual abuse on adult mental health, co-chaired by Tavistock trauma lead Dr Jo Stubley, calling for disclosure-informed, trauma-sensitive care.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "創傷",
+        "童年性侵",
+        "創傷知情照護",
+        "指引",
+        "Tavistock"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-26T00:00:00+00:00"
+    },
+    {
+      "slug": "hong-kong-2026-policy-address-mental-health-measures",
+      "title_zh": "香港 2026 施政報告：11 項精神健康措施（第 313 段）",
+      "title_en": "Hong Kong 2026 Policy Address mental health measures",
+      "summary_zh": "香港行政長官 2026 年 9 月 16 日在立法會發表的施政報告，於第七章「深化醫療衞生體系改革」第 313 段列出 11 項精神健康措施，涵蓋小四至小六以學校為本的三層應急機制、網上青年支援隊、北都新增精神健康綜合社區中心、「健康心靈先導計劃」擴展、「精神健康分層護理模式」框架，以及家長與職場精神健康。對在港工作的臨床心理學家與輔導人員來說，這些措施會影響轉介路徑與跨專業合作的位置。",
+      "summary_en": "Paragraph 313 of Hong Kong's 2026 Policy Address (delivered 16 September 2026) lists 11 mental health measures, from the school-based three-tier emergency mechanism for P4–P6 and the online youth support team to extending the Healthy Mind Pilot Scheme and adopting the tiered mental health care model framework, plus parent and workplace mental health.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "香港",
+        "精神健康政策",
+        "施政報告",
+        "學校心理健康",
+        "分層照護"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-16T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-25T00:00:00+00:00"
+}

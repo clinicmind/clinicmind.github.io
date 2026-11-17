@@ -1,1 +1,170 @@
-{"title_zh": "英格蘭八年級學生四分之一可能有心理健康問題：Anna Freud 全國世代研究第一年發現", "title_en": "One in four Year 8s in England likely to have a mental health condition (Anna Freud nation", "summary_zh": "Anna Freud 發布《Growing Up in the 2020s》全國世代研究第一年發現：英格蘭八年級學生約 25% 有可能存在心理健康問題，且性別、家庭經濟與特殊教育需要等不平等已於中學初期貫穿學生的家庭、學校與社交生活。研究團隊與教育部官員均強調預防與早期支援的必要。", "summary_en": "Anna Freud's national cohort 'Growing Up in the 2020s' (year 1, published 1 Oct 2026): about 25% of Year 8 students in England likely have a mental health condition, with gaps by gender, income and SEN.", "category": "研究與證據", "kind": "research", "evidence_level": 2, "evidence_note": "全國代表性世代研究（觀察性）", "ethics_flags": [{"flag": "偏誤與公平", "note": "報告指出性別、經濟與 SEN 的差距。", "refs": ["偏誤與公平｜演算法偏誤"]}], "psych_concepts": [], "caution": "估計為「可能存在」的篩檢結果，並非臨床診斷，且為英格蘭數據。", "verify_needed": false, "verify_reason": "", "brief_zh": ["2026 年 10 月 1 日發布，Anna Freud 主導、英國教育部（DfE）委託，追蹤近 8,000 名英格蘭公立中學學生的全國代表性世代研究《Growing Up in the 2020s》第一年發現", "八年級學生約 25% 有可能存在心理健康問題；女生（28%）高於男生（23%），免費用餐資格學生（36%）高於非資格學生（20%）", "特殊教育需要（SEN）學生與免費用餐學生在校歸屬感、課外活動參與、霸凌經驗與身心健康均顯著較差", "研究指出多數青少年仍自述良好人際與生活滿意度，71% 認為自己有韌性；結論強調預防與早期支援的重要性"], "brief_en": [], "model_names": [], "tags": ["兒童心理", "青少年心理健康", "世代研究", "健康不平等"], "population": ["兒童青少年", "臨床工作者", "一般大眾"], "supervision_questions": ["特殊教育需要學生歸屬感與霸凌經驗較差的結果，對學校輔導服務有什麼提示？", "港澳的青少年心理健康調查可以參考哪些指標？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.annafreud.org/news/1-in-4-year-8s-in-england-likely-to-have-a-mental-health-condition/", "author_handle": "", "author_name": "Anna Freud（Study Director: Prof. Jess Deighton）", "title": "One in four Year 8s in England likely to have a mental health condition, according to national study", "content": "Anna Freud 主導的英國全國世代研究《Growing Up in the 2020s》第一年發現：英格蘭八年級學生約四分之一可能有心理健康問題，不平等早已貫穿家庭、學校與生活各層面。", "posted_at": "2026-10-01T00:00:00+00:00"}], "first_seen_at": "2026-10-03T01:09:46+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "one-in-four-year-8s-in-england-likely-to-have-a-mental-healt", "featured_at": null, "hot_score": 1.289, "tier": "live", "deadline_soon": false, "related": [{"slug": "only-13-of-uk-parents-feel-they-have-enough-support-for-chil", "title_zh": "英國民調：只有 13% 家長覺得孩子心理健康有足夠支援", "title_en": "Only 13% of UK parents feel they have enough support for child wellbeing", "summary_zh": "Anna Freud 委託 Opinium 於 2026 年 7 月 21–28 日網上訪問 1,120 名有 18 歲以下子女的英國家長。只有 13% 認為自己得到足夠支援；63% 擔心社交媒體影響、61% 擔心孩子焦慮或壓力、67% 認為學校壓力影響身心。家長最想要的是處理壓力、焦慮與情緒低落的指引（31%）和更多校內心理支援（30%）。", "summary_en": "An Opinium poll of 1,120 UK parents for Anna Freud found only 13% feel they have enough support for their child's mental health. Concerns centred on social media (63%), anxiety or stress (61%) and school pressure (67%).", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["兒童心理", "家長", "民調", "英國", "社交媒體", "Anna Freud"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-21T00:00:00+00:00"}, {"slug": "hkumed-prenatal-paracetamol-not-linked-to-autism-or-adhd", "title_zh": "港大：孕期服撲熱息痛不增加子女自閉症或 ADHD 風險（70 萬對母子、兄弟姊妹配對）", "title_en": "HKUMed prenatal paracetamol not linked to autism or ADHD", "summary_zh": "港大醫學院團隊分析香港 2000–2023 年 708,020 對母子的電子病歷，以兄弟姊妹配對設計控制家族遺傳與環境因素，發現孕期使用撲熱息痛與子女自閉症譜系障礙或 ADHD 風險無關，且不同劑量、孕期與使用模式結果一致。研究刊於《JAMA Internal Medicine》，回應了美國政府早前的相關說法。", "summary_en": "Using Hong Kong records of 708,020 mother–child pairs (2000–2023) and a sibling-matched design, HKUMed found no association between prenatal paracetamol exposure and ASD or ADHD, consistent across dose, trimester and pattern of use (JAMA Internal Medicine).", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["兒童心理", "特殊教育需要", "自閉症", "ADHD", "香港", "流行病學", "家長心理教育"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["兒童青少年", "一般大眾", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-07-02T00:00:00+00:00"}, {"slug": "taiwan-mental-health-alliance-s-three-level-fix-for-inequali", "title_zh": "世界心理健康日前夕，台灣心理健康聯盟提「不平等」三層解方", "title_en": "Taiwan Mental Health Alliance's three-level fix for inequality", "summary_zh": "公視報導，台灣心理健康聯盟在 10/10 世界心理健康日前夕，提出解決心理健康不平等的三層解方：上游從經濟安全、平等包容消除歧視與汙名，中游以系統與政策提供可近資源，下游讓個人有穩定身心健康與歸屬感。國衛院副院長陳為堅提醒，不處理上游風險因子，只靠末端用藥會持續產生問題；衛福部心理健康司司長陳柏熹表示，將規劃把癌友納入免費心理諮詢補助，近期上路。", "summary_en": "Ahead of World Mental Health Day, the Taiwan Mental Health Alliance proposed upstream (economic security, anti-stigma), midstream (accessible services and policy) and downstream (individual wellbeing and belonging) solutions to mental health inequality. The Ministry said cancer patients will soon be included in its free counselling subsidy.", "category": "研究與證據", "kind": "practice", "model_names": [], "tags": ["台灣", "心理健康政策", "世界心理健康日", "健康不平等", "心理諮詢補助"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["成人", "一般大眾", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.477, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-02T00:00:00+00:00"}]}
+{
+  "title_zh": "英格蘭八年級學生四分之一可能有心理健康問題：Anna Freud 全國世代研究第一年發現",
+  "title_en": "One in four Year 8s in England likely to have a mental health condition (Anna Freud nation",
+  "summary_zh": "Anna Freud 發布《Growing Up in the 2020s》全國世代研究第一年發現：英格蘭八年級學生約 25% 有可能存在心理健康問題，且性別、家庭經濟與特殊教育需要等不平等已於中學初期貫穿學生的家庭、學校與社交生活。研究團隊與教育部官員均強調預防與早期支援的必要。",
+  "summary_en": "Anna Freud's national cohort 'Growing Up in the 2020s' (year 1, published 1 Oct 2026): about 25% of Year 8 students in England likely have a mental health condition, with gaps by gender, income and SEN.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "全國代表性世代研究（觀察性）",
+  "ethics_flags": [
+    {
+      "flag": "偏誤與公平",
+      "note": "報告指出性別、經濟與 SEN 的差距。",
+      "refs": [
+        "偏誤與公平｜演算法偏誤"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "估計為「可能存在」的篩檢結果，並非臨床診斷，且為英格蘭數據。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "2026 年 10 月 1 日發布，Anna Freud 主導、英國教育部（DfE）委託，追蹤近 8,000 名英格蘭公立中學學生的全國代表性世代研究《Growing Up in the 2020s》第一年發現",
+    "八年級學生約 25% 有可能存在心理健康問題；女生（28%）高於男生（23%），免費用餐資格學生（36%）高於非資格學生（20%）",
+    "特殊教育需要（SEN）學生與免費用餐學生在校歸屬感、課外活動參與、霸凌經驗與身心健康均顯著較差",
+    "研究指出多數青少年仍自述良好人際與生活滿意度，71% 認為自己有韌性；結論強調預防與早期支援的重要性"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "兒童心理",
+    "青少年心理健康",
+    "世代研究",
+    "健康不平等"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "特殊教育需要學生歸屬感與霸凌經驗較差的結果，對學校輔導服務有什麼提示？",
+    "港澳的青少年心理健康調查可以參考哪些指標？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.annafreud.org/news/1-in-4-year-8s-in-england-likely-to-have-a-mental-health-condition/",
+      "author_handle": "",
+      "author_name": "Anna Freud（Study Director: Prof. Jess Deighton）",
+      "title": "One in four Year 8s in England likely to have a mental health condition, according to national study",
+      "content": "Anna Freud 主導的英國全國世代研究《Growing Up in the 2020s》第一年發現：英格蘭八年級學生約四分之一可能有心理健康問題，不平等早已貫穿家庭、學校與生活各層面。",
+      "posted_at": "2026-10-01T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-03T01:09:46+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "one-in-four-year-8s-in-england-likely-to-have-a-mental-healt",
+  "featured_at": null,
+  "hot_score": 1.289,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "only-13-of-uk-parents-feel-they-have-enough-support-for-chil",
+      "title_zh": "英國民調：只有 13% 家長覺得孩子心理健康有足夠支援",
+      "title_en": "Only 13% of UK parents feel they have enough support for child wellbeing",
+      "summary_zh": "Anna Freud 委託 Opinium 於 2026 年 7 月 21–28 日網上訪問 1,120 名有 18 歲以下子女的英國家長。只有 13% 認為自己得到足夠支援；63% 擔心社交媒體影響、61% 擔心孩子焦慮或壓力、67% 認為學校壓力影響身心。家長最想要的是處理壓力、焦慮與情緒低落的指引（31%）和更多校內心理支援（30%）。",
+      "summary_en": "An Opinium poll of 1,120 UK parents for Anna Freud found only 13% feel they have enough support for their child's mental health. Concerns centred on social media (63%), anxiety or stress (61%) and school pressure (67%).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "家長",
+        "民調",
+        "英國",
+        "社交媒體",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-21T00:00:00+00:00"
+    },
+    {
+      "slug": "hkumed-prenatal-paracetamol-not-linked-to-autism-or-adhd",
+      "title_zh": "港大：孕期服撲熱息痛不增加子女自閉症或 ADHD 風險（70 萬對母子、兄弟姊妹配對）",
+      "title_en": "HKUMed prenatal paracetamol not linked to autism or ADHD",
+      "summary_zh": "港大醫學院團隊分析香港 2000–2023 年 708,020 對母子的電子病歷，以兄弟姊妹配對設計控制家族遺傳與環境因素，發現孕期使用撲熱息痛與子女自閉症譜系障礙或 ADHD 風險無關，且不同劑量、孕期與使用模式結果一致。研究刊於《JAMA Internal Medicine》，回應了美國政府早前的相關說法。",
+      "summary_en": "Using Hong Kong records of 708,020 mother–child pairs (2000–2023) and a sibling-matched design, HKUMed found no association between prenatal paracetamol exposure and ASD or ADHD, consistent across dose, trimester and pattern of use (JAMA Internal Medicine).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "特殊教育需要",
+        "自閉症",
+        "ADHD",
+        "香港",
+        "流行病學",
+        "家長心理教育"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "一般大眾",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-07-02T00:00:00+00:00"
+    },
+    {
+      "slug": "taiwan-mental-health-alliance-s-three-level-fix-for-inequali",
+      "title_zh": "世界心理健康日前夕，台灣心理健康聯盟提「不平等」三層解方",
+      "title_en": "Taiwan Mental Health Alliance's three-level fix for inequality",
+      "summary_zh": "公視報導，台灣心理健康聯盟在 10/10 世界心理健康日前夕，提出解決心理健康不平等的三層解方：上游從經濟安全、平等包容消除歧視與汙名，中游以系統與政策提供可近資源，下游讓個人有穩定身心健康與歸屬感。國衛院副院長陳為堅提醒，不處理上游風險因子，只靠末端用藥會持續產生問題；衛福部心理健康司司長陳柏熹表示，將規劃把癌友納入免費心理諮詢補助，近期上路。",
+      "summary_en": "Ahead of World Mental Health Day, the Taiwan Mental Health Alliance proposed upstream (economic security, anti-stigma), midstream (accessible services and policy) and downstream (individual wellbeing and belonging) solutions to mental health inequality. The Ministry said cancer patients will soon be included in its free counselling subsidy.",
+      "category": "研究與證據",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "台灣",
+        "心理健康政策",
+        "世界心理健康日",
+        "健康不平等",
+        "心理諮詢補助"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "一般大眾",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.477,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-02T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-10-01T00:00:00+00:00"
+}

@@ -1,164 +1,165 @@
 {
- "title_zh": "研究：開放對話危機照顧未延遲復發，住院率 21% 對 44%（494 人群組隨機試驗）",
- "title_en": "Open Dialogue versus treatment as usual ODDESSI trial",
- "summary_zh": "Lancet Psychiatry 刊出 ODDESSI 試驗，是至今最大規模的開放對話（Open Dialogue）隨機評估。研究在英格蘭五間 NHS 精神健康機構，以基層診所群組隨機分配 494 名因危機求助的成人（開放對話組 271 人，常規治療組 223 人），追蹤兩年。主要結果顯示，兩組由危機康復後首次復發的時間無顯著差異（邊際風險比 0.95，95% 置信區間 0.67–1.32）。次要結果較有利於開放對話：精神科住院比率為 21%，常規治療組為 44%；再轉介危機照顧或二級精神健康服務的機率亦較低，自評康復、健康相關生活質素與服務滿意度較佳。嚴重不良事件共 386 宗，97% 與介入無關。研究由英國國家健康研究所資助。",
- "summary_en": "The Lancet Psychiatry published the ODDESSI trial, the largest randomised evaluation of Open Dialogue to date. Across five NHS mental health trusts in England, 494 adults presenting in crisis were allocated by GP-practice cluster to Open Dialogue (n=271) or treatment as usual (n=223) and followed for two years. The primary outcome showed no significant difference in time to first relapse after recovery from the index crisis (marginal hazard ratio 0.95, 95% CI 0.67-1.32). Secondary outcomes favoured Open Dialogue: psychiatric inpatient admission was 21% versus 44% with treatment as usual, re-referral to crisis or secondary mental health services was lower, and self-rated recovery, health-related quality of life and service satisfaction were better. There were 386 serious adverse events, 97% of them unrelated to the intervention. The trial was funded by the UK National Institute for Health Research.",
- "category": "研究與證據",
- "kind": "research",
- "evidence_level": 3,
- "evidence_note": "群組隨機對照試驗（Lancet Psychiatry 2026 年 10 月號，13 卷 841–851 頁；2026-08-26 線上刊出；DOI: 10.1016/S2215-0366(26)00229-4；經 LSHTM 機構典藏摘要核實；住院率 21% 對 44% 取自 National Elf Service 試驗摘要的原始數據）",
- "ethics_flags": [
-  {
-   "flag": "危機處理",
-   "note": "試驗對象為因精神健康危機求助的成人；開放對話減住院但未延遲復發，臨床向服務使用者介紹時，須分清「減少住院」與「預防復發」是兩個不同的結果。",
-   "refs": [
-    "危機處理｜自殺與自傷風險"
-   ]
-  }
- ],
- "psych_concepts": [],
- "caution": "主要結果無顯著差異，開放對話未能證實可延遲復發；試驗屬事後註冊；缺失數據達 20.9%，分析樣本少於目標（492 對 570），檢定力不足；同期 Lancet 評論指出試驗在方法與報告上有問題，解讀須謹慎；常規治療在各機構做法不一；結果只適用於英國 NHS 危機服務，未必適用於其他制度。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "設計：多中心、平行兩臂、群組隨機對照優效試驗；英格蘭五間 NHS 機構，30 個群組；群組按基層診所劃分，1:1 分配",
-  "樣本：2019 年 6 月 25 日至 2021 年 12 月 9 日招募 494 人（開放對話組 271 人，常規治療組 223 人）；平均 38.1 歲，54% 女性，69% 白人英國籍",
-  "主要結果：由危機康復後首次復發的時間，兩組無顯著差異；邊際風險比 0.95（95% CI 0.67–1.32）；24 個月後仍未復發者，開放對話組約 54%，常規治療組約 49%",
-  "次要結果：精神科住院比率，開放對話組 21%，常規治療組 44%（原始數據）；再轉介危機照顧或二級服務的機率較低；自評康復、健康相關生活質素、服務滿意度較佳；社交網絡質素與規模無差異",
-  "安全：嚴重不良事件 386 宗（常規治療組 281 宗，開放對話組 105 宗），97% 與介入無關",
-  "限制：試驗事後註冊（ISRCTN52653325）；缺失數據 20.9%，樣本少於目標 570 人；資助：英國國家健康研究所"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "開放對話",
-  "危機照顧",
-  "隨機試驗",
-  "住院",
-  "復發"
- ],
- "population": [
-  "成人",
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "危機個案問起「開放對話係咪可以減少住院」時，你會如何講主要結果同次要結果嘅分別，而又唔令人誤會佢可以預防復發？"
- ],
- "original_prompt": "",
- "training": null,
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://doi.org/10.1016/S2215-0366(26)00229-4",
-   "author_handle": "",
-   "author_name": "Pilling 等（UCL／NHS）",
-   "title": "Open Dialogue versus treatment as usual for adults presenting in crisis to mental health services in England (the ODDESSI Trial): a multisite cluster-randomised trial (Lancet Psychiatry; DOI: 10.1016/S2215-0366(26)00229-4)",
-   "content": "期刊論文：開放對話對照常規治療的群組隨機試驗，494 名危機求助成人，兩年追蹤。",
-   "posted_at": "2026-08-26T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-11-10T13:28:11+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "open-dialogue-versus-treatment-as-usual-oddessi-trial",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "taiwan-youth-psychiatric-crisis-wards-to-open-21-beds",
-   "title_zh": "台灣兒少心智病房延宕，年底先開北中部 21 床",
-   "title_en": "Taiwan youth psychiatric crisis wards to open 21 beds",
-   "summary_zh": "聯合報報導，衛福部規劃的兒少心智專責病房原訂 2025 年底在台大醫院、台中榮總完成建置，但因空間改建、消防安全及硬體設備問題延宕，目前仍未有病床啟用。心理健康司司長陳柏熹表示，預計今年底先啟用北部、中部共 21 床，南部其餘 9 床仍在採購；病房以 18 歲以下、家庭學校與一般門診已難處理的急迫危機個案為主要收治對象。",
-   "summary_en": "Taiwan's planned child and adolescent psychiatric crisis wards were delayed by renovation, fire-safety and equipment problems. The Department of Mental Health says 21 beds in the north and centre should open by end-2026, with 9 southern beds still in procurement.",
-   "category": "臨床與治療應用",
-   "kind": "practice",
-   "model_names": [],
-   "tags": [
-    "台灣",
-    "兒童心理",
-    "兒少精神醫療",
-    "政策",
-    "危機介入"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.953,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-03T00:00:00+00:00"
-  },
-  {
-   "slug": "digital-phenotyping-relapse-prediction-systematic-review",
-   "title_zh": "系統性回顧：手機被動感測可提前 1–4 週預測精神疾病復發，但尚無研究證明改善結果",
-   "title_en": "Digital phenotyping relapse prediction systematic review",
-   "summary_zh": "BMC Psychiatry 的系統性回顧納入 52 篇、4,814 名參與者的研究，被動數位表型對 1–4 週後復發的預測 AUC 介於 0.70–0.88，多模態優於單一模態，個人化模型優於群體模型。睡眠改變、活動量與移動範圍下降、社交聯絡減少最具預測力；但 75% 研究偏誤風險高，多缺外部驗證，且沒有任何研究證明能改善臨床結果。",
-   "summary_en": "A BMC Psychiatry systematic review of 52 studies (4,814 participants) found passive digital phenotyping predicted relapse 1–4 weeks ahead with AUCs of 0.70–0.88; multimodal and individual-level models performed better. Sleep changes, reduced activity and mobility, and less social communication were most predictive, but 75% of studies had high risk of bias, few had external validation, and none showed improved clinical outcomes.",
-   "category": "評估與篩檢",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
-    "數位表型",
-    "被動感測",
-    "復發預測",
-    "穿戴裝置",
-    "系統性回顧"
-   ],
-   "first_seen_at": "2026-09-30T13:03:54+00:00",
-   "evidence_level": 4,
-   "population": [
-    "成人"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 1.518,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-05-09T00:00:00+00:00"
-  },
-  {
-   "slug": "modified-psychodynamic-psychotherapy-schizophrenia-spectrum",
-   "title_zh": "RCT：改良心理動力治療加常規治療，可改善思覺失調症譜系患者的心理社會功能（130 人）",
-   "title_en": "Modified psychodynamic psychotherapy schizophrenia spectrum RCT psychosocial functioning",
-   "summary_zh": "柏林 Charité 單中心隨機對照試驗，130 名 18 至 64 歲思覺失調症或情感性思覺失調門診患者，比較改良心理動力治療（MPP-S，最少 30 節）加常規治療與單用常規治療。主要結果心理社會功能（Mini-ICF-APP）：24 個月組間差 −3.45（95% CI −5.51 至 −1.40），36 個月 −4.07（−6.19 至 −1.94），介入組較佳；負性症狀亦有改善。試驗期間兩名參加者自殺身亡（每組一名）。",
-   "summary_en": "A single-centre randomised controlled trial at Charité Berlin randomised 130 outpatients aged 18-64 with schizophrenia or schizoaffective disorder to Modified Psychodynamic Psychotherapy for Schizophrenia (MPP-S, minimum 30 sessions) plus treatment as usual (TAU) or TAU alone. Psychosocial functioning (Mini-ICF-APP) favoured the intervention: between-group differences of -3.45 (95% CI -5.51 to -1.40) at 24 months and -4.07 (-6.19 to -1.94) at 36 months, with negative symptoms also improving. Two participants died by suicide during the trial (one per arm).",
-   "category": "研究與證據",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
-    "思覺失調",
-    "心理動力治療",
-    "心理社會功能",
-    "RCT"
-   ],
-   "first_seen_at": "2026-11-06T13:27:53+00:00",
-   "evidence_level": 3,
-   "population": [
+  "title_zh": "研究：開放對話危機照顧未延遲復發，住院率 21% 對 44%（494 人群組隨機試驗）",
+  "title_en": "Open Dialogue versus treatment as usual ODDESSI trial",
+  "summary_zh": "Lancet Psychiatry 刊出 ODDESSI 試驗，是至今最大規模的開放對話（Open Dialogue）隨機評估。研究在英格蘭五間 NHS 精神健康機構，以基層診所群組隨機分配 494 名因危機求助的成人（開放對話組 271 人，常規治療組 223 人），追蹤兩年。主要結果顯示，兩組由危機康復後首次復發的時間無顯著差異（邊際風險比 0.95，95% 置信區間 0.67–1.32）。次要結果較有利於開放對話：精神科住院比率為 21%，常規治療組為 44%；再轉介危機照顧或二級精神健康服務的機率亦較低，自評康復、健康相關生活質素與服務滿意度較佳。嚴重不良事件共 386 宗，97% 與介入無關。研究由英國國家健康研究所資助。",
+  "summary_en": "The Lancet Psychiatry published the ODDESSI trial, the largest randomised evaluation of Open Dialogue to date. Across five NHS mental health trusts in England, 494 adults presenting in crisis were allocated by GP-practice cluster to Open Dialogue (n=271) or treatment as usual (n=223) and followed for two years. The primary outcome showed no significant difference in time to first relapse after recovery from the index crisis (marginal hazard ratio 0.95, 95% CI 0.67-1.32). Secondary outcomes favoured Open Dialogue: psychiatric inpatient admission was 21% versus 44% with treatment as usual, re-referral to crisis or secondary mental health services was lower, and self-rated recovery, health-related quality of life and service satisfaction were better. There were 386 serious adverse events, 97% of them unrelated to the intervention. The trial was funded by the UK National Institute for Health Research.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "群組隨機對照試驗（Lancet Psychiatry 2026 年 10 月號，13 卷 841–851 頁；2026-08-26 線上刊出；DOI: 10.1016/S2215-0366(26)00229-4；經 LSHTM 機構典藏摘要核實；住院率 21% 對 44% 取自 National Elf Service 試驗摘要的原始數據）",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "試驗對象為因精神健康危機求助的成人；開放對話減住院但未延遲復發，臨床向服務使用者介紹時，須分清「減少住院」與「預防復發」是兩個不同的結果。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "主要結果無顯著差異，開放對話未能證實可延遲復發；試驗屬事後註冊；缺失數據達 20.9%，分析樣本少於目標（492 對 570），檢定力不足；同期 Lancet 評論指出試驗在方法與報告上有問題，解讀須謹慎；常規治療在各機構做法不一；結果只適用於英國 NHS 危機服務，未必適用於其他制度。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "設計：多中心、平行兩臂、群組隨機對照優效試驗；英格蘭五間 NHS 機構，30 個群組；群組按基層診所劃分，1:1 分配",
+    "樣本：2019 年 6 月 25 日至 2021 年 12 月 9 日招募 494 人（開放對話組 271 人，常規治療組 223 人）；平均 38.1 歲，54% 女性，69% 白人英國籍",
+    "主要結果：由危機康復後首次復發的時間，兩組無顯著差異；邊際風險比 0.95（95% CI 0.67–1.32）；24 個月後仍未復發者，開放對話組約 54%，常規治療組約 49%",
+    "次要結果：精神科住院比率，開放對話組 21%，常規治療組 44%（原始數據）；再轉介危機照顧或二級服務的機率較低；自評康復、健康相關生活質素、服務滿意度較佳；社交網絡質素與規模無差異",
+    "安全：嚴重不良事件 386 宗（常規治療組 281 宗，開放對話組 105 宗），97% 與介入無關",
+    "限制：試驗事後註冊（ISRCTN52653325）；缺失數據 20.9%，樣本少於目標 570 人；資助：英國國家健康研究所"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "開放對話",
+    "危機照顧",
+    "隨機試驗",
+    "住院",
+    "復發"
+  ],
+  "population": [
     "成人",
     "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-01T00:00:00+00:00"
-  }
- ],
- "evidence_quote": "Open Dialogue did not reduce time to",
- "page_date": ""
+  ],
+  "supervision_questions": [
+    "危機個案問起「開放對話係咪可以減少住院」時，你會如何講主要結果同次要結果嘅分別，而又唔令人誤會佢可以預防復發？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://doi.org/10.1016/S2215-0366(26)00229-4",
+      "author_handle": "",
+      "author_name": "Pilling 等（UCL／NHS）",
+      "title": "Open Dialogue versus treatment as usual for adults presenting in crisis to mental health services in England (the ODDESSI Trial): a multisite cluster-randomised trial (Lancet Psychiatry; DOI: 10.1016/S2215-0366(26)00229-4)",
+      "content": "期刊論文：開放對話對照常規治療的群組隨機試驗，494 名危機求助成人，兩年追蹤。",
+      "posted_at": "2026-08-26T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-10T13:28:11+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "open-dialogue-versus-treatment-as-usual-oddessi-trial",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "taiwan-youth-psychiatric-crisis-wards-to-open-21-beds",
+      "title_zh": "台灣兒少心智病房延宕，年底先開北中部 21 床",
+      "title_en": "Taiwan youth psychiatric crisis wards to open 21 beds",
+      "summary_zh": "聯合報報導，衛福部規劃的兒少心智專責病房原訂 2025 年底在台大醫院、台中榮總完成建置，但因空間改建、消防安全及硬體設備問題延宕，目前仍未有病床啟用。心理健康司司長陳柏熹表示，預計今年底先啟用北部、中部共 21 床，南部其餘 9 床仍在採購；病房以 18 歲以下、家庭學校與一般門診已難處理的急迫危機個案為主要收治對象。",
+      "summary_en": "Taiwan's planned child and adolescent psychiatric crisis wards were delayed by renovation, fire-safety and equipment problems. The Department of Mental Health says 21 beds in the north and centre should open by end-2026, with 9 southern beds still in procurement.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "台灣",
+        "兒童心理",
+        "兒少精神醫療",
+        "政策",
+        "危機介入"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-03T00:00:00+00:00"
+    },
+    {
+      "slug": "digital-phenotyping-relapse-prediction-systematic-review",
+      "title_zh": "系統性回顧：手機被動感測可提前 1–4 週預測精神疾病復發，但尚無研究證明改善結果",
+      "title_en": "Digital phenotyping relapse prediction systematic review",
+      "summary_zh": "BMC Psychiatry 的系統性回顧納入 52 篇、4,814 名參與者的研究，被動數位表型對 1–4 週後復發的預測 AUC 介於 0.70–0.88，多模態優於單一模態，個人化模型優於群體模型。睡眠改變、活動量與移動範圍下降、社交聯絡減少最具預測力；但 75% 研究偏誤風險高，多缺外部驗證，且沒有任何研究證明能改善臨床結果。",
+      "summary_en": "A BMC Psychiatry systematic review of 52 studies (4,814 participants) found passive digital phenotyping predicted relapse 1–4 weeks ahead with AUCs of 0.70–0.88; multimodal and individual-level models performed better. Sleep changes, reduced activity and mobility, and less social communication were most predictive, but 75% of studies had high risk of bias, few had external validation, and none showed improved clinical outcomes.",
+      "category": "評估與篩檢",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "數位表型",
+        "被動感測",
+        "復發預測",
+        "穿戴裝置",
+        "系統性回顧"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 4,
+      "population": [
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.518,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-05-09T00:00:00+00:00"
+    },
+    {
+      "slug": "modified-psychodynamic-psychotherapy-schizophrenia-spectrum",
+      "title_zh": "RCT：改良心理動力治療加常規治療，可改善思覺失調症譜系患者的心理社會功能（130 人）",
+      "title_en": "Modified psychodynamic psychotherapy schizophrenia spectrum RCT psychosocial functioning",
+      "summary_zh": "柏林 Charité 單中心隨機對照試驗，130 名 18 至 64 歲思覺失調症或情感性思覺失調門診患者，比較改良心理動力治療（MPP-S，最少 30 節）加常規治療與單用常規治療。主要結果心理社會功能（Mini-ICF-APP）：24 個月組間差 −3.45（95% CI −5.51 至 −1.40），36 個月 −4.07（−6.19 至 −1.94），介入組較佳；負性症狀亦有改善。試驗期間兩名參加者自殺身亡（每組一名）。",
+      "summary_en": "A single-centre randomised controlled trial at Charité Berlin randomised 130 outpatients aged 18-64 with schizophrenia or schizoaffective disorder to Modified Psychodynamic Psychotherapy for Schizophrenia (MPP-S, minimum 30 sessions) plus treatment as usual (TAU) or TAU alone. Psychosocial functioning (Mini-ICF-APP) favoured the intervention: between-group differences of -3.45 (95% CI -5.51 to -1.40) at 24 months and -4.07 (-6.19 to -1.94) at 36 months, with negative symptoms also improving. Two participants died by suicide during the trial (one per arm).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "思覺失調",
+        "心理動力治療",
+        "心理社會功能",
+        "RCT"
+      ],
+      "first_seen_at": "2026-11-06T13:27:53+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T00:00:00+00:00"
+    }
+  ],
+  "evidence_quote": "Open Dialogue did not reduce time to",
+  "page_date": "",
+  "date": "2026-08-26T00:00:00+00:00"
 }

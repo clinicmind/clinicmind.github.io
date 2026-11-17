@@ -1,1 +1,168 @@
-{"title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究", "title_en": "Collaborative case formulation in emotion focused therapy", "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。", "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.", "category": "督導與訓練", "kind": "research", "evidence_level": 2, "evidence_note": "歷程微分析（質性）研究。", "ethics_flags": [], "psych_concepts": [{"name": "治療同盟", "note": "概念化是與個案共同建構，而非治療師單方面解釋，直接關乎目標與任務的共識。", "ref": "概念｜治療同盟"}], "caution": "研究對象為資深治療師的錄影，實習生直接套用前需在督導下練習。", "verify_needed": true, "verify_reason": "出版社頁面無法開啟（403），依 Europe PMC 書目資料庫收錄的摘要撰寫；細節請以原文為準。", "brief_zh": ["Greenberg／Elliott 系 EFT，分析資深治療師會談錄影", "五個特徵：反思、連結、說出未說的、合作、作為主要活動", "常見回應：同理式概念化、推測、重新聚焦", "適合督導中練習把概念化說給個案聽"], "brief_en": ["Greenberg/Elliott EFT, expert session recordings", "Five features of collaborative formulation", "Empathic formulation, conjecture, refocusing", "Useful for supervision practice"], "model_names": [], "tags": ["情緒取向治療", "Emotion-Focused Therapy", "個案概念化", "督導", "質性研究"], "population": ["臨床工作者"], "supervision_questions": ["回放一段錄音，你在哪一刻把個案的經驗『連結』起來？是你說的，還是和個案一起說的？", "推測（conjecture）和詮釋有甚麼不同？怎樣說才保有合作性？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://doi.org/10.1080/10503307.2026.2721635", "author_handle": "", "author_name": "I. L. Manastireanu, Robert Elliott, Susan Stephen（Psychotherapy Research）", "title": "Collaborative case formulation work in emotion focused therapy: a process microanalytic study", "content": "微分析資深 EFT 治療師的會談錄影，歸納情緒取向治療中「合作式個案概念化」的五個特徵與常用的治療師回應方式。", "posted_at": "2026-08-27T00:00:00+00:00"}], "first_seen_at": "2026-10-01T03:34:06+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "collaborative-case-formulation-in-emotion-focused-therapy", "featured_at": null, "hot_score": 0.782, "tier": "live", "deadline_soon": false, "related": [{"slug": "meta-analysis-of-emotion-focused-therapy-for-adult-distress", "title_zh": "統合分析：情緒取向治療（Greenberg 系 EFT）對成人憂鬱、焦慮與 PTSD 的療效", "title_en": "Meta-analysis of emotion-focused therapy for adult distress disorders", "summary_zh": "這篇 2026 年 4 月刊於 Psychotherapy Research 的統合分析，針對 Greenberg 系的情緒取向治療（Emotion-Focused Therapy，個人與團體形式，排除伴侶 EFT），納入 13 篇試驗（EFT 組 348 人、對照 201 人）。EFT 相對於無治療對照效果大（g = 1.39），相對於其他既有心理治療的優勢則小（約 0.28）。作者同時指出研究品質普遍偏低、有出版偏誤跡象，樣本也集中於女性與白人或伊朗參與者。", "summary_en": "A 2026 meta-analysis in Psychotherapy Research of 13 trials of (Greenberg-style) emotion-focused therapy, excluding couples EFT, found a large effect versus inactive controls (g = 1.39) and a small advantage over active therapies (about 0.28). The authors flag poor study quality, publication bias and narrow samples.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["情緒取向治療", "Emotion-Focused Therapy", "統合分析", "憂鬱", "焦慮", "PTSD"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 4, "population": ["成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 1.564, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-04-19T00:00:00+00:00"}, {"slug": "session-level-feelings-and-clarification-in-emotion-focused", "title_zh": "情緒取向治療歷程研究：會後的悲傷與喜悅，影響個案「釐清」與症狀改善軌跡", "title_en": "Session-level feelings and clarification in emotion-focused therapy", "summary_zh": "Kramer 等人於 2026 年 9 月發表的歷程研究，分析 48 位接受 Greenberg 系情緒取向治療（Emotion-Focused Therapy）個案每次會談後的自評與 CORE-10 症狀分數。結果顯示，會後感到悲傷／哀傷以及喜悅，會調節個案對問題「釐清」深度的變化軌跡，並與症狀改善有關。研究屬自然情境資料，提供會談層次的改變機制線索。", "summary_en": "A 2026 process study of 48 clients in emotion-focused therapy found that post-session sadness/grief and joy moderated the trajectory of clarification depth and were linked to symptom change on the CORE-10.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["情緒取向治療", "Emotion-Focused Therapy", "歷程研究", "會談回饋", "網絡分析"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["成人", "臨床工作者"], "hero_media": null, "verify_needed": true, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-09-02T00:00:00+00:00"}, {"slug": "sudden-gains-in-emotion-focused-therapy-for-youth", "title_zh": "青少年情緒取向治療（EFT-Y）：一半個案在情緒調節上出現「突然進步」", "title_en": "Sudden gains in emotion focused therapy for youth", "summary_zh": "Foroughe 等人 2026 年 8 月發表的研究，檢視青少年情緒取向治療（EFT for Youth，屬 Greenberg 系 Emotion-Focused Therapy 的延伸）中的會談內突然進步。22 位 9–17 歲青少年中，一半至少出現一次情緒調節的突然進步，33% 在憂鬱症狀上出現突然進步；不論是否出現突然進步，療程結束時整體都有顯著改善。", "summary_en": "A 2026 study of emotion focused therapy for youth (EFT-Y) with 22 participants aged 9–17 found half showed at least one sudden gain in emotion regulation and 33% in depression; all improved significantly post-treatment.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["情緒取向治療", "Emotion-Focused Therapy", "青少年", "突然進步", "情緒調節", "憂鬱"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": true, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-07T00:00:00+00:00"}]}
+{
+  "title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究",
+  "title_en": "Collaborative case formulation in emotion focused therapy",
+  "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。",
+  "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.",
+  "category": "督導與訓練",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "歷程微分析（質性）研究。",
+  "ethics_flags": [],
+  "psych_concepts": [
+    {
+      "name": "治療同盟",
+      "note": "概念化是與個案共同建構，而非治療師單方面解釋，直接關乎目標與任務的共識。",
+      "ref": "概念｜治療同盟"
+    }
+  ],
+  "caution": "研究對象為資深治療師的錄影，實習生直接套用前需在督導下練習。",
+  "verify_needed": true,
+  "verify_reason": "出版社頁面無法開啟（403），依 Europe PMC 書目資料庫收錄的摘要撰寫；細節請以原文為準。",
+  "brief_zh": [
+    "Greenberg／Elliott 系 EFT，分析資深治療師會談錄影",
+    "五個特徵：反思、連結、說出未說的、合作、作為主要活動",
+    "常見回應：同理式概念化、推測、重新聚焦",
+    "適合督導中練習把概念化說給個案聽"
+  ],
+  "brief_en": [
+    "Greenberg/Elliott EFT, expert session recordings",
+    "Five features of collaborative formulation",
+    "Empathic formulation, conjecture, refocusing",
+    "Useful for supervision practice"
+  ],
+  "model_names": [],
+  "tags": [
+    "情緒取向治療",
+    "Emotion-Focused Therapy",
+    "個案概念化",
+    "督導",
+    "質性研究"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "回放一段錄音，你在哪一刻把個案的經驗『連結』起來？是你說的，還是和個案一起說的？",
+    "推測（conjecture）和詮釋有甚麼不同？怎樣說才保有合作性？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://doi.org/10.1080/10503307.2026.2721635",
+      "author_handle": "",
+      "author_name": "I. L. Manastireanu, Robert Elliott, Susan Stephen（Psychotherapy Research）",
+      "title": "Collaborative case formulation work in emotion focused therapy: a process microanalytic study",
+      "content": "微分析資深 EFT 治療師的會談錄影，歸納情緒取向治療中「合作式個案概念化」的五個特徵與常用的治療師回應方式。",
+      "posted_at": "2026-08-27T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-01T03:34:06+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "collaborative-case-formulation-in-emotion-focused-therapy",
+  "featured_at": null,
+  "hot_score": 0.782,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "meta-analysis-of-emotion-focused-therapy-for-adult-distress",
+      "title_zh": "統合分析：情緒取向治療（Greenberg 系 EFT）對成人憂鬱、焦慮與 PTSD 的療效",
+      "title_en": "Meta-analysis of emotion-focused therapy for adult distress disorders",
+      "summary_zh": "這篇 2026 年 4 月刊於 Psychotherapy Research 的統合分析，針對 Greenberg 系的情緒取向治療（Emotion-Focused Therapy，個人與團體形式，排除伴侶 EFT），納入 13 篇試驗（EFT 組 348 人、對照 201 人）。EFT 相對於無治療對照效果大（g = 1.39），相對於其他既有心理治療的優勢則小（約 0.28）。作者同時指出研究品質普遍偏低、有出版偏誤跡象，樣本也集中於女性與白人或伊朗參與者。",
+      "summary_en": "A 2026 meta-analysis in Psychotherapy Research of 13 trials of (Greenberg-style) emotion-focused therapy, excluding couples EFT, found a large effect versus inactive controls (g = 1.39) and a small advantage over active therapies (about 0.28). The authors flag poor study quality, publication bias and narrow samples.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Emotion-Focused Therapy",
+        "統合分析",
+        "憂鬱",
+        "焦慮",
+        "PTSD"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 4,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.564,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-04-19T00:00:00+00:00"
+    },
+    {
+      "slug": "session-level-feelings-and-clarification-in-emotion-focused",
+      "title_zh": "情緒取向治療歷程研究：會後的悲傷與喜悅，影響個案「釐清」與症狀改善軌跡",
+      "title_en": "Session-level feelings and clarification in emotion-focused therapy",
+      "summary_zh": "Kramer 等人於 2026 年 9 月發表的歷程研究，分析 48 位接受 Greenberg 系情緒取向治療（Emotion-Focused Therapy）個案每次會談後的自評與 CORE-10 症狀分數。結果顯示，會後感到悲傷／哀傷以及喜悅，會調節個案對問題「釐清」深度的變化軌跡，並與症狀改善有關。研究屬自然情境資料，提供會談層次的改變機制線索。",
+      "summary_en": "A 2026 process study of 48 clients in emotion-focused therapy found that post-session sadness/grief and joy moderated the trajectory of clarification depth and were linked to symptom change on the CORE-10.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Emotion-Focused Therapy",
+        "歷程研究",
+        "會談回饋",
+        "網絡分析"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-09-02T00:00:00+00:00"
+    },
+    {
+      "slug": "sudden-gains-in-emotion-focused-therapy-for-youth",
+      "title_zh": "青少年情緒取向治療（EFT-Y）：一半個案在情緒調節上出現「突然進步」",
+      "title_en": "Sudden gains in emotion focused therapy for youth",
+      "summary_zh": "Foroughe 等人 2026 年 8 月發表的研究，檢視青少年情緒取向治療（EFT for Youth，屬 Greenberg 系 Emotion-Focused Therapy 的延伸）中的會談內突然進步。22 位 9–17 歲青少年中，一半至少出現一次情緒調節的突然進步，33% 在憂鬱症狀上出現突然進步；不論是否出現突然進步，療程結束時整體都有顯著改善。",
+      "summary_en": "A 2026 study of emotion focused therapy for youth (EFT-Y) with 22 participants aged 9–17 found half showed at least one sudden gain in emotion regulation and 33% in depression; all improved significantly post-treatment.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Emotion-Focused Therapy",
+        "青少年",
+        "突然進步",
+        "情緒調節",
+        "憂鬱"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-07T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-08-27T00:00:00+00:00"
+}

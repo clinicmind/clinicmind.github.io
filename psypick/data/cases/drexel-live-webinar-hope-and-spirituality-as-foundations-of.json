@@ -1,197 +1,198 @@
 {
- "title_zh": "Drexel 網上培訓：希望與靈性作為心理健康的基礎",
- "title_en": "Drexel Live Webinar: Hope and Spirituality as Foundations of Psychological Well-Being",
- "summary_zh": "2026 年 11 月 10 日美東時間上午 9 時至 12:15，Drexel 舉辦網上培訓，由 Karin Gladney 博士主講。課程以 Snyder 希望理論與 Pargament 宗教靈性因應理論為本，探討希望、靈性與意義建構在精神健康與復元中的保護作用，並教授如何以合乎倫理及文化敏感的方式融入評估與介入。收費 27 美元，3 學分。",
- "summary_en": "Drexel University College of Medicine's live webinar on November 10, 2026 (9:00 a.m.-12:15 p.m. ET; 10:00 p.m.-1:15 a.m. Macau time), led by Karin C. Gladney, PhD, explores hope and spirituality as foundations of psychological well-being, drawing on Snyder's hope theory and Pargament's religious/spiritual coping framework. Cost is $27 for 3 CE credits (APA, NBCC and others).",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "港澳時間為 11 月 10 日 22:00 至 11 月 11 日 1:15；收費 27 美元，學分安排見原頁。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "2026 年 11 月 10 日美東時間 9:00–12:15，網上直播",
-  "收費 27 美元，3 學分（APA、NBCC 等）",
-  "講者 Karin C. Gladney 博士",
-  "內容包括希望理論、靈性因應及復元導向策略"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "希望",
-  "靈性",
-  "意義建構",
-  "復元",
-  "持續進修學分"
- ],
- "population": [
-  "臨床工作者",
-  "成人"
- ],
- "supervision_questions": [
-  "希望與靈性在復元中的角色，你會如何在評估中自然地問起，而不把自己的信念加諸個案？"
- ],
- "original_prompt": "",
- "training": {
-  "audience_level": "行為健康專業人員",
-  "ce_credits": "3",
-  "deadline": "",
-  "event_date": "2026-11-10",
-  "format": "線上直播",
-  "language": "英語",
-  "price": "$27",
-  "price_tier": "低價",
-  "provider": "Drexel University College of Medicine, Behavioral Healthcare Education",
-  "signup_url": "",
-  "topic": "希望、靈性與心理健康",
-  "format_note": "線上（網上直播）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://drexel.edu/medicine/academics/continuing-education/behavioral-healthcare-education/live-webinars/",
-   "author_handle": "",
-   "author_name": "Drexel University College of Medicine",
-   "title": "Live Webinars: Behavioral Healthcare Education - Drexel University College of Medicine",
-   "content": "Drexel 大學醫學院行為健康教育的網上直播課程，本期探討希望、靈性與意義建構在精神健康與復元中的保護作用。",
-   "posted_at": "2026-11-10T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-11-10T01:28:21+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "drexel-live-webinar-hope-and-spirituality-as-foundations-of",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "archive",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "pesi-free-2-day-clinical-trauma-training-kate-truitt-neurosc",
-   "title_zh": "PESI 免費兩日創傷培訓：Kate Truitt 談創傷神經科學與創傷後成長",
-   "title_en": "PESI free 2-day clinical trauma training Kate Truitt neuroscience posttraumatic growth",
-   "summary_zh": "臨床心理學家 Kate Truitt 主講的 PESI 免費兩日線上培訓，2026 年 11 月 3–4 日美中時間上午 8 時至下午 4 時直播。內容涵蓋發展與依附創傷、PTSD 與複雜性創傷、解離、階段式治療。直播與三日重播免費，CE 學分與 CCTP 證書另收費。",
-   "summary_en": "Clinical psychologist and applied neuroscientist Kate Truitt leads PESI's free two-day online trauma training on 3-4 November 2026 (8am-4pm US Central): developmental and attachment trauma, PTSD and complex trauma, dissociation and phase-based treatment. Live attendance and three-day replay are free; CE credit and the CCTP credential are available for a fee.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "創傷",
-    "神經科學",
-    "免費培訓"
-   ],
-   "first_seen_at": "2026-10-28T08:01:01+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-28T08:01:01+00:00",
-   "training": {
-    "provider": "PESI",
-    "price": "免費（直播與重播免費；CE 學分與 CCTP 證書另收費）",
-    "price_tier": "免費",
-    "ce_credits": "另收費（頁面原文：available for a fee）",
-    "language": "英語",
-    "deadline": "",
-    "event_date": "2026-11-03",
-    "format": "線上"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
-   "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
-   "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
-   "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
-   "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "創傷",
-    "依附",
-    "身體取向治療",
-    "網上研討會",
-    "免費CE"
-   ],
-   "first_seen_at": "2026-10-07T02:38:14+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": "2026-10-07T02:38:14+00:00",
-   "tier": "archive",
-   "has_ethics_flags": true,
-   "date": "2026-10-07T02:38:14+00:00",
-   "training": {
-    "provider": "Phoenix Center for Experiential Trauma Therapy",
-    "price": "Free",
-    "price_tier": "免費",
-    "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
-    "language": "English",
-    "deadline": "",
-    "event_date": "2026-10-14",
-    "format": "線上"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "sue-johnson-eft-webinar-series-on-demand-with-ce",
-   "title_zh": "Sue Johnson 親授伴侶 EFT 錄影課，每集 40 美元含 CE",
-   "title_en": "Sue Johnson EFT webinar series on demand with CE",
-   "summary_zh": "美國 National Register of Health Service Psychologists 提供四集由 Sue Johnson 主講的情緒取向治療（Emotionally Focused Therapy，Sue Johnson 系，非 Greenberg 的 Emotion-Focused Therapy）錄影課，主題包括以依附為本的伴侶介入、EFT Tango 與微介入、Hold Me Tight 對話與依附創傷修復，以及創傷伴侶。每集 40 美元，含 1–1.5 小時 CE，課程等級標示為進階。",
-   "summary_en": "The National Register of Health Service Psychologists offers four recorded webinars by Dr. Sue Johnson on Emotionally Focused Therapy (the Johnson model, not Greenberg's Emotion-Focused Therapy), covering attachment-based couple intervention, the EFT Tango, Hold Me Tight conversations and attachment injuries, and trauma couples. Each costs US$40 including 1–1.5 CE credits; instructional level is advanced.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "情緒取向治療",
-    "Sue Johnson 系",
-    "伴侶治療",
-    "依附",
-    "繼續教育",
-    "低價"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
+  "title_zh": "Drexel 網上培訓：希望與靈性作為心理健康的基礎",
+  "title_en": "Drexel Live Webinar: Hope and Spirituality as Foundations of Psychological Well-Being",
+  "summary_zh": "2026 年 11 月 10 日美東時間上午 9 時至 12:15，Drexel 舉辦網上培訓，由 Karin Gladney 博士主講。課程以 Snyder 希望理論與 Pargament 宗教靈性因應理論為本，探討希望、靈性與意義建構在精神健康與復元中的保護作用，並教授如何以合乎倫理及文化敏感的方式融入評估與介入。收費 27 美元，3 學分。",
+  "summary_en": "Drexel University College of Medicine's live webinar on November 10, 2026 (9:00 a.m.-12:15 p.m. ET; 10:00 p.m.-1:15 a.m. Macau time), led by Karin C. Gladney, PhD, explores hope and spirituality as foundations of psychological well-being, drawing on Snyder's hope theory and Pargament's religious/spiritual coping framework. Cost is $27 for 3 CE credits (APA, NBCC and others).",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "港澳時間為 11 月 10 日 22:00 至 11 月 11 日 1:15；收費 27 美元，學分安排見原頁。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "2026 年 11 月 10 日美東時間 9:00–12:15，網上直播",
+    "收費 27 美元，3 學分（APA、NBCC 等）",
+    "講者 Karin C. Gladney 博士",
+    "內容包括希望理論、靈性因應及復元導向策略"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "希望",
+    "靈性",
+    "意義建構",
+    "復元",
+    "持續進修學分"
+  ],
+  "population": [
     "臨床工作者",
     "成人"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "National Register of Health Service Psychologists",
-    "price": "每集 40 美元（含 CE）",
-    "price_tier": "低價",
-    "ce_credits": "第一集 1.5 小時、第二至四集各 1 小時（APA 認可主辦單位）",
-    "language": "英文",
+  ],
+  "supervision_questions": [
+    "希望與靈性在復元中的角色，你會如何在評估中自然地問起，而不把自己的信念加諸個案？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "audience_level": "行為健康專業人員",
+    "ce_credits": "3",
     "deadline": "",
-    "event_date": "",
-    "format": "錄影課（隨選觀看）"
-   },
-   "deadline_soon": false
-  }
- ]
+    "event_date": "2026-11-10",
+    "format": "線上直播",
+    "language": "英語",
+    "price": "$27",
+    "price_tier": "低價",
+    "provider": "Drexel University College of Medicine, Behavioral Healthcare Education",
+    "signup_url": "",
+    "topic": "希望、靈性與心理健康",
+    "format_note": "線上（網上直播）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://drexel.edu/medicine/academics/continuing-education/behavioral-healthcare-education/live-webinars/",
+      "author_handle": "",
+      "author_name": "Drexel University College of Medicine",
+      "title": "Live Webinars: Behavioral Healthcare Education - Drexel University College of Medicine",
+      "content": "Drexel 大學醫學院行為健康教育的網上直播課程，本期探討希望、靈性與意義建構在精神健康與復元中的保護作用。",
+      "posted_at": "2026-11-10T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-10T01:28:21+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "drexel-live-webinar-hope-and-spirituality-as-foundations-of",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "archive",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "pesi-free-2-day-clinical-trauma-training-kate-truitt-neurosc",
+      "title_zh": "PESI 免費兩日創傷培訓：Kate Truitt 談創傷神經科學與創傷後成長",
+      "title_en": "PESI free 2-day clinical trauma training Kate Truitt neuroscience posttraumatic growth",
+      "summary_zh": "臨床心理學家 Kate Truitt 主講的 PESI 免費兩日線上培訓，2026 年 11 月 3–4 日美中時間上午 8 時至下午 4 時直播。內容涵蓋發展與依附創傷、PTSD 與複雜性創傷、解離、階段式治療。直播與三日重播免費，CE 學分與 CCTP 證書另收費。",
+      "summary_en": "Clinical psychologist and applied neuroscientist Kate Truitt leads PESI's free two-day online trauma training on 3-4 November 2026 (8am-4pm US Central): developmental and attachment trauma, PTSD and complex trauma, dissociation and phase-based treatment. Live attendance and three-day replay are free; CE credit and the CCTP credential are available for a fee.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷",
+        "神經科學",
+        "免費培訓"
+      ],
+      "first_seen_at": "2026-10-28T08:01:01+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-28T08:01:01+00:00",
+      "training": {
+        "provider": "PESI",
+        "price": "免費（直播與重播免費；CE 學分與 CCTP 證書另收費）",
+        "price_tier": "免費",
+        "ce_credits": "另收費（頁面原文：available for a fee）",
+        "language": "英語",
+        "deadline": "",
+        "event_date": "2026-11-03",
+        "format": "線上"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
+      "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
+      "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
+      "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
+      "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷",
+        "依附",
+        "身體取向治療",
+        "網上研討會",
+        "免費CE"
+      ],
+      "first_seen_at": "2026-10-07T02:38:14+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": "2026-10-07T02:38:14+00:00",
+      "tier": "archive",
+      "has_ethics_flags": true,
+      "date": "2026-10-07T02:38:14+00:00",
+      "training": {
+        "provider": "Phoenix Center for Experiential Trauma Therapy",
+        "price": "Free",
+        "price_tier": "免費",
+        "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
+        "language": "English",
+        "deadline": "",
+        "event_date": "2026-10-14",
+        "format": "線上"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "sue-johnson-eft-webinar-series-on-demand-with-ce",
+      "title_zh": "Sue Johnson 親授伴侶 EFT 錄影課，每集 40 美元含 CE",
+      "title_en": "Sue Johnson EFT webinar series on demand with CE",
+      "summary_zh": "美國 National Register of Health Service Psychologists 提供四集由 Sue Johnson 主講的情緒取向治療（Emotionally Focused Therapy，Sue Johnson 系，非 Greenberg 的 Emotion-Focused Therapy）錄影課，主題包括以依附為本的伴侶介入、EFT Tango 與微介入、Hold Me Tight 對話與依附創傷修復，以及創傷伴侶。每集 40 美元，含 1–1.5 小時 CE，課程等級標示為進階。",
+      "summary_en": "The National Register of Health Service Psychologists offers four recorded webinars by Dr. Sue Johnson on Emotionally Focused Therapy (the Johnson model, not Greenberg's Emotion-Focused Therapy), covering attachment-based couple intervention, the EFT Tango, Hold Me Tight conversations and attachment injuries, and trauma couples. Each costs US$40 including 1–1.5 CE credits; instructional level is advanced.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Sue Johnson 系",
+        "伴侶治療",
+        "依附",
+        "繼續教育",
+        "低價"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "National Register of Health Service Psychologists",
+        "price": "每集 40 美元（含 CE）",
+        "price_tier": "低價",
+        "ce_credits": "第一集 1.5 小時、第二至四集各 1 小時（APA 認可主辦單位）",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "錄影課（隨選觀看）"
+      },
+      "deadline_soon": false
+    }
+  ],
+  "date": "2026-11-10T01:28:21+00:00"
 }

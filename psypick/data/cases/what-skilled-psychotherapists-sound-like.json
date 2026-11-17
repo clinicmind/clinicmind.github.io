@@ -1,1 +1,165 @@
-{"title_zh": "熟練的治療者聽起來像什麼：用好奇心提問，別急著說「你的感受是合理的」", "title_en": "What skilled psychotherapists sound like", "summary_zh": "UCSF 臨床教授 Jonathan Shedler 在 Substack 說明熟練治療者的語言是「好奇的語言」：以邀請代替指示（「多說一點」），引導個案從概括走向具體例子，並把個案略過或迴避的部分當作探索材料。他提醒在還沒理解之前就反射性地肯定，可能強化防衛模式。", "summary_en": "UCSF clinical professor Jonathan Shedler argues that the language of skilled psychotherapy is the language of curiosity: invitations rather than directives ('say more'), moving from the general to the specific, and treating what patients avoid as material. He warns that reflexive validation before understanding can reinforce defensive patterns.", "category": "督導與訓練", "kind": "practice", "evidence_level": 0, "evidence_note": "資深臨床工作者的專業觀點文章，未引用實證資料。", "ethics_flags": [], "psych_concepts": [{"name": "治療同盟", "note": "作者把治療定位為「一起找出答案」的合作探索，與同盟中的共同目標與任務相關。", "ref": "概念｜治療同盟"}], "caution": "屬單一取向的觀點，與重視認可（validation）的取向（如 DBT）可能有張力，宜對照討論。", "verify_needed": false, "verify_reason": "", "brief_zh": ["以邀請式語句提問，例如「多說一點」", "從概括走向具體例子與細節", "留意個案迴避或帶過的內容與情緒轉變", "避免在理解前就反射性肯定"], "brief_en": ["Use invitational prompts such as 'say more'", "Move from general statements to specific examples", "Notice what is avoided and shifts in emotion", "Avoid reflexive validation before understanding"], "model_names": [], "tags": ["心理動力", "會談技巧", "提問", "受訓治療者"], "population": ["臨床工作者"], "supervision_questions": ["回聽一段自己的錄音：你用了多少邀請式提問，多少結論式回應？", "「你的感受是合理的」在什麼時候有幫助，什麼時候會讓探索停下來？", "個案帶過某個話題時，你通常怎麼回到那裡？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://jonathanshedler.substack.com/p/what-skilled-psychotherapists-sound", "author_handle": "", "author_name": "Jonathan Shedler, PhD", "title": "What Skilled Psychotherapists Sound Like", "content": "心理動力取向臨床心理學家 Shedler 說明熟練治療者的說話方式：以好奇心提問、從概括走向具體、留意迴避之處，並提醒不要過早給予肯定。", "posted_at": "2026-08-17T00:00:00+00:00"}], "first_seen_at": "2026-09-30T18:00:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "what-skilled-psychotherapists-sound-like", "featured_at": null, "hot_score": 0.767, "tier": "live", "deadline_soon": false, "related": [{"slug": "collaborative-case-formulation-in-emotion-focused-therapy", "title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究", "title_en": "Collaborative case formulation in emotion focused therapy", "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。", "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.", "category": "督導與訓練", "kind": "research", "model_names": [], "tags": ["情緒取向治療", "Emotion-Focused Therapy", "個案概念化", "督導", "質性研究"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["臨床工作者"], "hero_media": null, "verify_needed": true, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-27T00:00:00+00:00"}, {"slug": "macao-domestic-violence-frontline-training-2026", "title_zh": "澳門社工局家暴配偶個案訓練：約 400 名前線人員學辨識與危機評估", "title_en": "Macao domestic violence frontline training 2026", "summary_zh": "澳門社會工作局舉辦 2026 年處理家暴配偶個案基本訓練課程，約 400 名警務、醫護、社工、輔導與教育前線人員參加。講者包括司法警察、衛生局精神科醫生與法醫，內容涵蓋預防與通報程序、從精神科與醫學角度辨識受虐徵兆、危機評估與庇護經驗；課程自 2018 年起累計 2,878 人參加。", "summary_en": "Macao's Social Welfare Bureau trained about 400 frontline staff on identifying spousal abuse, crisis assessment and reporting, with speakers from police, psychiatry and forensic medicine.", "category": "督導與訓練", "kind": "practice", "model_names": [], "tags": ["澳門", "家庭暴力", "危機評估", "跨專業訓練", "社工局"], "first_seen_at": "2026-09-30T22:41:42+00:00", "evidence_level": 0, "population": ["臨床工作者", "成人"], "hero_media": null, "verify_needed": false, "hot_score": 0.387, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-22T00:00:00+00:00"}, {"slug": "frontline-training-on-families-welcoming-a-second-child", "title_zh": "澳門社工局前線培訓：用依附理論陪伴家庭迎接第二個孩子", "title_en": "Frontline training on families welcoming a second child", "summary_zh": "澳門社會工作局 2026 年 8 月 16 日為約 50 名前線工作者辦培訓，運用依附理論與家庭系統理論解釋第二個孩子出生後長子女的心理與行為變化，並介紹情緒教育溝通原則與破除獨生子女刻板印象。社工局表示會透過家長學堂等計劃延伸親職教育。", "summary_en": "Macao's Social Welfare Bureau trained about 50 frontline workers to support families expecting a second child, drawing on attachment and family systems theory.", "category": "督導與訓練", "kind": "practice", "model_names": [], "tags": ["澳門", "親職教育", "依附理論", "家庭系統", "手足關係"], "first_seen_at": "2026-09-30T22:41:42+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.387, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-19T00:00:00+00:00"}]}
+{
+  "title_zh": "熟練的治療者聽起來像什麼：用好奇心提問，別急著說「你的感受是合理的」",
+  "title_en": "What skilled psychotherapists sound like",
+  "summary_zh": "UCSF 臨床教授 Jonathan Shedler 在 Substack 說明熟練治療者的語言是「好奇的語言」：以邀請代替指示（「多說一點」），引導個案從概括走向具體例子，並把個案略過或迴避的部分當作探索材料。他提醒在還沒理解之前就反射性地肯定，可能強化防衛模式。",
+  "summary_en": "UCSF clinical professor Jonathan Shedler argues that the language of skilled psychotherapy is the language of curiosity: invitations rather than directives ('say more'), moving from the general to the specific, and treating what patients avoid as material. He warns that reflexive validation before understanding can reinforce defensive patterns.",
+  "category": "督導與訓練",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "資深臨床工作者的專業觀點文章，未引用實證資料。",
+  "ethics_flags": [],
+  "psych_concepts": [
+    {
+      "name": "治療同盟",
+      "note": "作者把治療定位為「一起找出答案」的合作探索，與同盟中的共同目標與任務相關。",
+      "ref": "概念｜治療同盟"
+    }
+  ],
+  "caution": "屬單一取向的觀點，與重視認可（validation）的取向（如 DBT）可能有張力，宜對照討論。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "以邀請式語句提問，例如「多說一點」",
+    "從概括走向具體例子與細節",
+    "留意個案迴避或帶過的內容與情緒轉變",
+    "避免在理解前就反射性肯定"
+  ],
+  "brief_en": [
+    "Use invitational prompts such as 'say more'",
+    "Move from general statements to specific examples",
+    "Notice what is avoided and shifts in emotion",
+    "Avoid reflexive validation before understanding"
+  ],
+  "model_names": [],
+  "tags": [
+    "心理動力",
+    "會談技巧",
+    "提問",
+    "受訓治療者"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "回聽一段自己的錄音：你用了多少邀請式提問，多少結論式回應？",
+    "「你的感受是合理的」在什麼時候有幫助，什麼時候會讓探索停下來？",
+    "個案帶過某個話題時，你通常怎麼回到那裡？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://jonathanshedler.substack.com/p/what-skilled-psychotherapists-sound",
+      "author_handle": "",
+      "author_name": "Jonathan Shedler, PhD",
+      "title": "What Skilled Psychotherapists Sound Like",
+      "content": "心理動力取向臨床心理學家 Shedler 說明熟練治療者的說話方式：以好奇心提問、從概括走向具體、留意迴避之處，並提醒不要過早給予肯定。",
+      "posted_at": "2026-08-17T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:00:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "what-skilled-psychotherapists-sound-like",
+  "featured_at": null,
+  "hot_score": 0.767,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "collaborative-case-formulation-in-emotion-focused-therapy",
+      "title_zh": "情緒取向治療怎樣在會談中和個案一起做個案概念化？Robert Elliott 團隊微分析研究",
+      "title_en": "Collaborative case formulation in emotion focused therapy",
+      "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。",
+      "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.",
+      "category": "督導與訓練",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Emotion-Focused Therapy",
+        "個案概念化",
+        "督導",
+        "質性研究"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-27T00:00:00+00:00"
+    },
+    {
+      "slug": "macao-domestic-violence-frontline-training-2026",
+      "title_zh": "澳門社工局家暴配偶個案訓練：約 400 名前線人員學辨識與危機評估",
+      "title_en": "Macao domestic violence frontline training 2026",
+      "summary_zh": "澳門社會工作局舉辦 2026 年處理家暴配偶個案基本訓練課程，約 400 名警務、醫護、社工、輔導與教育前線人員參加。講者包括司法警察、衛生局精神科醫生與法醫，內容涵蓋預防與通報程序、從精神科與醫學角度辨識受虐徵兆、危機評估與庇護經驗；課程自 2018 年起累計 2,878 人參加。",
+      "summary_en": "Macao's Social Welfare Bureau trained about 400 frontline staff on identifying spousal abuse, crisis assessment and reporting, with speakers from police, psychiatry and forensic medicine.",
+      "category": "督導與訓練",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "家庭暴力",
+        "危機評估",
+        "跨專業訓練",
+        "社工局"
+      ],
+      "first_seen_at": "2026-09-30T22:41:42+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.387,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-22T00:00:00+00:00"
+    },
+    {
+      "slug": "frontline-training-on-families-welcoming-a-second-child",
+      "title_zh": "澳門社工局前線培訓：用依附理論陪伴家庭迎接第二個孩子",
+      "title_en": "Frontline training on families welcoming a second child",
+      "summary_zh": "澳門社會工作局 2026 年 8 月 16 日為約 50 名前線工作者辦培訓，運用依附理論與家庭系統理論解釋第二個孩子出生後長子女的心理與行為變化，並介紹情緒教育溝通原則與破除獨生子女刻板印象。社工局表示會透過家長學堂等計劃延伸親職教育。",
+      "summary_en": "Macao's Social Welfare Bureau trained about 50 frontline workers to support families expecting a second child, drawing on attachment and family systems theory.",
+      "category": "督導與訓練",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "親職教育",
+        "依附理論",
+        "家庭系統",
+        "手足關係"
+      ],
+      "first_seen_at": "2026-09-30T22:41:42+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.387,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-19T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-08-17T00:00:00+00:00"
+}

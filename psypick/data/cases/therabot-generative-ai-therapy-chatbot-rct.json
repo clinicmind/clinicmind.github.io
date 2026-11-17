@@ -1,1 +1,194 @@
-{"title_zh": "Therabot：首個生成式 AI 治療聊天機器人 RCT（NEJM AI）", "title_en": "Therabot generative AI therapy chatbot RCT", "summary_zh": "達特茅斯團隊在 NEJM AI 發表 Therabot 隨機對照試驗，210 名有重鬱、廣泛性焦慮或飲食疾患風險的成人分為使用組與對照組，為期 8 週。使用組憂鬱症狀平均下降 51%、焦慮 31%、體重與身形擔憂 19%，參與者評估的治療同盟與面對面治療相當；研究團隊監看回應，作者強調目前沒有生成式 AI 可以完全自主運作。", "summary_en": "Dartmouth researchers reported in NEJM AI a randomized trial of Therabot with 210 adults with MDD, GAD, or eating-disorder risk over 8 weeks. Users saw average reductions of 51% in depressive, 31% in anxiety, and 19% in body-image/weight-concern symptoms, and rated the alliance comparable to in-person care; the team monitored responses and stressed that no generative AI agent is ready to operate fully autonomously.", "category": "臨床與治療應用", "kind": "research", "evidence_level": 3, "evidence_note": "隨機對照試驗（NEJM AI 2025），依大學新聞稿內容整理；為 2025 年發表的指標性研究。", "ethics_flags": [{"flag": "危機處理", "note": "系統會偵測自殺意念等高風險內容並提示聯絡緊急服務，試驗期間另有人員監看。", "refs": ["危機處理｜自殺與自傷風險"]}, {"flag": "專業責任歸屬", "note": "作者強調生成式 AI 不宜完全自主運作，需要心理健康專家的密切督導。", "refs": ["專業責任歸屬｜人機協作的責任"]}], "psych_concepts": [{"name": "治療同盟", "note": "參與者對 Therabot 的同盟評分與面對面治療相當，引發人與 AI 能否形成同盟的討論。", "ref": "概念｜治療同盟"}, {"name": "ELIZA 效應", "note": "高同盟評分也可能部分反映使用者把理解與情感歸因於程式。", "ref": "概念｜ELIZA 效應"}], "caution": "試驗中有人員監看且對象經篩選，結果不能直接推論到一般市售聊天機器人。", "verify_needed": false, "verify_reason": "", "brief_zh": ["Therabot 組 106 人、對照組 104 人，為期 8 週", "憂鬱 −51%、焦慮 −31%、飲食疾患相關擔憂 −19%", "偵測到自殺意念等高風險內容時提示撥打緊急或危機專線", "研究期間由團隊監看回應，作者主張需專家密切督導"], "brief_en": ["106 Therabot vs 104 control, 8 weeks", "Depression −51%, anxiety −31%, eating-disorder concerns −19%", "High-risk content such as suicidal ideation triggers crisis-line prompts", "Responses monitored by the team; authors call for close expert supervision"], "model_names": ["Therabot"], "tags": ["Therabot", "RCT", "生成式AI", "NEJM AI", "治療同盟"], "population": ["成人"], "supervision_questions": ["個案對 AI 的同盟評分和對人的同盟，在臨床上代表的意義一樣嗎？", "試驗有研究團隊監看回應，這個條件在真實世界部署時能否維持？", "如果個案告訴你他在用類似工具，你會怎麼了解與整合進治療？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits", "author_handle": "", "author_name": "Dartmouth College", "title": "First Therapy Chatbot Trial Yields Mental Health Benefits", "content": "達特茅斯學院說明發表於 NEJM AI 的 Therabot 隨機對照試驗，這是首個生成式 AI 治療聊天機器人的臨床試驗，參與者有憂鬱、焦慮或飲食疾患風險。", "posted_at": "2025-03-27T00:00:00+00:00"}], "first_seen_at": "2026-09-30T13:03:54+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "therabot-generative-ai-therapy-chatbot-rct", "featured_at": null, "hot_score": 1.518, "tier": "live", "deadline_soon": false, "related": [{"slug": "petrushka-ml-decision-support-for-antidepressants-rct", "title_zh": "機器學習決策支援幫忙挑抗憂鬱劑：PETRUSHKA RCT 降低 8 週停藥", "title_en": "PETRUSHKA ML decision support for antidepressants RCT", "summary_zh": "Mental Elf 評析 Cipriani 等人 2026 年刊於 JAMA 的 PETRUSHKA 隨機對照試驗。這個決策支援工具以機器學習預測模型結合病人對副作用的偏好，在巴西、英國、加拿大 47 個據點納入 520 位重度憂鬱症患者（主要分析 493 人）；8 週停藥人數 41 對 69（RR=0.62），24 週停藥無明顯差異，但憂鬱與焦慮分數較低。", "summary_en": "The Mental Elf reviews Cipriani et al.'s 2026 JAMA RCT of PETRUSHKA, a decision-support tool combining machine-learning prediction models with patients' side-effect preferences. Across 47 sites in Brazil, the UK and Canada (520 eligible, 493 analysed), 8-week discontinuation was 41 vs 69 (RR=0.62); 24-week discontinuation did not clearly differ, though depression and anxiety scores were lower.", "category": "臨床與治療應用", "kind": "research", "model_names": ["PETRUSHKA"], "tags": ["機器學習", "決策支援", "抗憂鬱劑", "共享決策", "RCT"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 3, "population": ["成人"], "hero_media": null, "verify_needed": false, "hot_score": 1.534, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-30T00:00:00+00:00"}, {"slug": "therabot-developer-jacobson-on-ai-safety-and-oversight", "title_zh": "Therabot 研發者 Jacobson：生成式 AI 的靈活是雙面刃，反對一律要求臨床人員審核", "title_en": "Therabot developer Jacobson on AI safety and oversight", "summary_zh": "Dartmouth 校園報專訪 Therabot 研發者 Nicholas Jacobson。他說 Therabot 已有隨機對照試驗、另有兩項研究接近完成，並形容生成式 AI「會說出你從沒教它說的話」，這種靈活是雙面刃。他主張審慎監管，但反對一律要求臨床人員逐一審核，認為這會把責任不當地轉嫁到臨床人員而非開發者身上。", "summary_en": "In a student-paper Q&A, Therabot developer Nicholas Jacobson says Therabot has completed randomized trials with two more studies nearing completion, and calls generative AI's fluidity a double-edged sword. He favors thoughtful regulation but opposes blanket clinician-review mandates, arguing they shift liability onto clinicians rather than AI developers.", "category": "產品與產業", "kind": "product", "model_names": ["Therabot", "Evergreen"], "tags": ["Therabot", "生成式AI", "監管", "責任歸屬", "校園心理健康"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["大專生", "成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-22T00:00:00+00:00"}, {"slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho", "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護", "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day", "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。", "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["WHO", "去機構化", "社區照護", "世界心理健康日", "政策"], "first_seen_at": "2026-10-13T02:38:45+00:00", "evidence_level": 3, "population": ["成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.707, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-09T00:00:00+00:00"}]}
+{
+  "title_zh": "Therabot：首個生成式 AI 治療聊天機器人 RCT（NEJM AI）",
+  "title_en": "Therabot generative AI therapy chatbot RCT",
+  "summary_zh": "達特茅斯團隊在 NEJM AI 發表 Therabot 隨機對照試驗，210 名有重鬱、廣泛性焦慮或飲食疾患風險的成人分為使用組與對照組，為期 8 週。使用組憂鬱症狀平均下降 51%、焦慮 31%、體重與身形擔憂 19%，參與者評估的治療同盟與面對面治療相當；研究團隊監看回應，作者強調目前沒有生成式 AI 可以完全自主運作。",
+  "summary_en": "Dartmouth researchers reported in NEJM AI a randomized trial of Therabot with 210 adults with MDD, GAD, or eating-disorder risk over 8 weeks. Users saw average reductions of 51% in depressive, 31% in anxiety, and 19% in body-image/weight-concern symptoms, and rated the alliance comparable to in-person care; the team monitored responses and stressed that no generative AI agent is ready to operate fully autonomously.",
+  "category": "臨床與治療應用",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "隨機對照試驗（NEJM AI 2025），依大學新聞稿內容整理；為 2025 年發表的指標性研究。",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "系統會偵測自殺意念等高風險內容並提示聯絡緊急服務，試驗期間另有人員監看。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    },
+    {
+      "flag": "專業責任歸屬",
+      "note": "作者強調生成式 AI 不宜完全自主運作，需要心理健康專家的密切督導。",
+      "refs": [
+        "專業責任歸屬｜人機協作的責任"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "治療同盟",
+      "note": "參與者對 Therabot 的同盟評分與面對面治療相當，引發人與 AI 能否形成同盟的討論。",
+      "ref": "概念｜治療同盟"
+    },
+    {
+      "name": "ELIZA 效應",
+      "note": "高同盟評分也可能部分反映使用者把理解與情感歸因於程式。",
+      "ref": "概念｜ELIZA 效應"
+    }
+  ],
+  "caution": "試驗中有人員監看且對象經篩選，結果不能直接推論到一般市售聊天機器人。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "Therabot 組 106 人、對照組 104 人，為期 8 週",
+    "憂鬱 −51%、焦慮 −31%、飲食疾患相關擔憂 −19%",
+    "偵測到自殺意念等高風險內容時提示撥打緊急或危機專線",
+    "研究期間由團隊監看回應，作者主張需專家密切督導"
+  ],
+  "brief_en": [
+    "106 Therabot vs 104 control, 8 weeks",
+    "Depression −51%, anxiety −31%, eating-disorder concerns −19%",
+    "High-risk content such as suicidal ideation triggers crisis-line prompts",
+    "Responses monitored by the team; authors call for close expert supervision"
+  ],
+  "model_names": [
+    "Therabot"
+  ],
+  "tags": [
+    "Therabot",
+    "RCT",
+    "生成式AI",
+    "NEJM AI",
+    "治療同盟"
+  ],
+  "population": [
+    "成人"
+  ],
+  "supervision_questions": [
+    "個案對 AI 的同盟評分和對人的同盟，在臨床上代表的意義一樣嗎？",
+    "試驗有研究團隊監看回應，這個條件在真實世界部署時能否維持？",
+    "如果個案告訴你他在用類似工具，你會怎麼了解與整合進治療？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits",
+      "author_handle": "",
+      "author_name": "Dartmouth College",
+      "title": "First Therapy Chatbot Trial Yields Mental Health Benefits",
+      "content": "達特茅斯學院說明發表於 NEJM AI 的 Therabot 隨機對照試驗，這是首個生成式 AI 治療聊天機器人的臨床試驗，參與者有憂鬱、焦慮或飲食疾患風險。",
+      "posted_at": "2025-03-27T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T13:03:54+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "therabot-generative-ai-therapy-chatbot-rct",
+  "featured_at": null,
+  "hot_score": 1.518,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "petrushka-ml-decision-support-for-antidepressants-rct",
+      "title_zh": "機器學習決策支援幫忙挑抗憂鬱劑：PETRUSHKA RCT 降低 8 週停藥",
+      "title_en": "PETRUSHKA ML decision support for antidepressants RCT",
+      "summary_zh": "Mental Elf 評析 Cipriani 等人 2026 年刊於 JAMA 的 PETRUSHKA 隨機對照試驗。這個決策支援工具以機器學習預測模型結合病人對副作用的偏好，在巴西、英國、加拿大 47 個據點納入 520 位重度憂鬱症患者（主要分析 493 人）；8 週停藥人數 41 對 69（RR=0.62），24 週停藥無明顯差異，但憂鬱與焦慮分數較低。",
+      "summary_en": "The Mental Elf reviews Cipriani et al.'s 2026 JAMA RCT of PETRUSHKA, a decision-support tool combining machine-learning prediction models with patients' side-effect preferences. Across 47 sites in Brazil, the UK and Canada (520 eligible, 493 analysed), 8-week discontinuation was 41 vs 69 (RR=0.62); 24-week discontinuation did not clearly differ, though depression and anxiety scores were lower.",
+      "category": "臨床與治療應用",
+      "kind": "research",
+      "model_names": [
+        "PETRUSHKA"
+      ],
+      "tags": [
+        "機器學習",
+        "決策支援",
+        "抗憂鬱劑",
+        "共享決策",
+        "RCT"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.534,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "slug": "therabot-developer-jacobson-on-ai-safety-and-oversight",
+      "title_zh": "Therabot 研發者 Jacobson：生成式 AI 的靈活是雙面刃，反對一律要求臨床人員審核",
+      "title_en": "Therabot developer Jacobson on AI safety and oversight",
+      "summary_zh": "Dartmouth 校園報專訪 Therabot 研發者 Nicholas Jacobson。他說 Therabot 已有隨機對照試驗、另有兩項研究接近完成，並形容生成式 AI「會說出你從沒教它說的話」，這種靈活是雙面刃。他主張審慎監管，但反對一律要求臨床人員逐一審核，認為這會把責任不當地轉嫁到臨床人員而非開發者身上。",
+      "summary_en": "In a student-paper Q&A, Therabot developer Nicholas Jacobson says Therabot has completed randomized trials with two more studies nearing completion, and calls generative AI's fluidity a double-edged sword. He favors thoughtful regulation but opposes blanket clinician-review mandates, arguing they shift liability onto clinicians rather than AI developers.",
+      "category": "產品與產業",
+      "kind": "product",
+      "model_names": [
+        "Therabot",
+        "Evergreen"
+      ],
+      "tags": [
+        "Therabot",
+        "生成式AI",
+        "監管",
+        "責任歸屬",
+        "校園心理健康"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "大專生",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-22T00:00:00+00:00"
+    },
+    {
+      "slug": "who-launches-practical-guide-on-transitioning-psychiatric-ho",
+      "title_zh": "WHO 世界心理健康日發佈去機構化實務指引：支持轉向社區為本的心理健康照護",
+      "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day",
+      "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。",
+      "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "WHO",
+        "去機構化",
+        "社區照護",
+        "世界心理健康日",
+        "政策"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.707,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-09T00:00:00+00:00"
+    }
+  ],
+  "date": "2025-03-27T00:00:00+00:00"
+}

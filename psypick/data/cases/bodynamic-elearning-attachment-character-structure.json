@@ -1,220 +1,221 @@
 {
- "title_zh": "€29 自學課：Bodynamic 官方「依附與性格結構」入門（約 45 分鐘）",
- "title_en": "Bodynamic eLearning: Attachment & Character Structure",
- "summary_zh": "Bodynamic International 官方的線上自學課程，售價 €29、約 45 分鐘，包含 11 段教學影片與 4 段引導練習，介紹 Bodynamic 對依附的工作方式，涵蓋自主期（8 個月–2.5 歲）、意志期（2–4 歲）與愛／性期（3–6 歲）三個發展階段。適合想先低成本了解 Bodynamic 發展理論、再決定是否報讀 Foundation 訓練的心理專業人員。",
- "summary_en": "Bodynamic International's €29, ~45-minute self-paced course (11 videos, 4 guided exercises) on attachment and character structure across the Autonomy, Will and Love/Sexuality stages.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程資訊，非研究證據。",
- "ethics_flags": [
-  {
-   "flag": "能力範圍",
-   "note": "短課程只屬入門，不足以在臨床上使用 Bodynamic 身體介入。",
-   "refs": [
-    "APA 2.01｜能力範圍"
-   ]
-  }
- ],
- "psych_concepts": [
-  {
-   "name": "依附理論",
-   "note": "課程以 Bodynamic 的發展階段重新詮釋依附，可與主流依附理論對照閱讀。",
-   "ref": "概念｜依附理論"
-  }
- ],
- "caution": "Bodynamic 性格結構理論的實證研究有限；以歐元計價，實際付款金額依匯率而定。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "Bodynamic 官方課程，€29，約 45 分鐘",
-  "11 段影片＋4 段引導練習，終身存取",
-  "涵蓋自主、意志、愛／性三個發展階段",
-  "頁面未列講師與 CE 學分"
- ],
- "brief_en": [
-  "Official Bodynamic course, €29, ~45 min",
-  "11 videos + 4 exercises",
-  "Three developmental stages",
-  "No instructor or CE listed"
- ],
- "model_names": [],
- "tags": [
-  "Bodynamic",
-  "依附",
-  "性格結構",
-  "低價",
-  "自學"
- ],
- "population": [
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "Bodynamic 的性格結構與你熟悉的依附分類有何異同？哪些說法有實證、哪些仍是理論？",
-  "課程中的引導練習，你會先在自己身上試，還是在督導下才用於個案？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "Bodynamic International",
-  "format": "線上自學",
-  "price": "€29",
-  "price_tier": "低價",
-  "ce_credits": "",
-  "language": "英文",
-  "event_date": "",
-  "deadline": "",
-  "audience_level": "入門",
-  "topic": "Bodynamic 發展理論：依附與性格結構（自主、意志、愛／性三個階段）",
-  "signup_url": "https://elearning.bodynamic.com/offers/zz3WVLRK",
-  "format_note": "線上自學影片（終身存取）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://global.bodynamic.com/elearning/attachment-character-structure/",
-   "author_handle": "",
-   "author_name": "Bodynamic International",
-   "title": "Attachment & Character Structure – Bodynamic eLearning",
-   "content": "Bodynamic 官方約 45 分鐘的自學課程，11 段教學影片加 4 段引導練習，介紹以 Bodynamic 方式理解依附與性格結構。",
-   "posted_at": "2026-10-01T03:34:06+00:00"
-  }
- ],
- "first_seen_at": "2026-10-01T03:34:06+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "bodynamic-elearning-attachment-character-structure",
- "featured_at": null,
- "hot_score": 2.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "sue-johnson-eft-webinar-series-on-demand-with-ce",
-   "title_zh": "Sue Johnson 親授伴侶 EFT 錄影課，每集 40 美元含 CE",
-   "title_en": "Sue Johnson EFT webinar series on demand with CE",
-   "summary_zh": "美國 National Register of Health Service Psychologists 提供四集由 Sue Johnson 主講的情緒取向治療（Emotionally Focused Therapy，Sue Johnson 系，非 Greenberg 的 Emotion-Focused Therapy）錄影課，主題包括以依附為本的伴侶介入、EFT Tango 與微介入、Hold Me Tight 對話與依附創傷修復，以及創傷伴侶。每集 40 美元，含 1–1.5 小時 CE，課程等級標示為進階。",
-   "summary_en": "The National Register of Health Service Psychologists offers four recorded webinars by Dr. Sue Johnson on Emotionally Focused Therapy (the Johnson model, not Greenberg's Emotion-Focused Therapy), covering attachment-based couple intervention, the EFT Tango, Hold Me Tight conversations and attachment injuries, and trauma couples. Each costs US$40 including 1–1.5 CE credits; instructional level is advanced.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "情緒取向治療",
-    "Sue Johnson 系",
-    "伴侶治療",
+  "title_zh": "€29 自學課：Bodynamic 官方「依附與性格結構」入門（約 45 分鐘）",
+  "title_en": "Bodynamic eLearning: Attachment & Character Structure",
+  "summary_zh": "Bodynamic International 官方的線上自學課程，售價 €29、約 45 分鐘，包含 11 段教學影片與 4 段引導練習，介紹 Bodynamic 對依附的工作方式，涵蓋自主期（8 個月–2.5 歲）、意志期（2–4 歲）與愛／性期（3–6 歲）三個發展階段。適合想先低成本了解 Bodynamic 發展理論、再決定是否報讀 Foundation 訓練的心理專業人員。",
+  "summary_en": "Bodynamic International's €29, ~45-minute self-paced course (11 videos, 4 guided exercises) on attachment and character structure across the Autonomy, Will and Love/Sexuality stages.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程資訊，非研究證據。",
+  "ethics_flags": [
+    {
+      "flag": "能力範圍",
+      "note": "短課程只屬入門，不足以在臨床上使用 Bodynamic 身體介入。",
+      "refs": [
+        "APA 2.01｜能力範圍"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "依附理論",
+      "note": "課程以 Bodynamic 的發展階段重新詮釋依附，可與主流依附理論對照閱讀。",
+      "ref": "概念｜依附理論"
+    }
+  ],
+  "caution": "Bodynamic 性格結構理論的實證研究有限；以歐元計價，實際付款金額依匯率而定。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "Bodynamic 官方課程，€29，約 45 分鐘",
+    "11 段影片＋4 段引導練習，終身存取",
+    "涵蓋自主、意志、愛／性三個發展階段",
+    "頁面未列講師與 CE 學分"
+  ],
+  "brief_en": [
+    "Official Bodynamic course, €29, ~45 min",
+    "11 videos + 4 exercises",
+    "Three developmental stages",
+    "No instructor or CE listed"
+  ],
+  "model_names": [],
+  "tags": [
+    "Bodynamic",
     "依附",
-    "繼續教育",
-    "低價"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者",
-    "成人"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "National Register of Health Service Psychologists",
-    "price": "每集 40 美元（含 CE）",
-    "price_tier": "低價",
-    "ce_credits": "第一集 1.5 小時、第二至四集各 1 小時（APA 認可主辦單位）",
-    "language": "英文",
-    "deadline": "",
-    "event_date": "",
-    "format": "錄影課（隨選觀看）"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
-   "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
-   "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
-   "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
-   "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "創傷",
-    "依附",
-    "身體取向治療",
-    "網上研討會",
-    "免費CE"
-   ],
-   "first_seen_at": "2026-10-07T02:38:14+00:00",
-   "evidence_level": 0,
-   "population": [
+    "性格結構",
+    "低價",
+    "自學"
+  ],
+  "population": [
     "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": "2026-10-07T02:38:14+00:00",
-   "tier": "archive",
-   "has_ethics_flags": true,
-   "date": "2026-10-07T02:38:14+00:00",
-   "training": {
-    "provider": "Phoenix Center for Experiential Trauma Therapy",
-    "price": "Free",
-    "price_tier": "免費",
-    "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
-    "language": "English",
-    "deadline": "",
-    "event_date": "2026-10-14",
-    "format": "線上"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "low-cost-on-demand-efft-short-courses-by-ad-le-lafrance",
-   "title_zh": "情緒取向家庭治療（EFFT）低價短課：治療性道歉、無望感回應，10–35 美元",
-   "title_en": "Low-cost on-demand EFFT short courses by Adèle Lafrance",
-   "summary_zh": "情緒取向家庭治療（Emotion-Focused Family Therapy, EFFT）創始人 Adèle Lafrance 的網站有多門隨選短課，其中低於 50 美元的包括「Responding to Hopelessness」（10 美元、20 分鐘）、「Universal Apology in Clinical Practice」（25 美元、45 分鐘）、「Emotion-Focused Homework Ideas」（25 美元、55 分鐘）、「Transforming Childhood Pain」與「Process of Emotional Self-Exploration」（各 35 美元）。EFFT 屬 Greenberg 系的情緒焦點取向（網站引用 Lafrance Robinson、Dolhanty 與 Greenberg 2015 年論文），不是 Sue Johnson 系。",
-   "summary_en": "Adèle Lafrance, creator of Emotion-Focused Family Therapy (EFFT), offers on-demand short courses, several under US$50: Responding to Hopelessness ($10, 20 min), Universal Apology in Clinical Practice ($25, 45 min), Emotion-Focused Homework Ideas ($25, 55 min), and Transforming Childhood Pain and Process of Emotional Self-Exploration ($35 each). EFFT belongs to the Greenberg emotion-focused lineage (the site cites Lafrance Robinson, Dolhanty & Greenberg, 2015), not Sue Johnson's model.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "情緒取向治療",
-    "Greenberg 系",
-    "情緒取向家庭治療",
-    "兒童心理",
-    "親職",
-    "低價"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者",
-    "兒童青少年"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "Dr. Adèle Lafrance",
-    "price": "10–35 美元（單門）",
+  ],
+  "supervision_questions": [
+    "Bodynamic 的性格結構與你熟悉的依附分類有何異同？哪些說法有實證、哪些仍是理論？",
+    "課程中的引導練習，你會先在自己身上試，還是在督導下才用於個案？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Bodynamic International",
+    "format": "線上自學",
+    "price": "€29",
     "price_tier": "低價",
-    "ce_credits": "低價短課頁面未列 CE",
+    "ce_credits": "",
     "language": "英文",
-    "deadline": "",
     "event_date": "",
-    "format": "錄影課（隨選觀看）"
-   },
-   "deadline_soon": false
-  }
- ]
+    "deadline": "",
+    "audience_level": "入門",
+    "topic": "Bodynamic 發展理論：依附與性格結構（自主、意志、愛／性三個階段）",
+    "signup_url": "https://elearning.bodynamic.com/offers/zz3WVLRK",
+    "format_note": "線上自學影片（終身存取）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://global.bodynamic.com/elearning/attachment-character-structure/",
+      "author_handle": "",
+      "author_name": "Bodynamic International",
+      "title": "Attachment & Character Structure – Bodynamic eLearning",
+      "content": "Bodynamic 官方約 45 分鐘的自學課程，11 段教學影片加 4 段引導練習，介紹以 Bodynamic 方式理解依附與性格結構。",
+      "posted_at": "2026-10-01T03:34:06+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-01T03:34:06+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "bodynamic-elearning-attachment-character-structure",
+  "featured_at": null,
+  "hot_score": 2.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "sue-johnson-eft-webinar-series-on-demand-with-ce",
+      "title_zh": "Sue Johnson 親授伴侶 EFT 錄影課，每集 40 美元含 CE",
+      "title_en": "Sue Johnson EFT webinar series on demand with CE",
+      "summary_zh": "美國 National Register of Health Service Psychologists 提供四集由 Sue Johnson 主講的情緒取向治療（Emotionally Focused Therapy，Sue Johnson 系，非 Greenberg 的 Emotion-Focused Therapy）錄影課，主題包括以依附為本的伴侶介入、EFT Tango 與微介入、Hold Me Tight 對話與依附創傷修復，以及創傷伴侶。每集 40 美元，含 1–1.5 小時 CE，課程等級標示為進階。",
+      "summary_en": "The National Register of Health Service Psychologists offers four recorded webinars by Dr. Sue Johnson on Emotionally Focused Therapy (the Johnson model, not Greenberg's Emotion-Focused Therapy), covering attachment-based couple intervention, the EFT Tango, Hold Me Tight conversations and attachment injuries, and trauma couples. Each costs US$40 including 1–1.5 CE credits; instructional level is advanced.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Sue Johnson 系",
+        "伴侶治療",
+        "依附",
+        "繼續教育",
+        "低價"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "National Register of Health Service Psychologists",
+        "price": "每集 40 美元（含 CE）",
+        "price_tier": "低價",
+        "ce_credits": "第一集 1.5 小時、第二至四集各 1 小時（APA 認可主辦單位）",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "錄影課（隨選觀看）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
+      "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
+      "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
+      "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
+      "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷",
+        "依附",
+        "身體取向治療",
+        "網上研討會",
+        "免費CE"
+      ],
+      "first_seen_at": "2026-10-07T02:38:14+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": "2026-10-07T02:38:14+00:00",
+      "tier": "archive",
+      "has_ethics_flags": true,
+      "date": "2026-10-07T02:38:14+00:00",
+      "training": {
+        "provider": "Phoenix Center for Experiential Trauma Therapy",
+        "price": "Free",
+        "price_tier": "免費",
+        "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
+        "language": "English",
+        "deadline": "",
+        "event_date": "2026-10-14",
+        "format": "線上"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "low-cost-on-demand-efft-short-courses-by-ad-le-lafrance",
+      "title_zh": "情緒取向家庭治療（EFFT）低價短課：治療性道歉、無望感回應，10–35 美元",
+      "title_en": "Low-cost on-demand EFFT short courses by Adèle Lafrance",
+      "summary_zh": "情緒取向家庭治療（Emotion-Focused Family Therapy, EFFT）創始人 Adèle Lafrance 的網站有多門隨選短課，其中低於 50 美元的包括「Responding to Hopelessness」（10 美元、20 分鐘）、「Universal Apology in Clinical Practice」（25 美元、45 分鐘）、「Emotion-Focused Homework Ideas」（25 美元、55 分鐘）、「Transforming Childhood Pain」與「Process of Emotional Self-Exploration」（各 35 美元）。EFFT 屬 Greenberg 系的情緒焦點取向（網站引用 Lafrance Robinson、Dolhanty 與 Greenberg 2015 年論文），不是 Sue Johnson 系。",
+      "summary_en": "Adèle Lafrance, creator of Emotion-Focused Family Therapy (EFFT), offers on-demand short courses, several under US$50: Responding to Hopelessness ($10, 20 min), Universal Apology in Clinical Practice ($25, 45 min), Emotion-Focused Homework Ideas ($25, 55 min), and Transforming Childhood Pain and Process of Emotional Self-Exploration ($35 each). EFFT belongs to the Greenberg emotion-focused lineage (the site cites Lafrance Robinson, Dolhanty & Greenberg, 2015), not Sue Johnson's model.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "情緒取向治療",
+        "Greenberg 系",
+        "情緒取向家庭治療",
+        "兒童心理",
+        "親職",
+        "低價"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "Dr. Adèle Lafrance",
+        "price": "10–35 美元（單門）",
+        "price_tier": "低價",
+        "ce_credits": "低價短課頁面未列 CE",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "錄影課（隨選觀看）"
+      },
+      "deadline_soon": false
+    }
+  ],
+  "date": "2026-10-01T03:34:06+00:00"
 }

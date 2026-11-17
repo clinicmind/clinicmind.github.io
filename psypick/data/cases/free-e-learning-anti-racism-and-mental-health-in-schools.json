@@ -1,215 +1,216 @@
 {
- "title_zh": "免費自學：Anna Freud「反種族主義與學校心理健康」網上課程",
- "title_en": "Free e-learning: Anti-Racism and Mental Health in Schools",
- "summary_zh": "Anna Freud 提供的免費自學網上課程，約 3–5 小時，報名後 12 個月內可修讀。五個單元涵蓋帶領反種族主義改變、全校合作、了解及促進黑人與少數族裔學生的身心健康、支援少數族裔職員，並附反思活動，完成後可申請 CPD 證書。",
- "summary_en": "A free, self-paced Anna Freud e-learning course (3–5 hours, 12 months' access) with five modules on anti-racism and the wellbeing of Black and racially minoritised students and staff; CPD certificate on completion.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程。",
- "ethics_flags": [
-  {
-   "flag": "偏誤與公平",
-   "note": "課程主題是學校中的種族不平等對心理健康的影響。",
-   "refs": [
-    "偏誤與公平｜演算法偏誤"
-   ]
-  }
- ],
- "psych_concepts": [],
- "caution": "課程以英國學校脈絡為主，主要對象是教育人員；CPD 證書不等同心理專業持續進修學分。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "免費、自學、可隨時開始",
-  "約 3–5 小時，12 個月內完成",
-  "五個單元，含反思活動",
-  "完成可取得 CPD 證書"
- ],
- "brief_en": [
-  "Free, self-paced",
-  "3–5 hours, 12 months' access",
-  "Five modules with reflective activities",
-  "CPD certificate available"
- ],
- "model_names": [],
- "tags": [
-  "兒童心理",
-  "學校心理健康",
-  "反種族主義",
-  "免費課程",
-  "Anna Freud"
- ],
- "population": [
-  "兒童青少年",
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "你的服務有沒有收集少數族裔兒童的轉介與流失數據？",
-  "課程對象是學校人員，臨床工作者可以從中帶走甚麼？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "Anna Freud",
-  "format": "線上自學",
-  "price": "免費",
-  "price_tier": "免費",
-  "ce_credits": "CPD 證書（CPD Service）",
-  "language": "英語",
-  "event_date": "",
-  "deadline": "",
-  "audience_level": "學校與學院教育人員（任何職級）",
-  "topic": "反種族主義與學校心理健康",
-  "signup_url": "https://bookings.annafreud.org/s/bookingpage?language=en_GB&CourseId=a4VQ50000005g53MAA",
-  "format_note": "網上自學"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.annafreud.org/training/courses/anti-racism-and-mental-health-in-schools-e-learning/",
-   "author_handle": "",
-   "author_name": "Anna Freud",
-   "title": "E-learning Anti-Racism and Mental Health in Schools",
-   "content": "Anna Freud 的免費自學網上課程，五個單元討論反種族主義與學校心理健康，包括如何支援黑人及少數族裔學生和職員，完成後可取得 CPD 證書。",
-   "posted_at": "2026-10-01T03:55:02+00:00"
-  }
- ],
- "first_seen_at": "2026-10-01T03:55:02+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "free-e-learning-anti-racism-and-mental-health-in-schools",
- "featured_at": null,
- "hot_score": 2.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "classroom-wise-free-school-mental-health-literacy-course",
-   "title_zh": "Classroom WISE：免費自學的學校心理健康素養課程",
-   "title_en": "Classroom WISE free school mental health literacy course",
-   "summary_zh": "Classroom WISE 由美國 MHTTC 網絡與馬里蘭大學醫學院 National Center for School Mental Health 合作開發，是免費的三部分訓練包，包括自學線上課程、影片庫與資源集。內容涵蓋心理健康素養、辨識學生困擾、降溫技巧、創傷知情與包容的課室環境，對象是 K-12 教師、學校人員與學校心理健康專業人員。",
-   "summary_en": "Classroom WISE, developed by the MHTTC Network with the National Center for School Mental Health at the University of Maryland School of Medicine, is a free three-part package with a self-paced online course, video library and resource collection. It covers mental health literacy, recognizing student distress, de-escalation, trauma-informed and inclusive classrooms for K-12 educators and school staff.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
+  "title_zh": "免費自學：Anna Freud「反種族主義與學校心理健康」網上課程",
+  "title_en": "Free e-learning: Anti-Racism and Mental Health in Schools",
+  "summary_zh": "Anna Freud 提供的免費自學網上課程，約 3–5 小時，報名後 12 個月內可修讀。五個單元涵蓋帶領反種族主義改變、全校合作、了解及促進黑人與少數族裔學生的身心健康、支援少數族裔職員，並附反思活動，完成後可申請 CPD 證書。",
+  "summary_en": "A free, self-paced Anna Freud e-learning course (3–5 hours, 12 months' access) with five modules on anti-racism and the wellbeing of Black and racially minoritised students and staff; CPD certificate on completion.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程。",
+  "ethics_flags": [
+    {
+      "flag": "偏誤與公平",
+      "note": "課程主題是學校中的種族不平等對心理健康的影響。",
+      "refs": [
+        "偏誤與公平｜演算法偏誤"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "課程以英國學校脈絡為主，主要對象是教育人員；CPD 證書不等同心理專業持續進修學分。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "免費、自學、可隨時開始",
+    "約 3–5 小時，12 個月內完成",
+    "五個單元，含反思活動",
+    "完成可取得 CPD 證書"
+  ],
+  "brief_en": [
+    "Free, self-paced",
+    "3–5 hours, 12 months' access",
+    "Five modules with reflective activities",
+    "CPD certificate available"
+  ],
+  "model_names": [],
+  "tags": [
     "兒童心理",
     "學校心理健康",
-    "心理健康素養",
-    "教師培訓",
-    "免費"
-   ],
-   "first_seen_at": "2026-10-05T03:24:52+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-05T03:24:52+00:00",
-   "training": {
-    "provider": "MHTTC Network、National Center for School Mental Health（University of Maryland School of Medicine）",
-    "price": "免費",
-    "price_tier": "免費",
-    "ce_credits": "",
-    "language": "英文",
-    "deadline": "",
-    "event_date": "",
-    "format": "自學線上課程（含影片庫與資源集）"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "free-webinar-introduction-to-ambit-and-mentalization",
-   "title_zh": "免費一小時講座：AMBIT 與心智化入門（Anna Freud）",
-   "title_en": "Free webinar: Introduction to AMBIT and mentalization",
-   "summary_zh": "Anna Freud 舉辦的免費一小時 Zoom 講座，介紹 AMBIT：一套由 Anna Freud 在過去 15 年發展、為多重需要人士建立更有效照護系統的框架，常用於危機與高壓工作場景。講座亦說明心智化概念與 AMBIT 培訓選項，對象包括青少年工作者、社工與心理健康專業人員。",
-   "summary_en": "A free one-hour Zoom webinar from Anna Freud introducing AMBIT, a mentalization-based framework for building effective care systems around people with multiple needs, and its training options.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "心智化",
-    "AMBIT",
-    "免費講座",
-    "Anna Freud"
-   ],
-   "first_seen_at": "2026-10-01T03:55:02+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 1.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-01T03:55:02+00:00",
-   "training": {
-    "provider": "Anna Freud",
-    "price": "免費",
-    "price_tier": "免費",
-    "ce_credits": "",
-    "language": "英語",
-    "deadline": "",
-    "event_date": "",
-    "format": "網上直播（Zoom）"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "uc-davis-free-pcit-web-course",
-   "title_zh": "UC Davis 免費 PCIT 網上課程：10 小時、最多 10 個 APA 學分",
-   "title_en": "UC Davis free PCIT web course",
-   "summary_zh": "UC Davis PCIT 訓練中心提供免費的親子互動治療（PCIT）網上課程，共 11 個單元、約 10 小時，結合講解、影片與互動練習，可隨時開始、自訂進度。完成可取得最多 10 個 APA 認可的心理師繼續教育學分，但只屬入門訓練，不等同 PCIT 認證。",
-   "summary_en": "UC Davis PCIT Training Center offers a free, self-paced 10-hour PCIT web course in 11 modules with up to 10 APA-approved CE credits. It is introductory and does not confer PCIT certification.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "PCIT",
-    "親子互動治療",
-    "兒童行為問題",
+    "反種族主義",
     "免費課程",
-    "繼續教育"
-   ],
-   "first_seen_at": "2026-10-01T03:34:06+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者",
-    "兒童青少年"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 3.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-01T03:34:06+00:00",
-   "training": {
-    "provider": "UC Davis PCIT Training Center",
+    "Anna Freud"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "你的服務有沒有收集少數族裔兒童的轉介與流失數據？",
+    "課程對象是學校人員，臨床工作者可以從中帶走甚麼？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Anna Freud",
+    "format": "線上自學",
     "price": "免費",
     "price_tier": "免費",
-    "ce_credits": "最多 10 個 APA 認可心理師繼續教育學分（每小時 1 學分）",
-    "language": "英文",
-    "deadline": "",
+    "ce_credits": "CPD 證書（CPD Service）",
+    "language": "英語",
     "event_date": "",
-    "format": "網上自學課程（11 個單元，含影片與互動練習）"
-   },
-   "deadline_soon": false
-  }
- ]
+    "deadline": "",
+    "audience_level": "學校與學院教育人員（任何職級）",
+    "topic": "反種族主義與學校心理健康",
+    "signup_url": "https://bookings.annafreud.org/s/bookingpage?language=en_GB&CourseId=a4VQ50000005g53MAA",
+    "format_note": "網上自學"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.annafreud.org/training/courses/anti-racism-and-mental-health-in-schools-e-learning/",
+      "author_handle": "",
+      "author_name": "Anna Freud",
+      "title": "E-learning Anti-Racism and Mental Health in Schools",
+      "content": "Anna Freud 的免費自學網上課程，五個單元討論反種族主義與學校心理健康，包括如何支援黑人及少數族裔學生和職員，完成後可取得 CPD 證書。",
+      "posted_at": "2026-10-01T03:55:02+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-01T03:55:02+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "free-e-learning-anti-racism-and-mental-health-in-schools",
+  "featured_at": null,
+  "hot_score": 2.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "classroom-wise-free-school-mental-health-literacy-course",
+      "title_zh": "Classroom WISE：免費自學的學校心理健康素養課程",
+      "title_en": "Classroom WISE free school mental health literacy course",
+      "summary_zh": "Classroom WISE 由美國 MHTTC 網絡與馬里蘭大學醫學院 National Center for School Mental Health 合作開發，是免費的三部分訓練包，包括自學線上課程、影片庫與資源集。內容涵蓋心理健康素養、辨識學生困擾、降溫技巧、創傷知情與包容的課室環境，對象是 K-12 教師、學校人員與學校心理健康專業人員。",
+      "summary_en": "Classroom WISE, developed by the MHTTC Network with the National Center for School Mental Health at the University of Maryland School of Medicine, is a free three-part package with a self-paced online course, video library and resource collection. It covers mental health literacy, recognizing student distress, de-escalation, trauma-informed and inclusive classrooms for K-12 educators and school staff.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "學校心理健康",
+        "心理健康素養",
+        "教師培訓",
+        "免費"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-05T03:24:52+00:00",
+      "training": {
+        "provider": "MHTTC Network、National Center for School Mental Health（University of Maryland School of Medicine）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "自學線上課程（含影片庫與資源集）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "free-webinar-introduction-to-ambit-and-mentalization",
+      "title_zh": "免費一小時講座：AMBIT 與心智化入門（Anna Freud）",
+      "title_en": "Free webinar: Introduction to AMBIT and mentalization",
+      "summary_zh": "Anna Freud 舉辦的免費一小時 Zoom 講座，介紹 AMBIT：一套由 Anna Freud 在過去 15 年發展、為多重需要人士建立更有效照護系統的框架，常用於危機與高壓工作場景。講座亦說明心智化概念與 AMBIT 培訓選項，對象包括青少年工作者、社工與心理健康專業人員。",
+      "summary_en": "A free one-hour Zoom webinar from Anna Freud introducing AMBIT, a mentalization-based framework for building effective care systems around people with multiple needs, and its training options.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "心智化",
+        "AMBIT",
+        "免費講座",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 1.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-01T03:55:02+00:00",
+      "training": {
+        "provider": "Anna Freud",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英語",
+        "deadline": "",
+        "event_date": "",
+        "format": "網上直播（Zoom）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "uc-davis-free-pcit-web-course",
+      "title_zh": "UC Davis 免費 PCIT 網上課程：10 小時、最多 10 個 APA 學分",
+      "title_en": "UC Davis free PCIT web course",
+      "summary_zh": "UC Davis PCIT 訓練中心提供免費的親子互動治療（PCIT）網上課程，共 11 個單元、約 10 小時，結合講解、影片與互動練習，可隨時開始、自訂進度。完成可取得最多 10 個 APA 認可的心理師繼續教育學分，但只屬入門訓練，不等同 PCIT 認證。",
+      "summary_en": "UC Davis PCIT Training Center offers a free, self-paced 10-hour PCIT web course in 11 modules with up to 10 APA-approved CE credits. It is introductory and does not confer PCIT certification.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "PCIT",
+        "親子互動治療",
+        "兒童行為問題",
+        "免費課程",
+        "繼續教育"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 3.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T03:34:06+00:00",
+      "training": {
+        "provider": "UC Davis PCIT Training Center",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "最多 10 個 APA 認可心理師繼續教育學分（每小時 1 學分）",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "網上自學課程（11 個單元，含影片與互動練習）"
+      },
+      "deadline_soon": false
+    }
+  ],
+  "date": "2026-10-01T03:55:02+00:00"
 }

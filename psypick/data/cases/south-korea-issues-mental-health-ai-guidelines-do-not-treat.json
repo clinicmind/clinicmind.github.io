@@ -1,1 +1,160 @@
-{"title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷", "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses", "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。", "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.", "category": "倫理與風險", "kind": "incident", "evidence_level": 2, "evidence_note": "政府與學會指引；內容依據第三方報導（Asia Daily），官方發佈頁未親自開啟", "ethics_flags": [], "psych_concepts": [], "caution": "引文與數據來自 Asia Daily 報導，官方全文未直接核對。", "verify_needed": false, "verify_reason": "", "brief_zh": ["指引不禁止與 AI 談心，但要求診斷、治療與重大人生決定交回專業人員", "危機時應找信任的人或專業服務，不要單靠聊天機器人", "個資（姓名、電話、診斷書）不要輸入 AI"], "brief_en": [], "model_names": [], "tags": ["AI 聊天機器人", "指引", "兒童心理", "危機自殺", "韓國"], "population": ["兒童青少年", "成人", "一般大眾"], "supervision_questions": ["來訪者若向 AI 透露自殺想法，我們有沒有機制知道並接上？", "如何向家長與青少年說明 AI 不能取代專業診斷？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://asiadaily.org/news/14846/", "author_handle": "", "author_name": "Asia Daily", "title": "Asia Daily - South Korea Warns Against AI Mental Health Diagnoses", "content": "", "posted_at": "2026-10-08T00:00:00+00:00"}], "first_seen_at": "2026-10-13T02:38:45+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat", "featured_at": null, "hot_score": 0.0, "tier": "live", "deadline_soon": false, "related": [{"slug": "rcpsych-statement-on-non-recent-child-sexual-abuse", "title_zh": "英國皇家精神科醫學院立場聲明：童年性侵對成人心理健康的影響", "title_en": "RCPsych statement on non-recent child sexual abuse", "summary_zh": "英國皇家精神科醫學院發表立場聲明《Addressing the impact of non-recent child sexual abuse on the mental health of adults》（PS04/26），由 Dr Jo Stubley 與 Dr Maria Podlejska-Eyres 共同主持、倖存者、臨床人員與研究者共同制定。聲明指出專業人員處理揭露的訓練不足、缺乏創傷知情照護導致再創傷、過度依賴診斷，並在臨床、教育、委託服務、研究與政策提出建議。", "summary_en": "Tavistock highlights RCPsych position statement PS04/26 on the impact of non-recent child sexual abuse on adult mental health, co-chaired by Tavistock trauma lead Dr Jo Stubley, calling for disclosure-informed, trauma-sensitive care.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["兒童心理", "創傷", "童年性侵", "創傷知情照護", "指引", "Tavistock"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-26T00:00:00+00:00"}, {"slug": "eu-kids-act-faq-on-ai-companions-for-minors", "title_zh": "歐盟 KIDS Act 官方問答：AI 陪伴不得對兒少製造情感依賴", "title_en": "EU KIDS Act FAQ on AI companions for minors", "summary_zh": "歐盟執委會發布 KIDS Act 問答說明。草案規定 AI 陪伴與聊天機器人面對未成年人時，不得以製造情感依賴的方式模擬人際關係、不得自動延續孩子先前的對話、不得自動啟動或強推給兒童或難以關閉；13 歲以下只能透過家長控制工具使用，並須在上線前做風險測試、持續監測傷害。公眾可在 2026 年 11 月 26 日前提交意見，違規最高罰全球年營業額 6%。", "summary_en": "The European Commission published an FAQ on the proposed KIDS Act. For minors, AI companions and chatbots may not simulate human relationships in ways that create emotional dependency, automatically carry forward a child's previous conversations, or auto-launch, be pushed at children or be hard to disable; under-13s may use them only via parental controls, with pre-launch risk testing and ongoing harm monitoring. Public feedback is open until 26 November 2026, and fines can reach 6% of worldwide turnover.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["歐盟", "KIDS Act", "AI 陪伴", "兒少保護", "公眾諮詢", "兒童心理"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-10-02T00:00:00+00:00"}, {"slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days", "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例", "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days", "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。", "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["兒童心理", "嬰幼兒心理健康", "親嬰關係", "政策", "英國", "Anna Freud"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-24T00:00:00+00:00"}]}
+{
+  "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
+  "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
+  "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
+  "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
+  "category": "倫理與風險",
+  "kind": "incident",
+  "evidence_level": 2,
+  "evidence_note": "政府與學會指引；內容依據第三方報導（Asia Daily），官方發佈頁未親自開啟",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "引文與數據來自 Asia Daily 報導，官方全文未直接核對。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "指引不禁止與 AI 談心，但要求診斷、治療與重大人生決定交回專業人員",
+    "危機時應找信任的人或專業服務，不要單靠聊天機器人",
+    "個資（姓名、電話、診斷書）不要輸入 AI"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "AI 聊天機器人",
+    "指引",
+    "兒童心理",
+    "危機自殺",
+    "韓國"
+  ],
+  "population": [
+    "兒童青少年",
+    "成人",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "來訪者若向 AI 透露自殺想法，我們有沒有機制知道並接上？",
+    "如何向家長與青少年說明 AI 不能取代專業診斷？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://asiadaily.org/news/14846/",
+      "author_handle": "",
+      "author_name": "Asia Daily",
+      "title": "Asia Daily - South Korea Warns Against AI Mental Health Diagnoses",
+      "content": "",
+      "posted_at": "2026-10-08T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-13T02:38:45+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "rcpsych-statement-on-non-recent-child-sexual-abuse",
+      "title_zh": "英國皇家精神科醫學院立場聲明：童年性侵對成人心理健康的影響",
+      "title_en": "RCPsych statement on non-recent child sexual abuse",
+      "summary_zh": "英國皇家精神科醫學院發表立場聲明《Addressing the impact of non-recent child sexual abuse on the mental health of adults》（PS04/26），由 Dr Jo Stubley 與 Dr Maria Podlejska-Eyres 共同主持、倖存者、臨床人員與研究者共同制定。聲明指出專業人員處理揭露的訓練不足、缺乏創傷知情照護導致再創傷、過度依賴診斷，並在臨床、教育、委託服務、研究與政策提出建議。",
+      "summary_en": "Tavistock highlights RCPsych position statement PS04/26 on the impact of non-recent child sexual abuse on adult mental health, co-chaired by Tavistock trauma lead Dr Jo Stubley, calling for disclosure-informed, trauma-sensitive care.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "創傷",
+        "童年性侵",
+        "創傷知情照護",
+        "指引",
+        "Tavistock"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-26T00:00:00+00:00"
+    },
+    {
+      "slug": "eu-kids-act-faq-on-ai-companions-for-minors",
+      "title_zh": "歐盟 KIDS Act 官方問答：AI 陪伴不得對兒少製造情感依賴",
+      "title_en": "EU KIDS Act FAQ on AI companions for minors",
+      "summary_zh": "歐盟執委會發布 KIDS Act 問答說明。草案規定 AI 陪伴與聊天機器人面對未成年人時，不得以製造情感依賴的方式模擬人際關係、不得自動延續孩子先前的對話、不得自動啟動或強推給兒童或難以關閉；13 歲以下只能透過家長控制工具使用，並須在上線前做風險測試、持續監測傷害。公眾可在 2026 年 11 月 26 日前提交意見，違規最高罰全球年營業額 6%。",
+      "summary_en": "The European Commission published an FAQ on the proposed KIDS Act. For minors, AI companions and chatbots may not simulate human relationships in ways that create emotional dependency, automatically carry forward a child's previous conversations, or auto-launch, be pushed at children or be hard to disable; under-13s may use them only via parental controls, with pre-launch risk testing and ongoing harm monitoring. Public feedback is open until 26 November 2026, and fines can reach 6% of worldwide turnover.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "歐盟",
+        "KIDS Act",
+        "AI 陪伴",
+        "兒少保護",
+        "公眾諮詢",
+        "兒童心理"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days",
+      "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例",
+      "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
+      "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
+      "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "嬰幼兒心理健康",
+        "親嬰關係",
+        "政策",
+        "英國",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-24T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-10-08T00:00:00+00:00"
+}

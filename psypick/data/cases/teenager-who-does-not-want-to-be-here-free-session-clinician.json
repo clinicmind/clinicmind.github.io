@@ -1,74 +1,75 @@
 {
- "title_zh": "免費網上培訓：不想來的青少年——拒絕背後的四種保護（12 月 9 日，Anna Cohen／Isabel Fraser）",
- "title_en": "Teenager who does not want to be here free session clinicians December 2026",
- "summary_zh": "臨床心理學資源中心（澳洲）免費網上講座，2026 年 12 月 9 日星期三 19:00–19:45（悉尼時間，約香港時間 16:00–16:45），由 Anna Cohen 博士與 Isabel Fraser 主講「不想來的青少年」。45 分鐘講解如何理解被轉介而非自願求助的青少年的拒絕：拒絕背後四種保護作用（自主、身份、安全、歸屬），以及一個貫穿九節的完整個案示範。對象為與青少年工作的心理學家、輔導員、社工、精神健康職業治療師與學校心理學家。費用全免，登記即可獲錄影與講義；不設證書與 CPD 時數。",
- "summary_en": "The Clinical Psychology Resource Centre (Australia) holds a free live online session on Wednesday 9 December 2026, 7:00-7:45 p.m. Sydney time (about 4:00-4:45 p.m. Hong Kong time), with Dr Anna Cohen and Isabel Fraser presenting 'The Teenager Who Does Not Want To Be Here'. In 45 minutes it explains how to read refusal from young people who were sent rather than referred: four things refusal protects (autonomy, identity, safety, belonging), plus a full worked case across nine sessions. It is aimed at psychologists, counsellors, social workers, mental health occupational therapists and school psychologists working with adolescents. Attendance is free and all registrants receive the recording and slides; no certificate or CPD hours are issued.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓頁面（The Clinical Psychology Resource Centre；2026 年 12 月 9 日 19:00–19:45 悉尼時間；免費；線上；經原頁核實，2026-11-14）",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "時間為悉尼時間（AEDT，約香港時間 16:00）；不設證書與 CPD 時數；風險與自殘只作原則層面討論，非風險評估培訓；個案為去識別化綜合個案。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "講者：Anna Cohen 博士（資深臨床心理學家，三十年兒童及家庭臨床經驗）與 Isabel Fraser（資深臨床心理學家、董事會認可督導）",
-  "主題：不想來的青少年——拒絕背後的四種保護（自主、身份、安全、歸屬）",
-  "日期：2026 年 12 月 9 日星期三 19:00–19:45（悉尼時間，約香港時間 16:00–16:45）",
-  "內容：以四個同被形容為「無動力」的年輕人，示範如何分辨拒絕背後的不同作用；一個貫穿九節的完整個案示範；下星期一可用的具體做法",
-  "費用：免費參加；登記即可獲錄影與講義",
-  "對象：與青少年工作的心理學家、輔導員、社工、精神健康職業治療師與學校心理學家；不設證書與 CPD 時數"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "青少年",
-  "抗拒",
-  "治療關係",
-  "免費培訓",
-  "網上講座"
- ],
- "population": [
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "督導問「個青少年完全唔合作，係咪無動力」，你會點用呢場講座的四種保護去重新表述？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "The Clinical Psychology Resource Centre（臨床心理學資源中心）",
-  "price": "免費",
-  "price_tier": "免費",
-  "ce_credits": "無證書、無 CPD 時數",
-  "language": "英語",
-  "deadline": "",
-  "event_date": "2026-12-09",
-  "format": "線上直播",
-  "event_time_note": "19:00–19:45（悉尼時間，約香港時間 16:00–16:45）",
-  "format_note": "線上直播（設錄影）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.theclinicalpsychologyresourcecentre.com/free-adolescent-webinar",
-   "author_handle": "",
-   "author_name": "The Clinical Psychology Resource Centre",
-   "title": "The Teenager Who Does Not Want To Be Here: Free Session for Clinicians (9 December 2026)",
-   "content": "免費網上培訓：2026 年 12 月 9 日，Cohen 與 Fraser 主講不想來的青少年與拒絕背後的四種保護。",
-   "posted_at": "2026-11-14T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-11-14T13:32:07+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "teenager-who-does-not-want-to-be-here-free-session-clinician",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [],
- "evidence_quote": "Autonomy, identity, safety and belonging",
- "page_date": ""
+  "title_zh": "免費網上培訓：不想來的青少年——拒絕背後的四種保護（12 月 9 日，Anna Cohen／Isabel Fraser）",
+  "title_en": "Teenager who does not want to be here free session clinicians December 2026",
+  "summary_zh": "臨床心理學資源中心（澳洲）免費網上講座，2026 年 12 月 9 日星期三 19:00–19:45（悉尼時間，約香港時間 16:00–16:45），由 Anna Cohen 博士與 Isabel Fraser 主講「不想來的青少年」。45 分鐘講解如何理解被轉介而非自願求助的青少年的拒絕：拒絕背後四種保護作用（自主、身份、安全、歸屬），以及一個貫穿九節的完整個案示範。對象為與青少年工作的心理學家、輔導員、社工、精神健康職業治療師與學校心理學家。費用全免，登記即可獲錄影與講義；不設證書與 CPD 時數。",
+  "summary_en": "The Clinical Psychology Resource Centre (Australia) holds a free live online session on Wednesday 9 December 2026, 7:00-7:45 p.m. Sydney time (about 4:00-4:45 p.m. Hong Kong time), with Dr Anna Cohen and Isabel Fraser presenting 'The Teenager Who Does Not Want To Be Here'. In 45 minutes it explains how to read refusal from young people who were sent rather than referred: four things refusal protects (autonomy, identity, safety, belonging), plus a full worked case across nine sessions. It is aimed at psychologists, counsellors, social workers, mental health occupational therapists and school psychologists working with adolescents. Attendance is free and all registrants receive the recording and slides; no certificate or CPD hours are issued.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓頁面（The Clinical Psychology Resource Centre；2026 年 12 月 9 日 19:00–19:45 悉尼時間；免費；線上；經原頁核實，2026-11-14）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "時間為悉尼時間（AEDT，約香港時間 16:00）；不設證書與 CPD 時數；風險與自殘只作原則層面討論，非風險評估培訓；個案為去識別化綜合個案。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "講者：Anna Cohen 博士（資深臨床心理學家，三十年兒童及家庭臨床經驗）與 Isabel Fraser（資深臨床心理學家、董事會認可督導）",
+    "主題：不想來的青少年——拒絕背後的四種保護（自主、身份、安全、歸屬）",
+    "日期：2026 年 12 月 9 日星期三 19:00–19:45（悉尼時間，約香港時間 16:00–16:45）",
+    "內容：以四個同被形容為「無動力」的年輕人，示範如何分辨拒絕背後的不同作用；一個貫穿九節的完整個案示範；下星期一可用的具體做法",
+    "費用：免費參加；登記即可獲錄影與講義",
+    "對象：與青少年工作的心理學家、輔導員、社工、精神健康職業治療師與學校心理學家；不設證書與 CPD 時數"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "青少年",
+    "抗拒",
+    "治療關係",
+    "免費培訓",
+    "網上講座"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "督導問「個青少年完全唔合作，係咪無動力」，你會點用呢場講座的四種保護去重新表述？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "The Clinical Psychology Resource Centre（臨床心理學資源中心）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "無證書、無 CPD 時數",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-12-09",
+    "format": "線上直播",
+    "event_time_note": "19:00–19:45（悉尼時間，約香港時間 16:00–16:45）",
+    "format_note": "線上直播（設錄影）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.theclinicalpsychologyresourcecentre.com/free-adolescent-webinar",
+      "author_handle": "",
+      "author_name": "The Clinical Psychology Resource Centre",
+      "title": "The Teenager Who Does Not Want To Be Here: Free Session for Clinicians (9 December 2026)",
+      "content": "免費網上培訓：2026 年 12 月 9 日，Cohen 與 Fraser 主講不想來的青少年與拒絕背後的四種保護。",
+      "posted_at": "2026-11-14T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-14T13:32:07+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "teenager-who-does-not-want-to-be-here-free-session-clinician",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Autonomy, identity, safety and belonging",
+  "page_date": "",
+  "date": "2026-11-14T13:32:07+00:00"
 }

@@ -1,1 +1,156 @@
-{"title_zh": "Ask Lisa 第 292 集：色情內容如何傷害青少年的性發展", "title_en": "Ask Lisa Podcast Episode 292: How Pornographic Content Harms Sexual Development", "summary_zh": "Lisa Damour 的 Ask Lisa 播客第 292 集，與來賓 Tori Cordiano 討論色情內容如何影響青少年的性發展。官網只公開標題與日期，節目內容需自行收聽核實。", "summary_en": "Episode 292 of Lisa Damour's Ask Lisa podcast (6 Oct 2026), with guest Tori Cordiano, on how pornographic content affects adolescent sexual development. Only the title and date are public; the content could not be verified.", "category": "臨床與治療應用", "kind": "practice", "evidence_level": 0, "evidence_note": "播客節目，內容未能核實", "ethics_flags": [], "psych_concepts": [], "caution": "只核對到標題與日期，不能當作研究證據；內容請自行收聽判斷。", "verify_needed": true, "verify_reason": "單集內容在會員區，只核對到標題、日期（2026-10-06）與來賓（Tori Cordiano）；內容摘要未能核實", "brief_zh": ["來賓為 Tori Cordiano", "主題為青少年性發展與色情內容", "詳細內容在會員區，未能核實"], "brief_en": [], "model_names": [], "tags": ["青少年", "性發展", "色情內容", "家長指引", "podcast"], "population": ["兒童青少年", "一般大眾"], "supervision_questions": ["與家長討論青少年接觸色情內容時，臨床工作者如何避免羞辱與恐嚇式說法？", "青少年提起色情內容時，保密與通報界線如何向他們說明？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://drlisadamour.com", "author_handle": "", "author_name": "Lisa Damour", "title": "Ask Lisa Podcast – Episode 292: How Pornographic Content Harms Sexual Development", "content": "Lisa Damour 的 Ask Lisa Podcast 第 292 集，談色情內容如何傷害青少年的性發展，來賓為 Dr. Tori Cordiano。單集頁需訂閱，未能開啟核實。", "posted_at": "2026-10-06T00:00:00+00:00"}], "first_seen_at": "2026-10-07T02:38:14+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "ask-lisa-podcast-episode-292-how-pornographic-content-harms", "featured_at": null, "hot_score": 0.525, "tier": "live", "deadline_soon": false, "related": [{"slug": "early-warning-signs-of-teen-eating-disorders", "title_zh": "青少年飲食疾患早期警訊：「注意、詢問、行動」，不必等孩子同意才求助", "title_en": "Early warning signs of teen eating disorders", "summary_zh": "Lisa Damour 在 Ask Lisa Podcast 訪問前飲食疾患學會（Academy for Eating Disorders）理事長 Kelly Bhatnagar，談如何分辨青少年正常飲食變化與飲食疾患警訊。她提出「注意、詢問、行動」：觀察行為變化、以好奇而非指責的方式詢問，擔心時就尋求專業評估，不必等青少年同意；並建議尋找受過 Maudsley 家庭治療（FBT）訓練的專業人員。", "summary_en": "On the Ask Lisa Podcast, Lisa Damour talks with eating-disorder specialist Kelly Bhatnagar, a recent past president of the Academy for Eating Disorders, about distinguishing normal adolescent eating changes from warning signs. Bhatnagar recommends 'Notice, Ask, Act' and seeking evaluation without waiting for the teen's agreement, and points families to clinicians trained in Maudsley family-based treatment.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["飲食疾患", "青少年", "家庭治療", "FBT", "早期辨識"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.383, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-09-15T00:00:00+00:00"}, {"slug": "adolescent-insomnia-vs-circadian-delay", "title_zh": "青少年「失眠」可能是晝夜節律延遲：挪威研究近九成有相位後移指標", "title_en": "Adolescent insomnia vs circadian delay", "summary_zh": "ACAMH 部落格整理挪威 3,867 名高中生的研究（Arnesen 等，2025）：34.5% 符合失眠標準，但其中 88.4% 呈現晝夜節律延遲的指標。作者建議評估上學日與假日的睡眠時間差、延後就寢是否改善入睡、週末補眠等；失眠以 CBT-I 處理，節律延遲則考慮光照、褪黑激素時機與逐步提前起床時間，而非只叫孩子早點上床。", "summary_en": "An ACAMH blog summarises a study of 3,867 Norwegian high-school students (Arnesen et al., 2025): 34.5% met insomnia criteria, yet 88.4% of these showed indicators of circadian delay. The author recommends assessing school-day vs free-day sleep timing, response to later bedtimes and weekend catch-up sleep; CBT-I for insomnia, and light, melatonin timing and gradual wake-time advances for circadian delay rather than simply earlier bedtimes.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["兒童心理", "青少年", "睡眠", "失眠", "晝夜節律", "CBT-I", "鑑別診斷"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 2, "population": ["兒童青少年"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-27T00:00:00+00:00"}, {"slug": "youth-self-harm-and-service-contact-before-suicide", "title_zh": "青少年自傷：把每次接觸服務變成照護機會——英國 544 名自殺身亡青少年資料", "title_en": "Youth self-harm and service contact before suicide", "summary_zh": "ACAMH 部落格評介英國全國連續案例系列研究（Aggarwal 等，British Journal of Psychiatry, 2025）：544 名 10–19 歲自殺身亡者中 49% 有自傷紀錄、26% 有近期自傷；近期自傷者中 60% 在死亡前三個月內曾接觸心理健康服務，95% 經歷近期逆境。另有 51% 沒有自傷紀錄。作者建議評估不只看自傷行為，也要看關係、安全與環境壓力，並提供協調的個別化照護與 48 小時內的後續追蹤。", "summary_en": "An ACAMH blog reviews a UK consecutive case series (Aggarwal et al., British Journal of Psychiatry, 2025) of 544 young people aged 10–19 who died by suicide: 49% had a self-harm history and 26% recent self-harm; among those with recent self-harm, 60% had contact with mental health services in the prior three months and 95% had recent adversity, while 51% had no recorded self-harm. The author urges broader assessment of relationships, safety and stressors, coordinated care and 48-hour follow-up.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["兒童心理", "青少年", "自傷", "自殺預防", "後續照護"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 2, "population": ["兒童青少年"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-21T00:00:00+00:00"}]}
+{
+  "title_zh": "Ask Lisa 第 292 集：色情內容如何傷害青少年的性發展",
+  "title_en": "Ask Lisa Podcast Episode 292: How Pornographic Content Harms Sexual Development",
+  "summary_zh": "Lisa Damour 的 Ask Lisa 播客第 292 集，與來賓 Tori Cordiano 討論色情內容如何影響青少年的性發展。官網只公開標題與日期，節目內容需自行收聽核實。",
+  "summary_en": "Episode 292 of Lisa Damour's Ask Lisa podcast (6 Oct 2026), with guest Tori Cordiano, on how pornographic content affects adolescent sexual development. Only the title and date are public; the content could not be verified.",
+  "category": "臨床與治療應用",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "播客節目，內容未能核實",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "只核對到標題與日期，不能當作研究證據；內容請自行收聽判斷。",
+  "verify_needed": true,
+  "verify_reason": "單集內容在會員區，只核對到標題、日期（2026-10-06）與來賓（Tori Cordiano）；內容摘要未能核實",
+  "brief_zh": [
+    "來賓為 Tori Cordiano",
+    "主題為青少年性發展與色情內容",
+    "詳細內容在會員區，未能核實"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "青少年",
+    "性發展",
+    "色情內容",
+    "家長指引",
+    "podcast"
+  ],
+  "population": [
+    "兒童青少年",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "與家長討論青少年接觸色情內容時，臨床工作者如何避免羞辱與恐嚇式說法？",
+    "青少年提起色情內容時，保密與通報界線如何向他們說明？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://drlisadamour.com",
+      "author_handle": "",
+      "author_name": "Lisa Damour",
+      "title": "Ask Lisa Podcast – Episode 292: How Pornographic Content Harms Sexual Development",
+      "content": "Lisa Damour 的 Ask Lisa Podcast 第 292 集，談色情內容如何傷害青少年的性發展，來賓為 Dr. Tori Cordiano。單集頁需訂閱，未能開啟核實。",
+      "posted_at": "2026-10-06T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-07T02:38:14+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ask-lisa-podcast-episode-292-how-pornographic-content-harms",
+  "featured_at": null,
+  "hot_score": 0.525,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "early-warning-signs-of-teen-eating-disorders",
+      "title_zh": "青少年飲食疾患早期警訊：「注意、詢問、行動」，不必等孩子同意才求助",
+      "title_en": "Early warning signs of teen eating disorders",
+      "summary_zh": "Lisa Damour 在 Ask Lisa Podcast 訪問前飲食疾患學會（Academy for Eating Disorders）理事長 Kelly Bhatnagar，談如何分辨青少年正常飲食變化與飲食疾患警訊。她提出「注意、詢問、行動」：觀察行為變化、以好奇而非指責的方式詢問，擔心時就尋求專業評估，不必等青少年同意；並建議尋找受過 Maudsley 家庭治療（FBT）訓練的專業人員。",
+      "summary_en": "On the Ask Lisa Podcast, Lisa Damour talks with eating-disorder specialist Kelly Bhatnagar, a recent past president of the Academy for Eating Disorders, about distinguishing normal adolescent eating changes from warning signs. Bhatnagar recommends 'Notice, Ask, Act' and seeking evaluation without waiting for the teen's agreement, and points families to clinicians trained in Maudsley family-based treatment.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "飲食疾患",
+        "青少年",
+        "家庭治療",
+        "FBT",
+        "早期辨識"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.383,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-09-15T00:00:00+00:00"
+    },
+    {
+      "slug": "adolescent-insomnia-vs-circadian-delay",
+      "title_zh": "青少年「失眠」可能是晝夜節律延遲：挪威研究近九成有相位後移指標",
+      "title_en": "Adolescent insomnia vs circadian delay",
+      "summary_zh": "ACAMH 部落格整理挪威 3,867 名高中生的研究（Arnesen 等，2025）：34.5% 符合失眠標準，但其中 88.4% 呈現晝夜節律延遲的指標。作者建議評估上學日與假日的睡眠時間差、延後就寢是否改善入睡、週末補眠等；失眠以 CBT-I 處理，節律延遲則考慮光照、褪黑激素時機與逐步提前起床時間，而非只叫孩子早點上床。",
+      "summary_en": "An ACAMH blog summarises a study of 3,867 Norwegian high-school students (Arnesen et al., 2025): 34.5% met insomnia criteria, yet 88.4% of these showed indicators of circadian delay. The author recommends assessing school-day vs free-day sleep timing, response to later bedtimes and weekend catch-up sleep; CBT-I for insomnia, and light, melatonin timing and gradual wake-time advances for circadian delay rather than simply earlier bedtimes.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "青少年",
+        "睡眠",
+        "失眠",
+        "晝夜節律",
+        "CBT-I",
+        "鑑別診斷"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-27T00:00:00+00:00"
+    },
+    {
+      "slug": "youth-self-harm-and-service-contact-before-suicide",
+      "title_zh": "青少年自傷：把每次接觸服務變成照護機會——英國 544 名自殺身亡青少年資料",
+      "title_en": "Youth self-harm and service contact before suicide",
+      "summary_zh": "ACAMH 部落格評介英國全國連續案例系列研究（Aggarwal 等，British Journal of Psychiatry, 2025）：544 名 10–19 歲自殺身亡者中 49% 有自傷紀錄、26% 有近期自傷；近期自傷者中 60% 在死亡前三個月內曾接觸心理健康服務，95% 經歷近期逆境。另有 51% 沒有自傷紀錄。作者建議評估不只看自傷行為，也要看關係、安全與環境壓力，並提供協調的個別化照護與 48 小時內的後續追蹤。",
+      "summary_en": "An ACAMH blog reviews a UK consecutive case series (Aggarwal et al., British Journal of Psychiatry, 2025) of 544 young people aged 10–19 who died by suicide: 49% had a self-harm history and 26% recent self-harm; among those with recent self-harm, 60% had contact with mental health services in the prior three months and 95% had recent adversity, while 51% had no recorded self-harm. The author urges broader assessment of relationships, safety and stressors, coordinated care and 48-hour follow-up.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "青少年",
+        "自傷",
+        "自殺預防",
+        "後續照護"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-21T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-10-06T00:00:00+00:00"
+}

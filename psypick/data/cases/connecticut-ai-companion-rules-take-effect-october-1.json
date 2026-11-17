@@ -1,1 +1,195 @@
-{"title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程", "title_en": "Connecticut AI companion rules take effect October 1", "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。", "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.", "category": "倫理與風險", "kind": "practice", "evidence_level": 0, "evidence_note": "律師事務所的法規整理，非實證研究。", "ethics_flags": [{"flag": "危機處理", "note": "法律要求 AI 陪伴業者建立偵測並回應自殺、自傷跡象的流程。", "refs": ["危機處理｜自殺與自傷風險"]}, {"flag": "依賴與界線", "note": "對未成年人禁止誘導延長使用與浪漫互動，針對的是情感依賴與界線問題。", "refs": ["APA 3.05｜多重關係與界線"]}], "psych_concepts": [{"name": "擬社會關係", "note": "法律對 AI 陪伴的定義正是「能跨多次互動維持關係」的系統，與單向情感連結的風險相關。", "ref": "概念｜擬社會關係"}, {"name": "ELIZA 效應", "note": "要求定期提醒用戶在與 AI 對話，用意是減少把程式當成真人的傾向。", "ref": "概念｜ELIZA 效應"}], "caution": "法律只規範業者，不保證每個 AI 陪伴產品都能可靠偵測危機；臨床上仍須自行評估個案的使用情況與風險。", "verify_needed": false, "verify_reason": "", "brief_zh": ["Public Act 26-15 於 2026-10-01 生效", "AI 陪伴須定期揭露自己是 AI", "須有偵測與回應自殺、自傷跡象的流程", "未成年人：禁浪漫或性露骨互動、禁誘導延長使用"], "brief_en": ["Public Act 26-15 effective Oct 1, 2026", "AI companions must disclose they are AI at intervals", "Protocols required for suicide and self-harm indicators", "Minors: no romantic or explicit chats, no engagement manipulation"], "model_names": [], "tags": ["康乃狄克州", "AI 陪伴", "美國州法", "自殺防治", "兒少保護", "法規生效"], "population": ["兒童青少年", "一般大眾"], "supervision_questions": ["個案（尤其青少年）若常用 AI 陪伴，初談與風險評估要怎樣問使用情況？", "法律要求的自殺自傷「偵測與回應」流程，能取代人手危機評估嗎？臨床人員可以怎樣補位？", "怎樣向家長解釋 AI 陪伴的依賴風險，又不致引起過度恐慌？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://carmodylaw.com/effective-october-2026-new-data-privacy-and-ai-laws-from-the-2026-connecticut-legislative-session", "author_handle": "", "author_name": "Carmody Torrance Sandak & Hennessey（Sherwin Yoder）", "title": "Effective October 1, 2026: New Data Privacy and AI Laws from the 2026 Connecticut Legislative Session", "content": "律師事務所整理康乃狄克州 2026 年 10 月 1 日起生效的資料隱私與 AI 法律，其中 Public Act 26-15 規範 AI 陪伴：須定期揭露是 AI、建立偵測與回應自殺自傷跡象的流程，並對未成年用戶設多項保護。", "posted_at": "2026-09-30T00:00:00+00:00"}], "first_seen_at": "2026-10-05T03:24:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "connecticut-ai-companion-rules-take-effect-october-1", "featured_at": null, "hot_score": 1.43, "tier": "live", "deadline_soon": false, "related": [{"slug": "eu-kids-act-faq-on-ai-companions-for-minors", "title_zh": "歐盟 KIDS Act 官方問答：AI 陪伴不得對兒少製造情感依賴", "title_en": "EU KIDS Act FAQ on AI companions for minors", "summary_zh": "歐盟執委會發布 KIDS Act 問答說明。草案規定 AI 陪伴與聊天機器人面對未成年人時，不得以製造情感依賴的方式模擬人際關係、不得自動延續孩子先前的對話、不得自動啟動或強推給兒童或難以關閉；13 歲以下只能透過家長控制工具使用，並須在上線前做風險測試、持續監測傷害。公眾可在 2026 年 11 月 26 日前提交意見，違規最高罰全球年營業額 6%。", "summary_en": "The European Commission published an FAQ on the proposed KIDS Act. For minors, AI companions and chatbots may not simulate human relationships in ways that create emotional dependency, automatically carry forward a child's previous conversations, or auto-launch, be pushed at children or be hard to disable; under-13s may use them only via parental controls, with pre-launch risk testing and ongoing harm monitoring. Public feedback is open until 26 November 2026, and fines can reach 6% of worldwide turnover.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["歐盟", "KIDS Act", "AI 陪伴", "兒少保護", "公眾諮詢", "兒童心理"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-10-02T00:00:00+00:00"}, {"slug": "florida-seeks-injunction-against-openai-over-chatgpt", "title_zh": "佛州檢察總長聲請禁制令：要求禁止未成年人使用 ChatGPT、移除擬人特徵", "title_en": "Florida seeks injunction against OpenAI over ChatGPT", "summary_zh": "佛羅里達州檢察總長 James Uthmeier 在 2026 年 6 月對 OpenAI 與 Sam Altman 提告，案件一度被移往聯邦法院，本月發回 Highlands County 州法院；州政府現聲請臨時禁制令。請求包括禁止佛州未成年人使用 ChatGPT、未經家長同意不得收集 13 歲以下兒童資料、不得誇大安全性、移除第一人稱等擬人化對話特徵、停止刻意延長使用的設計，以及新模型須有獨立安全保障才能開發。OpenAI 發言人回應應由業界與各州共同制定規則。", "summary_en": "Florida Attorney General James Uthmeier, who sued OpenAI and Sam Altman in June 2026, has moved for a temporary injunction in Highlands County circuit court. The state asks the court to bar Florida minors from ChatGPT, stop data collection from under-13s without parental consent, prohibit safety misrepresentations, remove human-like conversational features including first-person language, end engagement-prolonging practices and require independent safeguards before new model development. OpenAI said it favors industry-wide rules developed with states.", "category": "倫理與風險", "kind": "incident", "model_names": ["ChatGPT"], "tags": ["佛羅里達州", "OpenAI", "訴訟", "禁制令", "兒少保護", "擬人化設計"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-28T00:00:00+00:00"}, {"slug": "taiwan-mohw-suicide-prevention-day-resources-2026", "title_zh": "衛福部世界自殺防治日：現行資源總整理與「改變自殺敘事」", "title_en": "Taiwan MOHW suicide prevention day resources 2026", "summary_zh": "衛生福利部在 2026 年世界自殺防治日記者會呼應「改變自殺敘事」主題，呼籲從沉默與污名轉向傾聽與理解。記者會整理多項現行資源：15–45 歲每年 3 次免費心理諮商（滿意度 96%）、24 小時 1925 安心專線、男性關懷專線、75 處社區心理衛生中心、青少年匿名文字諮詢及「一問二應三轉介」守門人訓練。", "summary_en": "At its 2026 World Suicide Prevention Day briefing, Taiwan's health ministry echoed the 'change the narrative' theme and summarised current resources: three free counselling sessions a year for ages 15–45, the 1925 hotline, a men's line, 75 community mental health centres, text counselling for youth and gatekeeper training.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["自殺防治", "台灣", "政策", "守門人", "轉介資源"], "first_seen_at": "2026-09-30T18:00:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "成人", "一般大眾", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.767, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-12T00:00:00+00:00"}]}
+{
+  "title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程",
+  "title_en": "Connecticut AI companion rules take effect October 1",
+  "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。",
+  "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "律師事務所的法規整理，非實證研究。",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "法律要求 AI 陪伴業者建立偵測並回應自殺、自傷跡象的流程。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    },
+    {
+      "flag": "依賴與界線",
+      "note": "對未成年人禁止誘導延長使用與浪漫互動，針對的是情感依賴與界線問題。",
+      "refs": [
+        "APA 3.05｜多重關係與界線"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "擬社會關係",
+      "note": "法律對 AI 陪伴的定義正是「能跨多次互動維持關係」的系統，與單向情感連結的風險相關。",
+      "ref": "概念｜擬社會關係"
+    },
+    {
+      "name": "ELIZA 效應",
+      "note": "要求定期提醒用戶在與 AI 對話，用意是減少把程式當成真人的傾向。",
+      "ref": "概念｜ELIZA 效應"
+    }
+  ],
+  "caution": "法律只規範業者，不保證每個 AI 陪伴產品都能可靠偵測危機；臨床上仍須自行評估個案的使用情況與風險。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "Public Act 26-15 於 2026-10-01 生效",
+    "AI 陪伴須定期揭露自己是 AI",
+    "須有偵測與回應自殺、自傷跡象的流程",
+    "未成年人：禁浪漫或性露骨互動、禁誘導延長使用"
+  ],
+  "brief_en": [
+    "Public Act 26-15 effective Oct 1, 2026",
+    "AI companions must disclose they are AI at intervals",
+    "Protocols required for suicide and self-harm indicators",
+    "Minors: no romantic or explicit chats, no engagement manipulation"
+  ],
+  "model_names": [],
+  "tags": [
+    "康乃狄克州",
+    "AI 陪伴",
+    "美國州法",
+    "自殺防治",
+    "兒少保護",
+    "法規生效"
+  ],
+  "population": [
+    "兒童青少年",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "個案（尤其青少年）若常用 AI 陪伴，初談與風險評估要怎樣問使用情況？",
+    "法律要求的自殺自傷「偵測與回應」流程，能取代人手危機評估嗎？臨床人員可以怎樣補位？",
+    "怎樣向家長解釋 AI 陪伴的依賴風險，又不致引起過度恐慌？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://carmodylaw.com/effective-october-2026-new-data-privacy-and-ai-laws-from-the-2026-connecticut-legislative-session",
+      "author_handle": "",
+      "author_name": "Carmody Torrance Sandak & Hennessey（Sherwin Yoder）",
+      "title": "Effective October 1, 2026: New Data Privacy and AI Laws from the 2026 Connecticut Legislative Session",
+      "content": "律師事務所整理康乃狄克州 2026 年 10 月 1 日起生效的資料隱私與 AI 法律，其中 Public Act 26-15 規範 AI 陪伴：須定期揭露是 AI、建立偵測與回應自殺自傷跡象的流程，並對未成年用戶設多項保護。",
+      "posted_at": "2026-09-30T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-05T03:24:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "connecticut-ai-companion-rules-take-effect-october-1",
+  "featured_at": null,
+  "hot_score": 1.43,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "eu-kids-act-faq-on-ai-companions-for-minors",
+      "title_zh": "歐盟 KIDS Act 官方問答：AI 陪伴不得對兒少製造情感依賴",
+      "title_en": "EU KIDS Act FAQ on AI companions for minors",
+      "summary_zh": "歐盟執委會發布 KIDS Act 問答說明。草案規定 AI 陪伴與聊天機器人面對未成年人時，不得以製造情感依賴的方式模擬人際關係、不得自動延續孩子先前的對話、不得自動啟動或強推給兒童或難以關閉；13 歲以下只能透過家長控制工具使用，並須在上線前做風險測試、持續監測傷害。公眾可在 2026 年 11 月 26 日前提交意見，違規最高罰全球年營業額 6%。",
+      "summary_en": "The European Commission published an FAQ on the proposed KIDS Act. For minors, AI companions and chatbots may not simulate human relationships in ways that create emotional dependency, automatically carry forward a child's previous conversations, or auto-launch, be pushed at children or be hard to disable; under-13s may use them only via parental controls, with pre-launch risk testing and ongoing harm monitoring. Public feedback is open until 26 November 2026, and fines can reach 6% of worldwide turnover.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "歐盟",
+        "KIDS Act",
+        "AI 陪伴",
+        "兒少保護",
+        "公眾諮詢",
+        "兒童心理"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "slug": "florida-seeks-injunction-against-openai-over-chatgpt",
+      "title_zh": "佛州檢察總長聲請禁制令：要求禁止未成年人使用 ChatGPT、移除擬人特徵",
+      "title_en": "Florida seeks injunction against OpenAI over ChatGPT",
+      "summary_zh": "佛羅里達州檢察總長 James Uthmeier 在 2026 年 6 月對 OpenAI 與 Sam Altman 提告，案件一度被移往聯邦法院，本月發回 Highlands County 州法院；州政府現聲請臨時禁制令。請求包括禁止佛州未成年人使用 ChatGPT、未經家長同意不得收集 13 歲以下兒童資料、不得誇大安全性、移除第一人稱等擬人化對話特徵、停止刻意延長使用的設計，以及新模型須有獨立安全保障才能開發。OpenAI 發言人回應應由業界與各州共同制定規則。",
+      "summary_en": "Florida Attorney General James Uthmeier, who sued OpenAI and Sam Altman in June 2026, has moved for a temporary injunction in Highlands County circuit court. The state asks the court to bar Florida minors from ChatGPT, stop data collection from under-13s without parental consent, prohibit safety misrepresentations, remove human-like conversational features including first-person language, end engagement-prolonging practices and require independent safeguards before new model development. OpenAI said it favors industry-wide rules developed with states.",
+      "category": "倫理與風險",
+      "kind": "incident",
+      "model_names": [
+        "ChatGPT"
+      ],
+      "tags": [
+        "佛羅里達州",
+        "OpenAI",
+        "訴訟",
+        "禁制令",
+        "兒少保護",
+        "擬人化設計"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-28T00:00:00+00:00"
+    },
+    {
+      "slug": "taiwan-mohw-suicide-prevention-day-resources-2026",
+      "title_zh": "衛福部世界自殺防治日：現行資源總整理與「改變自殺敘事」",
+      "title_en": "Taiwan MOHW suicide prevention day resources 2026",
+      "summary_zh": "衛生福利部在 2026 年世界自殺防治日記者會呼應「改變自殺敘事」主題，呼籲從沉默與污名轉向傾聽與理解。記者會整理多項現行資源：15–45 歲每年 3 次免費心理諮商（滿意度 96%）、24 小時 1925 安心專線、男性關懷專線、75 處社區心理衛生中心、青少年匿名文字諮詢及「一問二應三轉介」守門人訓練。",
+      "summary_en": "At its 2026 World Suicide Prevention Day briefing, Taiwan's health ministry echoed the 'change the narrative' theme and summarised current resources: three free counselling sessions a year for ages 15–45, the 1925 hotline, a men's line, 75 community mental health centres, text counselling for youth and gatekeeper training.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "自殺防治",
+        "台灣",
+        "政策",
+        "守門人",
+        "轉介資源"
+      ],
+      "first_seen_at": "2026-09-30T18:00:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "一般大眾",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.767,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-12T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-30T00:00:00+00:00"
+}

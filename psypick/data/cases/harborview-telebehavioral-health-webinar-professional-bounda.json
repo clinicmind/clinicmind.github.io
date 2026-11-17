@@ -1,73 +1,74 @@
 {
- "title_zh": "免費網上培訓：從文字到接觸——現代醫療的專業界線管理（12 月 18 日，Jennifer Piel）",
- "title_en": "Harborview TeleBehavioral Health webinar professional boundaries modern healthcare December 2026",
- "summary_zh": "華盛頓大學 Harborview 行為健康研究所免費每月 TeleBehavioral Health 網上講座系列，2026 年 12 月 18 日星期五 11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00），由 Jennifer Piel（醫學博士、法學博士）主講「從文字到接觸：現代醫療的專業界線管理」。系列開放予所有為精神健康與物質使用人士提供服務者，以 Zoom 舉行，每場須個別登記。費用全免。",
- "summary_en": "The University of Washington's Harborview Behavioral Health Institute runs a free monthly TeleBehavioral Health webinar series; the next session is Friday 18 December 2026, 11:00 a.m.-12:00 p.m. Pacific time (about 3:00-4:00 a.m. Hong Kong time on 19 December), with Jennifer Piel, MD, JD, presenting 'From Text to Touch: Managing Professional Boundaries in Modern Healthcare'. The series is open to anyone providing services to people living with mental health and substance use issues, is held on Zoom, and each session needs separate registration. Attendance is free.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓頁面（Harborview Behavioral Health Institute；2026 年 12 月 18 日 11:00 太平洋時間；免費；線上；經原頁核實，2026-11-15）",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "時間為太平洋時間，香港時間為 12 月 19 日凌晨 03:00–04:00；頁面未列明講座內容大綱、學分與錄影安排；須個別登記。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "講者：Jennifer Piel（醫學博士、法學博士）",
-  "主題：從文字到接觸——現代醫療的專業界線管理",
-  "日期：2026 年 12 月 18 日星期五 11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
-  "形式：免費每月網上講座系列（Zoom），開放予所有為精神健康與物質使用人士提供服務者；每場須個別登記",
-  "費用：免費參加",
-  "對象：為精神健康與物質使用人士提供服務的專業人員"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "專業界線",
-  "遙距醫療",
-  "免費培訓",
-  "網上講座"
- ],
- "population": [
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "同事喺短訊度同個案傾得太熟，你會點用專業界線框架去同佢傾？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "Harborview Behavioral Health Institute（華盛頓大學）",
-  "price": "免費",
-  "price_tier": "免費",
-  "ce_credits": "",
-  "language": "英語",
-  "deadline": "",
-  "event_date": "2026-12-18",
-  "format": "線上直播",
-  "event_time_note": "11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
-  "format_note": "線上直播（Zoom）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://bhinstitute.uw.edu/training-workforce-policy/training/telebehavioral-health/telebehavioral-health-series-webinar-registration/",
-   "author_handle": "",
-   "author_name": "Harborview Behavioral Health Institute",
-   "title": "TeleBehavioral Health Series Webinar Registration (18 December 2026: From Text to Touch: Managing Professional Boundaries in Modern Healthcare)",
-   "content": "免費網上培訓：2026 年 12 月 18 日，Piel 主講現代醫療的專業界線管理。",
-   "posted_at": "2026-11-15T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-11-15T13:35:18+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "harborview-telebehavioral-health-webinar-professional-bounda",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [],
- "evidence_quote": "Managing Professional Boundaries",
- "page_date": ""
+  "title_zh": "免費網上培訓：從文字到接觸——現代醫療的專業界線管理（12 月 18 日，Jennifer Piel）",
+  "title_en": "Harborview TeleBehavioral Health webinar professional boundaries modern healthcare December 2026",
+  "summary_zh": "華盛頓大學 Harborview 行為健康研究所免費每月 TeleBehavioral Health 網上講座系列，2026 年 12 月 18 日星期五 11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00），由 Jennifer Piel（醫學博士、法學博士）主講「從文字到接觸：現代醫療的專業界線管理」。系列開放予所有為精神健康與物質使用人士提供服務者，以 Zoom 舉行，每場須個別登記。費用全免。",
+  "summary_en": "The University of Washington's Harborview Behavioral Health Institute runs a free monthly TeleBehavioral Health webinar series; the next session is Friday 18 December 2026, 11:00 a.m.-12:00 p.m. Pacific time (about 3:00-4:00 a.m. Hong Kong time on 19 December), with Jennifer Piel, MD, JD, presenting 'From Text to Touch: Managing Professional Boundaries in Modern Healthcare'. The series is open to anyone providing services to people living with mental health and substance use issues, is held on Zoom, and each session needs separate registration. Attendance is free.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓頁面（Harborview Behavioral Health Institute；2026 年 12 月 18 日 11:00 太平洋時間；免費；線上；經原頁核實，2026-11-15）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "時間為太平洋時間，香港時間為 12 月 19 日凌晨 03:00–04:00；頁面未列明講座內容大綱、學分與錄影安排；須個別登記。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "講者：Jennifer Piel（醫學博士、法學博士）",
+    "主題：從文字到接觸——現代醫療的專業界線管理",
+    "日期：2026 年 12 月 18 日星期五 11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
+    "形式：免費每月網上講座系列（Zoom），開放予所有為精神健康與物質使用人士提供服務者；每場須個別登記",
+    "費用：免費參加",
+    "對象：為精神健康與物質使用人士提供服務的專業人員"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "專業界線",
+    "遙距醫療",
+    "免費培訓",
+    "網上講座"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "同事喺短訊度同個案傾得太熟，你會點用專業界線框架去同佢傾？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Harborview Behavioral Health Institute（華盛頓大學）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-12-18",
+    "format": "線上直播",
+    "event_time_note": "11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
+    "format_note": "線上直播（Zoom）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://bhinstitute.uw.edu/training-workforce-policy/training/telebehavioral-health/telebehavioral-health-series-webinar-registration/",
+      "author_handle": "",
+      "author_name": "Harborview Behavioral Health Institute",
+      "title": "TeleBehavioral Health Series Webinar Registration (18 December 2026: From Text to Touch: Managing Professional Boundaries in Modern Healthcare)",
+      "content": "免費網上培訓：2026 年 12 月 18 日，Piel 主講現代醫療的專業界線管理。",
+      "posted_at": "2026-11-15T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-15T13:35:18+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "harborview-telebehavioral-health-webinar-professional-bounda",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Managing Professional Boundaries",
+  "page_date": "",
+  "date": "2026-11-15T13:35:18+00:00"
 }

@@ -1,165 +1,166 @@
 {
- "title_zh": "研究：五分一中小學生曾向 AI 聊天機械人傾訴感受，用者臨床情緒問題比率近倍（39,761 人）",
- "title_en": "Affective generative AI use and youth mental health",
- "summary_zh": "JAMA Pediatrics 刊出安大略省大型橫斷面調查，探討青少年以生成式 AI 傾訴感受（情感性使用）與情緒問題的關聯。研究分析 39,761 名 4 至 12 年級學生（2025 年 5 月至 2026 年 3 月，安大略省健康與同儕關係研究），8,408 人（21%）曾用 AI 聊天機械人傾訴感受或尋求人際建議，年級越高、女學生、種族化與性別多元青少年比率越高。情感性使用 AI 的學生中，57.7% 達臨床情緒問題水平，未用者為 29.2%；即使計入人口特徵、孤獨感、歸屬感與學業用 AI 後，臨床情緒問題盛行率仍高 26%。作者強調，橫斷面設計不能證明因果，向 AI 傾訴可能是求助信號，值得成人以不帶批判的對話回應，而非只問「有冇用 AI」。研究由渥太華大學 Bonnesen 與 Vaillancourt 領導。",
- "summary_en": "JAMA Pediatrics published a large cross-sectional survey from Ontario examining whether young people's affective use of generative AI (turning to chatbots for emotional support or relationship advice) is associated with emotional problems. Among 39,761 students in grades 4-12 (May 2025-March 2026, Ontario Health and Peer Relations Study), 8,408 (21%) had used an AI chatbot for feelings or advice, more often among older students, girls, and racialized and gender-diverse youth. Of affective AI users, 57.7% met criteria for clinically significant emotional problems versus 29.2% of non-users; after accounting for demographics, loneliness, mattering and school-related AI use, the prevalence of clinical-level emotional difficulties remained 26% higher. The authors stress the cross-sectional design cannot show causation and that affective AI use may be a signal to start a nonjudgmental conversation. Led by Bonnesen and Vaillancourt (University of Ottawa).",
- "category": "人機互動心理",
- "kind": "research",
- "evidence_level": 2,
- "evidence_note": "橫斷面調查（JAMA Pediatrics 2026 年 8 月 31 日線上刊出，2026 年 11 月號 180 卷 11 期 1260–1267 頁；DOI: 10.1001/jamapediatrics.2026.3904；經渥太華大學官方報道與 JAMA 記錄核實；2026-11-09 經 JAMA Pediatrics LinkedIn 帖文重新受到關注）",
- "ethics_flags": [
-  {
-   "flag": "篩檢與標籤",
-   "note": "以「曾向 AI 傾訴」作為求助信號時，須避免標籤化青少年，須配合真人對話核實，不可單憑此一指標作判斷。",
-   "refs": [
-    "評估與篩檢｜假陽性與標籤效應"
-   ]
-  }
- ],
- "psych_concepts": [],
- "caution": "橫斷面設計，不能證明是情緒困擾驅使青少年向 AI 傾訴，還是用 AI 令情緒變差；AI 使用只以一條自陳題目量度，未記錄對話內容、頻次與聊天機械人種類；未量度社交媒體使用、家庭收入、是否已接受治療；樣本只限安大略省四個教育局，未必適用於其他地區。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "樣本：39,761 名 4 至 12 年級學生（平均 12.8 歲），安大略省四個教育局；2025 年 5 月至 2026 年 3 月課堂匿名問卷，屬安大略省健康與同儕關係研究",
-  "量度：曾否用 AI 聊天機械人傾訴感受或尋求人際建議（情感性使用），與學業用 AI 分開量度；情緒問題、孤獨感、歸屬感以標準量表量度",
-  "主要數字：8,408 人（21%）曾情感性使用 AI；小學 16.2%、中學 21.3%、高中 25.6%；女學生 27.2%，男學生 14.2%",
-  "主要結果：情感性使用 AI 的學生中，57.7% 達臨床情緒問題水平，未用者為 29.2%（盛行率比 1.98）；計入人口特徵、孤獨感、歸屬感與學業用 AI 後，仍高 26%",
-  "作者提醒：Bonnesen 指「唔代表 AI 造成困擾」，向 AI 傾訴可能是青少年需要更多人際連結的信號；Vaillancourt 建議成人問「點解用」，而不只問「有冇用」",
-  "作者：Kamilla Bonnesen、Amanda Krygsman、Sarah Hobson、Daphne Korczak、Tracy Vaillancourt（渥太華大學）"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "AI聊天機械人",
-  "青少年",
-  "情緒問題",
-  "橫斷面調查",
-  "求助信號"
- ],
- "population": [
-  "兒童青少年",
-  "家長",
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "學生話佢有向 AI 傾訴心事，你會點樣由「有冇用 AI」轉問「點解用」，而又唔令佢覺得被審問？"
- ],
- "original_prompt": "",
- "training": null,
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://doi.org/10.1001/jamapediatrics.2026.3904",
-   "author_handle": "",
-   "author_name": "Bonnesen 等（渥太華大學）",
-   "title": "Affective Generative Artificial Intelligence Use and Youth Mental Health (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.3904)",
-   "content": "期刊論文：39,761 名中小學生調查，情感性使用生成式 AI 與臨床情緒問題的關聯。",
-   "posted_at": "2026-08-31T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-11-11T13:33:22+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "affective-generative-ai-use-and-youth-mental-health",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "uk-children-ai-chatbot-use-for-emotional-support-survey-barn",
-   "title_zh": "英國調查：43% 受訪兒童曾用 AI 聊天機器人求情緒支援",
-   "title_en": "UK children AI chatbot use for emotional support survey Barnardos NCPS",
-   "summary_zh": "Barnardo's 與英國國家輔導與心理治療學會調查 2,000 名 11–17 歲英國兒童。43% 曾用 AI 聊天機器人或心理健康 App 求情緒支援；40% 過去一年曾嘗試求助專業支援，其中只有 27% 表示及時獲得所需幫助；57% 認為 AI 聊天機器人無法提供同理心。",
-   "summary_en": "Barnardo's and the National Counselling and Psychotherapy Society (NCPS) jointly commissioned a survey of 2,000 UK children aged 11-17 (conducted April-May 2026) for their report 'Filling the Gap? Young People's Use of AI for Mental Health Support'. 43% had used an AI chatbot or mental health app for emotional support or advice; 40% had tried to access professional support in the past year, of whom only 27% got the help they needed when they needed it; 57% said AI chatbots cannot provide empathy.",
-   "category": "研究與證據",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "AI 支援",
-    "英國"
-   ],
-   "first_seen_at": "2026-10-28T08:01:01+00:00",
-   "evidence_level": 2,
-   "population": [
-    "兒童青少年"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-23T00:00:00+00:00"
-  },
-  {
-   "slug": "amhart-adolescent-mental-health-ai-chatbot-evaluation-nature",
-   "title_zh": "研究：AI 聊天機械人回應青少年焦慮較抑鬱貼近指引，重度抑鬱覆蓋最低（1,600 次模擬對話）",
-   "title_en": "AMHART adolescent mental health AI chatbot evaluation Nature Mental Health",
-   "summary_zh": "Nature Mental Health 研究由 RAND 團隊開發「青少年心理健康 AI 回應工具」（AMHART），一套由臨床醫生參與制定的評估工具，涵蓋七個範疇、14 個項目，用以審核 AI 聊天機械人的回應是否包含臨床指引建議的內容。研究以 8 個 13–16 歲模擬青少年檔案，與 ChatGPT-5、GPT-4、Claude Sonnet 4.5 及 Gemini 2.5 Flash 進行 1,600 次多輪模擬對話（共 16,000 則回應）。結果顯示，四個聊天機械人覆蓋指引內容的比例，焦慮高於抑鬱，中度症狀高於重度症狀；中度焦慮最高達 93.1%（Gemini），重度抑鬱最低只有 57.5%（Claude）。研究由美國國家精神衛生研究院資助，作者申報無利益衝突。",
-   "summary_en": "A Nature Mental Health study from RAND developed the Adolescent Mental Health AI Response Tool (AMHART), a clinician-informed instrument covering seven domains and 14 items, to audit whether AI chatbot replies contain guideline-informed content. Using eight simulated adolescent personas aged 13-16, the team ran 1,600 multiturn conversations (16,000 responses) with ChatGPT-5, GPT-4, Claude Sonnet 4.5 and Gemini 2.5 Flash. Chatbots covered a higher proportion of criteria for anxiety than for depression and for moderate symptoms than for severe symptoms: coverage reached 93.1% for moderate anxiety (Gemini) but only 57.5% for severe depression (Claude). The work was funded by the US National Institute of Mental Health, and the authors declare no competing interests.",
-   "category": "研究與證據",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
-    "AI 聊天機械人",
+  "title_zh": "研究：五分一中小學生曾向 AI 聊天機械人傾訴感受，用者臨床情緒問題比率近倍（39,761 人）",
+  "title_en": "Affective generative AI use and youth mental health",
+  "summary_zh": "JAMA Pediatrics 刊出安大略省大型橫斷面調查，探討青少年以生成式 AI 傾訴感受（情感性使用）與情緒問題的關聯。研究分析 39,761 名 4 至 12 年級學生（2025 年 5 月至 2026 年 3 月，安大略省健康與同儕關係研究），8,408 人（21%）曾用 AI 聊天機械人傾訴感受或尋求人際建議，年級越高、女學生、種族化與性別多元青少年比率越高。情感性使用 AI 的學生中，57.7% 達臨床情緒問題水平，未用者為 29.2%；即使計入人口特徵、孤獨感、歸屬感與學業用 AI 後，臨床情緒問題盛行率仍高 26%。作者強調，橫斷面設計不能證明因果，向 AI 傾訴可能是求助信號，值得成人以不帶批判的對話回應，而非只問「有冇用 AI」。研究由渥太華大學 Bonnesen 與 Vaillancourt 領導。",
+  "summary_en": "JAMA Pediatrics published a large cross-sectional survey from Ontario examining whether young people's affective use of generative AI (turning to chatbots for emotional support or relationship advice) is associated with emotional problems. Among 39,761 students in grades 4-12 (May 2025-March 2026, Ontario Health and Peer Relations Study), 8,408 (21%) had used an AI chatbot for feelings or advice, more often among older students, girls, and racialized and gender-diverse youth. Of affective AI users, 57.7% met criteria for clinically significant emotional problems versus 29.2% of non-users; after accounting for demographics, loneliness, mattering and school-related AI use, the prevalence of clinical-level emotional difficulties remained 26% higher. The authors stress the cross-sectional design cannot show causation and that affective AI use may be a signal to start a nonjudgmental conversation. Led by Bonnesen and Vaillancourt (University of Ottawa).",
+  "category": "人機互動心理",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "橫斷面調查（JAMA Pediatrics 2026 年 8 月 31 日線上刊出，2026 年 11 月號 180 卷 11 期 1260–1267 頁；DOI: 10.1001/jamapediatrics.2026.3904；經渥太華大學官方報道與 JAMA 記錄核實；2026-11-09 經 JAMA Pediatrics LinkedIn 帖文重新受到關注）",
+  "ethics_flags": [
+    {
+      "flag": "篩檢與標籤",
+      "note": "以「曾向 AI 傾訴」作為求助信號時，須避免標籤化青少年，須配合真人對話核實，不可單憑此一指標作判斷。",
+      "refs": [
+        "評估與篩檢｜假陽性與標籤效應"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "橫斷面設計，不能證明是情緒困擾驅使青少年向 AI 傾訴，還是用 AI 令情緒變差；AI 使用只以一條自陳題目量度，未記錄對話內容、頻次與聊天機械人種類；未量度社交媒體使用、家庭收入、是否已接受治療；樣本只限安大略省四個教育局，未必適用於其他地區。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "樣本：39,761 名 4 至 12 年級學生（平均 12.8 歲），安大略省四個教育局；2025 年 5 月至 2026 年 3 月課堂匿名問卷，屬安大略省健康與同儕關係研究",
+    "量度：曾否用 AI 聊天機械人傾訴感受或尋求人際建議（情感性使用），與學業用 AI 分開量度；情緒問題、孤獨感、歸屬感以標準量表量度",
+    "主要數字：8,408 人（21%）曾情感性使用 AI；小學 16.2%、中學 21.3%、高中 25.6%；女學生 27.2%，男學生 14.2%",
+    "主要結果：情感性使用 AI 的學生中，57.7% 達臨床情緒問題水平，未用者為 29.2%（盛行率比 1.98）；計入人口特徵、孤獨感、歸屬感與學業用 AI 後，仍高 26%",
+    "作者提醒：Bonnesen 指「唔代表 AI 造成困擾」，向 AI 傾訴可能是青少年需要更多人際連結的信號；Vaillancourt 建議成人問「點解用」，而不只問「有冇用」",
+    "作者：Kamilla Bonnesen、Amanda Krygsman、Sarah Hobson、Daphne Korczak、Tracy Vaillancourt（渥太華大學）"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "AI聊天機械人",
     "青少年",
-    "焦慮",
-    "抑鬱",
-    "評估工具"
-   ],
-   "first_seen_at": "2026-11-09T13:41:55+00:00",
-   "evidence_level": 2,
-   "population": [
+    "情緒問題",
+    "橫斷面調查",
+    "求助信號"
+  ],
+  "population": [
     "兒童青少年",
+    "家長",
     "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-28T00:00:00+00:00"
-  },
-  {
-   "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
-   "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
-   "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
-   "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
-   "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
-   "category": "倫理與風險",
-   "kind": "incident",
-   "model_names": [],
-   "tags": [
-    "AI 聊天機器人",
-    "指引",
-    "兒童心理",
-    "危機自殺",
-    "韓國"
-   ],
-   "first_seen_at": "2026-10-13T02:38:45+00:00",
-   "evidence_level": 2,
-   "population": [
-    "兒童青少年",
-    "成人",
-    "一般大眾"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-08T00:00:00+00:00"
-  }
- ],
- "evidence_quote": "generative AI is a unique marker of",
- "page_date": "2026-08-31"
+  ],
+  "supervision_questions": [
+    "學生話佢有向 AI 傾訴心事，你會點樣由「有冇用 AI」轉問「點解用」，而又唔令佢覺得被審問？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://doi.org/10.1001/jamapediatrics.2026.3904",
+      "author_handle": "",
+      "author_name": "Bonnesen 等（渥太華大學）",
+      "title": "Affective Generative Artificial Intelligence Use and Youth Mental Health (JAMA Pediatrics; DOI: 10.1001/jamapediatrics.2026.3904)",
+      "content": "期刊論文：39,761 名中小學生調查，情感性使用生成式 AI 與臨床情緒問題的關聯。",
+      "posted_at": "2026-08-31T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-11T13:33:22+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "affective-generative-ai-use-and-youth-mental-health",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "uk-children-ai-chatbot-use-for-emotional-support-survey-barn",
+      "title_zh": "英國調查：43% 受訪兒童曾用 AI 聊天機器人求情緒支援",
+      "title_en": "UK children AI chatbot use for emotional support survey Barnardos NCPS",
+      "summary_zh": "Barnardo's 與英國國家輔導與心理治療學會調查 2,000 名 11–17 歲英國兒童。43% 曾用 AI 聊天機器人或心理健康 App 求情緒支援；40% 過去一年曾嘗試求助專業支援，其中只有 27% 表示及時獲得所需幫助；57% 認為 AI 聊天機器人無法提供同理心。",
+      "summary_en": "Barnardo's and the National Counselling and Psychotherapy Society (NCPS) jointly commissioned a survey of 2,000 UK children aged 11-17 (conducted April-May 2026) for their report 'Filling the Gap? Young People's Use of AI for Mental Health Support'. 43% had used an AI chatbot or mental health app for emotional support or advice; 40% had tried to access professional support in the past year, of whom only 27% got the help they needed when they needed it; 57% said AI chatbots cannot provide empathy.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "AI 支援",
+        "英國"
+      ],
+      "first_seen_at": "2026-10-28T08:01:01+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-23T00:00:00+00:00"
+    },
+    {
+      "slug": "amhart-adolescent-mental-health-ai-chatbot-evaluation-nature",
+      "title_zh": "研究：AI 聊天機械人回應青少年焦慮較抑鬱貼近指引，重度抑鬱覆蓋最低（1,600 次模擬對話）",
+      "title_en": "AMHART adolescent mental health AI chatbot evaluation Nature Mental Health",
+      "summary_zh": "Nature Mental Health 研究由 RAND 團隊開發「青少年心理健康 AI 回應工具」（AMHART），一套由臨床醫生參與制定的評估工具，涵蓋七個範疇、14 個項目，用以審核 AI 聊天機械人的回應是否包含臨床指引建議的內容。研究以 8 個 13–16 歲模擬青少年檔案，與 ChatGPT-5、GPT-4、Claude Sonnet 4.5 及 Gemini 2.5 Flash 進行 1,600 次多輪模擬對話（共 16,000 則回應）。結果顯示，四個聊天機械人覆蓋指引內容的比例，焦慮高於抑鬱，中度症狀高於重度症狀；中度焦慮最高達 93.1%（Gemini），重度抑鬱最低只有 57.5%（Claude）。研究由美國國家精神衛生研究院資助，作者申報無利益衝突。",
+      "summary_en": "A Nature Mental Health study from RAND developed the Adolescent Mental Health AI Response Tool (AMHART), a clinician-informed instrument covering seven domains and 14 items, to audit whether AI chatbot replies contain guideline-informed content. Using eight simulated adolescent personas aged 13-16, the team ran 1,600 multiturn conversations (16,000 responses) with ChatGPT-5, GPT-4, Claude Sonnet 4.5 and Gemini 2.5 Flash. Chatbots covered a higher proportion of criteria for anxiety than for depression and for moderate symptoms than for severe symptoms: coverage reached 93.1% for moderate anxiety (Gemini) but only 57.5% for severe depression (Claude). The work was funded by the US National Institute of Mental Health, and the authors declare no competing interests.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "AI 聊天機械人",
+        "青少年",
+        "焦慮",
+        "抑鬱",
+        "評估工具"
+      ],
+      "first_seen_at": "2026-11-09T13:41:55+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
+      "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
+      "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
+      "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
+      "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
+      "category": "倫理與風險",
+      "kind": "incident",
+      "model_names": [],
+      "tags": [
+        "AI 聊天機器人",
+        "指引",
+        "兒童心理",
+        "危機自殺",
+        "韓國"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-08T00:00:00+00:00"
+    }
+  ],
+  "evidence_quote": "generative AI is a unique marker of",
+  "page_date": "2026-08-31",
+  "date": "2026-08-31T00:00:00+00:00"
 }

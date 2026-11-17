@@ -1,71 +1,72 @@
 {
- "title_zh": "澳門衛生局免費培訓：社區醫療身心健康課程第二單元——動機訪談",
- "title_en": "Macau community medical psychosomatic health training module 2 motivational interviewing",
- "summary_zh": "澳門衛生局家庭醫學培訓基地主辦的免費培訓課程第二單元。2026年11月8日（星期日）上午10:00至下午1:00在黑沙環衛生中心舉行，由霍靖醫生主講動機訪談在體重管理與慢性病遵從性中的基層應用。報名日期為10月26日至11月5日，費用全免，須填寫執業准照或醫療人員資格認可編號；整個課程共十個單元，完成八個或以上可獲證書並納入持續專業發展計劃。",
- "summary_en": "Free training module 2 of Macau Health Bureau's community medical psychosomatic health course, on 8 November 2026 (10:00-13:00, Areia Preta Health Centre), led by Dr Fok Peter Anthony on motivational interviewing in weight management and chronic disease adherence. Registration runs 26 October to 5 November 2026, free of charge; the full course has ten modules and a certificate is awarded after eight or more, under the CPD scheme.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程（澳門政府入口網站，衛生局新聞）",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "實體課程，只限本澳醫療人員報名，須填寫執業准照或醫療人員資格認可編號；證書須完成八個或以上單元。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "主辦：澳門衛生局家庭醫學培訓基地，特邀香港家庭醫學學院導師",
-  "第二單元：動機訪談的核心理論與技巧，在體重管理與慢性病遵從性中的基層應用",
-  "講者：Dr Fok Peter Anthony 霍靖醫生",
-  "時間：2026年11月8日（星期日）上午10:00至下午1:00；地點：黑沙環衛生中心3樓會議室",
-  "報名：2026年10月26日至11月5日，費用全免，額滿即止",
-  "整個課程共十個單元，完成八個或以上可獲衛生局證書，已納入持續專業發展計劃"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "動機訪談",
-  "社區醫療",
-  "持續專業發展"
- ],
- "population": [
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "在基層診所推動體重管理時，如何用動機訪談分辨來訪者的抗拒是資訊不足、還是自主感受到威脅？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "澳門衛生局家庭醫學培訓基地",
-  "price": "費用全免",
-  "price_tier": "免費",
-  "ce_credits": "納入持續專業發展（CPD）計劃",
-  "language": "",
-  "deadline": "2026-11-05",
-  "event_date": "2026-11-08",
-  "format": "實體",
-  "audience_level": "本澳醫療人員",
-  "signup_url": "https://app.ssm.gov.mo/medicaltrainingsignup2",
-  "topic": "動機訪談在體重管理與慢性病遵從性中的基層應用"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.gov.mo/zh-hant/news/1276277/",
-   "author_handle": "",
-   "author_name": "澳門衛生局",
-   "title": "家庭醫學培訓基地「社區醫療身心健康培訓課程」第二單元課程於今（26）日起接受報名",
-   "content": "衛生局家庭醫學培訓基地免費培訓課程第二單元，2026年11月8日舉行，動機訪談主題，報名至11月5日。",
-   "posted_at": "2026-10-26T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-10-30T01:16:15+00:00",
- "hero_media": null,
- "include": false,
- "reject_reason": "純實體，不符 2026-10-23 規則",
- "slug": "macau-community-medical-psychosomatic-health-training-module",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "archive",
- "deadline_soon": false,
- "related": []
+  "title_zh": "澳門衛生局免費培訓：社區醫療身心健康課程第二單元——動機訪談",
+  "title_en": "Macau community medical psychosomatic health training module 2 motivational interviewing",
+  "summary_zh": "澳門衛生局家庭醫學培訓基地主辦的免費培訓課程第二單元。2026年11月8日（星期日）上午10:00至下午1:00在黑沙環衛生中心舉行，由霍靖醫生主講動機訪談在體重管理與慢性病遵從性中的基層應用。報名日期為10月26日至11月5日，費用全免，須填寫執業准照或醫療人員資格認可編號；整個課程共十個單元，完成八個或以上可獲證書並納入持續專業發展計劃。",
+  "summary_en": "Free training module 2 of Macau Health Bureau's community medical psychosomatic health course, on 8 November 2026 (10:00-13:00, Areia Preta Health Centre), led by Dr Fok Peter Anthony on motivational interviewing in weight management and chronic disease adherence. Registration runs 26 October to 5 November 2026, free of charge; the full course has ten modules and a certificate is awarded after eight or more, under the CPD scheme.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程（澳門政府入口網站，衛生局新聞）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "實體課程，只限本澳醫療人員報名，須填寫執業准照或醫療人員資格認可編號；證書須完成八個或以上單元。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "主辦：澳門衛生局家庭醫學培訓基地，特邀香港家庭醫學學院導師",
+    "第二單元：動機訪談的核心理論與技巧，在體重管理與慢性病遵從性中的基層應用",
+    "講者：Dr Fok Peter Anthony 霍靖醫生",
+    "時間：2026年11月8日（星期日）上午10:00至下午1:00；地點：黑沙環衛生中心3樓會議室",
+    "報名：2026年10月26日至11月5日，費用全免，額滿即止",
+    "整個課程共十個單元，完成八個或以上可獲衛生局證書，已納入持續專業發展計劃"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "動機訪談",
+    "社區醫療",
+    "持續專業發展"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "在基層診所推動體重管理時，如何用動機訪談分辨來訪者的抗拒是資訊不足、還是自主感受到威脅？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "澳門衛生局家庭醫學培訓基地",
+    "price": "費用全免",
+    "price_tier": "免費",
+    "ce_credits": "納入持續專業發展（CPD）計劃",
+    "language": "",
+    "deadline": "2026-11-05",
+    "event_date": "2026-11-08",
+    "format": "實體",
+    "audience_level": "本澳醫療人員",
+    "signup_url": "https://app.ssm.gov.mo/medicaltrainingsignup2",
+    "topic": "動機訪談在體重管理與慢性病遵從性中的基層應用"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.gov.mo/zh-hant/news/1276277/",
+      "author_handle": "",
+      "author_name": "澳門衛生局",
+      "title": "家庭醫學培訓基地「社區醫療身心健康培訓課程」第二單元課程於今（26）日起接受報名",
+      "content": "衛生局家庭醫學培訓基地免費培訓課程第二單元，2026年11月8日舉行，動機訪談主題，報名至11月5日。",
+      "posted_at": "2026-10-26T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-30T01:16:15+00:00",
+  "hero_media": null,
+  "include": false,
+  "reject_reason": "純實體，不符 2026-10-23 規則",
+  "slug": "macau-community-medical-psychosomatic-health-training-module",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "archive",
+  "deadline_soon": false,
+  "related": [],
+  "date": "2026-10-26T00:00:00+00:00"
 }

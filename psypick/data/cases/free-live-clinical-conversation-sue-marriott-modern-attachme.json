@@ -1,154 +1,155 @@
 {
- "title_zh": "免費線上對談：Sue Marriott 談依附光譜與關係模式創傷治療",
- "title_en": "Free live clinical conversation Sue Marriott modern attachment spectrum trauma therapy",
- "summary_zh": "Trauma Therapist Institute 免費線上臨床對談。2026 年 11 月 4 日美中時間 13:00 線上舉行（港澳 11 月 5 日凌晨 03:00），由 Sue Marriott（LCSW、CGP，《Secure Relating》合著者）主講，介紹現代依附調節光譜（MARS）：不把來訪者放進四個固定依附格子，而是追蹤其在光譜上的移動，並連結即時神經系統狀態。直播一週後提供回放。",
- "summary_en": "A free live online clinical conversation from the Trauma Therapist Institute on 4 November 2026 (1:00pm Central; 03:00 Macau time on 5 November), led by Sue Marriott, LCSW, CGP, co-author of Secure Relating. It presents the Modern Attachment Regulation Spectrum (MARS): tracking clients' movement along a spectrum rather than sorting them into four fixed attachment boxes, and linking attachment activation to real-time nervous system states. On-demand replay is available one week after the live event.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程（Trauma Therapist Institute 官方頁；免費註冊見其免費會員頁）",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "免費對談屬入門／推廣性質，不等於完整依附治療訓練；港澳時間為凌晨 03:00；回放於直播一週後才上線。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "講者：Sue Marriott（LCSW、CGP，Therapist Uncensored podcast 聯合主持，《Secure Relating》合著者）",
-  "時間：2026 年 11 月 4 日美中時間 13:00；港澳 11 月 5 日凌晨 03:00",
-  "內容：現代依附調節光譜（MARS），把依附激活連結即時神經系統狀態，而非只看童年史",
-  "對象：創傷治療臨床工作者；形式：線上直播，直播一週後提供回放",
-  "費用：免費註冊"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "依附",
-  "創傷治療",
-  "關係模式",
-  "免費直播"
- ],
- "population": [
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "來訪者在不同關係中看似安全與焦慮交替出現時，你會如何用光譜追蹤，而非貼上單一標籤？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "Trauma Therapist Institute",
-  "price": "FREE（免費）",
-  "price_tier": "免費",
-  "ce_credits": "原頁未載明",
-  "language": "英語",
-  "deadline": "",
-  "event_date": "2026-11-04",
-  "format": "線上直播",
-  "audience_level": "臨床工作者",
-  "signup_url": "https://www.traumatherapistinstitute.com/modern-attachment-spectrum-trauma-therapy-techniques?hsLang=en",
-  "topic": "依附光譜與關係模式"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://www.traumatherapistinstitute.com/modern-attachment-spectrum-trauma-therapy-techniques?hsLang=en",
-   "author_handle": "",
-   "author_name": "Trauma Therapist Institute",
-   "title": "The Modern Attachment Spectrum",
-   "content": "Trauma Therapist Institute 免費線上臨床對談，2026 年 11 月 4 日舉行，由 Sue Marriott 主講依附光譜與關係模式創傷治療技巧。",
-   "posted_at": "2026-10-30T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-10-30T13:35:00+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "free-live-clinical-conversation-sue-marriott-modern-attachme",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "archive",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
-   "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
-   "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
-   "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
-   "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "創傷",
+  "title_zh": "免費線上對談：Sue Marriott 談依附光譜與關係模式創傷治療",
+  "title_en": "Free live clinical conversation Sue Marriott modern attachment spectrum trauma therapy",
+  "summary_zh": "Trauma Therapist Institute 免費線上臨床對談。2026 年 11 月 4 日美中時間 13:00 線上舉行（港澳 11 月 5 日凌晨 03:00），由 Sue Marriott（LCSW、CGP，《Secure Relating》合著者）主講，介紹現代依附調節光譜（MARS）：不把來訪者放進四個固定依附格子，而是追蹤其在光譜上的移動，並連結即時神經系統狀態。直播一週後提供回放。",
+  "summary_en": "A free live online clinical conversation from the Trauma Therapist Institute on 4 November 2026 (1:00pm Central; 03:00 Macau time on 5 November), led by Sue Marriott, LCSW, CGP, co-author of Secure Relating. It presents the Modern Attachment Regulation Spectrum (MARS): tracking clients' movement along a spectrum rather than sorting them into four fixed attachment boxes, and linking attachment activation to real-time nervous system states. On-demand replay is available one week after the live event.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程（Trauma Therapist Institute 官方頁；免費註冊見其免費會員頁）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "免費對談屬入門／推廣性質，不等於完整依附治療訓練；港澳時間為凌晨 03:00；回放於直播一週後才上線。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "講者：Sue Marriott（LCSW、CGP，Therapist Uncensored podcast 聯合主持，《Secure Relating》合著者）",
+    "時間：2026 年 11 月 4 日美中時間 13:00；港澳 11 月 5 日凌晨 03:00",
+    "內容：現代依附調節光譜（MARS），把依附激活連結即時神經系統狀態，而非只看童年史",
+    "對象：創傷治療臨床工作者；形式：線上直播，直播一週後提供回放",
+    "費用：免費註冊"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
     "依附",
-    "身體取向治療",
-    "網上研討會",
-    "免費CE"
-   ],
-   "first_seen_at": "2026-10-07T02:38:14+00:00",
-   "evidence_level": 0,
-   "population": [
+    "創傷治療",
+    "關係模式",
+    "免費直播"
+  ],
+  "population": [
     "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": "2026-10-07T02:38:14+00:00",
-   "tier": "archive",
-   "has_ethics_flags": true,
-   "date": "2026-10-07T02:38:14+00:00",
-   "training": {
-    "provider": "Phoenix Center for Experiential Trauma Therapy",
-    "price": "Free",
+  ],
+  "supervision_questions": [
+    "來訪者在不同關係中看似安全與焦慮交替出現時，你會如何用光譜追蹤，而非貼上單一標籤？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Trauma Therapist Institute",
+    "price": "FREE（免費）",
     "price_tier": "免費",
-    "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
-    "language": "English",
+    "ce_credits": "原頁未載明",
+    "language": "英語",
     "deadline": "",
-    "event_date": "2026-10-14",
-    "format": "線上"
-   },
-   "deadline_soon": false
+    "event_date": "2026-11-04",
+    "format": "線上直播",
+    "audience_level": "臨床工作者",
+    "signup_url": "https://www.traumatherapistinstitute.com/modern-attachment-spectrum-trauma-therapy-techniques?hsLang=en",
+    "topic": "依附光譜與關係模式"
   },
-  {
-   "slug": "bodynamic-elearning-attachment-character-structure",
-   "title_zh": "€29 自學課：Bodynamic 官方「依附與性格結構」入門（約 45 分鐘）",
-   "title_en": "Bodynamic eLearning: Attachment & Character Structure",
-   "summary_zh": "Bodynamic International 官方的線上自學課程，售價 €29、約 45 分鐘，包含 11 段教學影片與 4 段引導練習，介紹 Bodynamic 對依附的工作方式，涵蓋自主期（8 個月–2.5 歲）、意志期（2–4 歲）與愛／性期（3–6 歲）三個發展階段。適合想先低成本了解 Bodynamic 發展理論、再決定是否報讀 Foundation 訓練的心理專業人員。",
-   "summary_en": "Bodynamic International's €29, ~45-minute self-paced course (11 videos, 4 guided exercises) on attachment and character structure across the Autonomy, Will and Love/Sexuality stages.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "Bodynamic",
-    "依附",
-    "性格結構",
-    "低價",
-    "自學"
-   ],
-   "first_seen_at": "2026-10-01T03:34:06+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-01T03:34:06+00:00",
-   "training": {
-    "provider": "Bodynamic International",
-    "price": "€29",
-    "price_tier": "低價",
-    "ce_credits": "",
-    "language": "英文",
-    "deadline": "",
-    "event_date": "",
-    "format": "線上自學影片（終身存取）"
-   },
-   "deadline_soon": false
-  }
- ]
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.traumatherapistinstitute.com/modern-attachment-spectrum-trauma-therapy-techniques?hsLang=en",
+      "author_handle": "",
+      "author_name": "Trauma Therapist Institute",
+      "title": "The Modern Attachment Spectrum",
+      "content": "Trauma Therapist Institute 免費線上臨床對談，2026 年 11 月 4 日舉行，由 Sue Marriott 主講依附光譜與關係模式創傷治療技巧。",
+      "posted_at": "2026-10-30T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-30T13:35:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "free-live-clinical-conversation-sue-marriott-modern-attachme",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "archive",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "free-webinar-creating-earned-secure-attachment-with-somatic",
+      "title_zh": "免費網上研討會：用身體工具建立獲得性安全依附",
+      "title_en": "Free Webinar: Creating Earned Secure Attachment with Somatic Tools",
+      "summary_zh": "這場免費線上工作坊教治療師用身體取向框架，幫助個案把安全依附變成身體經驗。課程不只談理論，會帶體驗式練習。適合處理發展性創傷與不安全依附的臨床工作者。",
+      "summary_en": "Free one-hour virtual workshop (14 Oct 2026, 12–1pm ET) on helping clients move from insight to embodied secure attachment using three body-based techniques; 1 CE hour for several US licences.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷",
+        "依附",
+        "身體取向治療",
+        "網上研討會",
+        "免費CE"
+      ],
+      "first_seen_at": "2026-10-07T02:38:14+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": "2026-10-07T02:38:14+00:00",
+      "tier": "archive",
+      "has_ethics_flags": true,
+      "date": "2026-10-07T02:38:14+00:00",
+      "training": {
+        "provider": "Phoenix Center for Experiential Trauma Therapy",
+        "price": "Free",
+        "price_tier": "免費",
+        "ce_credits": "1 CE Hour for NBCC, PA SW, LPC, LMFT, and Psychologists",
+        "language": "English",
+        "deadline": "",
+        "event_date": "2026-10-14",
+        "format": "線上"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "bodynamic-elearning-attachment-character-structure",
+      "title_zh": "€29 自學課：Bodynamic 官方「依附與性格結構」入門（約 45 分鐘）",
+      "title_en": "Bodynamic eLearning: Attachment & Character Structure",
+      "summary_zh": "Bodynamic International 官方的線上自學課程，售價 €29、約 45 分鐘，包含 11 段教學影片與 4 段引導練習，介紹 Bodynamic 對依附的工作方式，涵蓋自主期（8 個月–2.5 歲）、意志期（2–4 歲）與愛／性期（3–6 歲）三個發展階段。適合想先低成本了解 Bodynamic 發展理論、再決定是否報讀 Foundation 訓練的心理專業人員。",
+      "summary_en": "Bodynamic International's €29, ~45-minute self-paced course (11 videos, 4 guided exercises) on attachment and character structure across the Autonomy, Will and Love/Sexuality stages.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "Bodynamic",
+        "依附",
+        "性格結構",
+        "低價",
+        "自學"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T03:34:06+00:00",
+      "training": {
+        "provider": "Bodynamic International",
+        "price": "€29",
+        "price_tier": "低價",
+        "ce_credits": "",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "線上自學影片（終身存取）"
+      },
+      "deadline_soon": false
+    }
+  ],
+  "date": "2026-10-30T00:00:00+00:00"
 }

@@ -1,1 +1,189 @@
-{"title_zh": "數位療法 vs 心理健康 App：治療師推薦前該知道的事", "title_en": "Digital therapeutics vs mental health apps for therapists", "summary_zh": "臨床心理師 Noel Cooper 在 Society for the Advancement of Psychotherapy 網站說明兩類工具：一是經 FDA 監管、需處方的數位療法（如 Rejoyn、SleepioRx、EndeavorRx），CMS 已於 2024 年 11 月核准相關給付代碼；二是未受監管、證據參差的大眾心理健康 App（含 AI 聊天機器人）。他建議治療師推薦前仔細審核風險與效益、做好知情同意，並例行詢問個案的科技與 AI 使用。", "summary_en": "Clinical psychologist Noel Cooper distinguishes FDA-regulated, prescription digital therapeutics (e.g., Rejoyn, SleepioRx, EndeavorRx), for which CMS approved management codes in November 2024, from unregulated mass-market mental health apps including AI chatbots. He advises vetting apps before recommending them, thorough informed consent, and routinely asking clients about technology and AI use.", "category": "臨床與治療應用", "kind": "practice", "evidence_level": 0, "evidence_note": "實務導向評論，引用若干研究但本身非研究。", "ethics_flags": [{"flag": "知情同意", "note": "使用處方數位療法前需詳細說明其性質、資料使用與限制。", "refs": ["APA 3.10｜知情同意"]}, {"flag": "保密與隱私", "note": "大眾 App 的資料保護差異大，推薦前應了解隱私政策。", "refs": ["APA 4.01｜保密的維持"]}], "psych_concepts": [{"name": "數位落差與可及性", "note": "數位工具可擴大可及性，但給付與使用門檻影響誰能受惠。", "ref": "概念｜數位落差與可及性"}], "caution": "文中提到的 FDA 核准與給付規定屬美國制度，台港使用需另查當地法規。", "verify_needed": false, "verify_reason": "", "brief_zh": ["數位療法：FDA 監管、需處方、有臨床試驗", "大眾 App：未受監管，效果差異大", "推薦前審核風險與效益並做知情同意", "可參考 APA Labs Digital Badge Program"], "brief_en": ["DTx: FDA-regulated, prescribed, trial-tested", "Consumer apps: unregulated, variable evidence", "Vet apps and obtain informed consent before recommending", "Consult APA Labs Digital Badge Program"], "model_names": ["Rejoyn", "SleepioRx", "EndeavorRx"], "tags": ["數位療法", "心理健康 App", "FDA", "APA Labs", "知情同意"], "population": ["臨床工作者", "成人", "兒童青少年"], "supervision_questions": ["你會用什麼標準審核一個要推薦給個案的心理健康 App？", "處方型數位療法和一般 App，在知情同意上應有什麼不同？", "你是否在初談中例行詢問個案的 App 與 AI 聊天機器人使用？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://societyforpsychotherapy.org/digital-therapeutics-and-mental-health-apps-what-should-therapists-know/", "author_handle": "", "author_name": "Noel Cooper, PsyD（Society for the Advancement of Psychotherapy）", "title": "Digital Therapeutics and Mental Health Apps: What Should Therapists Know?", "content": "APA 第 29 分會網站文章，區分須處方、經 FDA 監管的數位療法（如 Rejoyn、SleepioRx、EndeavorRx）與未受監管的大眾心理健康 App，並給治療師推薦與使用上的實務建議。", "posted_at": "2026-09-09T00:00:00+00:00"}], "first_seen_at": "2026-09-30T18:00:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "digital-therapeutics-vs-mental-health-apps-for-therapists", "featured_at": null, "hot_score": 0.767, "tier": "live", "deadline_soon": false, "related": [{"slug": "online-program-for-anxious-parents-prevents-child-anxiety", "title_zh": "焦慮家長的自助線上課程能預防孩子焦慮嗎？1,811 人 RCT 的小效果與低完成率", "title_en": "Online program for anxious parents prevents child anxiety", "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。", "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["兒童心理", "焦慮", "親職介入", "預防", "數位介入", "階梯式照護"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 3, "population": ["兒童青少年", "成人"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-09-21T00:00:00+00:00"}, {"slug": "hku-csrp-student-suicides-not-explained-by-adjustment-period", "title_zh": "港大防自殺中心：學童自殺不能只歸咎「適應期」，前線守門員要補位", "title_en": "HKU CSRP: student suicides not explained by adjustment period", "summary_zh": "港大香港賽馬會防止自殺研究中心高級培訓顧問張鳳儀接受東網訪問時指出，開學「適應期」可能帶來壓力，但不能充分解釋學童自殺；自殺通常由多重因素造成，約三成自殺離世學生生前曾被診斷有精神健康問題或有相關醫療服務紀錄。她建議加強前線教師的精神健康及防止自殺培訓、重視教師身心健康、建立人人都是「守門員」的文化，並加強家校合作。", "summary_en": "A senior training consultant at HKU's Centre for Suicide Research and Prevention told on.cc that the school 'adjustment period' cannot fully explain student suicides; about 30% of students who died by suicide had prior mental health diagnoses or service records. She urged gatekeeper training for teachers, attention to teacher wellbeing, and stronger home–school partnership.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["香港", "自殺防治", "兒童心理", "學校心理健康", "守門人訓練"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-25T00:00:00+00:00"}, {"slug": "hku-jckak-whole-school-3-tier-adhd-support-framework", "title_zh": "港大賽馬會 ADHD 支援計劃：全校三層模式，已培訓逾 6,000 名學生", "title_en": "HKU JCKAK whole-school 3-tier ADHD support framework", "summary_zh": "香港大學心理學系介紹「Jockey Club Keen and Active Kids Project（JCKAK）」：由 Kathy Shum 教授團隊主導、香港賽馬會慈善信託基金資助，自 2019 年起與教育局及五間非政府機構合作，在主流中小學以全校三層介入模式支援 ADHD 學生。計劃已為逾 6,000 名學生提供實證為本訓練、裝備逾 4,000 名教育工作者，並以工作坊支援 1,500 名家長，另有數碼工具與手冊。", "summary_en": "HKU Psychology describes JCKAK, a Jockey Club–funded ADHD support project led by Prof. Kathy Shum's team since 2019 with the Education Bureau and five NGOs. Using a whole-school 3-tier model, it has trained over 6,000 students and 4,000 educators and supported 1,500 parents.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["香港", "兒童心理", "特殊教育需要", "ADHD", "學校心理健康"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-09-30T00:00:00+00:00"}]}
+{
+  "title_zh": "數位療法 vs 心理健康 App：治療師推薦前該知道的事",
+  "title_en": "Digital therapeutics vs mental health apps for therapists",
+  "summary_zh": "臨床心理師 Noel Cooper 在 Society for the Advancement of Psychotherapy 網站說明兩類工具：一是經 FDA 監管、需處方的數位療法（如 Rejoyn、SleepioRx、EndeavorRx），CMS 已於 2024 年 11 月核准相關給付代碼；二是未受監管、證據參差的大眾心理健康 App（含 AI 聊天機器人）。他建議治療師推薦前仔細審核風險與效益、做好知情同意，並例行詢問個案的科技與 AI 使用。",
+  "summary_en": "Clinical psychologist Noel Cooper distinguishes FDA-regulated, prescription digital therapeutics (e.g., Rejoyn, SleepioRx, EndeavorRx), for which CMS approved management codes in November 2024, from unregulated mass-market mental health apps including AI chatbots. He advises vetting apps before recommending them, thorough informed consent, and routinely asking clients about technology and AI use.",
+  "category": "臨床與治療應用",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "實務導向評論，引用若干研究但本身非研究。",
+  "ethics_flags": [
+    {
+      "flag": "知情同意",
+      "note": "使用處方數位療法前需詳細說明其性質、資料使用與限制。",
+      "refs": [
+        "APA 3.10｜知情同意"
+      ]
+    },
+    {
+      "flag": "保密與隱私",
+      "note": "大眾 App 的資料保護差異大，推薦前應了解隱私政策。",
+      "refs": [
+        "APA 4.01｜保密的維持"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "數位落差與可及性",
+      "note": "數位工具可擴大可及性，但給付與使用門檻影響誰能受惠。",
+      "ref": "概念｜數位落差與可及性"
+    }
+  ],
+  "caution": "文中提到的 FDA 核准與給付規定屬美國制度，台港使用需另查當地法規。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "數位療法：FDA 監管、需處方、有臨床試驗",
+    "大眾 App：未受監管，效果差異大",
+    "推薦前審核風險與效益並做知情同意",
+    "可參考 APA Labs Digital Badge Program"
+  ],
+  "brief_en": [
+    "DTx: FDA-regulated, prescribed, trial-tested",
+    "Consumer apps: unregulated, variable evidence",
+    "Vet apps and obtain informed consent before recommending",
+    "Consult APA Labs Digital Badge Program"
+  ],
+  "model_names": [
+    "Rejoyn",
+    "SleepioRx",
+    "EndeavorRx"
+  ],
+  "tags": [
+    "數位療法",
+    "心理健康 App",
+    "FDA",
+    "APA Labs",
+    "知情同意"
+  ],
+  "population": [
+    "臨床工作者",
+    "成人",
+    "兒童青少年"
+  ],
+  "supervision_questions": [
+    "你會用什麼標準審核一個要推薦給個案的心理健康 App？",
+    "處方型數位療法和一般 App，在知情同意上應有什麼不同？",
+    "你是否在初談中例行詢問個案的 App 與 AI 聊天機器人使用？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://societyforpsychotherapy.org/digital-therapeutics-and-mental-health-apps-what-should-therapists-know/",
+      "author_handle": "",
+      "author_name": "Noel Cooper, PsyD（Society for the Advancement of Psychotherapy）",
+      "title": "Digital Therapeutics and Mental Health Apps: What Should Therapists Know?",
+      "content": "APA 第 29 分會網站文章，區分須處方、經 FDA 監管的數位療法（如 Rejoyn、SleepioRx、EndeavorRx）與未受監管的大眾心理健康 App，並給治療師推薦與使用上的實務建議。",
+      "posted_at": "2026-09-09T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:00:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "digital-therapeutics-vs-mental-health-apps-for-therapists",
+  "featured_at": null,
+  "hot_score": 0.767,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "online-program-for-anxious-parents-prevents-child-anxiety",
+      "title_zh": "焦慮家長的自助線上課程能預防孩子焦慮嗎？1,811 人 RCT 的小效果與低完成率",
+      "title_en": "Online program for anxious parents prevents child anxiety",
+      "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。",
+      "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "焦慮",
+        "親職介入",
+        "預防",
+        "數位介入",
+        "階梯式照護"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-09-21T00:00:00+00:00"
+    },
+    {
+      "slug": "hku-csrp-student-suicides-not-explained-by-adjustment-period",
+      "title_zh": "港大防自殺中心：學童自殺不能只歸咎「適應期」，前線守門員要補位",
+      "title_en": "HKU CSRP: student suicides not explained by adjustment period",
+      "summary_zh": "港大香港賽馬會防止自殺研究中心高級培訓顧問張鳳儀接受東網訪問時指出，開學「適應期」可能帶來壓力，但不能充分解釋學童自殺；自殺通常由多重因素造成，約三成自殺離世學生生前曾被診斷有精神健康問題或有相關醫療服務紀錄。她建議加強前線教師的精神健康及防止自殺培訓、重視教師身心健康、建立人人都是「守門員」的文化，並加強家校合作。",
+      "summary_en": "A senior training consultant at HKU's Centre for Suicide Research and Prevention told on.cc that the school 'adjustment period' cannot fully explain student suicides; about 30% of students who died by suicide had prior mental health diagnoses or service records. She urged gatekeeper training for teachers, attention to teacher wellbeing, and stronger home–school partnership.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "香港",
+        "自殺防治",
+        "兒童心理",
+        "學校心理健康",
+        "守門人訓練"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "slug": "hku-jckak-whole-school-3-tier-adhd-support-framework",
+      "title_zh": "港大賽馬會 ADHD 支援計劃：全校三層模式，已培訓逾 6,000 名學生",
+      "title_en": "HKU JCKAK whole-school 3-tier ADHD support framework",
+      "summary_zh": "香港大學心理學系介紹「Jockey Club Keen and Active Kids Project（JCKAK）」：由 Kathy Shum 教授團隊主導、香港賽馬會慈善信託基金資助，自 2019 年起與教育局及五間非政府機構合作，在主流中小學以全校三層介入模式支援 ADHD 學生。計劃已為逾 6,000 名學生提供實證為本訓練、裝備逾 4,000 名教育工作者，並以工作坊支援 1,500 名家長，另有數碼工具與手冊。",
+      "summary_en": "HKU Psychology describes JCKAK, a Jockey Club–funded ADHD support project led by Prof. Kathy Shum's team since 2019 with the Education Bureau and five NGOs. Using a whole-school 3-tier model, it has trained over 6,000 students and 4,000 educators and supported 1,500 parents.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "香港",
+        "兒童心理",
+        "特殊教育需要",
+        "ADHD",
+        "學校心理健康"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-09-30T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-09T00:00:00+00:00"
+}

@@ -1,72 +1,73 @@
 {
- "title_zh": "彰化師範大學：神經心理動力取向藝術治療團體督導實務應用工作坊",
- "title_en": "NCUE neuropsychodynamic art therapy group supervision workshop",
- "summary_zh": "國立彰化師範大學社區心理諮商及潛能發展中心主辦的工作坊，2026年12月18日（星期五）9:00至16:30舉行。內容包括個案輔導概念化與系統觀，以及攝影與文字圖卡、輕質土在藝術治療上的應用。參加對象為輔導教師、諮商及臨床心理師、社工師與諮商實務工作者及相關科系學生。轉知頁未載費用與上課地點，須核對彰師大原簡章。",
- "summary_en": "A workshop by National Changhua University of Education's community counselling centre, on 18 December 2026 (9:00-16:30), on neuropsychodynamic art therapy group supervision, case conceptualisation and systems perspectives, and the use of photography, text cards and light clay in art therapy. For counselling teachers, counselling and clinical psychologists, social workers and related students. Fee and venue are not stated on the forwarding notice.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程（學校轉知公告，非彰師大原簡章）",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "本則來源為學校轉知公告，費用與上課地點未載，報名前須核對彰師大原簡章。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "主辦：國立彰化師範大學社區心理諮商及潛能發展中心",
-  "時間：2026年12月18日（星期五）9:00-16:30",
-  "內容：個案輔導概念化與系統觀；攝影與文字圖卡、輕質土在藝術治療上的應用",
-  "對象：輔導教師、諮商及臨床心理師、社工師、諮商實務工作者及相關科系學生",
-  "費用與上課地點：轉知頁未載，須核對原簡章"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "藝術治療",
-  "團體督導",
-  "神經心理動力"
- ],
- "population": [
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "用藝術媒材做團體督導時，如何同時留意作品的象徵意義與團體動力，而不把作品當成診斷？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "國立彰化師範大學社區心理諮商及潛能發展中心",
-  "price": "",
-  "price_tier": "其他",
-  "ce_credits": "",
-  "language": "",
-  "deadline": "",
-  "event_date": "2026-12-18",
-  "format": "",
-  "audience_level": "輔導教師、諮商及臨床心理師、社工師等",
-  "signup_url": "https://csjh.kl.edu.tw/gong-gao-qu/近期公告/研習活動/zhuan-zhi-guo-li-zhang-hua-shi-fan-da-xue-ban-li115nian-shen-jing-xin-li-dong-li-qu-xiang-yi-shu-zhi-liao-tuan-ti-du-dao-shi-wu-ying-yong-gong-zuo-fang",
-  "topic": "神經心理動力取向藝術治療團體督導"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://csjh.kl.edu.tw/gong-gao-qu/近期公告/研習活動/zhuan-zhi-guo-li-zhang-hua-shi-fan-da-xue-ban-li115nian-shen-jing-xin-li-dong-li-qu-xiang-yi-shu-zhi-liao-tuan-ti-du-dao-shi-wu-ying-yong-gong-zuo-fang",
-   "author_handle": "",
-   "author_name": "國立彰化師範大學社區心理諮商及潛能發展中心（轉知）",
-   "title": "轉知 國立彰化師範大學辦理「115年神經心理動力取向藝術治療團體督導實務應用工作坊」",
-   "content": "彰師大藝術治療團體督導工作坊，2026年12月18日舉行，對象為輔導教師、諮商及臨床心理師、社工師等。",
-   "posted_at": "2026-10-27T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-10-30T01:16:15+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "ncue-neuropsychodynamic-art-therapy-group-supervision-worksh",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [],
- "evidence_quote": "2026年12月18日(五)9：00-16：30",
- "page_date": "2026-10-27"
+  "title_zh": "彰化師範大學：神經心理動力取向藝術治療團體督導實務應用工作坊",
+  "title_en": "NCUE neuropsychodynamic art therapy group supervision workshop",
+  "summary_zh": "國立彰化師範大學社區心理諮商及潛能發展中心主辦的工作坊，2026年12月18日（星期五）9:00至16:30舉行。內容包括個案輔導概念化與系統觀，以及攝影與文字圖卡、輕質土在藝術治療上的應用。參加對象為輔導教師、諮商及臨床心理師、社工師與諮商實務工作者及相關科系學生。轉知頁未載費用與上課地點，須核對彰師大原簡章。",
+  "summary_en": "A workshop by National Changhua University of Education's community counselling centre, on 18 December 2026 (9:00-16:30), on neuropsychodynamic art therapy group supervision, case conceptualisation and systems perspectives, and the use of photography, text cards and light clay in art therapy. For counselling teachers, counselling and clinical psychologists, social workers and related students. Fee and venue are not stated on the forwarding notice.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程（學校轉知公告，非彰師大原簡章）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "本則來源為學校轉知公告，費用與上課地點未載，報名前須核對彰師大原簡章。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "主辦：國立彰化師範大學社區心理諮商及潛能發展中心",
+    "時間：2026年12月18日（星期五）9:00-16:30",
+    "內容：個案輔導概念化與系統觀；攝影與文字圖卡、輕質土在藝術治療上的應用",
+    "對象：輔導教師、諮商及臨床心理師、社工師、諮商實務工作者及相關科系學生",
+    "費用與上課地點：轉知頁未載，須核對原簡章"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "藝術治療",
+    "團體督導",
+    "神經心理動力"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "用藝術媒材做團體督導時，如何同時留意作品的象徵意義與團體動力，而不把作品當成診斷？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "國立彰化師範大學社區心理諮商及潛能發展中心",
+    "price": "",
+    "price_tier": "其他",
+    "ce_credits": "",
+    "language": "",
+    "deadline": "",
+    "event_date": "2026-12-18",
+    "format": "",
+    "audience_level": "輔導教師、諮商及臨床心理師、社工師等",
+    "signup_url": "https://csjh.kl.edu.tw/gong-gao-qu/近期公告/研習活動/zhuan-zhi-guo-li-zhang-hua-shi-fan-da-xue-ban-li115nian-shen-jing-xin-li-dong-li-qu-xiang-yi-shu-zhi-liao-tuan-ti-du-dao-shi-wu-ying-yong-gong-zuo-fang",
+    "topic": "神經心理動力取向藝術治療團體督導"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://csjh.kl.edu.tw/gong-gao-qu/近期公告/研習活動/zhuan-zhi-guo-li-zhang-hua-shi-fan-da-xue-ban-li115nian-shen-jing-xin-li-dong-li-qu-xiang-yi-shu-zhi-liao-tuan-ti-du-dao-shi-wu-ying-yong-gong-zuo-fang",
+      "author_handle": "",
+      "author_name": "國立彰化師範大學社區心理諮商及潛能發展中心（轉知）",
+      "title": "轉知 國立彰化師範大學辦理「115年神經心理動力取向藝術治療團體督導實務應用工作坊」",
+      "content": "彰師大藝術治療團體督導工作坊，2026年12月18日舉行，對象為輔導教師、諮商及臨床心理師、社工師等。",
+      "posted_at": "2026-10-27T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-30T01:16:15+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ncue-neuropsychodynamic-art-therapy-group-supervision-worksh",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "2026年12月18日(五)9：00-16：30",
+  "page_date": "2026-10-27",
+  "date": "2026-10-27T00:00:00+00:00"
 }

@@ -1,1 +1,167 @@
-{"title_zh": "澳大人工智能與腦科學國際研討會：情感 AI 與計算精神醫學", "title_en": "UM symposium on AI and brain sciences", "summary_zh": "澳門大學人工智能與腦科學研究院舉辦國際研討會，約 500 人參加，設第二屆澳門情感人工智能研討會、認知與腦科學研討會等四個分論壇。講題涵蓋情感識別到多模態基礎模型，以及德國科隆大學 Joseph Kambeitz 教授談神經影像如何推動計算精神醫學成果轉化到臨床。", "summary_en": "The University of Macau's Institute of AI and Brain Sciences held an international symposium (~500 participants) with forums on emotional AI and cognitive/brain science, including a talk on translating computational psychiatry into clinical use.", "category": "研究與證據", "kind": "research", "evidence_level": 0, "evidence_note": "學術活動新聞稿，未報告具體研究數據。", "ethics_flags": [], "psych_concepts": [{"name": "數位表型", "note": "以語言、神經影像等資料推論心理狀態，是情感 AI 與計算精神醫學的共同方向。", "ref": "概念｜數位表型"}], "caution": "新聞稿只列講題，沒有研究結果；要引用具體發現需找講者的原始論文。", "verify_needed": false, "verify_reason": "", "brief_zh": ["約 500 人參加，四個分論壇", "第二屆澳門情感人工智能研討會：情感識別與以人為本的智能系統", "科隆大學 Kambeitz 教授談計算精神醫學的臨床轉化", "認知與腦科學分論壇涵蓋認知老化與神經精神疾病"], "brief_en": ["~500 participants, four forums", "Emotional AI forum", "Talk on computational psychiatry translation", "Cognitive ageing and neuropsychiatric disorders"], "model_names": [], "tags": ["澳門", "澳門大學", "情感人工智能", "計算精神醫學", "研討會"], "population": ["臨床工作者"], "supervision_questions": ["情感 AI 判讀的情緒與個案自述不一致時，臨床上應以哪個為準？", "計算精神醫學的預測模型要達到什麼條件，才適合進入你的服務場域？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.gov.mo/zh-hant/news/1263582/", "author_handle": "", "author_name": "澳門大學", "title": "澳大辦人工智能與腦科學國際研討會", "content": "澳大人工智能與腦科學研究院舉辦國際研討會，約 500 人參加，含情感人工智能、數據科學、認知與腦科學、機器人四個分論壇；有講者談神經影像推動計算精神醫學走向臨床。", "posted_at": "2026-09-03T00:00:00+00:00"}], "first_seen_at": "2026-09-30T22:41:42+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "um-symposium-on-ai-and-brain-sciences", "featured_at": null, "hot_score": 0.387, "tier": "live", "deadline_soon": false, "related": [{"slug": "jingle-jangle-fallacy-in-digital-well-being-research", "title_zh": "數碼福祉研究的「同名異義、異名同義」謬誤：澳大 Montag 等人評論", "title_en": "Jingle jangle fallacy in digital well-being research", "summary_zh": "澳門大學認知與腦科學中心 Christian Montag 與托萊多大學 Jon Elhai 於 BMC Global and Public Health 發表評論（2026-09-16），指出「數碼福祉」沒有共識定義：研究者有時用同一名稱指不同現象，或以不同名稱描述同一現象，令研究難以累積。作者建議由專家小組建立共識、統一操作化定義，並區分成癮、問題性使用與一般福祉。", "summary_en": "Montag (University of Macau) and Elhai argue in BMC Global and Public Health that inconsistent definitions—jingle and jangle fallacies—hamper digital well-being research, and call for consensus measurement.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["澳門", "數碼福祉", "社群媒體成癮", "測量", "研究方法"], "first_seen_at": "2026-09-30T22:41:42+00:00", "evidence_level": 0, "population": ["臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.774, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-19T00:00:00+00:00"}, {"slug": "taiwan-mental-health-alliance-s-three-level-fix-for-inequali", "title_zh": "世界心理健康日前夕，台灣心理健康聯盟提「不平等」三層解方", "title_en": "Taiwan Mental Health Alliance's three-level fix for inequality", "summary_zh": "公視報導，台灣心理健康聯盟在 10/10 世界心理健康日前夕，提出解決心理健康不平等的三層解方：上游從經濟安全、平等包容消除歧視與汙名，中游以系統與政策提供可近資源，下游讓個人有穩定身心健康與歸屬感。國衛院副院長陳為堅提醒，不處理上游風險因子，只靠末端用藥會持續產生問題；衛福部心理健康司司長陳柏熹表示，將規劃把癌友納入免費心理諮詢補助，近期上路。", "summary_en": "Ahead of World Mental Health Day, the Taiwan Mental Health Alliance proposed upstream (economic security, anti-stigma), midstream (accessible services and policy) and downstream (individual wellbeing and belonging) solutions to mental health inequality. The Ministry said cancer patients will soon be included in its free counselling subsidy.", "category": "研究與證據", "kind": "practice", "model_names": [], "tags": ["台灣", "心理健康政策", "世界心理健康日", "健康不平等", "心理諮詢補助"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["成人", "一般大眾", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.477, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-02T00:00:00+00:00"}, {"slug": "one-in-four-year-8s-in-england-likely-to-have-a-mental-healt", "title_zh": "英格蘭八年級學生四分之一可能有心理健康問題：Anna Freud 全國世代研究第一年發現", "title_en": "One in four Year 8s in England likely to have a mental health condition (Anna Freud nation", "summary_zh": "Anna Freud 發布《Growing Up in the 2020s》全國世代研究第一年發現：英格蘭八年級學生約 25% 有可能存在心理健康問題，且性別、家庭經濟與特殊教育需要等不平等已於中學初期貫穿學生的家庭、學校與社交生活。研究團隊與教育部官員均強調預防與早期支援的必要。", "summary_en": "Anna Freud's national cohort 'Growing Up in the 2020s' (year 1, published 1 Oct 2026): about 25% of Year 8 students in England likely have a mental health condition, with gaps by gender, income and SEN.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["兒童心理", "青少年心理健康", "世代研究", "健康不平等"], "first_seen_at": "2026-10-03T01:09:46+00:00", "evidence_level": 2, "population": ["兒童青少年", "臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.289, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-10-01T00:00:00+00:00"}]}
+{
+  "title_zh": "澳大人工智能與腦科學國際研討會：情感 AI 與計算精神醫學",
+  "title_en": "UM symposium on AI and brain sciences",
+  "summary_zh": "澳門大學人工智能與腦科學研究院舉辦國際研討會，約 500 人參加，設第二屆澳門情感人工智能研討會、認知與腦科學研討會等四個分論壇。講題涵蓋情感識別到多模態基礎模型，以及德國科隆大學 Joseph Kambeitz 教授談神經影像如何推動計算精神醫學成果轉化到臨床。",
+  "summary_en": "The University of Macau's Institute of AI and Brain Sciences held an international symposium (~500 participants) with forums on emotional AI and cognitive/brain science, including a talk on translating computational psychiatry into clinical use.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 0,
+  "evidence_note": "學術活動新聞稿，未報告具體研究數據。",
+  "ethics_flags": [],
+  "psych_concepts": [
+    {
+      "name": "數位表型",
+      "note": "以語言、神經影像等資料推論心理狀態，是情感 AI 與計算精神醫學的共同方向。",
+      "ref": "概念｜數位表型"
+    }
+  ],
+  "caution": "新聞稿只列講題，沒有研究結果；要引用具體發現需找講者的原始論文。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "約 500 人參加，四個分論壇",
+    "第二屆澳門情感人工智能研討會：情感識別與以人為本的智能系統",
+    "科隆大學 Kambeitz 教授談計算精神醫學的臨床轉化",
+    "認知與腦科學分論壇涵蓋認知老化與神經精神疾病"
+  ],
+  "brief_en": [
+    "~500 participants, four forums",
+    "Emotional AI forum",
+    "Talk on computational psychiatry translation",
+    "Cognitive ageing and neuropsychiatric disorders"
+  ],
+  "model_names": [],
+  "tags": [
+    "澳門",
+    "澳門大學",
+    "情感人工智能",
+    "計算精神醫學",
+    "研討會"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "情感 AI 判讀的情緒與個案自述不一致時，臨床上應以哪個為準？",
+    "計算精神醫學的預測模型要達到什麼條件，才適合進入你的服務場域？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.gov.mo/zh-hant/news/1263582/",
+      "author_handle": "",
+      "author_name": "澳門大學",
+      "title": "澳大辦人工智能與腦科學國際研討會",
+      "content": "澳大人工智能與腦科學研究院舉辦國際研討會，約 500 人參加，含情感人工智能、數據科學、認知與腦科學、機器人四個分論壇；有講者談神經影像推動計算精神醫學走向臨床。",
+      "posted_at": "2026-09-03T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T22:41:42+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "um-symposium-on-ai-and-brain-sciences",
+  "featured_at": null,
+  "hot_score": 0.387,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "jingle-jangle-fallacy-in-digital-well-being-research",
+      "title_zh": "數碼福祉研究的「同名異義、異名同義」謬誤：澳大 Montag 等人評論",
+      "title_en": "Jingle jangle fallacy in digital well-being research",
+      "summary_zh": "澳門大學認知與腦科學中心 Christian Montag 與托萊多大學 Jon Elhai 於 BMC Global and Public Health 發表評論（2026-09-16），指出「數碼福祉」沒有共識定義：研究者有時用同一名稱指不同現象，或以不同名稱描述同一現象，令研究難以累積。作者建議由專家小組建立共識、統一操作化定義，並區分成癮、問題性使用與一般福祉。",
+      "summary_en": "Montag (University of Macau) and Elhai argue in BMC Global and Public Health that inconsistent definitions—jingle and jangle fallacies—hamper digital well-being research, and call for consensus measurement.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "數碼福祉",
+        "社群媒體成癮",
+        "測量",
+        "研究方法"
+      ],
+      "first_seen_at": "2026-09-30T22:41:42+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.774,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-19T00:00:00+00:00"
+    },
+    {
+      "slug": "taiwan-mental-health-alliance-s-three-level-fix-for-inequali",
+      "title_zh": "世界心理健康日前夕，台灣心理健康聯盟提「不平等」三層解方",
+      "title_en": "Taiwan Mental Health Alliance's three-level fix for inequality",
+      "summary_zh": "公視報導，台灣心理健康聯盟在 10/10 世界心理健康日前夕，提出解決心理健康不平等的三層解方：上游從經濟安全、平等包容消除歧視與汙名，中游以系統與政策提供可近資源，下游讓個人有穩定身心健康與歸屬感。國衛院副院長陳為堅提醒，不處理上游風險因子，只靠末端用藥會持續產生問題；衛福部心理健康司司長陳柏熹表示，將規劃把癌友納入免費心理諮詢補助，近期上路。",
+      "summary_en": "Ahead of World Mental Health Day, the Taiwan Mental Health Alliance proposed upstream (economic security, anti-stigma), midstream (accessible services and policy) and downstream (individual wellbeing and belonging) solutions to mental health inequality. The Ministry said cancer patients will soon be included in its free counselling subsidy.",
+      "category": "研究與證據",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "台灣",
+        "心理健康政策",
+        "世界心理健康日",
+        "健康不平等",
+        "心理諮詢補助"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "一般大眾",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.477,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "slug": "one-in-four-year-8s-in-england-likely-to-have-a-mental-healt",
+      "title_zh": "英格蘭八年級學生四分之一可能有心理健康問題：Anna Freud 全國世代研究第一年發現",
+      "title_en": "One in four Year 8s in England likely to have a mental health condition (Anna Freud nation",
+      "summary_zh": "Anna Freud 發布《Growing Up in the 2020s》全國世代研究第一年發現：英格蘭八年級學生約 25% 有可能存在心理健康問題，且性別、家庭經濟與特殊教育需要等不平等已於中學初期貫穿學生的家庭、學校與社交生活。研究團隊與教育部官員均強調預防與早期支援的必要。",
+      "summary_en": "Anna Freud's national cohort 'Growing Up in the 2020s' (year 1, published 1 Oct 2026): about 25% of Year 8 students in England likely have a mental health condition, with gaps by gender, income and SEN.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "青少年心理健康",
+        "世代研究",
+        "健康不平等"
+      ],
+      "first_seen_at": "2026-10-03T01:09:46+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.289,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-03T00:00:00+00:00"
+}

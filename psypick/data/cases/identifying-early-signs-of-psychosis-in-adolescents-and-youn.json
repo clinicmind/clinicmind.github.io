@@ -1,201 +1,202 @@
 {
- "title_zh": "識別青少年及年輕成人精神病早期徵兆",
- "title_en": "Identifying Early Signs of Psychosis in Adolescents and Young Adults",
- "summary_zh": "史丹佛醫學院精神科的免費線上 CME（約 2 小時，2.00 AMA PRA Category 1 學分，2027-01-07 到期）：以敘事與案例示範，訓練臨床工作者識別青少年及年輕成人精神病早期徵兆、運用高產出篩查問句，並學習如何與年輕人及其家庭談論精神病。適合家醫、兒科、精神科、護理及學校社工。",
- "summary_en": "Stanford's free on-demand CME (2 hrs, 2.00 AMA PRA Category 1 credits, expires 2027-01-07) trains clinicians to recognize early signs of psychosis in adolescents and young adults, use high-yield screening questions, and talk with young people and families about psychosis, using narrative storytelling and case scenarios.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "免費僅指旁聽或免費註冊；證書、學分是否另收費請以課程頁為準。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "免費線上隨選課程，約 2 小時，2027-01-07 到期，現在報名仍有效",
-  "2.00 AMA PRA Category 1 學分；非醫師可拿 2.00 小時參與學分",
-  "內容：精神病早期徵兆識別、高產出篩查問句、與青少年及其家庭談論精神病的案例示範",
-  "附完整參考文獻（含 2023 年科技輔助青少年早期精神病協作照護研究）"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "精神病早期識別",
-  "青少年心理健康",
-  "CME學分",
-  "免費課程",
-  "篩查問句"
- ],
- "population": [
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "遇到青少年出現可疑精神病早期徵兆時，篩查問句之後的轉介路徑應如何與家長溝通？",
-  "督導如何避免把一般青春期情緒波動過度病理化？"
- ],
- "original_prompt": "",
- "training": {
-  "audience_level": "家庭醫生、基層醫療、兒科、精神科醫生、執業護理師、醫師助理、學校社工",
-  "ce_credits": "2.00 AMA PRA Category 1 Credits；非醫師參與學分 2.00 小時",
-  "deadline": "2027-01-07（課程到期日）",
-  "event_date": "隨選",
-  "format": "線上隨選",
-  "language": "英文",
-  "price": "免費",
-  "price_tier": "免費",
-  "provider": "Stanford Center for Continuing Medical Education",
-  "signup_url": "https://stanford.cloud-cme.com/course/courseoverview?P=0&EID=49032",
-  "topic": "青少年及年輕成人精神病早期徵兆的識別與篩查",
-  "event_time_note": "2024-01-08 至 2027-01-07",
-  "format_note": "線上隨選（約 2 小時）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://stanford.cloud-cme.com/course/courseoverview?P=0&EID=49032",
-   "author_handle": "",
-   "author_name": "Stanford University School of Medicine, Department of Psychiatry and Behavioral Sciences",
-   "title": "Identifying Early Signs of Psychosis in Adolescents and Young Adults - Stanford Center for Continuing Medical Education",
-   "content": "史丹佛醫學院精神科推出的免費 CME：以敘事與案例教學，訓練臨床工作者識別青少年及年輕成人精神病早期徵兆、運用篩查問句，並與年輕人及其家庭談論精神病。",
-   "posted_at": "2026-10-05T03:01:53+00:00"
-  }
- ],
- "first_seen_at": "2026-10-05T03:01:53+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "identifying-early-signs-of-psychosis-in-adolescents-and-youn",
- "featured_at": null,
- "hot_score": 3.0,
- "tier": "live",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "talk-to-me-improving-mental-health-and-suicide-prevention-in",
-   "title_zh": "「跟我談談」：青少年心理健康促進與自殺預防",
-   "title_en": "'Talk to me': Improving mental health and suicide prevention in young adults",
-   "summary_zh": "澳洲科廷大學在 edX 的 6 週課程（德澳合作、經科學評估），教導如何辨識與回應青少年的心理健康危機、自傷與自殺風險，後四個模組專為家長、教師、基層醫療與心理健康專業等「守門人」設計。免費旁聽，適合臨床工作者、家長與教師。",
-   "summary_en": "A 6-week Curtin University edX course (German-Australian collaboration) on recognising and responding to mental health challenges and suicide risk in young adults, aimed at parents, teachers and health professionals as gatekeepers.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
+  "title_zh": "識別青少年及年輕成人精神病早期徵兆",
+  "title_en": "Identifying Early Signs of Psychosis in Adolescents and Young Adults",
+  "summary_zh": "史丹佛醫學院精神科的免費線上 CME（約 2 小時，2.00 AMA PRA Category 1 學分，2027-01-07 到期）：以敘事與案例示範，訓練臨床工作者識別青少年及年輕成人精神病早期徵兆、運用高產出篩查問句，並學習如何與年輕人及其家庭談論精神病。適合家醫、兒科、精神科、護理及學校社工。",
+  "summary_en": "Stanford's free on-demand CME (2 hrs, 2.00 AMA PRA Category 1 credits, expires 2027-01-07) trains clinicians to recognize early signs of psychosis in adolescents and young adults, use high-yield screening questions, and talk with young people and families about psychosis, using narrative storytelling and case scenarios.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "免費僅指旁聽或免費註冊；證書、學分是否另收費請以課程頁為準。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "免費線上隨選課程，約 2 小時，2027-01-07 到期，現在報名仍有效",
+    "2.00 AMA PRA Category 1 學分；非醫師可拿 2.00 小時參與學分",
+    "內容：精神病早期徵兆識別、高產出篩查問句、與青少年及其家庭談論精神病的案例示範",
+    "附完整參考文獻（含 2023 年科技輔助青少年早期精神病協作照護研究）"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "精神病早期識別",
     "青少年心理健康",
-    "自殺預防",
-    "守門人訓練",
-    "免費旁聽",
-    "edX"
-   ],
-   "first_seen_at": "2026-10-05T03:01:53+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": true,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-05T03:01:53+00:00",
-   "training": {
-    "provider": "edX / Curtin University",
-    "price": "Free（免費）；頁面原文 Optional upgrade available",
-    "price_tier": "免費",
-    "ce_credits": "無（頁面未提及）",
-    "language": "英文（另有德文版）",
-    "deadline": "",
-    "event_date": "隨選（頁面顯示 There is one session available: Starts Nov 7）",
-    "format": "線上自定進度（6 週）"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "free-e-learning-anti-racism-and-mental-health-in-schools",
-   "title_zh": "免費自學：Anna Freud「反種族主義與學校心理健康」網上課程",
-   "title_en": "Free e-learning: Anti-Racism and Mental Health in Schools",
-   "summary_zh": "Anna Freud 提供的免費自學網上課程，約 3–5 小時，報名後 12 個月內可修讀。五個單元涵蓋帶領反種族主義改變、全校合作、了解及促進黑人與少數族裔學生的身心健康、支援少數族裔職員，並附反思活動，完成後可申請 CPD 證書。",
-   "summary_en": "A free, self-paced Anna Freud e-learning course (3–5 hours, 12 months' access) with five modules on anti-racism and the wellbeing of Black and racially minoritised students and staff; CPD certificate on completion.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "學校心理健康",
-    "反種族主義",
+    "CME學分",
     "免費課程",
-    "Anna Freud"
-   ],
-   "first_seen_at": "2026-10-01T03:55:02+00:00",
-   "evidence_level": 0,
-   "population": [
-    "兒童青少年",
+    "篩查問句"
+  ],
+  "population": [
     "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 2.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-01T03:55:02+00:00",
-   "training": {
-    "provider": "Anna Freud",
-    "price": "免費",
-    "price_tier": "免費",
-    "ce_credits": "CPD 證書（CPD Service）",
-    "language": "英語",
-    "deadline": "",
-    "event_date": "",
-    "format": "網上自學"
-   },
-   "deadline_soon": false
-  },
-  {
-   "slug": "uc-davis-free-pcit-web-course",
-   "title_zh": "UC Davis 免費 PCIT 網上課程：10 小時、最多 10 個 APA 學分",
-   "title_en": "UC Davis free PCIT web course",
-   "summary_zh": "UC Davis PCIT 訓練中心提供免費的親子互動治療（PCIT）網上課程，共 11 個單元、約 10 小時，結合講解、影片與互動練習，可隨時開始、自訂進度。完成可取得最多 10 個 APA 認可的心理師繼續教育學分，但只屬入門訓練，不等同 PCIT 認證。",
-   "summary_en": "UC Davis PCIT Training Center offers a free, self-paced 10-hour PCIT web course in 11 modules with up to 10 APA-approved CE credits. It is introductory and does not confer PCIT certification.",
-   "category": "進修與培訓",
-   "kind": "training",
-   "model_names": [],
-   "tags": [
-    "兒童心理",
-    "PCIT",
-    "親子互動治療",
-    "兒童行為問題",
-    "免費課程",
-    "繼續教育"
-   ],
-   "first_seen_at": "2026-10-01T03:34:06+00:00",
-   "evidence_level": 0,
-   "population": [
-    "臨床工作者",
-    "兒童青少年"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 3.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": true,
-   "date": "2026-10-01T03:34:06+00:00",
-   "training": {
-    "provider": "UC Davis PCIT Training Center",
-    "price": "免費",
-    "price_tier": "免費",
-    "ce_credits": "最多 10 個 APA 認可心理師繼續教育學分（每小時 1 學分）",
+  ],
+  "supervision_questions": [
+    "遇到青少年出現可疑精神病早期徵兆時，篩查問句之後的轉介路徑應如何與家長溝通？",
+    "督導如何避免把一般青春期情緒波動過度病理化？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "audience_level": "家庭醫生、基層醫療、兒科、精神科醫生、執業護理師、醫師助理、學校社工",
+    "ce_credits": "2.00 AMA PRA Category 1 Credits；非醫師參與學分 2.00 小時",
+    "deadline": "2027-01-07（課程到期日）",
+    "event_date": "隨選",
+    "format": "線上隨選",
     "language": "英文",
-    "deadline": "",
-    "event_date": "",
-    "format": "網上自學課程（11 個單元，含影片與互動練習）"
-   },
-   "deadline_soon": false
-  }
- ]
+    "price": "免費",
+    "price_tier": "免費",
+    "provider": "Stanford Center for Continuing Medical Education",
+    "signup_url": "https://stanford.cloud-cme.com/course/courseoverview?P=0&EID=49032",
+    "topic": "青少年及年輕成人精神病早期徵兆的識別與篩查",
+    "event_time_note": "2024-01-08 至 2027-01-07",
+    "format_note": "線上隨選（約 2 小時）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://stanford.cloud-cme.com/course/courseoverview?P=0&EID=49032",
+      "author_handle": "",
+      "author_name": "Stanford University School of Medicine, Department of Psychiatry and Behavioral Sciences",
+      "title": "Identifying Early Signs of Psychosis in Adolescents and Young Adults - Stanford Center for Continuing Medical Education",
+      "content": "史丹佛醫學院精神科推出的免費 CME：以敘事與案例教學，訓練臨床工作者識別青少年及年輕成人精神病早期徵兆、運用篩查問句，並與年輕人及其家庭談論精神病。",
+      "posted_at": "2026-10-05T03:01:53+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-05T03:01:53+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "identifying-early-signs-of-psychosis-in-adolescents-and-youn",
+  "featured_at": null,
+  "hot_score": 3.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "talk-to-me-improving-mental-health-and-suicide-prevention-in",
+      "title_zh": "「跟我談談」：青少年心理健康促進與自殺預防",
+      "title_en": "'Talk to me': Improving mental health and suicide prevention in young adults",
+      "summary_zh": "澳洲科廷大學在 edX 的 6 週課程（德澳合作、經科學評估），教導如何辨識與回應青少年的心理健康危機、自傷與自殺風險，後四個模組專為家長、教師、基層醫療與心理健康專業等「守門人」設計。免費旁聽，適合臨床工作者、家長與教師。",
+      "summary_en": "A 6-week Curtin University edX course (German-Australian collaboration) on recognising and responding to mental health challenges and suicide risk in young adults, aimed at parents, teachers and health professionals as gatekeepers.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "青少年心理健康",
+        "自殺預防",
+        "守門人訓練",
+        "免費旁聽",
+        "edX"
+      ],
+      "first_seen_at": "2026-10-05T03:01:53+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-05T03:01:53+00:00",
+      "training": {
+        "provider": "edX / Curtin University",
+        "price": "Free（免費）；頁面原文 Optional upgrade available",
+        "price_tier": "免費",
+        "ce_credits": "無（頁面未提及）",
+        "language": "英文（另有德文版）",
+        "deadline": "",
+        "event_date": "隨選（頁面顯示 There is one session available: Starts Nov 7）",
+        "format": "線上自定進度（6 週）"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "free-e-learning-anti-racism-and-mental-health-in-schools",
+      "title_zh": "免費自學：Anna Freud「反種族主義與學校心理健康」網上課程",
+      "title_en": "Free e-learning: Anti-Racism and Mental Health in Schools",
+      "summary_zh": "Anna Freud 提供的免費自學網上課程，約 3–5 小時，報名後 12 個月內可修讀。五個單元涵蓋帶領反種族主義改變、全校合作、了解及促進黑人與少數族裔學生的身心健康、支援少數族裔職員，並附反思活動，完成後可申請 CPD 證書。",
+      "summary_en": "A free, self-paced Anna Freud e-learning course (3–5 hours, 12 months' access) with five modules on anti-racism and the wellbeing of Black and racially minoritised students and staff; CPD certificate on completion.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "學校心理健康",
+        "反種族主義",
+        "免費課程",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 2.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T03:55:02+00:00",
+      "training": {
+        "provider": "Anna Freud",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "CPD 證書（CPD Service）",
+        "language": "英語",
+        "deadline": "",
+        "event_date": "",
+        "format": "網上自學"
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "uc-davis-free-pcit-web-course",
+      "title_zh": "UC Davis 免費 PCIT 網上課程：10 小時、最多 10 個 APA 學分",
+      "title_en": "UC Davis free PCIT web course",
+      "summary_zh": "UC Davis PCIT 訓練中心提供免費的親子互動治療（PCIT）網上課程，共 11 個單元、約 10 小時，結合講解、影片與互動練習，可隨時開始、自訂進度。完成可取得最多 10 個 APA 認可的心理師繼續教育學分，但只屬入門訓練，不等同 PCIT 認證。",
+      "summary_en": "UC Davis PCIT Training Center offers a free, self-paced 10-hour PCIT web course in 11 modules with up to 10 APA-approved CE credits. It is introductory and does not confer PCIT certification.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "PCIT",
+        "親子互動治療",
+        "兒童行為問題",
+        "免費課程",
+        "繼續教育"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 3.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T03:34:06+00:00",
+      "training": {
+        "provider": "UC Davis PCIT Training Center",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "最多 10 個 APA 認可心理師繼續教育學分（每小時 1 學分）",
+        "language": "英文",
+        "deadline": "",
+        "event_date": "",
+        "format": "網上自學課程（11 個單元，含影片與互動練習）"
+      },
+      "deadline_soon": false
+    }
+  ],
+  "date": "2026-10-05T03:01:53+00:00"
 }

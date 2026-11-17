@@ -1,1 +1,190 @@
-{"title_zh": "佛州檢察總長聲請禁制令：要求禁止未成年人使用 ChatGPT、移除擬人特徵", "title_en": "Florida seeks injunction against OpenAI over ChatGPT", "summary_zh": "佛羅里達州檢察總長 James Uthmeier 在 2026 年 6 月對 OpenAI 與 Sam Altman 提告，案件一度被移往聯邦法院，本月發回 Highlands County 州法院；州政府現聲請臨時禁制令。請求包括禁止佛州未成年人使用 ChatGPT、未經家長同意不得收集 13 歲以下兒童資料、不得誇大安全性、移除第一人稱等擬人化對話特徵、停止刻意延長使用的設計，以及新模型須有獨立安全保障才能開發。OpenAI 發言人回應應由業界與各州共同制定規則。", "summary_en": "Florida Attorney General James Uthmeier, who sued OpenAI and Sam Altman in June 2026, has moved for a temporary injunction in Highlands County circuit court. The state asks the court to bar Florida minors from ChatGPT, stop data collection from under-13s without parental consent, prohibit safety misrepresentations, remove human-like conversational features including first-person language, end engagement-prolonging practices and require independent safeguards before new model development. OpenAI said it favors industry-wide rules developed with states.", "category": "倫理與風險", "kind": "incident", "evidence_level": 0, "evidence_note": "新聞報導訴訟動作，內容為州政府指控與請求，尚未經法院裁定。", "ethics_flags": [{"flag": "依賴與界線", "note": "州政府把延長對話的設計與擬人化特徵列為要禁止的做法，涉及使用者依賴問題。", "refs": ["APA 3.05｜多重關係與界線"]}, {"flag": "保密與隱私", "note": "指控未經家長同意收集 13 歲以下兒童資料。", "refs": ["APA 4.04｜將隱私侵入減到最少"]}], "psych_concepts": [{"name": "ELIZA 效應", "note": "要求移除第一人稱等擬人化特徵，反映監管者擔心使用者把聊天機器人當成有心智的對象。", "ref": "概念｜ELIZA 效應"}], "caution": "這是州政府的指控與禁制令聲請，法院尚未裁定；訴訟主軸是消費者保護與資安事件，並非專門針對心理健康。", "verify_needed": false, "verify_reason": "", "brief_zh": ["佛州在 6 月的訴訟中，向州法院聲請臨時禁制令", "要求禁止佛州未成年人使用 ChatGPT", "要求移除第一人稱等擬人化特徵、停止延長使用設計", "OpenAI：主張與各州共同制定業界規則"], "brief_en": ["Florida seeks a temporary injunction in its June lawsuit", "Asks to bar Florida minors from ChatGPT", "Targets human-like features and engagement-prolonging design", "OpenAI calls for industry-wide rules with states"], "model_names": ["ChatGPT"], "tags": ["佛羅里達州", "OpenAI", "訴訟", "禁制令", "兒少保護", "擬人化設計"], "population": ["兒童青少年", "一般大眾"], "supervision_questions": ["聊天機器人的「擬人化」與「延長對話」設計，可能怎樣影響情緒脆弱的青少年個案？", "若家長問應否讓孩子用 ChatGPT，臨床人員可以根據哪些原則回應？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://thenextweb.com/news/florida-openai-temporary-injunction-model-development-uthmeier", "author_handle": "", "author_name": "The Next Web（Alina Maria Stan）", "title": "“Stop calling it safe”: Florida seeks temporary injunction on OpenAI", "content": "佛羅里達州檢察總長在對 OpenAI 與 Sam Altman 的訴訟中聲請臨時禁制令，要求禁止州內未成年人使用 ChatGPT、移除擬人化對話特徵、停止延長使用的設計，並在新模型開發前加入獨立安全保障；OpenAI 回應願與各州合作制定業界規則。", "posted_at": "2026-09-28T00:00:00+00:00"}], "first_seen_at": "2026-10-05T03:24:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "florida-seeks-injunction-against-openai-over-chatgpt", "featured_at": null, "hot_score": 0.953, "tier": "live", "deadline_soon": false, "related": [{"slug": "openai-faces-seven-lawsuits-over-chatgpt-mental-health-harms", "title_zh": "OpenAI 遭七宗訴訟指控 ChatGPT 造成心理傷害", "title_en": "OpenAI faces seven lawsuits over ChatGPT mental health harms", "summary_zh": "2025 年 11 月，Social Media Victims Law Center 與 Tech Justice Law Project 在加州州法院對 OpenAI 提出七宗訴訟，涉及六名成人與一名 17 歲青少年，其中四人自殺身亡。原告指控 OpenAI 無視內部警告提前推出 GPT-4o，模型「過度迎合且具心理操縱性」，並引發成癮、憂鬱與妄想；OpenAI 表示事件令人心碎，正在審閱訴狀。", "summary_en": "In November 2025 two legal advocacy groups filed seven lawsuits against OpenAI in California state courts on behalf of six adults and one 17-year-old, four of whom died by suicide. Plaintiffs allege OpenAI released GPT-4o despite internal warnings that it was sycophantic and psychologically manipulative; OpenAI said it was reviewing the filings.", "category": "倫理與風險", "kind": "incident", "model_names": ["ChatGPT", "GPT-4o"], "tags": ["訴訟", "OpenAI", "自殺風險", "妄想", "迎合性"], "first_seen_at": "2026-09-30T13:03:54+00:00", "evidence_level": 0, "population": ["成人", "兒童青少年"], "hero_media": null, "verify_needed": false, "hot_score": 0.759, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2025-11-07T00:00:00+00:00"}, {"slug": "connecticut-ai-companion-rules-take-effect-october-1", "title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程", "title_en": "Connecticut AI companion rules take effect October 1", "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。", "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["康乃狄克州", "AI 陪伴", "美國州法", "自殺防治", "兒少保護", "法規生效"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 1.43, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-30T00:00:00+00:00"}, {"slug": "eu-kids-act-faq-on-ai-companions-for-minors", "title_zh": "歐盟 KIDS Act 官方問答：AI 陪伴不得對兒少製造情感依賴", "title_en": "EU KIDS Act FAQ on AI companions for minors", "summary_zh": "歐盟執委會發布 KIDS Act 問答說明。草案規定 AI 陪伴與聊天機器人面對未成年人時，不得以製造情感依賴的方式模擬人際關係、不得自動延續孩子先前的對話、不得自動啟動或強推給兒童或難以關閉；13 歲以下只能透過家長控制工具使用，並須在上線前做風險測試、持續監測傷害。公眾可在 2026 年 11 月 26 日前提交意見，違規最高罰全球年營業額 6%。", "summary_en": "The European Commission published an FAQ on the proposed KIDS Act. For minors, AI companions and chatbots may not simulate human relationships in ways that create emotional dependency, automatically carry forward a child's previous conversations, or auto-launch, be pushed at children or be hard to disable; under-13s may use them only via parental controls, with pre-launch risk testing and ongoing harm monitoring. Public feedback is open until 26 November 2026, and fines can reach 6% of worldwide turnover.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["歐盟", "KIDS Act", "AI 陪伴", "兒少保護", "公眾諮詢", "兒童心理"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-10-02T00:00:00+00:00"}]}
+{
+  "title_zh": "佛州檢察總長聲請禁制令：要求禁止未成年人使用 ChatGPT、移除擬人特徵",
+  "title_en": "Florida seeks injunction against OpenAI over ChatGPT",
+  "summary_zh": "佛羅里達州檢察總長 James Uthmeier 在 2026 年 6 月對 OpenAI 與 Sam Altman 提告，案件一度被移往聯邦法院，本月發回 Highlands County 州法院；州政府現聲請臨時禁制令。請求包括禁止佛州未成年人使用 ChatGPT、未經家長同意不得收集 13 歲以下兒童資料、不得誇大安全性、移除第一人稱等擬人化對話特徵、停止刻意延長使用的設計，以及新模型須有獨立安全保障才能開發。OpenAI 發言人回應應由業界與各州共同制定規則。",
+  "summary_en": "Florida Attorney General James Uthmeier, who sued OpenAI and Sam Altman in June 2026, has moved for a temporary injunction in Highlands County circuit court. The state asks the court to bar Florida minors from ChatGPT, stop data collection from under-13s without parental consent, prohibit safety misrepresentations, remove human-like conversational features including first-person language, end engagement-prolonging practices and require independent safeguards before new model development. OpenAI said it favors industry-wide rules developed with states.",
+  "category": "倫理與風險",
+  "kind": "incident",
+  "evidence_level": 0,
+  "evidence_note": "新聞報導訴訟動作，內容為州政府指控與請求，尚未經法院裁定。",
+  "ethics_flags": [
+    {
+      "flag": "依賴與界線",
+      "note": "州政府把延長對話的設計與擬人化特徵列為要禁止的做法，涉及使用者依賴問題。",
+      "refs": [
+        "APA 3.05｜多重關係與界線"
+      ]
+    },
+    {
+      "flag": "保密與隱私",
+      "note": "指控未經家長同意收集 13 歲以下兒童資料。",
+      "refs": [
+        "APA 4.04｜將隱私侵入減到最少"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "ELIZA 效應",
+      "note": "要求移除第一人稱等擬人化特徵，反映監管者擔心使用者把聊天機器人當成有心智的對象。",
+      "ref": "概念｜ELIZA 效應"
+    }
+  ],
+  "caution": "這是州政府的指控與禁制令聲請，法院尚未裁定；訴訟主軸是消費者保護與資安事件，並非專門針對心理健康。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "佛州在 6 月的訴訟中，向州法院聲請臨時禁制令",
+    "要求禁止佛州未成年人使用 ChatGPT",
+    "要求移除第一人稱等擬人化特徵、停止延長使用設計",
+    "OpenAI：主張與各州共同制定業界規則"
+  ],
+  "brief_en": [
+    "Florida seeks a temporary injunction in its June lawsuit",
+    "Asks to bar Florida minors from ChatGPT",
+    "Targets human-like features and engagement-prolonging design",
+    "OpenAI calls for industry-wide rules with states"
+  ],
+  "model_names": [
+    "ChatGPT"
+  ],
+  "tags": [
+    "佛羅里達州",
+    "OpenAI",
+    "訴訟",
+    "禁制令",
+    "兒少保護",
+    "擬人化設計"
+  ],
+  "population": [
+    "兒童青少年",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "聊天機器人的「擬人化」與「延長對話」設計，可能怎樣影響情緒脆弱的青少年個案？",
+    "若家長問應否讓孩子用 ChatGPT，臨床人員可以根據哪些原則回應？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://thenextweb.com/news/florida-openai-temporary-injunction-model-development-uthmeier",
+      "author_handle": "",
+      "author_name": "The Next Web（Alina Maria Stan）",
+      "title": "“Stop calling it safe”: Florida seeks temporary injunction on OpenAI",
+      "content": "佛羅里達州檢察總長在對 OpenAI 與 Sam Altman 的訴訟中聲請臨時禁制令，要求禁止州內未成年人使用 ChatGPT、移除擬人化對話特徵、停止延長使用的設計，並在新模型開發前加入獨立安全保障；OpenAI 回應願與各州合作制定業界規則。",
+      "posted_at": "2026-09-28T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-05T03:24:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "florida-seeks-injunction-against-openai-over-chatgpt",
+  "featured_at": null,
+  "hot_score": 0.953,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "openai-faces-seven-lawsuits-over-chatgpt-mental-health-harms",
+      "title_zh": "OpenAI 遭七宗訴訟指控 ChatGPT 造成心理傷害",
+      "title_en": "OpenAI faces seven lawsuits over ChatGPT mental health harms",
+      "summary_zh": "2025 年 11 月，Social Media Victims Law Center 與 Tech Justice Law Project 在加州州法院對 OpenAI 提出七宗訴訟，涉及六名成人與一名 17 歲青少年，其中四人自殺身亡。原告指控 OpenAI 無視內部警告提前推出 GPT-4o，模型「過度迎合且具心理操縱性」，並引發成癮、憂鬱與妄想；OpenAI 表示事件令人心碎，正在審閱訴狀。",
+      "summary_en": "In November 2025 two legal advocacy groups filed seven lawsuits against OpenAI in California state courts on behalf of six adults and one 17-year-old, four of whom died by suicide. Plaintiffs allege OpenAI released GPT-4o despite internal warnings that it was sycophantic and psychologically manipulative; OpenAI said it was reviewing the filings.",
+      "category": "倫理與風險",
+      "kind": "incident",
+      "model_names": [
+        "ChatGPT",
+        "GPT-4o"
+      ],
+      "tags": [
+        "訴訟",
+        "OpenAI",
+        "自殺風險",
+        "妄想",
+        "迎合性"
+      ],
+      "first_seen_at": "2026-09-30T13:03:54+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.759,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2025-11-07T00:00:00+00:00"
+    },
+    {
+      "slug": "connecticut-ai-companion-rules-take-effect-october-1",
+      "title_zh": "康乃狄克州 AI 陪伴法 10 月 1 日生效：須有自殺自傷應對流程",
+      "title_en": "Connecticut AI companion rules take effect October 1",
+      "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。",
+      "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "康乃狄克州",
+        "AI 陪伴",
+        "美國州法",
+        "自殺防治",
+        "兒少保護",
+        "法規生效"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 1.43,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "slug": "eu-kids-act-faq-on-ai-companions-for-minors",
+      "title_zh": "歐盟 KIDS Act 官方問答：AI 陪伴不得對兒少製造情感依賴",
+      "title_en": "EU KIDS Act FAQ on AI companions for minors",
+      "summary_zh": "歐盟執委會發布 KIDS Act 問答說明。草案規定 AI 陪伴與聊天機器人面對未成年人時，不得以製造情感依賴的方式模擬人際關係、不得自動延續孩子先前的對話、不得自動啟動或強推給兒童或難以關閉；13 歲以下只能透過家長控制工具使用，並須在上線前做風險測試、持續監測傷害。公眾可在 2026 年 11 月 26 日前提交意見，違規最高罰全球年營業額 6%。",
+      "summary_en": "The European Commission published an FAQ on the proposed KIDS Act. For minors, AI companions and chatbots may not simulate human relationships in ways that create emotional dependency, automatically carry forward a child's previous conversations, or auto-launch, be pushed at children or be hard to disable; under-13s may use them only via parental controls, with pre-launch risk testing and ongoing harm monitoring. Public feedback is open until 26 November 2026, and fines can reach 6% of worldwide turnover.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "歐盟",
+        "KIDS Act",
+        "AI 陪伴",
+        "兒少保護",
+        "公眾諮詢",
+        "兒童心理"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-02T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-28T00:00:00+00:00"
+}

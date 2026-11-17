@@ -1,1 +1,169 @@
-{"title_zh": "澳門世界失智症月：衛生中心年做逾 3,000 宗認知評估", "title_en": "Macao dementia month and cognitive assessment figures", "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。", "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.", "category": "評估與篩檢", "kind": "practice", "evidence_level": 0, "evidence_note": "政府新聞稿與服務統計，非研究。", "ethics_flags": [{"flag": "知情同意", "note": "為疑似失智長者安排評估時，要顧及其理解與同意能力及家屬角色。", "refs": ["APA 3.10｜知情同意"]}], "psych_concepts": [], "caution": "數字為衛生局公布的服務量，未說明評估工具與診斷準確度。", "verify_needed": false, "verify_reason": "", "brief_zh": ["每年逾 3,000 宗認知評估", "約 650 宗新確診轉介記憶診所", "新症平均輪候約 4 星期", "209 個單位加入失智症友善聯盟、120 名友善大使"], "brief_en": ["3,000+ cognitive assessments yearly", "~650 new diagnoses referred", "~4-week wait for new cases", "209 dementia-friendly alliance members"], "model_names": [], "tags": ["澳門", "失智症", "認知評估", "長者", "衛生局"], "population": ["長者", "一般大眾"], "supervision_questions": ["社區篩檢發現疑似認知退化時，你如何向長者與家屬解釋結果並轉介？", "照顧者壓力在失智症評估流程中如何一併評估？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.gov.mo/zh-hant/news/1267463/", "author_handle": "", "author_name": "澳門特別行政區政府 衛生局", "title": "衛生局辦系列活動響應\"世界失智症月\" 提升居民認識\"早發現、早診斷、早治療\"", "content": "衛生局配合世界失智症月舉辦活動，並公布每年逾 3,000 宗認知評估、約 650 宗新確診轉介記憶診所、新症平均輪候 4 星期等數字，呼籲居民到衛生中心預約認知評估。", "posted_at": "2026-09-20T00:00:00+00:00"}], "first_seen_at": "2026-09-30T22:41:42+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "macao-dementia-month-and-cognitive-assessment-figures", "featured_at": null, "hot_score": 0.387, "tier": "live", "deadline_soon": false, "related": [{"slug": "macao-mobile-mental-health-support-van", "title_zh": "澳門衛生局與街總推出「心晴驛站」流動心理健康服務車", "title_en": "Macao mobile mental health support van", "summary_zh": "澳門衛生局與街坊會聯合總會推出「心晴驛站」流動服務車，自 2026 年 8 月 24 日起在不同社區定點提供心理健康資訊、即時支援與轉介，以及情緒管理小型講座與工作坊。新聞稿同時整理現有資源：九間衛生中心的心理服務、24 小時心晴熱線 2871 2356 與「心晴快測」自評工具。", "summary_en": "Macao's Health Bureau and the neighbourhood associations federation launched a mobile mental health van on 24 August 2026, offering outreach, on-the-spot support and referral, and small emotion-management workshops in community sites.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["澳門", "社區心理健康", "外展服務", "衛生局", "街總"], "first_seen_at": "2026-09-30T22:41:42+00:00", "evidence_level": 0, "population": ["成人", "長者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.774, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-27T00:00:00+00:00"}, {"slug": "fda-clears-neurora-ai-assisted-autism-assessment-tool-for-ch", "title_zh": "FDA 許可 Neurora：協助評估 18 個月至 12 歲兒童自閉症的 AI 工具", "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years", "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。", "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.", "category": "評估與篩檢", "kind": "product", "model_names": [], "tags": ["自閉症", "兒童心理", "評估", "FDA", "AI 工具"], "first_seen_at": "2026-10-13T02:38:45+00:00", "evidence_level": 2, "population": ["兒童青少年"], "hero_media": null, "verify_needed": false, "hot_score": 0.0, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-08T00:00:00+00:00"}, {"slug": "macao-csj-hospital-talk-on-psychiatric-medication-side-effec", "title_zh": "澳門仁伯爵醫院 10/14 精神科衛教講座：口服藥副作用與處理", "title_en": "Macao CSJ Hospital talk on psychiatric medication side effects", "summary_zh": "澳門衛生局公布仁伯爵綜合醫院 10 月份專科衛教講座，其中精神科講座「認識精神科口服藥常見的副作用及處理」於 10 月 14 日下午 2 時 30 分至 3 時 30 分，在門診大樓地下層精神科候診區舉行，由專科護士或資深護士主講，毋須預約。對心理治療師而言，可作為轉介或陪同服藥個案與家屬了解藥物副作用的社區資源。", "summary_en": "Macao's Health Bureau lists a free, walk-in talk at Conde S. Januário Hospital on 14 Oct 2026 (2:30–3:30 pm, psychiatry waiting area) on common side effects of oral psychiatric medication and how to manage them, given by specialist or senior nurses.", "category": "臨床與治療應用", "kind": "practice", "model_names": [], "tags": ["澳門", "精神科藥物", "服藥依從", "衛教講座", "免費講座"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.477, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-09-24T00:00:00+00:00"}]}
+{
+  "title_zh": "澳門世界失智症月：衛生中心年做逾 3,000 宗認知評估",
+  "title_en": "Macao dementia month and cognitive assessment figures",
+  "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。",
+  "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.",
+  "category": "評估與篩檢",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "政府新聞稿與服務統計，非研究。",
+  "ethics_flags": [
+    {
+      "flag": "知情同意",
+      "note": "為疑似失智長者安排評估時，要顧及其理解與同意能力及家屬角色。",
+      "refs": [
+        "APA 3.10｜知情同意"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "數字為衛生局公布的服務量，未說明評估工具與診斷準確度。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "每年逾 3,000 宗認知評估",
+    "約 650 宗新確診轉介記憶診所",
+    "新症平均輪候約 4 星期",
+    "209 個單位加入失智症友善聯盟、120 名友善大使"
+  ],
+  "brief_en": [
+    "3,000+ cognitive assessments yearly",
+    "~650 new diagnoses referred",
+    "~4-week wait for new cases",
+    "209 dementia-friendly alliance members"
+  ],
+  "model_names": [],
+  "tags": [
+    "澳門",
+    "失智症",
+    "認知評估",
+    "長者",
+    "衛生局"
+  ],
+  "population": [
+    "長者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "社區篩檢發現疑似認知退化時，你如何向長者與家屬解釋結果並轉介？",
+    "照顧者壓力在失智症評估流程中如何一併評估？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.gov.mo/zh-hant/news/1267463/",
+      "author_handle": "",
+      "author_name": "澳門特別行政區政府 衛生局",
+      "title": "衛生局辦系列活動響應\"世界失智症月\" 提升居民認識\"早發現、早診斷、早治療\"",
+      "content": "衛生局配合世界失智症月舉辦活動，並公布每年逾 3,000 宗認知評估、約 650 宗新確診轉介記憶診所、新症平均輪候 4 星期等數字，呼籲居民到衛生中心預約認知評估。",
+      "posted_at": "2026-09-20T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T22:41:42+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "macao-dementia-month-and-cognitive-assessment-figures",
+  "featured_at": null,
+  "hot_score": 0.387,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "macao-mobile-mental-health-support-van",
+      "title_zh": "澳門衛生局與街總推出「心晴驛站」流動心理健康服務車",
+      "title_en": "Macao mobile mental health support van",
+      "summary_zh": "澳門衛生局與街坊會聯合總會推出「心晴驛站」流動服務車，自 2026 年 8 月 24 日起在不同社區定點提供心理健康資訊、即時支援與轉介，以及情緒管理小型講座與工作坊。新聞稿同時整理現有資源：九間衛生中心的心理服務、24 小時心晴熱線 2871 2356 與「心晴快測」自評工具。",
+      "summary_en": "Macao's Health Bureau and the neighbourhood associations federation launched a mobile mental health van on 24 August 2026, offering outreach, on-the-spot support and referral, and small emotion-management workshops in community sites.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "社區心理健康",
+        "外展服務",
+        "衛生局",
+        "街總"
+      ],
+      "first_seen_at": "2026-09-30T22:41:42+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "長者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.774,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-27T00:00:00+00:00"
+    },
+    {
+      "slug": "fda-clears-neurora-ai-assisted-autism-assessment-tool-for-ch",
+      "title_zh": "FDA 許可 Neurora：協助評估 18 個月至 12 歲兒童自閉症的 AI 工具",
+      "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years",
+      "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。",
+      "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.",
+      "category": "評估與篩檢",
+      "kind": "product",
+      "model_names": [],
+      "tags": [
+        "自閉症",
+        "兒童心理",
+        "評估",
+        "FDA",
+        "AI 工具"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-08T00:00:00+00:00"
+    },
+    {
+      "slug": "macao-csj-hospital-talk-on-psychiatric-medication-side-effec",
+      "title_zh": "澳門仁伯爵醫院 10/14 精神科衛教講座：口服藥副作用與處理",
+      "title_en": "Macao CSJ Hospital talk on psychiatric medication side effects",
+      "summary_zh": "澳門衛生局公布仁伯爵綜合醫院 10 月份專科衛教講座，其中精神科講座「認識精神科口服藥常見的副作用及處理」於 10 月 14 日下午 2 時 30 分至 3 時 30 分，在門診大樓地下層精神科候診區舉行，由專科護士或資深護士主講，毋須預約。對心理治療師而言，可作為轉介或陪同服藥個案與家屬了解藥物副作用的社區資源。",
+      "summary_en": "Macao's Health Bureau lists a free, walk-in talk at Conde S. Januário Hospital on 14 Oct 2026 (2:30–3:30 pm, psychiatry waiting area) on common side effects of oral psychiatric medication and how to manage them, given by specialist or senior nurses.",
+      "category": "臨床與治療應用",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "澳門",
+        "精神科藥物",
+        "服藥依從",
+        "衛教講座",
+        "免費講座"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.477,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-09-24T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-20T00:00:00+00:00"
+}

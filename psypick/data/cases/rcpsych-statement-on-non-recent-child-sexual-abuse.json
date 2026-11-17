@@ -1,1 +1,180 @@
-{"title_zh": "英國皇家精神科醫學院立場聲明：童年性侵對成人心理健康的影響", "title_en": "RCPsych statement on non-recent child sexual abuse", "summary_zh": "英國皇家精神科醫學院發表立場聲明《Addressing the impact of non-recent child sexual abuse on the mental health of adults》（PS04/26），由 Dr Jo Stubley 與 Dr Maria Podlejska-Eyres 共同主持、倖存者、臨床人員與研究者共同制定。聲明指出專業人員處理揭露的訓練不足、缺乏創傷知情照護導致再創傷、過度依賴診斷，並在臨床、教育、委託服務、研究與政策提出建議。", "summary_en": "Tavistock highlights RCPsych position statement PS04/26 on the impact of non-recent child sexual abuse on adult mental health, co-chaired by Tavistock trauma lead Dr Jo Stubley, calling for disclosure-informed, trauma-sensitive care.", "category": "倫理與風險", "kind": "practice", "evidence_level": 0, "evidence_note": "專業組織立場聲明，屬共識性文件。", "ethics_flags": [{"flag": "能力範圍", "note": "聲明指出專業人員處理揭露的訓練不足。", "refs": ["APA 2.01｜能力範圍"]}], "psych_concepts": [{"name": "治療同盟", "note": "揭露時的回應方式影響信任與再創傷風險。", "ref": "概念｜治療同盟"}], "caution": "Tavistock 文章只是簡介；RCPsych 頁面未能讀到完整建議條文，引用前應讀原聲明。", "verify_needed": false, "verify_reason": "", "brief_zh": ["RCPsych 立場聲明 PS04/26", "由倖存者、臨床人員、研究者共同制定", "指出揭露處理訓練不足與再創傷問題", "建議涵蓋臨床、培訓、委託服務、研究、政策"], "brief_en": ["RCPsych position statement PS04/26", "Co-produced with survivors", "Training gaps in handling disclosures", "Recommendations across care, training and policy"], "model_names": [], "tags": ["兒童心理", "創傷", "童年性侵", "創傷知情照護", "指引", "Tavistock"], "population": ["成人", "臨床工作者"], "supervision_questions": ["個案首次揭露童年性侵時，你的第一個回應通常是甚麼？有沒有可能造成再創傷？", "過度依賴診斷標籤會怎樣影響你理解這類個案？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://tavistockandportman.ac.uk/articles/landmark-statement-on-non-recent-child-sexual-abuse/", "author_handle": "", "author_name": "Tavistock Education and Training（North London NHS Foundation Trust）", "title": "Landmark statement on non-recent child sexual abuse", "content": "Tavistock 介紹英國皇家精神科醫學院新發表的立場聲明 PS04/26，討論童年性侵對成人心理健康的影響，工作小組由 Tavistock 創傷服務負責人 Dr Jo Stubley 共同主持。", "posted_at": "2026-08-26T00:00:00+00:00"}], "first_seen_at": "2026-10-01T03:55:02+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "rcpsych-statement-on-non-recent-child-sexual-abuse", "featured_at": null, "hot_score": 0.783, "tier": "live", "deadline_soon": false, "related": [{"slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat", "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷", "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses", "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。", "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.", "category": "倫理與風險", "kind": "incident", "model_names": [], "tags": ["AI 聊天機器人", "指引", "兒童心理", "危機自殺", "韓國"], "first_seen_at": "2026-10-13T02:38:45+00:00", "evidence_level": 2, "population": ["兒童青少年", "成人", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.0, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-08T00:00:00+00:00"}, {"slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days", "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例", "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days", "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。", "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["兒童心理", "嬰幼兒心理健康", "親嬰關係", "政策", "英國", "Anna Freud"], "first_seen_at": "2026-10-01T03:55:02+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者", "一般大眾"], "hero_media": null, "verify_needed": false, "hot_score": 0.783, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-08-24T00:00:00+00:00"}, {"slug": "hong-kong-legco-reply-on-child-self-protection-education", "title_zh": "立法會質詢：香港學校如何教兒童自我保護與防性侵", "title_en": "Hong Kong LegCo reply on child self-protection education", "summary_zh": "教育局局長蔡若蓮回覆立法會議員林琳，說明小學人文科必修內容涵蓋身體私隱部位、提防性侵犯與欺凌應對，並將性教育列入 2026 年《價值觀教育課程架構》重點。2022/23 至 2024/25 學年舉辦超過 130 場培訓、約 17,500 名教師參加，另有約 67,000 名教育人員登記「保護兒童網上課程」。", "summary_en": "Replying to a LegCo question, Hong Kong's Secretary for Education outlined child self-protection content in primary curricula, over 130 teacher training sessions (about 17,500 teachers) in three school years, and some 67,000 educators registered for an online child protection course.", "category": "倫理與風險", "kind": "practice", "model_names": [], "tags": ["兒童心理", "香港", "兒童保護", "性侵預防", "學校", "立法會"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 0, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.391, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-06-03T00:00:00+00:00"}]}
+{
+  "title_zh": "英國皇家精神科醫學院立場聲明：童年性侵對成人心理健康的影響",
+  "title_en": "RCPsych statement on non-recent child sexual abuse",
+  "summary_zh": "英國皇家精神科醫學院發表立場聲明《Addressing the impact of non-recent child sexual abuse on the mental health of adults》（PS04/26），由 Dr Jo Stubley 與 Dr Maria Podlejska-Eyres 共同主持、倖存者、臨床人員與研究者共同制定。聲明指出專業人員處理揭露的訓練不足、缺乏創傷知情照護導致再創傷、過度依賴診斷，並在臨床、教育、委託服務、研究與政策提出建議。",
+  "summary_en": "Tavistock highlights RCPsych position statement PS04/26 on the impact of non-recent child sexual abuse on adult mental health, co-chaired by Tavistock trauma lead Dr Jo Stubley, calling for disclosure-informed, trauma-sensitive care.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "專業組織立場聲明，屬共識性文件。",
+  "ethics_flags": [
+    {
+      "flag": "能力範圍",
+      "note": "聲明指出專業人員處理揭露的訓練不足。",
+      "refs": [
+        "APA 2.01｜能力範圍"
+      ]
+    }
+  ],
+  "psych_concepts": [
+    {
+      "name": "治療同盟",
+      "note": "揭露時的回應方式影響信任與再創傷風險。",
+      "ref": "概念｜治療同盟"
+    }
+  ],
+  "caution": "Tavistock 文章只是簡介；RCPsych 頁面未能讀到完整建議條文，引用前應讀原聲明。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "RCPsych 立場聲明 PS04/26",
+    "由倖存者、臨床人員、研究者共同制定",
+    "指出揭露處理訓練不足與再創傷問題",
+    "建議涵蓋臨床、培訓、委託服務、研究、政策"
+  ],
+  "brief_en": [
+    "RCPsych position statement PS04/26",
+    "Co-produced with survivors",
+    "Training gaps in handling disclosures",
+    "Recommendations across care, training and policy"
+  ],
+  "model_names": [],
+  "tags": [
+    "兒童心理",
+    "創傷",
+    "童年性侵",
+    "創傷知情照護",
+    "指引",
+    "Tavistock"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "個案首次揭露童年性侵時，你的第一個回應通常是甚麼？有沒有可能造成再創傷？",
+    "過度依賴診斷標籤會怎樣影響你理解這類個案？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://tavistockandportman.ac.uk/articles/landmark-statement-on-non-recent-child-sexual-abuse/",
+      "author_handle": "",
+      "author_name": "Tavistock Education and Training（North London NHS Foundation Trust）",
+      "title": "Landmark statement on non-recent child sexual abuse",
+      "content": "Tavistock 介紹英國皇家精神科醫學院新發表的立場聲明 PS04/26，討論童年性侵對成人心理健康的影響，工作小組由 Tavistock 創傷服務負責人 Dr Jo Stubley 共同主持。",
+      "posted_at": "2026-08-26T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-01T03:55:02+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "rcpsych-statement-on-non-recent-child-sexual-abuse",
+  "featured_at": null,
+  "hot_score": 0.783,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "south-korea-issues-mental-health-ai-guidelines-do-not-treat",
+      "title_zh": "韓國發佈心理健康 AI 使用指引：勿把聊天機器人回應當醫療診斷",
+      "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
+      "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
+      "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
+      "category": "倫理與風險",
+      "kind": "incident",
+      "model_names": [],
+      "tags": [
+        "AI 聊天機器人",
+        "指引",
+        "兒童心理",
+        "危機自殺",
+        "韓國"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-08T00:00:00+00:00"
+    },
+    {
+      "slug": "anna-freud-backs-the-babies-bill-on-the-first-1-001-days",
+      "title_zh": "Anna Freud 支持英國「Babies Bill」：把首 1,001 天心理支援寫入法例",
+      "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
+      "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
+      "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "嬰幼兒心理健康",
+        "親嬰關係",
+        "政策",
+        "英國",
+        "Anna Freud"
+      ],
+      "first_seen_at": "2026-10-01T03:55:02+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.783,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-08-24T00:00:00+00:00"
+    },
+    {
+      "slug": "hong-kong-legco-reply-on-child-self-protection-education",
+      "title_zh": "立法會質詢：香港學校如何教兒童自我保護與防性侵",
+      "title_en": "Hong Kong LegCo reply on child self-protection education",
+      "summary_zh": "教育局局長蔡若蓮回覆立法會議員林琳，說明小學人文科必修內容涵蓋身體私隱部位、提防性侵犯與欺凌應對，並將性教育列入 2026 年《價值觀教育課程架構》重點。2022/23 至 2024/25 學年舉辦超過 130 場培訓、約 17,500 名教師參加，另有約 67,000 名教育人員登記「保護兒童網上課程」。",
+      "summary_en": "Replying to a LegCo question, Hong Kong's Secretary for Education outlined child self-protection content in primary curricula, over 130 teacher training sessions (about 17,500 teachers) in three school years, and some 67,000 educators registered for an online child protection course.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "香港",
+        "兒童保護",
+        "性侵預防",
+        "學校",
+        "立法會"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.391,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-06-03T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-08-26T00:00:00+00:00"
+}

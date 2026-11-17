@@ -1,104 +1,105 @@
 {
- "title_zh": "新竹免費線上課：孕產照護人員學正念自我疼惜（11 月 12 日）",
- "title_en": "Hsinchu free online MSC training perinatal care workers",
- "summary_zh": "新竹市衛生局與新竹市社區心理衛生中心主辦的免費線上培訓。2026 年 11 月 12 日（星期四）14:00-16:00 以 Microsoft Teams 線上授課，由鍾雅惠諮商心理師主講「孕產心理健康守門員——正念自我疼惜（MSC）於孕產期心理照護之理論與實務應用」，對象為新竹市孕產婦照護人員，限額 100 人，11 月 6 日截止報名。",
- "summary_en": "A free online training from the Hsinchu City Health Bureau and Hsinchu City Community Mental Health Center. On 12 November 2026 (Thursday) 14:00-16:00, via Microsoft Teams, Chung Ya-Hui, counseling psychologist, presents mindful self-compassion (MSC) in perinatal mental health care theory and practice, for perinatal care workers in Hsinchu City. Places are limited to 100; registration closes 6 November.",
- "category": "進修與培訓",
- "kind": "training",
- "evidence_level": 0,
- "evidence_note": "培訓課程（新竹市衛生局官方公告頁）",
- "ethics_flags": [],
- "psych_concepts": [],
- "caution": "對象限新竹市孕產婦照護人員；限額 100 人，11 月 6 日（星期五）截止，額滿提前截止；Teams 會議連結於 11 月 10 日前以 Email 寄出。",
- "verify_needed": false,
- "verify_reason": "",
- "brief_zh": [
-  "課程名稱：孕產心理健康守門員——正念自我疼惜（MSC）於孕產期心理照護之理論與實務應用",
-  "時間：2026 年 11 月 12 日（星期四）14:00-16:00；辦理方式：線上視訊授課（Microsoft Teams）",
-  "講師：鍾雅惠 諮商心理師；主辦：新竹市衛生局、新竹市社區心理衛生中心；承辦：社團法人新竹市生命線協會",
-  "對象：新竹市孕產婦照護人員；費用：免費",
-  "報名：線上報名表單，至 11 月 6 日（星期五）止，限額 100 人，額滿提前截止"
- ],
- "brief_en": [],
- "model_names": [],
- "tags": [
-  "正念自我疼惜",
-  "孕產期",
-  "心理健康守門員",
-  "免費線上課"
- ],
- "population": [
-  "臨床工作者"
- ],
- "supervision_questions": [
-  "孕產期來訪者自我批評強烈、難以接受支持時，你會如何用自我疼惜的語言介入，而不把照顧責任全推回她個人身上？"
- ],
- "original_prompt": "",
- "training": {
-  "provider": "新竹市衛生局、新竹市社區心理衛生中心",
-  "price": "FREE（免費）",
-  "price_tier": "免費",
-  "ce_credits": "原頁未載明",
-  "language": "中文",
-  "deadline": "2026-11-06",
-  "event_date": "2026-11-12",
-  "format": "線上直播",
-  "audience_level": "孕產婦照護人員",
-  "signup_url": "https://forms.gle/Z1nEyFh19WS1bssA6",
-  "topic": "正念自我疼惜於孕產期心理照護",
-  "format_note": "線上視訊（Microsoft Teams）"
- },
- "posts": [
-  {
-   "platform": "web",
-   "url": "https://dep.hcchb.gov.tw/ch/hotkey_print.jsp?mtitle=%E8%A1%9B%E7%94%9F%E5%B1%80%E5%85%AC%E5%91%8A%E8%B3%87%E8%A8%8A&contentlink=ap/announcement_view.jsp&dataserno=202610220001&mserno=201601300018&id=6&contentid=6&page=null",
-   "author_handle": "",
-   "author_name": "新竹市衛生局",
-   "title": "115年度孕產婦心理健康促進教育訓練",
-   "content": "新竹市衛生局公告：孕產心理健康守門員——正念自我疼惜（MSC）於孕產期心理照護之理論與實務應用，11 月 12 日線上授課，免費。",
-   "posted_at": "2026-10-31T00:00:00+00:00"
-  }
- ],
- "first_seen_at": "2026-10-31T13:35:00+00:00",
- "hero_media": null,
- "include": true,
- "reject_reason": "",
- "slug": "hsinchu-free-online-msc-training-perinatal-care-workers",
- "featured_at": null,
- "hot_score": 0.0,
- "tier": "archive",
- "deadline_soon": false,
- "related": [
-  {
-   "slug": "mmb-for-moms-rct-online-mindfulness-course-cuts-postpartum-d",
-   "title_zh": "RCT：線上正念認知課程 MMB for Moms 降低抑鬱復發風險（孕期至產後六個月）",
-   "title_en": "MMB for Moms RCT: online mindfulness course cuts postpartum depression relapse",
-   "summary_zh": "The Lancet Public Health 的隨機對照試驗招募 500 名有抑鬱病史、基線時非發作期的孕婦（全美 50 州）。參加八節自定進度線上正念認知課程 MMB for Moms 的一組，至產後六個月的抑鬱復發率為 33%（81/249），常規照顧組為 44%（111/251），風險比 HR 0.74（95% CI 0.56–0.99），相對風險低約 26%。",
-   "summary_en": "A randomised controlled trial in The Lancet Public Health enrolled 500 pregnant participants with a history of depression who were not in an episode at baseline, across all 50 US states. Those offered MMB for Moms, an eight-session self-paced digital mindfulness-based cognitive course, had a depression relapse rate of 33% (81/249) through six months postpartum versus 44% (111/251) with usual care (HR 0.74, 95% CI 0.56-0.99), about 26% lower relative risk.",
-   "category": "研究與證據",
-   "kind": "research",
-   "model_names": [],
-   "tags": [
-    "產後抑鬱",
-    "正念",
-    "MBCT",
-    "預防",
-    "RCT"
-   ],
-   "first_seen_at": "2026-10-28T08:40:00+00:00",
-   "evidence_level": 3,
-   "population": [
-    "成人",
+  "title_zh": "新竹免費線上課：孕產照護人員學正念自我疼惜（11 月 12 日）",
+  "title_en": "Hsinchu free online MSC training perinatal care workers",
+  "summary_zh": "新竹市衛生局與新竹市社區心理衛生中心主辦的免費線上培訓。2026 年 11 月 12 日（星期四）14:00-16:00 以 Microsoft Teams 線上授課，由鍾雅惠諮商心理師主講「孕產心理健康守門員——正念自我疼惜（MSC）於孕產期心理照護之理論與實務應用」，對象為新竹市孕產婦照護人員，限額 100 人，11 月 6 日截止報名。",
+  "summary_en": "A free online training from the Hsinchu City Health Bureau and Hsinchu City Community Mental Health Center. On 12 November 2026 (Thursday) 14:00-16:00, via Microsoft Teams, Chung Ya-Hui, counseling psychologist, presents mindful self-compassion (MSC) in perinatal mental health care theory and practice, for perinatal care workers in Hsinchu City. Places are limited to 100; registration closes 6 November.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程（新竹市衛生局官方公告頁）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "對象限新竹市孕產婦照護人員；限額 100 人，11 月 6 日（星期五）截止，額滿提前截止；Teams 會議連結於 11 月 10 日前以 Email 寄出。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "課程名稱：孕產心理健康守門員——正念自我疼惜（MSC）於孕產期心理照護之理論與實務應用",
+    "時間：2026 年 11 月 12 日（星期四）14:00-16:00；辦理方式：線上視訊授課（Microsoft Teams）",
+    "講師：鍾雅惠 諮商心理師；主辦：新竹市衛生局、新竹市社區心理衛生中心；承辦：社團法人新竹市生命線協會",
+    "對象：新竹市孕產婦照護人員；費用：免費",
+    "報名：線上報名表單，至 11 月 6 日（星期五）止，限額 100 人，額滿提前截止"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "正念自我疼惜",
+    "孕產期",
+    "心理健康守門員",
+    "免費線上課"
+  ],
+  "population": [
     "臨床工作者"
-   ],
-   "hero_media": null,
-   "verify_needed": false,
-   "hot_score": 0.0,
-   "mention_count": 1,
-   "featured_at": null,
-   "tier": "live",
-   "has_ethics_flags": false,
-   "date": "2026-10-20T00:00:00+00:00"
-  }
- ]
+  ],
+  "supervision_questions": [
+    "孕產期來訪者自我批評強烈、難以接受支持時，你會如何用自我疼惜的語言介入，而不把照顧責任全推回她個人身上？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "新竹市衛生局、新竹市社區心理衛生中心",
+    "price": "FREE（免費）",
+    "price_tier": "免費",
+    "ce_credits": "原頁未載明",
+    "language": "中文",
+    "deadline": "2026-11-06",
+    "event_date": "2026-11-12",
+    "format": "線上直播",
+    "audience_level": "孕產婦照護人員",
+    "signup_url": "https://forms.gle/Z1nEyFh19WS1bssA6",
+    "topic": "正念自我疼惜於孕產期心理照護",
+    "format_note": "線上視訊（Microsoft Teams）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://dep.hcchb.gov.tw/ch/hotkey_print.jsp?mtitle=%E8%A1%9B%E7%94%9F%E5%B1%80%E5%85%AC%E5%91%8A%E8%B3%87%E8%A8%8A&contentlink=ap/announcement_view.jsp&dataserno=202610220001&mserno=201601300018&id=6&contentid=6&page=null",
+      "author_handle": "",
+      "author_name": "新竹市衛生局",
+      "title": "115年度孕產婦心理健康促進教育訓練",
+      "content": "新竹市衛生局公告：孕產心理健康守門員——正念自我疼惜（MSC）於孕產期心理照護之理論與實務應用，11 月 12 日線上授課，免費。",
+      "posted_at": "2026-10-31T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-31T13:35:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "hsinchu-free-online-msc-training-perinatal-care-workers",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "archive",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "mmb-for-moms-rct-online-mindfulness-course-cuts-postpartum-d",
+      "title_zh": "RCT：線上正念認知課程 MMB for Moms 降低抑鬱復發風險（孕期至產後六個月）",
+      "title_en": "MMB for Moms RCT: online mindfulness course cuts postpartum depression relapse",
+      "summary_zh": "The Lancet Public Health 的隨機對照試驗招募 500 名有抑鬱病史、基線時非發作期的孕婦（全美 50 州）。參加八節自定進度線上正念認知課程 MMB for Moms 的一組，至產後六個月的抑鬱復發率為 33%（81/249），常規照顧組為 44%（111/251），風險比 HR 0.74（95% CI 0.56–0.99），相對風險低約 26%。",
+      "summary_en": "A randomised controlled trial in The Lancet Public Health enrolled 500 pregnant participants with a history of depression who were not in an episode at baseline, across all 50 US states. Those offered MMB for Moms, an eight-session self-paced digital mindfulness-based cognitive course, had a depression relapse rate of 33% (81/249) through six months postpartum versus 44% (111/251) with usual care (HR 0.74, 95% CI 0.56-0.99), about 26% lower relative risk.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "產後抑鬱",
+        "正念",
+        "MBCT",
+        "預防",
+        "RCT"
+      ],
+      "first_seen_at": "2026-10-28T08:40:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-20T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-10-31T00:00:00+00:00"
 }

@@ -1,1 +1,173 @@
-{"title_zh": "青少年自殺意念：日常生活事件的「累積」也要評估", "title_en": "Adolescent life event trajectories and suicidal ideation", "summary_zh": "Mental Elf 評析 Chen 等人 2026 年刊於 Lancet Psychiatry 的前瞻性世代研究，以 IMAGEN 資料追蹤德、法、愛爾蘭、英國 2,161 名青少年（14、16、19、23 歲）。生活事件累積高的軌跡組，14 歲時自殺意念比例為 11.3%，其他組為 4.1%–7.8%，調整後約高 6 個百分點，家庭相關事件尤其重要。評論者建議評估青少年風險時，除重大創傷也要看日常壓力的累積。", "summary_en": "The Mental Elf reviews Chen et al.'s 2026 Lancet Psychiatry prospective cohort using IMAGEN data on 2,161 adolescents in Germany, France, Ireland and the UK (ages 14–23). The high cumulative life-event trajectory group had 11.3% suicidal ideation at 14 versus 4.1–7.8% in other groups, roughly 6 percentage points higher after adjustment, with family events especially influential.", "category": "評估與篩檢", "kind": "research", "evidence_level": 2, "evidence_note": "前瞻性觀察世代研究，非對照試驗；自殺意念以單題測量。", "ethics_flags": [{"flag": "危機處理", "note": "提醒評估青少年自殺風險時納入日常壓力累積，但不能取代完整風險評估。", "refs": ["危機處理｜自殺與自傷風險"]}], "psych_concepts": [], "caution": "研究排除嚴重精神疾病者且只用單題測量，不宜作為風險判斷的唯一依據。", "verify_needed": false, "verify_reason": "", "brief_zh": ["IMAGEN 世代，2,161 人追蹤至 23 歲", "高事件軌跡組自殺意念約 11–13%", "調整後約高 6 個百分點，家庭事件影響大", "單題測量、量表較舊（未涵蓋網路霸凌）"], "brief_en": ["IMAGEN cohort, 2,161 followed to age 23", "High-event group ~11–13% suicidal ideation", "~6 points higher after adjustment; family events key", "Single-item measure; dated life-events scale"], "model_names": [], "tags": ["自殺意念", "青少年", "生活事件", "風險評估", "世代研究"], "population": ["兒童青少年"], "supervision_questions": ["你的青少年初談流程是否有系統地詢問近期的日常生活事件與家庭變動？", "當個案沒有重大創傷但日常壓力累積時，你如何評估自殺風險？", "這份研究的測量限制（單題、舊量表）如何影響我們的解讀？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.nationalelfservice.net/mental-health/suicide/suicidal-ideation-in-adolescence-can-ordinary-life-events-be-linked-to-stormy-weather/", "author_handle": "", "author_name": "Charlotte Williamson（The Mental Elf／National Elf Service）", "title": "Suicidal ideation in adolescence: can ordinary life events be linked to stormy weather?", "content": "Mental Elf 評析 Lancet Psychiatry 的 IMAGEN 前瞻性世代研究：追蹤歐洲 2,161 名青少年到 23 歲，日常生活事件累積較多的軌跡組，自殺意念比例較高，家庭領域事件影響特別明顯。", "posted_at": "2026-09-18T00:00:00+00:00"}], "first_seen_at": "2026-09-30T18:00:52+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "adolescent-life-event-trajectories-and-suicidal-ideation", "featured_at": null, "hot_score": 0.767, "tier": "live", "deadline_soon": false, "related": [{"slug": "fda-clears-neurora-ai-assisted-autism-assessment-tool-for-ch", "title_zh": "FDA 許可 Neurora：協助評估 18 個月至 12 歲兒童自閉症的 AI 工具", "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years", "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。", "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.", "category": "評估與篩檢", "kind": "product", "model_names": [], "tags": ["自閉症", "兒童心理", "評估", "FDA", "AI 工具"], "first_seen_at": "2026-10-13T02:38:45+00:00", "evidence_level": 2, "population": ["兒童青少年"], "hero_media": null, "verify_needed": false, "hot_score": 0.0, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-08T00:00:00+00:00"}, {"slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions", "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對", "title_en": "NAS opposes NHS autism and ADHD assessment restrictions", "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。", "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.", "category": "評估與篩檢", "kind": "incident", "model_names": [], "tags": ["特殊教育需要", "兒童心理", "自閉症", "ADHD", "評估輪候", "英國", "NHS"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 0, "population": ["兒童青少年", "成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-09-25T00:00:00+00:00"}, {"slug": "nas-responds-to-uta-frith-on-autism-diagnosis", "title_zh": "自閉症診斷是否過度擴張？英國自閉症協會回應 Uta Frith 新論文", "title_en": "NAS responds to Uta Frith on autism diagnosis", "summary_zh": "認知心理學家 Uta Frith 在《Psychological Medicine》發表〈自閉症譜系障礙：是否已失去意義並導致誤診？〉，質疑現行診斷範圍過寬。英國自閉症協會回應，診斷增加反映社會認識提升，所提亞型仍屬理論、缺乏臨床應用價值，並提醒不要讓自閉症人士互相對立。", "summary_en": "Uta Frith's paper in Psychological Medicine questions whether the autism spectrum diagnosis has lost meaning and drives misdiagnosis. The NAS responds that rising diagnoses reflect awareness, that proposed subtypes remain theoretical, and warns against pitting autistic people against each other.", "category": "評估與篩檢", "kind": "practice", "model_names": [], "tags": ["特殊教育需要", "兒童心理", "自閉症", "診斷爭議", "Uta Frith", "英國"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 0, "population": ["兒童青少年", "成人", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-04T00:00:00+00:00"}]}
+{
+  "title_zh": "青少年自殺意念：日常生活事件的「累積」也要評估",
+  "title_en": "Adolescent life event trajectories and suicidal ideation",
+  "summary_zh": "Mental Elf 評析 Chen 等人 2026 年刊於 Lancet Psychiatry 的前瞻性世代研究，以 IMAGEN 資料追蹤德、法、愛爾蘭、英國 2,161 名青少年（14、16、19、23 歲）。生活事件累積高的軌跡組，14 歲時自殺意念比例為 11.3%，其他組為 4.1%–7.8%，調整後約高 6 個百分點，家庭相關事件尤其重要。評論者建議評估青少年風險時，除重大創傷也要看日常壓力的累積。",
+  "summary_en": "The Mental Elf reviews Chen et al.'s 2026 Lancet Psychiatry prospective cohort using IMAGEN data on 2,161 adolescents in Germany, France, Ireland and the UK (ages 14–23). The high cumulative life-event trajectory group had 11.3% suicidal ideation at 14 versus 4.1–7.8% in other groups, roughly 6 percentage points higher after adjustment, with family events especially influential.",
+  "category": "評估與篩檢",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "前瞻性觀察世代研究，非對照試驗；自殺意念以單題測量。",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "提醒評估青少年自殺風險時納入日常壓力累積，但不能取代完整風險評估。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "研究排除嚴重精神疾病者且只用單題測量，不宜作為風險判斷的唯一依據。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "IMAGEN 世代，2,161 人追蹤至 23 歲",
+    "高事件軌跡組自殺意念約 11–13%",
+    "調整後約高 6 個百分點，家庭事件影響大",
+    "單題測量、量表較舊（未涵蓋網路霸凌）"
+  ],
+  "brief_en": [
+    "IMAGEN cohort, 2,161 followed to age 23",
+    "High-event group ~11–13% suicidal ideation",
+    "~6 points higher after adjustment; family events key",
+    "Single-item measure; dated life-events scale"
+  ],
+  "model_names": [],
+  "tags": [
+    "自殺意念",
+    "青少年",
+    "生活事件",
+    "風險評估",
+    "世代研究"
+  ],
+  "population": [
+    "兒童青少年"
+  ],
+  "supervision_questions": [
+    "你的青少年初談流程是否有系統地詢問近期的日常生活事件與家庭變動？",
+    "當個案沒有重大創傷但日常壓力累積時，你如何評估自殺風險？",
+    "這份研究的測量限制（單題、舊量表）如何影響我們的解讀？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.nationalelfservice.net/mental-health/suicide/suicidal-ideation-in-adolescence-can-ordinary-life-events-be-linked-to-stormy-weather/",
+      "author_handle": "",
+      "author_name": "Charlotte Williamson（The Mental Elf／National Elf Service）",
+      "title": "Suicidal ideation in adolescence: can ordinary life events be linked to stormy weather?",
+      "content": "Mental Elf 評析 Lancet Psychiatry 的 IMAGEN 前瞻性世代研究：追蹤歐洲 2,161 名青少年到 23 歲，日常生活事件累積較多的軌跡組，自殺意念比例較高，家庭領域事件影響特別明顯。",
+      "posted_at": "2026-09-18T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-09-30T18:00:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "adolescent-life-event-trajectories-and-suicidal-ideation",
+  "featured_at": null,
+  "hot_score": 0.767,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "fda-clears-neurora-ai-assisted-autism-assessment-tool-for-ch",
+      "title_zh": "FDA 許可 Neurora：協助評估 18 個月至 12 歲兒童自閉症的 AI 工具",
+      "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years",
+      "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。",
+      "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.",
+      "category": "評估與篩檢",
+      "kind": "product",
+      "model_names": [],
+      "tags": [
+        "自閉症",
+        "兒童心理",
+        "評估",
+        "FDA",
+        "AI 工具"
+      ],
+      "first_seen_at": "2026-10-13T02:38:45+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-08T00:00:00+00:00"
+    },
+    {
+      "slug": "nas-opposes-nhs-autism-and-adhd-assessment-restrictions",
+      "title_zh": "英格蘭 15 個 NHS 地區限縮自閉症／ADHD 評估：英國自閉症協會強烈反對",
+      "title_en": "NAS opposes NHS autism and ADHD assessment restrictions",
+      "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。",
+      "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.",
+      "category": "評估與篩檢",
+      "kind": "incident",
+      "model_names": [],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "ADHD",
+        "評估輪候",
+        "英國",
+        "NHS"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "slug": "nas-responds-to-uta-frith-on-autism-diagnosis",
+      "title_zh": "自閉症診斷是否過度擴張？英國自閉症協會回應 Uta Frith 新論文",
+      "title_en": "NAS responds to Uta Frith on autism diagnosis",
+      "summary_zh": "認知心理學家 Uta Frith 在《Psychological Medicine》發表〈自閉症譜系障礙：是否已失去意義並導致誤診？〉，質疑現行診斷範圍過寬。英國自閉症協會回應，診斷增加反映社會認識提升，所提亞型仍屬理論、缺乏臨床應用價值，並提醒不要讓自閉症人士互相對立。",
+      "summary_en": "Uta Frith's paper in Psychological Medicine questions whether the autism spectrum diagnosis has lost meaning and drives misdiagnosis. The NAS responds that rising diagnoses reflect awareness, that proposed subtypes remain theoretical, and warns against pitting autistic people against each other.",
+      "category": "評估與篩檢",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "特殊教育需要",
+        "兒童心理",
+        "自閉症",
+        "診斷爭議",
+        "Uta Frith",
+        "英國"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-04T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-18T00:00:00+00:00"
+}

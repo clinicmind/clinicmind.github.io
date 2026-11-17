@@ -1,1 +1,171 @@
-{"title_zh": "青少年心理健康的 AI 數位介入（2020–2025）：早期偵測、人機協作與倫理治理的範圍回顧", "title_en": "AI-enabled and comparator digital interventions for adolescent mental health (2020–2025): a PRISMA-ScR scoping review", "summary_zh": "以 PRISMA-ScR 方法回顧 2020–2025 年 10–24 歲族群的 AI 數位心理健康介入，共納入 19 項研究。治療師引導的網路 CBT 證據最紮實；AI 聊天機器人與 LLM 系統多停留在可行性階段，18 歲以下尚無隨機診斷性聊天機器人試驗。未成年人保護流程不一致、演算法偏誤與資料隱私是主要挑戰。", "summary_en": "PRISMA-ScR scoping review of 19 studies (2020–2025) on AI-enabled and comparator digital mental-health interventions for ages 10–24: therapist-guided CBT has the strongest design evidence; chatbots are mostly at feasibility stage; evidence is preliminary and concentrated in high-income countries.", "category": "研究與證據", "kind": "research", "evidence_level": 3, "evidence_note": "範圍回顧（19 項研究），自述證據仍屬初步", "ethics_flags": [{"flag": "偏誤與公平", "note": "回顧指出文化適配與社經資料報告不足、演算法偏誤。", "refs": ["偏誤與公平｜演算法偏誤"]}, {"flag": "知情同意", "note": "未成年人保護與同意流程在各研究中不一致。", "refs": ["APA 3.10｜知情同意"]}], "psych_concepts": [], "caution": "範圍回顧只描繪證據版圖，不能推論療效；作者自己也說證據不足以支持臨床效果結論。", "verify_needed": false, "verify_reason": "", "brief_zh": ["納入 19 項研究，多聚焦中晚期青少年的憂鬱與焦慮", "治療師引導的網路 CBT 證據最嚴謹", "18 歲以下尚無隨機診斷性聊天機器人試驗", "挑戰：未成年人保護流程不一、演算法偏誤、資料隱私", "研究集中在高收入國家（68.4%），文化適配僅 42.1% 的研究提及；創傷與進食障礙完全缺席"], "brief_en": [], "model_names": [], "tags": ["兒童心理", "青少年", "AI 聊天機器人", "倫理治理", "早期偵測"], "population": ["兒童青少年"], "supervision_questions": ["向家長與青少年介紹 AI 輔助工具時，如何說明證據仍屬初步？", "目前證據集中在憂鬱與焦慮，遇到創傷或進食障礙個案時，督導如何看待這類工具的適用邊界？"], "original_prompt": "", "training": null, "posts": [{"platform": "web", "url": "https://www.frontiersin.org/journals/child-and-adolescent-psychiatry/articles/10.3389/frcha.2026.1905782/full", "author_handle": "", "author_name": "", "title": "AI-enabled and comparator digital interventions for adolescent mental health (2020–2025): early detection, human–AI collaboration, and ethical governance—a PRISMA-ScR scoping review", "content": "Frontiers in Child and Adolescent Psychiatry 的範圍回顧，以 PRISMA-ScR 方法描繪 2020–2025 年青少年數位心理健康介入的證據版圖，特別關注 AI 聊天機器人與人機協作角色。", "posted_at": "2026-09-30T00:00:00+00:00"}], "first_seen_at": "2026-10-05T03:01:53+00:00", "hero_media": null, "include": true, "reject_reason": "", "slug": "ai-enabled-and-comparator-digital-interventions-for-adolesce", "featured_at": null, "hot_score": 1.905, "tier": "live", "deadline_soon": false, "related": [{"slug": "childhood-loneliness-and-isolation-into-adulthood", "title_zh": "12 歲孤單、18 歲孤立：2,232 名雙胞胎追蹤顯示兒童期孤單與孤立的長期代價", "title_en": "Childhood loneliness and isolation into adulthood", "summary_zh": "PsyPost 報導一項刊於 Development and Psychopathology 的縱貫研究，追蹤 2,232 名英格蘭與威爾斯雙胞胎從 12 歲到 18 歲。12 歲感到孤單的兒童，到 18 歲成為社交孤立者的機率約為兩倍；兒童期社交孤立與 18 歲時未就學未就業（NEET）勝算 2.4 倍相關。孤單與孤立各自獨立預測較差的心理健康、幸福感與社經結果。", "summary_en": "PsyPost reports a Development and Psychopathology study following 2,232 twins in England and Wales from age 12 to 18. Children who felt lonely at 12 were about twice as likely to be socially isolated at 18, and childhood isolation was linked to 2.4 times higher odds of being NEET. Loneliness and isolation independently predicted poorer mental health, wellbeing and socioeconomic outcomes.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["兒童心理", "孤單", "社交孤立", "青少年", "縱貫研究"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 2, "population": ["兒童青少年"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": false, "date": "2026-10-02T00:00:00+00:00"}, {"slug": "taiwan-survey-35-of-teens-report-appearance-anxiety", "title_zh": "兒福聯盟調查：三成五國高中生有容貌焦慮，口罩成「第二張臉」", "title_en": "Taiwan survey: 35% of teens report appearance anxiety", "summary_zh": "兒福聯盟問卷調查全臺一萬多名國高中生，35.4% 自陳有容貌焦慮，少女 48.7%、少男 20.6%；23.5% 每天超過一半時間戴口罩，37.2% 看到他人網路照片後曾覺得自己很醜，47.8% 曾被平台主動推播相關內容。高容貌焦慮組有 25.1% 嚴重情緒困擾、29.6% 有自殺意念；兒盟建議理解口罩背後的心理防衛、避免強摘口罩或批評外貌，並以「鏡子練習」建立自我接納。", "summary_en": "A Children's Welfare League survey of over 10,000 Taiwanese secondary students found 35.4% report appearance anxiety (girls 48.7%, boys 20.6%). Among high-anxiety students, 29.6% reported suicidal ideation; 47.8% said platforms pushed appearance-related content to them.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["台灣", "兒童心理", "容貌焦慮", "社群媒體", "演算法推播", "青少年"], "first_seen_at": "2026-10-05T03:24:52+00:00", "evidence_level": 0, "population": ["兒童青少年"], "hero_media": null, "verify_needed": false, "hot_score": 0.953, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-10-01T00:00:00+00:00"}, {"slug": "cdc-yrbs-2025-youth-mental-health-findings", "title_zh": "CDC 2025 青少年風險行為調查：精神健康指標兩年改善，十年趨勢仍差", "title_en": "CDC YRBS 2025 youth mental health findings", "summary_zh": "CDC 發布 2015–2025 年全國青少年風險行為調查（YRBS）報告，2025 年約每 3 名高中生就有 1 人有持續的悲傷或絕望感，女生在多項精神健康指標上高於男生。2023 至 2025 年間，持續悲傷、精神健康欠佳、認真考慮自殺、制定自殺計劃與自殺企圖五項指標均有改善，但與 2015 年相比，持續悲傷的比例仍較高。", "summary_en": "CDC's Youth Health in Focus report on the 2015–2025 YRBS finds about 1 in 3 US high school students reported persistent sadness or hopelessness in 2025. Five mental health indicators improved from 2023 to 2025, though the 10-year trend remains concerning.", "category": "研究與證據", "kind": "research", "model_names": [], "tags": ["兒童心理", "青少年", "YRBS", "自殺風險", "流行病學", "美國"], "first_seen_at": "2026-10-01T03:34:06+00:00", "evidence_level": 2, "population": ["兒童青少年", "臨床工作者"], "hero_media": null, "verify_needed": false, "hot_score": 0.782, "mention_count": 1, "featured_at": null, "tier": "live", "has_ethics_flags": true, "date": "2026-08-14T00:00:00+00:00"}]}
+{
+  "title_zh": "青少年心理健康的 AI 數位介入（2020–2025）：早期偵測、人機協作與倫理治理的範圍回顧",
+  "title_en": "AI-enabled and comparator digital interventions for adolescent mental health (2020–2025): a PRISMA-ScR scoping review",
+  "summary_zh": "以 PRISMA-ScR 方法回顧 2020–2025 年 10–24 歲族群的 AI 數位心理健康介入，共納入 19 項研究。治療師引導的網路 CBT 證據最紮實；AI 聊天機器人與 LLM 系統多停留在可行性階段，18 歲以下尚無隨機診斷性聊天機器人試驗。未成年人保護流程不一致、演算法偏誤與資料隱私是主要挑戰。",
+  "summary_en": "PRISMA-ScR scoping review of 19 studies (2020–2025) on AI-enabled and comparator digital mental-health interventions for ages 10–24: therapist-guided CBT has the strongest design evidence; chatbots are mostly at feasibility stage; evidence is preliminary and concentrated in high-income countries.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "範圍回顧（19 項研究），自述證據仍屬初步",
+  "ethics_flags": [
+    {
+      "flag": "偏誤與公平",
+      "note": "回顧指出文化適配與社經資料報告不足、演算法偏誤。",
+      "refs": [
+        "偏誤與公平｜演算法偏誤"
+      ]
+    },
+    {
+      "flag": "知情同意",
+      "note": "未成年人保護與同意流程在各研究中不一致。",
+      "refs": [
+        "APA 3.10｜知情同意"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "範圍回顧只描繪證據版圖，不能推論療效；作者自己也說證據不足以支持臨床效果結論。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "納入 19 項研究，多聚焦中晚期青少年的憂鬱與焦慮",
+    "治療師引導的網路 CBT 證據最嚴謹",
+    "18 歲以下尚無隨機診斷性聊天機器人試驗",
+    "挑戰：未成年人保護流程不一、演算法偏誤、資料隱私",
+    "研究集中在高收入國家（68.4%），文化適配僅 42.1% 的研究提及；創傷與進食障礙完全缺席"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "兒童心理",
+    "青少年",
+    "AI 聊天機器人",
+    "倫理治理",
+    "早期偵測"
+  ],
+  "population": [
+    "兒童青少年"
+  ],
+  "supervision_questions": [
+    "向家長與青少年介紹 AI 輔助工具時，如何說明證據仍屬初步？",
+    "目前證據集中在憂鬱與焦慮，遇到創傷或進食障礙個案時，督導如何看待這類工具的適用邊界？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.frontiersin.org/journals/child-and-adolescent-psychiatry/articles/10.3389/frcha.2026.1905782/full",
+      "author_handle": "",
+      "author_name": "",
+      "title": "AI-enabled and comparator digital interventions for adolescent mental health (2020–2025): early detection, human–AI collaboration, and ethical governance—a PRISMA-ScR scoping review",
+      "content": "Frontiers in Child and Adolescent Psychiatry 的範圍回顧，以 PRISMA-ScR 方法描繪 2020–2025 年青少年數位心理健康介入的證據版圖，特別關注 AI 聊天機器人與人機協作角色。",
+      "posted_at": "2026-09-30T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-10-05T03:01:53+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ai-enabled-and-comparator-digital-interventions-for-adolesce",
+  "featured_at": null,
+  "hot_score": 1.905,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [
+    {
+      "slug": "childhood-loneliness-and-isolation-into-adulthood",
+      "title_zh": "12 歲孤單、18 歲孤立：2,232 名雙胞胎追蹤顯示兒童期孤單與孤立的長期代價",
+      "title_en": "Childhood loneliness and isolation into adulthood",
+      "summary_zh": "PsyPost 報導一項刊於 Development and Psychopathology 的縱貫研究，追蹤 2,232 名英格蘭與威爾斯雙胞胎從 12 歲到 18 歲。12 歲感到孤單的兒童，到 18 歲成為社交孤立者的機率約為兩倍；兒童期社交孤立與 18 歲時未就學未就業（NEET）勝算 2.4 倍相關。孤單與孤立各自獨立預測較差的心理健康、幸福感與社經結果。",
+      "summary_en": "PsyPost reports a Development and Psychopathology study following 2,232 twins in England and Wales from age 12 to 18. Children who felt lonely at 12 were about twice as likely to be socially isolated at 18, and childhood isolation was linked to 2.4 times higher odds of being NEET. Loneliness and isolation independently predicted poorer mental health, wellbeing and socioeconomic outcomes.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "孤單",
+        "社交孤立",
+        "青少年",
+        "縱貫研究"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "slug": "taiwan-survey-35-of-teens-report-appearance-anxiety",
+      "title_zh": "兒福聯盟調查：三成五國高中生有容貌焦慮，口罩成「第二張臉」",
+      "title_en": "Taiwan survey: 35% of teens report appearance anxiety",
+      "summary_zh": "兒福聯盟問卷調查全臺一萬多名國高中生，35.4% 自陳有容貌焦慮，少女 48.7%、少男 20.6%；23.5% 每天超過一半時間戴口罩，37.2% 看到他人網路照片後曾覺得自己很醜，47.8% 曾被平台主動推播相關內容。高容貌焦慮組有 25.1% 嚴重情緒困擾、29.6% 有自殺意念；兒盟建議理解口罩背後的心理防衛、避免強摘口罩或批評外貌，並以「鏡子練習」建立自我接納。",
+      "summary_en": "A Children's Welfare League survey of over 10,000 Taiwanese secondary students found 35.4% report appearance anxiety (girls 48.7%, boys 20.6%). Among high-anxiety students, 29.6% reported suicidal ideation; 47.8% said platforms pushed appearance-related content to them.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "台灣",
+        "兒童心理",
+        "容貌焦慮",
+        "社群媒體",
+        "演算法推播",
+        "青少年"
+      ],
+      "first_seen_at": "2026-10-05T03:24:52+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.953,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "slug": "cdc-yrbs-2025-youth-mental-health-findings",
+      "title_zh": "CDC 2025 青少年風險行為調查：精神健康指標兩年改善，十年趨勢仍差",
+      "title_en": "CDC YRBS 2025 youth mental health findings",
+      "summary_zh": "CDC 發布 2015–2025 年全國青少年風險行為調查（YRBS）報告，2025 年約每 3 名高中生就有 1 人有持續的悲傷或絕望感，女生在多項精神健康指標上高於男生。2023 至 2025 年間，持續悲傷、精神健康欠佳、認真考慮自殺、制定自殺計劃與自殺企圖五項指標均有改善，但與 2015 年相比，持續悲傷的比例仍較高。",
+      "summary_en": "CDC's Youth Health in Focus report on the 2015–2025 YRBS finds about 1 in 3 US high school students reported persistent sadness or hopelessness in 2025. Five mental health indicators improved from 2023 to 2025, though the 10-year trend remains concerning.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童心理",
+        "青少年",
+        "YRBS",
+        "自殺風險",
+        "流行病學",
+        "美國"
+      ],
+      "first_seen_at": "2026-10-01T03:34:06+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.782,
+      "mention_count": 1,
+      "featured_at": null,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-08-14T00:00:00+00:00"
+    }
+  ],
+  "date": "2026-09-30T00:00:00+00:00"
+}
