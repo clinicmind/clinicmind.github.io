@@ -1,3 +1,4 @@
+@import url("../assets/brand/tokens.css");
 /* ClinicMind brand v1.1 tokens (see brand/tokens.css). Light = brand palette; dark = derived from Deep Forest (brand pack defines no dark UI palette). */
 :root {
   --bg: #F7F5F0; --surface: #ffffff; --surface-2: #F2F0EB; --ink: #233D37; --ink-2: #536A62; --ink-3: #5F746C;

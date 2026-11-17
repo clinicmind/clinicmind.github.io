@@ -1,3 +1,4 @@
+@import url("brand/tokens.css");
 /* 全站共用：跳到內容連結、手機選單、無障礙色彩（首頁與內頁都載入，放在其他樣式之後） */
 :root {
     --text-light: #666666;   /* 輔助文字：在米白底上對比 5:1，達 WCAG AA */
@@ -155,21 +156,9 @@ main .inner { font-size: 1.0625rem; }
 .page-hero h1 { font-size: clamp(1.6rem, 1.15rem + 2vw, 2.2rem) !important; }
 
 /* ---- 2026-10 品牌形象 v1.1（臨床心語 ClinicMind Brand Identity）----
-   色彩、字體與標誌依品牌規範；所有文字色在白、米白底上皆達 WCAG AA（見各行註解）。 */
+   色票正本：assets/brand/tokens.css（T2-2 合一，本檔不再重複定義 --cm-*）。
+   所有文字色在白、米白底上皆達 WCAG AA（對比數字見 tokens.css 與品牌規範）。 */
 :root {
-    --cm-forest-deep: #244A42;  /* 深森林綠：標題、頁尾底色；米白底 8.6:1 */
-    --cm-forest: #2F5D56;       /* 森林綠：標誌、按鈕、連結；米白底 6.5:1，白字在上 7.4:1 */
-    --cm-sage: #89A49C;         /* 鼠尾草綠：只作裝飾，不作文字 */
-    --cm-clay: #C19875;         /* 陶土色：圓點與少量點綴，不作小字 */
-    --cm-paper: #F7F5F0;
-    --cm-oat: #F2F0EB;
-    --cm-ink: #233D37;          /* 正文；米白底 10.3:1 */
-    --cm-ink-secondary: #536A62;/* 輔助說明；米白底 5.1:1 */
-    --cm-border: #D9D7D0;
-    --cm-font-body: "Noto Sans TC", "PingFang TC", "Heiti TC", "Microsoft JhengHei", sans-serif;
-    --cm-font-display: "Noto Serif TC", "Noto Serif CJK TC", "Songti TC", "PMingLiU", serif;
-    --cm-font-latin: Georgia, "Times New Roman", serif;
-
     /* 沿用舊變數名稱，全站自動換成新色 */
     --primary-color: var(--cm-forest);
     --primary-text: var(--cm-forest);
