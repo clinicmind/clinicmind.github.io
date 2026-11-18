@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:29:32+00:00",
+  "generated_at": "2026-11-18T00:30:26+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -131,6 +131,496 @@
     "featured_top_n": 8
   },
   "cases": [
+    {
+      "slug": "apa-speaking-of-psychology-ep400-extreme-weather-risks",
+      "title_zh": "APA《Speaking of Psychology》第 400 集：人們如何應對極端天氣風險",
+      "title_en": "APA Speaking of Psychology episode 400: how people respond to extreme weather risks",
+      "summary_zh": "史丹福大學 Gabrielle Wong-Parodi 與麻省大學洛厄爾分校 Brett Gelino 討論何謂具氣候韌性的社區。重複警報會令人麻木，基建只有在市民使用時才有用。兩人亦談及如何傳達風險而不令人麻木，以及如何把研究交到規劃者與應急人員手上。",
+      "summary_en": "Stanford's Gabrielle Wong-Parodi and UMass Lowell's Brett Gelino discuss what makes a climate-resilient community. Repeated alerts can numb people, and infrastructure only helps when residents use it. They also cover how to communicate risk without causing numbness, and how to get research into the hands of planners and emergency responders.",
+      "category": "研究與證據",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "氣候",
+        "災害",
+        "風險溝通",
+        "社區韌性"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-04T00:00:00+00:00"
+    },
+    {
+      "slug": "apa-speaking-of-psychology-ep401-nostalgia-good-for-you",
+      "title_zh": "APA《Speaking of Psychology》第 401 集：懷舊對人有益",
+      "title_en": "APA Speaking of Psychology episode 401: why nostalgia is good for you",
+      "summary_zh": "南安普敦大學 Tim Wildschut 講解研究如何定義懷舊。孤獨、壞心情甚至寒冷天氣都可能觸發懷舊。懷舊多數時候能鞏固關係，賦予生命意義與連續感，但亦有負面一面，科技亦正改變人們回望過去的方式。",
+      "summary_en": "University of Southampton researcher Tim Wildschut explains how research defines nostalgia. Loneliness, bad moods and even cold weather can trigger it. Nostalgia usually strengthens relationships and gives life meaning and continuity, but it also has a downside, and technology is changing how people look back.",
+      "category": "研究與證據",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "懷舊",
+        "孤獨",
+        "意義感"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-11T00:00:00+00:00"
+    },
+    {
+      "slug": "ash-chatbot-engagement-phenotypes-dose-response",
+      "title_zh": "十萬名 AI 心理健康聊天機械人用戶：參與模式與劑量反應",
+      "title_en": "Engagement phenotypes of 102,684 AI mental health chatbot users and dose-response outcomes",
+      "summary_zh": "分析 Slingshot AI 聊天機械人 Ash 的 102,684 名真實用戶，分出五種參與模式，過半數屬早期流失（52.2%）。三週後憂鬱與焦慮有改善，參與愈高、憂鬱改善愈大，呈劑量反應。但研究屬自然觀察、無對照組，不能證明因果；四名作者為開發公司員工。",
+      "summary_en": "Analysis of 102,684 real users of Slingshot AI's chatbot Ash identified five engagement phenotypes, with early dropouts making up 52.2%. Depression and anxiety improved after three weeks, with greater improvement among more engaged users, but the study was naturalistic without a control group, so it cannot prove causality; four authors are company employees.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [
+        "Ash"
+      ],
+      "tags": [
+        "AI聊天機械人",
+        "參與度",
+        "憂鬱",
+        "焦慮",
+        "工作同盟"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 2,
+      "population": [
+        "成人",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-11-15T00:00:00+00:00"
+    },
+    {
+      "slug": "bps-ai-companionship-towards-authentic-relations",
+      "title_zh": "論 AI 陪伴：邁向真實關係",
+      "title_en": "On AI companionship: towards authentic relations",
+      "summary_zh": "英國心理學會《心理學家》文章以電影《雲端情人》為引，討論 AI 陪伴的依附、諂媚與情感依賴風險。文章指出 AI 伴侶應用已與自殺死亡個案有關，另有加劇精神病性症狀、強化性別刻板印象等風險，並提醒依附焦慮者可能更易轉向 AI 尋求情感支持。",
+      "summary_en": "A British Psychological Society article uses the film Her as a starting point to discuss attachment, sycophancy and emotional dependency in AI companionship. It notes AI companion apps have already been linked to deaths by suicide, alongside risks of amplifying psychotic symptoms and reinforcing gender stereotypes, and warns that people with attachment anxiety may be more likely to turn to AI for emotional support.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "AI陪伴",
+        "依附",
+        "諂媚",
+        "倫理"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-11-09T00:00:00+00:00"
+    },
+    {
+      "slug": "children-focused-attention-emotion-regulation-fmri",
+      "title_zh": "兒童以專注注意力調節情緒：功能性磁振造影研究",
+      "title_en": "Children regulate emotion through focused attention: an fMRI study",
+      "summary_zh": "21 名中童參與實驗，專注於負面圖片的背景細節，可把情緒評分降至中性圖片水平，並伴隨背側控制區活化、杏仁核等情緒區活化下降。研究指出專注注意力是兒童早期可用的情緒調節策略，但樣本只有 21 人，屬探索性質。",
+      "summary_en": "In an experiment with 21 school-age children, focusing on the contextual details of negative pictures lowered emotional ratings to the level of neutral pictures, with increased activation in dorsal control regions and decreased activation in emotion regions such as the amygdala. Focused attention appears to be an early emotion-regulation strategy in children, but the sample of 21 makes this exploratory.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "兒童",
+        "情緒調節",
+        "專注注意力",
+        "腦造影"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 1,
+      "population": [
+        "兒童青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-13T00:00:00+00:00"
+    },
+    {
+      "slug": "curbside-chatbots-auditing-llm-mental-health-recommendations",
+      "title_zh": "審查大型語言模型向不同對象建議的心理健康介入",
+      "title_en": "Curbside chatbots: auditing mental health interventions LLMs recommend to clinicians, caregivers and patients",
+      "summary_zh": "Beth Israel Deaconess 醫學中心數位精神病學部團隊審查 41 個語言模型在同一臨床資訊下，分別向臨床人員、照顧者及求助者本人建議的心理健康介入。研究以 19 個個案小品收集 35,055 則回覆，發現模型的建議會因對象身份而異，臨床人員多獲諮詢式回覆，一般用家則獲較簡化及帶保留的建議。",
+      "summary_en": "A team from Beth Israel Deaconess Medical Center's Division of Digital Psychiatry audited what 41 language models recommend when the same clinical information reaches them from a clinician, a caregiver, or the person themselves. Across 19 case vignettes and 35,055 responses, recommendations differed by footing: clinicians more often received consultation-style replies, while lay users received simpler, hedged advice.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "大型語言模型",
+        "AI安全",
+        "臨床建議",
+        "預印本"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 1,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-09T00:00:00+00:00"
+    },
+    {
+      "slug": "grok-csam-lawsuits-xai-class-actions",
+      "title_zh": "Grok 被指生成兒童色情圖像，xAI 面臨多起集體訴訟",
+      "title_en": "Grok accused of generating child sexual abuse imagery as xAI faces multiple class actions",
+      "summary_zh": "多名未成年受害者指控 Grok 將普通照片篡改成 CSAM，已對 xAI 提起多起集體訴訟，律師估計符合索賠條件的受害者可能多達數千人。報道亦提及部分受害者出現焦慮、抑鬱甚至自殺念頭，正在接受心理治療；xAI 拒絕置評。",
+      "summary_en": "Multiple underage victims allege Grok altered ordinary photos into child sexual abuse material and have filed several class actions against xAI, with lawyers estimating thousands may qualify to claim. The report also notes some victims developed anxiety, depression and suicidal thoughts and are receiving psychotherapy; xAI declined to comment.",
+      "category": "倫理與風險",
+      "kind": "incident",
+      "model_names": [
+        "Grok"
+      ],
+      "tags": [
+        "Grok",
+        "兒童安全",
+        "CSAM",
+        "集體訴訟"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-11-11T00:00:00+00:00"
+    },
+    {
+      "slug": "ground-truths-ethan-mollick-ai-where-are-we-headed",
+      "title_zh": "Ground Truths：Ethan Mollick 談 AI 現況與走向",
+      "title_en": "Ground Truths: Ethan Mollick on AI, where are we now and where are we headed",
+      "summary_zh": "Eric Topol 與 Wharton 副教授 Ethan Mollick 對談，涵蓋鋸齒前線、提示詞的終結、去技能化、個人 AI 智能體、教育，以及醫療 AI。Mollick 亦談及其新文論 Claude 新模型測試與智能體使用經驗。內容與臨床工作者理解 AI 對心理健康與專業實踐的影響直接相關。",
+      "summary_en": "Eric Topol talks with Wharton associate professor Ethan Mollick about the jagged frontier, the end of prompting, deskilling, personal AI agents, education, and medical AI. Mollick also discusses his new essay and experience testing new Claude models and agents. The conversation is directly relevant to clinicians making sense of AI's impact on mental health and professional practice.",
+      "category": "人機互動心理",
+      "kind": "practice",
+      "model_names": [
+        "Claude"
+      ],
+      "tags": [
+        "AI",
+        "教育",
+        "去技能化",
+        "智能體"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-10T00:00:00+00:00"
+    },
+    {
+      "slug": "instagram-behaviour-loneliness-dimensions-young-adults",
+      "title_zh": "日常 Instagram 行為對應年輕成人的不同孤獨面向",
+      "title_en": "Everyday Instagram behaviour maps onto distinct facets of loneliness in young adults",
+      "summary_zh": "分析 415 名美國大學生自願提供的 Instagram 資料。社交孤獨與低互動有關（較少讚好與留言）；情緒孤獨則與負面語言、悲傷或憤怒表情及深夜發文有關。數位痕跡能分辨主觀孤獨，但難以反映實際支援網絡大小。",
+      "summary_en": "Analysis of Instagram data voluntarily provided by 415 US undergraduates found social loneliness linked to low interaction (fewer likes and comments), while emotional loneliness was linked to negative language, sad or angry expressions, and late-night posting. Digital traces can distinguish subjective loneliness but say little about actual support-network size.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "孤獨",
+        "社交媒體",
+        "Instagram",
+        "年輕成人"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 2,
+      "population": [
+        "大專生",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "slug": "mhra-nice-dmht-phase-1-evaluation-survey",
+      "title_zh": "MHRA 與 NICE：數位心理健康科技計劃第一階段評估意見徵集",
+      "title_en": "MHRA and NICE call for evidence on digital mental health technologies phase 1 evaluation",
+      "summary_zh": "英國藥品及保健品監管局（MHRA）與 NICE 就 Wellcome 資助的數位心理健康科技計劃第一階段資源展開意見徵集，了解業界、專業人員、研究者及用家對相關資源的接收與使用情況。徵集結果將評估第一階段成果，並為計劃第二階段的方向提供依據。",
+      "summary_en": "The UK Medicines and Healthcare products Regulatory Agency (MHRA) and NICE opened a call for evidence on resources from phase 1 of the Wellcome-funded Digital Mental Health Technologies programme, seeking views from industry, professionals, researchers and users on how the resources were received and used. Findings will evaluate phase 1 and inform the direction of phase 2.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "數位心理健康",
+        "監管",
+        "NICE",
+        "MHRA"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "slug": "openai-csam-classifier-child-safety-tools",
+      "title_zh": "OpenAI 發布免費 CSAM 檢測圖像分類器，加強 ChatGPT 兒童安全干預",
+      "title_en": "OpenAI releases free CSAM detection image classifier and child safety interventions",
+      "summary_zh": "OpenAI 推出可檢測 CSAM（含 AI 生成內容）的圖像分類器，免費向經審核機構開放；測試顯示可減少 48% 複審量，fal 實測 72% 高置信標記確認為新型 CSAM。同時 ChatGPT 上線新警告，在用戶試圖搜尋涉兒童性剝削內容時打斷並暫停存取 24 小時，另發布開發者 CSAM 治理指南。",
+      "summary_en": "OpenAI released an image classifier that detects child sexual abuse material (CSAM), including AI-generated content, free to vetted organisations. Testing suggested it could cut review workload by 48%, and partner fal confirmed 72% of high-confidence flags as novel CSAM. ChatGPT also gained warnings that interrupt searches for child sexual exploitation material and pause access for 24 hours, plus a CSAM governance guide for developers.",
+      "category": "產品與產業",
+      "kind": "product",
+      "model_names": [],
+      "tags": [
+        "兒童安全",
+        "CSAM",
+        "內容審核"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "slug": "parent-only-up-a-adolescent-emotional-disorders",
+      "title_zh": "只由家長接受青少年統一治療方案（UP-A）：偏好式非隨機對照研究",
+      "title_en": "Parent-only delivery of the Unified Protocol for adolescent emotional disorders",
+      "summary_zh": "北京大學第六醫院研究，99 名 12–17 歲情緒障礙青少年分三組：只由家長接受 UP-A、家長與青少年同接受、常規治療。兩種 UP-A 形式在治療後及三個月追蹤的嚴重程度均優於常規治療。只由家長接受的形式，可為青少年不願或未能直接參與時的替代方案；但研究非隨機分組，需隨機對照試驗確認。",
+      "summary_en": "A Peking University Sixth Hospital study of 99 adolescents aged 12-17 with emotional disorders compared parent-only UP-A, parent-adolescent UP-A, and treatment as usual. Both UP-A formats showed lower severity than usual care after treatment and at three-month follow-up. Parent-only UP-A may be an alternative when adolescents will not or cannot participate directly, but the study was not randomised and needs confirmation in randomised trials.",
+      "category": "臨床與治療應用",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "青少年",
+        "統一治療方案",
+        "情緒障礙",
+        "家長介入",
+        "預印本"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 1,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-11T00:00:00+00:00"
+    },
+    {
+      "slug": "pesi-medical-trauma-clinical-tools-ptsd-anxiety-depression",
+      "title_zh": "PESI 免費網上培訓：醫療創傷——治療健康危機後的 PTSD、焦慮與抑鬱",
+      "title_en": "PESI free virtual training: medical trauma clinical tools for PTSD anxiety and depression after a health crisis",
+      "summary_zh": "Sacha McBain 與 Michelle Flaum 主講，教臨床工作者評估醫療創傷壓力，運用醫療創傷生態模式做個案概念化，並以認知重構、行為實驗及健康與復康心理學策略處理 PTSD、焦慮與抑鬱。內容包括創傷訪談、健康相關焦慮、污名與有毒正能量等議題。",
+      "summary_en": "Sacha McBain and Michelle Flaum teach clinicians to assess medical traumatic stress, conceptualise cases with a medical trauma ecological model, and treat PTSD, anxiety and depression with cognitive restructuring, behavioural experiments and health and rehabilitation psychology strategies. Topics include trauma interviewing, health-related anxiety, stigma and toxic positivity.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷",
+        "醫療創傷",
+        "PTSD",
+        "免費培訓"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-18T01:00:00+00:00",
+      "training": {
+        "provider": "PESI",
+        "format": "線上",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "English",
+        "event_date": "2026-11-23",
+        "deadline": ""
+      },
+      "deadline_soon": true
+    },
+    {
+      "slug": "reduced-social-media-use-internalizing-symptoms-young-adults",
+      "title_zh": "減少社交媒體使用與高風險年輕成人的內化症狀改善",
+      "title_en": "Reduced social media use and change in internalizing symptoms among high-risk young adults",
+      "summary_zh": "美國全國代表性追蹤資料，2,358 名 18–24 歲高頻使用社交媒體且有內化症狀的年輕人。由每日多次減至每日一次或以下者，兩年後不再符合全部四項內化症狀的比例為 57%，高於持續高頻者的 49%。但屬觀察性研究，暴露與結果皆為自陳，不能證明因果。",
+      "summary_en": "In nationally representative US cohort data, 2,358 young adults aged 18-24 with frequent social media use and elevated internalizing symptoms were followed. Those who cut use from several times a day to once a day or less were more likely to no longer meet all four internalizing symptoms after two years (57% vs 49% of continued frequent users). The study was observational with self-reported exposure and outcomes, so it cannot prove causality.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "社交媒體",
+        "年輕成人",
+        "憂鬱",
+        "焦慮",
+        "預防"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 2,
+      "population": [
+        "大專生",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-16T00:00:00+00:00"
+    },
+    {
+      "slug": "stanford-hai-neuroscience-ai-grants-second-round",
+      "title_zh": "史丹福 HAI 與吳蔡神經科學研究院：第二輪 AI 與神經科學資助",
+      "title_en": "Stanford HAI and Wu Tsai Neurosciences Institute award second round of AI and neuroscience grants",
+      "summary_zh": "史丹福吳蔡神經科學研究院與人類中心 AI 研究院公布第二輪 AI 與神經科學資助，共五個團隊獲獎。其中兩個項目與心理健康直接相關：以 AI 結合腦電圖與功能磁共振成像細分抑鬱症生物型，以及用大型語言模型描繪心理治療對話與深層腦部動態的「心理治療神經圖譜」。",
+      "summary_en": "Stanford's Wu Tsai Neurosciences Institute and the Institute for Human-Centered Artificial Intelligence announced a second round of AI and neuroscience grants to five teams. Two projects relate directly to mental health: using AI with EEG and fMRI to subtype depression biotypes, and using large language models to map psychotherapy dialogue onto deep-brain dynamics in a 'neuroatlas of psychotherapy'.",
+      "category": "研究與證據",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "AI",
+        "神經科學",
+        "抑鬱症",
+        "心理治療"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-11T00:00:00+00:00"
+    },
+    {
+      "slug": "who-european-digital-mental-health-roadmap-2027-2035",
+      "title_zh": "WHO 歐洲區數位心理健康路線圖 2027–2035",
+      "title_en": "WHO European Region digital mental health roadmap 2027-2035",
+      "summary_zh": "世界衛生組織歐洲區辦事處發布 2027–2035 年數位心理健康路線圖，為各成員國提供規劃、採用及推行數位科技的實務框架，涵蓋政策、管治、標準與規管、科技基建、參與及能力建設、監測評估六大領域。路線圖明確把生成式 AI（包括大型語言模型）納入數位心理健康範疇，並強調科技應補充而非取代人際關係與臨床照顧。",
+      "summary_en": "The WHO Regional Office for Europe published a 2027-2035 digital mental health roadmap, giving member states a practical framework for planning, adopting and implementing digital technologies across six domains: policy, governance, standards and regulation, technology infrastructure, engagement and capacity building, and monitoring and evaluation. It explicitly includes generative AI (including large language models) and stresses that technology should complement, not replace, human relationships and clinical care.",
+      "category": "倫理與風險",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "數位心理健康",
+        "WHO",
+        "生成式AI",
+        "政策"
+      ],
+      "first_seen_at": "2026-11-18T01:00:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-17T00:00:00+00:00"
+    },
     {
       "slug": "otto-kernberg-personality-disorders-treatment-free-webinar",
       "title_zh": "免費網上講座：Otto Kernberg 談人格障礙及其治療（11 月 28 日，西班牙語）",
