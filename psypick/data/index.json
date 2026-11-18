@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:33:29+00:00",
+  "generated_at": "2026-11-18T13:39:58+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -111,6 +111,132 @@
     "featured_top_n": 8
   },
   "cases": [
+    {
+      "slug": "sawa-aqwa-family-intervention-adolescent-mental-health",
+      "title_zh": "RCT：黎巴嫩六節全家系統介入改善家庭功能與照顧者心理健康，但青少年心理困擾無變化",
+      "title_en": "'Sawa Aqwa' RCT: brief family systemic intervention improves family functioning and caregiver mental health in Lebanon, but not adolescent distress",
+      "summary_zh": "Journal of Child Psychology and Psychiatry 2026 年 10 月刊出（67 卷 10 期，1752–1765 頁；2026-06-04 線上發表）。黎巴嫩北部與貝卡省的多中心隨機對照試驗，351 個中至高兒童保護風險家庭（174 個介入組／177 個等候對照組），家中有 12–17 歲出現心理困擾的青少年。六節全家系統介入「Sawa Aqwa」（意為「同心協力」）由非專業人員帶領。意向治療分析顯示，介入組在青少年自評家庭功能、照顧者心理健康與親職方面顯著優於對照組；青少年心理困擾則無組間變化。完成介入者的福祉有改善，父親出席與介入組青少年福祉較佳相關；三個月追蹤時，家庭功能與照顧者福祉較介入結束時回落。",
+      "summary_en": "Published in the Journal of Child Psychology and Psychiatry, October 2026, 67(10):1752-1765 (Epub 4 June 2026). A multi-site randomised controlled trial in North Lebanon and Beqa'a with 351 families at medium-to-high child protection risk (174 intervention / 177 waitlist control), each with an adolescent aged 12-17 showing psychological distress. 'Sawa Aqwa' ('stronger together') is a six-session whole-family systemic intervention delivered by non-specialists. Intention-to-treat analyses found significant between-group effects on adolescent-reported family functioning, caregiver mental health and parenting, but no change in adolescent psychological distress. Completers showed improved well-being, father attendance was associated with better adolescent well-being in the intervention group, and family functioning and caregiver well-being had dropped by 3-month follow-up.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "家庭系統介入",
+        "青少年心理健康",
+        "人道危機",
+        "黎巴嫩",
+        "RCT",
+        "非專業人員"
+      ],
+      "first_seen_at": "2026-11-18T13:39:58+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-18T13:39:58+00:00"
+    },
+    {
+      "slug": "adopt-treatment-cbt-affective-dysregulation-children-rct",
+      "title_zh": "RCT：24 節模組化認知行為治療 THOPAS 對 8–12 歲情緒調節困難兒童，整體不優於常規治療",
+      "title_en": "ADOPT-Treatment RCT: modular CBT (THOPAS) not superior to treatment as usual for affective dysregulation in children",
+      "summary_zh": "Journal of the American Academy of Child & Adolescent Psychiatry 期刊預印本（2026-11-05 接受）。德國多中心隨機對照試驗，159 名 8–12 歲情緒調節困難兒童，隨機分入 24 節模組化認知行為介入 THOPAS 或常規治療。主要結果（盲評情緒調節困難嚴重度）無組間差異；次要結果僅個別有效；兩組皆有小至中度改善。探索性亞組分析顯示，基線症狀較重者可能較受惠於 THOPAS；研究未有足夠檢定力偵測小效果。",
+      "summary_en": "Journal pre-proof in the Journal of the American Academy of Child & Adolescent Psychiatry (accepted 5 November 2026). A multicentre randomised controlled trial in Germany with 159 children aged 8-12 with affective dysregulation, randomised to a 24-session modular cognitive-behavioural intervention (THOPAS) or treatment as usual. No between-group differences emerged for the primary outcome (blinded clinician-rated affective dysregulation severity), with only isolated effects on secondary outcomes; both groups showed small-to-moderate improvements over time. Exploratory subgroup analyses suggested children with higher baseline symptom severity may have benefited more from THOPAS; the study was not powered to detect small effects.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒調節困難",
+        "認知行為治療",
+        "兒童",
+        "RCT",
+        "THOPAS"
+      ],
+      "first_seen_at": "2026-11-18T13:39:58+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-18T13:39:58+00:00"
+    },
+    {
+      "slug": "exercise-yoga-music-adolescent-depression-meta-analysis",
+      "title_zh": "統合分析：結構化運動、瑜伽與音樂介入對青少年抑鬱症狀，現有隨機證據不足以定論",
+      "title_en": "Meta-analysis: structured physical activity, yoga and music-based interventions for adolescent depression -- current RCT evidence insufficient",
+      "summary_zh": "Frontiers in Public Health 2026-11-04 刊出。系統性回顧統合 13 項研究；主要統合分析納入 7 項隨機比較、共 345 人（運動四項、音樂兩項、瑜伽一項）。合併估計 favour 介入（SMD −0.59，95% CI −0.97 至 −0.20），但異質性高（I²=63%），95% 預測區間包含無效（−1.75 至 0.58）；無試驗屬低偏倚風險，四項屬高風險；證據確定性極低。作者結論：現有隨機證據不足以判斷這類介入能否減輕青少年抑鬱症狀，合併估計只宜視為假說生成。",
+      "summary_en": "Published 4 November 2026 in Frontiers in Public Health. A systematic review and meta-analysis of 13 studies; the primary meta-analysis pooled seven randomised comparisons (N = 345; four exercise, two music-based, one yoga). The pooled estimate favoured the interventions (SMD -0.59, 95% CI -0.97 to -0.20), but heterogeneity was substantial (I2 = 63%) and the 95% prediction interval included no effect (-1.75 to 0.58). No trial was at low risk of bias and four were at high risk; the certainty of evidence was very low. The authors conclude current randomised evidence is insufficient to determine whether these interventions reduce depressive symptoms in adolescents, and the pooled estimate should be regarded as hypothesis-generating.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "青少年抑鬱",
+        "運動",
+        "瑜伽",
+        "音樂治療",
+        "統合分析"
+      ],
+      "first_seen_at": "2026-11-18T13:39:58+00:00",
+      "evidence_level": 4,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-18T13:39:58+00:00"
+    },
+    {
+      "slug": "cbd-severe-behavioral-problems-youth-intellectual-disability",
+      "title_zh": "RCT：大麻二酚對智力障礙青少年嚴重行為問題無效，不優於安慰劑（n=131）",
+      "title_en": "CBD RCT: cannabidiol no better than placebo for severe behavioral problems in youths with intellectual disability",
+      "summary_zh": "JAMA Pediatrics 2026-11-16 刊出。澳洲三間兒童醫院的平行組雙盲安慰劑對照隨機對照試驗，131 名 6–18 歲智力障礙兼嚴重行為問題青少年（平均年齡 11.2 歲，74.8% 男性，84.0% 合併自閉症），隨機分入大麻二酚分離物油劑 10 mg/kg/日或安慰劑口服 8 週。意向治療分析顯示，主要結果家長評 Aberrant Behavior Checklist 易激惹分量表於治療結束時無差異：CBD 組 21.7 對安慰劑組 19.2，平均差 2.4（95% CI −1.5 至 6.3）。至少一次不良事件的比例相近（63.1% 對 60.6%）。",
+      "summary_en": "Published 16 November 2026 in JAMA Pediatrics. A parallel-design, double-blind placebo-controlled randomised clinical trial at three children's hospitals in Australia with 131 children and adolescents aged 6-18 with intellectual disability and severe behavioral problems (mean age 11.2 years, 74.8% male, 84.0% with comorbid autism), randomised 1:1 to CBD isolate in oil (10 mg/kg/d) or placebo orally for 8 weeks. Intention-to-treat analysis showed no difference on the primary outcome, parent-reported Aberrant Behavior Checklist Irritability subscale at end of treatment: 21.7 in the CBD group versus 19.2 in the placebo group (mean difference 2.4, 95% CI -1.5 to 6.3). A similar proportion experienced at least one adverse event (63.1% vs 60.6%).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "大麻二酚",
+        "智力障礙",
+        "嚴重行為問題",
+        "RCT",
+        "安慰劑對照"
+      ],
+      "first_seen_at": "2026-11-18T13:39:58+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-18T13:39:58+00:00"
+    },
     {
       "slug": "apa-speaking-of-psychology-ep400-extreme-weather-risks",
       "title_zh": "APA《Speaking of Psychology》第 400 集：人們如何應對極端天氣風險",

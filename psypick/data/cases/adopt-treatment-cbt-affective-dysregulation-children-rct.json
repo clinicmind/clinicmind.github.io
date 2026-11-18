@@ -1,0 +1,64 @@
+{
+  "psych_concepts": [],
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_en": [],
+  "model_names": [],
+  "original_prompt": "",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "first_seen_at": "2026-11-18T13:39:58+00:00",
+  "date": "2026-11-18T13:39:58+00:00",
+  "related": null,
+  "training": null,
+  "ethics_flags": [],
+  "title_zh": "RCT：24 節模組化認知行為治療 THOPAS 對 8–12 歲情緒調節困難兒童，整體不優於常規治療",
+  "title_en": "ADOPT-Treatment RCT: modular CBT (THOPAS) not superior to treatment as usual for affective dysregulation in children",
+  "summary_zh": "Journal of the American Academy of Child & Adolescent Psychiatry 期刊預印本（2026-11-05 接受）。德國多中心隨機對照試驗，159 名 8–12 歲情緒調節困難兒童，隨機分入 24 節模組化認知行為介入 THOPAS 或常規治療。主要結果（盲評情緒調節困難嚴重度）無組間差異；次要結果僅個別有效；兩組皆有小至中度改善。探索性亞組分析顯示，基線症狀較重者可能較受惠於 THOPAS；研究未有足夠檢定力偵測小效果。",
+  "summary_en": "Journal pre-proof in the Journal of the American Academy of Child & Adolescent Psychiatry (accepted 5 November 2026). A multicentre randomised controlled trial in Germany with 159 children aged 8-12 with affective dysregulation, randomised to a 24-session modular cognitive-behavioural intervention (THOPAS) or treatment as usual. No between-group differences emerged for the primary outcome (blinded clinician-rated affective dysregulation severity), with only isolated effects on secondary outcomes; both groups showed small-to-moderate improvements over time. Exploratory subgroup analyses suggested children with higher baseline symptom severity may have benefited more from THOPAS; the study was not powered to detect small effects.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "隨機對照試驗（Journal of the American Academy of Child & Adolescent Psychiatry，期刊預印本，2026-11-05 接受；DOI: 10.1016/j.jaac.2026.11.001；尚未定稿）",
+  "evidence_quote": "no overall superiority of THOPAS",
+  "page_date": "2026-11-05",
+  "caution": "期刊預印本，尚未定稿，數字或有修訂；主要結果為陰性，THOPAS 未證實優於高質素常規治療；部分作者申報藥廠相關利益（見原文披露），研究經費來自德國聯邦教育及研究部。",
+  "brief_zh": [
+    "n=159 名 8–12 歲情緒調節困難兒童，德國多中心隨機對照試驗",
+    "介入：THOPAS，24 節模組化認知行為治療；對照為常規治療；評估於基線、介入後與 32 週追蹤",
+    "主要結果（盲評嚴重度）無組間差異；次要結果僅個別有效；兩組皆有小至中度改善",
+    "基線症狀較重者可能較受惠；研究未有足夠檢定力偵測小效果；THOPAS 可行、治療師忠誠度與家長參與度高"
+  ],
+  "tags": [
+    "情緒調節困難",
+    "認知行為治療",
+    "兒童",
+    "RCT",
+    "THOPAS"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "一項陰性試驗中，兩組都有改善而介入組未勝出，你會如何向家長解釋「常規治療已經很好」這個訊息？",
+    "基線較重者可能較受惠的探索性發現，是否足以改變你對 THOPAS 的轉介決定？還需要什麼證據？"
+  ],
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.jaacap.org/action/showPdf?pii=S0890-8567%2826%2902217-3",
+      "author_handle": "",
+      "author_name": "Treier et al.",
+      "title": "Journal of the American Academy of Child & Adolescent Psychiatry 論文（DOI: 10.1016/j.jaac.2026.11.001）",
+      "content": "期刊預印本：24 節模組化認知行為治療 THOPAS 對情緒調節困難兒童的隨機對照試驗，含樣本、介入與主要結果。",
+      "posted_at": "2026-11-05T00:00:00+00:00"
+    }
+  ],
+  "slug": "adopt-treatment-cbt-affective-dysregulation-children-rct"
+}

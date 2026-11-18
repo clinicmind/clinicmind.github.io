@@ -1,0 +1,64 @@
+{
+  "psych_concepts": [],
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_en": [],
+  "model_names": [],
+  "original_prompt": "",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "first_seen_at": "2026-11-18T13:39:58+00:00",
+  "date": "2026-11-18T13:39:58+00:00",
+  "related": null,
+  "training": null,
+  "ethics_flags": [],
+  "title_zh": "統合分析：結構化運動、瑜伽與音樂介入對青少年抑鬱症狀，現有隨機證據不足以定論",
+  "title_en": "Meta-analysis: structured physical activity, yoga and music-based interventions for adolescent depression -- current RCT evidence insufficient",
+  "summary_zh": "Frontiers in Public Health 2026-11-04 刊出。系統性回顧統合 13 項研究；主要統合分析納入 7 項隨機比較、共 345 人（運動四項、音樂兩項、瑜伽一項）。合併估計 favour 介入（SMD −0.59，95% CI −0.97 至 −0.20），但異質性高（I²=63%），95% 預測區間包含無效（−1.75 至 0.58）；無試驗屬低偏倚風險，四項屬高風險；證據確定性極低。作者結論：現有隨機證據不足以判斷這類介入能否減輕青少年抑鬱症狀，合併估計只宜視為假說生成。",
+  "summary_en": "Published 4 November 2026 in Frontiers in Public Health. A systematic review and meta-analysis of 13 studies; the primary meta-analysis pooled seven randomised comparisons (N = 345; four exercise, two music-based, one yoga). The pooled estimate favoured the interventions (SMD -0.59, 95% CI -0.97 to -0.20), but heterogeneity was substantial (I2 = 63%) and the 95% prediction interval included no effect (-1.75 to 0.58). No trial was at low risk of bias and four were at high risk; the certainty of evidence was very low. The authors conclude current randomised evidence is insufficient to determine whether these interventions reduce depressive symptoms in adolescents, and the pooled estimate should be regarded as hypothesis-generating.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 4,
+  "evidence_note": "系統性回顧與統合分析（Frontiers in Public Health，2026-11-04 刊出；PROSPERO CRD420261429956；DOI: 10.3389/fpubh.2026.1922220）",
+  "evidence_quote": "certainty of evidence was very low",
+  "page_date": "2026-11-04",
+  "caution": "證據確定性極低（GRADE）；合併估計橫跨不同介入、群體與對照，不等同任一單一介入的效果；四項運動試驗的估計較小且不精確（SMD −0.26，95% CI −0.58 至 0.07）；不應取代實證心理治療或藥物治療。",
+  "brief_zh": [
+    "11,575 篇篩選後納入 13 項研究；主要統合分析 7 項隨機比較，n=345（運動四項、音樂兩項、瑜伽一項）",
+    "合併 SMD −0.59（95% CI −0.97 至 −0.20）；異質性 I²=63%，預測區間 −1.75 至 0.58，包含無效",
+    "無試驗屬低偏倚風險，四項屬高風險；證據確定性極低",
+    "作者結論：現有隨機證據不足以定論，需更大規模、預先註冊、盲評結果的試驗"
+  ],
+  "tags": [
+    "青少年抑鬱",
+    "運動",
+    "瑜伽",
+    "音樂治療",
+    "統合分析"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "家長問「運動／音樂能否代替治療」時，你會如何用這篇統合分析的「證據極低」結論回應，而不否定運動本身的價值？",
+    "合併不同介入的估計值容易被誤讀為「運動有效」，你在閱讀統合分析時會先看哪幾個數字來把關？"
+  ],
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1922220/full",
+      "author_handle": "",
+      "author_name": "Zeng et al.",
+      "title": "Frontiers in Public Health 論文（DOI: 10.3389/fpubh.2026.1922220）",
+      "content": "期刊全文：結構化運動、瑜伽與音樂介入對青少年抑鬱症狀的系統性回顧與統合分析，含摘要、納入試驗與各結果的效果量。",
+      "posted_at": "2026-11-04T00:00:00+00:00"
+    }
+  ],
+  "slug": "exercise-yoga-music-adolescent-depression-meta-analysis"
+}

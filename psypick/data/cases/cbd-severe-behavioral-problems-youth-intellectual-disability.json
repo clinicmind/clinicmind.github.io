@@ -1,0 +1,64 @@
+{
+  "psych_concepts": [],
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_en": [],
+  "model_names": [],
+  "original_prompt": "",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "first_seen_at": "2026-11-18T13:39:58+00:00",
+  "date": "2026-11-18T13:39:58+00:00",
+  "related": null,
+  "training": null,
+  "ethics_flags": [],
+  "title_zh": "RCT：大麻二酚對智力障礙青少年嚴重行為問題無效，不優於安慰劑（n=131）",
+  "title_en": "CBD RCT: cannabidiol no better than placebo for severe behavioral problems in youths with intellectual disability",
+  "summary_zh": "JAMA Pediatrics 2026-11-16 刊出。澳洲三間兒童醫院的平行組雙盲安慰劑對照隨機對照試驗，131 名 6–18 歲智力障礙兼嚴重行為問題青少年（平均年齡 11.2 歲，74.8% 男性，84.0% 合併自閉症），隨機分入大麻二酚分離物油劑 10 mg/kg/日或安慰劑口服 8 週。意向治療分析顯示，主要結果家長評 Aberrant Behavior Checklist 易激惹分量表於治療結束時無差異：CBD 組 21.7 對安慰劑組 19.2，平均差 2.4（95% CI −1.5 至 6.3）。至少一次不良事件的比例相近（63.1% 對 60.6%）。",
+  "summary_en": "Published 16 November 2026 in JAMA Pediatrics. A parallel-design, double-blind placebo-controlled randomised clinical trial at three children's hospitals in Australia with 131 children and adolescents aged 6-18 with intellectual disability and severe behavioral problems (mean age 11.2 years, 74.8% male, 84.0% with comorbid autism), randomised 1:1 to CBD isolate in oil (10 mg/kg/d) or placebo orally for 8 weeks. Intention-to-treat analysis showed no difference on the primary outcome, parent-reported Aberrant Behavior Checklist Irritability subscale at end of treatment: 21.7 in the CBD group versus 19.2 in the placebo group (mean difference 2.4, 95% CI -1.5 to 6.3). A similar proportion experienced at least one adverse event (63.1% vs 60.6%).",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "隨機對照試驗（JAMA Pediatrics，2026-11-16 刊出；DOI: 10.1001/jamapediatrics.2026.5152；ClinicalTrials.gov NCT04821856）",
+  "evidence_quote": "CBD was not effective",
+  "page_date": "2026-11-16",
+  "caution": "陰性結果：CBD 不應作為此群體嚴重行為問題的治療選擇；試驗藥物（CBD 與安慰劑）由 Epsilon Healthcare 以實物形式提供（原文披露）；樣本以澳洲三間醫院為主，84% 合併自閉症。",
+  "brief_zh": [
+    "n=131 名 6–18 歲智力障礙兼嚴重行為問題青少年，澳洲三間兒童醫院；平均年齡 11.2 歲，84.0% 合併自閉症",
+    "介入：CBD 分離物油劑 10 mg/kg/日或安慰劑，口服 8 週，另 4 週追蹤",
+    "主要結果 ABC-I：CBD 組 21.7 對安慰劑組 19.2，平均差 2.4（95% CI −1.5 至 6.3），無差異",
+    "不良事件比例相近（63.1% 對 60.6%）；試驗註冊 NCT04821856"
+  ],
+  "tags": [
+    "大麻二酚",
+    "智力障礙",
+    "嚴重行為問題",
+    "RCT",
+    "安慰劑對照"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "家長問起 CBD 能否改善孩子的嚴重行為問題，你會如何用這項陰性結果回應，同時不否定家長尋求幫助的努力？",
+    "這項試驗 84% 參加者合併自閉症，對你理解結果的適用範圍有何影響？"
+  ],
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2856567",
+      "author_handle": "",
+      "author_name": "Efron et al.",
+      "title": "JAMA Pediatrics 論文（DOI: 10.1001/jamapediatrics.2026.5152）",
+      "content": "JAMA Pediatrics 原文摘要：大麻二酚對智力障礙青少年嚴重行為問題的雙盲安慰劑對照隨機對照試驗，含樣本、介入與主要結果。",
+      "posted_at": "2026-11-16T00:00:00+00:00"
+    }
+  ],
+  "slug": "cbd-severe-behavioral-problems-youth-intellectual-disability"
+}

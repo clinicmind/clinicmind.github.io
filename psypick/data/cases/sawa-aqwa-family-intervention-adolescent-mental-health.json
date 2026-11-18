@@ -1,0 +1,66 @@
+{
+  "psych_concepts": [],
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_en": [],
+  "model_names": [],
+  "original_prompt": "",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "first_seen_at": "2026-11-18T13:39:58+00:00",
+  "date": "2026-11-18T13:39:58+00:00",
+  "related": null,
+  "training": null,
+  "ethics_flags": [],
+  "title_zh": "RCT：黎巴嫩六節全家系統介入改善家庭功能與照顧者心理健康，但青少年心理困擾無變化",
+  "title_en": "'Sawa Aqwa' RCT: brief family systemic intervention improves family functioning and caregiver mental health in Lebanon, but not adolescent distress",
+  "summary_zh": "Journal of Child Psychology and Psychiatry 2026 年 10 月刊出（67 卷 10 期，1752–1765 頁；2026-06-04 線上發表）。黎巴嫩北部與貝卡省的多中心隨機對照試驗，351 個中至高兒童保護風險家庭（174 個介入組／177 個等候對照組），家中有 12–17 歲出現心理困擾的青少年。六節全家系統介入「Sawa Aqwa」（意為「同心協力」）由非專業人員帶領。意向治療分析顯示，介入組在青少年自評家庭功能、照顧者心理健康與親職方面顯著優於對照組；青少年心理困擾則無組間變化。完成介入者的福祉有改善，父親出席與介入組青少年福祉較佳相關；三個月追蹤時，家庭功能與照顧者福祉較介入結束時回落。",
+  "summary_en": "Published in the Journal of Child Psychology and Psychiatry, October 2026, 67(10):1752-1765 (Epub 4 June 2026). A multi-site randomised controlled trial in North Lebanon and Beqa'a with 351 families at medium-to-high child protection risk (174 intervention / 177 waitlist control), each with an adolescent aged 12-17 showing psychological distress. 'Sawa Aqwa' ('stronger together') is a six-session whole-family systemic intervention delivered by non-specialists. Intention-to-treat analyses found significant between-group effects on adolescent-reported family functioning, caregiver mental health and parenting, but no change in adolescent psychological distress. Completers showed improved well-being, father attendance was associated with better adolescent well-being in the intervention group, and family functioning and caregiver well-being had dropped by 3-month follow-up.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "隨機對照試驗（Journal of Child Psychology and Psychiatry，2026;67(10):1752–1765；2026-06-04 線上發表；DOI: 10.1111/jcpp.70174；開放取用）",
+  "evidence_quote": "‘Sawa Aqwa’ (Stronger Together)",
+  "page_date": "2026-06-04",
+  "caution": "介入未改善青少年自評心理困擾；三個月追蹤時效果回落；樣本為黎巴嫩人道危機處境下的家庭，推廣至其他處境需謹慎；等候對照設計，未與現有介入比較。",
+  "brief_zh": [
+    "n=351 個家庭（介入組 174／等候對照組 177），400 個家庭接受篩選；青少年 12–17 歲，家庭屬中至高兒童保護風險",
+    "介入：六節全家系統介入「Sawa Aqwa」，由非專業人員透過當地兒童保護系統帶領",
+    "家庭功能、照顧者心理健康與親職顯著改善；青少年心理困擾無組間變化",
+    "完成介入者福祉有改善；父親出席與青少年福祉較佳相關；三個月追蹤時家庭功能與照顧者福祉回落"
+  ],
+  "tags": [
+    "家庭系統介入",
+    "青少年心理健康",
+    "人道危機",
+    "黎巴嫩",
+    "RCT",
+    "非專業人員"
+  ],
+  "population": [
+    "兒童青少年",
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "在人道危機處境下，家庭功能改善而青少年症狀未變，你會如何向團隊解釋這個結果，並決定下一步的介入重點？",
+    "父親參與度低是家庭介入的常見難題，這項研究關於父親出席與青少年福祉的發現，對你的個案工作有何提示？"
+  ],
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://pureadmin.qub.ac.uk/ws/files/690205224/JCPP_2026_Sawa_Aqwa.pdf",
+      "author_handle": "",
+      "author_name": "Bosqui et al.",
+      "title": "Journal of Child Psychology and Psychiatry 論文（DOI: 10.1111/jcpp.70174）",
+      "content": "期刊原文（開放取用，QUB 機構典藏）：黎巴嫩六節全家系統介入的多中心隨機對照試驗，含樣本、介入與主要結果。",
+      "posted_at": "2026-06-04T00:00:00+00:00"
+    }
+  ],
+  "slug": "sawa-aqwa-family-intervention-adolescent-mental-health"
+}
