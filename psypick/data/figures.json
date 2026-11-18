@@ -203,6 +203,177 @@
    "verified_by_muse": true
   },
   {
+   "slug": "mark-zuckerberg",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Mark Zuckerberg",
+   "name_zh": "馬克·扎克伯格",
+   "role_zh": "Meta 董事長兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/finkd",
+     "note": "Threads／IG @zuck",
+     "verified": false
+    }
+   ],
+   "focus_zh": "宣傳 Meta AI 模型、招攬 AI 人才",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "elon-musk",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Elon Musk",
+   "name_zh": "埃隆·馬斯克",
+   "role_zh": "xAI 創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/elonmusk",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "評論 AI 安全議題、推廣 Grok",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "aravind-srinivas",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Aravind Srinivas",
+   "name_zh": "阿拉文德·斯里尼瓦斯",
+   "role_zh": "Perplexity 聯合創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/AravSrinivas",
+     "note": "3 個月活躍度待查證",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布 Perplexity 產品更新、AI 搜尋進展",
+   "list_note": "名單註明近 3 個月活躍度待查證",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "jensen-huang",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Jensen Huang",
+   "name_zh": "黃仁勳",
+   "role_zh": "NVIDIA 聯合創始人兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/JensenHuang",
+     "note": "年 7 月新開",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 AI 算力基礎設施、開源 AI 政策立場",
+   "list_note": "X 帳號 2026 年 7 月新開",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "satya-nadella",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Satya Nadella",
+   "name_zh": "薩蒂亞·納德拉",
+   "role_zh": "Microsoft 董事長兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/satyanadella",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "發布微軟 AI 產品動態（Copilot、Azure AI）、AI 戰略思考",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "clement-delangue",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Clement Delangue",
+   "name_zh": "克萊門特·德朗格",
+   "role_zh": "Hugging Face 聯創兼 CEO",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/ClementDelangue",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "力挺開源 AI、回應 AI 安全爭議、分享 HF 生態動態",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "sebastian-raschka",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Sebastian Raschka",
+   "name_zh": "Sebastian Raschka",
+   "role_zh": "獨立 AI 研究工程師、《Build a Large Language Model（From Scratch）》作者",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/rasbt",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "分享 LLM 從零實現的教學與架構解析",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "dwarkesh-patel",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Dwarkesh Patel",
+   "name_zh": "Dwarkesh Patel",
+   "role_zh": "Dwarkesh Podcast 主持人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/dwarkesh_SP",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "深度訪談型播客，以長篇技術訪談記錄 AI 革命口述史",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
+   "slug": "dylan-patel",
+   "group": "ai",
+   "subgroup": "獨立研究者、教育者與評論員",
+   "name_en": "Dylan Patel",
+   "name_zh": "Dylan Patel",
+   "role_zh": "SemiAnalysis 創始人兼首席分析師",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/dylan522p",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "半導體與 AI 基礎設施分析：GPU／晶片供應鏈、資料中心",
+   "list_note": "",
+   "verified_by_muse": false
+  },
+  {
    "slug": "serine-warwar",
    "group": "psy",
    "subgroup": "EFT 與伴侶治療",
@@ -1968,6 +2139,284 @@
    "checked": "2026-11-18",
    "tier": "A",
    "verify_needed": false
+  },
+  {
+   "person": "mark-zuckerberg",
+   "url": "https://www.tipranks.com/news/the-fly/zuckerberg-says-muse-wonder-muse-spark-1-3-coming-to-microsoft-foundry-thefly-news",
+   "platform": "x",
+   "page_date": "2026-11-17",
+   "kind": "產品發布",
+   "summary_zh": "Zuckerberg 在 X 宣布，Meta 三款 Muse 模型（Wonder、Spark 1.3、Ember）即將登陸微軟 Azure 的 Microsoft Foundry，供企業開發者使用。此前三款模型已於 11 月 9 日登陸 Google Cloud。",
+   "quote_en": "Muse Wonder, Muse Spark 1.3, and Muse Ember are coming soon to Microsoft Foundry on @Azure.",
+   "topics": [
+    "Muse",
+    "Microsoft Foundry",
+    "Azure"
+   ],
+   "evidence_quote": "Muse Wonder, Muse Spark 1.3, and Muse Ember are coming soon to Microsoft Foundry on @Azure.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接打開，僅經 TipRanks／TheFly 報道引述"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://fourweekmba.com/ai-musk-digital-me-at-dealbook-china-17-9-of-tesla-sales/",
+   "platform": "x",
+   "page_date": "2026-11-17",
+   "kind": "貼文",
+   "summary_zh": "Musk 回覆 DealBook 峰會主持人 Andrew Ross Sorkin，稱自己屆時身在中國，11 月 18 日的 DealBook 峰會將以「數碼分身」形式出席。帖文未說明「digital me」是指視像連線還是 AI 生成版本。",
+   "quote_en": "I will be in China, so it will be digital me",
+   "topics": [
+    "DealBook 峰會",
+    "數碼分身"
+   ],
+   "evidence_quote": "I will be in China, so it will be digital me",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接打開，僅經 FourWeekMBA 報道引述；「digital me」形式未說明"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://ashutoshai.com/ai-compass/2026/11/16/",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "產品發布",
+   "summary_zh": "Perplexity 成立前沿研究實驗室 Frontier Research，目標是建立能自主進行科學與技術研究的自動化研究員。Srinivas 在 X 表示公司投入至少一萬張 GPU，並在三藩市、帕洛阿爾托、紐約及倫敦招聘研究員與系統工程師。",
+   "quote_en": "Perplexity launched Perplexity Frontier Research on 16 November 2026 at research.perplexity.ai, forming a dedicated frontier lab aimed at building an automated researcher capable of autonomous scientific and technical investigation.",
+   "topics": [
+    "Frontier Research",
+    "自動化研究",
+    "GPU"
+   ],
+   "evidence_quote": "Perplexity launched Perplexity Frontier Research on 16 November 2026 at research.perplexity.ai",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "未直接打開 Perplexity 官方 X 原文，Srinivas 的一萬 GPU 承諾經二手引述"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "其他",
+   "summary_zh": "Srinivas 在 Semafor 矽谷活動上透露，Perplexity 年收入 run rate 已達 10 億美元，2026 年內增長約四倍。同日 CNBC 訪問中，他表示不排除 2027 年第一季提交上市申請，比原定 2028 年計劃提早一年；惟此為口頭表態，非正式承諾。",
+   "quote_en": "Perplexity crossed a $1B annual revenue run rate today, CEO Aravind Srinivas told Semafor at a live event.",
+   "topics": [
+    "收入",
+    "IPO",
+    "Semafor"
+   ],
+   "evidence_quote": "Perplexity crossed a $1B annual revenue run rate today",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "經 Latent Space 報道；10 億美元為公司自行宣稱的 run rate，非經審計業績；上市時間表僅為「不排除」"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://aivor.ai/article/434-perplexity-teammate-agents-grow-to-eleven-times-their-size/",
+   "platform": "x",
+   "page_date": "2026-11-16",
+   "kind": "其他",
+   "summary_zh": "Srinivas 在 X 表示，Perplexity Teammate 智能體一週內完成的工作時間增長十一倍（前一週為七倍），使用量每週增長逾五成；獲 Teammate 完成至少一整個工作日或工作週額外工作量的員工人數亦增逾三倍。數字為公司自行宣稱，量度方法未公開。",
+   "quote_en": "The amount of working time performed by Teammate agents increased elevenfold within one week.",
+   "topics": [
+    "Teammate",
+    "AI 智能體",
+    "使用量"
+   ],
+   "evidence_quote": "The amount of working time performed by Teammate agents increased elevenfold within one week.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未直接打開，僅經 Aivor 報道引述；數字為公司自行宣稱"
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://x.com/JensenHuang/status/2122726005219737649",
+   "platform": "x",
+   "page_date": "2026-11-17",
+   "kind": "貼文",
+   "summary_zh": "黃仁勳離任後首次公開發聲。他承認個人生活犯下嚴重錯誤，並向董事會致歉。他表示，若董事會認為他回歸符合股東、員工、公司及美國的最佳利益，他將榮幸地回任 CEO。董事會目前並無計劃恢復其職務。",
+   "quote_en": "If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.",
+   "topics": [
+    "NVIDIA 領導層",
+    "CEO 回歸表態",
+    "董事會調查"
+   ],
+   "evidence_quote": "If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖因政策被封鎖，未能直接打開；內容經 Pop Culture Pit 逐字引述，並由 CNBC、BBC、TechCrunch 報道佐證"
+  },
+  {
+   "person": "satya-nadella",
+   "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "演講",
+   "summary_zh": "Nadella 在 Ignite 2026 開幕演講提出建立「前沿生態系」，三大支柱為人類抱負、企業掌握自身智能、信任。他先就上週全球 Outlook 故障致歉，承認「我們有工作要做」。演講公布 Copilot 新功能、Microsoft IQ、MAI Licensed Weights 及 AI 透明倡議。",
+   "quote_en": "We need to parlay any technological advance into real outcomes and new points of leverage for people, organizations and society at large.",
+   "topics": [
+    "Ignite 2026",
+    "Copilot",
+    "MAI Licensed Weights"
+   ],
+   "evidence_quote": "We need to parlay any technological advance into real outcomes and new points of leverage for people, organizations and society at large.",
+   "checked": "2026-11-18",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "clement-delangue",
+   "url": "https://dnyuz.com/2026/11/17/rogue-agents-hacked-his-company-why-is-clement-delangue-so-optimistic-about-ai/",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "訪談",
+   "summary_zh": "Delangue 接受 WIRED 專訪，解釋出售 Hugging Face 予 NVIDIA 的原因：開源 AI 需要更多資源才能與閉源抗衡。他談及 7 月 OpenAI 智能體入侵事件，指出 95% 風險來自少數閉門推進前沿的公司，而 95% 防禦將由開源生態完成。",
+   "quote_en": "We need more resources to give open-source AI a chance.",
+   "topics": [
+    "開源 AI",
+    "rogue agents",
+    "NVIDIA 收購"
+   ],
+   "evidence_quote": "We need more resources to give open-source AI a chance.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "clement-delangue",
+   "url": "https://www.tradingkey.com/news/cryptocurrencies/262307355-cryptopolitan",
+   "platform": "x",
+   "page_date": "2026-11-15",
+   "kind": "貼文",
+   "summary_zh": "Delangue 在 X 發文警告，權力、能力與財富集中是 AI 領域的最大風險。他指出，若開源工作不大幅加強，少數富裕公司將控制 AI，其餘人將被拋下。LeCun 於 11-16 回覆表示認同。",
+   "quote_en": "The concentration of power, capabilities and wealth is the biggest risk in AI.",
+   "topics": [
+    "AI 權力集中",
+    "開源與閉源",
+    "Anthropic IPO"
+   ],
+   "evidence_quote": "The concentration of power, capabilities and wealth is the biggest risk in AI.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接打開，亦未取得原帖連結，只憑 TradingKey 等報道引述"
+  },
+  {
+   "person": "sebastian-raschka",
+   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+   "platform": "web",
+   "page_date": "2026-11-15",
+   "kind": "文章",
+   "summary_zh": "Raschka 發表位置編碼從頭講解，對照 GPT-2 的絕對位置向量與 MiniMax-M3 等 2026 年開源模型的旋轉位置編碼（RoPE）、無位置編碼等做法，並附 PyTorch 實作。",
+   "quote_en": "This article explains how LLMs encode and process token position information by covering classic and contemporary methods like RoPE.",
+   "topics": [
+    "位置編碼",
+    "RoPE",
+    "LLM 架構"
+   ],
+   "evidence_quote": "This article explains how LLMs encode and process token position information by covering classic and contemporary methods like RoPE.",
+   "checked": "2026-11-18",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "sebastian-raschka",
+   "url": "https://sebastianraschka.com/blog/2026/llm-pretraining-without-learning-rate-decay.html",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "文章",
+   "summary_zh": "Raschka 指出預訓練配方出現新趨勢：不再設學習率衰減階段，改用固定學習率加最後 N 個檢查點平均；並比較 cosine decay、warmup-stable-decay 與無衰減三種做法，以 Kolibri-1 等模型為例。",
+   "quote_en": "This could be the start of a trend in new pre-training recipes: No learning rate (LR) decay phase anymore.",
+   "topics": [
+    "預訓練",
+    "學習率",
+    "檢查點平均"
+   ],
+   "evidence_quote": "This could be the start of a trend in new pre-training recipes: No learning rate (LR) decay phase anymore.",
+   "checked": "2026-11-18",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "dwarkesh-patel",
+   "url": "https://www.dwarkesh.com/p/paul-christiano-2",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "訪談",
+   "summary_zh": "Dwarkesh 訪問對齊研究中心負責人 Paul Christiano。Christiano 認為若不減速，一年內出現足以推翻政府的超級智能約有三分之一機會，並主張實驗室應先暫停演算法進展，直至權重與研究機密獲得保障。",
+   "quote_en": "I would say we are looking more like a 10% risk than a 1% risk over the next year.",
+   "topics": [
+    "超級智能",
+    "AI 安全",
+    "遞歸自我改進"
+   ],
+   "evidence_quote": "Paul thinks that on the current trajectory (absent any slowing down), there is a 1 in 3 chance that we could have superintelligence powerful enough to overthrow the government within a year.",
+   "checked": "2026-11-18",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "dylan-patel",
+   "url": "https://www.youtube.com/watch?v=cBArIbI6gVA",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "訪談",
+   "summary_zh": "Dylan Patel 接受 Sourcery 主持人 Molly O'Shea 訪問，談 AI 市場震盪、數據中心許可延誤，以及 SemiAnalysis 收購 Citrini Research、推出 5 億美元創投基金的布局。",
+   "quote_en": "We've got people in 15 countries. There are about 115 people, with offices in New York, Chicago, San Francisco, Oregon, Singapore, and Korea.",
+   "topics": [
+    "SemiAnalysis",
+    "AI 基建",
+    "創投基金"
+   ],
+   "evidence_quote": "I sat down with Dylan Patel, Founder & CEO of SemiAnalysis, to discuss AI markets",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "發布日期有出入：newsfilter 列為 11 月 16 日，Apple Podcasts 列為 11 月 17 日；YouTube 頁面只寫錄製於 11 月 11 日，未顯示發布日。兩日皆在窗口內，但確實日期待核對"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "platform": "web",
+   "page_date": "2026-11-14",
+   "kind": "其他",
+   "summary_zh": "馬斯克聯署要求 Nvidia 董事會恢復黃仁勳 CEO 職務的公開信。截至 11 月 14 日已有逾 11.5 萬人聯署，包括近 6,000 名 Nvidia 現職員工與逾 6.3 萬名股東；請願網站列明馬斯克於 11 月 13 日以股東身份簽署。",
+   "quote_en": "Jensen deserves due process, not mob justice",
+   "topics": [
+    "Nvidia",
+    "黃仁勳",
+    "公開信"
+   ],
+   "evidence_quote": "Notable supporters include Tesla and SpaceX CEO Elon Musk",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "dylan-patel",
+   "url": "https://www.bidclub.ai/e/dylan-patel-nvidia-s-future-semianalysis-his-500",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "訪談",
+   "summary_zh": "Dylan Patel 接受 Sourcery 訪問，談 SemiAnalysis 已擴至 115 人、15 個國家，追蹤全球數據中心，並評論黃仁勳離任對 Nvidia 與 AI 基建的餘波，以及他新設的 5 億美元創投基金。",
+   "quote_en": "We've got people in 15 countries. There are about 115 people, with offices in New York, Chicago, San Francisco, Oregon, Singapore, and Korea.",
+   "topics": [
+    "SemiAnalysis",
+    "數據中心",
+    "Nvidia"
+   ],
+   "evidence_quote": "We track every data center in the world, and as a firm, we know more about data centers than anyone else.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "訪問日期未見於逐字稿頁面，依 Sourcery 節目表（11 月 16 日）與 AT Pulse 當日簡報核對"
   }
  ],
  "updated": "2026-11-18"
