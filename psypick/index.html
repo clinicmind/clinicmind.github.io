@@ -38,6 +38,7 @@
         <a href="#/saved" data-t="navSaved">★ 收藏</a>
         <a id="nav-support" class="nav-support" href="#" target="_blank" rel="noopener noreferrer" hidden>☕</a>
         <button type="button" class="lang-toggle" id="search-btn" aria-label="搜尋 Search">搜尋 <span class="kbd" aria-hidden="true">Ctrl K</span></button>
+        <button type="button" class="lang-toggle" id="theme-btn" aria-label="深淺色 Dark/Light">深色</button>
         <button type="button" class="lang-toggle" id="lang-toggle">EN</button>
       </nav>
       <button type="button" class="help-btn" id="help-btn" aria-expanded="false" aria-controls="help-pop">?</button>
@@ -46,7 +47,7 @@
   </div>
   <div id="help-pop" class="help-pop" role="dialog" hidden></div>
 </header>
-<div class="container"><main id="app"><div class="status-line">載入中…</div></main>
+<div class="container"><div class="statusbar" id="statusbar" hidden></div><main id="app"><div class="status-line">載入中…</div></main>
 <footer class="site-footer">
   <span class="footer-brand"><img class="mark-light" src="brand/mark.svg" alt="" width="18" height="18"><img class="mark-dark" src="brand/mark-dark.svg" alt="" width="18" height="18">臨床心語 ClinicMind</span>
   <span data-t="appName">知心選</span><span data-t="tagline">AI × 心理學的案例訊號站</span>

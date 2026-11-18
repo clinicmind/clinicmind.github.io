@@ -10,15 +10,15 @@
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #15221f; --surface: #1c2c28; --surface-2: #243630; --ink: #ECEAE3; --ink-2: #B7C4BE; --ink-3: #93A59E;
-    --line: #2F433D; --accent: #D4AE8C; --accent-text: #D4AE8C; --primary: #89A49C; --primary-deep: #A7C1B8; --sage: #89A49C;
-    --danger: #ef8a7d; --ok: #8CC3A9; --warn: #D4AE8C;
+    --bg: #0F1F1C; --surface: #162B27; --surface-2: #1D3833; --ink: #E6ECE8; --ink-2: #A9BDB6; --ink-3: #8FA89E;
+    --line: #2A4A44; --accent: #D4AE8C; --accent-text: #D4AE8C; --primary: #89A49C; --primary-deep: #A7C1B8; --sage: #89A49C;
+    --danger: #ef8a7d; --ok: #8CC3A9; --warn: #D9B596;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #15221f; --surface: #1c2c28; --surface-2: #243630; --ink: #ECEAE3; --ink-2: #B7C4BE; --ink-3: #93A59E;
-  --line: #2F433D; --accent: #D4AE8C; --accent-text: #D4AE8C; --primary: #89A49C; --primary-deep: #A7C1B8; --sage: #89A49C;
-  --danger: #ef8a7d; --ok: #8CC3A9; --warn: #D4AE8C;
+  --bg: #0F1F1C; --surface: #162B27; --surface-2: #1D3833; --ink: #E6ECE8; --ink-2: #A9BDB6; --ink-3: #8FA89E;
+  --line: #2A4A44; --accent: #D4AE8C; --accent-text: #D4AE8C; --primary: #89A49C; --primary-deep: #A7C1B8; --sage: #89A49C;
+  --danger: #ef8a7d; --ok: #8CC3A9; --warn: #D9B596;
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--ui-font); line-height: 1.7; }
@@ -131,6 +131,15 @@ h1, h2, h3, .page-title, .detail-title, .card-title, .section-title { font-famil
 .more-row { text-align: center; margin: 18px 0 6px; }
 .more-btn { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 9px 26px; cursor: pointer; font-size: 14px; min-height: 44px; }
 .more-btn:hover { border-color: var(--sage); }
+
+/* T3-5：狀態列與首頁精選條 */
+.statusbar { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 13px; color: var(--ink-2); padding: 10px 2px 0; }
+.statusbar[hidden] { display: none; }
+.dot-live { width: 8px; height: 8px; border-radius: 50%; background: var(--primary); flex: none; }
+.status-links { margin-left: auto; display: inline-flex; gap: 14px; }
+.status-links a { color: var(--ink-2); text-decoration: none; }
+.status-links a:hover { color: var(--primary); text-decoration: underline; }
+.strip-title { font-family: var(--font-display); font-size: 19px; margin: 20px 0 10px; }
 
 /* T3-4：置頂篩選列、主搜尋區、快捷鍵標示 */
 .hero-search { margin: 20px 0 0; }

@@ -11,6 +11,9 @@
       heroTitle: "為臨床工作者篩選的研究、培訓與動向", evAll: "證據等級：全部", evHigh: "EV 3–4 較強", evMid: "EV 1–2", evLow: "EV 0 線索",
       feeAll: "費用：全部", feeFree: "免費", feeLow: "US$50 以下", sortNew: "日期：最新", sortOld: "日期：最舊", sortSoon: "即將截止",
       domAll: "主題：全部", confChip: "會議",
+      cdToday: "今日舉行", cdTomorrow: "明日舉行", cdDays: "{n} 日後舉行", cdTodayDl: "今日截止", cdTomorrowDl: "明日截止", cdDaysDl: "{n} 日後截止",
+      stripFeatured: "本週精選", stripSoon: "即將舉行・截止", statusUpdated: "資料更新", statusItems: "則條目", statusFigures: "人物 {p} 位／{u} 則動向", statusConf: "會議 {n} 項",
+      themeDark: "深色", themeLight: "淺色", navFeatured: "精選", navTraining: "進修", navFigures: "人物動向",
       free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分",
       archive: "歸檔（{n}）", noMatches: "沒有符合條件的案例", back: "← 返回", save: "收藏", saved: "已收藏",
       brief: "看點", psych: "心理學視角", evidence: "證據等級", population: "適用對象", flags: "倫理旗標", concepts: "相關概念",
@@ -36,6 +39,9 @@
       heroTitle: "Research, training and voices, screened for clinicians", evAll: "Evidence: all", evHigh: "EV 3–4 stronger", evMid: "EV 1–2", evLow: "EV 0 signals",
       feeAll: "Fee: all", feeFree: "Free", feeLow: "Under US$50", sortNew: "Date: newest", sortOld: "Date: oldest", sortSoon: "Closing soon",
       domAll: "Topic: all", confChip: "Conferences",
+      cdToday: "Today", cdTomorrow: "Tomorrow", cdDays: "In {n} days", cdTodayDl: "Closes today", cdTomorrowDl: "Closes tomorrow", cdDaysDl: "Closes in {n} days",
+      stripFeatured: "Featured this week", stripSoon: "Coming up", statusUpdated: "Updated", statusItems: "items", statusFigures: "{p} voices / {u} updates", statusConf: "{n} conferences",
+      themeDark: "Dark", themeLight: "Light", navFeatured: "Featured", navTraining: "Training", navFigures: "Voices",
       free: "Free", lowCost: "Low cost", deadline: "Deadline", soon: "Closing soon", anytime: "Self-paced", ce: "CE credits",
       archive: "Archive ({n})", noMatches: "No matching cases", back: "← Back", save: "Save", saved: "Saved",
       brief: "Highlights", psych: "Psychology lens", evidence: "Evidence", population: "Population", flags: "Ethics flags", concepts: "Concepts",
@@ -57,15 +63,26 @@
 
   // ---------- 本機偏好（收藏、已讀、語言）；讀寫失敗時照常運作 ----------
   var STORE_KEY = "psypick:v1";
-  var prefs = { lang: null, favorites: [], readMarks: {} };
+  var prefs = { lang: null, favorites: [], readMarks: {}, theme: null };
   try {
     var raw = JSON.parse(localStorage.getItem(STORE_KEY) || "null");
     if (raw && typeof raw === "object") {
       prefs.lang = raw.lang === "en" || raw.lang === "zh" ? raw.lang : null;
       prefs.favorites = Array.isArray(raw.favorites) ? raw.favorites : [];
       prefs.readMarks = raw.readMarks && typeof raw.readMarks === "object" ? raw.readMarks : {};
+      prefs.theme = raw.theme === "dark" || raw.theme === "light" ? raw.theme : null;
     }
   } catch (e) { /* ignore */ }
+  // T3-5：深淺色手動切換（預設跟系統；撳過就記住）
+  function isDark() {
+    if (prefs.theme) return prefs.theme === "dark";
+    return !!(window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+  }
+  function applyTheme() {
+    if (prefs.theme) document.documentElement.setAttribute("data-theme", prefs.theme);
+    else document.documentElement.removeAttribute("data-theme");
+  }
+  applyTheme();
   if (!prefs.lang) {
     var langs = (navigator.languages || [navigator.language || ""]).join(",").toLowerCase();
     prefs.lang = /(^|,)zh|-(hk|mo|tw)(,|$)/.test(langs) ? "zh" : "en";
@@ -136,11 +153,12 @@
   // T3-3／T3-5：Clinical Signal 卡片——分類字母標記＋日期、標題 2 行、摘要 3 行、
   // 底行：證據量表（5 格，填格數＝等級＋1）／來源網域／狀態標記。培訓卡不顯示量表。
   function catMark(name) { var c = catInfo(name); return c.mark || catLabel(name).charAt(0); }
-  function evMeter(level) {
+  function evMeter(level, bare) {
     if (level == null) return "";
     var n = Math.max(0, Math.min(5, level + 1)), cells = "";
     for (var i = 0; i < 5; i++) cells += '<i class="' + (i < n ? "on" : "") + '"></i>';
-    return '<span class="meter" role="img" aria-label="' + t("evidence") + " E" + level + '">' + cells + '</span><span class="evnum">EV ' + level + "</span>";
+    var m = '<span class="meter" role="img" aria-label="' + t("evidence") + " E" + level + '">' + cells + "</span>";
+    return bare ? m : m + '<span class="evnum">EV ' + level + "</span>";
   }
   function statusBadge(c) {
     if (c.tier === "archive") return '<span class="badge badge-muted">' + t("ended") + "</span>";
@@ -183,10 +201,44 @@
   }
   function grid(list) { return '<div class="grid">' + list.map(cardHTML).join("") + "</div>"; }
 
-  // T3-5 實作；T3-3 先留空位，培訓卡倒數標記在 T3-5 加入。
-  function countdownChip(c) { return ""; }
-  // T3-5 實作；T3-4 先留空位，會議數量在 T3-5 由 version.json 填入。
-  function fillConfCount() { }
+  // T3-5：培訓倒數——取 event_date 與 deadline 中較近的未來日期；
+  // 7 日內用警示色（.hot）。已過期或無日期就不顯示。
+  function dayDiff(iso) {
+    var d = new Date(String(iso).slice(0, 10) + "T00:00:00");
+    if (isNaN(d)) return null;
+    var now = new Date(); now.setHours(0, 0, 0, 0);
+    return Math.round((d - now) / 864e5);
+  }
+  function countdownChip(c) {
+    if (!isTrainingCat(c) || c.tier === "archive") return "";
+    var tr = c.training || {}, cands = [];
+    if (/^\d{4}-\d{2}-\d{2}/.test(tr.event_date || "")) { var de = dayDiff(tr.event_date); if (de !== null && de >= 0) cands.push({ d: de, dl: false }); }
+    if (/^\d{4}-\d{2}-\d{2}/.test(tr.deadline || "")) { var dd = dayDiff(tr.deadline); if (dd !== null && dd >= 0) cands.push({ d: dd, dl: true }); }
+    if (!cands.length) return "";
+    cands.sort(function (a, b) { return a.d - b.d; });
+    var pick1 = cands[0], txt;
+    if (pick1.dl) txt = pick1.d === 0 ? t("cdTodayDl") : pick1.d === 1 ? t("cdTomorrowDl") : t("cdDaysDl", { n: pick1.d });
+    else txt = pick1.d === 0 ? t("cdToday") : pick1.d === 1 ? t("cdTomorrow") : t("cdDays", { n: pick1.d });
+    return '<span class="count' + (pick1.d <= 7 ? " hot" : "") + '">' + txt + "</span>";
+  }
+  // T3-5：狀態列與會議數量，讀 data/version.json（部署時由 build.py 產生）。
+  var VERSION = null;
+  function fillConfCount() {
+    var el = document.getElementById("conf-count");
+    if (el && VERSION) el.textContent = VERSION.counts.conferences;
+  }
+  function renderStatusbar() {
+    var bar = document.getElementById("statusbar");
+    if (!bar || !VERSION) return;
+    var d = String(VERSION.built_at || "").slice(0, 10), n = VERSION.counts;
+    bar.innerHTML = '<span class="dot-live" aria-hidden="true"></span><span>' + t("statusUpdated") + " " + esc(d) + " · " + n.index + " " + t("statusItems") +
+      " · " + t("statusFigures", { p: n.figures_people, u: n.figures_updates }) + " · " + t("statusConf", { n: n.conferences }) + "</span>" +
+      '<span class="status-links"><a href="#/featured">' + t("navFeatured") + '</a><a href="#/training">' + t("navTraining") + '</a><a href="#/figures">' + t("navFigures") + "</a></span>";
+    bar.hidden = false;
+  }
+  fetch("data/version.json").then(function (r) { return r.ok ? r.json() : null; }).then(function (v) {
+    if (v && v.counts) { VERSION = v; renderStatusbar(); fillConfCount(); }
+  }).catch(function () { /* 讀不到就不顯示狀態列 */ });
 
   // ---------- 頁面 ----------
   var homeState = { cat: null, dom: null, q: "", view: "card", shown: 24, ev: "", fee: "", sort: "new" };
@@ -260,11 +312,26 @@
       '<span class="viewtoggle" role="group" aria-label="' + t("viewCard") + "／" + t("viewList") + '">' +
       '<button type="button" data-view="card"' + (homeState.view === "card" ? ' class="on"' : "") + ">" + t("viewCard") + '</button>' +
       '<button type="button" data-view="list"' + (homeState.view === "list" ? ' class="on"' : "") + ">" + t("viewList") + "</button></span></div></div>" +
-      '<div id="results"></div>';
+      '<div id="strips">' + homeStrips() + '</div><div id="results"></div>';
     renderResults();
     fillConfCount();
     if (wantSearchFocus) { wantSearchFocus = false; var s0 = document.getElementById("search"); if (s0) s0.focus(); }
     document.getElementById("search").addEventListener("input", function (e) { homeState.q = e.target.value; homeState.shown = 24; syncHomeHash(); renderResults(); });
+  }
+  // T3-5：首頁首屏條——本週精選 3 則（熱度最高）＋即將舉行／截止培訓 3 則（日期最近）。
+  // 有任何篩選時不顯示，還原成純列表。
+  function effDate(c) {
+    var tr = c.training || {}, ds = [tr.event_date, tr.deadline].filter(function (x) { return /^\d{4}-\d{2}-\d{2}/.test(x || "") && dayDiff(x) !== null && dayDiff(x) >= 0; });
+    return ds.length ? ds.sort()[0] : null;
+  }
+  function homeStrips() {
+    if (homeState.cat || homeState.dom || homeState.q || homeState.ev || homeState.fee || homeState.sort !== "new") return "";
+    var live = DATA.cases.filter(function (c) { return c.tier !== "archive"; });
+    var feat = live.slice().sort(function (a, b) { return (b.hot_score || 0) - (a.hot_score || 0); }).slice(0, 3);
+    var soon = live.filter(function (c) { return isTrainingCat(c) && effDate(c); })
+      .sort(function (a, b) { return effDate(a) < effDate(b) ? -1 : 1; }).slice(0, 3);
+    return (feat.length ? '<h2 class="strip-title">' + t("stripFeatured") + "</h2>" + grid(feat) : "") +
+      (soon.length ? '<h2 class="strip-title">' + t("stripSoon") + "</h2>" + grid(soon) : "");
   }
   function evPass(c) {
     if (!homeState.ev) return true;
@@ -281,6 +348,8 @@
     return homeState.fee === "free" ? pt === "免費" : (pt === "免費" || pt === "低價");
   }
   function renderResults() {
+    var stripsEl = document.getElementById("strips");
+    if (stripsEl) stripsEl.innerHTML = homeStrips();
     if (!DATA.cases.length) { document.getElementById("results").innerHTML = '<div class="status-line">' + t("empty") + "</div>"; return; }
     var list = DATA.cases.filter(function (c) { return (!homeState.cat || c.category === homeState.cat) && (!homeState.dom || inDomain(c, homeState.dom)) && matches(c, homeState.q) && evPass(c) && feePass(c); });
     if (homeState.sort === "old") list.sort(function (a, b) { return String(when(a)) < String(when(b)) ? -1 : 1; });
@@ -387,7 +456,7 @@
       var aside = "";
       if (!isTraining && ev) {
         aside += '<div class="panel"><h4>' + t("psych") + "</h4>";
-        aside += '<dl class="kv"><dt>' + t("evidence") + "</dt><dd>E" + esc(c.evidence_level) + " " + esc(ev[prefs.lang]) + (c.evidence_note ? '<div class="ref">' + esc(c.evidence_note) + "</div>" : "") + "</dd>" +
+        aside += '<dl class="kv"><dt>' + t("evidence") + "</dt><dd>" + evMeter(c.evidence_level, true) + " E" + esc(c.evidence_level) + " " + esc(ev[prefs.lang]) + (c.evidence_note ? '<div class="ref">' + esc(c.evidence_note) + "</div>" : "") + "</dd>" +
           ((c.population || []).length ? "<dt>" + t("population") + "</dt><dd>" + esc(c.population.join("、")) + "</dd>" : "") + "</dl>";
         aside += "</div>";
       }
@@ -850,6 +919,9 @@
     document.documentElement.lang = prefs.lang === "en" ? "en" : "zh-Hant";
     document.querySelectorAll("[data-t]").forEach(function (el) { el.textContent = t(el.getAttribute("data-t")); });
     document.getElementById("lang-toggle").textContent = t("langLabel");
+    var tb = document.getElementById("theme-btn");
+    if (tb) tb.textContent = isDark() ? t("themeLight") : t("themeDark");
+    renderStatusbar();
     renderSupport();
     document.title = t("appName") + (prefs.lang === "en" ? "" : " PsyPick");
     var c = DATA ? DATA.config : { half_life_days: 14, featured_min_score: 4, featured_top_n: 8 };
@@ -1023,6 +1095,9 @@
   getJSON("support.json").then(function (d) { SUPPORT = d; renderSupport(); }, function () { /* 沒有檔案就不顯示 */ });
   document.getElementById("lang-toggle").addEventListener("click", function () { prefs.lang = prefs.lang === "zh" ? "en" : "zh"; persist(); route(); });
   document.getElementById("search-btn").addEventListener("click", goSearch);
+  document.getElementById("theme-btn").addEventListener("click", function () {
+    prefs.theme = isDark() ? "light" : "dark"; persist(); applyTheme(); applyChrome();
+  });
   document.getElementById("help-btn").addEventListener("click", function () {
     var pop = document.getElementById("help-pop"), open = pop.hidden; pop.hidden = !open; this.setAttribute("aria-expanded", open);
   });
