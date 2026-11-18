@@ -1,6 +1,8 @@
 name: Deploy Pages
 
 # T2-3：檢查通過才部署。validate.py 失敗 → 不部署，真網站保持上一版。
+# 順序注意（2026-11-18 修正）：必須先跑 build.py 產生 index.json，再跑 validate.py；
+# 反過來會令只推 case 檔的提交因 index 未同步而驗證失敗（validate 規則 b）。
 # 本檔須由 Gu 在 GitHub 網頁版人手新增至 clinicmind/clinicmind.github.io 的
 # .github/workflows/pages.yml（Muse 的 GitHub App 沒有 Workflows 權限）。
 
@@ -31,11 +33,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Validate PsyPick data
-        run: python3 tools/validate.py --data-dir psypick/data
-
       - name: Build PsyPick index and version
         run: python3 tools/psypick/build.py --data-dir psypick/data --sha "${{ github.sha }}"
+
+      - name: Validate PsyPick data
+        run: python3 tools/validate.py --data-dir psypick/data
 
       - uses: actions/configure-pages@v5
 
