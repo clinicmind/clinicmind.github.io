@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:59:12+00:00",
+  "generated_at": "2026-11-17T23:29:32+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -131,6 +131,120 @@
     "featured_top_n": 8
   },
   "cases": [
+    {
+      "slug": "otto-kernberg-personality-disorders-treatment-free-webinar",
+      "title_zh": "免費網上講座：Otto Kernberg 談人格障礙及其治療（11 月 28 日，西班牙語）",
+      "title_en": "Free webinar with Otto Kernberg: personality disorders and their treatment (28 November 2026, in Spanish)",
+      "summary_zh": "智利人格障礙學院（Instituto Chileno de Trastornos de la Personalidad，ICHTP）舉辦免費 90 分鐘網上研討會，由 Otto Kernberg（精神科醫生、精神分析師，移情焦點治療 TFP 的發展者）主講，介紹人格障礙及其治療、分辨不同人格障礙的準則，以及主導防衛機制與人際關係的關連。2026 年 11 月 28 日（星期六）智利時間 12:00–13:30 舉行（香港／澳門時間 11 月 28 日 23:00 至 11 月 29 日 00:30），Zoom 進行，免費參加，須預先報名。對象為精神健康專業人員與學生。",
+      "summary_en": "A free 90-minute online seminar from the Instituto Chileno de Trastornos de la Personalidad (ICHTP) with Otto Kernberg (psychiatrist and psychoanalyst, developer of Transference-Focused Psychotherapy, TFP), introducing personality disorders and their treatment, differential criteria for assessing personality disorders, and how predominant defense mechanisms shape interpersonal relationships. Held Saturday 28 November 2026, 12:00-13:30 Chile time (23:00 on 28 November to 00:30 on 29 November in Hong Kong/Macau), via Zoom, free with registration. For mental health professionals and students.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "人格障礙",
+        "移情焦點治療",
+        "免費培訓",
+        "Otto Kernberg"
+      ],
+      "first_seen_at": "2026-11-17T23:27:04+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-17T23:27:04+00:00",
+      "training": {
+        "provider": "Instituto Chileno de Trastornos de la Personalidad（ICHTP）",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "西班牙語（頁面未提及英語傳譯，待查證）",
+        "event_date": "2026-11-28",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "covid-19-caregiver-loss-children-mental-health-evidence-gap",
+      "title_zh": "疫情喪親兒童青少年心理健康：全球約 1,050 萬人受影響，但六年來僅兩個隊列有量化數據",
+      "title_en": "Mental health outcomes following COVID-19-associated caregiver loss in children and adolescents: a six-year evidence gap",
+      "summary_zh": "Frontiers in Psychiatry 2026 年 11 月 4 日刊出的觀點文章：截至 2022 年 5 月，全球估計有 1,050 萬名兒童因 COVID-19 失去父母或照顧者（其中約 750 萬人成為孤兒）。作者系統性搜尋 2020 年 1 月至 2026 年 6 月的文獻（PubMed、APA PsycINFO、Web of Science、Scopus），只找到兩個有量化心理健康數據的隊列：伊朗 44 名喪親青少年（對照 44 人，追蹤 18 個月）與南非 OCAY 隊列 421 人（喪親 211 人、對照 210 人）。兩組喪親兒童青少年的精神與心理社會困難均多於對照組：伊朗隊列的自殺意念由 0% 升至 34.1%，且無一人曾接受精神健康服務；南非隊列的中重度焦慮（14.7% 對 8.1%）、自殺意念（9.0% 對 3.8%）與自傷意念（9.5% 對 3.8%）均高於對照組。秘魯、墨西哥、巴西、印度、美國等負擔最重的國家全無量化數據。",
+      "summary_en": "A Perspective article in Frontiers in Psychiatry (4 November 2026): by May 2022, an estimated 10.5 million children worldwide had lost a parent or caregiver to COVID-19 (about 7.5 million orphaned). The authors systematically searched the literature from January 2020 to June 2026 (PubMed, APA PsycINFO, Web of Science, Scopus) and found only two cohorts with quantitative mental-health data: 44 bereaved adolescents in Iran (44 matched controls, 18-month follow-up) and the South African OCAY cohort of 421 children and adolescents (211 bereaved, 210 controls). In both, bereaved children had more psychiatric and psychosocial difficulties than controls: in Iran, suicidal ideation rose from 0% to 34.1% and no participant received mental-health care; in South Africa, moderate-to-severe anxiety (14.7% vs 8.1%), suicidal ideation (9.0% vs 3.8%) and self-harm ideation (9.5% vs 3.8%) were all higher among bereaved participants. No quantitative data exist from Peru, Mexico, Brazil, India or the United States, among the highest-burden countries.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "喪親",
+        "哀傷",
+        "兒童青少年",
+        "COVID-19",
+        "自殺意念",
+        "證據缺口"
+      ],
+      "first_seen_at": "2026-11-17T23:27:04+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "date": "2026-11-17T23:27:04+00:00"
+    },
+    {
+      "slug": "couples-experiential-webinar-terry-real-relational-life",
+      "title_zh": "免費網上培訓：Terry Real 伴侶治療體驗課——穿過防衛，觸及受傷的核心（11 月 19 日，有重播）",
+      "title_en": "Couples experiential webinar: how to get past a couple's defenses to the hurt keeping them apart (Terry Real, Relational Life Therapy)",
+      "summary_zh": "Relational Life Institute 免費 90 分鐘網上直播培訓，由 Terry Real（LICSW，Relational Life Therapy 創立人）主講。參加者觀看一對夫婦首次會談的真實片段，Terry Real 逐段講解他如何辨認二人互相傷害與退縮的循環、在哪裡介入、用了哪些 Relational Life Therapy 工具，以及如何引導雙方理解彼此行為背後的童年經驗、重建同情。課後亦有該夫婦 9 個月後的跟進分享，另設即場問答。2026 年 11 月 19 日美國東部時間 12:00–13:30 舉行（香港／澳門時間 11 月 20 日凌晨 1:00–2:30）；報名後可收重播。對象為從事伴侶工作的治療師、輔導員、心理學家、社工與關係教練，不需具備 Relational Life Therapy 背景。",
+      "summary_en": "A free 90-minute live online training from the Relational Life Institute with Terry Real (LICSW, creator of Relational Life Therapy). Participants watch excerpts from a real couple's first session while Real explains, clip by clip, how he identifies the couple's cycle of hurt and withdrawal, where he intervenes, and which Relational Life Therapy tools he uses, including exploring childhood experiences behind each partner's reactions. The couple also share a 9-month follow-up, and the session ends with live Q&A. Held 19 November 2026, 12:00-13:30 ET (01:00-02:30 on 20 November in Hong Kong/Macau); a replay is sent to registrants. For therapists, counsellors, psychologists, social workers and relationship coaches who work with couples; no prior Relational Life Therapy background needed.",
+      "category": "進修與培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "伴侶治療",
+        "Relational Life Therapy",
+        "免費培訓",
+        "Terry Real"
+      ],
+      "first_seen_at": "2026-11-17T23:27:04+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "date": "2026-11-17T23:27:04+00:00",
+      "training": {
+        "provider": "Relational Life Institute",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英語",
+        "event_date": "2026-11-19",
+        "deadline": ""
+      },
+      "deadline_soon": true
+    },
     {
       "slug": "comparative-efficacy-and-acceptability-of-antidepressants-in",
       "title_zh": "長期抗抑鬱藥比較：115 項試驗統合分析——escitalopram、duloxetine、agomelatine 維持療效較 fluoxetine 佳",

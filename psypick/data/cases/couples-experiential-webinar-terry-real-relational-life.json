@@ -1,0 +1,73 @@
+{
+  "psych_concepts": [],
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_en": [],
+  "model_names": [],
+  "original_prompt": "",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "first_seen_at": "2026-11-17T23:27:04+00:00",
+  "date": "2026-11-17T23:27:04+00:00",
+  "title_zh": "免費網上培訓：Terry Real 伴侶治療體驗課——穿過防衛，觸及受傷的核心（11 月 19 日，有重播）",
+  "title_en": "Couples experiential webinar: how to get past a couple's defenses to the hurt keeping them apart (Terry Real, Relational Life Therapy)",
+  "summary_zh": "Relational Life Institute 免費 90 分鐘網上直播培訓，由 Terry Real（LICSW，Relational Life Therapy 創立人）主講。參加者觀看一對夫婦首次會談的真實片段，Terry Real 逐段講解他如何辨認二人互相傷害與退縮的循環、在哪裡介入、用了哪些 Relational Life Therapy 工具，以及如何引導雙方理解彼此行為背後的童年經驗、重建同情。課後亦有該夫婦 9 個月後的跟進分享，另設即場問答。2026 年 11 月 19 日美國東部時間 12:00–13:30 舉行（香港／澳門時間 11 月 20 日凌晨 1:00–2:30）；報名後可收重播。對象為從事伴侶工作的治療師、輔導員、心理學家、社工與關係教練，不需具備 Relational Life Therapy 背景。",
+  "summary_en": "A free 90-minute live online training from the Relational Life Institute with Terry Real (LICSW, creator of Relational Life Therapy). Participants watch excerpts from a real couple's first session while Real explains, clip by clip, how he identifies the couple's cycle of hurt and withdrawal, where he intervenes, and which Relational Life Therapy tools he uses, including exploring childhood experiences behind each partner's reactions. The couple also share a 9-month follow-up, and the session ends with live Q&A. Held 19 November 2026, 12:00-13:30 ET (01:00-02:30 on 20 November in Hong Kong/Macau); a replay is sent to registrants. For therapists, counsellors, psychologists, social workers and relationship coaches who work with couples; no prior Relational Life Therapy background needed.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓頁面（Relational Life Institute；2026 年 11 月 19 日美國東部時間 12:00–13:30；免費；經原頁核實；頁面未提及 CE 學分）",
+  "ethics_flags": [],
+  "caution": "教學示範片段不等同完整治療；頁面未提及 CE 學分；本課為 Relational Life Therapy 商業培訓體系的入門示範，該方法的實證基礎不在本條目討論範圍；香港／澳門時間為深夜，建議看重播。",
+  "brief_zh": [
+    "講者：Terry Real（LICSW，Relational Life Therapy 創立人，紐約時報暢銷書作者）",
+    "內容：觀看真實夫婦首次會談片段，逐段講解辨認傷害—退縮循環、介入點與所用工具，另有 9 個月後跟進分享與即場問答",
+    "日期：2026 年 11 月 19 日 12:00–13:30（美國東部時間）；香港／澳門時間 11 月 20 日凌晨 1:00–2:30",
+    "費用：免費參加；報名後可收重播",
+    "對象：從事伴侶工作的治療師、輔導員、心理學家、社工與關係教練；不需具備 Relational Life Therapy 背景",
+    "形式：全程線上直播"
+  ],
+  "tags": [
+    "伴侶治療",
+    "Relational Life Therapy",
+    "免費培訓",
+    "Terry Real"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "一對夫婦互相指責、其中一方沉默退縮時，你會如何向他們指出這個循環，而不令任何一方覺得自己被針對？"
+  ],
+  "training": {
+    "provider": "Relational Life Institute",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-11-19",
+    "format": "線上直播",
+    "event_time_note": "12:00–13:30（美國東部時間；香港／澳門時間 11 月 20 日 01:00–02:30；報名後可收重播）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://relationallife.com/couples-experiential-webinar-november-2026/",
+      "author_handle": "",
+      "author_name": "Relational Life Institute",
+      "title": "Couples Experiential Webinar: How To Get Past a Couple's Defenses to the Hurt That's Keeping Them Apart (19 November 2026)",
+      "content": "培訓頁面：Terry Real 免費 90 分鐘伴侶治療體驗課，2026 年 11 月 19 日美國東部時間 12:00–13:30，線上直播，有重播。",
+      "posted_at": "2026-11-19T00:00:00+00:00"
+    }
+  ],
+  "slug": "couples-experiential-webinar-terry-real-relational-life",
+  "evidence_quote": "How To Get Past a Couple's Defenses",
+  "page_date": "2026-11-19"
+}

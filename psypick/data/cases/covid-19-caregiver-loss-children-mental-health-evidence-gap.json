@@ -1,0 +1,73 @@
+{
+  "psych_concepts": [],
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_en": [],
+  "model_names": [],
+  "original_prompt": "",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "first_seen_at": "2026-11-17T23:27:04+00:00",
+  "date": "2026-11-17T23:27:04+00:00",
+  "title_zh": "疫情喪親兒童青少年心理健康：全球約 1,050 萬人受影響，但六年來僅兩個隊列有量化數據",
+  "title_en": "Mental health outcomes following COVID-19-associated caregiver loss in children and adolescents: a six-year evidence gap",
+  "summary_zh": "Frontiers in Psychiatry 2026 年 11 月 4 日刊出的觀點文章：截至 2022 年 5 月，全球估計有 1,050 萬名兒童因 COVID-19 失去父母或照顧者（其中約 750 萬人成為孤兒）。作者系統性搜尋 2020 年 1 月至 2026 年 6 月的文獻（PubMed、APA PsycINFO、Web of Science、Scopus），只找到兩個有量化心理健康數據的隊列：伊朗 44 名喪親青少年（對照 44 人，追蹤 18 個月）與南非 OCAY 隊列 421 人（喪親 211 人、對照 210 人）。兩組喪親兒童青少年的精神與心理社會困難均多於對照組：伊朗隊列的自殺意念由 0% 升至 34.1%，且無一人曾接受精神健康服務；南非隊列的中重度焦慮（14.7% 對 8.1%）、自殺意念（9.0% 對 3.8%）與自傷意念（9.5% 對 3.8%）均高於對照組。秘魯、墨西哥、巴西、印度、美國等負擔最重的國家全無量化數據。",
+  "summary_en": "A Perspective article in Frontiers in Psychiatry (4 November 2026): by May 2022, an estimated 10.5 million children worldwide had lost a parent or caregiver to COVID-19 (about 7.5 million orphaned). The authors systematically searched the literature from January 2020 to June 2026 (PubMed, APA PsycINFO, Web of Science, Scopus) and found only two cohorts with quantitative mental-health data: 44 bereaved adolescents in Iran (44 matched controls, 18-month follow-up) and the South African OCAY cohort of 421 children and adolescents (211 bereaved, 210 controls). In both, bereaved children had more psychiatric and psychosocial difficulties than controls: in Iran, suicidal ideation rose from 0% to 34.1% and no participant received mental-health care; in South Africa, moderate-to-severe anxiety (14.7% vs 8.1%), suicidal ideation (9.0% vs 3.8%) and self-harm ideation (9.5% vs 3.8%) were all higher among bereaved participants. No quantitative data exist from Peru, Mexico, Brazil, India or the United States, among the highest-burden countries.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "觀點文章（Frontiers in Psychiatry，2026 年 11 月 4 日；DOI: 10.3389/fpsyt.2026.1948689）：系統性文獻搜尋（2020 年 1 月至 2026 年 6 月，四個數據庫）加兩個隊列的量化數據綜述，非原始研究；證據基礎僅兩個小隊列",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "本文報告自殺意念數據（伊朗隊列 18 個月內由 0% 升至 34.1%；南非隊列喪親組 9.0% 對對照組 3.8%）；引用時須附危機求助資訊，不可把群組數字用作個別兒童的風險預測。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    }
+  ],
+  "caution": "觀點文章，非原始研究；量化證據只來自伊朗（n=44）與南非（n=421）兩個隊列，樣本小且場景單一；秘魯、墨西哥、巴西、印度、美國等高負擔國家全無量化數據，結果不可推廣為全球情況；兩篇南非論文屬同一隊列的先後分析，非獨立重複。",
+  "brief_zh": [
+    "規模：截至 2022 年 5 月，全球約 1,050 萬名兒童失去父母或照顧者（約 750 萬人成為孤兒）",
+    "搜尋：系統性搜尋 2020 年 1 月至 2026 年 6 月文獻（PubMed、PsycINFO、Web of Science、Scopus），僅兩個隊列有量化心理健康數據",
+    "伊朗隊列（44 名喪親青少年，對照 44 人，追蹤 18 個月）：內化症狀由 43.2% 升至 61.4%；自殺意念由 0% 升至 34.1%；無一人曾接受精神健康服務",
+    "南非 OCAY 隊列（421 人）：喪親組中重度焦慮 14.7%（對照 8.1%）、自殺意念 9.0%（對照 3.8%）、自傷意念 9.5%（對照 3.8%）；追蹤一年後喪親組的可能精神障礙下降幅度遠小於對照組",
+    "缺口：秘魯、墨西哥、巴西、印度、美國等負擔最重的國家全無量化數據；試驗登記冊至 2026 年 6 月亦無進一步前瞻研究",
+    "作者呼籲：及早辨認、追蹤並按臨床與家庭需要支援這批已步入青少年或成年早期的喪親兒童"
+  ],
+  "tags": [
+    "喪親",
+    "哀傷",
+    "兒童青少年",
+    "COVID-19",
+    "自殺意念",
+    "證據缺口"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "一位在疫情期間失去照顧者的青少年，內化症狀在一年後不跌反升，你會如何分辨這是延長哀傷、抑鬱，還是持續的家庭與經濟壓力所致？"
+  ],
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1948689/full",
+      "author_handle": "",
+      "author_name": "Sumegi Went、Markfeld（Frontiers in Psychiatry）",
+      "title": "Mental health outcomes following COVID-19-associated caregiver loss in children and adolescents: a six-year evidence gap (Frontiers in Psychiatry 2026; DOI: 10.3389/fpsyt.2026.1948689)",
+      "content": "期刊全文（Frontiers）：觀點文章，系統性搜尋 2020 年 1 月至 2026 年 6 月文獻，僅伊朗與南非兩個隊列有量化數據。",
+      "posted_at": "2026-11-04T00:00:00+00:00"
+    }
+  ],
+  "slug": "covid-19-caregiver-loss-children-mental-health-evidence-gap",
+  "evidence_quote": "10.5 million children lost a parent",
+  "page_date": "2026-11-04"
+}

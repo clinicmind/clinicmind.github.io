@@ -1,0 +1,73 @@
+{
+  "psych_concepts": [],
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_en": [],
+  "model_names": [],
+  "original_prompt": "",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "first_seen_at": "2026-11-17T23:27:04+00:00",
+  "date": "2026-11-17T23:27:04+00:00",
+  "title_zh": "免費網上講座：Otto Kernberg 談人格障礙及其治療（11 月 28 日，西班牙語）",
+  "title_en": "Free webinar with Otto Kernberg: personality disorders and their treatment (28 November 2026, in Spanish)",
+  "summary_zh": "智利人格障礙學院（Instituto Chileno de Trastornos de la Personalidad，ICHTP）舉辦免費 90 分鐘網上研討會，由 Otto Kernberg（精神科醫生、精神分析師，移情焦點治療 TFP 的發展者）主講，介紹人格障礙及其治療、分辨不同人格障礙的準則，以及主導防衛機制與人際關係的關連。2026 年 11 月 28 日（星期六）智利時間 12:00–13:30 舉行（香港／澳門時間 11 月 28 日 23:00 至 11 月 29 日 00:30），Zoom 進行，免費參加，須預先報名。對象為精神健康專業人員與學生。",
+  "summary_en": "A free 90-minute online seminar from the Instituto Chileno de Trastornos de la Personalidad (ICHTP) with Otto Kernberg (psychiatrist and psychoanalyst, developer of Transference-Focused Psychotherapy, TFP), introducing personality disorders and their treatment, differential criteria for assessing personality disorders, and how predominant defense mechanisms shape interpersonal relationships. Held Saturday 28 November 2026, 12:00-13:30 Chile time (23:00 on 28 November to 00:30 on 29 November in Hong Kong/Macau), via Zoom, free with registration. For mental health professionals and students.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓頁面（ICHTP；2026 年 11 月 28 日智利時間 12:00–13:30；免費；經原頁核實；頁面為西班牙語，未提及英語傳譯，待查證）",
+  "ethics_flags": [],
+  "caution": "頁面全為西班牙語，未提及英語傳譯（待查證），不懂西班牙語的讀者參加前宜先向主辦方查詢語言安排；香港／澳門時間為深夜；本課為入門講座，非完整移情焦點治療（TFP）培訓。",
+  "brief_zh": [
+    "講者：Otto Kernberg（精神科醫生、精神分析師，移情焦點治療 TFP 發展者）",
+    "內容：人格障礙入門、分辨不同人格障礙的準則、防衛機制與人際關係的關連",
+    "日期：2026 年 11 月 28 日（星期六）12:00–13:30（智利時間）；香港／澳門時間 11 月 28 日 23:00 至 11 月 29 日 00:30",
+    "費用：免費參加，須預先報名",
+    "對象：精神健康專業人員與學生",
+    "形式：全程線上（Zoom）"
+  ],
+  "tags": [
+    "人格障礙",
+    "移情焦點治療",
+    "免費培訓",
+    "Otto Kernberg"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "面對一位以分裂與投射性認同為主導防衛的個案，你會如何在初次評估中分辨邊緣與自戀人格組織？"
+  ],
+  "training": {
+    "provider": "Instituto Chileno de Trastornos de la Personalidad（ICHTP）",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "西班牙語（頁面未提及英語傳譯，待查證）",
+    "deadline": "",
+    "event_date": "2026-11-28",
+    "format": "線上直播",
+    "event_time_note": "12:00–13:30（智利時間；香港／澳門時間 11 月 28 日 23:00 至 11 月 29 日 00:30）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://postitulo.ichtp.cl/webinar-otto-kernberg/",
+      "author_handle": "",
+      "author_name": "Instituto Chileno de Trastornos de la Personalidad（ICHTP）",
+      "title": "Webinar gratuito con Otto Kernberg: Trastornos de personalidad y su tratamiento (28 November 2026)",
+      "content": "培訓頁面：Otto Kernberg 免費網上講座，2026 年 11 月 28 日智利時間 12:00–13:30，Zoom 進行。",
+      "posted_at": "2026-11-28T00:00:00+00:00"
+    }
+  ],
+  "slug": "otto-kernberg-personality-disorders-treatment-free-webinar",
+  "evidence_quote": "Trastornos de personalidad",
+  "page_date": "2026-11-28"
+}
