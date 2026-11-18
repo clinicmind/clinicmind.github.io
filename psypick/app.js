@@ -85,10 +85,8 @@
     else document.documentElement.removeAttribute("data-theme");
   }
   applyTheme();
-  if (!prefs.lang) {
-    var langs = (navigator.languages || [navigator.language || ""]).join(",").toLowerCase();
-    prefs.lang = /(^|,)zh|-(hk|mo|tw)(,|$)/.test(langs) ? "zh" : "en";
-  }
+  // T3-8：預設一律繁中；只有使用者親手按過語言切換，先記住佢嘅選擇（切換掣會 persist）。
+  if (!prefs.lang) prefs.lang = "zh";
   function persist() { try { localStorage.setItem(STORE_KEY, JSON.stringify(prefs)); } catch (e) { /* ignore */ } }
   function t(k, vars) {
     var s = (STR[prefs.lang] && STR[prefs.lang][k]) || STR.zh[k] || k;
