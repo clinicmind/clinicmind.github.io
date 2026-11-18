@@ -2,6 +2,14 @@
 
 <https://clinicmind.github.io/> 的原始碼。純靜態 HTML，由 GitHub Pages 直接發布 `main` 分支，沒有建置步驟：合併到 `main` 就會上線。
 
+## 維護前先讀
+
+日常維護規則（PsyPick 上架流程、檢查閘、匯報格式、出事處理）全部寫在 repo 根目錄的 [`CLAUDE.md`](CLAUDE.md)（與 `AGENTS.md` 內容相同）。動手前先讀該檔。
+
+## 知心選 PsyPick
+
+`psypick/` 是主站的一個欄目，資料的唯一來源是 `psypick/data/`（條目一則一檔在 `cases/`，索引由 `tools/psypick/build.py` 產生，不要手改）。舊 repo `clinicmind/psypick` 只作轉址與巡查紀錄（`muse-inbox`）存檔。細節見 `CLAUDE.md`。
+
 ## 目錄結構
 
 ```
@@ -29,6 +37,9 @@
 │   ├── quiz.py           全書 15 題測驗的解析與出題規則
 │   ├── config.json       書目分類與排序
 │   └── vendor/           複製自 clinicmind/clinicmind pipeline/，不要在這裡修改
+├── psypick/              知心選 PsyPick（資料在 data/，維護規則見 CLAUDE.md）
+├── tools/psypick/        PsyPick 索引產生器 build.py；tools/validate.py 是上架檢查閘
+├── CLAUDE.md / AGENTS.md 維護手冊（內容相同）
 ├── sitemap.xml           網站地圖
 ├── llms.txt              給 AI 搜尋引擎的網站摘要
 └── robots.txt
