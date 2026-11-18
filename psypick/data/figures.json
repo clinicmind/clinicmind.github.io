@@ -1786,7 +1786,189 @@
    "checked": "2026-11-17",
    "tier": "A",
    "verify_needed": false
+  },
+  {
+   "person": "sam-altman",
+   "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "產品發布",
+   "summary_zh": "OpenAI 推出 GPT-6.2 Astra 與 Sol。Astra 定位最強前沿模型，網絡安全能力大幅提升；Sol 定位日常高效工作。兩款即日起在 ChatGPT Work 與 Codex 向 Plus、Pro、企業及教育用戶開放，開發者可經 API 使用。",
+   "quote_en": "Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users.",
+   "topics": [
+    "GPT-6.2",
+    "Astra",
+    "Sol"
+   ],
+   "evidence_quote": "Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://techstartups.com/2026/11/17/google-deepmind-spinout-isomorphic-labs-raises-5-billion-to-develop-ai-powered-drugs/",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "其他",
+   "summary_zh": "Hassabis 創辦的 AI 製藥公司 Isomorphic Labs 完成 50 億美元 C 輪融資，由 Greenoaks 與 Sequoia 領投。資金用於推進 AI 藥物設計引擎 IsoDDE，把候選藥物推向臨床試驗。",
+   "quote_en": "Thrilled to announce $5B in funding for @IsomorphicLabs to accelerate our mission to Solve All Disease. We continue to make rapid progress reimagining drug design from first principles with AI to radically cut the time & cost to find new medicines,",
+   "topics": [
+    "Isomorphic Labs",
+    "AI 製藥",
+    "融資"
+   ],
+   "evidence_quote": "Thrilled to announce $5B in funding for @IsomorphicLabs to accelerate our mission to Solve All Disease.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未能直接打開，依 Tech Startups 報道引述"
+  },
+  {
+   "person": "demis-hassabis",
+   "url": "https://www.newsbytesapp.com/news/science/deepmind-ceo-demis-hassabis-warns-ai-growth-like-oil-spill/tldr",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "訪談",
+   "summary_zh": "Hassabis 在 Masters of Scale 播客警告，AI 發展太快而安全措施不足，失控事故一旦發生便難以收拾，如同漏油。他以 AlphaZero 自我學習為例，呼籲業界加強監控、讓人類留在決策環節。",
+   "quote_en": "You don't quite know how to control, keep control of such a system.",
+   "topics": [
+    "AI 安全",
+    "自我改進",
+    "Masters of Scale"
+   ],
+   "evidence_quote": "You don't quite know how to control, keep control of such a system.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "未直接打開播客原文，僅經 NewsBytes 報道；播客發布日期以報道日期 2026-11-16 為準"
+  },
+  {
+   "person": "mustafa-suleyman",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "產品發布",
+   "summary_zh": "Suleyman 在 Ignite 發布 7 款 MAI 新模型，包括 Code 2、Code 2 Flash、Cyber 2 Flash、Image 2.7、Realtime 1、Dragon Copilot Transcribe 及 Decision 1.1，主打性價比。同場推出 MAI Licensed Weights，讓受信任客戶在自有 Azure 環境取用及自訂模型權重。",
+   "quote_en": "At MAI, our mission is to build you the very best models in the world and keep every developer and every enterprise at the frontier of capability.",
+   "topics": [
+    "MAI 模型",
+    "Licensed Weights",
+    "性價比"
+   ],
+   "evidence_quote": "At MAI, our mission is to build you the very best models in the world and keep every developer and every enterprise at the frontier of capability.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/e/9601",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "產品發布",
+   "summary_zh": "Willison 發布 Datasette Lite 完整重寫版，改用 service worker 架構，令在瀏覽器內運行的 Datasette 幾乎與伺服器版無異；新版亦可指定 SQLite 版本作測試。",
+   "quote_en": "I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application.",
+   "topics": [
+    "Datasette Lite",
+    "Pyodide",
+    "service worker"
+   ],
+   "evidence_quote": "I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application.",
+   "checked": "2026-11-18",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "esther-perel",
+   "url": "https://zeno.fm/podcast/where-should-we-begin-with-esther-perel/episodes/i-cut-off-my-dad-why-doesnt-it-feel-over/",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "訪談",
+   "summary_zh": "來電者多年前因父親長期自戀虐待而斷聯，但距離並未帶來解脫，父親仍在她心裡佔據位置。Esther 協助她分辨「離開一個人」與「擺脫對方控制」之別。",
+   "quote_en": "Esther helps her distinguish between leaving someone behind and freeing herself from the grip he still has on her.",
+   "topics": [
+    "父女關係",
+    "斷聯",
+    "創傷"
+   ],
+   "evidence_quote": "She stopped communicating with her father after years of narcissistic abuse.",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "paul-gilbert",
+   "url": "https://www.eventbrite.co.uk/e/an-audience-with-an-ally-professor-paul-gilbert-obe-tickets-1996340970583",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "演講",
+   "summary_zh": "2026 年 11 月 17 日晚，Paul Gilbert 舉行「An Audience with an Ally」現場對談，分享其生平與慈悲聚焦治療的工作，並即場回答觀眾提問。",
+   "quote_en": "Founder of Compassion Focused Therapy & author of The Compassionate Mind, Prof Paul Gilbert talks about his work & answers your questions.",
+   "topics": [
+    "慈悲聚焦治療",
+    "羞恥與自我批評",
+    "現場對談"
+   ],
+   "evidence_quote": "Prof Paul Gilbert talks about his work & answers your questions",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "lisa-damour",
+   "url": "https://drlisadamour.com/resource/your-angry-sons-outbursts-set-limits-without-power-struggles-dr-tori-cordiano/",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "訪談",
+   "summary_zh": "針對一位 14 歲兒子在家中嚴重失控、缺乏悔意的家長來信，Damour 與 Cordiano 討論如何以良好的親子關係作為管教基礎，並先排除抑鬱等可能原因，再就安全與尊重訂立不可逾越的界線。",
+   "quote_en": "one of our key disciplinary strategies when it comes to raising kids is actually our good working relationship with them.",
+   "topics": [
+    "青少年憤怒",
+    "親子關係",
+    "界限設定"
+   ],
+   "evidence_quote": "one of our key disciplinary strategies when it comes to raising kids is actually our good working relationship with them.",
+   "checked": "2026-11-18",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "becky-kennedy",
+   "url": "https://ca.radio.net/podcast/good-inside-with-dr-becky",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "訪談",
+   "summary_zh": "演員 Jenny Slate 與 Dr. Becky 談為人父母時揮之不去的自我懷疑，探討羞恥感何以根深蒂固、抑鬱如何令人與所愛之事疏離，以及孩子真正需要的是什麼。",
+   "quote_en": "We're all asking the same question in a loop: am I messing up?",
+   "topics": [
+    "羞恥感",
+    "育兒自我懷疑",
+    "親子關係"
+   ],
+   "evidence_quote": "We're all asking the same question in a loop: am I messing up?",
+   "checked": "2026-11-18",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://www.drlauriesantos.com/happiness-lab-with-dr-laurie-santos-podcast/episodes/find-joy-imperfect-life-dr-kate-bowler",
+   "platform": "web",
+   "page_date": "2026-11-16",
+   "kind": "訪談",
+   "summary_zh": "Santos 與 Duke 神學院教授 Kate Bowler 挑戰「好的人生就是一直快樂」的想法，探討不斷追求自我完善何以令人空虛，以及喜悅與苦難何以並存。",
+   "quote_en": "We tend to think of joy as something we have to earn.",
+   "topics": [
+    "喜悅",
+    "幸福科學",
+    "苦難與復原"
+   ],
+   "evidence_quote": "We tend to think of joy as something we have to earn.",
+   "checked": "2026-11-18",
+   "tier": "A",
+   "verify_needed": false
   }
  ],
- "updated": "2026-11-17"
+ "updated": "2026-11-18"
 }
