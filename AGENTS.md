@@ -30,34 +30,35 @@
 
 ## 3. 日常上架流程
 
-1. **讀最新版**：先開真站 `psypick/data/version.json`，記下提交 SHA 與四個數字（專業條目、親子、優惠、人物／動態、會議）。要改的檔逐個讀最新版，不用手邊的舊副本（鐵則 2）。
-2. **寫條目**：新條目一則一檔，寫入 `psypick/data/cases/`，欄位照第 4 節。親子、人物、會議是整檔維護：以最新版全檔為底，只加或改目標條目，不要用舊版整檔覆蓋。
-3. **本地預檢**（建議）：在 repo 本地副本跑 `python3 tools/psypick/build.py --data-dir psypick/data` 產生索引，再跑 `python3 tools/validate.py --data-dir psypick/data`，全過（結束碼 0）才推送。
-4. **一項一提交**：提交訊息寫明任務或來源（例：「巡查上架 2026-11-21 週五組」）。任一集合一次減少超過 5 項，提交訊息要加 `[remove]`，並先通知 Gu。
-5. **推送後核實**：推送到 `main` 後等部署完成（通常 1–3 分鐘），讀真站 `version.json`：SHA 等於剛才的提交、四個數字正確；再開新條目的頁面抽查一次。兩樣都對才算完成（鐵則 4）。
-6. **留紀錄與匯報**：巡查紀錄 inbox JSON 推去舊 repo 的 `muse-inbox` 分支；照第 7 節格式向 Gu 匯報。
+1. **讀最新版**：先開真站 `psypick/data/version.json`，記下提交 SHA 與六個數字（`index` 專業條目、`family` 親子、`deal` 優惠、`figures_people` 人物、`figures_updates` 動態、`conferences` 會議）。要改的檔逐個讀最新版，不用手邊的舊副本（鐵則 2）。
+2. **先去重**：寫檔之前，用腳本在最新版 `index.json` 搜尋 slug 與來源網址（不要把整個 JSON 讀入對話）。同 slug、或同主辦＋同活動日期＋同主題，視為重複，不重複上架。注意：用相同 slug 寫入會覆蓋舊檔，不會新增一則。
+3. **寫條目**：新條目一則一檔，寫入 `psypick/data/cases/`，欄位照第 4 節。親子、人物、會議是整檔維護：以最新版全檔為底，只加或改目標條目，不要用舊版整檔覆蓋。
+4. **本地預檢**（建議）：在 repo 本地副本跑 `python3 tools/psypick/build.py --data-dir psypick/data` 產生索引，再跑 `python3 tools/validate.py --data-dir psypick/data`，全過（結束碼 0）才推送。
+5. **一項一提交**：提交訊息寫明任務或來源（例：「巡查上架 2026-11-21 週五組」）。任一集合一次減少超過 5 項，提交訊息要加 `[remove]`，並先通知 Gu。
+6. **推送後核實**：推送到 `main` 後等部署完成（通常 1–3 分鐘），讀真站 `version.json`：SHA 等於剛才的提交、六個數字正確；再開新條目頁面抽查一次（網址格式：`https://clinicmind.github.io/psypick/#/case/<slug>`）。兩樣都對才算完成（鐵則 4）。
+7. **留紀錄與匯報**：巡查紀錄 inbox JSON 推去舊 repo 的 `muse-inbox` 分支；照第 7 節格式向 Gu 匯報。
 
 ## 4. 條目欄位（case 檔）
 
 | 欄位 | 說明 |
 |---|---|
-| `slug` | 與檔名一致（小寫英文連字號） |
+| `slug` | 與檔名一致。生成法：英文標題轉小寫連字號，刪標點與 `for`、`and`、`the` 等停用詞，可加主辦方前綴（例：`pesi-`）；寫之前先在 `index.json` 搜一遍同名（見第 3 節去重步） |
 | `title_zh` / `title_en`、`summary_zh` / `summary_en` | 標題與摘要，中英各一 |
 | `category` | 站內既有分類名稱（研究與證據／臨床實務／AI 與倫理／進修培訓） |
 | `kind` | `research`、`training` 等既有值 |
 | `date` | 條目日期（ISO）；培訓日期放 `training.event_date` |
 | `first_seen_at` | 首次上架時間（ISO） |
 | `posts[]` | 來源：`platform`、`url`、`author_name`、`title`、`content`（專業註解）、`posted_at`。至少一條要有 `url`（檢查閘 (e)） |
-| `evidence_quote` | 原文摘句，不多於 40 字，逐字照錄。**2026-11-20 之後的新條目必填**（檢查閘 (h)） |
-| `evidence_level` / `evidence_note` | 證據強度 1–5 與一句說明 |
+| `evidence_quote` | 原文摘句，不多於 40 字，逐字照錄。**`first_seen_at` 在 2026-11-20 之後的新條目必填**（檢查閘 (h)） |
+| `evidence_level` / `evidence_note` | 證據強度 0–4（0 個人經驗或評論、1 產品宣稱、2 前導或質性研究、3 對照試驗、4 系統性回顧或統合分析；以 `index.json` 的 `config.evidence_levels` 為準）與一句說明 |
 | `ethics_flags[]`、`caution`、`supervision_questions[]` | 倫理旗標、注意事項、督導思考問題 |
 | `tags[]`、`population[]` | 標籤與對象 |
 | `verify_needed` / `verify_reason` | 未核實要標 `true` 並寫原因，不要扮已核實 |
-| `training{}` | 培訓才有：`provider`、`format`、`price`、`price_tier`、`ce_credits`、`language`、`event_date`（`YYYY-MM-DD`、空白或「隨選」）、`deadline`、`audience_level`、`topic`、`signup_url` |
-| `poster` | 海報入庫後才填，指向 `psypick/posters/<slug>.svg`。迷幻藥／氯胺酮題材不可有此欄（檢查閘 (j)） |
+| `training{}` | 培訓才有：`provider`、`format`、`price`、`price_tier`、`ce_credits`、`language`、`event_date`（`YYYY-MM-DD`、空白或「隨選」）、`deadline`、`audience_level`、`topic`、`signup_url`（註：`build.py` 只把其中 8 個子欄位帶入索引——`provider`、`format`、`price`、`price_tier`、`ce_credits`、`language`、`event_date`、`deadline`；其餘只留在 case 檔） |
+| `poster` | 海報入庫後才填，格式是物件：`{"src": "posters/<slug>.svg", "alt": "海報文字說明", "style": "…", "made": "YYYY-MM-DD"}`（`src` 相對於 `psypick/`，圖檔實體放 `psypick/posters/`）。迷幻藥／氯胺酮題材不可有此欄（檢查閘 (j)） |
 | `include` | `false` = 下架但保留檔案；不填或 `true` = 在架 |
 
-inbox 紀錄（巡查存檔）另有 `evidence_quote`、`page_date`（原文頁面上的日期；找不到就留空並標待查證，不可以用上架時間代替）、`source`、`key_points_zh` 等欄位，是核實證據的存放處。
+inbox 紀錄（巡查存檔）另有 `evidence_quote`、`page_date`、`source`、`key_points_zh` 等欄位，是核實證據的存放處。`page_date`（原文頁面上的日期）記入 inbox 紀錄；case 檔則以 `posts[].posted_at` 記來源發佈日期。兩者找不到都留空並標待查證，不可以用上架時間代替。
 
 ## 5. 每則條目的品質清單
 
@@ -100,7 +101,7 @@ inbox 紀錄（巡查存檔）另有 `evidence_quote`、`page_date`（原文頁�
 提交：abc1234　Actions：通過　version.json：已核對
 新增：研究 4、培訓 3、親子 2
 下架／歸檔：培訓 2（已過期）
-現有總數：專業 268｜親子 183（deal 0）｜人物動態 100｜會議 34
+現有總數：專業 268｜親子 183（deal 0）｜人物 40／動態 100｜會議 34
 待查證：專業 12｜親子 9
 需要 Gu 留意：無
 ```
@@ -115,7 +116,7 @@ inbox 紀錄（巡查存檔）另有 `evidence_quote`、`page_date`（原文頁�
 | 數量無故減少 | 停止所有推送。比對最近三個提交。用鐵則 5 還原 |
 | 有人投訴內容（當事人、機構） | 即時下架。交 Gu 決定。不自行回覆 |
 
-回滾做法（鐵則 5 的具體步驟）：找出壞提交的上一個提交，取它版本的受影響檔案內容，逐檔重新寫入，提交訊息寫明「還原自 <來源 SHA>」，推送後照第 3 節第 5 步核實 `version.json`。不要 force push，不要繞過檢查閘。
+回滾做法（鐵則 5 的具體步驟）：找出壞提交的上一個提交，取它版本的受影響檔案內容，逐檔重新寫入，提交訊息寫明「還原自 <來源 SHA>」，推送後照第 3 節第 6 步核實 `version.json`。不要 force push，不要繞過檢查閘。
 
 ## 10. 什麼時候找 Claude
 
