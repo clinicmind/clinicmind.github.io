@@ -1,0 +1,72 @@
+{
+  "title_zh": "【驗收測試・請勿報名】T4-1 單一資料源測試培訓",
+  "title_en": "T4-1 acceptance test training (single source test, do not register)",
+  "summary_zh": "這是 PsyPick 整合計劃階段 4（T4-1）驗收用的臨時測試條目，用來驗證單一資料源：同一則條目同時出現在 PsyPick 進修頁與主站培訓精選頁。測試完成後即會移除，請勿報名。",
+  "summary_en": "Temporary acceptance-test entry for the PsyPick integration plan (T4-1). It verifies the single-source pipeline and will be removed after the test. Do not register.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "驗收測試條目，非真實培訓。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "測試條目，測試完成即移除。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "2026-12-05（星期六）線上舉行（測試）",
+    "免費，線上直播（測試）"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "驗收測試"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [],
+  "original_prompt": "",
+  "training": {
+    "provider": "ClinicMind 驗收測試",
+    "format": "線上直播",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "中文",
+    "event_date": "2026-12-05",
+    "deadline": "",
+    "audience_level": "專業人員（測試）",
+    "topic": "單一資料源驗收測試",
+    "signup_url": "https://clinicmind.github.io/psypick/",
+    "format_note": "線上直播（測試）"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://clinicmind.github.io/psypick/",
+      "author_handle": "",
+      "author_name": "ClinicMind",
+      "title": "T4-1 acceptance test",
+      "content": "驗收測試條目。",
+      "posted_at": "2026-11-18T00:00:00+00:00"
+    }
+  ],
+  "evidence_quote": "驗收測試條目",
+  "first_seen_at": "2026-11-18T02:40:00+00:00",
+  "date": "2026-11-18T00:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "t4-acceptance-test-single-source",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "poster": {
+    "src": "posters/t4-acceptance-test-single-source.svg",
+    "alt": "驗收測試海報（複用現有海報圖檔作測試）",
+    "style": "unknown",
+    "made": "2026-11-18"
+  }
+}
