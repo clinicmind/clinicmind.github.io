@@ -3,7 +3,7 @@
   "title_en": "Bodynamic on limits versus boundaries",
   "summary_zh": "Bodynamic International 執行長 Hadi Bahlawan Marcher 的文章，以 Bodynamic 發展理論區分「極限」（我能給多少能量）與「界線」（我的邊界在哪裏、尊嚴是否被侵犯），並對應自主期與意志期的發展及特定肌群。文中建議治療師先引導個案感受呼吸、腳踏地面、啟動穩定肌群，再處理關係衝突，主張「先調節，再對質」。",
   "summary_en": "Bodynamic International's CEO distinguishes limits (energy capacity) from boundaries (dignity and personal space), linking them to Bodynamic developmental stages and muscle groups, and recommends regulation before confrontation.",
-  "category": "臨床與治療應用",
+  "category": "臨床實務",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "治療取向創辦機構的觀點文章，未提供研究證據；文中引用神經科學但無具體文獻。",
@@ -69,7 +69,7 @@
       "title_en": "Digital therapeutics vs mental health apps for therapists",
       "summary_zh": "臨床心理師 Noel Cooper 在 Society for the Advancement of Psychotherapy 網站說明兩類工具：一是經 FDA 監管、需處方的數位療法（如 Rejoyn、SleepioRx、EndeavorRx），CMS 已於 2024 年 11 月核准相關給付代碼；二是未受監管、證據參差的大眾心理健康 App（含 AI 聊天機器人）。他建議治療師推薦前仔細審核風險與效益、做好知情同意，並例行詢問個案的科技與 AI 使用。",
       "summary_en": "Clinical psychologist Noel Cooper distinguishes FDA-regulated, prescription digital therapeutics (e.g., Rejoyn, SleepioRx, EndeavorRx), for which CMS approved management codes in November 2024, from unregulated mass-market mental health apps including AI chatbots. He advises vetting apps before recommending them, thorough informed consent, and routinely asking clients about technology and AI use.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [
         "Rejoyn",
@@ -105,7 +105,7 @@
       "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day",
       "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。",
       "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -136,7 +136,7 @@
       "title_en": "Online program for anxious parents prevents child anxiety",
       "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。",
       "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [

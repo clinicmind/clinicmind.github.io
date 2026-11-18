@@ -3,7 +3,7 @@
   "title_en": "Macao domestic violence frontline training 2026",
   "summary_zh": "澳門社會工作局舉辦 2026 年處理家暴配偶個案基本訓練課程，約 400 名警務、醫護、社工、輔導與教育前線人員參加。講者包括司法警察、衛生局精神科醫生與法醫，內容涵蓋預防與通報程序、從精神科與醫學角度辨識受虐徵兆、危機評估與庇護經驗；課程自 2018 年起累計 2,878 人參加。",
   "summary_en": "Macao's Social Welfare Bureau trained about 400 frontline staff on identifying spousal abuse, crisis assessment and reporting, with speakers from police, psychiatry and forensic medicine.",
-  "category": "督導與訓練",
+  "category": "臨床實務",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "政府新聞稿，描述培訓活動。",
@@ -84,7 +84,7 @@
       "title_en": "Frontline training on families welcoming a second child",
       "summary_zh": "澳門社會工作局 2026 年 8 月 16 日為約 50 名前線工作者辦培訓，運用依附理論與家庭系統理論解釋第二個孩子出生後長子女的心理與行為變化，並介紹情緒教育溝通原則與破除獨生子女刻板印象。社工局表示會透過家長學堂等計劃延伸親職教育。",
       "summary_en": "Macao's Social Welfare Bureau trained about 50 frontline workers to support families expecting a second child, drawing on attachment and family systems theory.",
-      "category": "督導與訓練",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -115,7 +115,7 @@
       "title_en": "MHAHK and Macau partners sign MOU on mental health social work training",
       "summary_zh": "香港心理衞生會在 2026 年 9 月 21 日與港澳心理衞生會及澳門聖若瑟大學健康及環境科學學院簽署五年教育及服務合作備忘錄。香港心理衞生會將派專業人員到聖若瑟大學社會工作（精神健康）碩士課程任教 12 節「綜合醫護：模式與實踐」，涵蓋個案評估、危機介入與團隊協作，並安排學生到香港參觀社區精神健康、青年精神健康、就業支援與住宿服務。",
       "summary_en": "On 21 September 2026 the Mental Health Association of Hong Kong signed a five-year MOU with the Macau Psychology and Mental Health Association and Saint Joseph University. MHAHK staff will teach a 12-session course on integrated healthcare in USJ's MSW (Mental Health), and students will visit Hong Kong services.",
-      "category": "督導與訓練",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -145,7 +145,7 @@
       "title_en": "Macao 2026-2035 elderly and rehabilitation service plans",
       "summary_zh": "澳門特區政府公布 2026 至 2035 年長者服務及康復服務兩份十年行動計劃，採「十年策略、兩年計劃」模式。康復計劃提出加強精神康復及青少年精神健康支援；長者計劃包括高風險長者健康評估、預設照顧計劃與擴展 24 小時緊急支援。2026–2027 年分別有 104 及 83 個實施項目。",
       "summary_en": "Macao published ten-year action plans (2026–2035) for elderly and rehabilitation services, including stronger psychiatric rehabilitation and youth mental health support.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [

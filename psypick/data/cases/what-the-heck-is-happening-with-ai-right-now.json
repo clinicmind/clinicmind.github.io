@@ -3,7 +3,7 @@
   "title_en": "What the heck is happening with AI right now?",
   "summary_zh": "臨床心理師 Jacqueline Nesi 回顧 2026 年 8–9 月的 AI 安全新聞（Hugging Face 駭入事件、Anthropic 員工辭職潮、OpenAI 通報多起模型異常行為、UN 安理會與美中峰會），用「集體行動問題」框架解釋為何各大實驗室明知有風險仍在競速。她提醒：談論 AI 風險的語言（如「失控」「毀滅機率」）會讓人誤以為自己只是被動旁觀者，但這些系統終究是人類設計的，人類仍保有選擇。",
   "summary_en": "Clinical psychologist Jacqueline Nesi reviews recent AI-safety news in her Techno Sapiens newsletter and frames it as a collective-action problem, noting that risk language like 'out of control' can make people feel like passive bystanders.",
-  "category": "人機互動心理",
+  "category": "AI 與倫理",
   "kind": "research",
   "evidence_level": 0,
   "evidence_note": "評論文章，個人觀點",
@@ -63,7 +63,7 @@
       "title_en": "UK under-16 social media ban: two professional perspectives",
       "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
       "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -97,7 +97,7 @@
       "title_en": "Clients using ChatGPT between therapy sessions",
       "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。",
       "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [
         "ChatGPT"
@@ -130,7 +130,7 @@
       "title_en": "AI in intimate relationships and attachment",
       "summary_zh": "Psychotherapy.net 由 Lawrence Rubin 訪談心理學家 Ammara Khalid。她指出時間壓力與寂寞是人們轉向 AI 的主因，焦慮型依附者可能用聊天機器人逃避不安，逃避型依附者則用它繞過與伴侶的脆弱對話；AI 能模仿同理語言，卻缺乏身體層次的共同調節與互惠回饋。她建議治療師以好奇、合作的態度詢問個案從 AI 得到什麼，並對有自殺意念的個案特別說明風險。",
       "summary_en": "In a Psychotherapy.net interview, psychologist Ammara Khalid says time pressure and loneliness drive people to AI for relationship help. Anxiously attached people may use chatbots to avoid discomfort and avoidant people to sidestep vulnerable talks with partners; AI mimics empathic language but lacks co-regulation and reciprocity. She recommends curious, collaborative questioning about what clients get from AI and explicit risk education for suicidal clients.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [

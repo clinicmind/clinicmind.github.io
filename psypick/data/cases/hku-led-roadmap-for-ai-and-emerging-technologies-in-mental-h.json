@@ -60,7 +60,7 @@
       "title_en": "AI conversations as dynamic changes in awareness: benefits and risks framework",
       "summary_zh": "Curtin 大學 Mansell 教授提出框架，解釋同一聊天機器人為何效果可以相反。關鍵在於對話是拓寬覺察、探索問題，還是窄化為重複尋求保證與確認既有信念。作者提醒，此框架尚未經實證檢驗。",
       "summary_en": "Curtin University's Warren Mansell proposes a framework in Digital Health explaining why the same AI chatbot can help one person and harm another: conversations that widen awareness (exploring feelings, questioning assumptions, considering new views) tend to help, while loops of reassurance-seeking and belief confirmation narrow thinking. The framework has not yet been empirically tested.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -120,7 +120,7 @@
       "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
       "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
       "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "incident",
       "model_names": [],
       "tags": [

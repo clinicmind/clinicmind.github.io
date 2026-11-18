@@ -3,7 +3,7 @@
   "title_en": "Newsom vetoes California SB 903 on AI in therapy",
   "summary_zh": "加州州長 Newsom 否決了 SB 903。該法案原本要禁止 AI 演算法提供或宣傳心理治療服務，持照專業人員只能把 AI 用於行政或輔助支援，用 AI 錄製治療會談前須清楚揭露並取得同意，也不准 AI 獨立與個案互動或作治療決定。法案在參議院全票通過、眾議院以 71 比 4 通過；州長的否決理由認為對病人與臨床人員的保護「過了頭」，提案人 Padilla 則強烈批評。",
   "summary_en": "California Governor Gavin Newsom vetoed SB 903, which would have barred AI from providing or advertising therapy, limited licensed clinicians to administrative or supplementary AI use, required disclosure and consent before AI recording of sessions, and banned AI from independently interacting with clients or making therapeutic decisions. The bill had passed the Senate unanimously and the Assembly 71-4; the veto message said its protections went too far, drawing sharp criticism from author Sen. Steve Padilla.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "州議員新聞稿，屬立法動態與政治立場，非實證研究。",
@@ -86,7 +86,7 @@
       "title_en": "California signs three healthcare AI bills",
       "summary_zh": "加州州長簽署三項醫療 AI 法案：AB 1979 把 AI 在臨床照護中限於諮詢角色、不得執行需執照的臨床功能，並保護經由聊天機器人取得的病人健康資訊；SB 503 要求醫療 AI 開發者與使用者辨識、減輕並持續監測臨床決策支援系統的偏誤風險；AB 1609 禁止大型企業把客服聊天機器人包裝成真人。同時被否決的有 AB 2575 和處理 AI 心理治療的 SB 903。",
       "summary_en": "California's governor signed three healthcare AI bills: AB 1979 restricts AI to an advisory role in clinical care, bars it from performing licensed clinical functions and protects health information accessed through chatbots; SB 503 requires developers and deployers to identify, mitigate and monitor bias risks in clinical decision support; AB 1609 bars large enterprises from presenting customer-service chatbots as human. AB 2575 and the AI-in-psychotherapy bill SB 903 were vetoed.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -118,7 +118,7 @@
       "title_en": "Connecticut AI companion rules take effect October 1",
       "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。",
       "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -150,7 +150,7 @@
       "title_en": "Taiwan minors counselling without parental accompaniment",
       "summary_zh": "台灣公共政策網路參與平台有提案建議讓特定年齡青少年就醫身心科與接受心理諮商時免家長陪同，9 月 26 日達附議門檻，共 5,772 人附議。衛福部長石崇良表示，部方已就心理諮商發函說明，當事人對諮商內容有充分理解時不強制家長陪同；至於精神科診斷與用藥涉及醫療相關法規，仍在部內研議，政府須於 11 月 26 日前回應。",
       "summary_en": "A Taiwanese e-petition (5,772 signatures) asks that adolescents be allowed psychiatric and counselling care without parental accompaniment. The health minister said counselling does not require a parent if the minor sufficiently understands it, while psychiatric diagnosis and medication remain under review; a formal reply is due by 26 November.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [

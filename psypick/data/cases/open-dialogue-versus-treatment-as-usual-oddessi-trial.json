@@ -73,7 +73,7 @@
       "title_en": "Taiwan youth psychiatric crisis wards to open 21 beds",
       "summary_zh": "聯合報報導，衛福部規劃的兒少心智專責病房原訂 2025 年底在台大醫院、台中榮總完成建置，但因空間改建、消防安全及硬體設備問題延宕，目前仍未有病床啟用。心理健康司司長陳柏熹表示，預計今年底先啟用北部、中部共 21 床，南部其餘 9 床仍在採購；病房以 18 歲以下、家庭學校與一般門診已難處理的急迫危機個案為主要收治對象。",
       "summary_en": "Taiwan's planned child and adolescent psychiatric crisis wards were delayed by renovation, fire-safety and equipment problems. The Department of Mental Health says 21 beds in the north and centre should open by end-2026, with 9 southern beds still in procurement.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -104,7 +104,7 @@
       "title_en": "Digital phenotyping relapse prediction systematic review",
       "summary_zh": "BMC Psychiatry 的系統性回顧納入 52 篇、4,814 名參與者的研究，被動數位表型對 1–4 週後復發的預測 AUC 介於 0.70–0.88，多模態優於單一模態，個人化模型優於群體模型。睡眠改變、活動量與移動範圍下降、社交聯絡減少最具預測力；但 75% 研究偏誤風險高，多缺外部驗證，且沒有任何研究證明能改善臨床結果。",
       "summary_en": "A BMC Psychiatry systematic review of 52 studies (4,814 participants) found passive digital phenotyping predicted relapse 1–4 weeks ahead with AUCs of 0.70–0.88; multimodal and individual-level models performed better. Sleep changes, reduced activity and mobility, and less social communication were most predictive, but 75% of studies had high risk of bias, few had external validation, and none showed improved clinical outcomes.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [],
       "tags": [

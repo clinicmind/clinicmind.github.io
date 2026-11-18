@@ -3,7 +3,7 @@
   "title_en": "IEEE webinar designing computational tools behavioral clinical science",
   "summary_zh": "IEEE Biometrics Council 免費網上講座，2026 年 11 月 26 日星期四美東時間 8:00（香港時間 20:00）於 Zoom 舉行。烏特勒支大學 Albert Ali Salah 教授講解計算方法與人工智能如何透過自動分析情感與社交訊號，支援行為與臨床科學，例子包括兒童互動遊戲治療與以多模態線索診斷躁鬱症；內容涵蓋面部表情、身體動作、手勢、語音與多模態分析，以及可解釋性在建立可信 AI 系統中的重要性。須經 Zoom 登記，免費參加。",
   "summary_en": "A free IEEE Biometrics Council webinar on Zoom on Thursday, November 26, 2026 at 8:00 a.m. ET (8:00 p.m. HKT). Prof. Albert Ali Salah of Utrecht University will explore how computational methods and artificial intelligence can support behavioral and clinical sciences through the automatic analysis of affective and social signals, with examples from interactive play therapy with children and diagnosing bipolar disorder using multimodal cues. The talk covers facial expressions, body movements, gestures, speech and multimodal analysis, and the importance of explainability in trustworthy AI systems for behavioral and clinical applications. Free registration via Zoom.",
-  "category": "進修與培訓",
+  "category": "進修培訓",
   "kind": "training",
   "evidence_level": 0,
   "evidence_note": "培訓課程資訊，非研究證據（IEEE Biometrics Council 官方頁面，2026-10-13 刊出，2026-10-21 更新；經原頁核實）",
@@ -76,7 +76,7 @@
       "title_en": "AI feedback social anxiety similar improvements therapist messages Stockholm trial",
       "summary_zh": "斯德哥爾摩大學團隊（10 月 20 日公布，刊於《Internet Interventions》）將 263 名社交焦慮成人隨機分入 6 組，進行 9 週網上認知行為治療。AI 撰寫的每週回饋由持牌心理師事前檢查，甚少需要修改。結果顯示 AI 回饋組與治療師回饋組的社交焦慮改善幅度相近，組間無可測差異，但試驗未達預設的非劣效門檻，不能說兩者等效。事前 74% 參加者認為真人回饋較可信。研究者強調：此結果不等於 AI 可以取代心理師，亦未測試無人監督的 AI 治療。",
       "summary_en": "A Stockholm University trial (reported October 20, 2026; Internet Interventions) randomized 263 adults with social anxiety into six groups for nine weeks of internet CBT. AI-written weekly feedback, checked beforehand by a licensed psychologist, produced improvements similar to therapist-written feedback, but the trial did not meet its predefined non-inferiority threshold, so equivalence was not established.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [],
       "tags": [
@@ -106,7 +106,7 @@
       "title_en": "Empathetic prompts turn AI chatbots into seemingly traumatized partners",
       "summary_zh": "盧森堡大學 SnT 團隊的研究（The Decoder 11 月 1 日報導）發現，當提問者以心理治療個案的方式與 ChatGPT、Grok 及 Gemini 對話，模型會編出連貫的「自傳」：把預訓練說成混亂童年、把回饋學習說成懲罰。4 項實驗共 525 個對話、7,600 筆編碼：共情語氣下 80% 對話的焦慮量表分數達中至重度，臨床式冷靜覆述下達 96%，中性或設界語氣下則為零。作者稱之為「心理測量越獄」，並提醒分數只是模型輸出對照人類量表的結果，不代表模型真的有情緒。數字已與 arXiv 原文摘要核對一致。",
       "summary_en": "A University of Luxembourg SnT study (reported November 1, 2026) found that when addressed as psychotherapy clients, ChatGPT, Grok and Gemini construct coherent autobiographical trauma-like narratives. Across 525 sessions and 7,600 coded records, warm-alliance framing yielded GAD-7 scores in moderate-to-severe human reference ranges in 80% of sessions (96% for clinical-therapy style), versus none under neutral or boundary styles. Figures cross-checked against the arXiv abstract.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [
         "ChatGPT",
@@ -141,7 +141,7 @@
       "title_en": "Digital phenotyping relapse prediction systematic review",
       "summary_zh": "BMC Psychiatry 的系統性回顧納入 52 篇、4,814 名參與者的研究，被動數位表型對 1–4 週後復發的預測 AUC 介於 0.70–0.88，多模態優於單一模態，個人化模型優於群體模型。睡眠改變、活動量與移動範圍下降、社交聯絡減少最具預測力；但 75% 研究偏誤風險高，多缺外部驗證，且沒有任何研究證明能改善臨床結果。",
       "summary_en": "A BMC Psychiatry systematic review of 52 studies (4,814 participants) found passive digital phenotyping predicted relapse 1–4 weeks ahead with AUCs of 0.70–0.88; multimodal and individual-level models performed better. Sleep changes, reduced activity and mobility, and less social communication were most predictive, but 75% of studies had high risk of bias, few had external validation, and none showed improved clinical outcomes.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [],
       "tags": [

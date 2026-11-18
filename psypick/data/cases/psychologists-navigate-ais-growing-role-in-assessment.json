@@ -3,7 +3,7 @@
   "title_en": "Psychologists navigate AIs growing role in assessment",
   "summary_zh": "AI 已廣泛用於心理評估報告撰寫，也開始協助產生測驗題目與在真實情境中偵測風險。專家提醒，通用聊天機械人不是 HIPAA 合規工具，不可輸入受保護健康資訊；過度依賴 AI 解讀結果可能導致誤診，作假偵測亦面臨挑戰。美國心理學會心理測驗與評估委員會已發布負責任使用 AI 的報告。",
   "summary_en": "APA's Monitor on Psychology (November 1, 2026) reports on AI's growing role in psychological assessment: report writing is the most widespread use, while generative psychometrics may adapt tests in real time. Experts warn that general-purpose chatbots are not HIPAA-compliant, must not receive protected health information, and can help test-takers feign symptoms, though validity scales still catch most AI-assisted feigning. APA's Committee on Psychological Tests and Assessment has released a report on responsible AI use in assessment.",
-  "category": "評估與篩檢",
+  "category": "臨床實務",
   "kind": "practice",
   "evidence_level": 2,
   "evidence_note": "學會專題報導（專家訪談、心理測驗與評估委員會報告）",
@@ -74,7 +74,7 @@
       "title_en": "State AI laws create complicated picture for psychologists",
       "summary_zh": "美國心理學會 10 月 23 日指出，各州針對醫療 AI 的立法寬嚴不一。部分法例保障公眾，例如要求聊天機器人不得冒充持牌專業人員；但另一些法例過寬，可能令心理師無法使用具臨床實證的 AI 工具，例如標示自傷高風險個案的程式，或在會談之間供個案使用的介入程式。截至 2026 年 7 月 30 日，22 個州已通過 33 項醫療 AI 相關法案，其中伊利諾伊州 2025 年的立法成為多州範本，佛蒙特州則經業界倡議修窄了範圍。",
       "summary_en": "APA reports that far-reaching state AI laws threaten to strictly limit psychologists' use of AI tools, including evidence-based digital therapeutics. As of July 30, 2026, 33 health-care AI bills had been signed into law across 22 states; Illinois' 2025 law has become a model for other states, while Vermont's bill was narrowed after advocacy.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -103,7 +103,7 @@
       "title_en": "APA health advisory on AI chatbots and wellness apps",
       "summary_zh": "美國心理學會於 2025 年 11 月發布健康提醒，指出生成式 AI 聊天機器人與身心健康 App 不應被當作專業心理健康照護的替代品。APA 呼籲避免使用者產生不健康的依賴、為兒童青少年等高風險族群設計特別保護、禁止 AI 冒充持照專業人員，並要求科技公司提高透明度與預設保護隱私。",
       "summary_en": "In November 2025 the American Psychological Association issued a health advisory stating that generative AI chatbots and wellness apps should not replace professional mental health care. It calls for preventing unhealthy dependence, special protections for youth and other vulnerable groups, a ban on AI impersonating licensed professionals, and greater transparency and privacy by default.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -136,7 +136,7 @@
       "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years",
       "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。",
       "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "product",
       "model_names": [],
       "tags": [

@@ -3,7 +3,7 @@
   "title_en": "NCNU autumn forum neurodiversity normalisation reflection co-learning 2026",
   "summary_zh": "國立暨南國際大學家庭暴力研究中心主辦的秋冬論壇，以「神經多樣性」為主題。三場線上場次分別在11月16、23、30日舉行：孫文菊諮商心理師談如何把理解轉化為實踐，成為神經多樣性兒少的支持者；林育如醫師談理解神經多樣性兒童青少年；第三場由安置機構實務工作者分享兒少安置照顧場域的挑戰與實踐。前導場已於11月3日舉行。",
   "summary_en": "The Family Violence Research Center at National Chi Nan University hosts its 2026 autumn forum, 'Tearing Off Labels: Normalisation and Co-learning in Neurodiversity'. Three online sessions (16, 23 and 30 November, via Google Meet) cover turning understanding into practice, understanding neurodivergent children and adolescents, and challenges in residential care settings. Speakers include counsellor Sun Wen-chu and Dr Lin Yu-ju. The fee is not stated on the page.",
-  "category": "進修與培訓",
+  "category": "進修培訓",
   "kind": "training",
   "evidence_level": 0,
   "evidence_note": "培訓課程",
@@ -77,7 +77,7 @@
       "title_en": "UK under-16 social media ban: two professional perspectives",
       "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
       "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -111,7 +111,7 @@
       "title_en": "Macao domestic violence frontline training 2026",
       "summary_zh": "澳門社會工作局舉辦 2026 年處理家暴配偶個案基本訓練課程，約 400 名警務、醫護、社工、輔導與教育前線人員參加。講者包括司法警察、衛生局精神科醫生與法醫，內容涵蓋預防與通報程序、從精神科與醫學角度辨識受虐徵兆、危機評估與庇護經驗；課程自 2018 年起累計 2,878 人參加。",
       "summary_en": "Macao's Social Welfare Bureau trained about 400 frontline staff on identifying spousal abuse, crisis assessment and reporting, with speakers from police, psychiatry and forensic medicine.",
-      "category": "督導與訓練",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -142,7 +142,7 @@
       "title_en": "HKU JCKAK whole-school 3-tier ADHD support framework",
       "summary_zh": "香港大學心理學系介紹「Jockey Club Keen and Active Kids Project（JCKAK）」：由 Kathy Shum 教授團隊主導、香港賽馬會慈善信託基金資助，自 2019 年起與教育局及五間非政府機構合作，在主流中小學以全校三層介入模式支援 ADHD 學生。計劃已為逾 6,000 名學生提供實證為本訓練、裝備逾 4,000 名教育工作者，並以工作坊支援 1,500 名家長，另有數碼工具與手冊。",
       "summary_en": "HKU Psychology describes JCKAK, a Jockey Club–funded ADHD support project led by Prof. Kathy Shum's team since 2019 with the Education Bureau and five NGOs. Using a whole-school 3-tier model, it has trained over 6,000 students and 4,000 educators and supported 1,500 parents.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [

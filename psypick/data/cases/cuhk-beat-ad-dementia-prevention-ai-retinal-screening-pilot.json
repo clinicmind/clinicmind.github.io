@@ -3,7 +3,7 @@
   "title_en": "CUHK Beat AD dementia prevention AI retinal screening pilot results",
   "summary_zh": "中大醫學院與高錕慈善基金公布「腦智同護」先導成果，AI 視網膜影像在 831 名認知功能正常長者中識出約 21% 較高阿茲海默症風險者。接受一年個人化腦健康管理者認知評分改善，水平接近年輕約三歲人士。計劃 2027 年 1 月起落戶黃大仙，兩年內為 2,700 名長者提供免費腦健康評估。",
   "summary_en": "The Chinese University of Hong Kong (November 3, 2026) reports encouraging pilot results from its Beat AD dementia-prevention programme with the Charles K. Kao Foundation: AI retinal imaging flagged about 21% of 831 cognitively normal community participants as higher risk for Alzheimer's disease. After one year of personalised brain-health management, participants' cognitive scores improved to a level close to people about three years younger. The programme expands to Wong Tai Sin from January 2027, aiming to serve 2,700 older adults over two years.",
-  "category": "評估與篩檢",
+  "category": "臨床實務",
   "kind": "research",
   "evidence_level": 2,
   "evidence_note": "大學新聞稿報導的先導計劃成果（非同行評審論文）",
@@ -130,7 +130,7 @@
       "title_en": "Macao dementia month and cognitive assessment figures",
       "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。",
       "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [

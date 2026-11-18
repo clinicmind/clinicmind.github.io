@@ -3,7 +3,7 @@
   "title_en": "AI conversations as dynamic changes in awareness: benefits and risks framework",
   "summary_zh": "Curtin 大學 Mansell 教授提出框架，解釋同一聊天機器人為何效果可以相反。關鍵在於對話是拓寬覺察、探索問題，還是窄化為重複尋求保證與確認既有信念。作者提醒，此框架尚未經實證檢驗。",
   "summary_en": "Curtin University's Warren Mansell proposes a framework in Digital Health explaining why the same AI chatbot can help one person and harm another: conversations that widen awareness (exploring feelings, questioning assumptions, considering new views) tend to help, while loops of reassurance-seeking and belief confirmation narrow thinking. The framework has not yet been empirically tested.",
-  "category": "臨床與治療應用",
+  "category": "臨床實務",
   "kind": "practice",
   "evidence_level": 2,
   "evidence_note": "同儕審查期刊概念框架文章，作者自承尚未經實證檢驗",
@@ -89,7 +89,7 @@
       "title_en": "Why teens turn to AI for emotional support",
       "summary_zh": "Brown 大學臨床心理學家 Jacqueline Nesi 在電子報整理 Hopelab 與哈佛 Center for Digital Thriving 的訪談報告：青少年向 AI 尋求情緒支持，是因為不想對朋友「trauma dump（情緒傾倒）」、覺得 AI 不會評判，而且隨時可用。同期也整理一篇使用 ABCD 資料的研究，發現成癮式社群媒體使用與家長回報的 ADHD 症狀有小幅關聯，Nesi 提醒不能推論因果。",
       "summary_en": "Clinical psychologist Jacqueline Nesi summarizes a Hopelab and Harvard Center for Digital Thriving interview report: teens turn to AI for emotional support to avoid 'trauma dumping' on friends, because AI feels non-judgmental, and because it is always available. She also covers an ABCD-based study linking addictive social media use to small increases in parent-reported ADHD symptoms, cautioning against causal claims.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [],
       "tags": [

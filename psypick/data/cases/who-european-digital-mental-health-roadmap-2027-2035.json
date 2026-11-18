@@ -3,7 +3,7 @@
   "title_en": "WHO European Region digital mental health roadmap 2027-2035",
   "summary_zh": "世界衛生組織歐洲區辦事處發布 2027–2035 年數位心理健康路線圖，為各成員國提供規劃、採用及推行數位科技的實務框架，涵蓋政策、管治、標準與規管、科技基建、參與及能力建設、監測評估六大領域。路線圖明確把生成式 AI（包括大型語言模型）納入數位心理健康範疇，並強調科技應補充而非取代人際關係與臨床照顧。",
   "summary_en": "The WHO Regional Office for Europe published a 2027-2035 digital mental health roadmap, giving member states a practical framework for planning, adopting and implementing digital technologies across six domains: policy, governance, standards and regulation, technology infrastructure, engagement and capacity building, and monitoring and evaluation. It explicitly includes generative AI (including large language models) and stresses that technology should complement, not replace, human relationships and clinical care.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "政策與指引",

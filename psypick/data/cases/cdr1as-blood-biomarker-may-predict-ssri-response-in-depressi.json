@@ -62,7 +62,7 @@
       "title_en": "PETRUSHKA ML decision support for antidepressants RCT",
       "summary_zh": "Mental Elf 評析 Cipriani 等人 2026 年刊於 JAMA 的 PETRUSHKA 隨機對照試驗。這個決策支援工具以機器學習預測模型結合病人對副作用的偏好，在巴西、英國、加拿大 47 個據點納入 520 位重度憂鬱症患者（主要分析 493 人）；8 週停藥人數 41 對 69（RR=0.62），24 週停藥無明顯差異，但憂鬱與焦慮分數較低。",
       "summary_en": "The Mental Elf reviews Cipriani et al.'s 2026 JAMA RCT of PETRUSHKA, a decision-support tool combining machine-learning prediction models with patients' side-effect preferences. Across 47 sites in Brazil, the UK and Canada (520 eligible, 493 analysed), 8-week discontinuation was 41 vs 69 (RR=0.62); 24-week discontinuation did not clearly differ, though depression and anxiety scores were lower.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [
         "PETRUSHKA"
@@ -94,7 +94,7 @@
       "title_en": "Digital phenotyping relapse prediction systematic review",
       "summary_zh": "BMC Psychiatry 的系統性回顧納入 52 篇、4,814 名參與者的研究，被動數位表型對 1–4 週後復發的預測 AUC 介於 0.70–0.88，多模態優於單一模態，個人化模型優於群體模型。睡眠改變、活動量與移動範圍下降、社交聯絡減少最具預測力；但 75% 研究偏誤風險高，多缺外部驗證，且沒有任何研究證明能改善臨床結果。",
       "summary_en": "A BMC Psychiatry systematic review of 52 studies (4,814 participants) found passive digital phenotyping predicted relapse 1–4 weeks ahead with AUCs of 0.70–0.88; multimodal and individual-level models performed better. Sleep changes, reduced activity and mobility, and less social communication were most predictive, but 75% of studies had high risk of bias, few had external validation, and none showed improved clinical outcomes.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [],
       "tags": [

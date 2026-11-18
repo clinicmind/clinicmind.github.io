@@ -3,7 +3,7 @@
   "title_en": "Taiwan minors counselling without parental accompaniment",
   "summary_zh": "台灣公共政策網路參與平台有提案建議讓特定年齡青少年就醫身心科與接受心理諮商時免家長陪同，9 月 26 日達附議門檻，共 5,772 人附議。衛福部長石崇良表示，部方已就心理諮商發函說明，當事人對諮商內容有充分理解時不強制家長陪同；至於精神科診斷與用藥涉及醫療相關法規，仍在部內研議，政府須於 11 月 26 日前回應。",
   "summary_en": "A Taiwanese e-petition (5,772 signatures) asks that adolescents be allowed psychiatric and counselling care without parental accompaniment. The health minister said counselling does not require a parent if the minor sufficiently understands it, while psychiatric diagnosis and medication remain under review; a formal reply is due by 26 November.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "新聞報導與官員發言，非研究。",
@@ -91,7 +91,7 @@
       "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
       "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
       "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -124,7 +124,7 @@
       "title_en": "Hong Kong LegCo reply on child self-protection education",
       "summary_zh": "教育局局長蔡若蓮回覆立法會議員林琳，說明小學人文科必修內容涵蓋身體私隱部位、提防性侵犯與欺凌應對，並將性教育列入 2026 年《價值觀教育課程架構》重點。2022/23 至 2024/25 學年舉辦超過 130 場培訓、約 17,500 名教師參加，另有約 67,000 名教育人員登記「保護兒童網上課程」。",
       "summary_en": "Replying to a LegCo question, Hong Kong's Secretary for Education outlined child self-protection content in primary curricula, over 130 teacher training sessions (about 17,500 teachers) in three school years, and some 67,000 educators registered for an online child protection course.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -156,7 +156,7 @@
       "title_en": "Taiwan MOHW suicide prevention day resources 2026",
       "summary_zh": "衛生福利部在 2026 年世界自殺防治日記者會呼應「改變自殺敘事」主題，呼籲從沉默與污名轉向傾聽與理解。記者會整理多項現行資源：15–45 歲每年 3 次免費心理諮商（滿意度 96%）、24 小時 1925 安心專線、男性關懷專線、75 處社區心理衛生中心、青少年匿名文字諮詢及「一問二應三轉介」守門人訓練。",
       "summary_en": "At its 2026 World Suicide Prevention Day briefing, Taiwan's health ministry echoed the 'change the narrative' theme and summarised current resources: three free counselling sessions a year for ages 15–45, the 1925 hotline, a men's line, 75 community mental health centres, text counselling for youth and gatekeeper training.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [

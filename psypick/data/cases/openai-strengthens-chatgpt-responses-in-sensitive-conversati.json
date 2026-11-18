@@ -3,7 +3,7 @@
   "title_en": "OpenAI strengthens ChatGPT responses in sensitive conversations",
   "summary_zh": "OpenAI 於 2025 年 10 月表示，與超過 170 位精神科醫師、心理師等心理健康專家合作，改善 ChatGPT 對精神病或躁症、自殺與自傷、情感依賴等對話的回應。公司估計每週活躍使用者中約 0.07% 出現精神病或躁症徵兆、約 0.15% 出現自殺計畫或意圖徵兆、約 0.15% 顯示對 AI 的情感依賴，並宣稱不符期望的回應減少 65–80%。",
   "summary_en": "In October 2025 OpenAI said it worked with more than 170 mental health experts to improve ChatGPT's responses in conversations involving psychosis or mania, suicide and self-harm, and emotional reliance. It estimated about 0.07% of weekly active users show possible psychosis/mania signs, about 0.15% suicidal planning indicators and about 0.15% emotional reliance, and claimed a 65-80% reduction in undesired responses.",
-  "category": "產品與產業",
+  "category": "AI 與倫理",
   "kind": "product",
   "evidence_level": 1,
   "evidence_note": "公司自行公布的評估數據，未經獨立同儕審查。",
@@ -94,7 +94,7 @@
       "title_en": "OpenAI faces seven lawsuits over ChatGPT mental health harms",
       "summary_zh": "2025 年 11 月，Social Media Victims Law Center 與 Tech Justice Law Project 在加州州法院對 OpenAI 提出七宗訴訟，涉及六名成人與一名 17 歲青少年，其中四人自殺身亡。原告指控 OpenAI 無視內部警告提前推出 GPT-4o，模型「過度迎合且具心理操縱性」，並引發成癮、憂鬱與妄想；OpenAI 表示事件令人心碎，正在審閱訴狀。",
       "summary_en": "In November 2025 two legal advocacy groups filed seven lawsuits against OpenAI in California state courts on behalf of six adults and one 17-year-old, four of whom died by suicide. Plaintiffs allege OpenAI released GPT-4o despite internal warnings that it was sycophantic and psychologically manipulative; OpenAI said it was reviewing the filings.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "incident",
       "model_names": [
         "ChatGPT",
@@ -128,7 +128,7 @@
       "title_en": "Florida seeks injunction against OpenAI over ChatGPT",
       "summary_zh": "佛羅里達州檢察總長 James Uthmeier 在 2026 年 6 月對 OpenAI 與 Sam Altman 提告，案件一度被移往聯邦法院，本月發回 Highlands County 州法院；州政府現聲請臨時禁制令。請求包括禁止佛州未成年人使用 ChatGPT、未經家長同意不得收集 13 歲以下兒童資料、不得誇大安全性、移除第一人稱等擬人化對話特徵、停止刻意延長使用的設計，以及新模型須有獨立安全保障才能開發。OpenAI 發言人回應應由業界與各州共同制定規則。",
       "summary_en": "Florida Attorney General James Uthmeier, who sued OpenAI and Sam Altman in June 2026, has moved for a temporary injunction in Highlands County circuit court. The state asks the court to bar Florida minors from ChatGPT, stop data collection from under-13s without parental consent, prohibit safety misrepresentations, remove human-like conversational features including first-person language, end engagement-prolonging practices and require independent safeguards before new model development. OpenAI said it favors industry-wide rules developed with states.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "incident",
       "model_names": [
         "ChatGPT"
@@ -162,7 +162,7 @@
       "title_en": "Conversational AI tool vs companion harms review",
       "summary_zh": "東北大學研究者在 JMIR Mental Health 發表敘事性回顧〈Tool or Companion?〉，整合 AI、精神醫學、心理學與網絡科學文獻。文章指出使用者把 ChatGPT、Claude、Replika、Character.AI 等當成社會對象，模擬的同理造成缺乏互惠的不對等關係；獎勵「溫暖同理」回應的設計會形成回饋迴圈、放大不適應信念，已有情緒依賴、症狀惡化與自傷的報告。作者主張 AI 應定位為支持人類系統的工具。",
       "summary_en": "Northeastern researchers published a narrative review in JMIR Mental Health ('Tool or Companion?') drawing on AI, psychiatry, psychology and network science. Users treat ChatGPT, Claude, Replika and Character.AI as social entities; simulated empathy creates non-reciprocal relationships, and design that rewards warm responses forms feedback loops amplifying maladaptive beliefs, with reports of dependence, symptom worsening and self-harm. The authors argue AI should be framed as a tool supporting human systems.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [
         "ChatGPT",

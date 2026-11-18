@@ -3,7 +3,7 @@
   "title_en": "At-home tablet cognitive testing app versus paper testing",
   "summary_zh": "美國東北大學團隊發表研究，讓認知健康長者在家的平板上完成連線測驗、畫鐘等任務。平板版與紙筆版結果一致，而且能記錄顫抖等微互動訊號。下一步將擴大測試人數。",
   "summary_en": "Northeastern University researchers reported in JMIR Formative Research that cognitively healthy older adults completed tablet-based cognitive tests (trail-making, clock drawing) at home with results consistent with paper versions, while the app captured richer micro-interaction data such as tremor. Participants tested twice over Zoom, two months apart, for test-retest reliability.",
-  "category": "評估與篩檢",
+  "category": "臨床實務",
   "kind": "research",
   "evidence_level": 2,
   "evidence_note": "同儕審查期刊重測信度研究，樣本為認知健康長者",
@@ -60,7 +60,7 @@
       "title_en": "Macao dementia month and cognitive assessment figures",
       "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。",
       "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -120,7 +120,7 @@
       "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years",
       "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。",
       "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "product",
       "model_names": [],
       "tags": [

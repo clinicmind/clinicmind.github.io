@@ -3,7 +3,7 @@
   "title_en": "Therabot developer Jacobson on AI safety and oversight",
   "summary_zh": "Dartmouth 校園報專訪 Therabot 研發者 Nicholas Jacobson。他說 Therabot 已有隨機對照試驗、另有兩項研究接近完成，並形容生成式 AI「會說出你從沒教它說的話」，這種靈活是雙面刃。他主張審慎監管，但反對一律要求臨床人員逐一審核，認為這會把責任不當地轉嫁到臨床人員而非開發者身上。",
   "summary_en": "In a student-paper Q&A, Therabot developer Nicholas Jacobson says Therabot has completed randomized trials with two more studies nearing completion, and calls generative AI's fluidity a double-edged sword. He favors thoughtful regulation but opposes blanket clinician-review mandates, arguing they shift liability onto clinicians rather than AI developers.",
-  "category": "產品與產業",
+  "category": "AI 與倫理",
   "kind": "product",
   "evidence_level": 0,
   "evidence_note": "媒體專訪中研發者本人的觀點；提及的試驗結果未在本文中提供數據。",
@@ -89,7 +89,7 @@
       "title_en": "Therabot generative AI therapy chatbot RCT",
       "summary_zh": "達特茅斯團隊在 NEJM AI 發表 Therabot 隨機對照試驗，210 名有重鬱、廣泛性焦慮或飲食疾患風險的成人分為使用組與對照組，為期 8 週。使用組憂鬱症狀平均下降 51%、焦慮 31%、體重與身形擔憂 19%，參與者評估的治療同盟與面對面治療相當；研究團隊監看回應，作者強調目前沒有生成式 AI 可以完全自主運作。",
       "summary_en": "Dartmouth researchers reported in NEJM AI a randomized trial of Therabot with 210 adults with MDD, GAD, or eating-disorder risk over 8 weeks. Users saw average reductions of 51% in depressive, 31% in anxiety, and 19% in body-image/weight-concern symptoms, and rated the alliance comparable to in-person care; the team monitored responses and stressed that no generative AI agent is ready to operate fully autonomously.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [
         "Therabot"
@@ -121,7 +121,7 @@
       "title_en": "Young adults using AI for health and anxiety depression",
       "summary_zh": "佛羅里達大學 Yusen Zhai 團隊分析 2023–2024 年近 10 萬名美國年輕成人資料，發現用 ChatGPT、Claude 等生成式 AI 詢問健康問題者，焦慮篩檢陽性的勝算高 52%、憂鬱高 46%（約 52% 對 43%、47% 對 38%）。研究只呈現關聯，方向未明；作者建議心理專業人員詢問個案的 AI 使用並協助評估資訊品質。",
       "summary_en": "A University of Florida team led by Yusen Zhai analysed 2023–2024 data from nearly 100,000 US young adults and found those using generative AI such as ChatGPT or Claude for health questions had 52% higher odds of screening positive for anxiety and 46% for depression (about 52% vs 43% and 47% vs 38%). The association is not causal; the authors urge clinicians to ask about AI use and help clients evaluate information quality.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [
         "ChatGPT",
@@ -156,7 +156,7 @@
       "title_en": "OpenAI strengthens ChatGPT responses in sensitive conversations",
       "summary_zh": "OpenAI 於 2025 年 10 月表示，與超過 170 位精神科醫師、心理師等心理健康專家合作，改善 ChatGPT 對精神病或躁症、自殺與自傷、情感依賴等對話的回應。公司估計每週活躍使用者中約 0.07% 出現精神病或躁症徵兆、約 0.15% 出現自殺計畫或意圖徵兆、約 0.15% 顯示對 AI 的情感依賴，並宣稱不符期望的回應減少 65–80%。",
       "summary_en": "In October 2025 OpenAI said it worked with more than 170 mental health experts to improve ChatGPT's responses in conversations involving psychosis or mania, suicide and self-harm, and emotional reliance. It estimated about 0.07% of weekly active users show possible psychosis/mania signs, about 0.15% suicidal planning indicators and about 0.15% emotional reliance, and claimed a 65-80% reduction in undesired responses.",
-      "category": "產品與產業",
+      "category": "AI 與倫理",
       "kind": "product",
       "model_names": [
         "ChatGPT",

@@ -3,7 +3,7 @@
   "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
   "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
   "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "incident",
   "evidence_level": 2,
   "evidence_note": "政府與學會指引；內容依據第三方報導（Asia Daily），官方發佈頁未親自開啟",
@@ -64,7 +64,7 @@
       "title_en": "RCPsych statement on non-recent child sexual abuse",
       "summary_zh": "英國皇家精神科醫學院發表立場聲明《Addressing the impact of non-recent child sexual abuse on the mental health of adults》（PS04/26），由 Dr Jo Stubley 與 Dr Maria Podlejska-Eyres 共同主持、倖存者、臨床人員與研究者共同制定。聲明指出專業人員處理揭露的訓練不足、缺乏創傷知情照護導致再創傷、過度依賴診斷，並在臨床、教育、委託服務、研究與政策提出建議。",
       "summary_en": "Tavistock highlights RCPsych position statement PS04/26 on the impact of non-recent child sexual abuse on adult mental health, co-chaired by Tavistock trauma lead Dr Jo Stubley, calling for disclosure-informed, trauma-sensitive care.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -96,7 +96,7 @@
       "title_en": "EU KIDS Act FAQ on AI companions for minors",
       "summary_zh": "歐盟執委會發布 KIDS Act 問答說明。草案規定 AI 陪伴與聊天機器人面對未成年人時，不得以製造情感依賴的方式模擬人際關係、不得自動延續孩子先前的對話、不得自動啟動或強推給兒童或難以關閉；13 歲以下只能透過家長控制工具使用，並須在上線前做風險測試、持續監測傷害。公眾可在 2026 年 11 月 26 日前提交意見，違規最高罰全球年營業額 6%。",
       "summary_en": "The European Commission published an FAQ on the proposed KIDS Act. For minors, AI companions and chatbots may not simulate human relationships in ways that create emotional dependency, automatically carry forward a child's previous conversations, or auto-launch, be pushed at children or be hard to disable; under-13s may use them only via parental controls, with pre-launch risk testing and ongoing harm monitoring. Public feedback is open until 26 November 2026, and fines can reach 6% of worldwide turnover.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -128,7 +128,7 @@
       "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
       "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
       "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [

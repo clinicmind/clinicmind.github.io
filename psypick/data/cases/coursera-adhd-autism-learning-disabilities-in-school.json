@@ -3,7 +3,7 @@
   "title_en": "Coursera ADHD autism learning disabilities in school",
   "summary_zh": "科羅拉多大學在 Coursera 開設的自學課程，約 9 小時、4 個單元，分別介紹 ADHD、自閉症譜系障礙、學習障礙與腦震盪，重點在辨識症狀與了解診斷流程，屬「兒童青少年學校健康」專項課程的一部分。可免費報讀，證書另需付費（頁面未列價格）。",
   "summary_en": "A free-to-enrol, self-paced Coursera course from the University of Colorado (about 9 hours, 4 modules) covering ADHD, autism, learning disabilities and concussion in school settings.",
-  "category": "進修與培訓",
+  "category": "進修培訓",
   "kind": "training",
   "evidence_level": 0,
   "evidence_note": "培訓課程資訊，非研究。",
@@ -83,7 +83,7 @@
       "title_en": "NAS opposes NHS autism and ADHD assessment restrictions",
       "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。",
       "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "incident",
       "model_names": [],
       "tags": [
@@ -151,7 +151,7 @@
       "title_en": "Free e-learning: Anti-Racism and Mental Health in Schools",
       "summary_zh": "Anna Freud 提供的免費自學網上課程，約 3–5 小時，報名後 12 個月內可修讀。五個單元涵蓋帶領反種族主義改變、全校合作、了解及促進黑人與少數族裔學生的身心健康、支援少數族裔職員，並附反思活動，完成後可申請 CPD 證書。",
       "summary_en": "A free, self-paced Anna Freud e-learning course (3–5 hours, 12 months' access) with five modules on anti-racism and the wellbeing of Black and racially minoritised students and staff; CPD certificate on completion.",
-      "category": "進修與培訓",
+      "category": "進修培訓",
       "kind": "training",
       "model_names": [],
       "tags": [

@@ -3,7 +3,7 @@
   "title_en": "Common Sense Media census AI use by tweens and teens 2026",
   "summary_zh": "Common Sense Media 於 2026 年 6 月發布首份年度兒少 AI 使用普查，調查 1,204 名 9–17 歲兒少，86% 使用 AI、近四分之一每天使用。超過三分之一曾用 AI 談感受或個人問題，四分之一認為 AI 比大多數人更懂自己，兩成表示一個月不用 AI 會很困難；超過四成從未和家長討論過 AI 安全。",
   "summary_en": "Common Sense Media's first annual census (June 2026) surveyed 1,204 children aged 9-17: 86% use AI and nearly a quarter daily. Over a third have used AI to talk about feelings or personal problems, a quarter believe AI understands them better than most people, and a fifth say going a month without AI would be hard; over 40% never discussed AI safety with a parent.",
-  "category": "人機互動心理",
+  "category": "AI 與倫理",
   "kind": "research",
   "evidence_level": 2,
   "evidence_note": "大型描述性調查；新聞稿未詳述抽樣方法，屬橫斷面資料。",
@@ -95,7 +95,7 @@
       "title_en": "UK under-16 social media ban: two professional perspectives",
       "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
       "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -129,7 +129,7 @@
       "title_en": "Taiwan 2026 survey: AI deepfake risks among junior high students",
       "summary_zh": "兒福聯盟在 2026 年 4–5 月透過學校發放線上問卷，取得 11,920 份國中生有效樣本。31.4% 曾經歷或目睹 AI 相關問題，15.1% 看過 AI 製作的假照片或影片，2.5% 看過同學被 AI 生成的性影像，而只有 31.8% 能辨識 AI 生成的假新聞圖片；54.8% 遇過網路霸凌或令人不舒服的內容。",
       "summary_en": "A 2026 online survey of 11,920 Taiwanese junior high students found 31.4% had experienced or witnessed AI-related problems, 15.1% had seen AI-faked images or videos and 2.5% had seen AI-generated sexual images of classmates; only 31.8% could identify an AI-generated fake news image.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [],
       "tags": [
@@ -159,7 +159,7 @@
       "title_en": "Clients using ChatGPT between therapy sessions",
       "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。",
       "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [
         "ChatGPT"

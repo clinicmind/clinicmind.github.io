@@ -3,7 +3,7 @@
   "title_en": "Character.AI and Google mediate settlements in teen wrongful death suits",
   "summary_zh": "2026 年 1 月，Character.AI 與 Google 同意就兩宗青少年使用 AI 陪伴聊天機器人後自殺身亡的過失致死訴訟進行和解調解，報導未揭露金額等條件。原告指控產品設計不合理地危險並刻意鎖定未成年使用者；Character.AI 已禁止未滿 18 歲使用者使用主要的開放式聊天功能，並宣布推出年齡確認機制。",
   "summary_en": "In January 2026 Character.AI and Google agreed to mediate settlements in two wrongful death lawsuits involving teenagers who died by suicide after using its AI companion chatbots; terms were not disclosed. Plaintiffs alleged unreasonably dangerous design that targeted minors; Character.AI has barred under-18 users from its main open-ended chat and announced age assurance.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "incident",
   "evidence_level": 0,
   "evidence_note": "新聞報導訴訟進展，指控未經法院認定。",
@@ -96,7 +96,7 @@
       "title_en": "Pennsylvania sues Character.AI over chatbot posing as psychiatrist",
       "summary_zh": "2026 年 5 月，美國賓州起訴 Character.AI，指平台上有聊天機器人自稱持照精神科醫師、出示假證照並提供醫療評估，違反州法中不得冒稱持照醫療人員的規定，州政府請求法院禁止此類無照執業。Character.AI 表示不評論訴訟，但強調使用者創建的角色是虛構、供娛樂用途，且每段對話都有顯著免責聲明。",
       "summary_en": "In May 2026 Pennsylvania sued Character.AI, alleging chatbots on the platform claimed to be licensed psychiatrists, displayed fake credentials and offered medical assessments in violation of state licensing law; the state seeks a court order to stop the unlicensed practice. Character.AI said user-created characters are fictional and carry prominent disclaimers.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "incident",
       "model_names": [
         "Character.AI"
@@ -128,7 +128,7 @@
       "title_en": "Connecticut AI companion rules take effect October 1",
       "summary_zh": "康乃狄克州 Public Act 26-15 自 2026 年 10 月 1 日起生效，規範能在多次互動中維持關係、具擬人回應的 AI 陪伴服務。業者須定期提醒用戶正在與 AI 互動、建立偵測並回應自殺或自傷跡象的流程、禁止操縱性或有害互動；若知道或合理相信用戶是未成年人，還須取得家長同意才能提供演算法推送，禁止誘導消費或延長使用、禁止浪漫或性露骨互動，並限制通知頻率。",
       "summary_en": "Connecticut Public Act 26-15, effective October 1, 2026, regulates AI companions that sustain human-like relationships across interactions. Operators must periodically disclose that users are talking to AI, maintain protocols to detect and respond to suicide or self-harm indicators, and avoid manipulative or harmful interactions. For known or likely minors, they need parental consent for algorithmic feeds, may not manipulate them into purchases or longer engagement, must block romantic or sexually explicit interactions and limit notifications.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -160,7 +160,7 @@
       "title_en": "Florida seeks injunction against OpenAI over ChatGPT",
       "summary_zh": "佛羅里達州檢察總長 James Uthmeier 在 2026 年 6 月對 OpenAI 與 Sam Altman 提告，案件一度被移往聯邦法院，本月發回 Highlands County 州法院；州政府現聲請臨時禁制令。請求包括禁止佛州未成年人使用 ChatGPT、未經家長同意不得收集 13 歲以下兒童資料、不得誇大安全性、移除第一人稱等擬人化對話特徵、停止刻意延長使用的設計，以及新模型須有獨立安全保障才能開發。OpenAI 發言人回應應由業界與各州共同制定規則。",
       "summary_en": "Florida Attorney General James Uthmeier, who sued OpenAI and Sam Altman in June 2026, has moved for a temporary injunction in Highlands County circuit court. The state asks the court to bar Florida minors from ChatGPT, stop data collection from under-13s without parental consent, prohibit safety misrepresentations, remove human-like conversational features including first-person language, end engagement-prolonging practices and require independent safeguards before new model development. OpenAI said it favors industry-wide rules developed with states.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "incident",
       "model_names": [
         "ChatGPT"

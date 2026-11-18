@@ -3,7 +3,7 @@
   "title_en": "Macao 2026/27 school year measures on student counselling and AI education",
   "summary_zh": "澳門特區政府公布 2026/2027 學年教育及青年工作措施，繼續投入 24 小時學生輔導熱線與網上諮詢平台，加強非上課時間的支援，並透過跨部門網絡定期會議與月報預防青少年受傷害。同時推出 AI 教育輔助教材、與國家重點實驗室合作培訓教師 AI 應用，教育基金新增「AI 實驗教室」資助主題。",
   "summary_en": "Macao's 2026/27 education measures continue the 24-hour student counselling hotline and online consultation platform, and expand AI education through new teaching materials, teacher training on AI applications and a new 'AI experimental classroom' funding theme.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "政府政策公告，非研究證據；頁面未提供數字。",
@@ -75,7 +75,7 @@
       "title_en": "Macao 2026-2035 elderly and rehabilitation service plans",
       "summary_zh": "澳門特區政府公布 2026 至 2035 年長者服務及康復服務兩份十年行動計劃，採「十年策略、兩年計劃」模式。康復計劃提出加強精神康復及青少年精神健康支援；長者計劃包括高風險長者健康評估、預設照顧計劃與擴展 24 小時緊急支援。2026–2027 年分別有 104 及 83 個實施項目。",
       "summary_en": "Macao published ten-year action plans (2026–2035) for elderly and rehabilitation services, including stronger psychiatric rehabilitation and youth mental health support.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -107,7 +107,7 @@
       "title_en": "Character.AI and Google mediate settlements in teen wrongful death suits",
       "summary_zh": "2026 年 1 月，Character.AI 與 Google 同意就兩宗青少年使用 AI 陪伴聊天機器人後自殺身亡的過失致死訴訟進行和解調解，報導未揭露金額等條件。原告指控產品設計不合理地危險並刻意鎖定未成年使用者；Character.AI 已禁止未滿 18 歲使用者使用主要的開放式聊天功能，並宣布推出年齡確認機制。",
       "summary_en": "In January 2026 Character.AI and Google agreed to mediate settlements in two wrongful death lawsuits involving teenagers who died by suicide after using its AI companion chatbots; terms were not disclosed. Plaintiffs alleged unreasonably dangerous design that targeted minors; Character.AI has barred under-18 users from its main open-ended chat and announced age assurance.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "incident",
       "model_names": [
         "Character.AI"
@@ -139,7 +139,7 @@
       "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
       "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
       "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [

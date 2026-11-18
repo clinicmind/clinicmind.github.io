@@ -64,7 +64,7 @@
       "title_en": "PETRUSHKA ML decision support for antidepressants RCT",
       "summary_zh": "Mental Elf 評析 Cipriani 等人 2026 年刊於 JAMA 的 PETRUSHKA 隨機對照試驗。這個決策支援工具以機器學習預測模型結合病人對副作用的偏好，在巴西、英國、加拿大 47 個據點納入 520 位重度憂鬱症患者（主要分析 493 人）；8 週停藥人數 41 對 69（RR=0.62），24 週停藥無明顯差異，但憂鬱與焦慮分數較低。",
       "summary_en": "The Mental Elf reviews Cipriani et al.'s 2026 JAMA RCT of PETRUSHKA, a decision-support tool combining machine-learning prediction models with patients' side-effect preferences. Across 47 sites in Brazil, the UK and Canada (520 eligible, 493 analysed), 8-week discontinuation was 41 vs 69 (RR=0.62); 24-week discontinuation did not clearly differ, though depression and anxiety scores were lower.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [
         "PETRUSHKA"

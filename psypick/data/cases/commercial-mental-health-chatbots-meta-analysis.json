@@ -3,7 +3,7 @@
   "title_en": "Commercial mental health chatbots meta-analysis",
   "summary_zh": "Psychotherapy and Psychosomatics 的系統性回顧與統合分析涵蓋 52 篇研究、13 款商用聊天機器人。憂鬱改善約等於 PHQ-9 1.6 分，低於 5 分的臨床意義門檻；焦慮效果不確定。22 篇 RCT 中只有 3 篇有主動的傷害監測，作者建議只作為心理治療的低強度輔助並搭配強制安全流程。",
   "summary_en": "A systematic review and meta-analysis in Psychotherapy and Psychosomatics covered 52 studies of 13 commercial chatbots. Depression improved by about 1.6 PHQ-9 points, below the 5-point clinically meaningful threshold; anxiety effects were uncertain. Only 3 of 22 RCTs had active harm monitoring, and the authors recommend positioning these tools as low-intensity adjuncts with mandatory safety protocols.",
-  "category": "臨床與治療應用",
+  "category": "臨床實務",
   "kind": "research",
   "evidence_level": 4,
   "evidence_note": "系統性回顧與統合分析，含 22 篇 RCT；安全結論受限於多數試驗未主動監測傷害。",
@@ -122,7 +122,7 @@
       "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day",
       "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。",
       "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -153,7 +153,7 @@
       "title_en": "Macao CSJ Hospital talk on psychiatric medication side effects",
       "summary_zh": "澳門衛生局公布仁伯爵綜合醫院 10 月份專科衛教講座，其中精神科講座「認識精神科口服藥常見的副作用及處理」於 10 月 14 日下午 2 時 30 分至 3 時 30 分，在門診大樓地下層精神科候診區舉行，由專科護士或資深護士主講，毋須預約。對心理治療師而言，可作為轉介或陪同服藥個案與家屬了解藥物副作用的社區資源。",
       "summary_en": "Macao's Health Bureau lists a free, walk-in talk at Conde S. Januário Hospital on 14 Oct 2026 (2:30–3:30 pm, psychiatry waiting area) on common side effects of oral psychiatric medication and how to manage them, given by specialist or senior nurses.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [

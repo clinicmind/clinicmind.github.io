@@ -3,7 +3,7 @@
   "title_en": "LEMon-AID emotion-informed AI detection of youth psychosis risk from speech",
   "summary_zh": "新加坡團隊發表研究，直接叫大型語言模型從日常對話預測風險，表現與隨機猜測無異。新框架先抽取喜悅、信任、恐懼等情緒特徵再結合傳統機器學習，準確率由 55% 升至 67%，敏感度最高可達 93%。仍需進一步臨床驗證。",
   "summary_en": "A Singapore team (NTU and the Institute of Mental Health) reported in npj Mental Health Research that asking an LLM to predict psychosis risk directly from 45-second everyday speech samples performed no better than chance, while their LEMon-AID framework (emotion features plus traditional machine learning) raised accuracy from 55% to 67%, with sensitivity up to 93%. Further clinical validation is needed.",
-  "category": "評估與篩檢",
+  "category": "臨床實務",
   "kind": "research",
   "evidence_level": 2,
   "evidence_note": "同儕審查期刊模型評估研究，單一樣本，未經臨床場景驗證",
@@ -70,7 +70,7 @@
       "title_en": "Understanding Psychosis",
       "summary_zh": "密西根大學在 Coursera 的思覺失調症課程，講解症狀、成因與治療，共 4 個模組、中階程度。免費旁聽可完整學習；另可經 MiCME 申請最高 8.5 個 AMA PRA Category 1 學分，適合精神科相關臨床工作者。",
       "summary_en": "A University of Michigan Coursera course on psychosis — symptoms, causes and treatments — with optional CME credits via MiCME for eligible clinicians.",
-      "category": "進修與培訓",
+      "category": "進修培訓",
       "kind": "training",
       "model_names": [],
       "tags": [
@@ -111,7 +111,7 @@
       "title_en": "HKCPsych free public lecture on psychosis stigma",
       "summary_zh": "香港精神科醫學院「正視精神」公眾講座系列，於 2026 年 10 月 31 日（六）晚上 7 時至 9 時在香港中央圖書館地下演講廳舉行，由精神科專科醫生劉育成主講，內容包括破解對思覺失調的誤解、個案分享及互動問答。講座免費，名額有限，先到先得。",
       "summary_en": "A free public lecture by the Hong Kong College of Psychiatrists on 31 Oct 2026 (7–9 pm, Hong Kong Central Library) on debunking myths and stigma about psychosis, with case sharing and Q&A. First come, first served.",
-      "category": "進修與培訓",
+      "category": "進修培訓",
       "kind": "training",
       "model_names": [],
       "tags": [
@@ -153,7 +153,7 @@
       "title_en": "At-home tablet cognitive testing app versus paper testing",
       "summary_zh": "美國東北大學團隊發表研究，讓認知健康長者在家的平板上完成連線測驗、畫鐘等任務。平板版與紙筆版結果一致，而且能記錄顫抖等微互動訊號。下一步將擴大測試人數。",
       "summary_en": "Northeastern University researchers reported in JMIR Formative Research that cognitively healthy older adults completed tablet-based cognitive tests (trail-making, clock drawing) at home with results consistent with paper versions, while the app captured richer micro-interaction data such as tremor. Participants tested twice over Zoom, two months apart, for test-retest reliability.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [],
       "tags": [

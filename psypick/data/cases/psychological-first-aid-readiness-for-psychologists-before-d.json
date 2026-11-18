@@ -3,7 +3,7 @@
   "title_en": "Psychological first aid readiness for psychologists before disaster deployment",
   "summary_zh": "諮商心理師公會全聯會國際事務委員會提醒，心理師進入災難現場前應先檢視自身身心狀態、生活安排、受訓背景與角色定位，並理解現場重點是情緒穩定、資源轉介與基本生活支持，而不是心理治療。文章以心理急救「看、聽、連結」三原則為核心，並列出 NCTSN 免費線上訓練、WHO 心理急救手冊與 IASC 指引等學習資源。",
   "summary_en": "Taiwan's counselling psychologists' federation outlines what psychologists should check before disaster deployment—personal readiness, training and role clarity—and stresses that therapy is not the priority on site. It centres on the Look–Listen–Link principles of psychological first aid and lists NCTSN, WHO and IASC resources.",
-  "category": "督導與訓練",
+  "category": "臨床實務",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "專業團體整理的實務建議，非研究證據。",
@@ -83,7 +83,7 @@
       "title_en": "Taiwan youth psychiatric crisis wards to open 21 beds",
       "summary_zh": "聯合報報導，衛福部規劃的兒少心智專責病房原訂 2025 年底在台大醫院、台中榮總完成建置，但因空間改建、消防安全及硬體設備問題延宕，目前仍未有病床啟用。心理健康司司長陳柏熹表示，預計今年底先啟用北部、中部共 21 床，南部其餘 9 床仍在採購；病房以 18 歲以下、家庭學校與一般門診已難處理的急迫危機個案為主要收治對象。",
       "summary_en": "Taiwan's planned child and adolescent psychiatric crisis wards were delayed by renovation, fire-safety and equipment problems. The Department of Mental Health says 21 beds in the north and centre should open by end-2026, with 9 southern beds still in procurement.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -114,7 +114,7 @@
       "title_en": "NCTSN free online Psychological First Aid and SPR courses",
       "summary_zh": "美國國家兒童創傷壓力網絡（NCTSN）學習中心的 PFA Online 是互動式線上課程，約 5 小時，教導災後心理急救的核心行動；同系列的 SPR Online 教專業人員如何協助倖存者學習處理災後壓力的技巧。兩門課都免費，各提供 5 個 CE，另有西班牙文版。",
       "summary_en": "The NCTSN Learning Center's PFA Online is a free, roughly 5-hour interactive course on the core actions of Psychological First Aid after disasters; Skills for Psychological Recovery (SPR) Online teaches providers to help survivors manage post-disaster distress. Both are free with 5 CEs each, with Spanish versions available.",
-      "category": "進修與培訓",
+      "category": "進修培訓",
       "kind": "training",
       "model_names": [],
       "tags": [
@@ -157,7 +157,7 @@
       "title_en": "Johns Hopkins Psychological First Aid on Coursera",
       "summary_zh": "約翰霍普金斯大學在 Coursera 的心理急救課程由 George Everly Jr. 講授，教授 RAPID 模式（反映式傾聽、需求評估、排序、介入、處置）。課程約 6 小時、初階程度、可自訂進度，可免費註冊，驗證證書需付費。",
       "summary_en": "Johns Hopkins University's Psychological First Aid on Coursera, taught by George Everly Jr., covers the RAPID model (Reflective listening, Assessment, Prioritization, Intervention, Disposition). About 6 hours, beginner level and self-paced; enrollment is free, with a paid certificate.",
-      "category": "進修與培訓",
+      "category": "進修培訓",
       "kind": "training",
       "model_names": [],
       "tags": [

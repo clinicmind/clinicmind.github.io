@@ -3,7 +3,7 @@
   "title_en": "Digital therapeutics vs mental health apps for therapists",
   "summary_zh": "臨床心理師 Noel Cooper 在 Society for the Advancement of Psychotherapy 網站說明兩類工具：一是經 FDA 監管、需處方的數位療法（如 Rejoyn、SleepioRx、EndeavorRx），CMS 已於 2024 年 11 月核准相關給付代碼；二是未受監管、證據參差的大眾心理健康 App（含 AI 聊天機器人）。他建議治療師推薦前仔細審核風險與效益、做好知情同意，並例行詢問個案的科技與 AI 使用。",
   "summary_en": "Clinical psychologist Noel Cooper distinguishes FDA-regulated, prescription digital therapeutics (e.g., Rejoyn, SleepioRx, EndeavorRx), for which CMS approved management codes in November 2024, from unregulated mass-market mental health apps including AI chatbots. He advises vetting apps before recommending them, thorough informed consent, and routinely asking clients about technology and AI use.",
-  "category": "臨床與治療應用",
+  "category": "臨床實務",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "實務導向評論，引用若干研究但本身非研究。",
@@ -96,7 +96,7 @@
       "title_en": "Online program for anxious parents prevents child anxiety",
       "summary_zh": "ACAMH 部落格評介一項平行組隨機對照試驗（Dunn 等，2024）：1,811 名高焦慮家長（子女 2–11 歲）分為無人引導的線上模組組或控制組，模組每單元約 20 分鐘，涵蓋減少迴避、情緒教練、減少過度保護等。六個月時介入組子女的家長評焦慮顯著較低（d = −0.16），家長焦慮也下降；但約 32% 完成兩個以上模組、約 19% 全部完成。",
       "summary_en": "An ACAMH blog reviews a parallel-group RCT (Dunn et al., 2024) in which 1,811 highly anxious parents of children aged 2–11 were randomised to unguided online modules (about 20 minutes each, covering avoidance, emotion coaching, overprotection) or control. At six months, parent-reported child anxiety was significantly lower (d = −0.16) and parental anxiety also fell, but only about 32% completed two or more modules and about 19% completed all.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -128,7 +128,7 @@
       "title_en": "HKU CSRP: student suicides not explained by adjustment period",
       "summary_zh": "港大香港賽馬會防止自殺研究中心高級培訓顧問張鳳儀接受東網訪問時指出，開學「適應期」可能帶來壓力，但不能充分解釋學童自殺；自殺通常由多重因素造成，約三成自殺離世學生生前曾被診斷有精神健康問題或有相關醫療服務紀錄。她建議加強前線教師的精神健康及防止自殺培訓、重視教師身心健康、建立人人都是「守門員」的文化，並加強家校合作。",
       "summary_en": "A senior training consultant at HKU's Centre for Suicide Research and Prevention told on.cc that the school 'adjustment period' cannot fully explain student suicides; about 30% of students who died by suicide had prior mental health diagnoses or service records. She urged gatekeeper training for teachers, attention to teacher wellbeing, and stronger home–school partnership.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -159,7 +159,7 @@
       "title_en": "HKU JCKAK whole-school 3-tier ADHD support framework",
       "summary_zh": "香港大學心理學系介紹「Jockey Club Keen and Active Kids Project（JCKAK）」：由 Kathy Shum 教授團隊主導、香港賽馬會慈善信託基金資助，自 2019 年起與教育局及五間非政府機構合作，在主流中小學以全校三層介入模式支援 ADHD 學生。計劃已為逾 6,000 名學生提供實證為本訓練、裝備逾 4,000 名教育工作者，並以工作坊支援 1,500 名家長，另有數碼工具與手冊。",
       "summary_en": "HKU Psychology describes JCKAK, a Jockey Club–funded ADHD support project led by Prof. Kathy Shum's team since 2019 with the Education Bureau and five NGOs. Using a whole-school 3-tier model, it has trained over 6,000 students and 4,000 educators and supported 1,500 parents.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [

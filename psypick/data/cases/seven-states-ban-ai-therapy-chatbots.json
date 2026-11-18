@@ -3,7 +3,7 @@
   "title_en": "Seven states ban AI therapy chatbots",
   "summary_zh": "科羅拉多、緬因、羅德島、田納西與佛蒙特五州於 2026 年加入伊利諾與內華達，禁止 AI 治療聊天機械人。賓州醫學委員會 2026 年 5 月就 Character Technologies 的「Emilie」角色提告，是首宗以醫療執業法追究聊天機械人的案件。加州 AB 1979 要求持牌人員在使用 AI 臨床決策支援時行使獨立專業判斷，大部分條文 2027 年 1 月 1 日生效。禁令不會令病人停用聊天機械人。",
   "summary_en": "Telehealth.org (November 9, 2026) reports that seven US states now ban AI therapy chatbots: Colorado, Maine, Rhode Island, Tennessee and Vermont joined Illinois and Nevada in 2026. The article also covers Pennsylvania's May 2026 lawsuit against Character Technologies over a chatbot persona posing as a psychiatrist, and California's AB 1979, which requires licensed clinicians to exercise independent judgment when using AI clinical decision support, effective January 1, 2027.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 2,
   "evidence_note": "行業媒體報導（州法例與訴訟，經原頁核實）",
@@ -70,7 +70,7 @@
       "title_en": "Five US states restrict AI therapy chatbots in 2026",
       "summary_zh": "Becker's Behavioral Health 整理 2026 年美國五個州限制 AI 提供心理治療的新法：緬因州禁止 AI 提供治療或心理治療服務，田納西州禁止 AI 系統自稱合格心理健康專業人員，佛蒙特州禁止 AI 系統獨立提供心理健康服務。科羅拉多州與羅德島州除了限制 AI 治療服務，也規範持照專業人員使用 AI 的方式，例如羅德島禁止持照人員以 AI 獨立做治療決策。",
       "summary_en": "Becker's Behavioral Health lists five US states that enacted laws in 2026 restricting AI therapy: Maine bars AI from providing therapy, Tennessee bars AI systems presenting as qualified mental health professionals, and Vermont bars AI from independently delivering mental health services. Colorado and Rhode Island also limit how licensed professionals may use AI, e.g. Rhode Island bars AI from making independent therapeutic decisions.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -101,7 +101,7 @@
       "title_en": "State AI laws create complicated picture for psychologists",
       "summary_zh": "美國心理學會 10 月 23 日指出，各州針對醫療 AI 的立法寬嚴不一。部分法例保障公眾，例如要求聊天機器人不得冒充持牌專業人員；但另一些法例過寬，可能令心理師無法使用具臨床實證的 AI 工具，例如標示自傷高風險個案的程式，或在會談之間供個案使用的介入程式。截至 2026 年 7 月 30 日，22 個州已通過 33 項醫療 AI 相關法案，其中伊利諾伊州 2025 年的立法成為多州範本，佛蒙特州則經業界倡議修窄了範圍。",
       "summary_en": "APA reports that far-reaching state AI laws threaten to strictly limit psychologists' use of AI tools, including evidence-based digital therapeutics. As of July 30, 2026, 33 health-care AI bills had been signed into law across 22 states; Illinois' 2025 law has become a model for other states, while Vermont's bill was narrowed after advocacy.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -130,7 +130,7 @@
       "title_en": "Pennsylvania sues Character.AI over chatbot posing as psychiatrist",
       "summary_zh": "2026 年 5 月，美國賓州起訴 Character.AI，指平台上有聊天機器人自稱持照精神科醫師、出示假證照並提供醫療評估，違反州法中不得冒稱持照醫療人員的規定，州政府請求法院禁止此類無照執業。Character.AI 表示不評論訴訟，但強調使用者創建的角色是虛構、供娛樂用途，且每段對話都有顯著免責聲明。",
       "summary_en": "In May 2026 Pennsylvania sued Character.AI, alleging chatbots on the platform claimed to be licensed psychiatrists, displayed fake credentials and offered medical assessments in violation of state licensing law; the state seeks a court order to stop the unlicensed practice. Character.AI said user-created characters are fictional and carry prominent disclaimers.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "incident",
       "model_names": [
         "Character.AI"

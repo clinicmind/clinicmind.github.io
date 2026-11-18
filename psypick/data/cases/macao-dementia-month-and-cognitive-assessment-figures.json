@@ -3,7 +3,7 @@
   "title_en": "Macao dementia month and cognitive assessment figures",
   "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。",
   "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.",
-  "category": "評估與篩檢",
+  "category": "臨床實務",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "政府新聞稿與服務統計，非研究。",
@@ -77,7 +77,7 @@
       "title_en": "Macao mobile mental health support van",
       "summary_zh": "澳門衛生局與街坊會聯合總會推出「心晴驛站」流動服務車，自 2026 年 8 月 24 日起在不同社區定點提供心理健康資訊、即時支援與轉介，以及情緒管理小型講座與工作坊。新聞稿同時整理現有資源：九間衛生中心的心理服務、24 小時心晴熱線 2871 2356 與「心晴快測」自評工具。",
       "summary_en": "Macao's Health Bureau and the neighbourhood associations federation launched a mobile mental health van on 24 August 2026, offering outreach, on-the-spot support and referral, and small emotion-management workshops in community sites.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -109,7 +109,7 @@
       "title_en": "FDA clears Neurora, AI-assisted autism assessment tool for children 18 months to 12 years",
       "summary_zh": "Argus Cognitive 的軟體 Neurora 於 2026 年 10 月 8 日獲 FDA 許可，用於協助臨床人員評估 18 個月至 12 歲兒童的自閉症。工具分析標準行為評估錄影與錄音，量度 100 多項聲音、臉部與視線生物特徵，與有無自閉症診斷的兒童作比較。結果只作輔助，不是獨立診斷，也不需改變現有評估流程。",
       "summary_en": "Argus Cognitive's software Neurora received FDA clearance on 8 October 2026 to assist clinicians in assessing autism in children aged 18 months to 12 years. It analyses video and audio from a standard behavioural assessment, measuring over 100 vocal, facial and gaze biometrics and comparing them with children with and without an autism diagnosis. It is a supporting tool, not a stand-alone diagnosis.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "product",
       "model_names": [],
       "tags": [
@@ -139,7 +139,7 @@
       "title_en": "Macao CSJ Hospital talk on psychiatric medication side effects",
       "summary_zh": "澳門衛生局公布仁伯爵綜合醫院 10 月份專科衛教講座，其中精神科講座「認識精神科口服藥常見的副作用及處理」於 10 月 14 日下午 2 時 30 分至 3 時 30 分，在門診大樓地下層精神科候診區舉行，由專科護士或資深護士主講，毋須預約。對心理治療師而言，可作為轉介或陪同服藥個案與家屬了解藥物副作用的社區資源。",
       "summary_en": "Macao's Health Bureau lists a free, walk-in talk at Conde S. Januário Hospital on 14 Oct 2026 (2:30–3:30 pm, psychiatry waiting area) on common side effects of oral psychiatric medication and how to manage them, given by specialist or senior nurses.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [

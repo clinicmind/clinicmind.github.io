@@ -3,7 +3,7 @@
   "title_en": "MHAHK teacher consultation line for student mental health crises",
   "summary_zh": "香港心理衞生會在 2026 年 9 月 15 日至 10 月 30 日開設「學童精神健康危機－教師專業諮詢專線」，為教師與學校人員提供個案諮詢與服務導航，協助判斷風險程度、即時處理和轉介。專線註明不是 24 小時危機熱線，遇到迫切自殺風險仍要啟動學校危機程序並報警求助。",
   "summary_en": "The Mental Health Association of Hong Kong runs a time-limited consultation line (15 Sep–30 Oct 2026, weekday afternoons) helping teachers assess student mental health risk, get immediate handling advice and referral options. It is explicitly not a 24-hour crisis line.",
-  "category": "臨床與治療應用",
+  "category": "臨床實務",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "服務公告，非研究證據。",
@@ -84,7 +84,7 @@
       "title_en": "HKU CSRP: student suicides not explained by adjustment period",
       "summary_zh": "港大香港賽馬會防止自殺研究中心高級培訓顧問張鳳儀接受東網訪問時指出，開學「適應期」可能帶來壓力，但不能充分解釋學童自殺；自殺通常由多重因素造成，約三成自殺離世學生生前曾被診斷有精神健康問題或有相關醫療服務紀錄。她建議加強前線教師的精神健康及防止自殺培訓、重視教師身心健康、建立人人都是「守門員」的文化，並加強家校合作。",
       "summary_en": "A senior training consultant at HKU's Centre for Suicide Research and Prevention told on.cc that the school 'adjustment period' cannot fully explain student suicides; about 30% of students who died by suicide had prior mental health diagnoses or service records. She urged gatekeeper training for teachers, attention to teacher wellbeing, and stronger home–school partnership.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -115,7 +115,7 @@
       "title_en": "HKU JCKAK whole-school 3-tier ADHD support framework",
       "summary_zh": "香港大學心理學系介紹「Jockey Club Keen and Active Kids Project（JCKAK）」：由 Kathy Shum 教授團隊主導、香港賽馬會慈善信託基金資助，自 2019 年起與教育局及五間非政府機構合作，在主流中小學以全校三層介入模式支援 ADHD 學生。計劃已為逾 6,000 名學生提供實證為本訓練、裝備逾 4,000 名教育工作者，並以工作坊支援 1,500 名家長，另有數碼工具與手冊。",
       "summary_en": "HKU Psychology describes JCKAK, a Jockey Club–funded ADHD support project led by Prof. Kathy Shum's team since 2019 with the Education Bureau and five NGOs. Using a whole-school 3-tier model, it has trained over 6,000 students and 4,000 educators and supported 1,500 parents.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -146,7 +146,7 @@
       "title_en": "Hong Kong EDB school mental health support clarification",
       "summary_zh": "教育局指社交媒體流傳「拒增派到校支援人手」的說法全無事實根據，並列出現行支援：所有公營普通中小學設校本教育心理服務，取錄較多 SEN 學生的學校享教育心理學家與學校 1:4 的「優化服務」，以及小學一校一社工、中學一校兩社工。局方亦提到 2025 年 12 月起中學恆常化「三層應急機制」與 2026/27 學年的新計劃。",
       "summary_en": "Hong Kong's Education Bureau rebutted claims it refused extra on-site support staff, listing school-based educational psychology services (1:4 ratio for schools with more SEN students), school social workers, and the three-tier emergency mechanism made regular in secondary schools from December 2025.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [

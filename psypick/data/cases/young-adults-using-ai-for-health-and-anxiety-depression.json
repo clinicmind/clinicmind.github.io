@@ -3,7 +3,7 @@
   "title_en": "Young adults using AI for health and anxiety depression",
   "summary_zh": "佛羅里達大學 Yusen Zhai 團隊分析 2023–2024 年近 10 萬名美國年輕成人資料，發現用 ChatGPT、Claude 等生成式 AI 詢問健康問題者，焦慮篩檢陽性的勝算高 52%、憂鬱高 46%（約 52% 對 43%、47% 對 38%）。研究只呈現關聯，方向未明；作者建議心理專業人員詢問個案的 AI 使用並協助評估資訊品質。",
   "summary_en": "A University of Florida team led by Yusen Zhai analysed 2023–2024 data from nearly 100,000 US young adults and found those using generative AI such as ChatGPT or Claude for health questions had 52% higher odds of screening positive for anxiety and 46% for depression (about 52% vs 43% and 47% vs 38%). The association is not causal; the authors urge clinicians to ask about AI use and help clients evaluate information quality.",
-  "category": "人機互動心理",
+  "category": "AI 與倫理",
   "kind": "research",
   "evidence_level": 2,
   "evidence_note": "大型橫斷面觀察研究（Journal of Counseling & Development），僅能推論關聯。",
@@ -80,7 +80,7 @@
       "title_en": "Conversational AI tool vs companion harms review",
       "summary_zh": "東北大學研究者在 JMIR Mental Health 發表敘事性回顧〈Tool or Companion?〉，整合 AI、精神醫學、心理學與網絡科學文獻。文章指出使用者把 ChatGPT、Claude、Replika、Character.AI 等當成社會對象，模擬的同理造成缺乏互惠的不對等關係；獎勵「溫暖同理」回應的設計會形成回饋迴圈、放大不適應信念，已有情緒依賴、症狀惡化與自傷的報告。作者主張 AI 應定位為支持人類系統的工具。",
       "summary_en": "Northeastern researchers published a narrative review in JMIR Mental Health ('Tool or Companion?') drawing on AI, psychiatry, psychology and network science. Users treat ChatGPT, Claude, Replika and Character.AI as social entities; simulated empathy creates non-reciprocal relationships, and design that rewards warm responses forms feedback loops amplifying maladaptive beliefs, with reports of dependence, symptom worsening and self-harm. The authors argue AI should be framed as a tool supporting human systems.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [
         "ChatGPT",
@@ -148,7 +148,7 @@
       "title_en": "Dual pathways of graduate students' sustained generative AI use",
       "summary_zh": "澳門理工大學人文及社會科學學院張紅峰副教授與博士畢業生李繁博、博士生陳小龍，以大樣本調查資料分析研究生持續使用生成式 AI 的因素，論文刊於 Journal of Educational Computing Research。研究整合科技接受模型等理論，指出技術創新準備指數與感知導向學習風格等心理與認知因素，經「內隱期望」與「理性認知」兩條路徑影響持續使用。",
       "summary_en": "A Macao Polytechnic University team used large-scale survey data to identify implicit-expectation and rational-cognition pathways shaping graduate students' sustained use of generative AI (Journal of Educational Computing Research).",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [],
       "tags": [

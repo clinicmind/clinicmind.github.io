@@ -3,7 +3,7 @@
   "title_en": "AI in intimate relationships and attachment",
   "summary_zh": "Psychotherapy.net 由 Lawrence Rubin 訪談心理學家 Ammara Khalid。她指出時間壓力與寂寞是人們轉向 AI 的主因，焦慮型依附者可能用聊天機器人逃避不安，逃避型依附者則用它繞過與伴侶的脆弱對話；AI 能模仿同理語言，卻缺乏身體層次的共同調節與互惠回饋。她建議治療師以好奇、合作的態度詢問個案從 AI 得到什麼，並對有自殺意念的個案特別說明風險。",
   "summary_en": "In a Psychotherapy.net interview, psychologist Ammara Khalid says time pressure and loneliness drive people to AI for relationship help. Anxiously attached people may use chatbots to avoid discomfort and avoidant people to sidestep vulnerable talks with partners; AI mimics empathic language but lacks co-regulation and reciprocity. She recommends curious, collaborative questioning about what clients get from AI and explicit risk education for suicidal clients.",
-  "category": "人機互動心理",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "專家訪談與臨床觀點，未提出研究數據。",
@@ -97,7 +97,7 @@
       "title_en": "Conversational AI tool vs companion harms review",
       "summary_zh": "東北大學研究者在 JMIR Mental Health 發表敘事性回顧〈Tool or Companion?〉，整合 AI、精神醫學、心理學與網絡科學文獻。文章指出使用者把 ChatGPT、Claude、Replika、Character.AI 等當成社會對象，模擬的同理造成缺乏互惠的不對等關係；獎勵「溫暖同理」回應的設計會形成回饋迴圈、放大不適應信念，已有情緒依賴、症狀惡化與自傷的報告。作者主張 AI 應定位為支持人類系統的工具。",
       "summary_en": "Northeastern researchers published a narrative review in JMIR Mental Health ('Tool or Companion?') drawing on AI, psychiatry, psychology and network science. Users treat ChatGPT, Claude, Replika and Character.AI as social entities; simulated empathy creates non-reciprocal relationships, and design that rewards warm responses forms feedback loops amplifying maladaptive beliefs, with reports of dependence, symptom worsening and self-harm. The authors argue AI should be framed as a tool supporting human systems.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [
         "ChatGPT",
@@ -134,7 +134,7 @@
       "title_en": "Sue Johnson EFT webinar series on demand with CE",
       "summary_zh": "美國 National Register of Health Service Psychologists 提供四集由 Sue Johnson 主講的情緒取向治療（Emotionally Focused Therapy，Sue Johnson 系，非 Greenberg 的 Emotion-Focused Therapy）錄影課，主題包括以依附為本的伴侶介入、EFT Tango 與微介入、Hold Me Tight 對話與依附創傷修復，以及創傷伴侶。每集 40 美元，含 1–1.5 小時 CE，課程等級標示為進階。",
       "summary_en": "The National Register of Health Service Psychologists offers four recorded webinars by Dr. Sue Johnson on Emotionally Focused Therapy (the Johnson model, not Greenberg's Emotion-Focused Therapy), covering attachment-based couple intervention, the EFT Tango, Hold Me Tight conversations and attachment injuries, and trauma couples. Each costs US$40 including 1–1.5 CE credits; instructional level is advanced.",
-      "category": "進修與培訓",
+      "category": "進修培訓",
       "kind": "training",
       "model_names": [],
       "tags": [
@@ -177,7 +177,7 @@
       "title_en": "Clients using ChatGPT between therapy sessions",
       "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。",
       "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [
         "ChatGPT"

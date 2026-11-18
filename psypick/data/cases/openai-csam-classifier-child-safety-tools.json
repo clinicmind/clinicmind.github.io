@@ -3,7 +3,7 @@
   "title_en": "OpenAI releases free CSAM detection image classifier and child safety interventions",
   "summary_zh": "OpenAI 推出可檢測 CSAM（含 AI 生成內容）的圖像分類器，免費向經審核機構開放；測試顯示可減少 48% 複審量，fal 實測 72% 高置信標記確認為新型 CSAM。同時 ChatGPT 上線新警告，在用戶試圖搜尋涉兒童性剝削內容時打斷並暫停存取 24 小時，另發布開發者 CSAM 治理指南。",
   "summary_en": "OpenAI released an image classifier that detects child sexual abuse material (CSAM), including AI-generated content, free to vetted organisations. Testing suggested it could cut review workload by 48%, and partner fal confirmed 72% of high-confidence flags as novel CSAM. ChatGPT also gained warnings that interrupt searches for child sexual exploitation material and pause access for 24 hours, plus a CSAM governance guide for developers.",
-  "category": "產品與產業",
+  "category": "AI 與倫理",
   "kind": "product",
   "evidence_level": 0,
   "evidence_note": "產品發布（廠商自述）",

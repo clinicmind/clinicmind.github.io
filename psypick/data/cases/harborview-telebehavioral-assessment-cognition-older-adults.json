@@ -3,7 +3,7 @@
   "title_en": "Harborview TeleBehavioral assessment cognition older adults November 20",
   "summary_zh": "華盛頓大學 Harborview 行為健康研究所免費每月網上講座系列（TeleBehavioral Health Training Series），2026 年 11 月 20 日星期五太平洋時間 11:00–12:00（香港時間 11 月 21 日凌晨 3:00–4:00）於 Zoom 舉行，主題為「長者認知評估」。講者為 Emily Trittschuh 博士與 Stephen Thielke 醫學博士。系列開放予任何為精神健康或物質使用人士提供服務者，每場須分別登記，免費參加。",
   "summary_en": "A free monthly webinar from the University of Washington's Harborview Behavioral Health Institute (TeleBehavioral Health Training Series), held on Zoom on Friday, November 20, 2026, 11:00 a.m.-12:00 p.m. PT (3:00-4:00 a.m. HKT on November 21), on the topic \"Assessment of Cognition in Older Adults\". The speakers are Emily Trittschuh, PhD, and Stephen Thielke, MD, MS, MA. The series is open to anyone providing services to people with mental health and substance use issues; each webinar requires separate registration and is free to attend.",
-  "category": "進修與培訓",
+  "category": "進修培訓",
   "kind": "training",
   "evidence_level": 0,
   "evidence_note": "培訓課程資訊，非研究證據（華盛頓大學 Harborview 官方頁面；頁面無刊出日期，於 2026-11-09 核實；經原頁核實）",
@@ -77,7 +77,7 @@
       "title_en": "At-home tablet cognitive testing app versus paper testing",
       "summary_zh": "美國東北大學團隊發表研究，讓認知健康長者在家的平板上完成連線測驗、畫鐘等任務。平板版與紙筆版結果一致，而且能記錄顫抖等微互動訊號。下一步將擴大測試人數。",
       "summary_en": "Northeastern University researchers reported in JMIR Formative Research that cognitively healthy older adults completed tablet-based cognitive tests (trail-making, clock drawing) at home with results consistent with paper versions, while the app captured richer micro-interaction data such as tremor. Participants tested twice over Zoom, two months apart, for test-retest reliability.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [],
       "tags": [
@@ -106,7 +106,7 @@
       "title_en": "Macao dementia month and cognitive assessment figures",
       "summary_zh": "澳門衛生局響應世界失智症月，以「越早知道，越能做更多」為主題辦活動，推廣失智症早發現、早診斷、早治療。新聞稿指衛生中心每年進行逾 3,000 宗認知評估，約 650 宗新確診個案轉介記憶診所，新症平均輪候約 4 星期；失智症友善聯盟已有 209 個單位加入。",
       "summary_en": "For World Alzheimer's Month, Macao's Health Bureau reported over 3,000 cognitive assessments a year at health centres, about 650 new diagnoses referred to memory clinics, and an average four-week wait for new cases.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -137,7 +137,7 @@
       "title_en": "UW free webinar on trauma-focused therapy via telehealth",
       "summary_zh": "華盛頓大學醫學院 Harborview 行為健康研究所的「遠距行為健康系列」是每月一次的免費網上研討會。2026 年 10 月 16 日（太平洋時間上午 11 時至 12 時）由 Michele Bedard-Gilligan 博士主講透過遠距進行創傷焦點治療；11 月 20 日談長者認知評估，12 月 18 日談現代醫療中的專業界線。",
       "summary_en": "UW Medicine's Harborview Behavioral Health Institute runs a free monthly TeleBehavioral Health webinar series. On Oct 16, 2026 (11am–12pm PT) Michele Bedard-Gilligan, PhD presents trauma-focused therapies via telehealth; Nov 20 covers cognitive assessment in older adults and Dec 18 professional boundaries.",
-      "category": "進修與培訓",
+      "category": "進修培訓",
       "kind": "training",
       "model_names": [],
       "tags": [

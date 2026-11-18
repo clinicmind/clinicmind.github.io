@@ -3,7 +3,7 @@
   "title_en": "Smartphone voice diaries for depression monitoring",
   "summary_zh": "npj Digital Medicine 的研究讓 284 名德語成人（128 名重鬱症、156 名健康對照）錄製每週語音日記，共 3,151 則，比較文字嵌入、聲學嵌入與傳統聲學特徵估計 BDI 分數。最佳多模態模型平均絕對誤差 4.37、R² 0.41，區分病人與對照 AUC 0.77；但追蹤同一人的變化接近隨機水準，且樣本只有德語使用者。",
   "summary_en": "In npj Digital Medicine, 284 German-speaking adults (128 MDD, 156 controls) recorded 3,151 weekly smartphone voice diaries. The best multimodal model estimated BDI scores with MAE 4.37 and R² 0.41, and separated patients from controls with AUC 0.77; tracking within-person change was near chance, and the cohort was German-speaking only.",
-  "category": "評估與篩檢",
+  "category": "臨床實務",
   "kind": "research",
   "evidence_level": 2,
   "evidence_note": "縱貫觀察研究與模型比較，無對照介入，無法推論臨床效益。",
@@ -97,7 +97,7 @@
       "title_en": "Digital phenotyping relapse prediction systematic review",
       "summary_zh": "BMC Psychiatry 的系統性回顧納入 52 篇、4,814 名參與者的研究，被動數位表型對 1–4 週後復發的預測 AUC 介於 0.70–0.88，多模態優於單一模態，個人化模型優於群體模型。睡眠改變、活動量與移動範圍下降、社交聯絡減少最具預測力；但 75% 研究偏誤風險高，多缺外部驗證，且沒有任何研究證明能改善臨床結果。",
       "summary_en": "A BMC Psychiatry systematic review of 52 studies (4,814 participants) found passive digital phenotyping predicted relapse 1–4 weeks ahead with AUCs of 0.70–0.88; multimodal and individual-level models performed better. Sleep changes, reduced activity and mobility, and less social communication were most predictive, but 75% of studies had high risk of bias, few had external validation, and none showed improved clinical outcomes.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [],
       "tags": [
@@ -127,7 +127,7 @@
       "title_en": "NAS opposes NHS autism and ADHD assessment restrictions",
       "summary_zh": "英格蘭 15 個 NHS 綜合照護委員會（涵蓋約 1,900 萬人）對自閉症與 ADHD 評估設下最少兩年的等候期，以控制成本。英國自閉症協會（NAS）政策主管 Mel Merritt 指出，診斷往往是取得支援與合理調整的前提，延誤會令兒童錯過關鍵學年並擴大不平等。",
       "summary_en": "Fifteen NHS Integrated Care Boards in England, covering about 19 million people, have imposed minimum two-year waits for autism and ADHD assessments. The National Autistic Society argues diagnosis is the gateway to support and that delays waste children's school years.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "incident",
       "model_names": [],
       "tags": [
@@ -161,7 +161,7 @@
       "title_en": "NAS responds to Uta Frith on autism diagnosis",
       "summary_zh": "認知心理學家 Uta Frith 在《Psychological Medicine》發表〈自閉症譜系障礙：是否已失去意義並導致誤診？〉，質疑現行診斷範圍過寬。英國自閉症協會回應，診斷增加反映社會認識提升，所提亞型仍屬理論、缺乏臨床應用價值，並提醒不要讓自閉症人士互相對立。",
       "summary_en": "Uta Frith's paper in Psychological Medicine questions whether the autism spectrum diagnosis has lost meaning and drives misdiagnosis. The NAS responds that rising diagnoses reflect awareness, that proposed subtypes remain theoretical, and warns against pitting autistic people against each other.",
-      "category": "評估與篩檢",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [

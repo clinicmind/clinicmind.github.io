@@ -3,7 +3,7 @@
   "title_en": "Hong Kong LegCo reply on child self-protection education",
   "summary_zh": "教育局局長蔡若蓮回覆立法會議員林琳，說明小學人文科必修內容涵蓋身體私隱部位、提防性侵犯與欺凌應對，並將性教育列入 2026 年《價值觀教育課程架構》重點。2022/23 至 2024/25 學年舉辦超過 130 場培訓、約 17,500 名教師參加，另有約 67,000 名教育人員登記「保護兒童網上課程」。",
   "summary_en": "Replying to a LegCo question, Hong Kong's Secretary for Education outlined child self-protection content in primary curricula, over 130 teacher training sessions (about 17,500 teachers) in three school years, and some 67,000 educators registered for an online child protection course.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "政府立法會答覆，非研究證據。",
@@ -70,7 +70,7 @@
       "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
       "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
       "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -103,7 +103,7 @@
       "title_en": "Taiwan minors counselling without parental accompaniment",
       "summary_zh": "台灣公共政策網路參與平台有提案建議讓特定年齡青少年就醫身心科與接受心理諮商時免家長陪同，9 月 26 日達附議門檻，共 5,772 人附議。衛福部長石崇良表示，部方已就心理諮商發函說明，當事人對諮商內容有充分理解時不強制家長陪同；至於精神科診斷與用藥涉及醫療相關法規，仍在部內研議，政府須於 11 月 26 日前回應。",
       "summary_en": "A Taiwanese e-petition (5,772 signatures) asks that adolescents be allowed psychiatric and counselling care without parental accompaniment. The health minister said counselling does not require a parent if the minor sufficiently understands it, while psychiatric diagnosis and medication remain under review; a formal reply is due by 26 November.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -135,7 +135,7 @@
       "title_en": "Hong Kong 2026 Policy Address mental health measures",
       "summary_zh": "香港行政長官 2026 年 9 月 16 日在立法會發表的施政報告，於第七章「深化醫療衞生體系改革」第 313 段列出 11 項精神健康措施，涵蓋小四至小六以學校為本的三層應急機制、網上青年支援隊、北都新增精神健康綜合社區中心、「健康心靈先導計劃」擴展、「精神健康分層護理模式」框架，以及家長與職場精神健康。對在港工作的臨床心理學家與輔導人員來說，這些措施會影響轉介路徑與跨專業合作的位置。",
       "summary_en": "Paragraph 313 of Hong Kong's 2026 Policy Address (delivered 16 September 2026) lists 11 mental health measures, from the school-based three-tier emergency mechanism for P4–P6 and the online youth support team to extending the Healthy Mind Pilot Scheme and adopting the tiered mental health care model framework, plus parent and workplace mental health.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [

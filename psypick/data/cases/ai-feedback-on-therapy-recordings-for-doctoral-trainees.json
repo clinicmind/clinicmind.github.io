@@ -3,7 +3,7 @@
   "title_en": "AI feedback on therapy recordings for doctoral trainees",
   "summary_zh": "研究回溯比較兩屆臨床心理博士生（共 23 人）：2024 年一屆每週收到 Lyssn 工具依認知治療評分量表（CTRS）與動機式晤談編碼（MISC）產生的回饋，2022 年一屆沒有。回饋組起點較低，但每週進步速率 0.97 分遠高於對照組的 0.03 分，學期末 CTRS 分數反超；研究為非隨機、小樣本且使用角色扮演。",
   "summary_en": "A retrospective comparison of two doctoral clinical psychology cohorts (n=23): the 2024 cohort received weekly Lyssn feedback coded on the CTRS and MISC, the 2022 cohort did not. Despite a lower start, the feedback cohort improved 0.97 CTRS units per week vs 0.03 and finished higher; the study was nonrandomized, small, and used role-plays.",
-  "category": "督導與訓練",
+  "category": "臨床實務",
   "kind": "research",
   "evidence_level": 2,
   "evidence_note": "兩屆學生的回溯性比較，未隨機分派，屬前導層級證據。",
@@ -91,7 +91,7 @@
       "title_en": "Semantic similarity scoring of therapy session fidelity",
       "summary_zh": "CLPsych 2026 的這篇論文把治療者語句與 CTRS、MISC、WAI 等量表條目做語意比對，並用 LLM 生成示範語句來擴充條目，不需額外訓練模型。在精神病超高風險青年的 182 份逐字稿與 133 份公開動機式晤談示範中，能區分不同治療取向（Cohen's d 約 0.7–0.85），但尚未與人工評分做相關驗證。",
       "summary_en": "This CLPsych 2026 paper scores therapist utterances by semantic similarity to CTRS, MISC and WAI items, augmented with LLM-generated exemplars, without model training. On 182 transcripts from youth at ultra-high risk for psychosis and 133 public MI demos, it separated treatment modalities (Cohen's d ~0.7–0.85), but was not validated against human fidelity ratings.",
-      "category": "督導與訓練",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [
         "Gemini 3.0",
@@ -124,7 +124,7 @@
       "title_en": "LLM simulated practice and feedback for novice counselors",
       "summary_zh": "這項隨機研究把 94 名新手諮商員分為「只練習」與「練習加 LLM 回饋」兩組。回饋組在反映、提問等個案中心微技巧上有明顯進步，只練習組則沒有；只練習組的同理表現隨時間顯著下降。質性資料顯示回饋幫助參與者轉向個案中心的傾聽，只練習者則維持解決問題導向。",
       "summary_en": "This randomized study assigned 94 novice counselors to practice alone or practice plus LLM-generated feedback. The feedback group improved on client-centered microskills such as reflections and questions, while practice alone produced no gains and empathy declined over time. Qualitative data suggest feedback shifted participants toward client-centered listening.",
-      "category": "督導與訓練",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [],
       "tags": [
@@ -154,7 +154,7 @@
       "title_en": "Collaborative case formulation in emotion focused therapy",
       "summary_zh": "Manastireanu、Robert Elliott 等人 2026 年 8 月發表的研究，微分析 Greenberg 系情緒取向治療（Emotion-Focused Therapy）資深治療師的會談錄影，歸納合作式個案概念化的五個特徵：反思性、連結性、說出之前未說的、合作的、作為主要活動。最常見的治療師回應包括同理式概念化、推測與重新聚焦。",
       "summary_en": "A 2026 microanalytic study by Manastireanu, Elliott and Stephen identified five features of collaborative case formulation work in emotion focused therapy and found empathic formulation, conjecture and refocusing to be the most common therapist responses.",
-      "category": "督導與訓練",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [],
       "tags": [

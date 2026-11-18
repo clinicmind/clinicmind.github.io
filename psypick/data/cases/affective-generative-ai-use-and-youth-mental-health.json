@@ -3,7 +3,7 @@
   "title_en": "Affective generative AI use and youth mental health",
   "summary_zh": "JAMA Pediatrics 刊出安大略省大型橫斷面調查，探討青少年以生成式 AI 傾訴感受（情感性使用）與情緒問題的關聯。研究分析 39,761 名 4 至 12 年級學生（2025 年 5 月至 2026 年 3 月，安大略省健康與同儕關係研究），8,408 人（21%）曾用 AI 聊天機械人傾訴感受或尋求人際建議，年級越高、女學生、種族化與性別多元青少年比率越高。情感性使用 AI 的學生中，57.7% 達臨床情緒問題水平，未用者為 29.2%；即使計入人口特徵、孤獨感、歸屬感與學業用 AI 後，臨床情緒問題盛行率仍高 26%。作者強調，橫斷面設計不能證明因果，向 AI 傾訴可能是求助信號，值得成人以不帶批判的對話回應，而非只問「有冇用 AI」。研究由渥太華大學 Bonnesen 與 Vaillancourt 領導。",
   "summary_en": "JAMA Pediatrics published a large cross-sectional survey from Ontario examining whether young people's affective use of generative AI (turning to chatbots for emotional support or relationship advice) is associated with emotional problems. Among 39,761 students in grades 4-12 (May 2025-March 2026, Ontario Health and Peer Relations Study), 8,408 (21%) had used an AI chatbot for feelings or advice, more often among older students, girls, and racialized and gender-diverse youth. Of affective AI users, 57.7% met criteria for clinically significant emotional problems versus 29.2% of non-users; after accounting for demographics, loneliness, mattering and school-related AI use, the prevalence of clinical-level emotional difficulties remained 26% higher. The authors stress the cross-sectional design cannot show causation and that affective AI use may be a signal to start a nonjudgmental conversation. Led by Bonnesen and Vaillancourt (University of Ottawa).",
-  "category": "人機互動心理",
+  "category": "AI 與倫理",
   "kind": "research",
   "evidence_level": 2,
   "evidence_note": "橫斷面調查（JAMA Pediatrics 2026 年 8 月 31 日線上刊出，2026 年 11 月號 180 卷 11 期 1260–1267 頁；DOI: 10.1001/jamapediatrics.2026.3904；經渥太華大學官方報道與 JAMA 記錄核實；2026-11-09 經 JAMA Pediatrics LinkedIn 帖文重新受到關注）",
@@ -133,7 +133,7 @@
       "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
       "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
       "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "incident",
       "model_names": [],
       "tags": [

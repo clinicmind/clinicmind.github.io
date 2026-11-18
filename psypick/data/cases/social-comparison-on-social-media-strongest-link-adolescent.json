@@ -63,7 +63,7 @@
       "title_en": "UK under-16 social media ban: two professional perspectives",
       "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
       "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -97,7 +97,7 @@
       "title_en": "Therapists on social media and professional boundaries",
       "summary_zh": "Jonathan Shedler 指出，心理治療需要持續的專業關係、完整的個人史與專注的評估，這些在社群媒體上都不存在。在網路上對陌生人提供類治療建議的專業人員，借用了頭銜的權威，卻不承擔法律與倫理責任；而表面的困擾背後可能藏著創傷、自殺意念或身體疾病，需要完整評估。",
       "summary_en": "Jonathan Shedler argues psychotherapy requires an ongoing professional relationship, full history and careful evaluation, none of which exist on social media. Professionals who give therapy-like advice to strangers online borrow the authority of their credentials while assuming no legal or ethical responsibility, and surface complaints may hide trauma, suicidality or medical conditions.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [

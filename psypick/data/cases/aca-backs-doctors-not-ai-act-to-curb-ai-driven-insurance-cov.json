@@ -3,7 +3,7 @@
   "title_en": "ACA backs Doctors Not AI Act to curb AI-driven insurance coverage denials",
   "summary_zh": "美國諮商學會（ACA）宣布與另外 44 個心理健康與醫療組織共同支持兩黨法案《Doctors Not AI Act》（H.R. 10210）。該法案針對保險公司以 AI、演算法自動審查理賠、決定醫療必要性的做法設下防線：凡需臨床判斷的拒保決定，必須由具適當專長的持牌醫療人員做出，且須提高透明度並考量個人情況。",
   "summary_en": "On 2 Oct 2026 the American Counseling Association joined 44 other mental-health and medical organizations backing the bipartisan Doctors Not AI Act (H.R. 10210): insurers could not use AI alone to deny coverage, medical-necessity denials would need a licensed professional with appropriate expertise, with more transparency and individual circumstances considered.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "incident",
   "evidence_level": 0,
   "evidence_note": "專業組織聲明，法案尚在國會階段",
@@ -75,7 +75,7 @@
       "title_en": "Newsom vetoes California SB 903 on AI in therapy",
       "summary_zh": "加州州長 Newsom 否決了 SB 903。該法案原本要禁止 AI 演算法提供或宣傳心理治療服務，持照專業人員只能把 AI 用於行政或輔助支援，用 AI 錄製治療會談前須清楚揭露並取得同意，也不准 AI 獨立與個案互動或作治療決定。法案在參議院全票通過、眾議院以 71 比 4 通過；州長的否決理由認為對病人與臨床人員的保護「過了頭」，提案人 Padilla 則強烈批評。",
       "summary_en": "California Governor Gavin Newsom vetoed SB 903, which would have barred AI from providing or advertising therapy, limited licensed clinicians to administrative or supplementary AI use, required disclosure and consent before AI recording of sessions, and banned AI from independently interacting with clients or making therapeutic decisions. The bill had passed the Senate unanimously and the Assembly 71-4; the veto message said its protections went too far, drawing sharp criticism from author Sen. Steve Padilla.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -107,7 +107,7 @@
       "title_en": "California signs three healthcare AI bills",
       "summary_zh": "加州州長簽署三項醫療 AI 法案：AB 1979 把 AI 在臨床照護中限於諮詢角色、不得執行需執照的臨床功能，並保護經由聊天機器人取得的病人健康資訊；SB 503 要求醫療 AI 開發者與使用者辨識、減輕並持續監測臨床決策支援系統的偏誤風險；AB 1609 禁止大型企業把客服聊天機器人包裝成真人。同時被否決的有 AB 2575 和處理 AI 心理治療的 SB 903。",
       "summary_en": "California's governor signed three healthcare AI bills: AB 1979 restricts AI to an advisory role in clinical care, bars it from performing licensed clinical functions and protects health information accessed through chatbots; SB 503 requires developers and deployers to identify, mitigate and monitor bias risks in clinical decision support; AB 1609 bars large enterprises from presenting customer-service chatbots as human. AB 2575 and the AI-in-psychotherapy bill SB 903 were vetoed.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -139,7 +139,7 @@
       "title_en": "Anna Freud backs the Babies Bill on the first 1,001 days",
       "summary_zh": "《Infants, Parents and Carers Bill》（俗稱 Babies Bill）由 Sir Desmond Swayne 議員提出，要求政府為孕期至兩歲的嬰兒、父母與照顧者評估需要、委託服務並每年向國會報告，二讀定於 2026 年 9 月 4 日。Anna Freud 代理行政總裁 Claire Evans 表示「心理健康在出生前就開始」，主張結合嬰兒心理健康服務與父母支援。",
       "summary_en": "Anna Freud's acting CEO Claire Evans endorses the Infants, Parents and Carers Bill, a Private Members' Bill by Sir Desmond Swayne MP that would place duties on government to assess needs and commission services for the first 1,001 days.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [

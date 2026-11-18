@@ -3,7 +3,7 @@
   "title_en": "Why teens turn to AI for emotional support",
   "summary_zh": "Brown 大學臨床心理學家 Jacqueline Nesi 在電子報整理 Hopelab 與哈佛 Center for Digital Thriving 的訪談報告：青少年向 AI 尋求情緒支持，是因為不想對朋友「trauma dump（情緒傾倒）」、覺得 AI 不會評判，而且隨時可用。同期也整理一篇使用 ABCD 資料的研究，發現成癮式社群媒體使用與家長回報的 ADHD 症狀有小幅關聯，Nesi 提醒不能推論因果。",
   "summary_en": "Clinical psychologist Jacqueline Nesi summarizes a Hopelab and Harvard Center for Digital Thriving interview report: teens turn to AI for emotional support to avoid 'trauma dumping' on friends, because AI feels non-judgmental, and because it is always available. She also covers an ABCD-based study linking addictive social media use to small increases in parent-reported ADHD symptoms, cautioning against causal claims.",
-  "category": "人機互動心理",
+  "category": "AI 與倫理",
   "kind": "research",
   "evidence_level": 2,
   "evidence_note": "引用質性訪談報告與觀察性世代研究的二手整理，無法推論因果。",
@@ -89,7 +89,7 @@
       "title_en": "UK under-16 social media ban: two professional perspectives",
       "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
       "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -123,7 +123,7 @@
       "title_en": "Taiwan 2026 survey: AI deepfake risks among junior high students",
       "summary_zh": "兒福聯盟在 2026 年 4–5 月透過學校發放線上問卷，取得 11,920 份國中生有效樣本。31.4% 曾經歷或目睹 AI 相關問題，15.1% 看過 AI 製作的假照片或影片，2.5% 看過同學被 AI 生成的性影像，而只有 31.8% 能辨識 AI 生成的假新聞圖片；54.8% 遇過網路霸凌或令人不舒服的內容。",
       "summary_en": "A 2026 online survey of 11,920 Taiwanese junior high students found 31.4% had experienced or witnessed AI-related problems, 15.1% had seen AI-faked images or videos and 2.5% had seen AI-generated sexual images of classmates; only 31.8% could identify an AI-generated fake news image.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [],
       "tags": [

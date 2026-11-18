@@ -3,7 +3,7 @@
   "title_en": "Cumulative AI use isolation measurement infrastructure STAT opinion",
   "summary_zh": "康奈爾大學學者 10 月 26 日在 STAT 撰文指出，AI 公司與立法者的注意力幾乎全放在單次對話的急性傷害，例如精神病性症狀或自殺相關事件；但累積傷害是另一回事：即使每一次對話都安全，數月使用下來仍可能逐漸取代與親友的連結。初步研究顯示，陪伴或情緒支援用途集中於少數重度使用者，而重度使用與社交減少、孤獨感增加有關，但證據仍屬初步且有爭議。作者呼籲在傷害變得無可否認之前，先建立量度方法與數據取用機制，否則政策窗口打開時將無據可依。",
   "summary_en": "Cornell researchers argue in a STAT opinion (October 26, 2026) that current AI safeguards target acute harms in single conversations, while cumulative harm — AI interaction gradually displacing human relationships over months — goes unmeasured. Early studies link heavier use to reduced socialization and increased loneliness, but evidence is preliminary and debated. The authors call for measurement infrastructure before harm becomes undeniable.",
-  "category": "倫理與風險",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 1,
   "evidence_note": "專家評論文章（引用初步研究，非原始研究）",
@@ -63,7 +63,7 @@
       "title_en": "Why teens turn to AI for emotional support",
       "summary_zh": "Brown 大學臨床心理學家 Jacqueline Nesi 在電子報整理 Hopelab 與哈佛 Center for Digital Thriving 的訪談報告：青少年向 AI 尋求情緒支持，是因為不想對朋友「trauma dump（情緒傾倒）」、覺得 AI 不會評判，而且隨時可用。同期也整理一篇使用 ABCD 資料的研究，發現成癮式社群媒體使用與家長回報的 ADHD 症狀有小幅關聯，Nesi 提醒不能推論因果。",
       "summary_en": "Clinical psychologist Jacqueline Nesi summarizes a Hopelab and Harvard Center for Digital Thriving interview report: teens turn to AI for emotional support to avoid 'trauma dumping' on friends, because AI feels non-judgmental, and because it is always available. She also covers an ABCD-based study linking addictive social media use to small increases in parent-reported ADHD symptoms, cautioning against causal claims.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [],
       "tags": [
@@ -122,7 +122,7 @@
       "title_en": "South Korea issues mental health AI guidelines: do not treat chatbot answers as medical diagnoses",
       "summary_zh": "韓國保健福祉部與韓國神經精神醫學會於 2026 年 10 月 8 日發佈心理健康 AI 使用指引，一般使用者 21 條，兒童青少年與監護人各 7 條。調查發現自評心理健康差的人最容易把 AI 回應當成醫療判斷（33.9%），向 AI 傾訴自殺衝動者近半數事後沒有求助。指引把「取得資訊或安慰」和「把診斷治療交給機器」劃出界線。",
       "summary_en": "The Korean Ministry of Health and Welfare and the Korean Neuropsychiatric Association released mental-health AI guidelines on 8 October 2026: 21 recommendations for general users plus 7 each for children/adolescents and guardians. Among respondents with poor self-rated mental health, 33.9% had treated AI responses as medical judgement; among 115 who disclosed depression, self-harm or suicidal urges to AI, 49.6% took no further action. The guidance allows talking to AI but asks that diagnosis, treatment and major life decisions go back to professionals.",
-      "category": "倫理與風險",
+      "category": "AI 與倫理",
       "kind": "incident",
       "model_names": [],
       "tags": [

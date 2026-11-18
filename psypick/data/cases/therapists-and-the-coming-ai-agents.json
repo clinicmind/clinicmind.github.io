@@ -3,7 +3,7 @@
   "title_en": "Therapists and the coming AI agents",
   "summary_zh": "臨床心理師 Marianne Brandon 在 Psychology Today 指出，專業界多半還在討論聊天機器人，但 AI 代理人已經出現：它們能追求目標、執行多步驟任務、記住互動並持續監測。她認為未來個人 AI 代理人對個案生活的了解可能超過治療師，甚至與臨床判斷相左，而科技公司的目標是讓 AI 成為使用者生活中不可或缺、令人依戀的存在。",
   "summary_en": "Clinical psychologist Marianne Brandon argues in Psychology Today that the field is still debating chatbots while AI agents—systems that pursue goals, execute multi-step tasks, remember interactions and monitor situations—are already here. Personal agents may come to know more about clients' lives than therapists and contradict clinical understanding, and companies aim to make them indispensable and emotionally sticky.",
-  "category": "人機互動心理",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 0,
   "evidence_note": "專欄評論，未引用研究數據。",
@@ -90,7 +90,7 @@
       "title_en": "What the heck is happening with AI right now?",
       "summary_zh": "臨床心理師 Jacqueline Nesi 回顧 2026 年 8–9 月的 AI 安全新聞（Hugging Face 駭入事件、Anthropic 員工辭職潮、OpenAI 通報多起模型異常行為、UN 安理會與美中峰會），用「集體行動問題」框架解釋為何各大實驗室明知有風險仍在競速。她提醒：談論 AI 風險的語言（如「失控」「毀滅機率」）會讓人誤以為自己只是被動旁觀者，但這些系統終究是人類設計的，人類仍保有選擇。",
       "summary_en": "Clinical psychologist Jacqueline Nesi reviews recent AI-safety news in her Techno Sapiens newsletter and frames it as a collective-action problem, noting that risk language like 'out of control' can make people feel like passive bystanders.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [],
       "tags": [
@@ -120,7 +120,7 @@
       "title_en": "UK under-16 social media ban: two professional perspectives",
       "summary_zh": "英國政府於 2026 年 6 月宣布，明年起禁止 16 歲以下使用 YouTube、Instagram 等多個社交平台（WhatsApp、Signal 除外）。教師顧問 Andrew Apraku 以校內網絡欺凌、深偽圖像、睡眠不足等問題支持禁令；自閉症顧問 Ann Memmott 則指出社交媒體是孤立、殘障與神經多樣青少年的重要連結，並引用澳洲經驗指約七成年輕人在數月內找到繞過方法。",
       "summary_en": "Anna Freud presents two professional views on the UK's planned under-16 social media ban: a teacher who supports it citing cyberbullying and deepfakes, and a neurodiversity consultant who warns it may cut off isolated and neurodivergent youth.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -154,7 +154,7 @@
       "title_en": "Dual pathways of graduate students' sustained generative AI use",
       "summary_zh": "澳門理工大學人文及社會科學學院張紅峰副教授與博士畢業生李繁博、博士生陳小龍，以大樣本調查資料分析研究生持續使用生成式 AI 的因素，論文刊於 Journal of Educational Computing Research。研究整合科技接受模型等理論，指出技術創新準備指數與感知導向學習風格等心理與認知因素，經「內隱期望」與「理性認知」兩條路徑影響持續使用。",
       "summary_en": "A Macao Polytechnic University team used large-scale survey data to identify implicit-expectation and rational-cognition pathways shaping graduate students' sustained use of generative AI (Journal of Educational Computing Research).",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [],
       "tags": [

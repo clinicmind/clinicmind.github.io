@@ -3,7 +3,7 @@
   "title_en": "Therabot generative AI therapy chatbot RCT",
   "summary_zh": "達特茅斯團隊在 NEJM AI 發表 Therabot 隨機對照試驗，210 名有重鬱、廣泛性焦慮或飲食疾患風險的成人分為使用組與對照組，為期 8 週。使用組憂鬱症狀平均下降 51%、焦慮 31%、體重與身形擔憂 19%，參與者評估的治療同盟與面對面治療相當；研究團隊監看回應，作者強調目前沒有生成式 AI 可以完全自主運作。",
   "summary_en": "Dartmouth researchers reported in NEJM AI a randomized trial of Therabot with 210 adults with MDD, GAD, or eating-disorder risk over 8 weeks. Users saw average reductions of 51% in depressive, 31% in anxiety, and 19% in body-image/weight-concern symptoms, and rated the alliance comparable to in-person care; the team monitored responses and stressed that no generative AI agent is ready to operate fully autonomously.",
-  "category": "臨床與治療應用",
+  "category": "臨床實務",
   "kind": "research",
   "evidence_level": 3,
   "evidence_note": "隨機對照試驗（NEJM AI 2025），依大學新聞稿內容整理；為 2025 年發表的指標性研究。",
@@ -97,7 +97,7 @@
       "title_en": "PETRUSHKA ML decision support for antidepressants RCT",
       "summary_zh": "Mental Elf 評析 Cipriani 等人 2026 年刊於 JAMA 的 PETRUSHKA 隨機對照試驗。這個決策支援工具以機器學習預測模型結合病人對副作用的偏好，在巴西、英國、加拿大 47 個據點納入 520 位重度憂鬱症患者（主要分析 493 人）；8 週停藥人數 41 對 69（RR=0.62），24 週停藥無明顯差異，但憂鬱與焦慮分數較低。",
       "summary_en": "The Mental Elf reviews Cipriani et al.'s 2026 JAMA RCT of PETRUSHKA, a decision-support tool combining machine-learning prediction models with patients' side-effect preferences. Across 47 sites in Brazil, the UK and Canada (520 eligible, 493 analysed), 8-week discontinuation was 41 vs 69 (RR=0.62); 24-week discontinuation did not clearly differ, though depression and anxiety scores were lower.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [
         "PETRUSHKA"
@@ -129,7 +129,7 @@
       "title_en": "Therabot developer Jacobson on AI safety and oversight",
       "summary_zh": "Dartmouth 校園報專訪 Therabot 研發者 Nicholas Jacobson。他說 Therabot 已有隨機對照試驗、另有兩項研究接近完成，並形容生成式 AI「會說出你從沒教它說的話」，這種靈活是雙面刃。他主張審慎監管，但反對一律要求臨床人員逐一審核，認為這會把責任不當地轉嫁到臨床人員而非開發者身上。",
       "summary_en": "In a student-paper Q&A, Therabot developer Nicholas Jacobson says Therabot has completed randomized trials with two more studies nearing completion, and calls generative AI's fluidity a double-edged sword. He favors thoughtful regulation but opposes blanket clinician-review mandates, arguing they shift liability onto clinicians rather than AI developers.",
-      "category": "產品與產業",
+      "category": "AI 與倫理",
       "kind": "product",
       "model_names": [
         "Therabot",
@@ -164,7 +164,7 @@
       "title_en": "WHO launches practical guide on transitioning psychiatric hospitals to community-based care on World Mental Health Day",
       "summary_zh": "2026 年 10 月 9 日，WHO 與世界心理健康聯盟等機構舉辦世界心理健康日網上研討會，主題為「聽見親身經歷：真實的聲音，真實的改變」。會上發佈 WHO 新指引《精神科醫院去機構化實務指引》，協助各國把長期住院照護轉為尊重權利與選擇的社區照護，並讓有親身經歷者參與服務設計。研討會需事先註冊。",
       "summary_en": "WHO and partners, including the World Federation for Mental Health, hold a World Mental Health Day webinar on 9 October 2026 under the theme 'Lived Experiences Heard: Real Voices, Real Change'. It launches WHO's guide on deinstitutionalising psychiatric hospitals, to help countries move long-term inpatient care to rights-based, community-based services. Registration is required.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "practice",
       "model_names": [],
       "tags": [

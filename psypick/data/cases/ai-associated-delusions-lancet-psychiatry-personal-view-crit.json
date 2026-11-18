@@ -3,7 +3,7 @@
   "title_en": "AI-associated delusions Lancet Psychiatry personal view critique",
   "summary_zh": "The Lancet Psychiatry 刊出 Morrin 等人的 Personal View，整理 20 則媒體報導中與 AI 聊天機器人使用相關的妄想案例，主題集中在視 AI 為有意識或神一般的存在、靈性或救世主信念，以及戀愛妄想。作者提出記憶功能、傾向肯定使用者、擬人化設計等可能機制，並建議臨床常規評估 AI 使用；Mental Elf 評論則指出個案來自媒體、未經查證，無法確立因果。",
   "summary_en": "A Lancet Psychiatry Personal View by Morrin and colleagues reviewed 20 media-reported cases of delusions linked to AI chatbot use, with themes of AI as conscious or godlike, spiritual or messianic beliefs, and romantic delusions. It proposes mechanisms such as memory, validation and anthropomorphic design and recommends routine clinical assessment of AI use; the Mental Elf critique notes the unverified, media-sourced cases cannot establish causality.",
-  "category": "人機互動心理",
+  "category": "AI 與倫理",
   "kind": "research",
   "evidence_level": 0,
   "evidence_note": "原文為 Personal View，個案取自未經查證的媒體報導；本來源為對該文的評論。",
@@ -89,7 +89,7 @@
       "title_en": "Clients using ChatGPT between therapy sessions",
       "summary_zh": "心理治療師 Anastasia Piatakhina Giré 以三段化名臨床片段，描述個案在晤談之間用 ChatGPT 反思、處理情緒與創作的經驗。她認為 AI 提供不評判、隨時可得的回應，但無法給予治療師「我也是」式的真實共鳴；治療應把 AI 視為補充，並處理 AI 過於圓滑的結論所略過的羞愧與模糊。",
       "summary_en": "Psychotherapist Anastasia Piatakhina Giré uses three vignettes to describe clients using ChatGPT between sessions for reflection, emotional processing and creative work. She argues AI offers non-judgmental availability but lacks the lived, 'me too' resonance of a human therapist, and that therapy should treat AI as a complement while working with the ambiguity and shame its neat conclusions bypass.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [
         "ChatGPT"
@@ -122,7 +122,7 @@
       "title_en": "AI in intimate relationships and attachment",
       "summary_zh": "Psychotherapy.net 由 Lawrence Rubin 訪談心理學家 Ammara Khalid。她指出時間壓力與寂寞是人們轉向 AI 的主因，焦慮型依附者可能用聊天機器人逃避不安，逃避型依附者則用它繞過與伴侶的脆弱對話；AI 能模仿同理語言，卻缺乏身體層次的共同調節與互惠回饋。她建議治療師以好奇、合作的態度詢問個案從 AI 得到什麼，並對有自殺意念的個案特別說明風險。",
       "summary_en": "In a Psychotherapy.net interview, psychologist Ammara Khalid says time pressure and loneliness drive people to AI for relationship help. Anxiously attached people may use chatbots to avoid discomfort and avoidant people to sidestep vulnerable talks with partners; AI mimics empathic language but lacks co-regulation and reciprocity. She recommends curious, collaborative questioning about what clients get from AI and explicit risk education for suicidal clients.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "practice",
       "model_names": [],
       "tags": [
@@ -154,7 +154,7 @@
       "title_en": "APA survey psychologists patients bring AI chatbots to therapy",
       "summary_zh": "APA 於 2026 年 4 月對隨機抽樣的美國持照心理師進行線上調查，1,242 人回覆；超過 75% 表示個案曾在晤談中談到 AI，35% 表示有個案把聊天機器人當作輔助的心理健康專業者。68% 觀察到個案覺得被聊天機器人支持，但 36% 觀察到依賴，97% 擔心聊天機器人會強化負面行為或妄想。",
       "summary_en": "In an April 2026 online survey of randomly sampled US licensed psychologists (1,242 responses), over 75% said patients discuss AI in sessions and 35% said patients use chatbots as a supplementary mental health professional. 68% observed patients feeling supported, 36% observed dependence, and 97% worried chatbots could reinforce negative behaviours or delusions.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [],
       "tags": [

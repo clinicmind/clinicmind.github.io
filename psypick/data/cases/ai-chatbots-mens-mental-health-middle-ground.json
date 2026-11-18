@@ -3,7 +3,7 @@
   "title_en": "AI chatbots mens mental health middle ground",
   "summary_zh": "男性佔自殺死亡人數高達八成，接受心理治療的機會卻只有女性約一半。皮尤研究中心調查發現，8% 男性用聊天機械人尋求情緒支援。受訪專家指出，聊天機械人因不帶評價、無須預約，或能降低男性求助的門檻；但現有研究有限，長期效益未明，過度依賴、取代人際互動等傷害亦未有明確定義。Dartmouth 的 Therabot 隨機對照試驗顯示症狀減輕，但研究者提醒不可把結果推廣至一般商用聊天機械人。",
   "summary_en": "A STAT feature (November 9, 2026) explores whether AI chatbots can reach men, who account for up to 80% of suicide deaths but are about half as likely as women to receive mental health treatment. A Pew survey found 8% of men use chatbots for emotional support; experts say the non-judgmental, always-available format lowers the help-seeking threshold, but evidence of lasting benefit is limited and the definition of harm from extended AI relationships is unsettled. Dartmouth's Therabot RCT showed symptom reductions, but researchers caution against generalizing to commercial chatbots.",
-  "category": "人機互動心理",
+  "category": "AI 與倫理",
   "kind": "practice",
   "evidence_level": 1,
   "evidence_note": "新聞特寫（專家訪談與初步研究，長期效益未明）",
@@ -74,7 +74,7 @@
       "title_en": "Therabot generative AI therapy chatbot RCT",
       "summary_zh": "達特茅斯團隊在 NEJM AI 發表 Therabot 隨機對照試驗，210 名有重鬱、廣泛性焦慮或飲食疾患風險的成人分為使用組與對照組，為期 8 週。使用組憂鬱症狀平均下降 51%、焦慮 31%、體重與身形擔憂 19%，參與者評估的治療同盟與面對面治療相當；研究團隊監看回應，作者強調目前沒有生成式 AI 可以完全自主運作。",
       "summary_en": "Dartmouth researchers reported in NEJM AI a randomized trial of Therabot with 210 adults with MDD, GAD, or eating-disorder risk over 8 weeks. Users saw average reductions of 51% in depressive, 31% in anxiety, and 19% in body-image/weight-concern symptoms, and rated the alliance comparable to in-person care; the team monitored responses and stressed that no generative AI agent is ready to operate fully autonomously.",
-      "category": "臨床與治療應用",
+      "category": "臨床實務",
       "kind": "research",
       "model_names": [
         "Therabot"
@@ -106,7 +106,7 @@
       "title_en": "Why teens turn to AI for emotional support",
       "summary_zh": "Brown 大學臨床心理學家 Jacqueline Nesi 在電子報整理 Hopelab 與哈佛 Center for Digital Thriving 的訪談報告：青少年向 AI 尋求情緒支持，是因為不想對朋友「trauma dump（情緒傾倒）」、覺得 AI 不會評判，而且隨時可用。同期也整理一篇使用 ABCD 資料的研究，發現成癮式社群媒體使用與家長回報的 ADHD 症狀有小幅關聯，Nesi 提醒不能推論因果。",
       "summary_en": "Clinical psychologist Jacqueline Nesi summarizes a Hopelab and Harvard Center for Digital Thriving interview report: teens turn to AI for emotional support to avoid 'trauma dumping' on friends, because AI feels non-judgmental, and because it is always available. She also covers an ABCD-based study linking addictive social media use to small increases in parent-reported ADHD symptoms, cautioning against causal claims.",
-      "category": "人機互動心理",
+      "category": "AI 與倫理",
       "kind": "research",
       "model_names": [],
       "tags": [
