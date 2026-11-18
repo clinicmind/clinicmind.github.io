@@ -17,14 +17,39 @@
   --cm-font-body: "Noto Sans TC", "Noto Sans CJK TC", "PingFang TC", "Heiti TC", "Microsoft JhengHei", sans-serif;
   --cm-font-display: "Noto Serif TC", "Noto Serif CJK TC", "Songti TC", "PMingLiU", serif;
   --cm-font-latin: Georgia, "Times New Roman", serif;
+  --cm-font-data: ui-monospace, "SF Mono", "Cascadia Mono", "Roboto Mono", monospace;
   --cm-space-1: 4px;
   --cm-space-2: 8px;
   --cm-space-3: 12px;
   --cm-space-4: 16px;
   --cm-space-6: 24px;
   --cm-space-8: 32px;
-  --cm-radius-card: 12px;
+  --cm-radius-card: 10px;
   --cm-radius-pill: 999px;
+  --cm-ease: cubic-bezier(.2, .6, .2, 1);
+  /* T3-2（計劃 7.2）：介面層次與狀態訊號。「Clinical Signal」用。
+     文字對比已核實達 WCAG AA：signal-warn #875E3F 對 Paper 5.2:1、
+     ink-secondary #536A62 對 Paper 5.35:1；Sage 只作邊框／大面積，不作小字。 */
+  --cm-surface-0: #F7F5F0;   /* 頁面底 = Paper */
+  --cm-surface-1: #FFFFFF;   /* 卡片 */
+  --cm-surface-2: #EDF0EB;   /* 次級區塊、篩選列 = Mist */
+  --cm-line: #D9D7D0;        /* 細線（同 --cm-border） */
+  --cm-line-strong: #89A49C; /* 作用中的邊框 = Sage */
+  --cm-signal-live: #2F5D56;   /* 現行、已核實 = Forest */
+  --cm-signal-warn: #875E3F;   /* 即將截止、待查證（文字用，同 --cm-accent-text） */
+  --cm-signal-muted: #536A62;  /* 已結束、歸檔（同 --cm-ink-secondary） */
+}
+/* T3-2（計劃 7.2）：深色模式色票。PsyPick 以 [data-theme="dark"] 或
+   prefers-color-scheme 套用；臨床服務頁不套用，保持淺色。 */
+[data-theme="dark"] {
+  --cm-surface-0: #0F1F1C;
+  --cm-surface-1: #162B27;
+  --cm-surface-2: #1D3833;
+  --cm-line: #2A4A44;
+  --cm-border: #2A4A44;
+  --cm-ink: #E6ECE8;
+  --cm-ink-secondary: #A9BDB6;
+  --cm-signal-warn: #D9B596;
 }
 /* Optional migration layer for the existing public site: apply only after visual QA. */
 .cm-theme {
