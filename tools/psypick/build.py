@@ -129,6 +129,44 @@ def count_in(data, key):
     return len(val) if isinstance(val, list) else 0
 
 
+# T3-7：列表用的 lite 版——只留卡片／篩選／搜尋需要的欄位，摘要截短到卡片
+# 可見長度（約 3 行）。詳情頁本來就另外讀完整 case 檔／family.json，不受影響。
+LITE_CASE_FIELDS = (
+    "slug", "title_zh", "title_en", "category", "kind", "tags", "model_names",
+    "date", "evidence_level", "verify_needed", "tier", "has_ethics_flags",
+    "hot_score", "featured_at", "mention_count", "deadline_soon",
+    "source_domain", "training",
+)
+LITE_FAM_FIELDS = (
+    "slug", "kind", "title_zh", "title_en", "topic", "region", "org", "ages",
+    "age_min", "age_max", "tags", "posted_at", "ended", "verify_needed",
+)
+LITE_ACTIVITY_FIELDS = ("date_start", "date_end", "free", "venue", "time", "organizer", "price")
+LITE_BOUNTY_FIELDS = ("reward", "organizer", "deadline", "guaranteed", "method",
+                      "eligibility", "duration", "reward_type", "location")
+
+
+def lite_case(e):
+    out = {k: e[k] for k in LITE_CASE_FIELDS if k in e}
+    out["summary_zh"] = (e.get("summary_zh") or "")[:72]
+    out["summary_en"] = (e.get("summary_en") or "")[:144]
+    if e.get("poster"):
+        p = e["poster"]
+        out["poster"] = {k: p.get(k, "") for k in ("src", "alt_zh", "alt_en")}
+    return out
+
+
+def lite_family_item(it):
+    out = {k: it[k] for k in LITE_FAM_FIELDS if k in it}
+    out["summary_zh"] = (it.get("summary_zh") or "")[:72]
+    out["summary_en"] = (it.get("summary_en") or "")[:144]
+    if it.get("activity"):
+        out["activity"] = {k: it["activity"].get(k) for k in LITE_ACTIVITY_FIELDS}
+    if it.get("bounty"):
+        out["bounty"] = {k: it["bounty"].get(k) for k in LITE_BOUNTY_FIELDS}
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--data-dir", default="psypick/data")
@@ -142,8 +180,20 @@ def main():
     with open(os.path.join(d, "index.json"), "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
         f.write("\n")
+    # T3-7：index-lite.json
+    lite = {"generated_at": index["generated_at"], "config": index["config"],
+            "cases": [lite_case(e) for e in index["cases"]]}
+    with open(os.path.join(d, "index-lite.json"), "w", encoding="utf-8") as f:
+        json.dump(lite, f, ensure_ascii=False, separators=(",", ":"))
+        f.write("\n")
 
     family = load_json(os.path.join(d, "family.json"))
+    # T3-7：family-lite.json（不含 devhelp；詳情與求助頁按需讀完整版）
+    fam_lite = {k: v for k, v in family.items() if k not in ("items", "devhelp")}
+    fam_lite["items"] = [lite_family_item(it) for it in family.get("items") or []]
+    with open(os.path.join(d, "family-lite.json"), "w", encoding="utf-8") as f:
+        json.dump(fam_lite, f, ensure_ascii=False, separators=(",", ":"))
+        f.write("\n")
     figures = load_json(os.path.join(d, "figures.json"))
     conferences = load_json(os.path.join(d, "conferences.json"))
     version = {

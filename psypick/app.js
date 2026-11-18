@@ -131,7 +131,8 @@
   }
   function loadIndex() {
     if (DATA) return Promise.resolve(DATA);
-    return getJSON("data/index.json").then(function (d) {
+    // T3-7：列表先讀 lite 版（欄位較少、傳輸較細）；讀不到才退回完整版。
+    return getJSON("data/index-lite.json").catch(function () { return getJSON("data/index.json"); }).then(function (d) {
       DATA = d;
       (d.config.categories || []).forEach(function (c) { CATS[c.name] = c; });
       return d;
@@ -569,10 +570,16 @@
   };
   Object.keys(FSTR).forEach(function (l) { Object.keys(FSTR[l]).forEach(function (k) { STR[l][k] = FSTR[l][k]; }); });
 
-  var FAM = null, famState = { age: null, topic: null, region: null, q: "", when: null, free: false, eregion: null, eage: null, plat: null, dcat: null };
+  var FAM = null, FAMFULL = false, famState = { age: null, topic: null, region: null, q: "", when: null, free: false, eregion: null, eage: null, plat: null, dcat: null };
   function loadFamily() {
     if (FAM) return Promise.resolve(FAM);
-    return getJSON("data/family.json").then(function (d) { FAM = d; return d; });
+    // T3-7：列表先讀 family-lite.json；詳情／求助頁才按需讀完整版（loadFamilyFull）。
+    return getJSON("data/family-lite.json").catch(function () { return getJSON("data/family.json"); })
+      .then(function (d) { FAM = d; FAMFULL = !!(d && d.devhelp); return d; });
+  }
+  function loadFamilyFull() {
+    if (FAM && FAMFULL) return Promise.resolve(FAM);
+    return getJSON("data/family.json").then(function (d) { FAM = d; FAMFULL = true; return d; });
   }
   function addDays(iso, n) { var d = new Date(iso + "T00:00:00Z"); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); }
   function actRange(it) { var a = it.activity || {}; return [a.date_start || "", a.date_end || a.date_start || ""]; }
@@ -738,12 +745,15 @@
     window.scrollTo(0, 0);
   }
   function renderFamily(sub) {
-    return loadFamily().then(function () {
-      var m = sub.match(/^item\/(.+)$/);
+    var m = sub.match(/^item\/(.+)$/);
+    // T3-7：詳情與求助頁需要完整欄位，先讀完整版；其餘列表頁用 lite 版。
+    if (m || sub === "help") return loadFamilyFull().then(function () {
       if (m) return renderFamilyItem(decodeURIComponent(m[1]));
+      return renderFamilyHelp();
+    });
+    return loadFamily().then(function () {
       if (sub === "read") return renderFamilyRead();
       if (sub === "events") return renderFamilyEvents();
-      if (sub === "help") return renderFamilyHelp();
       renderFamilyHome();
     });
   }
@@ -1057,7 +1067,7 @@
       var cm = h.match(/^\/conferences(?:\/(.+))?$/);
       if (cm) return loadConf().then(function () { return cm[1] ? renderConference(decodeURIComponent(cm[1])) : renderConferences(); });
       var bm = h.match(/^\/bounty(?:\/(.+))?$/);
-      if (bm) return loadFamily().then(function () { return bm[1] ? renderBountyItem(decodeURIComponent(bm[1])) : renderBounty(); });
+      if (bm) return (bm[1] ? loadFamilyFull() : loadFamily()).then(function () { return bm[1] ? renderBountyItem(decodeURIComponent(bm[1])) : renderBounty(); });
       var fm = h.match(/^\/family(?:\/(.*))?$/);
       if (fm) return renderFamily(fm[1] || "");
       var m = h.match(/^\/case\/(.+)$/);
