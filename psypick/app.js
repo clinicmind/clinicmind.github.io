@@ -8,6 +8,9 @@
       langLabel: "EN", loading: "載入中…", loadError: "資料載入失敗", retry: "重試", empty: "還沒有案例。",
       search: "搜尋標題、摘要、標籤…", all: "全部", heat: "熱度", collection: "合集 · {n} 篇", verify: "待查證", verified: "已核實", ended: "已結束", ethics: "⚑ 倫理提醒",
       loadMore: "載入更多", viewCard: "卡片", viewList: "列表",
+      heroTitle: "為臨床工作者篩選的研究、培訓與動向", evAll: "證據等級：全部", evHigh: "EV 3–4 較強", evMid: "EV 1–2", evLow: "EV 0 線索",
+      feeAll: "費用：全部", feeFree: "免費", feeLow: "US$50 以下", sortNew: "日期：最新", sortOld: "日期：最舊", sortSoon: "即將截止",
+      domAll: "主題：全部", confChip: "會議",
       free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分",
       archive: "歸檔（{n}）", noMatches: "沒有符合條件的案例", back: "← 返回", save: "收藏", saved: "已收藏",
       brief: "看點", psych: "心理學視角", evidence: "證據等級", population: "適用對象", flags: "倫理旗標", concepts: "相關概念",
@@ -30,6 +33,9 @@
       langLabel: "中文", loading: "Loading…", loadError: "Failed to load data", retry: "Retry", empty: "No cases yet.",
       search: "Search titles, summaries, tags…", all: "All", heat: "Heat", collection: "Collection · {n} posts", verify: "Unverified", verified: "Verified", ended: "Ended", ethics: "⚑ Ethics note",
       loadMore: "Load more", viewCard: "Cards", viewList: "List",
+      heroTitle: "Research, training and voices, screened for clinicians", evAll: "Evidence: all", evHigh: "EV 3–4 stronger", evMid: "EV 1–2", evLow: "EV 0 signals",
+      feeAll: "Fee: all", feeFree: "Free", feeLow: "Under US$50", sortNew: "Date: newest", sortOld: "Date: oldest", sortSoon: "Closing soon",
+      domAll: "Topic: all", confChip: "Conferences",
       free: "Free", lowCost: "Low cost", deadline: "Deadline", soon: "Closing soon", anytime: "Self-paced", ce: "CE credits",
       archive: "Archive ({n})", noMatches: "No matching cases", back: "← Back", save: "Save", saved: "Saved",
       brief: "Highlights", psych: "Psychology lens", evidence: "Evidence", population: "Population", flags: "Ethics flags", concepts: "Concepts",
@@ -179,9 +185,38 @@
 
   // T3-5 實作；T3-3 先留空位，培訓卡倒數標記在 T3-5 加入。
   function countdownChip(c) { return ""; }
+  // T3-5 實作；T3-4 先留空位，會議數量在 T3-5 由 version.json 填入。
+  function fillConfCount() { }
 
   // ---------- 頁面 ----------
-  var homeState = { cat: null, dom: null, q: "", view: "card", shown: 24 };
+  var homeState = { cat: null, dom: null, q: "", view: "card", shown: 24, ev: "", fee: "", sort: "new" };
+  // T3-4：篩選狀態寫入網址（#/ ?cat=…&q=…），複製網址可重現同一畫面。
+  function hashParams() {
+    var h = location.hash.replace(/^#/, ""), qi = h.indexOf("?");
+    return new URLSearchParams(qi >= 0 ? h.slice(qi + 1) : "");
+  }
+  function applyHomeParams() {
+    var p = hashParams();
+    homeState.cat = p.get("cat") || null;
+    homeState.dom = p.get("dom") || null;
+    homeState.q = p.get("q") || "";
+    homeState.ev = p.get("ev") || "";
+    homeState.fee = p.get("fee") || "";
+    homeState.sort = p.get("sort") || "new";
+    homeState.view = p.get("view") === "list" ? "list" : "card";
+  }
+  function syncHomeHash() {
+    var p = new URLSearchParams();
+    if (homeState.cat) p.set("cat", homeState.cat);
+    if (homeState.dom) p.set("dom", homeState.dom);
+    if (homeState.q) p.set("q", homeState.q);
+    if (homeState.ev) p.set("ev", homeState.ev);
+    if (homeState.fee) p.set("fee", homeState.fee);
+    if (homeState.sort && homeState.sort !== "new") p.set("sort", homeState.sort);
+    if (homeState.view !== "card") p.set("view", homeState.view);
+    var qs = p.toString();
+    history.replaceState(null, "", "#/" + (qs ? "?" + qs : ""));
+  }
   function inDomain(c, name) {
     var d = (DATA.config.domains || []).filter(function (x) { return x.name === name; })[0];
     if (!d) return true;
@@ -192,6 +227,17 @@
     var hay = [c.title_zh, c.title_en, c.summary_zh, c.summary_en].concat(c.tags || [], c.model_names || []).join(" ").toLowerCase();
     return q.toLowerCase().split(/\s+/).filter(Boolean).every(function (w) { return hay.indexOf(w) >= 0; });
   }
+  var wantSearchFocus = false;
+  function goSearch() {
+    var s = document.getElementById("search");
+    if (s) { s.focus(); s.scrollIntoView({ block: "center" }); }
+    else { wantSearchFocus = true; location.hash = "#/"; }
+  }
+  function selHTML(name, cur, opts) {
+    return '<select data-fsel="' + name + '" aria-label="' + esc(opts[0][1]) + '">' + opts.map(function (o) {
+      return '<option value="' + esc(o[0]) + '"' + (cur === o[0] ? " selected" : "") + ">" + esc(o[1]) + "</option>";
+    }).join("") + "</select>";
+  }
   function renderHome() {
     var cases = DATA.cases, counts = {};
     cases.forEach(function (c) { counts[c.category] = (counts[c.category] || 0) + 1; });
@@ -199,25 +245,49 @@
       DATA.config.categories.map(function (c) {
         return '<button class="chip' + (homeState.cat === c.name ? " on" : "") + '" data-cat="' + esc(c.name) + '" style="--dot:' + esc(c.color) + '"><span class="dot"></span>' +
           esc(prefs.lang === "en" ? c.en : c.name) + ' <span class="count">' + (counts[c.name] || 0) + "</span></button>";
-      }).join("");
-    var doms = (DATA.config.domains || []).map(function (d) {
-      var n = cases.filter(function (c) { return inDomain(c, d.name); }).length;
-      if (!n) return "";
-      return '<button class="chip' + (homeState.dom === d.name ? " on" : "") + '" data-dom="' + esc(d.name) + '">' +
-        esc(prefs.lang === "en" ? d.en : d.name) + ' <span class="count">' + n + "</span></button>";
-    }).join("");
+      }).join("") +
+      '<a class="chip chip-link" href="#/conferences"><span class="dot" style="background:var(--sage)"></span>' + t("confChip") + ' <span class="count" id="conf-count"></span></a>';
+    var domOpts = [["", t("domAll")]].concat((DATA.config.domains || []).map(function (d) { return [d.name, prefs.lang === "en" ? d.en : d.name]; }));
     homeState.shown = 24;
-    app.innerHTML = '<p class="home-intro">' + esc(t("intro")) + '</p><div class="toolbar"><input class="search" id="search" type="search" aria-label="' + t("search") + '" placeholder="' + t("search") + '" value="' + esc(homeState.q) + '">' +
-      '<div class="chip-row">' + chips + '<span class="viewtoggle" role="group" aria-label="' + t("viewCard") + "／" + t("viewList") + '">' +
+    app.innerHTML = '<div class="hero-search"><h1 class="hero-title">' + t("heroTitle") + '</h1><p class="home-intro">' + esc(t("intro")) + "</p>" +
+      '<input class="search" id="search" type="search" aria-label="' + t("search") + '" placeholder="' + t("search") + '" value="' + esc(homeState.q) + '"></div>' +
+      '<div class="filterbar"><div class="chip-row">' + chips + "</div>" +
+      '<div class="frow2">' +
+      selHTML("ev", homeState.ev, [["", t("evAll")], ["34", t("evHigh")], ["12", t("evMid")], ["0", t("evLow")]]) +
+      selHTML("dom", homeState.dom || "", domOpts) +
+      selHTML("fee", homeState.fee, [["", t("feeAll")], ["free", t("feeFree")], ["low", t("feeLow")]]) +
+      selHTML("sort", homeState.sort, [["new", t("sortNew")], ["old", t("sortOld")], ["soon", t("sortSoon")]]) +
+      '<span class="viewtoggle" role="group" aria-label="' + t("viewCard") + "／" + t("viewList") + '">' +
       '<button type="button" data-view="card"' + (homeState.view === "card" ? ' class="on"' : "") + ">" + t("viewCard") + '</button>' +
-      '<button type="button" data-view="list"' + (homeState.view === "list" ? ' class="on"' : "") + ">" + t("viewList") + "</button></span></div>" +
-      (doms ? '<div class="chip-row chip-row-domain">' + doms + '</div>' : '') + '</div><div id="results"></div>';
+      '<button type="button" data-view="list"' + (homeState.view === "list" ? ' class="on"' : "") + ">" + t("viewList") + "</button></span></div></div>" +
+      '<div id="results"></div>';
     renderResults();
-    document.getElementById("search").addEventListener("input", function (e) { homeState.q = e.target.value; homeState.shown = 24; renderResults(); });
+    fillConfCount();
+    if (wantSearchFocus) { wantSearchFocus = false; var s0 = document.getElementById("search"); if (s0) s0.focus(); }
+    document.getElementById("search").addEventListener("input", function (e) { homeState.q = e.target.value; homeState.shown = 24; syncHomeHash(); renderResults(); });
+  }
+  function evPass(c) {
+    if (!homeState.ev) return true;
+    var e = c.evidence_level;
+    if (e == null) return false;
+    if (homeState.ev === "34") return e >= 3;
+    if (homeState.ev === "12") return e === 1 || e === 2;
+    return e === 0;
+  }
+  function feePass(c) {
+    if (!homeState.fee) return true;
+    if (!isTrainingCat(c)) return true;
+    var pt = (c.training || {}).price_tier;
+    return homeState.fee === "free" ? pt === "免費" : (pt === "免費" || pt === "低價");
   }
   function renderResults() {
     if (!DATA.cases.length) { document.getElementById("results").innerHTML = '<div class="status-line">' + t("empty") + "</div>"; return; }
-    var list = DATA.cases.filter(function (c) { return (!homeState.cat || c.category === homeState.cat) && (!homeState.dom || inDomain(c, homeState.dom)) && matches(c, homeState.q); });
+    var list = DATA.cases.filter(function (c) { return (!homeState.cat || c.category === homeState.cat) && (!homeState.dom || inDomain(c, homeState.dom)) && matches(c, homeState.q) && evPass(c) && feePass(c); });
+    if (homeState.sort === "old") list.sort(function (a, b) { return String(when(a)) < String(when(b)) ? -1 : 1; });
+    else if (homeState.sort === "soon") list.sort(function (a, b) {
+      var da = (a.training || {}).deadline || (a.training || {}).event_date || "9999", db = (b.training || {}).deadline || (b.training || {}).event_date || "9999";
+      return da < db ? -1 : da > db ? 1 : 0;
+    });
     var live = list.filter(function (c) { return c.tier !== "archive"; }), arch = list.filter(function (c) { return c.tier === "archive"; });
     var page = live.slice(0, homeState.shown);
     var html;
@@ -267,7 +337,11 @@
     app.innerHTML = '<h2 class="page-title">' + t("trainingTitle") + '</h2><p class="page-sub">' + t("trainingSub") + "</p>" +
       '<div class="chip-row" style="margin-bottom:14px"><button class="chip' + (trainingFree ? " on" : "") + '" id="only-free">' + t("onlyFree") + "</button></div>" +
       (list.length ? grid(list) : '<div class="status-line">' + t("trainingEmpty") + "</div>");
-    document.getElementById("only-free").addEventListener("click", function () { trainingFree = !trainingFree; renderTraining(); });
+    document.getElementById("only-free").addEventListener("click", function () {
+      trainingFree = !trainingFree;
+      history.replaceState(null, "", "#/training" + (trainingFree ? "?free=1" : ""));
+      renderTraining();
+    });
   }
 
   function renderSaved() {
@@ -838,7 +912,7 @@
   document.addEventListener("click", function (e) { if (!e.target.closest(".site-header")) closePopups(); });
 
   function route() {
-    var h = location.hash.replace(/^#/, "") || "/";
+    var h = (location.hash.replace(/^#/, "") || "/").split("?")[0];
     var y = pendingY === null ? window.scrollY : pendingY; pendingY = null;
     document.querySelectorAll(".header-nav a").forEach(function (a) {
       var href = a.getAttribute("href");
@@ -859,8 +933,9 @@
       var m = h.match(/^\/case\/(.+)$/);
       if (m) return renderCase(decodeURIComponent(m[1]));
       if (h === "/featured") return renderFeatured();
-      if (h === "/training") return renderTraining();
+      if (h === "/training") { trainingFree = hashParams().get("free") === "1"; return renderTraining(); }
       if (h === "/saved") return renderSaved();
+      applyHomeParams();
       renderHome();
     }).then(function () {
       requestAnimationFrame(function () { afterRender(); window.scrollTo(0, y); });
@@ -885,12 +960,16 @@
       return;
     }
     var chip = e.target.closest("[data-cat]");
-    if (chip) { homeState.cat = chip.getAttribute("data-cat") || null; renderHome(); }
+    if (chip) {
+      homeState.cat = chip.getAttribute("data-cat") || null; homeState.shown = 24;
+      document.querySelectorAll("[data-cat]").forEach(function (b) { b.classList.toggle("on", (b.getAttribute("data-cat") || null) === homeState.cat); });
+      syncHomeHash(); renderResults();
+    }
     var vw = e.target.closest("[data-view]");
     if (vw) {
       homeState.view = vw.getAttribute("data-view");
       document.querySelectorAll("[data-view]").forEach(function (b) { b.classList.toggle("on", b.getAttribute("data-view") === homeState.view); });
-      renderResults();
+      syncHomeHash(); renderResults();
     }
     var cp = e.target.closest("[data-copy]");
     if (cp) {
@@ -914,7 +993,21 @@
     var fage = e.target.closest("[data-fam-age]");
     if (fage) { famState.age = fage.getAttribute("data-fam-age"); famState.topic = null; famState.region = null; famState.q = ""; }
     var dchip = e.target.closest("[data-dom]");
-    if (dchip) { var dn = dchip.getAttribute("data-dom"); homeState.dom = homeState.dom === dn ? null : dn; renderHome(); }
+    if (dchip) { var dn = dchip.getAttribute("data-dom"); homeState.dom = homeState.dom === dn ? null : dn; syncHomeHash(); renderResults(); }
+  });
+  // T3-4：篩選列下拉選單
+  document.addEventListener("change", function (e) {
+    var sel = e.target.closest("[data-fsel]");
+    if (!sel) return;
+    var k = sel.getAttribute("data-fsel");
+    if (k === "dom") homeState.dom = sel.value || null; else homeState[k] = sel.value;
+    homeState.shown = 24; syncHomeHash(); renderResults();
+  });
+  // T3-4：搜尋快捷鍵——「/」或 Ctrl/⌘+K 聚焦搜尋框；頁首搜尋掣同一行為。
+  document.addEventListener("keydown", function (e) {
+    var tag = (e.target && e.target.tagName) || "";
+    var typing = tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT";
+    if ((e.key === "/" && !typing) || ((e.ctrlKey || e.metaKey) && (e.key === "k" || e.key === "K"))) { e.preventDefault(); goSearch(); }
   });
   // ---------- 贊助按鈕：網址放在 support.json，沒填就不顯示 ----------
   var SUPPORT = null;
@@ -929,6 +1022,7 @@
   }
   getJSON("support.json").then(function (d) { SUPPORT = d; renderSupport(); }, function () { /* 沒有檔案就不顯示 */ });
   document.getElementById("lang-toggle").addEventListener("click", function () { prefs.lang = prefs.lang === "zh" ? "en" : "zh"; persist(); route(); });
+  document.getElementById("search-btn").addEventListener("click", goSearch);
   document.getElementById("help-btn").addEventListener("click", function () {
     var pop = document.getElementById("help-pop"), open = pop.hidden; pop.hidden = !open; this.setAttribute("aria-expanded", open);
   });
