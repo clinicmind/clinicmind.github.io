@@ -30,6 +30,7 @@ import argparse
 import json
 import os
 from datetime import date, datetime, timedelta, timezone
+from urllib.parse import urlparse
 
 ENTRY_FIELDS = ["slug", "title_zh", "title_en", "summary_zh", "summary_en",
                 "category", "kind", "model_names", "tags", "first_seen_at",
@@ -90,6 +91,14 @@ def build_index(data_dir, today):
             tier = "archive"
         entry["tier"] = tier
         entry["has_ethics_flags"] = bool(case.get("ethics_flags"))
+        # T3-3：卡片底行顯示來源網域（取第一個來源的 hostname）
+        entry["source_domain"] = ""
+        _posts = case.get("posts") or []
+        if _posts and _posts[0].get("url"):
+            try:
+                entry["source_domain"] = urlparse(_posts[0]["url"]).hostname or ""
+            except Exception:
+                entry["source_domain"] = ""
         # date
         d = case.get("date")
         if not d:

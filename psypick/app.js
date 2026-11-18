@@ -6,7 +6,8 @@
     zh: {
       appName: "知心選", tagline: "AI × 心理學的案例訊號站", navHome: "首頁", navFeatured: "精選", navTraining: "進修", navSaved: "★ 收藏",
       langLabel: "EN", loading: "載入中…", loadError: "資料載入失敗", retry: "重試", empty: "還沒有案例。",
-      search: "搜尋標題、摘要、標籤…", all: "全部", heat: "熱度", collection: "合集 · {n} 篇", verify: "待查證", ethics: "⚑ 倫理提醒",
+      search: "搜尋標題、摘要、標籤…", all: "全部", heat: "熱度", collection: "合集 · {n} 篇", verify: "待查證", verified: "已核實", ended: "已結束", ethics: "⚑ 倫理提醒",
+      loadMore: "載入更多", viewCard: "卡片", viewList: "列表",
       free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分",
       archive: "歸檔（{n}）", noMatches: "沒有符合條件的案例", back: "← 返回", save: "收藏", saved: "已收藏",
       brief: "看點", psych: "心理學視角", evidence: "證據等級", population: "適用對象", flags: "倫理旗標", concepts: "相關概念",
@@ -27,7 +28,8 @@
     en: {
       appName: "PsyPick", tagline: "A signal station for AI × psychology", navHome: "Home", navFeatured: "Featured", navTraining: "Training", navSaved: "★ Saved",
       langLabel: "中文", loading: "Loading…", loadError: "Failed to load data", retry: "Retry", empty: "No cases yet.",
-      search: "Search titles, summaries, tags…", all: "All", heat: "Heat", collection: "Collection · {n} posts", verify: "Unverified", ethics: "⚑ Ethics note",
+      search: "Search titles, summaries, tags…", all: "All", heat: "Heat", collection: "Collection · {n} posts", verify: "Unverified", verified: "Verified", ended: "Ended", ethics: "⚑ Ethics note",
+      loadMore: "Load more", viewCard: "Cards", viewList: "List",
       free: "Free", lowCost: "Low cost", deadline: "Deadline", soon: "Closing soon", anytime: "Self-paced", ce: "CE credits",
       archive: "Archive ({n})", noMatches: "No matching cases", back: "← Back", save: "Save", saved: "Saved",
       brief: "Highlights", psych: "Psychology lens", evidence: "Evidence", population: "Population", flags: "Ethics flags", concepts: "Concepts",
@@ -125,36 +127,61 @@
     var when = tr.deadline ? t("deadline") + " " + esc(tr.deadline) : (tr.event_date ? esc(tr.event_date) : t("anytime"));
     return '<div class="training-line">' + [esc(tr.provider), when, esc(tr.language)].filter(Boolean).join(" · ") + "</div>";
   }
+  // T3-3／T3-5：Clinical Signal 卡片——分類字母標記＋日期、標題 2 行、摘要 3 行、
+  // 底行：證據量表（5 格，填格數＝等級＋1）／來源網域／狀態標記。培訓卡不顯示量表。
+  function catMark(name) { var c = catInfo(name); return c.mark || catLabel(name).charAt(0); }
+  function evMeter(level) {
+    if (level == null) return "";
+    var n = Math.max(0, Math.min(5, level + 1)), cells = "";
+    for (var i = 0; i < 5; i++) cells += '<i class="' + (i < n ? "on" : "") + '"></i>';
+    return '<span class="meter" role="img" aria-label="' + t("evidence") + " E" + level + '">' + cells + '</span><span class="evnum">EV ' + level + "</span>";
+  }
+  function statusBadge(c) {
+    if (c.tier === "archive") return '<span class="badge badge-muted">' + t("ended") + "</span>";
+    if (c.verify_needed) return '<span class="badge badge-warn">' + t("verify") + "</span>";
+    return '<span class="badge badge-ok">' + t("verified") + "</span>";
+  }
+  function isTrainingCat(c) { return c.category === DATA.config.training_category; }
   function cardHTML(c) {
     var cat = catInfo(c.category), title = pick(c, "title"), read = prefs.readMarks[c.slug] ? " card-read" : "";
-    var isTraining = c.category === DATA.config.training_category;
-    var meta = ['<span class="card-stat">' + t("heat") + " " + Math.round(c.hot_score || 0) + "</span>"];
-    if (c.mention_count > 1) meta.push('<span class="card-stat">' + t("collection", { n: c.mention_count }) + "</span>");
-    if (!isTraining && c.evidence_level != null) {
-      var ev = DATA.config.evidence_levels[String(c.evidence_level)];
-      meta.push('<span class="badge" title="' + t("evidence") + '">E' + c.evidence_level + (ev ? " " + esc(ev[prefs.lang]) : "") + "</span>");
+    var isTraining = isTrainingCat(c), tr = c.training || {};
+    var foot;
+    if (isTraining) {
+      foot = '<div class="cardfoot train"><span class="mono">' + esc(tr.event_date || tr.deadline || "") + "</span>" +
+        countdownChip(c) +
+        (tr.price_tier === "免費" ? '<span class="fee">' + t("free") + "</span>" : (tr.price ? '<span class="fee">' + esc(tr.price) + "</span>" : "")) +
+        (tr.ce_credits && !/^(無|否|no|none)$/i.test(tr.ce_credits) ? '<span class="badge">' + t("ce") + "</span>" : "") +
+        '<span class="prov">' + esc(tr.provider || "") + "</span>" + statusBadge(c) + "</div>";
+    } else {
+      foot = '<div class="cardfoot">' + evMeter(c.evidence_level) +
+        (c.mention_count > 1 ? '<span class="evnum">' + t("collection", { n: c.mention_count }) + "</span>" : "") +
+        '<span class="dom mono">' + esc(c.source_domain || "") + "</span>" +
+        (c.has_ethics_flags ? '<span class="ethics-flag" title="' + t("ethics") + '">⚑</span>' : "") + statusBadge(c) + "</div>";
     }
-    if (isTraining) meta.push(trainingBadges(c));
-    if (c.has_ethics_flags) meta.push('<span class="badge-ethics">' + t("ethics") + "</span>");
-    if (c.verify_needed) meta.push('<span class="badge badge-warn">' + t("verify") + "</span>");
-    (c.model_names || []).slice(0, 3).forEach(function (m) { meta.push('<span class="badge">' + esc(m) + "</span>"); });
-    return '<article class="card' + read + '" style="--cat:' + esc(cat.color) + '">' +
-      '<div class="card-author"><span class="cat-avatar" aria-hidden="true">' + esc(catLabel(c.category).charAt(0)) + "</span>" +
-      '<div class="card-author-names"><span class="card-author-name">' + esc(catLabel(c.category)) + '</span><time datetime="' + esc(when(c)) + '">' + esc(day(when(c))) + "</time></div>" +
+    return '<article class="card sig' + read + '" style="--shade:' + esc(cat.color) + '">' +
+      '<div class="cardtop"><span class="catchip"><b aria-hidden="true">' + esc(catMark(c.category)) + "</b>" + esc(catLabel(c.category)) + "</span>" +
+      '<span class="mono cdate">' + esc(day(when(c))) + "</span>" +
       '<button class="fav-star" data-fav="' + esc(c.slug) + '" aria-pressed="' + isFav(c.slug) + '" aria-label="' + t("save") + '">' + (isFav(c.slug) ? "★" : "☆") + "</button></div>" +
       '<h3 class="card-title"><a href="#/case/' + encodeURIComponent(c.slug) + '">' + esc(title) + "</a></h3>" +
-      (isTraining ? trainingLine(c) : "") +
-      '<p class="card-summary">' + esc(pick(c, "summary")) + "</p>" +
-      '<div class="card-meta">' + meta.join("") + "</div></article>";
+      '<p class="card-summary">' + esc(pick(c, "summary")) + "</p>" + foot + "</article>";
   }
   function rowHTML(c) {
+    return '<div class="lrow"><span class="mono">' + esc(day(when(c))) + '</span><span class="lcat">' + esc(catLabel(c.category)) + '</span>' +
+      '<a class="ltitle" href="#/case/' + encodeURIComponent(c.slug) + '">' + esc(pick(c, "title")) + "</a>" +
+      '<span class="mono">' + (isTrainingCat(c) || c.evidence_level == null ? "" : "EV " + c.evidence_level) + '</span>' +
+      '<span class="mono ldom">' + esc(c.source_domain || "") + "</span></div>";
+  }
+  function archRowHTML(c) {
     return '<div class="card-row" style="--cat:' + esc(catInfo(c.category).color) + '"><span class="cat-dot"></span><a href="#/case/' +
       encodeURIComponent(c.slug) + '">' + esc(pick(c, "title")) + "</a><time>" + esc(day(when(c))) + "</time></div>";
   }
-  function grid(list) { return '<div class="masonry">' + list.map(cardHTML).join("") + "</div>"; }
+  function grid(list) { return '<div class="grid">' + list.map(cardHTML).join("") + "</div>"; }
+
+  // T3-5 實作；T3-3 先留空位，培訓卡倒數標記在 T3-5 加入。
+  function countdownChip(c) { return ""; }
 
   // ---------- 頁面 ----------
-  var homeState = { cat: null, dom: null, q: "" };
+  var homeState = { cat: null, dom: null, q: "", view: "card", shown: 24 };
   function inDomain(c, name) {
     var d = (DATA.config.domains || []).filter(function (x) { return x.name === name; })[0];
     if (!d) return true;
@@ -179,18 +206,29 @@
       return '<button class="chip' + (homeState.dom === d.name ? " on" : "") + '" data-dom="' + esc(d.name) + '">' +
         esc(prefs.lang === "en" ? d.en : d.name) + ' <span class="count">' + n + "</span></button>";
     }).join("");
+    homeState.shown = 24;
     app.innerHTML = '<p class="home-intro">' + esc(t("intro")) + '</p><div class="toolbar"><input class="search" id="search" type="search" aria-label="' + t("search") + '" placeholder="' + t("search") + '" value="' + esc(homeState.q) + '">' +
-      '<div class="chip-row">' + chips + '</div>' + (doms ? '<div class="chip-row chip-row-domain">' + doms + '</div>' : '') + '</div><div id="results"></div>';
+      '<div class="chip-row">' + chips + '<span class="viewtoggle" role="group" aria-label="' + t("viewCard") + "／" + t("viewList") + '">' +
+      '<button type="button" data-view="card"' + (homeState.view === "card" ? ' class="on"' : "") + ">" + t("viewCard") + '</button>' +
+      '<button type="button" data-view="list"' + (homeState.view === "list" ? ' class="on"' : "") + ">" + t("viewList") + "</button></span></div>" +
+      (doms ? '<div class="chip-row chip-row-domain">' + doms + '</div>' : '') + '</div><div id="results"></div>';
     renderResults();
-    document.getElementById("search").addEventListener("input", function (e) { homeState.q = e.target.value; renderResults(); });
+    document.getElementById("search").addEventListener("input", function (e) { homeState.q = e.target.value; homeState.shown = 24; renderResults(); });
   }
   function renderResults() {
     if (!DATA.cases.length) { document.getElementById("results").innerHTML = '<div class="status-line">' + t("empty") + "</div>"; return; }
     var list = DATA.cases.filter(function (c) { return (!homeState.cat || c.category === homeState.cat) && (!homeState.dom || inDomain(c, homeState.dom)) && matches(c, homeState.q); });
     var live = list.filter(function (c) { return c.tier !== "archive"; }), arch = list.filter(function (c) { return c.tier === "archive"; });
-    var html = list.length ? grid(live) : '<div class="status-line">' + t("noMatches") + "</div>";
-    if (arch.length) html += '<details class="archive-fold"><summary>' + t("archive", { n: arch.length }) + "</summary>" + arch.map(rowHTML).join("") + "</details>";
+    var page = live.slice(0, homeState.shown);
+    var html;
+    if (!list.length) html = '<div class="status-line">' + t("noMatches") + "</div>";
+    else if (homeState.view === "list") html = '<div class="listview">' + page.map(rowHTML).join("") + "</div>";
+    else html = grid(page);
+    if (live.length > homeState.shown) html += '<div class="more-row"><button type="button" class="more-btn" id="load-more">' + t("loadMore") + "（" + (live.length - homeState.shown) + "）</button></div>";
+    if (arch.length) html += '<details class="archive-fold"><summary>' + t("archive", { n: arch.length }) + "</summary>" + arch.map(archRowHTML).join("") + "</details>";
     document.getElementById("results").innerHTML = html;
+    var lm = document.getElementById("load-more");
+    if (lm) lm.addEventListener("click", function () { homeState.shown += 24; renderResults(); });
   }
 
   function isoWeek(s) {
@@ -848,6 +886,12 @@
     }
     var chip = e.target.closest("[data-cat]");
     if (chip) { homeState.cat = chip.getAttribute("data-cat") || null; renderHome(); }
+    var vw = e.target.closest("[data-view]");
+    if (vw) {
+      homeState.view = vw.getAttribute("data-view");
+      document.querySelectorAll("[data-view]").forEach(function (b) { b.classList.toggle("on", b.getAttribute("data-view") === homeState.view); });
+      renderResults();
+    }
     var cp = e.target.closest("[data-copy]");
     if (cp) {
       var code = cp.getAttribute("data-copy"), done = function () { cp.textContent = t("famCopied"); };
