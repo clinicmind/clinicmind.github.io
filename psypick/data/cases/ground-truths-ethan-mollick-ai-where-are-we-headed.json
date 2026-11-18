@@ -1,0 +1,59 @@
+{
+  "title_zh": "Ground Truths：Ethan Mollick 談 AI 現況與走向",
+  "title_en": "Ground Truths: Ethan Mollick on AI, where are we now and where are we headed",
+  "summary_zh": "Eric Topol 與 Wharton 副教授 Ethan Mollick 對談，涵蓋鋸齒前線、提示詞的終結、去技能化、個人 AI 智能體、教育，以及醫療 AI。Mollick 亦談及其新文論 Claude 新模型測試與智能體使用經驗。內容與臨床工作者理解 AI 對心理健康與專業實踐的影響直接相關。",
+  "summary_en": "Eric Topol talks with Wharton associate professor Ethan Mollick about the jagged frontier, the end of prompting, deskilling, personal AI agents, education, and medical AI. Mollick also discusses his new essay and experience testing new Claude models and agents. The conversation is directly relevant to clinicians making sense of AI's impact on mental health and professional practice.",
+  "category": "人機互動心理",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "電子報對談",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "對談為專家個人觀點，非實證研究；模型能力描述會隨版本快速過時。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "鋸齒前線、提示詞的終結、去技能化",
+    "個人 AI 智能體與教育",
+    "醫療 AI 與 Claude 新模型測試"
+  ],
+  "brief_en": [],
+  "model_names": [
+    "Claude"
+  ],
+  "tags": [
+    "AI",
+    "教育",
+    "去技能化",
+    "智能體"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "「去技能化」的提醒，對你督導實習生使用 AI 工具有何啟示？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://erictopol.substack.com/p/ethan-mollick-on-ai-where-are-we",
+      "author_handle": "",
+      "author_name": "Eric Topol (Ground Truths)",
+      "title": "Ethan Mollick on AI: Where Are We Now and Where Are We Headed",
+      "content": "Eric Topol 與 Wharton 副教授 Ethan Mollick 對談，涵蓋鋸齒前線、提示詞的終結、去技能化、個人 AI 智能體、教育，以及醫療 AI。Mollick 亦談及其新文論 Claude 新模型測試與智能體使用經驗。內容與臨床工作者理解 AI 對心理健康與專業實踐的影響直接相關。",
+      "posted_at": "2026-11-10T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ground-truths-ethan-mollick-ai-where-are-we-headed",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

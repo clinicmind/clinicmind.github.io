@@ -1,0 +1,58 @@
+{
+  "title_zh": "WHO 歐洲區數位心理健康路線圖 2027–2035",
+  "title_en": "WHO European Region digital mental health roadmap 2027-2035",
+  "summary_zh": "世界衛生組織歐洲區辦事處發布 2027–2035 年數位心理健康路線圖，為各成員國提供規劃、採用及推行數位科技的實務框架，涵蓋政策、管治、標準與規管、科技基建、參與及能力建設、監測評估六大領域。路線圖明確把生成式 AI（包括大型語言模型）納入數位心理健康範疇，並強調科技應補充而非取代人際關係與臨床照顧。",
+  "summary_en": "The WHO Regional Office for Europe published a 2027-2035 digital mental health roadmap, giving member states a practical framework for planning, adopting and implementing digital technologies across six domains: policy, governance, standards and regulation, technology infrastructure, engagement and capacity building, and monitoring and evaluation. It explicitly includes generative AI (including large language models) and stresses that technology should complement, not replace, human relationships and clinical care.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "政策與指引",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "路線圖為政策框架，非臨床實證；各國落實細節仍待公布。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "WHO 歐洲區辦事處發布 2027–2035 年路線圖",
+    "六大領域：政策、管治、標準與規管、科技基建、參與及能力建設、監測評估",
+    "生成式 AI（包括大型語言模型）納入數位心理健康範疇"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "數位心理健康",
+    "WHO",
+    "生成式AI",
+    "政策"
+  ],
+  "population": [
+    "臨床工作者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "路線圖強調科技補充而非取代人際照顧，這對你選用數位工具有甚麼提醒？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.gov.ie/en/department-of-health/press-releases/minister-butler-launches-the-digital-mental-health-roadmap-for-the-who-european-region-20272035/",
+      "author_handle": "",
+      "author_name": "Department of Health, Ireland",
+      "title": "Minister Butler launches the 'Digital mental health roadmap for the WHO European Region (2027–2035)'",
+      "content": "世界衛生組織歐洲區辦事處發布 2027–2035 年數位心理健康路線圖，為各成員國提供規劃、採用及推行數位科技的實務框架，涵蓋政策、管治、標準與規管、科技基建、參與及能力建設、監測評估六大領域。路線圖明確把生成式 AI（包括大型語言模型）納入數位心理健康範疇，並強調科技應補充而非取代人際關係與臨床照顧。",
+      "posted_at": "2026-11-17T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "who-european-digital-mental-health-roadmap-2027-2035",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

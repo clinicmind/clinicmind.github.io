@@ -1,0 +1,59 @@
+{
+  "title_zh": "減少社交媒體使用與高風險年輕成人的內化症狀改善",
+  "title_en": "Reduced social media use and change in internalizing symptoms among high-risk young adults",
+  "summary_zh": "美國全國代表性追蹤資料，2,358 名 18–24 歲高頻使用社交媒體且有內化症狀的年輕人。由每日多次減至每日一次或以下者，兩年後不再符合全部四項內化症狀的比例為 57%，高於持續高頻者的 49%。但屬觀察性研究，暴露與結果皆為自陳，不能證明因果。",
+  "summary_en": "In nationally representative US cohort data, 2,358 young adults aged 18-24 with frequent social media use and elevated internalizing symptoms were followed. Those who cut use from several times a day to once a day or less were more likely to no longer meet all four internalizing symptoms after two years (57% vs 49% of continued frequent users). The study was observational with self-reported exposure and outcomes, so it cannot prove causality.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "世代追蹤研究（觀察性）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "觀察性研究，暴露與結果皆為自陳，不能證明因果；減幅與改善的關係不宜說成「戒社交媒體就會好轉」。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "2,358 名 18–24 歲高頻使用者，具內化症狀",
+    "減至每日一次或以下者，兩年後無內化症狀比例 57%，高於持續高頻者 49%",
+    "資料來自美國 PATH 追蹤研究（2013–2021）"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "社交媒體",
+    "年輕成人",
+    "憂鬱",
+    "焦慮",
+    "預防"
+  ],
+  "population": [
+    "大專生",
+    "成人"
+  ],
+  "supervision_questions": [
+    "與年輕個案討論社交媒體使用時，你會怎樣避免把相關性說成因果？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2856566",
+      "author_handle": "",
+      "author_name": "JAMA Pediatrics",
+      "title": "Reduced Social Media Use and Change in Internalizing Symptoms Among High-Risk Young Adults",
+      "content": "美國全國代表性追蹤資料，2,358 名 18–24 歲高頻使用社交媒體且有內化症狀的年輕人。由每日多次減至每日一次或以下者，兩年後不再符合全部四項內化症狀的比例為 57%，高於持續高頻者的 49%。但屬觀察性研究，暴露與結果皆為自陳，不能證明因果。",
+      "posted_at": "2026-11-16T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "reduced-social-media-use-internalizing-symptoms-young-adults",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

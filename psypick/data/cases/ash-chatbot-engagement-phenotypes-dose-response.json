@@ -1,0 +1,63 @@
+{
+  "title_zh": "十萬名 AI 心理健康聊天機械人用戶：參與模式與劑量反應",
+  "title_en": "Engagement phenotypes of 102,684 AI mental health chatbot users and dose-response outcomes",
+  "summary_zh": "分析 Slingshot AI 聊天機械人 Ash 的 102,684 名真實用戶，分出五種參與模式，過半數屬早期流失（52.2%）。三週後憂鬱與焦慮有改善，參與愈高、憂鬱改善愈大，呈劑量反應。但研究屬自然觀察、無對照組，不能證明因果；四名作者為開發公司員工。",
+  "summary_en": "Analysis of 102,684 real users of Slingshot AI's chatbot Ash identified five engagement phenotypes, with early dropouts making up 52.2%. Depression and anxiety improved after three weeks, with greater improvement among more engaged users, but the study was naturalistic without a control group, so it cannot prove causality; four authors are company employees.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "自然觀察研究，無對照組",
+  "ethics_flags": [
+    "利益衝突：四名作者為開發公司 Slingshot AI 員工"
+  ],
+  "psych_concepts": [],
+  "caution": "自然觀察、無對照組，不能證明因果；量表追蹤樣本只有 298 人，結果不宜過度推論。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "102,684 名 Ash 用戶，分出五種參與模式，早期流失佔 52.2%",
+    "三週後憂鬱（d=-0.51）與焦慮（d=-0.57）有改善",
+    "參與愈高、憂鬱改善愈大，呈劑量反應"
+  ],
+  "brief_en": [],
+  "model_names": [
+    "Ash"
+  ],
+  "tags": [
+    "AI聊天機械人",
+    "參與度",
+    "憂鬱",
+    "焦慮",
+    "工作同盟"
+  ],
+  "population": [
+    "成人",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "向個案介紹 AI 聊天機械人時，你會怎樣說明「用得多、改善多」不等於因果關係？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.nature.com/articles/s41598-026-78802-w",
+      "author_handle": "",
+      "author_name": "Emma C. Wolfe et al. (Scientific Reports)",
+      "title": "Engagement phenotypes for a sample of 102,684 AI mental health chatbot (ash) users and dose-response associations with clinical outcomes",
+      "content": "分析 Slingshot AI 聊天機械人 Ash 的 102,684 名真實用戶，分出五種參與模式，過半數屬早期流失（52.2%）。三週後憂鬱與焦慮有改善，參與愈高、憂鬱改善愈大，呈劑量反應。但研究屬自然觀察、無對照組，不能證明因果；四名作者為開發公司員工。",
+      "posted_at": "2026-11-15T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ash-chatbot-engagement-phenotypes-dose-response",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

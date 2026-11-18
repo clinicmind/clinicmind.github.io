@@ -1,0 +1,59 @@
+{
+  "title_zh": "OpenAI 發布免費 CSAM 檢測圖像分類器，加強 ChatGPT 兒童安全干預",
+  "title_en": "OpenAI releases free CSAM detection image classifier and child safety interventions",
+  "summary_zh": "OpenAI 推出可檢測 CSAM（含 AI 生成內容）的圖像分類器，免費向經審核機構開放；測試顯示可減少 48% 複審量，fal 實測 72% 高置信標記確認為新型 CSAM。同時 ChatGPT 上線新警告，在用戶試圖搜尋涉兒童性剝削內容時打斷並暫停存取 24 小時，另發布開發者 CSAM 治理指南。",
+  "summary_en": "OpenAI released an image classifier that detects child sexual abuse material (CSAM), including AI-generated content, free to vetted organisations. Testing suggested it could cut review workload by 48%, and partner fal confirmed 72% of high-confidence flags as novel CSAM. ChatGPT also gained warnings that interrupt searches for child sexual exploitation material and pause access for 24 hours, plus a CSAM governance guide for developers.",
+  "category": "產品與產業",
+  "kind": "product",
+  "evidence_level": 0,
+  "evidence_note": "產品發布（廠商自述）",
+  "ethics_flags": [
+    "廠商自述成效，未經獨立驗證"
+  ],
+  "psych_concepts": [],
+  "caution": "成效數字來自廠商及合作方自述測試，未經獨立驗證；分類器只向經審核機構開放，非公開工具。",
+  "verify_needed": true,
+  "verify_reason": "原頁未顯示發布日，日期以 AIHOT 收錄及頁面抓取時間 2026-11-17 推斷",
+  "brief_zh": [
+    "新圖像分類器可檢測 CSAM，包括 AI 生成內容",
+    "免費向經審核機構開放",
+    "測試指可減少 48% 複審量；fal 實測 72% 高置信標記確認為新型 CSAM"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "兒童安全",
+    "CSAM",
+    "內容審核"
+  ],
+  "population": [
+    "臨床工作者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "向家長解釋 AI 平台的兒童安全措施時，你會怎樣說明技術限制？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "author_handle": "",
+      "author_name": "OpenAI",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "content": "OpenAI 推出可檢測 CSAM（含 AI 生成內容）的圖像分類器，免費向經審核機構開放；測試顯示可減少 48% 複審量，fal 實測 72% 高置信標記確認為新型 CSAM。同時 ChatGPT 上線新警告，在用戶試圖搜尋涉兒童性剝削內容時打斷並暫停存取 24 小時，另發布開發者 CSAM 治理指南。",
+      "posted_at": "2026-11-17T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "openai-csam-classifier-child-safety-tools",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

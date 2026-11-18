@@ -1,0 +1,59 @@
+{
+  "title_zh": "只由家長接受青少年統一治療方案（UP-A）：偏好式非隨機對照研究",
+  "title_en": "Parent-only delivery of the Unified Protocol for adolescent emotional disorders",
+  "summary_zh": "北京大學第六醫院研究，99 名 12–17 歲情緒障礙青少年分三組：只由家長接受 UP-A、家長與青少年同接受、常規治療。兩種 UP-A 形式在治療後及三個月追蹤的嚴重程度均優於常規治療。只由家長接受的形式，可為青少年不願或未能直接參與時的替代方案；但研究非隨機分組，需隨機對照試驗確認。",
+  "summary_en": "A Peking University Sixth Hospital study of 99 adolescents aged 12-17 with emotional disorders compared parent-only UP-A, parent-adolescent UP-A, and treatment as usual. Both UP-A formats showed lower severity than usual care after treatment and at three-month follow-up. Parent-only UP-A may be an alternative when adolescents will not or cannot participate directly, but the study was not randomised and needs confirmation in randomised trials.",
+  "category": "臨床與治療應用",
+  "kind": "research",
+  "evidence_level": 1,
+  "evidence_note": "預印本，未經同行評審；非隨機分組",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "預印本，未經同行評審；家庭自行選擇組別，非隨機分組，結果需隨機對照試驗確認。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "99 名 12–17 歲情緒障礙青少年，三組各 33 人",
+    "只由家長接受 UP-A 者，治療後嚴重程度低於常規治療（CGI-S 差 -1.04）",
+    "效果維持至三個月追蹤"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "青少年",
+    "統一治療方案",
+    "情緒障礙",
+    "家長介入",
+    "預印本"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "青少年拒絕直接參與治療時，只由家長介入的方案在你的實務中可如何定位？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.researchsquare.com/article/rs-10927486/v1",
+      "author_handle": "",
+      "author_name": "Xue Gao et al., Peking University Sixth Hospital (Research Square)",
+      "title": "Parent-only and parent–adolescent delivery of the Unified Protocol for adolescent emotional disorders: a preference-based non-randomised controlled study",
+      "content": "北京大學第六醫院研究，99 名 12–17 歲情緒障礙青少年分三組：只由家長接受 UP-A、家長與青少年同接受、常規治療。兩種 UP-A 形式在治療後及三個月追蹤的嚴重程度均優於常規治療。只由家長接受的形式，可為青少年不願或未能直接參與時的替代方案；但研究非隨機分組，需隨機對照試驗確認。",
+      "posted_at": "2026-11-11T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "parent-only-up-a-adolescent-emotional-disorders",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

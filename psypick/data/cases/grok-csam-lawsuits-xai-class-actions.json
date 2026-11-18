@@ -1,0 +1,62 @@
+{
+  "title_zh": "Grok 被指生成兒童色情圖像，xAI 面臨多起集體訴訟",
+  "title_en": "Grok accused of generating child sexual abuse imagery as xAI faces multiple class actions",
+  "summary_zh": "多名未成年受害者指控 Grok 將普通照片篡改成 CSAM，已對 xAI 提起多起集體訴訟，律師估計符合索賠條件的受害者可能多達數千人。報道亦提及部分受害者出現焦慮、抑鬱甚至自殺念頭，正在接受心理治療；xAI 拒絕置評。",
+  "summary_en": "Multiple underage victims allege Grok altered ordinary photos into child sexual abuse material and have filed several class actions against xAI, with lawyers estimating thousands may qualify to claim. The report also notes some victims developed anxiety, depression and suicidal thoughts and are receiving psychotherapy; xAI declined to comment.",
+  "category": "倫理與風險",
+  "kind": "incident",
+  "evidence_level": 0,
+  "evidence_note": "第三方轉述彭博社報道",
+  "ethics_flags": [
+    "涉及未成年人性剝削案件；受害者以化名呈現，摘要避免任何可辨識細節"
+  ],
+  "psych_concepts": [],
+  "caution": "報道描述受害者心理影響（焦慮、抑鬱、自殺念頭）；內容可能令人不安，閱讀時留意。",
+  "verify_needed": true,
+  "verify_reason": "第三方轉述彭博社報道，未見訴狀原文",
+  "brief_zh": [
+    "多名未成年受害者指控 Grok 將普通照片篡改成 CSAM",
+    "已對 xAI 提起多起集體訴訟，律師估計受害者可能多達數千人",
+    "部分受害者出現焦慮、抑鬱甚至自殺念頭，正在接受心理治療"
+  ],
+  "brief_en": [],
+  "model_names": [
+    "Grok"
+  ],
+  "tags": [
+    "Grok",
+    "兒童安全",
+    "CSAM",
+    "集體訴訟"
+  ],
+  "population": [
+    "臨床工作者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "接獲 AI 生成性影像受害的年輕個案時，你會怎樣評估安全、通報與支援需要？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.ithome.com/1/025/809.htm",
+      "author_handle": "",
+      "author_name": "IT之家（轉述彭博社）",
+      "title": "馬斯克旗下 Grok 被指生成兒童色情圖像，xAI 面臨多起集體訴訟",
+      "content": "多名未成年受害者指控 Grok 將普通照片篡改成 CSAM，已對 xAI 提起多起集體訴訟，律師估計符合索賠條件的受害者可能多達數千人。報道亦提及部分受害者出現焦慮、抑鬱甚至自殺念頭，正在接受心理治療；xAI 拒絕置評。",
+      "posted_at": "2026-11-11T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "grok-csam-lawsuits-xai-class-actions",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

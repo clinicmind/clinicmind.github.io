@@ -1,0 +1,57 @@
+{
+  "title_zh": "APA《Speaking of Psychology》第 400 集：人們如何應對極端天氣風險",
+  "title_en": "APA Speaking of Psychology episode 400: how people respond to extreme weather risks",
+  "summary_zh": "史丹福大學 Gabrielle Wong-Parodi 與麻省大學洛厄爾分校 Brett Gelino 討論何謂具氣候韌性的社區。重複警報會令人麻木，基建只有在市民使用時才有用。兩人亦談及如何傳達風險而不令人麻木，以及如何把研究交到規劃者與應急人員手上。",
+  "summary_en": "Stanford's Gabrielle Wong-Parodi and UMass Lowell's Brett Gelino discuss what makes a climate-resilient community. Repeated alerts can numb people, and infrastructure only helps when residents use it. They also cover how to communicate risk without causing numbness, and how to get research into the hands of planners and emergency responders.",
+  "category": "研究與證據",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "播客訪談",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "播客為科普訪談，非原始研究；引用研究發現時宜查原文。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "重複警報會令人麻木",
+    "基建只有在市民使用時才有用",
+    "如何傳達風險而不令人麻木"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "氣候",
+    "災害",
+    "風險溝通",
+    "社區韌性"
+  ],
+  "population": [
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "災後社區工作中，重複警示令人麻木的現象對你的介入有何啟示？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/",
+      "author_handle": "",
+      "author_name": "American Psychological Association",
+      "title": "Episode 400: How people respond to extreme weather risks, with Brett Gelino, PhD, and Gabrielle Wong-Parodi, PhD",
+      "content": "史丹福大學 Gabrielle Wong-Parodi 與麻省大學洛厄爾分校 Brett Gelino 討論何謂具氣候韌性的社區。重複警報會令人麻木，基建只有在市民使用時才有用。兩人亦談及如何傳達風險而不令人麻木，以及如何把研究交到規劃者與應急人員手上。",
+      "posted_at": "2026-11-04T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "apa-speaking-of-psychology-ep400-extreme-weather-risks",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

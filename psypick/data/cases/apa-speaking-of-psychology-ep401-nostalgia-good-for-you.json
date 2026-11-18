@@ -1,0 +1,56 @@
+{
+  "title_zh": "APA《Speaking of Psychology》第 401 集：懷舊對人有益",
+  "title_en": "APA Speaking of Psychology episode 401: why nostalgia is good for you",
+  "summary_zh": "南安普敦大學 Tim Wildschut 講解研究如何定義懷舊。孤獨、壞心情甚至寒冷天氣都可能觸發懷舊。懷舊多數時候能鞏固關係，賦予生命意義與連續感，但亦有負面一面，科技亦正改變人們回望過去的方式。",
+  "summary_en": "University of Southampton researcher Tim Wildschut explains how research defines nostalgia. Loneliness, bad moods and even cold weather can trigger it. Nostalgia usually strengthens relationships and gives life meaning and continuity, but it also has a downside, and technology is changing how people look back.",
+  "category": "研究與證據",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "播客訪談",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "播客為科普訪談，非原始研究；引用研究發現時宜查原文。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "孤獨、壞心情甚至寒冷天氣都可能觸發懷舊",
+    "懷舊多數時候能鞏固關係，賦予生命意義與連續感",
+    "懷舊亦有負面一面；科技正改變人們回望過去的方式"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "懷舊",
+    "孤獨",
+    "意義感"
+  ],
+  "population": [
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "個案沉溺於懷舊時，你會怎樣分辨懷舊的安撫作用與迴避現實？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/",
+      "author_handle": "",
+      "author_name": "American Psychological Association",
+      "title": "Episode 401: Why nostalgia is good for you, with Tim Wildschut, PhD",
+      "content": "南安普敦大學 Tim Wildschut 講解研究如何定義懷舊。孤獨、壞心情甚至寒冷天氣都可能觸發懷舊。懷舊多數時候能鞏固關係，賦予生命意義與連續感，但亦有負面一面，科技亦正改變人們回望過去的方式。",
+      "posted_at": "2026-11-11T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "apa-speaking-of-psychology-ep401-nostalgia-good-for-you",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

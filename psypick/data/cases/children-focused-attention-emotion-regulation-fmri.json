@@ -1,0 +1,57 @@
+{
+  "title_zh": "兒童以專注注意力調節情緒：功能性磁振造影研究",
+  "title_en": "Children regulate emotion through focused attention: an fMRI study",
+  "summary_zh": "21 名中童參與實驗，專注於負面圖片的背景細節，可把情緒評分降至中性圖片水平，並伴隨背側控制區活化、杏仁核等情緒區活化下降。研究指出專注注意力是兒童早期可用的情緒調節策略，但樣本只有 21 人，屬探索性質。",
+  "summary_en": "In an experiment with 21 school-age children, focusing on the contextual details of negative pictures lowered emotional ratings to the level of neutral pictures, with increased activation in dorsal control regions and decreased activation in emotion regions such as the amygdala. Focused attention appears to be an early emotion-regulation strategy in children, but the sample of 21 makes this exploratory.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 1,
+  "evidence_note": "小型實驗研究（n=21）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "樣本只有 21 人，屬探索性質，結果需更大樣本重複驗證。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "21 名中童參與實驗",
+    "專注背景細節可把負面圖片的情緒評分降至中性水平",
+    "背側控制區活化上升，杏仁核等情緒區活化下降"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "兒童",
+    "情緒調節",
+    "專注注意力",
+    "腦造影"
+  ],
+  "population": [
+    "兒童青少年"
+  ],
+  "supervision_questions": [
+    "在兒童治療中，你會怎樣把「專注背景細節」轉化為可練習的情緒調節步驟？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.nature.com/articles/s41598-026-76671-x",
+      "author_handle": "",
+      "author_name": "Scientific Reports",
+      "title": "Children regulate emotion through focused attention: an fMRI study",
+      "content": "21 名中童參與實驗，專注於負面圖片的背景細節，可把情緒評分降至中性圖片水平，並伴隨背側控制區活化、杏仁核等情緒區活化下降。研究指出專注注意力是兒童早期可用的情緒調節策略，但樣本只有 21 人，屬探索性質。",
+      "posted_at": "2026-11-13T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "children-focused-attention-emotion-regulation-fmri",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

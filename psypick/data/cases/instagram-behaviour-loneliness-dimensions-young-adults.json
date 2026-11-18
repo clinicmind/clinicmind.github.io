@@ -1,0 +1,58 @@
+{
+  "title_zh": "日常 Instagram 行為對應年輕成人的不同孤獨面向",
+  "title_en": "Everyday Instagram behaviour maps onto distinct facets of loneliness in young adults",
+  "summary_zh": "分析 415 名美國大學生自願提供的 Instagram 資料。社交孤獨與低互動有關（較少讚好與留言）；情緒孤獨則與負面語言、悲傷或憤怒表情及深夜發文有關。數位痕跡能分辨主觀孤獨，但難以反映實際支援網絡大小。",
+  "summary_en": "Analysis of Instagram data voluntarily provided by 415 US undergraduates found social loneliness linked to low interaction (fewer likes and comments), while emotional loneliness was linked to negative language, sad or angry expressions, and late-night posting. Digital traces can distinguish subjective loneliness but say little about actual support-network size.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "橫斷觀察研究",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "橫斷研究，不能證明因果；樣本以女性及亞裔／白人為主，推論有限。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "415 名美國大學生自願提供 Instagram 資料",
+    "社交孤獨與低互動有關：較少讚好與留言",
+    "情緒孤獨與負面語言、悲傷或憤怒表情、深夜發文有關"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "孤獨",
+    "社交媒體",
+    "Instagram",
+    "年輕成人"
+  ],
+  "population": [
+    "大專生",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "個案的社交媒體使用模式，能否作為評估孤獨的輔助線索？有甚麼限制？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.nature.com/articles/s44184-026-00252-z",
+      "author_handle": "",
+      "author_name": "Nature Mental Health",
+      "title": "Everyday Instagram behaviour maps onto distinct facets of loneliness in young adults",
+      "content": "分析 415 名美國大學生自願提供的 Instagram 資料。社交孤獨與低互動有關（較少讚好與留言）；情緒孤獨則與負面語言、悲傷或憤怒表情及深夜發文有關。數位痕跡能分辨主觀孤獨，但難以反映實際支援網絡大小。",
+      "posted_at": "2026-11-06T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "instagram-behaviour-loneliness-dimensions-young-adults",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

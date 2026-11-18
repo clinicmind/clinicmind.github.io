@@ -1,0 +1,57 @@
+{
+  "title_zh": "審查大型語言模型向不同對象建議的心理健康介入",
+  "title_en": "Curbside chatbots: auditing mental health interventions LLMs recommend to clinicians, caregivers and patients",
+  "summary_zh": "Beth Israel Deaconess 醫學中心數位精神病學部團隊審查 41 個語言模型在同一臨床資訊下，分別向臨床人員、照顧者及求助者本人建議的心理健康介入。研究以 19 個個案小品收集 35,055 則回覆，發現模型的建議會因對象身份而異，臨床人員多獲諮詢式回覆，一般用家則獲較簡化及帶保留的建議。",
+  "summary_en": "A team from Beth Israel Deaconess Medical Center's Division of Digital Psychiatry audited what 41 language models recommend when the same clinical information reaches them from a clinician, a caregiver, or the person themselves. Across 19 case vignettes and 35,055 responses, recommendations differed by footing: clinicians more often received consultation-style replies, while lay users received simpler, hedged advice.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 1,
+  "evidence_note": "預印本，未經同行評審",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "預印本，未經同行評審；審查結果反映模型輸出模式，不等於臨床建議的正確性。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "審查 41 個語言模型，19 個個案小品，35,055 則回覆",
+    "同一臨床資訊下，建議因對象身份而異",
+    "臨床人員多獲諮詢式回覆，一般用家獲較簡化建議"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "大型語言模型",
+    "AI安全",
+    "臨床建議",
+    "預印本"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "同一臨床資訊下，模型對臨床人員與一般用家的建議不同，這對你使用 AI 查資料有何提醒？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://arxiv.org/abs/2611.12814",
+      "author_handle": "",
+      "author_name": "Matthew Flathers et al. (arXiv)",
+      "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+      "content": "Beth Israel Deaconess 醫學中心數位精神病學部團隊審查 41 個語言模型在同一臨床資訊下，分別向臨床人員、照顧者及求助者本人建議的心理健康介入。研究以 19 個個案小品收集 35,055 則回覆，發現模型的建議會因對象身份而異，臨床人員多獲諮詢式回覆，一般用家則獲較簡化及帶保留的建議。",
+      "posted_at": "2026-11-09T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "curbside-chatbots-auditing-llm-mental-health-recommendations",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

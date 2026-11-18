@@ -1,0 +1,57 @@
+{
+  "title_zh": "史丹福 HAI 與吳蔡神經科學研究院：第二輪 AI 與神經科學資助",
+  "title_en": "Stanford HAI and Wu Tsai Neurosciences Institute award second round of AI and neuroscience grants",
+  "summary_zh": "史丹福吳蔡神經科學研究院與人類中心 AI 研究院公布第二輪 AI 與神經科學資助，共五個團隊獲獎。其中兩個項目與心理健康直接相關：以 AI 結合腦電圖與功能磁共振成像細分抑鬱症生物型，以及用大型語言模型描繪心理治療對話與深層腦部動態的「心理治療神經圖譜」。",
+  "summary_en": "Stanford's Wu Tsai Neurosciences Institute and the Institute for Human-Centered Artificial Intelligence announced a second round of AI and neuroscience grants to five teams. Two projects relate directly to mental health: using AI with EEG and fMRI to subtype depression biotypes, and using large language models to map psychotherapy dialogue onto deep-brain dynamics in a 'neuroatlas of psychotherapy'.",
+  "category": "研究與證據",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "研究資助消息",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "屬資助消息，非研究結果；兩個心理健康項目尚在進行中。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "第二輪資助共五個團隊獲獎",
+    "AI 結合腦電圖與功能磁共振成像細分抑鬱症生物型",
+    "大型語言模型描繪心理治療對話與深層腦部動態"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "AI",
+    "神經科學",
+    "抑鬱症",
+    "心理治療"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "「心理治療神經圖譜」這類研究若有結果，會如何影響你對治療機制的理解？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "http://neuroscience.stanford.edu/news/research-teams-mine-intersection-neuroscience-and-ai",
+      "author_handle": "",
+      "author_name": "Stanford Wu Tsai Neurosciences Institute",
+      "title": "Mining the intersection of AI and neuroscience",
+      "content": "史丹福吳蔡神經科學研究院與人類中心 AI 研究院公布第二輪 AI 與神經科學資助，共五個團隊獲獎。其中兩個項目與心理健康直接相關：以 AI 結合腦電圖與功能磁共振成像細分抑鬱症生物型，以及用大型語言模型描繪心理治療對話與深層腦部動態的「心理治療神經圖譜」。",
+      "posted_at": "2026-11-11T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "stanford-hai-neuroscience-ai-grants-second-round",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

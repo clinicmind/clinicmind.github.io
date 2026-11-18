@@ -1,0 +1,57 @@
+{
+  "title_zh": "MHRA 與 NICE：數位心理健康科技計劃第一階段評估意見徵集",
+  "title_en": "MHRA and NICE call for evidence on digital mental health technologies phase 1 evaluation",
+  "summary_zh": "英國藥品及保健品監管局（MHRA）與 NICE 就 Wellcome 資助的數位心理健康科技計劃第一階段資源展開意見徵集，了解業界、專業人員、研究者及用家對相關資源的接收與使用情況。徵集結果將評估第一階段成果，並為計劃第二階段的方向提供依據。",
+  "summary_en": "The UK Medicines and Healthcare products Regulatory Agency (MHRA) and NICE opened a call for evidence on resources from phase 1 of the Wellcome-funded Digital Mental Health Technologies programme, seeking views from industry, professionals, researchers and users on how the resources were received and used. Findings will evaluate phase 1 and inform the direction of phase 2.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "意見徵集",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "原頁未列意見徵集截止日；第三方報道稱問卷至 2027-02-26，未核實。",
+  "verify_needed": true,
+  "verify_reason": "意見徵集截止日原頁未列，第三方報道稱 2027-02-26，未核實",
+  "brief_zh": [
+    "MHRA 與 NICE 就 DMHT 計劃第一階段資源徵集意見",
+    "了解業界、專業人員、研究者及用家的接收與使用情況",
+    "結果將評估第一階段成果，為第二階段提供依據"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "數位心理健康",
+    "監管",
+    "NICE",
+    "MHRA"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "監管機構徵集數位心理健康科技意見時，臨床工作者的實務經驗有何價值？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.gov.uk/government/calls-for-evidence/digital-mental-health-technologies-dmht-phase-1-evaluation-survey",
+      "author_handle": "",
+      "author_name": "MHRA and NICE (GOV.UK)",
+      "title": "Digital Mental Health Technologies (DMHT): Phase 1 evaluation survey",
+      "content": "英國藥品及保健品監管局（MHRA）與 NICE 就 Wellcome 資助的數位心理健康科技計劃第一階段資源展開意見徵集，了解業界、專業人員、研究者及用家對相關資源的接收與使用情況。徵集結果將評估第一階段成果，並為計劃第二階段的方向提供依據。",
+      "posted_at": "2026-11-05T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "mhra-nice-dmht-phase-1-evaluation-survey",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

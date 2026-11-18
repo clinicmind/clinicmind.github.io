@@ -1,0 +1,69 @@
+{
+  "title_zh": "PESI 免費網上培訓：醫療創傷——治療健康危機後的 PTSD、焦慮與抑鬱",
+  "title_en": "PESI free virtual training: medical trauma clinical tools for PTSD anxiety and depression after a health crisis",
+  "summary_zh": "Sacha McBain 與 Michelle Flaum 主講，教臨床工作者評估醫療創傷壓力，運用醫療創傷生態模式做個案概念化，並以認知重構、行為實驗及健康與復康心理學策略處理 PTSD、焦慮與抑鬱。內容包括創傷訪談、健康相關焦慮、污名與有毒正能量等議題。",
+  "summary_en": "Sacha McBain and Michelle Flaum teach clinicians to assess medical traumatic stress, conceptualise cases with a medical trauma ecological model, and treat PTSD, anxiety and depression with cognitive restructuring, behavioural experiments and health and rehabilitation psychology strategies. Topics include trauma interviewing, health-related anxiety, stigma and toxic positivity.",
+  "category": "進修與培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "免費參加；學分須另外付費，原頁未列金額。報名頁為 PESI 銷售鏡像站，未見 pesi.com 原站本活動頁。",
+  "verify_needed": true,
+  "verify_reason": "原頁未顯示發布日；報名頁為 PESI 銷售鏡像站 Ed4Nurses，未見 pesi.com 原站本活動頁",
+  "brief_zh": [
+    "Sacha McBain 與 Michelle Flaum 主講",
+    "醫療創傷生態模式做個案概念化",
+    "認知重構、行為實驗及健康與復康心理學策略"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "創傷",
+    "醫療創傷",
+    "PTSD",
+    "免費培訓"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "醫療創傷個案中，你會怎樣分辨創傷反應與合理健康焦慮？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "PESI",
+    "format": "線上",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "English",
+    "event_date": "2026-11-23",
+    "deadline": "",
+    "audience_level": "臨床工作者",
+    "topic": "醫療創傷",
+    "signup_url": "https://Ed4Nurses.com/sales/pbh_s_058772_medicaltrauma_organic-2302174/?internalad=sliderad_pesi-us_BH_summits-conferences_summit-conference-free_sum058772_free-live-event-medical-trauma-clinical-tools-for-treating-ptsd-anxiety-and-depression-following-a-health-crisis"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://Ed4Nurses.com/sales/pbh_s_058772_medicaltrauma_organic-2302174/?internalad=sliderad_pesi-us_BH_summits-conferences_summit-conference-free_sum058772_free-live-event-medical-trauma-clinical-tools-for-treating-ptsd-anxiety-and-depression-following-a-health-crisis",
+      "author_handle": "",
+      "author_name": "PESI",
+      "title": "Medical Trauma: Clinical Tools for Treating PTSD, Anxiety, and Depression Following a Health Crisis",
+      "content": "Sacha McBain 與 Michelle Flaum 主講，教臨床工作者評估醫療創傷壓力，運用醫療創傷生態模式做個案概念化，並以認知重構、行為實驗及健康與復康心理學策略處理 PTSD、焦慮與抑鬱。內容包括創傷訪談、健康相關焦慮、污名與有毒正能量等議題。",
+      "posted_at": ""
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "pesi-medical-trauma-clinical-tools-ptsd-anxiety-depression",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}

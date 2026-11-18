@@ -1,0 +1,60 @@
+{
+  "title_zh": "論 AI 陪伴：邁向真實關係",
+  "title_en": "On AI companionship: towards authentic relations",
+  "summary_zh": "英國心理學會《心理學家》文章以電影《雲端情人》為引，討論 AI 陪伴的依附、諂媚與情感依賴風險。文章指出 AI 伴侶應用已與自殺死亡個案有關，另有加劇精神病性症狀、強化性別刻板印象等風險，並提醒依附焦慮者可能更易轉向 AI 尋求情感支持。",
+  "summary_en": "A British Psychological Society article uses the film Her as a starting point to discuss attachment, sycophancy and emotional dependency in AI companionship. It notes AI companion apps have already been linked to deaths by suicide, alongside risks of amplifying psychotic symptoms and reinforcing gender stereotypes, and warns that people with attachment anxiety may be more likely to turn to AI for emotional support.",
+  "category": "倫理與風險",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "評論文章",
+  "ethics_flags": [
+    "內容提及 AI 陪伴應用與自殺死亡個案有關，轉述時避免細節"
+  ],
+  "psych_concepts": [],
+  "caution": "文章為評論，非實證研究；自殺個案的因果關係未經證實，引用時避免暗示 AI 直接導致自殺。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "英國 31% 經常使用大型語言模型者以其作個人及情感支持",
+    "79% 的 18–24 歲年輕人曾與 AI 陪伴互動",
+    "AI 伴侶應用已與自殺死亡個案有關"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "AI陪伴",
+    "依附",
+    "諂媚",
+    "倫理"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "個案透露依賴 AI 陪伴作情感支持時，你會怎樣評估依附模式與風險？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.bps.org.uk/psychologist/ai-companionship-towards-authentic-relations",
+      "author_handle": "",
+      "author_name": "Lea Satala et al. (The Psychologist, BPS)",
+      "title": "On AI companionship: towards authentic relations",
+      "content": "英國心理學會《心理學家》文章以電影《雲端情人》為引，討論 AI 陪伴的依附、諂媚與情感依賴風險。文章指出 AI 伴侶應用已與自殺死亡個案有關，另有加劇精神病性症狀、強化性別刻板印象等風險，並提醒依附焦慮者可能更易轉向 AI 尋求情感支持。",
+      "posted_at": "2026-11-09T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-18T01:00:00+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "bps-ai-companionship-towards-authentic-relations",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": []
+}
