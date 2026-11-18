@@ -132,6 +132,11 @@ h1, h2, h3, .page-title, .detail-title, .card-title, .section-title { font-famil
 .more-btn { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 9px 26px; cursor: pointer; font-size: 14px; min-height: 44px; }
 .more-btn:hover { border-color: var(--sage); }
 
+/* T3-6：加入日曆掣 */
+.ics-btn { border: 1px solid var(--line); background: var(--surface); color: var(--primary); border-radius: 8px; padding: 4px 10px; font-size: 12.5px; cursor: pointer; min-height: 32px; white-space: nowrap; }
+.ics-btn:hover { border-color: var(--sage); background: var(--surface-2); }
+.panel .ics-btn { padding: 7px 14px; font-size: 13.5px; }
+
 /* T3-5：狀態列與首頁精選條 */
 .statusbar { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 13px; color: var(--ink-2); padding: 10px 2px 0; }
 .statusbar[hidden] { display: none; }

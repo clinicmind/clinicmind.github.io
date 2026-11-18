@@ -13,6 +13,7 @@
       domAll: "主題：全部", confChip: "會議",
       cdToday: "今日舉行", cdTomorrow: "明日舉行", cdDays: "{n} 日後舉行", cdTodayDl: "今日截止", cdTomorrowDl: "明日截止", cdDaysDl: "{n} 日後截止",
       stripFeatured: "本週精選", stripSoon: "即將舉行・截止", statusUpdated: "資料更新", statusItems: "則條目", statusFigures: "人物 {p} 位／{u} 則動向", statusConf: "會議 {n} 項",
+      grpWeek: "本週", grpMonth: "本月", grpLater: "之後", grpOndemand: "隨選・自學", onlyCE: "有學分", addCal: "加入日曆",
       themeDark: "深色", themeLight: "淺色", navFeatured: "精選", navTraining: "進修", navFigures: "人物動向",
       free: "免費", lowCost: "低價", deadline: "截止", soon: "即將截止", anytime: "隨時可上", ce: "有學分",
       archive: "歸檔（{n}）", noMatches: "沒有符合條件的案例", back: "← 返回", save: "收藏", saved: "已收藏",
@@ -41,6 +42,7 @@
       domAll: "Topic: all", confChip: "Conferences",
       cdToday: "Today", cdTomorrow: "Tomorrow", cdDays: "In {n} days", cdTodayDl: "Closes today", cdTomorrowDl: "Closes tomorrow", cdDaysDl: "Closes in {n} days",
       stripFeatured: "Featured this week", stripSoon: "Coming up", statusUpdated: "Updated", statusItems: "items", statusFigures: "{p} voices / {u} updates", statusConf: "{n} conferences",
+      grpWeek: "This week", grpMonth: "This month", grpLater: "Later", grpOndemand: "On-demand", onlyCE: "With CE credits", addCal: "Add to calendar",
       themeDark: "Dark", themeLight: "Light", navFeatured: "Featured", navTraining: "Training", navFigures: "Voices",
       free: "Free", lowCost: "Low cost", deadline: "Deadline", soon: "Closing soon", anytime: "Self-paced", ce: "CE credits",
       archive: "Archive ({n})", noMatches: "No matching cases", back: "← Back", save: "Save", saved: "Saved",
@@ -166,7 +168,7 @@
     return '<span class="badge badge-ok">' + t("verified") + "</span>";
   }
   function isTrainingCat(c) { return c.category === DATA.config.training_category; }
-  function cardHTML(c) {
+  function cardHTML(c, withIcs) {
     var cat = catInfo(c.category), title = pick(c, "title"), read = prefs.readMarks[c.slug] ? " card-read" : "";
     var isTraining = isTrainingCat(c), tr = c.training || {};
     var foot;
@@ -175,7 +177,9 @@
         countdownChip(c) +
         (tr.price_tier === "免費" ? '<span class="fee">' + t("free") + "</span>" : (tr.price ? '<span class="fee">' + esc(tr.price) + "</span>" : "")) +
         (tr.ce_credits && !/^(無|否|no|none)$/i.test(tr.ce_credits) ? '<span class="badge">' + t("ce") + "</span>" : "") +
-        '<span class="prov">' + esc(tr.provider || "") + "</span>" + statusBadge(c) + "</div>";
+        '<span class="prov">' + esc(tr.provider || "") + "</span>" +
+        (withIcs && /^\d{4}-\d{2}-\d{2}/.test(tr.event_date || "") ? '<button type="button" class="ics-btn" data-ics="' + esc(c.slug) + '">' + t("addCal") + "</button>" : "") +
+        statusBadge(c) + "</div>";
     } else {
       foot = '<div class="cardfoot">' + evMeter(c.evidence_level) +
         (c.mention_count > 1 ? '<span class="evnum">' + t("collection", { n: c.mention_count }) + "</span>" : "") +
@@ -199,7 +203,7 @@
     return '<div class="card-row" style="--cat:' + esc(catInfo(c.category).color) + '"><span class="cat-dot"></span><a href="#/case/' +
       encodeURIComponent(c.slug) + '">' + esc(pick(c, "title")) + "</a><time>" + esc(day(when(c))) + "</time></div>";
   }
-  function grid(list) { return '<div class="grid">' + list.map(cardHTML).join("") + "</div>"; }
+  function grid(list, withIcs) { return '<div class="grid">' + list.map(function (c) { return cardHTML(c, withIcs); }).join("") + "</div>"; }
 
   // T3-5：培訓倒數——取 event_date 與 deadline 中較近的未來日期；
   // 7 日內用警示色（.hot）。已過期或無日期就不顯示。
@@ -395,22 +399,75 @@
   }
 
   var trainingFree = false;
+  // T3-6：進修時間軸分組＋「加入日曆」.ics（瀏覽器本地產生，不用外部服務）。
+  var trainingCE = false;
+  function trainDate(c) {
+    var tr = c.training || {};
+    if (/^\d{4}-\d{2}-\d{2}/.test(tr.event_date || "")) return tr.event_date.slice(0, 10);
+    if (/^\d{4}-\d{2}-\d{2}/.test(tr.deadline || "")) return tr.deadline.slice(0, 10);
+    return null;
+  }
+  function hasCE(c) { var ce = (c.training || {}).ce_credits; return !!ce && !/^(無|否|no|none)$/i.test(ce); }
+  function icsEsc(s) { return String(s || "").replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\r?\n/g, "\\n"); }
+  function icsFor(c) {
+    var tr = c.training || {};
+    if (!/^\d{4}-\d{2}-\d{2}/.test(tr.event_date || "")) return null;
+    var d0 = tr.event_date.slice(0, 10), dt = d0.replace(/-/g, "");
+    var nx = new Date(d0 + "T00:00:00"); nx.setDate(nx.getDate() + 1);
+    var dt2 = nx.getFullYear() + String(nx.getMonth() + 1).padStart(2, "0") + String(nx.getDate()).padStart(2, "0");
+    var url = location.origin + location.pathname + "#/case/" + c.slug;
+    return ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//ClinicMind PsyPick//Training//ZH", "BEGIN:VEVENT",
+      "UID:" + c.slug + "@clinicmind.github.io", "DTSTART;VALUE=DATE:" + dt, "DTEND;VALUE=DATE:" + dt2,
+      "SUMMARY:" + icsEsc(pick(c, "title")),
+      "DESCRIPTION:" + icsEsc([tr.provider, tr.format, tr.price].filter(Boolean).join(" · ") + " " + url),
+      "URL:" + url, "END:VEVENT", "END:VCALENDAR"].join("\r\n");
+  }
+  function downloadICS(slug) {
+    var c = null;
+    DATA.cases.forEach(function (x) { if (x.slug === slug) c = x; });
+    var ics = c && icsFor(c);
+    if (!ics) return;
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob(["\ufeff" + ics], { type: "text/calendar;charset=utf-8" }));
+    a.download = slug + ".ics";
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(function () { URL.revokeObjectURL(a.href); }, 4000);
+  }
   function renderTraining() {
     var tc = DATA.config.training_category;
-    var list = DATA.cases.filter(function (c) { return c.category === tc && c.tier !== "archive" && (!trainingFree || (c.training || {}).price_tier === "免費"); });
-    list.sort(function (a, b) {
-      var ta = a.training || {}, tb = b.training || {};
-      var da = ta.deadline || ta.event_date || "9999", db = tb.deadline || tb.event_date || "9999";
-      return da < db ? -1 : da > db ? 1 : b.hot_score - a.hot_score;
+    var list = DATA.cases.filter(function (c) {
+      return c.category === tc && c.tier !== "archive" &&
+        (!trainingFree || (c.training || {}).price_tier === "免費") && (!trainingCE || hasCE(c));
     });
+    var now = new Date(), ym = now.getFullYear() + "-" + String(now.getMonth() + 1).padStart(2, "0");
+    var groups = [["grpWeek", []], ["grpMonth", []], ["grpLater", []], ["grpOndemand", []]];
+    list.forEach(function (c) {
+      var ed = trainDate(c);
+      if (!ed) { groups[3][1].push(c); return; }
+      var d = dayDiff(ed);
+      if (d !== null && d <= 6) groups[0][1].push(c);
+      else if (ed.slice(0, 7) === ym) groups[1][1].push(c);
+      else groups[2][1].push(c);
+    });
+    groups.forEach(function (g, i) {
+      if (i < 3) g[1].sort(function (a, b) { var da = trainDate(a), db = trainDate(b); return da < db ? -1 : da > db ? 1 : (b.hot_score || 0) - (a.hot_score || 0); });
+    });
+    var body = groups.map(function (g) {
+      return g[1].length ? '<h3 class="strip-title">' + t(g[0]) + ' <span class="evnum">' + g[1].length + "</span></h3>" + grid(g[1], true) : "";
+    }).join("");
     app.innerHTML = '<h2 class="page-title">' + t("trainingTitle") + '</h2><p class="page-sub">' + t("trainingSub") + "</p>" +
-      '<div class="chip-row" style="margin-bottom:14px"><button class="chip' + (trainingFree ? " on" : "") + '" id="only-free">' + t("onlyFree") + "</button></div>" +
-      (list.length ? grid(list) : '<div class="status-line">' + t("trainingEmpty") + "</div>");
-    document.getElementById("only-free").addEventListener("click", function () {
-      trainingFree = !trainingFree;
-      history.replaceState(null, "", "#/training" + (trainingFree ? "?free=1" : ""));
-      renderTraining();
-    });
+      '<div class="chip-row" style="margin-bottom:14px"><button class="chip' + (trainingFree ? " on" : "") + '" id="only-free">' + t("onlyFree") + '</button>' +
+      '<button class="chip' + (trainingCE ? " on" : "") + '" id="only-ce">' + t("onlyCE") + "</button></div>" +
+      (list.length ? body : '<div class="status-line">' + t("trainingEmpty") + "</div>");
+    function syncTrainHash() {
+      var p = new URLSearchParams();
+      if (trainingFree) p.set("free", "1");
+      if (trainingCE) p.set("ce", "1");
+      var qs = p.toString();
+      history.replaceState(null, "", "#/training" + (qs ? "?" + qs : ""));
+    }
+    document.getElementById("only-free").addEventListener("click", function () { trainingFree = !trainingFree; syncTrainHash(); renderTraining(); });
+    document.getElementById("only-ce").addEventListener("click", function () { trainingCE = !trainingCE; syncTrainHash(); renderTraining(); });
   }
 
   function renderSaved() {
@@ -444,7 +501,8 @@
           ["language", tr.language], ["eventDate", tr.event_date], ["deadline", tr.deadline], ["audience", tr.audience_level], ["topic", tr.topic]];
         main += '<h3 class="section-title">' + t("trainingInfo") + '</h3><div class="panel"><dl class="kv">' +
           rows.filter(function (r) { return r[1]; }).map(function (r) { return "<dt>" + t(r[0]) + "</dt><dd>" + esc(r[1]) + "</dd>"; }).join("") + "</dl>" +
-          (safeUrl(tr.signup_url) ? '<p><a href="' + esc(tr.signup_url) + '" target="_blank" rel="noopener noreferrer">' + t("signup") + "</a></p>" : "") + "</div>";
+          (safeUrl(tr.signup_url) ? '<p><a href="' + esc(tr.signup_url) + '" target="_blank" rel="noopener noreferrer">' + t("signup") + "</a></p>" : "") +
+          (icsFor(c) ? '<p><button type="button" class="ics-btn" data-ics="' + esc(c.slug) + '">' + t("addCal") + "</button></p>" : "") + "</div>";
       }
 
       main += '<h3 class="section-title">' + t("source") + "</h3>" + (c.posts || []).map(function (p) {
@@ -1005,7 +1063,7 @@
       var m = h.match(/^\/case\/(.+)$/);
       if (m) return renderCase(decodeURIComponent(m[1]));
       if (h === "/featured") return renderFeatured();
-      if (h === "/training") { trainingFree = hashParams().get("free") === "1"; return renderTraining(); }
+      if (h === "/training") { trainingFree = hashParams().get("free") === "1"; trainingCE = hashParams().get("ce") === "1"; return renderTraining(); }
       if (h === "/saved") return renderSaved();
       applyHomeParams();
       renderHome();
@@ -1043,6 +1101,8 @@
       document.querySelectorAll("[data-view]").forEach(function (b) { b.classList.toggle("on", b.getAttribute("data-view") === homeState.view); });
       syncHomeHash(); renderResults();
     }
+    var icsBtn = e.target.closest("[data-ics]");
+    if (icsBtn) { downloadICS(icsBtn.getAttribute("data-ics")); return; }
     var cp = e.target.closest("[data-copy]");
     if (cp) {
       var code = cp.getAttribute("data-copy"), done = function () { cp.textContent = t("famCopied"); };
