@@ -298,8 +298,10 @@ footer {
 }
 
 .crisis-warning {
-    background-color: #A63737;
-    color: white;
+    /* 品牌 v2：求助資訊用溫和的 Clay 100 底＋Forest 900 字（10.43:1），不用警報紅 */
+    background-color: #F3E8DD;
+    color: #1E3833;
+    border: 1px solid #C19875;
     padding: 1rem;
     text-align: center;
     border-radius: 5px;

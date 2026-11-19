@@ -478,7 +478,7 @@ def main():
         items = sorted([v for k, v in cards.items() if isinstance(v, dict) and v["catid"] == c["id"]], key=lambda b: b["order"])
         if items:
             grouped.append((c["name"], items))
-    other = ('<div class="lib-cat lib-other"><h2>其他心理知識</h2><p>安放系列、創傷、關係、成癮、照顧自己等衛教文章與專欄，'
+    other = ('<div class="lib-cat lib-other"><h2>其他心理知識</h2><p>安放片刻、創傷、關係、成癮、照顧自己等衛教文章與專欄，'
              '依問題分類。</p><p><a href="/articles.html">前往其他心理知識</a></p></div>')
     (lib).mkdir(exist_ok=True)
     home_desc = "把心理學專業書籍整理成中文學習筆記，依主題分類，附章節地圖與華人情境。主要給心理健康專業人員與學生。"
