@@ -102,7 +102,7 @@ main section:nth-of-type(even) .scale { background: var(--secondary-color); }
 footer { background-color: #333; color: #ddd; padding: 3rem 10%; font-size: 0.9rem; }
 footer a { color: #ddd; }
 .footer-links { display: flex; flex-wrap: wrap; gap: 1rem 2rem; margin-bottom: 1.5rem; }
-.crisis-warning { background-color: var(--alert); color: white; padding: 1rem; text-align: center; border-radius: 5px; font-weight: bold; }
+.crisis-warning { background-color: #F3E8DD; color: #1E3833; border: 1px solid #C19875; /* 品牌 v2：不用警報紅 */ padding: 1rem; text-align: center; border-radius: 5px; font-weight: bold; }
 .copyright { text-align: center; margin-top: 2rem; border-top: 1px solid #555; padding-top: 1rem; }
 
 @media (max-width: 768px) {
