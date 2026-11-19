@@ -72,8 +72,8 @@ main section:nth-of-type(even) .card { background: var(--secondary-color); box-s
 .callout { background: var(--white); border-left: 4px solid var(--accent-color); padding: 1rem 1.3rem; border-radius: 6px; margin: 1.2rem 0; }
 main section:nth-of-type(even) .callout { background: var(--secondary-color); }
 
-.crisis-box { background: var(--alert); color: var(--white); border-radius: 8px; padding: 1.2rem 1.4rem; }
-.crisis-box a { color: var(--white); text-decoration: underline; }
+.crisis-box { background: #F3E8DD; color: #1E3833; border: 1px solid #C19875; border-radius: 8px; padding: 1.2rem 1.4rem; } /* 品牌 v2：求助資訊不用警報紅（10.43:1） */
+.crisis-box a { color: #1E3833; text-decoration: underline; }
 .crisis-box strong { font-size: 1.05rem; }
 
 /* 治療表格 */
