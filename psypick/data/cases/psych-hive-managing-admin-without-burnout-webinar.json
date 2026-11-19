@@ -1,0 +1,75 @@
+{
+  "psych_concepts": [],
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_en": [],
+  "model_names": [],
+  "original_prompt": "",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "first_seen_at": "2026-11-19T01:14:44+00:00",
+  "date": "2026-11-19T01:14:44+00:00",
+  "related": null,
+  "ethics_flags": [],
+  "training": {
+    "provider": "The Psych Hive",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "deadline": "",
+    "event_date": "2026-12-01",
+    "format": "線上直播",
+    "event_time_note": "19:00–20:00（澳洲東部時間 AEDT；香港／澳門時間 16:00–17:00；另有錄影重溫）"
+  },
+  "title_zh": "免費網上研討會：寫進度筆記寫到攰？The Psych Hive 教你用低負荷系統處理行政工作（12 月 1 日）",
+  "title_en": "Free psychologist webinar: Managing Admin Without The Burnout (The Psych Hive, 1 December)",
+  "summary_zh": "The Psych Hive（澳洲）免費網上研討會，由 Dr Jade Goodman 及 Brianna Thomas 主講。內容教授實用、低負荷的文件與行政系統，精簡進度筆記等文書工作，保護臨床工作者的認知資源，減少行政工作造成的倦怠。2026 年 12 月 1 日（星期二）澳洲東部時間 19:00–20:00 舉行（香港／澳門時間同日 16:00–17:00），45 分鐘內容加 15 分鐘問答。費用全免（A$0.00），經主辦方商店頁加入購物車登記，另有錄影重溫。對象為心理學家。",
+  "summary_en": "A free online webinar from The Psych Hive (Australia) with Dr Jade Goodman and Brianna Thomas. It teaches practical, low-demand systems for documentation and admin, streamlining progress notes and protecting clinicians' cognitive battery against admin-driven burnout. Held Tuesday 1 December 2026, 19:00-20:00 AEDT (16:00-17:00 Hong Kong/Macau time), with 45 minutes of content and 15 minutes of questions. Free of charge (A$0.00); registration is via the provider's shop page (add to cart), and a recording replay is available. Aimed at psychologists.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓頁面（The Psych Hive；2026 年 12 月 1 日澳洲東部時間 19:00–20:00；免費 A$0.00；經原頁核實；頁面未提及 CE 學分）",
+  "evidence_quote": "worse than writing progress notes",
+  "page_date": "2026-12-01",
+  "caution": "內容屬實務經驗分享，並非實證課程；報名方式為主辦方商店頁的結帳流程（A$0.00），不是一般報名表；頁面未提及 CE 學分。",
+  "brief_zh": [
+    "講者：Dr Jade Goodman 及 Brianna Thomas（The Psych Hive，澳洲）",
+    "內容：低負荷的文件與行政系統，精簡進度筆記，保護認知資源、減少行政倦怠；45 分鐘內容加 15 分鐘問答",
+    "日期：2026 年 12 月 1 日（星期二）19:00–20:00（澳洲東部時間）；香港／澳門時間同日 16:00–17:00",
+    "費用：免費（A$0.00），經商店頁加入購物車登記",
+    "對象：心理學家",
+    "形式：全程線上直播，另有錄影重溫"
+  ],
+  "tags": [
+    "行政管理",
+    "進度筆記",
+    "專業倦怠",
+    "免費培訓",
+    "The Psych Hive"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "你目前的筆記與行政流程中，哪一步最消耗認知資源？若改成低負荷版本，第一步可以點改？"
+  ],
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://thepsychhive.com/shop/p/free-psychologist-webinar-1-managing-admin-without-the-burnout",
+      "author_handle": "",
+      "author_name": "The Psych Hive",
+      "title": "Free Psychologist Webinar 1: Managing Admin Without The Burnout",
+      "content": "培訓頁面：The Psych Hive 免費心理學家網上研討會，2026 年 12 月 1 日澳洲東部時間 19:00–20:00，線上直播，另有錄影重溫。",
+      "posted_at": "2026-12-01T00:00:00+00:00"
+    }
+  ],
+  "slug": "psych-hive-managing-admin-without-burnout-webinar"
+}

@@ -1,0 +1,64 @@
+{
+  "psych_concepts": [],
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_en": [],
+  "model_names": [],
+  "original_prompt": "",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "first_seen_at": "2026-11-19T01:14:44+00:00",
+  "date": "2026-11-19T01:14:44+00:00",
+  "related": null,
+  "ethics_flags": [],
+  "training": null,
+  "title_zh": "RCT：擁有感提升忍痛能力——安慰劑止痛膏從未使用都有效（嶺南大學，n=187）",
+  "title_en": "RCT: feeling ownership of a placebo analgesic cream raises pain tolerance, without ever using it (Lingnan University, N=187)",
+  "summary_zh": "The Journal of Pain 2026 年刊出（DOI: 10.1016/j.jpain.2026.106406；線上先行發表）。嶺南大學心理學系兩項預先註冊的隨機對照實驗，共 187 名無慢性痛的健康成人，以冷水按壓測試量度痛楚反應。研究一（N=121）：獲分配印有自己姓名的安慰劑止痛膏、簽署確認擁有權並寫下其重要性的參加者，平均 8.03 秒才首次感到痛（其他組別 3.92–5.14 秒），忍痛約 105 秒（其他組別 53–66 秒）；全程無人使用該膏，膏本身不含止痛成分。研究二（N=66）：毋須刻意思考重要性，擁有組忍痛平均 85.3 秒，對比無擁有組 53.8 秒，長近六成；擁有組對該膏的內隱自我聯結較強，並預測較佳的止痛反應。",
+  "summary_en": "Published in The Journal of Pain in 2026 (DOI: 10.1016/j.jpain.2026.106406; online ahead of print). Two pre-registered randomized controlled experiments by the Department of Psychology, Lingnan University, with 187 healthy adults without chronic pain, using the cold pressor test. In Study 1 (N=121), participants given a placebo analgesic cream labeled with their own name, who signed to confirm ownership and wrote about its importance, first felt pain at 8.03 seconds on average (other groups: 3.92-5.14 s) and tolerated pain for about 105 seconds (other groups: 53-66 s); nobody ever applied the cream, which contained no active ingredient. In Study 2 (N=66), ownership alone sufficed without conscious reflection: the ownership group tolerated pain for 85.3 seconds versus 53.8 seconds, nearly 60% longer, and stronger implicit self-association with the cream predicted enhanced analgesic responses.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "隨機對照試驗（The Journal of Pain，2026；DOI: 10.1016/j.jpain.2026.106406；兩項預先註冊實驗；PMID: 42567239）",
+  "evidence_quote": "even without active application",
+  "page_date": "2026-11-17",
+  "caution": "參加者為無慢性痛的健康成人，痛楚來自實驗室冷水測試，未驗證於慢性痛或臨床痛症病人；結果屬行為量度（痛閾與忍耐時間），能否延伸至真實醫療場景仍待研究。",
+  "brief_zh": [
+    "兩項預先註冊隨機對照實驗，共 187 名健康成人（研究一 N=121、研究二 N=66），以冷水按壓測試量度痛楚反應",
+    "研究一：擁有止痛膏並與之建立連結的組別 8.03 秒才感到痛（其他組 3.92–5.14 秒），忍痛約 105 秒（其他組 53–66 秒）",
+    "研究二：擁有組忍痛 85.3 秒對無擁有組 53.8 秒，長近六成；毋須刻意思考止痛膏的重要性",
+    "參加者全程未使用止痛膏，膏不含任何止痛成分；研究團隊建議探索個人化治療物件作為低成本輔助方向"
+  ],
+  "tags": [
+    "安慰劑效應",
+    "痛楚心理學",
+    "擁有感",
+    "RCT",
+    "嶺南大學"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "個案對某件治療相關物件（例如一張卡、一本手冊）有特別依附時，你會如何理解這種連結對療效的作用？",
+    "安慰劑反應涉及期望與心理連結，在不欺騙個案的前提下，臨床上可以如何正當地運用這類機制？"
+  ],
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42567239/",
+      "author_handle": "",
+      "author_name": "Ng et al.",
+      "title": "Ownership and cognitive connectedness with placebo objects predict pain-related behavioral responses (The Journal of Pain 2026; DOI: 10.1016/j.jpain.2026.106406)",
+      "content": "期刊論文摘要（PubMed）：兩項預先註冊隨機對照實驗，共 187 名健康成人；擁有安慰劑止痛膏並與之建立心理連結者，痛閾與忍痛時間顯著較高。",
+      "posted_at": "2026-11-17T00:00:00+00:00"
+    }
+  ],
+  "slug": "ownership-placebo-cream-pain-tolerance-rct"
+}
