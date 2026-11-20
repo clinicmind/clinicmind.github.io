@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T13:02:42+00:00",
- "today": "2026-11-16",
+ "generated_at": "2026-11-20T01:40:20+00:00",
+ "today": "2026-11-20",
  "ages": [
   "孕期",
   "0-1歲",
@@ -33,6 +33,449 @@
   "美國"
  ],
  "items": [
+  {
+   "kind": "activity",
+   "title_zh": "Mind HK 大埔社區身心健康週末 2026",
+   "title_en": "Tai Po Community Wellbeing Weekend 2026",
+   "summary_zh": "Mind HK 於 11 月 21–22 日（週六、日）10:00–17:00 在大埔藝術中心舉辦社區身心健康週末。首日為靜觀動作體驗與現場表演；第二日為家庭日，設表達藝術與遊戲治療工作坊、陶藝工作坊、故事書與桌遊工作坊等。現場另設免費互動攤位與表演，歡迎即興到場；工作坊名額有限，須預先報名。",
+   "summary_en": "Mind HK hosts a community wellbeing weekend on 21-22 November, 10:00-17:00, at Tai Po Arts Centre. Day 1 offers mindful movement experiences and live performances; Day 2 is a family-friendly day with expressive arts and play therapy workshops, pottery, and storybook and board game workshops. Free interactive booths and performances run throughout; workshops have limited places and need advance booking.",
+   "ages": [],
+   "topic": "親子活動",
+   "region": "香港",
+   "tips": [
+    "第二日為家庭日，最適合親子同行",
+    "工作坊名額有限，宜先經 bit.ly 連結預先報名",
+    "免費互動攤位與表演可即興到場"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "非牟利",
+   "posted_at": "",
+   "tags": [
+    "身心健康",
+    "靜觀",
+    "表達藝術",
+    "遊戲治療",
+    "免費"
+   ],
+   "verify_needed": true,
+   "verify_reason": "原頁未列發布日期",
+   "activity": {
+    "age_range": "",
+    "date_end": "2026-11-22",
+    "date_start": "2026-11-21",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-20",
+    "organizer": "Mind HK",
+    "price": "免費（工作坊須預先報名）",
+    "signup": "工作坊經 bit.ly/4C3V2sq 預先報名",
+    "time": "10:00-17:00",
+    "venue": "大埔藝術中心"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.mind.org.hk/event/tai-po-community-wellbeing-weekend-2026/",
+   "source_title": "Tai Po Community Wellbeing Weekend 2026",
+   "org": "Mind HK",
+   "slug": "tai-po-community-wellbeing-weekend-2026",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "親子故事工作坊「我做得到」（11 月 22 日，香港中央圖書館）",
+   "title_en": "Parent-child Storytelling Workshop I Can Do It November 22",
+   "summary_zh": "香港公共圖書館於 11 月 22 日（星期日）11:00–12:00 在香港中央圖書館二樓兒童活動室舉辦親子故事工作坊「我做得到」，以普通話進行，對象為 3 至 7 歲兒童及一位家長，每節 30 組家庭，免費。內容包括熱身遊戲、講故事、主題勞作（獎杯）及延伸閱讀推介，故事內容只提供中文。報名於每節活動前一星期開始，致電或親臨二樓兒童圖書館櫃檯，先到先得。",
+   "summary_en": "Hong Kong Public Libraries runs a parent-child storytelling workshop, 'I Can Do It', on Sunday 22 November, 11:00-12:00, at Hong Kong Central Library (2/F Children's Activity Room). Conducted in Putonghua for children aged 3-7 with one parent; 30 families per session, free. Includes warm-up games, storytelling, a trophy craft and reading suggestions. Registration opens one week before each session by phone or in person.",
+   "ages": [
+    "3-6歲",
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "香港",
+   "tips": [
+    "每節活動前一星期開始接受電話或親臨報名，先到先得",
+    "每組只限 1 位小朋友及 1 位家長",
+    "以普通話進行，故事內容只提供中文"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "政府",
+   "posted_at": "",
+   "tags": [
+    "故事",
+    "勞作",
+    "親子",
+    "免費"
+   ],
+   "verify_needed": true,
+   "verify_reason": "原頁未列發布日期",
+   "activity": {
+    "age_range": "3-7歲兒童及一位家長",
+    "date_end": "2026-11-22",
+    "date_start": "2026-11-22",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-20",
+    "organizer": "香港公共圖書館",
+    "price": "免費",
+    "signup": "每節活動前一星期開始，致電或親臨二樓兒童圖書館櫃檯報名，先到先得",
+    "time": "11:00-12:00",
+    "venue": "香港中央圖書館（二樓兒童活動室）"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.hkpl.gov.hk/en/extension-activities/event-detail/305060/parent-child-storytelling-workshops-i-can-do-it",
+   "source_title": "Parent-child Storytelling Workshops: I Can Do It",
+   "org": "香港公共圖書館",
+   "slug": "parent-child-storytelling-workshop-i-can-do-it-november-22",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "新北市立圖書館蘆洲永平分館「擁抱微光・感謝有你」SEL 系列",
+   "title_en": "Embracing glimmers thank you SEL series at Luzhou Yongping Library",
+   "summary_zh": "新北市立圖書館蘆洲永平分館於 11 月 15 日至 12 月 20 日舉辦「擁抱微光・感謝有你—心靈的溫暖停靠站」社會情緒學習（SEL）系列，免費參加。重點場次：11 月 21 日多肉療癒花園親子工作坊、11 月 22 日（週日）14:00–16:00 澤爸《看懂孩子的情緒密碼》、11 月 29 日芳香正念綠豆糕、12 月 5 日蔡宜芳《為你打氣》工作坊、12 月 19 日親子《情緒來了，我有辦法！》。",
+   "summary_en": "New Taipei City Library's Luzhou Yongping Branch runs a free social-emotional learning (SEL) series, 'Embracing glimmers, thank you', from 15 November to 20 December. Highlights: a succulent healing garden parent-child workshop on 21 November, Ze Ba on reading children's emotional codes on 22 November, an aromatic mindfulness mung bean cake session on 29 November, a self-encouragement workshop on 5 December, and a parent-child session on handling emotions on 19 December.",
+   "ages": [],
+   "topic": "親子活動",
+   "region": "台灣",
+   "tips": [
+    "11 月 22 日澤爸場次為 14:00–16:00，親職教育講座",
+    "系列由 11 月 15 日至 12 月 20 日，免費參加",
+    "12 月 19 日為親子情緒工作坊"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "媒體",
+   "posted_at": "2026-11-17",
+   "tags": [
+    "社會情緒學習",
+    "SEL",
+    "親職教育",
+    "情緒",
+    "免費"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "",
+    "date_end": "2026-12-20",
+    "date_start": "2026-11-15",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-20",
+    "organizer": "新北市立圖書館蘆洲永平分館",
+    "price": "免費",
+    "signup": "",
+    "time": "",
+    "venue": "新北市立圖書館蘆洲永平分館"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://udn.com/news/story/7323/9884491",
+   "source_title": "擁抱微光・感謝有你—心靈的溫暖停靠站",
+   "org": "新北市立圖書館",
+   "slug": "embracing-glimmers-thank-you-sel-series-at-luzhou-yongping-l",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "秋日樂廚房：親子甜品 DIY 工作坊（11 月 21 日，免費）",
+   "title_en": "Autumn kitchen parent-child dessert DIY workshop",
+   "summary_zh": "澳門婦女聯合總會於 11 月 21 日（週六）在渡船街 27 號婦聯綜合服務大樓 2 樓舉辦「秋日樂廚房：親子甜品 DIY 工作坊」，免費參加。對象為 6–16 歲親子家庭，每場 12 個家庭，每家庭只可報一場。",
+   "summary_en": "The Women's General Association of Macau runs a free parent-child dessert DIY workshop, 'Autumn Kitchen', on Saturday 21 November at its integrated services building on Rua da Barca. For families with children aged 6-16; 12 families per session, one session per family.",
+   "ages": [
+    "6-12歲",
+    "12-18歲"
+   ],
+   "topic": "親子活動",
+   "region": "澳門",
+   "tips": [
+    "對象為 6–16 歲親子家庭",
+    "每場只收 12 個家庭，每家庭只可報一場，宜及早報名"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "非牟利",
+   "posted_at": "",
+   "tags": [
+    "親子",
+    "甜品",
+    "工作坊",
+    "免費"
+   ],
+   "verify_needed": true,
+   "verify_reason": "官方頁未能核實，資料取自第三方活動彙整頁（MoeFriends）；報名方式與場次時間未列",
+   "activity": {
+    "age_range": "6-16歲親子家庭",
+    "date_end": "2026-11-21",
+    "date_start": "2026-11-21",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-20",
+    "organizer": "澳門婦女聯合總會",
+    "price": "免費",
+    "signup": "",
+    "time": "",
+    "venue": "渡船街27號婦聯綜合服務大樓2樓"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://moefriends.com/2026/08/22/macau-free-activities/",
+   "source_title": "澳門免費活動2026｜61項親子・長者・青年活動精選，每月更新",
+   "org": "澳門婦女聯合總會",
+   "slug": "autumn-kitchen-parent-child-dessert-diy-workshop",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "議事亭藏書樓導賞活動—親子場（11 月 23 日，免費）",
+   "title_en": "Leal Senado Library guided tour parent-child session",
+   "summary_zh": "澳門公共圖書館於 11 月 23 日（週一）舉辦「議事亭藏書樓導賞活動—親子場」，免費參加，對象為 6 至 12 歲親子。另有 11 月 28 日及 29 日場次。",
+   "summary_en": "Macao Public Library runs a free guided tour of the Leal Senado Library for parent-child pairs (ages 6-12) on Monday 23 November. Further sessions run on 28 and 29 November.",
+   "ages": [
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "澳門",
+   "tips": [
+    "對象為 6 至 12 歲親子，須兒童及家長一同參與",
+    "另有 11 月 28 日及 29 日場次"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "政府",
+   "posted_at": "",
+   "tags": [
+    "導賞",
+    "圖書館",
+    "親子",
+    "免費"
+   ],
+   "verify_needed": true,
+   "verify_reason": "官方頁未能核實（圖書館活動頁為 JS 頁面，未能抽取內文），資料取自第三方活動彙整頁；時間未列",
+   "activity": {
+    "age_range": "6-12歲親子",
+    "date_end": "2026-11-23",
+    "date_start": "2026-11-23",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-20",
+    "organizer": "澳門公共圖書館",
+    "price": "免費",
+    "signup": "",
+    "time": "",
+    "venue": "議事亭藏書樓"
+   },
+   "deal": null,
+   "bounty": null,
+   "url": "https://moefriends.com/2026/08/22/macau-free-activities/",
+   "source_title": "澳門免費活動2026｜61項親子・長者・青年活動精選，每月更新",
+   "org": "澳門公共圖書館",
+   "slug": "leal-senado-library-guided-tour-parent-child-session",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
+  {
+   "kind": "article",
+   "title_zh": "讓女兒負傷在大雨中完成比賽：親子教養最難的一課是「這2個字」",
+   "title_en": "Letting my daughter finish the race injured in the rain",
+   "summary_zh": "呂家慧分享女兒負傷在大雨中完成比賽的經歷，談親子教養最難的一課：陪伴與控制的界線。文章以自我決定理論提醒家長，事前評估風險、事後接住情緒，比全程代勞更能培養孩子的自主與韌性。節錄自《接住孩子，也接住自己》（商周出版）。",
+   "summary_en": "Lu Jiahui shares how her daughter finished a race injured in heavy rain, and the hardest parenting lesson: the line between companionship and control. Drawing on self-determination theory, she argues that assessing risks beforehand and holding the child's feelings afterwards builds autonomy and resilience better than doing everything for them. Excerpted from her book.",
+   "ages": [
+    "6-12歲"
+   ],
+   "topic": "溝通與品格",
+   "region": "台灣",
+   "tips": [
+    "事前先評估風險，再放手讓孩子嘗試",
+    "孩子受挫時先接住情緒，後講道理",
+    "陪伴不是代勞，而是讓孩子在安全範圍內面對風雨"
+   ],
+   "when_to_seek_help": "親子衝突反覆失控、關係持續緊張，可找臨床心理師或諮商心理師談談。",
+   "source_type": "媒體",
+   "posted_at": "2026-11-17",
+   "tags": [
+    "陪伴",
+    "自主",
+    "自我決定理論",
+    "韌性"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": null,
+   "deal": null,
+   "bounty": null,
+   "url": "https://www.gvm.com.tw/article/134597",
+   "source_title": "讓女兒負傷在大雨中完成比賽：親子教養最難的一課是「這2個字」",
+   "org": "遠見雜誌",
+   "slug": "letting-my-daughter-finish-the-race-injured-in-the-rain",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
+  {
+   "kind": "article",
+   "title_zh": "教養專家：成功孩子的爸媽，很早教他們6件事",
+   "title_en": "What parents of successful children teach them early six things",
+   "summary_zh": "教養專家 Reem Raouda（朗妲）談成功孩子的父母很早教會孩子的 6 件事：失敗不改變關係、讓人失望不等於做錯、擅長的事不等於身份、可以反對仍被愛、不舒服的感受不需立刻消失、在家不用驚豔任何人。文章由樂羽嘉編譯，資料來源為 CNBC 與 LinkedIn。",
+   "summary_en": "Parenting expert Reem Raouda shares six things parents of successful children teach early: failure does not change the relationship, disappointing someone is not the same as doing wrong, what you are good at is not your identity, you can disagree and still be loved, uncomfortable feelings do not need to disappear at once, and at home you do not need to impress anyone.",
+   "ages": [
+    "6-12歲"
+   ],
+   "topic": "情緒行為與管教",
+   "region": "台灣",
+   "tips": [
+    "失敗時先肯定關係不變，再談如何改進",
+    "容許孩子表達反對，仍讓他感到被愛",
+    "不舒服的感受可以停留，不必立刻解決"
+   ],
+   "when_to_seek_help": "孩子長期情緒困擾或親子關係緊張，可找臨床心理師或諮商心理師談談。",
+   "source_type": "媒體",
+   "posted_at": "2026-11-10",
+   "tags": [
+    "教養",
+    "情緒",
+    "親子關係",
+    "自我價值"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": null,
+   "deal": null,
+   "bounty": null,
+   "url": "https://money.udn.com/money/amp/story/5648/9870238",
+   "source_title": "教養專家：成功孩子的爸媽，很早教他們6件事",
+   "org": "經濟日報",
+   "slug": "what-parents-of-successful-children-teach-them-early-six-thi",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
+  {
+   "kind": "article",
+   "title_zh": "住飯店，孩子說「反正有人會整理」，大人怎麼回？",
+   "title_en": "At a hotel my child said someone will clean up how should adults respond",
+   "summary_zh": "呂家慧談孩子住飯店時說「反正有人會整理」，大人可以怎樣回應。文章以感恩研究（Robert Emmons）提醒家長，真正的感恩是孩子開始意識到自己擁有的一切背後都有另一個人的付出；大人可以帶孩子看見別人的付出，學習珍惜。摘自《接住孩子，也接住自己》（商周出版）。",
+   "summary_en": "Lu Jiahui discusses how adults can respond when a child says 'someone will clean up anyway' at a hotel. Drawing on gratitude research (Robert Emmons), she notes that real gratitude begins when a child realises that what they have rests on someone else's effort; adults can help children notice that effort and learn to cherish it.",
+   "ages": [
+    "6-12歲"
+   ],
+   "topic": "溝通與品格",
+   "region": "台灣",
+   "tips": [
+    "帶孩子看見服務人員的付出，而非只講規矩",
+    "用提問代替責備：你覺得是誰令房間變整齊？",
+    "日常小事也是練習感恩的機會"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "媒體",
+   "posted_at": "2026-11-17",
+   "tags": [
+    "感恩",
+    "品格",
+    "親子溝通"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": null,
+   "deal": null,
+   "bounty": null,
+   "url": "https://futureparenting.cwgv.com.tw/family/content/index/37413",
+   "source_title": "住飯店，孩子說「反正有人會整理」，大人怎麼回？",
+   "org": "未來親子",
+   "slug": "at-a-hotel-my-child-said-someone-will-clean-up-how-should-ad",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
+  {
+   "kind": "article",
+   "title_zh": "孩子寫作業拖拉、寫到哭是家常便飯？25年資深國小老師教3招",
+   "title_en": "Child drags homework and cries veteran teacher three tips",
+   "summary_zh": "25 年資深國小老師大頭目老師談孩子寫作業拖拉、寫到哭的常見困境，教 3 招：把作業看成教學診斷數據、切香腸戰術、放棄橡皮擦主導權（尋寶圈選法），另設 10 分鐘停損點，並以聯絡簿 4 步驟與老師溝通。",
+   "summary_en": "A veteran primary school teacher of 25 years shares three approaches for children who drag out homework and cry over it: treat homework as diagnostic data for teaching, break it into small slices, and let go of eraser control with a treasure-hunt circling method. She also suggests a 10-minute stopping point and a four-step parent-teacher notebook exchange.",
+   "ages": [
+    "6-12歲"
+   ],
+   "topic": "升學與學習",
+   "region": "台灣",
+   "tips": [
+    "把作業看成了解孩子學習狀況的資料，而非分數競賽",
+    "切細任務，每完成一小段就停一停",
+    "設 10 分鐘停損點，情緒失控時先停下來"
+   ],
+   "when_to_seek_help": "孩子長期抗拒上學或作業引發嚴重情緒困擾，可找臨床心理師或學校輔導人員談談。",
+   "source_type": "媒體",
+   "posted_at": "2026-11-18",
+   "tags": [
+    "作業",
+    "學習",
+    "親師溝通",
+    "情緒"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": null,
+   "deal": null,
+   "bounty": null,
+   "url": "https://futureparenting.cwgv.com.tw/family/content/index/37417",
+   "source_title": "孩子寫作業拖拉、寫到哭是家常便飯？25年資深國小老師教3招",
+   "org": "未來親子",
+   "slug": "child-drags-homework-and-cries-veteran-teacher-three-tips",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
+  {
+   "kind": "bounty",
+   "title_zh": "理大招募 6–8 歲香港學童：兒童語言發展研究（評估報告＋$1000）",
+   "title_en": "PolyU recruits Hong Kong schoolchildren aged 6 to 8 language development study",
+   "summary_zh": "香港理工大學研究團隊招募 6–8 歲香港本地兒童，參與一項兒童語言發展的神經認知機制長期性研究。孩子可免費獲得市值 HK$4000 的語言、認知、腦成像和睡眠綜合評估報告，以及 HK$1000 現金報酬。掃描海報二維碼填寫問卷報名，合資格者會以 WhatsApp 聯絡。",
+   "summary_en": "A Hong Kong Polytechnic University research team is recruiting local children aged 6-8 for a longitudinal study of the neurocognitive mechanisms of children's language development. Children receive a free comprehensive assessment report on language, cognition, brain imaging and sleep (valued at HK$4,000) plus HK$1,000 in cash. Sign up by scanning the poster's QR code; eligible families are contacted by WhatsApp.",
+   "ages": [
+    "6-12歲"
+   ],
+   "topic": "賞金獵人",
+   "region": "香港",
+   "tips": [
+    "對象為 6–8 歲香港本地學童",
+    "掃海報二維碼填寫問卷報名，合資格者會以 WhatsApp 聯絡",
+    "研究為長期性，參加前請了解跟進安排"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "非牟利",
+   "posted_at": "2026-11-12",
+   "tags": [
+    "招募",
+    "語言發展",
+    "腦成像",
+    "研究",
+    "報酬"
+   ],
+   "verify_needed": true,
+   "verify_reason": "頁面正文未列發布日期，日期據海報檔名 News_Poster20261112.jpg",
+   "activity": null,
+   "deal": null,
+   "bounty": {
+    "caution": "涉及醫療程序（腦成像），參加前請與醫生商量並細閱知情同意書；研究為長期性，參加前請了解跟進安排。",
+    "contact": "",
+    "deadline": "",
+    "duration": "長期性研究",
+    "eligibility": "6–8 歲香港本地學童",
+    "funder": "",
+    "guaranteed": true,
+    "how_to_join": "掃描海報二維碼填寫問卷報名，合資格者會以 WhatsApp 聯絡",
+    "last_checked": "2026-11-20",
+    "location": "香港理工大學",
+    "method": "兒童語言發展神經認知機制研究（含腦成像）",
+    "organizer": "香港理工大學研究團隊",
+    "reward": "免費獲得市值 HK$4000 的語言、認知、腦成像和睡眠綜合評估報告，以及 HK$1000 現金報酬",
+    "reward_type": "現金＋評估報告"
+   },
+   "url": "https://www.polyu.edu.hk/cbs/st/en/news/2026/%E6%8B%9B%E5%8B%9F%E9%A6%99%E6%B8%AF%E5%AD%B8%E7%AB%A5-1",
+   "source_title": "招募香港學童",
+   "org": "香港理工大學",
+   "slug": "polyu-recruits-hong-kong-schoolchildren-aged-6-to-8-language",
+   "created_at": "2026-11-20T01:40:20+00:00",
+   "ended": false
+  },
   {
    "kind": "activity",
    "title_zh": "渣打藝趣嘉年華 2026",

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T13:32:07+00:00",
- "today": "2026-11-14",
+ "generated_at": "2026-11-20T01:40:20+00:00",
+ "today": "2026-11-20",
  "regions": [
   "香港",
   "澳門",
@@ -1414,6 +1414,82 @@
    "last_checked": "2026-11-06"
   },
   {
+   "slug": "hong-kong-neurodiversity-conference-2026",
+   "name_zh": "2026 香港神經多樣性會議",
+   "name_en": "2026 Hong Kong Neurodiversity Conference",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "city": "香港",
+   "country": "香港",
+   "region": "香港",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "香港神經多樣性協會、香港中文大學教育心理學系",
+   "fee_text": "",
+   "url": "https://www.ndahk.com/2026-conference",
+   "register_url": "https://www.ndahk.com/2026-conference",
+   "venue": "香港中文大學康本國際學術園 LT1",
+   "summary_zh": "2026 香港神經多樣性會議於 11 月 21 日（星期六）9:00–17:00 在香港中文大學康本國際學術園 LT1 舉行，由中大教育心理學系與香港神經多樣性協會合辦，主題為 “From Insights to Actions”。主題演講包括 Lawrence Fung（史丹福）、Alyssa Alcorn（布里斯托大學）及 So Yoon Kim（高麗大學），另有爐邊對談及家長、神經多樣者與本地研究平行分組。可獲 HKPS 臨床心理學部 6 CEUs。",
+   "themes": [
+    "神經多樣性",
+    "自閉症",
+    "ADHD"
+   ],
+   "interest_zh": "香港本地神經多樣性年度會議，主題由洞見到行動，講者包括史丹福、布里斯托及高麗大學學者，另設家長與神經多樣者分享；可獲 HKPS 臨床心理學部 6 CEUs。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "官網未列費用、報名截止日及報名連結；會議為 2026-11-21（明日），報名狀態未確認；原頁亦未列發布日期。",
+   "speakers": [
+    "Lawrence Fung",
+    "Alyssa Alcorn",
+    "So Yoon Kim",
+    "John J-H Kim"
+   ],
+   "deadline": "",
+   "last_checked": "2026-11-20"
+  },
+  {
+   "slug": "analytical-psychology-chinese-culture-11th-2026",
+   "name_zh": "第十一屆心理分析與中國文化國際學術論壇",
+   "name_en": "11th International Conference of Analytical Psychology and Chinese Culture",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "city": "曲阜",
+   "country": "中國",
+   "region": "中國",
+   "format": "混合（衛星會場＋遠程＋實體主會場）",
+   "language": "中文／英語",
+   "organizer": "山東大學易學與中國古代哲學研究中心、中國周易學會、尼山世界儒學中心孟子研究院、IAAP中國學會（CSAP）、ISST中國學會（CSST）等",
+   "fee_text": "",
+   "url": "https://www.hkcd.com.hk/hkcdweb/content_p/2026/10/27/content_204118.html",
+   "register_url": "",
+   "venue": "山東曲阜（尼山聖境、曲阜師範大學等地）",
+   "summary_zh": "第十一屆心理分析與中國文化國際學術論壇於 11 月 23–29 日在山東曲阜舉行，主題為「易以洗心，明心見性——心的智慧與 AI 時代的心理分析」。11 月 23–26 日為衛星會場、遠程會議與六場會前工作坊，27–29 日為曲阜主會場。與會者來自二十餘個國家和地區，包括多位 IAAP 前會長及三十餘位國際資深心理分析師與沙盤遊戲治療師。",
+   "themes": [
+    "心理分析",
+    "榮格心理學",
+    "易經",
+    "AI與心靈"
+   ],
+   "interest_zh": "心理分析與中國文化三十年的國際平台，本屆談易經心性之學與 AI 時代的心靈安頓；與會者包括多位 IAAP 前會長。",
+   "domains": [
+    "臨床心理",
+    "精神分析",
+    "文化心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "費用與報名方式未在報導中列出；官方網站連結未確認；報導日期 2026-10-27。",
+   "speakers": [
+    "Joe Cambray",
+    "Luigi Zoja",
+    "Murray Stein"
+   ],
+   "deadline": "",
+   "last_checked": "2026-11-20"
+  },
+  {
    "slug": "cpsy-school-2026",
    "name_zh": "中國心理學會學校心理專業委員會 2026 年學術年會",
    "name_en": "CPS School Psychology Committee Annual Conference 2026",
@@ -1519,6 +1595,37 @@
    "last_checked": "2026-11-14"
   },
   {
+   "slug": "international-conference-on-adhd-2026",
+   "name_zh": "2026 國際 ADHD 會議",
+   "name_en": "2026 International Conference on ADHD",
+   "start": "2026-12-03",
+   "end": "2026-12-05",
+   "city": "巴爾的摩",
+   "country": "美國",
+   "region": "北美",
+   "format": "實體",
+   "language": "英語",
+   "organizer": "ACO、ADDA、CHADD",
+   "fee_text": "",
+   "url": "https://www.theadhdconference.org/adhd2026/info",
+   "register_url": "https://www.theadhdconference.org/",
+   "venue": "",
+   "summary_zh": "2026 國際 ADHD 會議於 12 月 3–5 日（星期四至六）在美國馬里蘭州巴爾的摩舉行，由 ADHD 教練組織（ACO）、注意力缺失症協會（ADDA）及 CHADD 合辦，是北美最大型、歷史最悠久的多學科 ADHD 會議，匯聚親身經驗、臨床專長與最新研究。",
+   "themes": [
+    "ADHD",
+    "專注力不足／過度活躍症"
+   ],
+   "interest_zh": "北美最大型、歷史最悠久的多學科 ADHD 會議，匯聚親身經驗、臨床專長與最新研究；ACO 會員享分級會員價。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "官網資訊頁未列具體費用與報名截止日（只見分級定價說明）；直接報名連結未確認。",
+   "speakers": [],
+   "deadline": "",
+   "last_checked": "2026-11-20"
+  },
+  {
    "slug": "taaanz-group-conference-2026",
    "name_zh": "2026 TAAANZ Group Conference（紐西蘭交易分析協會團體年會）",
    "name_en": "2026 TAAANZ Group Conference",
@@ -1553,6 +1660,71 @@
    ],
    "deadline": "",
    "last_checked": "2026-11-13"
+  },
+  {
+   "slug": "iocdf-online-bdd-conference-2026",
+   "name_zh": "IOCDF 網上身體臆形障礙會議 2026",
+   "name_en": "IOCDF Online BDD Conference 2026",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "city": "線上",
+   "country": "美國",
+   "region": "北美",
+   "format": "線上",
+   "language": "英語",
+   "organizer": "國際強迫症基金會（IOCDF）",
+   "fee_text": "",
+   "url": "https://iocdf.org/bddcon",
+   "register_url": "https://iocdf.org/bddcon",
+   "venue": "線上",
+   "summary_zh": "IOCDF 網上身體臆形障礙會議 2026 於 12 月 5 日（星期六）線上舉行，美國東部時間 11:00–17:00。會議對象為受身體臆形障礙（BDD）影響的個人與家庭，以及治療 BDD 的心理健康專業人員，可獲 CE 學分。",
+   "themes": [
+    "身體臆形障礙",
+    "BDD"
+   ],
+   "interest_zh": "專門討論身體臆形障礙的網上會議，對象包括患者、家屬及治療 BDD 的專業人員，可獲 CE 學分。",
+   "domains": [
+    "臨床心理"
+   ],
+   "verify_needed": true,
+   "verify_notes": "官網頁面未列費用；會議頁為 JS 重型頁面，只抽到時間，日期與內容由 IOCDF 活動日曆及 2026 會議贊助簡介佐證。",
+   "speakers": [],
+   "deadline": "",
+   "last_checked": "2026-11-20"
+  },
+  {
+   "slug": "taiwan-resilience-forum-train-5-2026",
+   "name_zh": "2026 台灣心理韌性論壇列車（五）—網路社群篇",
+   "name_en": "2026 Taiwan Psychological Resilience Forum Train (5): Online Communities",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "city": "台北",
+   "country": "台灣",
+   "region": "台灣",
+   "format": "實體",
+   "language": "中文",
+   "organizer": "中華心理衛生協會心理韌性中心、臺北市立成淵高級中學",
+   "fee_text": "免費",
+   "url": "https://announce.yzu.edu.tw/index.php/tw/st/cc-202611090851-01",
+   "register_url": "https://link.oen.tw/mhatofficial",
+   "venue": "臺北市立成淵高級中學（臺北市大同區承德路二段235號）",
+   "summary_zh": "「2026 台灣心理韌性論壇列車（五）—網路社群篇」於 12 月 5 日（星期六）在臺北市立成淵高級中學舉行，由中華心理衛生協會心理韌性中心與成淵高中合辦，免費參加。主題為網路社群的心理健康識能與心理韌性促進，剖析數位社群與短影音對心理健康的衝擊，並從神經心理學觀點探討網路成癮、情緒與睡眠等危機因應策略。上午為工作坊（限額 40 人），下午為專題論壇。",
+   "themes": [
+    "心理韌性",
+    "網路社群",
+    "心理健康識能"
+   ],
+   "interest_zh": "免費實體論壇，談網路社群與短影音對心理健康的衝擊及網路成癮、情緒與睡眠的因應策略；上午工作坊限額 40 人。",
+   "domains": [
+    "臨床心理",
+    "學校心理",
+    "預防"
+   ],
+   "verify_needed": false,
+   "verify_notes": "",
+   "speakers": [],
+   "deadline": "",
+   "last_checked": "2026-11-20"
   },
   {
    "slug": "evolution-of-psychotherapy-2026",
@@ -1872,6 +2044,41 @@
    ],
    "deadline": "",
    "last_checked": "2026-11-13"
+  },
+  {
+   "slug": "new-imago-forum-2026-trust",
+   "name_zh": "New Imago Forum 2026：TRUST",
+   "name_en": "New Imago Forum 2026: TRUST",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "city": "Colchester",
+   "country": "英國",
+   "region": "歐洲",
+   "format": "實體（住宿式週末）",
+   "language": "英語",
+   "organizer": "英國 Essex 大學心理社會與精神分析研究系",
+   "fee_text": "住宿：一般 £250／優惠 £175；非住宿：一般 £100／優惠 £70；週六晚宴加購 £50",
+   "url": "https://www1.essex.ac.uk/online_shop/conference/default.aspx?conference=new-imago-forum-2026-trust",
+   "register_url": "https://www1.essex.ac.uk/online_shop/conference/default.aspx?conference=new-imago-forum-2026-trust",
+   "venue": "University of Essex, Colchester",
+   "summary_zh": "New Imago Forum 2026：TRUST 於 12 月 11–13 日（星期五至日）在英國 Essex 大學（Colchester）舉行，為精神分析與人文學科跨學科會議，主題為信任。會議採住宿式週末形式，12 月 11 日下午 5 時為 Freud Memorial Lecture，由 Josh Cohen 主講。住宿收費一般 £250／優惠 £175，非住宿一般 £100／優惠 £70。",
+   "themes": [
+    "信任",
+    "精神分析",
+    "心理學與人文學科"
+   ],
+   "interest_zh": "精神分析與人文學科跨學科會議，主題為信任；Freud Memorial Lecture 由 Josh Cohen 主講，住宿式週末形式利於深入討論。",
+   "domains": [
+    "臨床心理",
+    "精神分析"
+   ],
+   "verify_needed": true,
+   "verify_notes": "原頁未顯示發布日期；費用、日期、地點已核實。",
+   "speakers": [
+    "Josh Cohen"
+   ],
+   "deadline": "",
+   "last_checked": "2026-11-20"
   },
   {
    "slug": "tsap-jung-2026",
