@@ -2417,7 +2417,274 @@
    "tier": "B",
    "verify_needed": true,
    "verify_reason": "訪問日期未見於逐字稿頁面，依 Sourcery 節目表（11 月 16 日）與 AT Pulse 當日簡報核對"
+  },
+  {
+   "person": "sam-altman",
+   "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+   "platform": "web",
+   "page_date": "2026-11-18",
+   "kind": "訪談",
+   "summary_zh": "Altman 與 OpenAI 總裁 Greg Brockman 在紐約時報 DealBook 峰會上表示，反對把決策權逐步移交給 AI，人類必須繼續掌控未來。Brockman 補充，模型推理監控正在失效，需要新的監控技術。",
+   "quote_en": "we both agree that that's a terrible idea",
+   "topics": [
+    "AI 治理",
+    "遞歸自我改進",
+    "模型監控"
+   ],
+   "evidence_quote": "stay in control of the future",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "dario-amodei",
+   "url": "https://www.reuters.com/world/anti-war-physicist-ai-power-broker-amodei-takes-his-safety-approach-public-2026-11-19/",
+   "platform": "web",
+   "page_date": "2026-11-19",
+   "kind": "演講",
+   "summary_zh": "Anthropic 於 11 月 19 日在納斯達克上市，發行價 83 美元，開盤 111.50 美元，集資約 813 億美元。Amodei 在敲鐘現場表示，不會屈服於商業或政治壓力，上市只會加強做正確事的決心。",
+   "quote_en": "Today puts the company in a stronger financial position, and in doing so only strengthens our resolve to do the right thing.",
+   "topics": [
+    "Anthropic IPO",
+    "AI 安全",
+    "納斯達克上市"
+   ],
+   "evidence_quote": "We will not bend to either business",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://teslanorth.com/2026/11/19/musk-dealbook-tesla-spacex-model-y-starlink/",
+   "platform": "web",
+   "page_date": "2026-11-18",
+   "kind": "訪談",
+   "summary_zh": "Musk 在紐約時報 DealBook 峰會表示，Tesla 與 SpaceX 合併與否「兩條路都可能」，合併「大概會更好」，但未公布協議、估值或時間表。他又透露計劃推出沒有軚盤和腳踏、可載 6 至 7 人的自動駕駛 Model Y，以及 Starlink Mobile 屋頂微型基站，預計 2027 年投產。",
+   "quote_en": "would they be better together? Probably yes.",
+   "topics": [
+    "Tesla 與 SpaceX 合併",
+    "自動駕駛",
+    "Starlink Mobile"
+   ],
+   "evidence_quote": "either path is possible",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://fourweekmba.com/ai-perplexity-launches-3-apis-as-its-api-business-grows-4-3x/",
+   "platform": "web",
+   "page_date": "2026-11-19",
+   "kind": "產品發布",
+   "summary_zh": "Srinivas 宣布 Perplexity 推出三個開發者 API：Monitor、Orchestrator 及 Context。他稱 API 業務按年增長 4.3 倍，達九位數美元年化收入，但未公布具體金額。",
+   "quote_en": "Our API business has grown 4.3x YoY and tracks at a 9-figure annual run rate.",
+   "topics": [
+    "Perplexity API",
+    "開發者工具",
+    "AI 代理"
+   ],
+   "evidence_quote": "Our API business has grown 4.3x YoY",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": true
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://x.com/AravSrinivas/status/2123480966459174920",
+   "platform": "x",
+   "page_date": "2026-11-20",
+   "kind": "貼文",
+   "summary_zh": "Srinivas 發文祝賀 Anthropic 上市，稱其展示了專注、高信念、講求品味的團隊在短時間內能達成的成果。他表示 Opus 5.5 仍以明顯優勢是業界最佳模型，Perplexity 作為 Anthropic 客戶為其高興。",
+   "quote_en": "Congratulations to @AnthropicAI on their historic IPO today! Anthropic has shown the world what a focused, high-conviction, taste-driven team can execute in a short time. Opus 5.5 remains the best model in the industry by a good margin, and we're delighted for them as their customer.",
+   "topics": [
+    "Anthropic IPO",
+    "Opus 5.5"
+   ],
+   "evidence_quote": "Congratulations to @AnthropicAI",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": true
+  },
+  {
+   "person": "satya-nadella",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-staff-wrote-open-letter-that-they-fear-being-replaced-by-ai-then-60000-got-exit-offers-satya-nadella-now-says-why-do-we-need-software-engineers-to-/articleshow/136014881.cms",
+   "platform": "web",
+   "page_date": "2026-11-20",
+   "kind": "訪談",
+   "summary_zh": "Nadella 在 DealBook 峰會解釋微軟 6 萬人自願離職計劃，強調目的在於給員工選擇權，而非以 AI 取代工程師。他預期每份工作最終都會變成指揮 AI 代理，而非親自執行。",
+   "quote_en": "That level of direction is what, by the way, is going to happen in all jobs,",
+   "topics": [
+    "微軟自願離職",
+    "AI 代理",
+    "工作轉型"
+   ],
+   "evidence_quote": "software factory that builds the product",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "文章",
+   "summary_zh": "Willison 與 Prime Radiant 提出「外部沙箱」模式，讓編碼代理執行的程式碼在專用沙箱內運行，代理本身留在沙箱外；同步發布三個開源沙箱伺服器實作，支援 Claude Code、Codex、Pi。",
+   "quote_en": "My post on the Prime Radiant blog introduces the external sandbox pattern, where code executed by the agent runs inside a dedicated sandbox while the agent itself lives outside of that sandbox.",
+   "topics": [
+    "編碼代理",
+    "沙箱安全",
+    "開源工具"
+   ],
+   "evidence_quote": "provides a neat way to experiment",
+   "checked": "2026-11-20",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://www.youtube.com/watch?v=8YHTMsy0bT8",
+   "platform": "web",
+   "page_date": "2026-11-19",
+   "kind": "訪談",
+   "summary_zh": "Huberman 講解尼古丁如何影響腦與身體，包括提升多巴胺、專注與食慾抑制，並區分尼古丁本身與吸煙、電子煙等傳遞方式的健康風險。他亦分享戒煙的科學方法，包括臨床催眠、藥物與尼古丁替代療法。",
+   "quote_en": "I explain how nicotine affects the brain and body, including how it increases dopamine, acetylcholine and norepinephrine to boost motivation, focus and alertness",
+   "topics": [
+    "尼古丁",
+    "戒煙",
+    "神經科學"
+   ],
+   "evidence_quote": "how nicotine affects the brain and body",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "esther-perel",
+   "url": "https://katiecouric.substack.com/p/my-conversation-with-esther-perel",
+   "platform": "web",
+   "page_date": "2026-11-18",
+   "kind": "訪談",
+   "summary_zh": "Perel 接受 Katie Couric 的 Substack 直播訪問，錄影已上架。",
+   "quote_en": "Thank you Fiona Bridges, Mitch Jackson, Carina Rosanna Tautu, The Hypervisible Leader, Kathleen Hamlin, and many others for tuning into my live video with Esther Perel!",
+   "topics": [
+    "親密關係",
+    "直播訪問"
+   ],
+   "evidence_quote": "my live video with Esther Perel",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://www.ted.com/podcasts/rethinking",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "訪談",
+   "summary_zh": "Grant 與 Jennifer Garner 對談人際化學反應，探討建立連結的習慣、看愛情喜劇如何幫助婚姻，以及為何應數算自己的付出而非福氣。Garner 亦分享如何把敵人變成終身夥伴。",
+   "quote_en": "Their intellectual chemistry during that conversation inspired Adam to write his new book, Vibe: The Secrets of Strong Connections in a Lonely World.",
+   "topics": [
+    "人際連結",
+    "新書《Vibe》"
+   ],
+   "evidence_quote": "Jennifer Garner on chemistry",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "richard-schwartz",
+   "url": "https://www.youtube.com/watch?v=pauXEfk1N9k",
+   "platform": "web",
+   "page_date": "2026-11-17",
+   "kind": "演講",
+   "summary_zh": "Schwartz 與 Tami Simon 直播對談 IFS 的靈性面向，談如何信任「自性」（Self）、分辨內在指引與部分（parts），並介紹 12 月 7 日開課的新課程《The Spirituality of Internal Family Systems》。",
+   "quote_en": "Join us LIVE on Tuesday, November 17 at 11 am ET",
+   "topics": [
+    "IFS",
+    "自性",
+    "靈性"
+   ],
+   "evidence_quote": "Join us LIVE on Tuesday, November 17",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "gabor-mat",
+   "url": "https://chancentre.com/events/an-evening-with-gabor-mate/",
+   "platform": "web",
+   "page_date": "2026-11-19",
+   "kind": "演講",
+   "summary_zh": "Maté 在 UBC Chan Centre 舉行晚間對談，談創傷、成癮與童年發展如何影響身心健康。頁面亦提到其下一本書《Hello Again》預計 2027 年底出版。",
+   "quote_en": "Gabor Maté is one of the world's most trusted authorities on addiction, trauma, and childhood development.",
+   "topics": [
+    "創傷",
+    "成癮",
+    "童年發展"
+   ],
+   "evidence_quote": "most trusted authorities on addiction",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "peter-levine",
+   "url": "https://www.dafnalender.com/events/healing-attachment-trauma-together-w-dr-peter-levine-free-first-class-nov-19th-200pm-et",
+   "platform": "web",
+   "page_date": "2026-11-19",
+   "kind": "演講",
+   "summary_zh": "Levine 與 Dafna Lender 合辦免費網上首課，談如何在治療兒童時同時支援照顧者，以建立安全感、調節與連結。系列其餘四課於 12 月 1、2、8、9 日舉行。",
+   "quote_en": "Join Dr. Peter A. Levine, creator of Somatic Experiencing®, and Dafna Lender, LCSW, creator of Integrative Attachment Family Therapy, for the free opening class of Healing Attachment Trauma Together",
+   "topics": [
+    "依附創傷",
+    "體感經驗",
+    "照顧者"
+   ],
+   "evidence_quote": "creator of Somatic Experiencing",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "peter-levine",
+   "url": "https://community.theawakenetwork.com/peter-levine-workshop-ce-credits-2026/",
+   "platform": "web",
+   "page_date": "2026-11-20",
+   "kind": "產品發布",
+   "summary_zh": "Levine 的內感受（interoception）創傷療癒工作坊錄影版於 11 月 20 日推出，可取 1 個自修持續進修學分，內容涵蓋情緒調節、身體覺察與創傷治療的實證做法。",
+   "quote_en": "Feeling Safe in Our Bodies: Interoception for Trauma Healing and Nervous System Regulation workshop awards 1 homestudy credit to participating professionals.",
+   "topics": [
+    "內感受",
+    "創傷療癒",
+    "持續進修"
+   ],
+   "evidence_quote": "Interoception for Trauma Healing",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "ross-greene",
+   "url": "https://newcanaandarienmoms.com/save-the-date-two-november-events-at-the-childrens-school/",
+   "platform": "web",
+   "page_date": "2026-11-18",
+   "kind": "演講",
+   "summary_zh": "Greene 向家長演講，講解 CPS 模式：孩子的挑戰行為源於未滿足的需求與未發展的技能，成人應與孩子合作解決問題，而非以對抗或懲罰回應。",
+   "quote_en": "At the heart of Dr. Greene's philosophy is a simple but powerful principle: 'Kids do well if they can.'",
+   "topics": [
+    "CPS",
+    "親職",
+    "兒童行為"
+   ],
+   "evidence_quote": "Kids do well if they can.",
+   "checked": "2026-11-20",
+   "tier": "B",
+   "verify_needed": false
   }
  ],
- "updated": "2026-11-18"
+ "updated": "2026-11-20"
 }
