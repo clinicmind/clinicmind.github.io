@@ -1,1 +1,72 @@
-{"brief_en":[],"brief_zh":["n=280 名幼稚園至六年級 ADHD 兒童入組，255 名開始介入，235 名完成；美國東南部與東北部兩地，2022–2025 年四個暑期","設計：四種課堂調適每日隨機更換；哌甲酯 0.3 mg/kg 與安慰劑每週交替；一般課室與強化行為課室每兩週交替","四種調適（加時、頻密小休、企枱、低干擾工作間）單獨或配合其他治療均無顯著改善，延長做功課時間更略減生產力","哌甲酯：獨立做功課正確完成量升 22%（率比 1.22），測驗分數升 3.9 分，課堂違規減少 61%（率比 0.39）","行為治療：課堂違規減少 37%（率比 0.63）；各治療之間無交互作用；試驗註冊 NCT05469386"],"category":"研究與證據","caution":"研究在結構化暑期治療課程課室進行，非日常學校課室，現實效果可能較小；只量度即日課堂行為與測驗，未評估長期學業成效；第一作者申報收取 Guilford Press 版稅。","date":"2026-11-19T13:24:00+00:00","deadline_soon":false,"ethics_flags":[],"evidence_level":3,"evidence_note":"交叉隨機對照試驗（JAMA Pediatrics，2026-11-13 線上刊出；DOI: 10.1001/jamapediatrics.2026.5973；ClinicalTrials.gov NCT05469386）","evidence_quote":"academic accommodations did not significantly improve behavior or academic outcomes","featured_at":null,"first_seen_at":"2026-11-19T13:24:00+00:00","hero_media":null,"hot_score":0.0,"include":true,"kind":"research","model_names":[],"original_prompt":"","page_date":"2026-11-13","population":["兒童青少年","臨床工作者"],"posts":[{"author_handle":"","author_name":"Fabiano et al.","content":"期刊原文頁：ADHD 課堂調適、行為治療與興奮劑藥物的交叉隨機對照試驗，含樣本、設計與主要結果。","platform":"web","posted_at":"2026-11-13T00:00:00+00:00","title":"JAMA Pediatrics 論文（DOI: 10.1001/jamapediatrics.2026.5973）","url":"https://jamanetwork.com/journals/jamapediatrics/fullarticle/2856649"}],"psych_concepts":[],"reject_reason":"","related":null,"slug":"adhd-accommodations-behavior-therapy-stimulant-medication-rct","summary_en":"Published online 13 November 2026 in JAMA Pediatrics. A crossover randomised clinical trial in summer treatment programme classrooms at two US sites: 280 children with ADHD in kindergarten through sixth grade were enrolled, 255 started the intervention and 235 completed it. Four classroom accommodations (extended time, frequent breaks, standing desk, low-distraction workspace) were randomised daily, placebo and methylphenidate (0.3 mg/kg) alternated weekly, and general versus enhanced-behaviour classrooms alternated every two weeks. None of the accommodations significantly improved behaviour or academic outcomes, alone or combined with other treatments; methylphenidate raised seatwork productivity by 22% (rate ratio 1.22, 95% CI 1.19-1.25), quiz scores by 3.9 points (95% CI 3.10-4.70) and cut classroom rule violations by 61% (rate ratio 0.39, 95% CI 0.37-0.42), while behaviour therapy cut rule violations by 37% (rate ratio 0.63, 95% CI 0.60-0.67).","summary_zh":"JAMA Pediatrics 2026-11-13 線上刊出。美國兩地暑期治療課程的交叉隨機對照試驗，280 名幼稚園至六年級 ADHD 兒童入組，255 名開始介入，235 名完成。每日隨機更換四種課堂調適（延長做功課時間、頻密小休、企枱、低干擾工作間），另每週交替安慰劑與哌甲酯（0.3 mg/kg），每兩週交替一般課室與強化行為課室。結果：四種調適單獨或配合其他治療均無顯著改善；哌甲酯令獨立做功課的正確完成量升 22%（率比 1.22，95% CI 1.19–1.25），測驗分數升 3.9 分（95% CI 3.10–4.70），課堂違規減少 61%（率比 0.39，95% CI 0.37–0.42）；行為治療令課堂違規減少 37%（率比 0.63，95% CI 0.60–0.67）。","supervision_questions":["家長或學校堅持要求課堂調適時，你會如何用這項結果說明調適與行為治療、藥物治療的分別，而不令對方覺得支援被否定？","這項試驗在暑期課程而非日常課室進行，你會如何提醒家長與教師解讀結果時的適用範圍？"],"tags":["ADHD","課堂調適","行為治療","哌甲酯","SEN","RCT"],"tier":"live","title_en":"RCT: classroom accommodations do not help children with ADHD; stimulant medication and behavior therapy do (N=255)","title_zh":"RCT：ADHD 課堂調適（加時、休息、企枱、靜角）無效，藥物與行為治療才有效（n=255）","training":null,"verify_needed":false,"verify_reason":""}
+{
+  "brief_en": [],
+  "brief_zh": [
+    "n=280 名幼稚園至六年級 ADHD 兒童入組，255 名開始介入，235 名完成；美國東南部與東北部兩地，2022–2025 年四個暑期",
+    "設計：四種課堂調適每日隨機更換；哌甲酯 0.3 mg/kg 與安慰劑每週交替；一般課室與強化行為課室每兩週交替",
+    "四種調適（加時、頻密小休、企枱、低干擾工作間）單獨或配合其他治療均無顯著改善，延長做功課時間更略減生產力",
+    "哌甲酯：獨立做功課正確完成量升 22%（率比 1.22），測驗分數升 3.9 分，課堂違規減少 61%（率比 0.39）",
+    "行為治療：課堂違規減少 37%（率比 0.63）；各治療之間無交互作用；試驗註冊 NCT05469386"
+  ],
+  "category": "研究與證據",
+  "caution": "研究在結構化暑期治療課程課室進行，非日常學校課室，現實效果可能較小；只量度即日課堂行為與測驗，未評估長期學業成效；第一作者申報收取 Guilford Press 版稅。",
+  "date": "2026-11-19T13:24:00+00:00",
+  "deadline_soon": false,
+  "ethics_flags": [],
+  "evidence_level": 3,
+  "evidence_note": "交叉隨機對照試驗（JAMA Pediatrics，2026-11-13 線上刊出；DOI: 10.1001/jamapediatrics.2026.5973；ClinicalTrials.gov NCT05469386）",
+  "evidence_quote": "academic accommodations did not significantly improve behavior or academic outcomes",
+  "featured_at": null,
+  "first_seen_at": "2026-11-19T13:24:00+00:00",
+  "hero_media": null,
+  "hot_score": 0.0,
+  "include": true,
+  "kind": "research",
+  "model_names": [],
+  "original_prompt": "",
+  "page_date": "2026-11-13",
+  "population": [
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "posts": [
+    {
+      "author_handle": "",
+      "author_name": "Fabiano et al.",
+      "content": "期刊原文頁：ADHD 課堂調適、行為治療與興奮劑藥物的交叉隨機對照試驗，含樣本、設計與主要結果。",
+      "platform": "web",
+      "posted_at": "2026-11-13T00:00:00+00:00",
+      "title": "JAMA Pediatrics 論文（DOI: 10.1001/jamapediatrics.2026.5973）",
+      "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2856649"
+    }
+  ],
+  "psych_concepts": [],
+  "reject_reason": "",
+  "related": null,
+  "slug": "adhd-accommodations-behavior-therapy-stimulant-medication-rct",
+  "summary_en": "Published online 13 November 2026 in JAMA Pediatrics. A crossover randomised clinical trial in summer treatment programme classrooms at two US sites: 280 children with ADHD in kindergarten through sixth grade were enrolled, 255 started the intervention and 235 completed it. Four classroom accommodations (extended time, frequent breaks, standing desk, low-distraction workspace) were randomised daily, placebo and methylphenidate (0.3 mg/kg) alternated weekly, and general versus enhanced-behaviour classrooms alternated every two weeks. None of the accommodations significantly improved behaviour or academic outcomes, alone or combined with other treatments; methylphenidate raised seatwork productivity by 22% (rate ratio 1.22, 95% CI 1.19-1.25), quiz scores by 3.9 points (95% CI 3.10-4.70) and cut classroom rule violations by 61% (rate ratio 0.39, 95% CI 0.37-0.42), while behaviour therapy cut rule violations by 37% (rate ratio 0.63, 95% CI 0.60-0.67).",
+  "summary_zh": "JAMA Pediatrics 2026-11-13 線上刊出。美國兩地暑期治療課程的交叉隨機對照試驗，280 名幼稚園至六年級 ADHD 兒童入組，255 名開始介入，235 名完成。每日隨機更換四種課堂調適（延長做功課時間、頻密小休、企枱、低干擾工作間），另每週交替安慰劑與哌甲酯（0.3 mg/kg），每兩週交替一般課室與強化行為課室。結果：四種調適單獨或配合其他治療均無顯著改善；哌甲酯令獨立做功課的正確完成量升 22%（率比 1.22，95% CI 1.19–1.25），測驗分數升 3.9 分（95% CI 3.10–4.70），課堂違規減少 61%（率比 0.39，95% CI 0.37–0.42）；行為治療令課堂違規減少 37%（率比 0.63，95% CI 0.60–0.67）。",
+  "supervision_questions": [
+    "家長或學校堅持要求課堂調適時，你會如何用這項結果說明調適與行為治療、藥物治療的分別，而不令對方覺得支援被否定？",
+    "這項試驗在暑期課程而非日常課室進行，你會如何提醒家長與教師解讀結果時的適用範圍？"
+  ],
+  "tags": [
+    "ADHD",
+    "課堂調適",
+    "行為治療",
+    "哌甲酯",
+    "SEN",
+    "RCT"
+  ],
+  "tier": "live",
+  "title_en": "RCT: classroom accommodations do not help children with ADHD; stimulant medication and behavior therapy do (N=255)",
+  "title_zh": "RCT：ADHD 課堂調適（加時、休息、企枱、靜角）無效，藥物與行為治療才有效（n=255）",
+  "training": null,
+  "verify_needed": false,
+  "verify_reason": "",
+  "poster": {
+    "src": "posters/adhd-accommodations-behavior-therapy-stimulant-medication-rct.svg",
+    "alt": "ADHD 課堂調適隨機試驗研究圖：貓學童在課室做功課，水獺老師在旁，調適無效、藥物與行為治療有效",
+    "style": "playmobil",
+    "made": "2026-11-20"
+  }
+}
