@@ -1,1 +1,74 @@
-{"category":"進修與培訓","evidence_hint":"培訓頁面（CCMH；2026 年 12 月 10 日美東時間 12:00–14:00；免費；經原頁及傳單核實；不設 CEU；設錄影；直播名額限 500 人）","evidence_quote":"December 10, 2026 from 12-2 pm EST","key_points_zh":["主辦：Center for Collegiate Mental Health（CCMH）× The Hope Center for Student Basic Needs","內容：以 CCMH 數據比較兩年制／社區學院與四年制大學輔導中心的學生心理健康需要","實務：數據主導決策、減低污名、擴大求助途徑、支援通勤學生","協作：加強校園與社區夥伴協調，建立可持續、以學生為中心的照顧","日期：2026 年 12 月 10 日（星期四）12:00–14:00（美東時間）；香港／澳門時間 12 月 11 日（星期五）凌晨 1:00–3:00","費用：免費，全程線上直播（Zoom）；不設 CEU；設錄影重溫；直播名額限 500 人"],"kind":"training","model_names":[],"page_date":"2026-12-10","population":["成人","臨床工作者"],"published":true,"slug":"ccmh-community-college-student-mental-health","source":{"author_name":"Center for Collegiate Mental Health (CCMH)","description":"CCMH 與 The Hope Center for Student Basic Needs 合辦免費 2 小時網上研討會，以 CCMH 數據探討社區學院學生心理健康需要、輔導服務及前行路徑。2026 年 12 月 10 日美東時間 12:00–14:00 舉行，費用全免，不設 CEU，設錄影重溫。來源為 2026-11-22 Feed IG 海報 run 的公開搜尋後備，按 Gu 指示回饋上架 PsyPick。","platform":"web","title":"Advancing Student Mental Health at Community Colleges: Research, Practice, and Pathways Forward","url":"https://ccmh.psu.edu/ceu"},"title_zh":"免費網上研討會：社區學院學生心理健康——研究、實務與前行路徑（12 月 11 日香港時間）"}
+{
+ "brief_en": [],
+ "caution": "直播名額限 500 人，先到先得；不設 CEU／學分，登記後可收看錄影重溫。",
+ "date": "2026-11-22T01:49:45+00:00",
+ "ethics_flags": [],
+ "evidence_level": 0,
+ "featured_at": null,
+ "first_seen_at": "2026-11-22T01:49:45+00:00",
+ "hero_media": null,
+ "hot_score": 0.0,
+ "include": true,
+ "model_names": [],
+ "original_prompt": "",
+ "psych_concepts": [],
+ "reject_reason": "",
+ "related": null,
+ "tier": "live",
+ "verify_needed": false,
+ "verify_reason": "",
+ "brief_zh": [
+  "主辦：Center for Collegiate Mental Health（CCMH）× The Hope Center for Student Basic Needs",
+  "內容：以 CCMH 數據比較兩年制／社區學院與四年制大學輔導中心的學生心理健康需要",
+  "實務：數據主導決策、減低污名、擴大求助途徑、支援通勤學生",
+  "協作：加強校園與社區夥伴協調，建立可持續、以學生為中心的照顧",
+  "日期：2026 年 12 月 10 日（星期四）12:00–14:00（美東時間）；香港／澳門時間 12 月 11 日（星期五）凌晨 1:00–3:00",
+  "費用：免費，全程線上直播（Zoom）；不設 CEU；設錄影重溫；直播名額限 500 人"
+ ],
+ "category": "進修培訓",
+ "evidence_note": "活動頁面（CCMH；2026 年 12 月 10 日美東時間 12:00–14:00；免費；經原頁及傳單核實；不設 CEU；設錄影；直播名額限 500 人）",
+ "evidence_quote": "December 10, 2026 from 12-2 pm EST",
+ "kind": "training",
+ "page_date": "2026-12-10",
+ "population": [
+  "成人",
+  "臨床工作者"
+ ],
+ "posts": [
+  {
+   "author_handle": "",
+   "author_name": "Center for Collegiate Mental Health (CCMH)",
+   "content": "培訓頁面：CCMH 免費網上研討會，2026 年 12 月 10 日美東時間 12:00–14:00，Zoom 線上直播。",
+   "platform": "web",
+   "posted_at": "2026-12-10T17:00:00+00:00",
+   "title": "Advancing Student Mental Health at Community Colleges: Research, Practice, and Pathways Forward",
+   "url": "https://ccmh.psu.edu/ceu"
+  }
+ ],
+ "slug": "ccmh-community-college-student-mental-health",
+ "summary_en": "A free 2-hour live webinar from the Center for Collegiate Mental Health (CCMH) and The Hope Center for Student Basic Needs. Using CCMH data, it compares the mental health needs and counselling services of community colleges with four-year institutions, covering data-informed decision making, reducing stigma, expanding access to care, supporting commuter-based students, and coordinating support across campus and community partners. Held Thursday 10 December 2026, 12:00-14:00 Eastern Time (01:00-03:00 Hong Kong/Macau time on 11 December), fully online via Zoom, free of charge, in English, with advance registration required. No CEU; a recording will be available to registrants. Aimed at counselling centre staff, clinicians and higher-education professionals working in collegiate mental health.",
+ "summary_zh": "CCMH 與 The Hope Center for Student Basic Needs 合辦免費 2 小時網上研討會，以 CCMH 數據比較兩年制／社區學院與四年制大學輔導中心的學生心理健康需要，探討數據主導決策、減低污名、擴大求助途徑、支援通勤學生，以及校園與社區協作。2026 年 12 月 10 日（星期四）美東時間 12:00–14:00 舉行（香港／澳門時間 12 月 11 日星期五凌晨 1:00–3:00），全程 Zoom 線上直播，費用全免，全程英語，須預先報名。不設 CEU；設錄影重溫，登記後可收看。對象為大專院校輔導中心人員、臨床心理學家、輔導員、社工及高等教育學生心理健康工作者。",
+ "supervision_questions": [
+  "你機構入面嘅社區學院學生，求助時最大嘅阻礙係污名、時間，定係唔知有服務？下次團隊會議你會點樣提出？",
+  "數據顯示社區學院同四年制大學嘅學生需要唔同，你手頭嘅服務有冇針對呢啲唔同作出調整？如果冇，第一步可以係咩？"
+ ],
+ "tags": [
+  "學生心理健康",
+  "社區學院",
+  "免費培訓",
+  "CCMH"
+ ],
+ "title_en": "Free webinar: Advancing Student Mental Health at Community Colleges: Research, Practice, and Pathways Forward (CCMH, 10 December)",
+ "title_zh": "免費網上研討會：社區學院學生心理健康——研究、實務與前行路徑（12 月 11 日香港時間）",
+ "training": {
+  "provider": "Center for Collegiate Mental Health (CCMH)",
+  "format": "線上直播（Zoom）",
+  "price": "免費",
+  "price_tier": "免費",
+  "ce_credits": "不設 CEU",
+  "language": "英語",
+  "event_date": "2026-12-10",
+  "event_time_note": "12:00–14:00（美東時間 EST；香港／澳門時間 12 月 11 日 01:00–03:00）",
+  "deadline": ""
+ }
+}
