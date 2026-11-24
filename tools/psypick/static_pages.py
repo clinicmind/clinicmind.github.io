@@ -5,6 +5,7 @@
   psypick/p/<slug>.html     每則在架 case（include != false，即 index.json 內每則）
   psypick/fig/<slug>.html   figures.json 每位人物
   psypick/feed.xml          RSS 2.0，最新 50 則（按 first_seen_at）
+  psypick/events/、events.ics、links/   見 events_links.py（C-6／C-7）
   sitemap.xml（根目錄）     保留非 PsyPick 靜態頁的網址，加入全部靜態頁
 
 p/、fig/、feed.xml 是建置產物，不入 repo（.gitignore），由 CI 部署時產生。
@@ -31,7 +32,7 @@ ADSENSE = ('<script async src="https://pagead2.googlesyndication.com/pagead/js/'
 SLUG_OK = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 FEED_N = 50
 SM_NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
-GENERATED_PREFIXES = (PP + "p/", PP + "fig/")
+GENERATED_PREFIXES = (PP + "p/", PP + "fig/", PP + "events/", PP + "links/")
 
 KIND_ZH = {"research": "研究發現", "practice": "臨床實務", "product": "產品動態",
            "incident": "事件與爭議", "training": "培訓課程"}
@@ -130,17 +131,15 @@ def page(*, title, desc, canonical, og_image, og_type, body, ld, up):
 {ld}
 </head>
 <body>
-<div class="parent-bar" style="background:#244A42;color:#F7F5F0;padding:6px 16px;font-size:14px;"><a href="{up}../" style="color:#F7F5F0;text-decoration:none;">← 臨床心語 ClinicMind</a><span style="float:right;">知心選 PsyPick 是臨床心語的資訊整理站</span></div>
+<div class="parent-bar" style="background:#244A42;color:#F7F5F0;padding:6px 16px;font-size:14px;"><a href="{up}../" style="color:#F7F5F0;text-decoration:none;">← 臨床心語 ClinicMind</a></div>
 <header class="site-header">
   <div class="row">
-    <a class="brand" href="{up}"><img class="brand-mark mark-light" src="{up}brand/mark.svg" alt="" width="30" height="30"><img class="brand-mark mark-dark" src="{up}brand/mark-dark.svg" alt="" width="30" height="30"><span class="wordmark">知心選 PsyPick</span></a>
-    <div class="header-right">
-      <nav class="header-nav" style="display:flex">
-        <a href="{up}">首頁</a>
-        <a href="{up}#/training">進修</a>
-        <a href="{up}#/figures">動向</a>
-      </nav>
-    </div>
+    <a class="brand" href="{up}"><img class="brand-mark mark-light" src="{up}brand/mark.svg" alt="" width="30" height="30"><img class="brand-mark mark-dark" src="{up}brand/mark-dark.svg" alt="" width="30" height="30"><span class="wordmark">知心選</span></a>
+    <nav aria-label="主選單" style="display:flex;gap:12px;white-space:nowrap;flex-shrink:0;font-size:15px">
+      <a href="{up}">首頁</a>
+      <a href="{up}events/">活動</a>
+      <a href="{up}#/figures">動向</a>
+    </nav>
   </div>
 </header>
 <div class="container"><main id="app">
@@ -150,6 +149,7 @@ def page(*, title, desc, canonical, og_image, og_type, body, ld, up):
   <span class="footer-brand">臨床心語 ClinicMind</span>
   <span>知心選 PsyPick：AI × 心理學的案例訊號站</span>
   <span>內容版權屬原作者；本站提供導讀與專業註解，不構成醫療或治療建議。</span>
+  <span><a href="{up}about.html">編輯方針與免責聲明</a></span>
   <span><a href="{up}privacy.html">私隱政策 Privacy Policy</a></span>
   <span><a href="{up}feed.xml">RSS</a></span>
 </footer></div>
@@ -475,7 +475,7 @@ def sitemap_xml(base_path, generated):
         for u in root.findall("{%s}url" % SM_NS):
             loc = (u.findtext("{%s}loc" % SM_NS) or "").strip()
             if not loc or loc.startswith(GENERATED_PREFIXES) \
-                    or loc == PP + "feed.xml":
+                    or loc in (PP + "feed.xml", PP + "events.ics"):
                 continue
             lm = (u.findtext("{%s}lastmod" % SM_NS) or "").strip()
             kept.append((loc, lm))
@@ -496,7 +496,8 @@ def clean_dir(path):
 
 
 # ---------------------------------------------------------------- 入口
-def generate(data_dir, index, figures, site_root, write_sitemap):
+def generate(data_dir, index, figures, site_root, write_sitemap,
+             conferences=None, today=None):
     psypick_dir = os.path.dirname(os.path.abspath(data_dir))
     entries = [e for e in index.get("cases") or []
                if SLUG_OK.match(e.get("slug") or "")]
@@ -533,13 +534,29 @@ def generate(data_dir, index, figures, site_root, write_sitemap):
 
     write(os.path.join(psypick_dir, "feed.xml"), feed_xml(entries, built))
 
+    # C-6／C-7：近期活動頁＋日曆檔、IG 連結頁
+    import events_links as ev
+    today = today or built.date()
+    trainings = ev.upcoming_trainings(entries, today)
+    confs = ev.upcoming_conferences(conferences or {}, today)
+    write(os.path.join(psypick_dir, "events", "index.html"),
+          ev.events_page(trainings, confs, today))
+    with open(os.path.join(psypick_dir, "events.ics"), "w", encoding="utf-8",
+              newline="") as f:
+        f.write(ev.events_ics(trainings, confs, built))
+    write(os.path.join(psypick_dir, "links", "index.html"), ev.links_page(entries))
+    sm.append((PP + "events/", today.isoformat()))
+    sm.append((PP + "links/", today.isoformat()))
+
     kept = None
     if write_sitemap and site_root:
         path = os.path.join(site_root, "sitemap.xml")
         text, kept = sitemap_xml(path, sm)
         write(path, text)
-    print("static: case pages %d | figure pages %d | feed %d | sitemap %s"
+    print("static: case pages %d | figure pages %d | feed %d | events %d+%d"
+          " | sitemap %s"
           % (len(entries), len(people), min(FEED_N, len(entries)),
+             len(trainings), len(confs),
              ("kept %d + %d" % (kept, len(sm))) if kept is not None
              else "skipped（只在 CI 或 --sitemap 時改寫）"))
     return {"cases": len(entries), "figures": len(people), "sitemap": sm}

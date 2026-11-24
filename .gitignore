@@ -16,3 +16,7 @@ psypick/feed.xml
 psypick/data/index-lite.json
 psypick/data/family-lite.json
 psypick/data/version.json
+
+psypick/events/
+psypick/events.ics
+psypick/links/

@@ -236,7 +236,8 @@ def main():
     import static_pages
     static_pages.generate(
         d, index, figures, site_root=os.path.dirname(psypick_dir),
-        write_sitemap=args.sitemap or os.environ.get("GITHUB_ACTIONS") == "true")
+        write_sitemap=args.sitemap or os.environ.get("GITHUB_ACTIONS") == "true",
+        conferences=conferences, today=today)
 
 
 if __name__ == "__main__":

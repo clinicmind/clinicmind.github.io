@@ -127,7 +127,9 @@ class TestStaticPages(unittest.TestCase):
     def test_pages_have_content_and_no_broken_links(self):
         cases = {c["slug"]: c for c in self.index["cases"]}
         broken = []
-        for path in self.pages("p") + self.pages("fig"):
+        extra = [os.path.join(self.root, "psypick", d, "index.html")
+                 for d in ("events", "links")]
+        for path in self.pages("p") + self.pages("fig") + extra:
             with open(path, encoding="utf-8") as f:
                 html = f.read()
             p = Page()
@@ -135,6 +137,15 @@ class TestStaticPages(unittest.TestCase):
             name = os.path.basename(path)
             self.assertEqual(p.lang, "zh-Hant", name)
             self.assertTrue(p.h1.strip(), name)
+            self.assertIn("../about.html", p.links, name)
+            if path in extra:
+                for link in p.links:
+                    t = resolve(path, link, self.root)
+                    if t and not os.path.exists(t):
+                        broken.append("%s → %s" % (path, link))
+                self.assertTrue(p.canonical.endswith(
+                    "/" + os.path.basename(os.path.dirname(path)) + "/"), path)
+                continue
             self.assertTrue(p.canonical and p.canonical.endswith(name), name)
             self.assertEqual(len(p.ld), 1, name)
             ld = json.loads(p.ld[0])
@@ -161,7 +172,7 @@ class TestStaticPages(unittest.TestCase):
         root = ET.parse(os.path.join(self.root, "sitemap.xml")).getroot()
         locs = [u.findtext(SM + "loc").strip() for u in root]
         self.assertEqual(locs[:len(self.base_locs)], self.base_locs)
-        n = len(self.index["cases"]) + len(self.figures["people"])
+        n = len(self.index["cases"]) + len(self.figures["people"]) + 2
         self.assertEqual(len(locs), len(self.base_locs) + n)
         self.assertEqual(len(set(locs)), len(locs))
         for loc in locs[len(self.base_locs):]:
@@ -181,6 +192,62 @@ class TestStaticPages(unittest.TestCase):
             loc = it.findtext("link")
             self.assertTrue(os.path.exists(resolve("/", loc, self.root)), loc)
 
+
+    def test_events_ics(self):
+        import events_links as ev
+        from datetime import date
+        path = os.path.join(self.root, "psypick", "events.ics")
+        with open(path, "rb") as f:
+            raw = f.read()
+        self.assertTrue(raw.endswith(b"\r\n"))
+        self.assertNotIn(b"\n", raw.replace(b"\r\n", b""))   # 只用 CRLF
+        lines = raw.split(b"\r\n")[:-1]
+        for ln in lines:
+            self.assertLessEqual(len(ln), 75, ln[:40])          # RFC 5545 3.1
+            ln.decode("utf-8")                                   # 冇切爛字
+        # 展開續行
+        un = []
+        for ln in (x.decode("utf-8") for x in lines):
+            if ln.startswith(" "):
+                un[-1] += ln[1:]
+            else:
+                un.append(ln)
+        self.assertEqual(un[0], "BEGIN:VCALENDAR")
+        self.assertEqual(un[-1], "END:VCALENDAR")
+        for k in ("VERSION:2.0", "PRODID:"):
+            self.assertTrue(any(x.startswith(k) for x in un), k)
+        today = date.today()
+        n_tr = len(ev.upcoming_trainings(self.index["cases"], today))
+        with open(os.path.join(self.root, "psypick", "data",
+                               "conferences.json"), encoding="utf-8") as f:
+            n_cf = len(ev.upcoming_conferences(json.load(f), today))
+        self.assertEqual(un.count("BEGIN:VEVENT"), n_tr + n_cf)
+        self.assertEqual(un.count("END:VEVENT"), n_tr + n_cf)
+        uids, block = [], []
+        for x in un:
+            if x == "BEGIN:VEVENT":
+                block = []
+            elif x == "END:VEVENT":
+                keys = [y.split(":")[0].split(";")[0] for y in block]
+                for req in ("UID", "DTSTAMP", "DTSTART", "DTEND", "SUMMARY"):
+                    self.assertIn(req, keys)
+                st = [y for y in block if y.startswith("DTSTART")][0][-8:]
+                en = [y for y in block if y.startswith("DTEND")][0][-8:]
+                self.assertLess(st, en)
+                uids.append([y for y in block if y.startswith("UID:")][0])
+            else:
+                block.append(x)
+        self.assertEqual(len(uids), len(set(uids)))
+
+    def test_ics_fold_and_escape(self):
+        import events_links as ev
+        folded = ev.ics_fold("SUMMARY:" + "心理" * 60)
+        for ln in folded.split("\r\n"):
+            self.assertLessEqual(len(ln.encode("utf-8")), 75)
+        self.assertEqual(ev.ics_text("a,b;c\\d\ne"), "a\\,b\\;c\\\\d\\ne")
+
+
+sys.path.insert(0, HERE)
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
