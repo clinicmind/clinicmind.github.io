@@ -175,6 +175,8 @@ Muse 做日常維護。以下情況建議交 Claude 做，或請 Claude 覆核�
 4. 新增一個資料類別或新頁面。
 5. 任何涉及私隱、法律或 Gu 專業守則的內容判斷。
 
+Claude 嘅 PR 喺測試、`build.py`、`validate.py` 全過之後，可以自行 merge，唔使等 Gu；涉及 `.github/workflows/` 或 `psypick/data/` 內容嘅改動除外，仍要交 Gu。（Gu 2026-11-24 授權）
+
 ## 11. 紅線
 
 - 不碰 `.github/workflows/`：自動化連接器沒有這個權限；要改就把完整檔案內容交 Gu，由 Gu 在 GitHub 網頁版貼上。
