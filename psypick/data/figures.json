@@ -1002,6 +1002,44 @@
    "focus_zh": "講解「內心獨白」如何影響情緒與表現",
    "list_note": "",
    "verified_by_muse": true
+  },
+  {
+   "slug": "alexandr-wang",
+   "group": "ai",
+   "subgroup": "AI 實驗室領袖",
+   "name_en": "Alexandr Wang",
+   "name_zh": "亞歷山大·王",
+   "role_zh": "Meta 首席 AI 官、Meta Superintelligence Labs 負責人",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/alexandr_wang",
+     "note": "",
+     "verified": true
+    }
+   ],
+   "focus_zh": "談超級智能、AI 安全與控制，發布 Meta AI 動態",
+   "list_note": "",
+   "verified_by_muse": true
+  },
+  {
+   "slug": "yann-lecun",
+   "group": "ai",
+   "subgroup": "大廠高管與 landmark 研究者",
+   "name_en": "Yann LeCun",
+   "name_zh": "楊立昆",
+   "role_zh": "AMI Labs（巴黎）聯合創始人兼執行董事長",
+   "accounts": [
+    {
+     "platform": "X",
+     "url": "https://x.com/ylecun",
+     "note": "",
+     "verified": false
+    }
+   ],
+   "focus_zh": "主張開源權重模型，評論 AI 治理與產業動態",
+   "list_note": "",
+   "verified_by_muse": false
   }
  ],
  "updates": [
@@ -2684,7 +2722,261 @@
    "checked": "2026-11-20",
    "tier": "B",
    "verify_needed": false
+  },
+  {
+   "person": "sam-altman",
+   "url": "https://timesofindia.indiatimes.com/education/news/openai-calls-for-industry-wide-ai-safety-limits-why-sam-altman-wants-rival-ai-labs-to-agree/articleshow/136092493.cms",
+   "platform": "web",
+   "page_date": "2026-11-22",
+   "kind": "貼文",
+   "summary_zh": "OpenAI 首席科學家 Pachocki 於 11 月 22 日發表文章《Perplexity and Intelligence》，提議各前沿實驗室以困惑度等指標訂立共同開發上限，直至監測能力追上。Altman 公開支持此提議，呼籲業界達成共識。",
+   "quote_en": "the most important thing OpenAI has published in a while",
+   "topics": [
+    "AI 安全",
+    "開發上限",
+    "困惑度"
+   ],
+   "evidence_quote": "Sam Altman also backed the proposal",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "Altman 的 X 原文未直接打開，僅經 TOI 11 月 23 日報道引述 Shattered.io 11 月 22 日報道；OpenAI 博客原文已由 Muse 打開核實（作者為 Pachocki，非 Altman）。"
+  },
+  {
+   "person": "alexandr-wang",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-alexandr-wang-human-control-superintelligent-ai-difficult-10974815/",
+   "platform": "web",
+   "page_date": "2026-11-22",
+   "kind": "貼文",
+   "summary_zh": "Wang 於 11 月 22 日在 X 發表長文〈Superintelligence is Arriving〉，以 Claude 協助證明黎曼猜想為觸發點，指超級智能將至，人類未來一年如何行動至關重要。他警告，若放任 AI 無限制自我改進，人類將難以維持控制，反對把社會「交棒」給 AI。",
+   "quote_en": "We should not be okay with a “handover” of society to AI.",
+   "topics": [
+    "超級智能",
+    "AI 控制",
+    "黎曼猜想"
+   ],
+   "evidence_quote": "We should not be okay with a “handover”",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未直接打開，僅經 Indian Express 11 月 23 日報道核實標題、日期與引文。"
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+   "platform": "web",
+   "page_date": "2026-11-23",
+   "kind": "貼文",
+   "summary_zh": "Nvidia 於 11 月 23 日宣布恢復黃仁勳 CEO 職務後，Musk 在 X 發文表示「錯誤已被糾正」，並轉發員工歡迎黃仁勳回歸的影片，稱認識的 Nvidia 員工都希望他回來。",
+   "quote_en": "The mistake has been corrected.",
+   "topics": [
+    "Nvidia",
+    "黃仁勳",
+    "CEO 復職"
+   ],
+   "evidence_quote": "The mistake has been corrected.",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未直接打開，僅經 TechCrunch 11 月 23 日報道核實引文與日期。"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://ceointerviews.ai/interview/3390655/",
+   "platform": "web",
+   "page_date": "2026-11-21",
+   "kind": "訪談",
+   "summary_zh": "Srinivas 在 TomorrowX 峰會接受訪問，表示 Perplexity 年收入已突破 10 億美元，IPO 心理時間表仍是 2028 年，但業務進展快或會提前。他強調 Perplexity 的優勢在準確度與多模型編排，毛利率約 56%，並宣布成立前沿研究實驗室，專注後訓練與智能體評估。",
+   "quote_en": "2028 is our mental model. Business is progressing faster because we just crossed a billion.",
+   "topics": [
+    "Perplexity",
+    "10 億美元收入",
+    "IPO"
+   ],
+   "evidence_quote": "2028 is our mental model.",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "訪談全文頁面已打開核實內容，但頁面未顯示日期，日期 2026-11-21 取自 CEOInterviews 列表，待上架前再核。"
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://cryptobriefing.com/perplexity-computer-chromium-browser-extension/",
+   "platform": "web",
+   "page_date": "2026-11-21",
+   "kind": "產品發布",
+   "summary_zh": "Srinivas 宣布，用戶現可直接在 Chrome 上把任務委派給 Perplexity Computer，讓智能體在瀏覽器內代辦工作。",
+   "quote_en": "",
+   "topics": [
+    "Perplexity Computer",
+    "Chrome",
+    "AI 智能體"
+   ],
+   "evidence_quote": "No new browser download is required.",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原文未直接打開；日期 2026-11-21 取自 AGI Hunt／GenAI PM 彙整；Crypto Briefing 文確認公告來自 Srinivas 的 X 帖子，跟進帖為 11 月 20 日。"
+  },
+  {
+   "person": "jensen-huang",
+   "url": "https://www.businesstoday.in/technology/news/story/i-am-honoured-to-return-to-nvidia-jensen-huang-makes-a-comeback-chipmakers-shares-surge-over-30-569176-2026-11-23",
+   "platform": "web",
+   "page_date": "2026-11-23",
+   "kind": "職務異動",
+   "summary_zh": "NVIDIA 董事會一致通過，即時恢復黃仁勳的總裁、行政總裁及董事職務。黃仁勳在聲明中表示，很榮幸能回歸領導 NVIDIA。董事會的獨立調查仍會繼續。",
+   "quote_en": "I am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution,",
+   "topics": [
+    "NVIDIA",
+    "CEO 復職"
+   ],
+   "evidence_quote": "I am honored to return to NVIDIA",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "satya-nadella",
+   "url": "https://blumify.io/people/satya-nadella/topics/diffusion",
+   "platform": "web",
+   "page_date": "2026-11-23",
+   "kind": "訪談",
+   "summary_zh": "Nadella 接受 Walden Catalyst 的 Young Sohn 訪問時表示，AI 會在整個經濟中廣泛擴散，令全球南方比工業時代更快、更平等地受惠。",
+   "quote_en": "this is about the broad diffusion throughout the economy in fact faster better on on more equal terms than the previous industrial era",
+   "topics": [
+    "AI 擴散",
+    "全球南方"
+   ],
+   "evidence_quote": "broad diffusion throughout the economy",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "未直接打開 YouTube 原片，日期、引文與內容經 Blumify 逐字稿頁核實（Walden Catalyst 訪問，Young Sohn 主持）。"
+  },
+  {
+   "person": "mustafa-suleyman",
+   "url": "https://aifrontierpost.com/articles/microsoft-mai-2-shared-limits-score/",
+   "platform": "web",
+   "page_date": "2026-11-23",
+   "kind": "貼文",
+   "summary_zh": "Suleyman 在 X 轉發支持 OpenAI 首席科學家 Pachocki 以 log-perplexity 作行業共同安全限速指標的提議，並公開 Microsoft 自家基礎模型 MAI-2 Base 在 OpenAI 評測集上的 log-perplexity 為 0.819，與 GPT-5.6 Sol 相若；同帖圖表亦標示上一代 MAI-1 Base 為 0.878。他指出由於兩者用同一 tokenizer，數字可直接比較，但取得 OpenAI 評測集屬特殊安排。",
+   "quote_en": "With OpenAI's permission, we report MAI-2 Base on their evaluation set. Its log-perplexity is 0.819, putting it in the same ballpark as the GPT-5.6 Sol base model.",
+   "topics": [
+    "MAI-2",
+    "AI 安全"
+   ],
+   "evidence_quote": "We fully support OpenAI's transparency",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未直接打開（Jina 限流 429）；URL 為引述原文的報道頁，非 X 原帖連結。日期與原文經 AI Frontier Post、Gigazine、Pebblous、CellCog 等多家來源互相印證；0.819 與 0.878 為 Microsoft 自行公布數字，未經獨立審核。"
+  },
+  {
+   "person": "yann-lecun",
+   "url": "https://www.moneycontrol.com/technology/yann-lecun-criticises-anthropic-s-dario-amodei-stance-on-open-weight-ai-models-says-restricting-ai-access-keeps-power-with-a-few-article-14087213.html",
+   "platform": "web",
+   "page_date": "2026-11-23",
+   "kind": "貼文",
+   "summary_zh": "LeCun 在 X 發文批評 Anthropic 行政總裁 Amodei 對開源權重模型的取態，指對方想把先進 AI 留在少數人手中，形容這種心態有如中世紀。他認為限制取用權力會令權力集中。",
+   "quote_en": "",
+   "topics": [
+    "開源權重模型",
+    "AI 管治"
+   ],
+   "evidence_quote": "comparing it to a medieval mindset",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": true,
+   "verify_reason": "X 原帖未直接打開，經 Moneycontrol 報道核實日期與內容；文中關於 Amodei 2020 年離開 OpenAI 的說法未經獨立證實。"
+  },
+  {
+   "person": "sebastian-raschka",
+   "url": "https://sebastianraschka.com/blog/2026/pretraining-is-still-not-plateauing.html",
+   "platform": "web",
+   "page_date": "2026-11-22",
+   "kind": "文章",
+   "summary_zh": "Raschka 引用 OpenAI 公布的基礎模型 log-perplexity 數據指出，預訓練並未見頂，2025 年加速尤其明顯。他認為預訓練仍是後續進展的基礎，大型實驗室會繼續投資。",
+   "quote_en": "As I kept saying last year, pre-training is not plateauing, but it's boring.",
+   "topics": [
+    "預訓練",
+    "LLM"
+   ],
+   "evidence_quote": "pre-training is not plateauing",
+   "checked": "2026-11-24",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "sebastian-raschka",
+   "url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
+   "platform": "web",
+   "page_date": "2026-11-21",
+   "kind": "文章",
+   "summary_zh": "Raschka 以 2021 至 2026 年的時間線說明，美中開源權重模型互相借鑑架構意念，例如 LLaMA 用 RoFormer 的旋轉位置嵌入，DeepSeek 用 Google 的分組查詢注意力。他認為競爭令雙方以至專有模型都變得更好。",
+   "quote_en": "I seriously think US open-weight models wouldn't be this good without Chinese open-weight models and vice versa.",
+   "topics": [
+    "開源權重模型",
+    "美中 AI"
+   ],
+   "evidence_quote": "Competition is a good thing.",
+   "checked": "2026-11-24",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "bessel-van-der-kolk",
+   "url": "https://events.humanitix.com/mind-medicine-australia-free-webinar-remembering-how-psychedelics-can-help-to-integrate-disparate-experiences-change-old-habits-and-promote-flexibility-and-self-compassion",
+   "platform": "web",
+   "page_date": "2026-11-22",
+   "kind": "演講",
+   "summary_zh": "van der Kolk 於 11 月 22 日主持 Mind Medicine Australia 免費網上講座，講述迷幻藥輔助治療如何幫助整合零散經驗、改變舊習慣，並提升彈性與自我慈悲，全長 75 分鐘，附問答環節，設重播。",
+   "quote_en": "How psychedelics can increase self-compassion",
+   "topics": [
+    "創傷治療",
+    "迷幻藥輔助治療",
+    "自我慈悲"
+   ],
+   "evidence_quote": "Remembering: How Psychedelics Can Help",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "laurie-santos",
+   "url": "https://www.pushkin.fm/podcasts/the-happiness-lab-with-dr-laurie-santos/what-surviving-a-shark-attack-taught-ali-truwit-about-resilience",
+   "platform": "web",
+   "page_date": "2026-11-23",
+   "kind": "訪談",
+   "summary_zh": "Santos 與前耶魯泳手、殘奧銀牌得主 Ali Truwit 對談，講述她在鯊魚襲擊失去小腿後重建人生的歷程，探討復原力、徹底接納與感恩等心理工具。",
+   "quote_en": "Together, they explore the science of resilience and the psychological tools we can use to find strength in life's most difficult moments.",
+   "topics": [
+    "復原力",
+    "創傷後成長",
+    "幸福感"
+   ],
+   "evidence_quote": "the science of resilience",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "andrew-huberman",
+   "url": "https://www.hubermanlab.com/episode/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle",
+   "platform": "web",
+   "page_date": "2026-11-23",
+   "kind": "訪談",
+   "summary_zh": "Huberman 訪問靈性導師 Eckhart Tolle，示範如何以當下覺察與感官知覺安靜強迫性思考，並在追求外在目標與靈性成長之間取得平衡。",
+   "quote_en": "We discuss, and Eckhart demonstrates, how you can access greater inner peace, authenticity, creativity, and connection in your everyday life.",
+   "topics": [
+    "當下覺察",
+    "意識",
+    "正念"
+   ],
+   "evidence_quote": "access greater inner peace",
+   "checked": "2026-11-24",
+   "tier": "B",
+   "verify_needed": false
   }
  ],
- "updated": "2026-11-20"
+ "updated": "2026-11-24"
 }
