@@ -45,7 +45,7 @@
   "supervision_questions": [
     "一對夫婦互相指責、其中一方沉默退縮時，你會如何向他們指出這個循環，而不令任何一方覺得自己被針對？"
   ],
-  "training": {
+  "training": {"signup_url":"https://relationallife.com/couples-experiential-webinar-november-2026/",
     "provider": "Relational Life Institute",
     "price": "免費",
     "price_tier": "免費",

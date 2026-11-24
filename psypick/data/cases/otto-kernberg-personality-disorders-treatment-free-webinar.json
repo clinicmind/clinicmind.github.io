@@ -45,7 +45,7 @@
   "supervision_questions": [
     "面對一位以分裂與投射性認同為主導防衛的個案，你會如何在初次評估中分辨邊緣與自戀人格組織？"
   ],
-  "training": {
+  "training": {"signup_url":"https://postitulo.ichtp.cl/webinar-otto-kernberg/",
     "provider": "Instituto Chileno de Trastornos de la Personalidad（ICHTP）",
     "price": "免費",
     "price_tier": "免費",

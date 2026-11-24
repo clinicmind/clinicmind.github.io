@@ -57,7 +57,7 @@
   "tier": "live",
   "title_en": "Free webinar: Using expressive therapies to support nervous system regulation in trauma recovery (16 December 2026, Monica Bhatara)",
   "title_zh": "免費網上研討會：用表達性治療調節創傷復元中的神經系統（12 月 16 日，Monica Bhatara）",
-  "training": {
+  "training": {"signup_url":"https://mindbodytraininginstitute.com/free-online-training/",
     "ce_credits": "原頁未註明",
     "deadline": "",
     "event_date": "2026-12-16 13:00（美國太平洋時間，約香港時間 12 月 17 日 05:00）",

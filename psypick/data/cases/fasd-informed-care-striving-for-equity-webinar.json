@@ -57,7 +57,7 @@
   "tier": "live",
   "title_en": "Free webinar: FASD-Informed Care — Striving for Equity (15 December 2026, Christie Petrenko)",
   "title_zh": "免費網上研討會：胎兒酒精譜系障礙知情照顧，邁向公平（12 月 15 日，Christie Petrenko）",
-  "training": {
+  "training": {"signup_url":"https://floridacentertraining.org/training/introductory-webinar-fasd-informed-care-striving-for-equity-2/",
     "ce_credits": "1 個免費 CEU（心理學家、社工、婚姻及家庭治療師、精神健康輔導員）",
     "deadline": "",
     "event_date": "2026-12-15",

@@ -60,7 +60,7 @@
  ],
  "title_en": "Free webinar: Advancing Student Mental Health at Community Colleges: Research, Practice, and Pathways Forward (CCMH, 10 December)",
  "title_zh": "免費網上研討會：社區學院學生心理健康——研究、實務與前行路徑（12 月 11 日香港時間）",
- "training": {
+ "training": {"signup_url":"https://psu.zoom.us/webinar/register/WN_7zWsDOLtTcy--8rNJxYm5g",
   "provider": "Center for Collegiate Mental Health (CCMH)",
   "format": "線上直播（Zoom）",
   "price": "免費",

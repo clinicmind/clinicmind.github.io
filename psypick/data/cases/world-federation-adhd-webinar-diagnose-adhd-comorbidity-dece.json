@@ -36,7 +36,7 @@
     "同事話 ADHD 診斷只靠問卷就夠，你會點用呢場講座的評估框架去回應？"
   ],
   "original_prompt": "",
-  "training": {
+  "training": {"signup_url":"https://forms.cloud.microsoft/pages/responsepage.aspx?id=uk3eeD2Il0WBYSNOv67XGC0xGgXes_VEpae_isqbAutUM0M2NFY1VTBCSFJXVzhNN1hXM0RZVFFNUy4u&route=shorturl",
     "provider": "World Federation of ADHD（世界 ADHD 聯合會）",
     "price": "免費",
     "price_tier": "免費",

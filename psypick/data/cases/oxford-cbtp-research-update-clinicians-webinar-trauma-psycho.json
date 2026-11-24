@@ -36,7 +36,7 @@
     "同事話創傷經歷唔應該喺思覺失調治療入面提，你會點用呢場講座的題目去回應？"
   ],
   "original_prompt": "",
-  "training": {
+  "training": {"signup_url":"https://events.teams.microsoft.com/event/c9417e5f-3c36-4479-93df-19a14101e982@759ac89b-2aa4-4973-b048-e6903b46a8b6",
     "provider": "Oxford Cognitive Therapy Centre（牛津認知治療中心）",
     "price": "免費",
     "price_tier": "免費",

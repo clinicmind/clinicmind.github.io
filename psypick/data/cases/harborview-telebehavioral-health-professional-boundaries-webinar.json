@@ -58,7 +58,7 @@
   "tier": "live",
   "title_en": "Free webinar: From Text to Touch — Managing Professional Boundaries in Modern Healthcare (18 December 2026, Jennifer Piel)",
   "title_zh": "免費網上研討會：從文字到觸碰——現代醫療中的專業界線（12 月 18 日，Jennifer Piel）",
-  "training": {
+  "training": {"signup_url":"https://bhinstitute.uw.edu/training-workforce-policy/training/telebehavioral-health/telebehavioral-health-series-webinar-registration/",
     "ce_credits": "原頁未註明",
     "deadline": "",
     "event_date": "2026-12-18",

@@ -34,7 +34,7 @@
     "有學校問你神經反饋係咪值得引入，你會點樣用實證等級去同佢哋解釋講者宣稱同已確立證據嘅分別？"
   ],
   "original_prompt": "",
-  "training": {
+  "training": {"signup_url":"https://isnr.member365.org/public/event/details/b8f7aa7d7e6746db82d1915b04beff2c8996fff1/1",
     "provider": "ISNR（International Society for Neuroregulation & Research）",
     "price": "免費",
     "price_tier": "免費",

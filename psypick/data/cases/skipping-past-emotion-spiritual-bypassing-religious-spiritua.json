@@ -36,7 +36,7 @@
     "案主用靈性語言迴避痛苦情緒，你會點樣分辨靈性修習係資源定係迴避？"
   ],
   "original_prompt": "",
-  "training": {
+  "training": {"signup_url":"https://docs.google.com/forms/d/e/1FAIpQLSeeDwFB0aX02umts_HF3YO96YPkgiOknjOVFPw0swtC1zsHmg/viewform?usp=dialog",
     "provider": "Phoenix Center for Experiential Trauma Therapy",
     "price": "免費",
     "price_tier": "免費",

@@ -36,7 +36,7 @@
     "督導問「個青少年完全唔合作，係咪無動力」，你會點用呢場講座的四種保護去重新表述？"
   ],
   "original_prompt": "",
-  "training": {
+  "training": {"signup_url":"https://www.theclinicalpsychologyresourcecentre.com/free-adolescent-webinar",
     "provider": "The Clinical Psychology Resource Centre（臨床心理學資源中心）",
     "price": "免費",
     "price_tier": "免費",
