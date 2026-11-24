@@ -8,3 +8,11 @@ __pycache__/
 # 機密與相依套件（本站不需要，預防誤傳）
 .env
 node_modules/
+
+# PsyPick 建置產物（CI 部署時由 tools/psypick/build.py 產生，不入 repo）
+psypick/p/
+psypick/fig/
+psypick/feed.xml
+psypick/data/index-lite.json
+psypick/data/family-lite.json
+psypick/data/version.json
