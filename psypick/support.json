@@ -1,6 +1,6 @@
 {
   "_說明": "把 url 改成你的 Gumroad 產品連結（要 https:// 開頭，例如 https://xxxx.gumroad.com/l/coffee），存檔後推送即可。url 留空就不會顯示按鈕。",
-  "url": "",
+  "url": "https://clinicmind.gumroad.com/l/inlaru",
   "label_zh": "請我喝杯咖啡",
   "label_en": "Buy me a coffee",
   "note_zh": "知心選內容免費開放。贊助純屬自願，不影響內容的選擇。",
