@@ -19,7 +19,7 @@
 
 | 內容 | 位置 | 備註 |
 |---|---|---|
-| 專業條目（研究、培訓等） | `psypick/data/cases/<slug>.json` | 一則一檔 |
+| 專業條目（研究、培訓等） | `psypick/data/cases/<slug>.json` | 一則一檔；只可由 `tools/psypick/inbox_to_cases.py` 寫入（第 3 節） |
 | 索引（自動產生） | `psypick/data/index.json`、`index-lite.json`、`family-lite.json`、`version.json` | 由 `tools/psypick/build.py` 產生，**不要手改** |
 | 親子內容 | `psypick/data/family.json` | 整檔維護：改前必讀最新版全檔，只改目標條目 |
 | 人物動態 | `psypick/data/figures.json` | 整檔維護，同上 |
@@ -31,9 +31,55 @@
 ## 3. 日常上架流程
 
 1. **讀最新版**：先開真站 `psypick/data/version.json`，記下提交 SHA 與六個數字（`index` 專業條目、`family` 親子、`deal` 優惠、`figures_people` 人物、`figures_updates` 動態、`conferences` 會議）。要改的檔逐個讀最新版，不用手邊的舊副本（鐵則 2）。
-2. **先去重**：寫檔之前，用腳本在最新版 `index.json` 搜尋 slug 與來源網址（不要把整個 JSON 讀入對話）。同 slug、或同主辦＋同活動日期＋同主題，視為重複，不重複上架。注意：用相同 slug 寫入會覆蓋舊檔，不會新增一則。
-3. **寫條目**：新條目一則一檔，寫入 `psypick/data/cases/`，欄位照第 4 節。親子、人物、會議是整檔維護：以最新版全檔為底，只加或改目標條目，不要用舊版整檔覆蓋。
-4. **本地預檢**（建議）：在 repo 本地副本跑 `python3 tools/psypick/build.py --data-dir psypick/data` 產生索引，再跑 `python3 tools/validate.py --data-dir psypick/data`，全過（結束碼 0）才推送。
+2. **寫 inbox v2**：專業條目（case）一律先寫成 inbox v2 JSON（格式見下面），不要直接寫 case 檔。
+3. **跑轉換器（唯一上架方法）**：`python3 tools/psypick/inbox_to_cases.py <inbox.json>`。
+   - 轉換器會自動：檢查必填欄位、對照舊分類名、把 `evidence_hint` 換成數字、去重（slug 或來源網址已存在就略過，**不會覆蓋**舊檔）、寫入 `psypick/data/cases/<slug>.json`、跑 `build.py` 與 `validate.py`。
+   - 任何一則有錯 → 整批不寫；`validate.py` 不過 → 自動刪走新檔並還原索引，結束碼 1。可先加 `--dry-run` 只做檢查。
+   - **最後一行未見 `VALIDATION PASSED` 不准推送。**
+   - **禁止**另寫臨時轉換腳本、禁止人手寫或改 case 檔。要改舊條目內容（例如下架 `include: false`）屬例外，改完一樣要跑 `build.py` 與 `validate.py` 全過。
+   - 親子、人物、會議是整檔維護（不經轉換器）：以最新版全檔為底，只加或改目標條目，不要用舊版整檔覆蓋；改完跑 `python3 tools/psypick/build.py --data-dir psypick/data` 及 `python3 tools/validate.py --data-dir psypick/data`，全過才推送。
+4. **去重以外的重複**：轉換器只認 slug 與來源網址。同主辦＋同活動日期＋同主題但網址不同的，寫 inbox 前自己用腳本在 `index.json` 搜一次（不要把整個 JSON 讀入對話）。
+
+### inbox v2 格式
+
+```json
+{
+  "version": 2,
+  "run_at": "2026-11-25T01:00:00+00:00",
+  "items": [
+    {
+      "type": "case",
+      "slug": "（可省略；省略就由 title_en 自動產生，最長 60 字元）",
+      "title_zh": "…", "title_en": "…",
+      "summary_zh": "…", "summary_en": "…",
+      "category": "研究與證據｜臨床實務｜AI 與倫理｜進修培訓",
+      "kind": "research｜practice｜product｜incident｜training",
+      "evidence_hint": "個人經驗或評論｜產品宣稱｜前導或質性研究｜對照試驗｜系統性回顧或統合分析",
+      "evidence_note": "一句說明",
+      "evidence_quote": "原文逐字摘句，不多於 40 字",
+      "page_date": "YYYY-MM-DD（原文頁面日期；找不到留空，並要 verify_needed=true）",
+      "brief_zh": ["重點 1", "重點 2"],
+      "caution": "注意事項",
+      "supervision_questions": ["督導問題"],
+      "tags": ["…"], "population": ["…"],
+      "verify_needed": false, "verify_reason": "",
+      "ethics_flags": [], "model_names": [],
+      "source": {"url": "官方頁面", "title": "原文標題", "author_name": "機構／期刊", "content": "一句專業註解（可省略）"},
+      "training": {"provider": "…", "format": "線上直播", "price": "…", "price_tier": "免費",
+                   "ce_credits": "…", "language": "英文", "event_date": "YYYY-MM-DD 或 隨選",
+                   "deadline": "", "audience_level": "…", "topic": "…", "signup_url": "報名頁"}
+    }
+  ]
+}
+```
+
+- **必填**：`title_zh`、`title_en`、`summary_zh`、`summary_en`、`category`、`kind`、`evidence_hint`（或 0–4 的 `evidence_level`）、`evidence_note`、`evidence_quote`（≤40 字）、`brief_zh`、`caution`、`supervision_questions`、`tags`、`population`、`verify_needed`、`source.url`／`source.title`／`source.author_name`。
+- **培訓**（`kind=training` 或分類「進修培訓」）另要 `training.provider`、`format`、`event_date`（ISO 或「隨選」）、`signup_url`。
+- 冇 `page_date` 就必須 `verify_needed: true` 並寫 `verify_reason`。`page_date` 會寫入 `posts[0].posted_at`。
+- 舊分類名自動對照：臨床與治療應用、評估與篩檢 → 臨床實務；進修與培訓 → 進修培訓；倫理與風險、人機互動心理 → AI 與倫理。其他未知分類報錯。
+- `type` 不是 `case` 的項目（親子、人物等）轉換器會列出並略過。
+- 同一份 inbox 同時是巡查存檔（推去舊 repo `muse-inbox` 分支），可另加 `key_points_zh` 等存檔欄位，轉換器不讀。
+
 5. **一項一提交**：提交訊息寫明任務或來源（例：「巡查上架 2026-11-21 週五組」）。任一集合一次減少超過 5 項，提交訊息要加 `[remove]`，並先通知 Gu。
 6. **推送後核實**：推送到 `main` 後等部署完成（通常 1–3 分鐘），讀真站 `version.json`：SHA 等於剛才的提交、六個數字正確；再開新條目頁面抽查一次（網址格式：`https://clinicmind.github.io/psypick/#/case/<slug>`）。兩樣都對才算完成（鐵則 4）。
 7. **留紀錄與匯報**：巡查紀錄 inbox JSON 推去舊 repo 的 `muse-inbox` 分支；照第 7 節格式向 Gu 匯報。
@@ -42,7 +88,7 @@
 
 | 欄位 | 說明 |
 |---|---|
-| `slug` | 與檔名一致。生成法：英文標題轉小寫連字號，刪標點與 `for`、`and`、`the` 等停用詞，可加主辦方前綴（例：`pesi-`）；寫之前先在 `index.json` 搜一遍同名（見第 3 節去重步） |
+| `slug` | 與檔名一致。由轉換器產生：inbox 有寫 `slug` 就用，冇就由 `title_en` 轉小寫連字號、刪標點，最長 60 字元（與現有條目一致，保留 `for`、`and` 等字）。可在 inbox 自訂主辦方前綴（例：`pesi-`）。已存在的 slug 轉換器會略過，不會覆蓋 |
 | `title_zh` / `title_en`、`summary_zh` / `summary_en` | 標題與摘要，中英各一 |
 | `category` | 站內既有分類名稱（研究與證據／臨床實務／AI 與倫理／進修培訓） |
 | `kind` | `research`、`training` 等既有值 |
@@ -75,7 +121,7 @@ inbox 紀錄（巡查存檔）另有 `evidence_quote`、`page_date`、`source`�
 ## 6. 檢查閘
 
 - 部署流程 `.github/workflows/pages.yml`：推送到 `main` 後先跑 `build.py` 產生索引，再跑 `validate.py`，全過才部署。檢查失敗就不部署，真網站不變。
-- `validate.py` 規則：(a) 所有 JSON 可解析；(b) index 的 slug 與 case 檔一一對應；(c) 沒有 `kind=deal`、沒有 `deal_platforms`、family 主題沒有「優惠」；(d) 在架培訓形式不含「實體／現場／面授」，除非同時含「線上」；(e) 每則有來源網址；(f) `generated_at` 不早於上一個提交；(g) 任一集合數量比上一個提交減少超過 5 項而提交訊息沒有 `[remove]` 就失敗；(h) 2026-11-20 之後的新條目必須有 `evidence_quote` 且不多於 40 字；(i) 培訓 `event_date` 必須是 ISO 日期、空白或「隨選」（警告）；(j) 迷幻藥／氯胺酮相關條目不可以有 `poster` 欄位。
+- `validate.py` 規則：(a) 所有 JSON 可解析；(b) index 的 slug 與 case 檔一一對應；(c) 沒有 `kind=deal`、沒有 `deal_platforms`、family 主題沒有「優惠」；(d) 在架培訓形式不含「實體／現場／面授」，除非同時含「線上」；(e) 每則有來源網址；(f) `generated_at` 不早於上一個提交；(g) 任一集合數量比上一個提交減少超過 5 項而提交訊息沒有 `[remove]` 就失敗；(h) 2026-11-20 之後的新條目必須有 `evidence_quote` 且不多於 40 字；(i) 培訓 `event_date` 必須是 ISO 日期、空白或「隨選」（警告）；(j) 迷幻藥／氯胺酮相關條目不可以有 `poster` 欄位；(k) `first_seen_at` 在 2026-11-24 之後的新條目，`category` 必須是「研究與證據／臨床實務／AI 與倫理／進修培訓」之一（舊條目只警告）。
 - 注意：(f)、(g) 需要 `--prev-dir` 與 `--message` 參數，CI 現時未有帶，所以 (g) 在 CI 未啟用。防整檔覆蓋靠鐵則 2 與第 3 節流程自律；大量刪除仍要照 `[remove]` 標記，先通知 Gu。
 - `tools/linkcheck.py` 每週自動跑一次：失效連結只報告，不自動下架。
 - 把檢查交給腳本做，不要把幾百 KB 的 JSON 讀入對話。這是最大的 token 節省。

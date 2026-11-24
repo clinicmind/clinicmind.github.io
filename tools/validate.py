@@ -16,6 +16,8 @@
       且不多於 40 字
   (i) 培訓 event_date 必須是 ISO 日期（YYYY-MM-DD）、空白或「隨選」（警告）
   (j) 迷幻藥／氯胺酮相關條目不可以有 poster 欄位
+  (k) 新條目（first_seen_at 在 2026-11-24 之後）的 category 必須是
+      「研究與證據／臨床實務／AI 與倫理／進修培訓」之一；舊條目只警告
 
 用法：
   python3 tools/validate.py [--data-dir site/data] [--prev-dir DIR]
@@ -36,6 +38,8 @@ ERRORS = []
 WARNINGS = []
 
 NEW_ENTRY_CUTOFF = "2026-11-20"
+CATEGORY_CUTOFF = "2026-11-24"
+VALID_CATEGORIES = ("研究與證據", "臨床實務", "AI 與倫理", "進修培訓")
 ISO_DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 IN_PERSON_WORDS = ("實體", "現場", "面授")
 POSTER_BANNED_ZH = ("迷幻", "氯胺酮", "裸蓋菇", "搖頭丸", "大麻")
@@ -164,6 +168,15 @@ def main():
             elif len(quote) > 40:
                 warn("h", "舊條目 slug=%s evidence_quote 超過 40 字（%d 字）"
                      % (slug, len(quote)))
+        # (k) 分類
+        cat = c.get("category")
+        if cat not in VALID_CATEGORIES:
+            if first_seen and first_seen > CATEGORY_CUTOFF:
+                err("k", "新條目 slug=%s category=「%s」不是站內分類（%s）"
+                    % (slug, cat, "／".join(VALID_CATEGORIES)))
+            else:
+                warn("k", "舊條目 slug=%s category=「%s」不是站內分類"
+                     % (slug, cat))
         # (j) 海報紅線
         if c.get("poster"):
             text = " ".join([c.get("title_zh") or "", c.get("title_en") or ""]
