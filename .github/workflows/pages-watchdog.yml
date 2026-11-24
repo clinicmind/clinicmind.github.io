@@ -1,0 +1,45 @@
+name: Pages Watchdog
+
+# 每 3 小時檢查一次：真站 version.json 的 sha 是否等於 main 最新提交。
+# 不一致、又沒有部署在跑 → 開一次「全新」的 Deploy Pages（不是 Re-run：
+# 11-24 Gumroad 那次 Re-run 用回同一個執行，同樣找不到 artifact）。
+# 本檔須由 Gu 在 GitHub 網頁版新增為 .github/workflows/pages-watchdog.yml。
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  issues: write
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          want=$(gh api "repos/$REPO/commits/main" --jq .sha)
+          live=$(curl -fsS "https://clinicmind.github.io/psypick/data/version.json?t=$(date +%s)" | jq -r '.sha // empty' || true)
+          echo "main=$want live=$live"
+          if [ "$live" = "$want" ]; then echo "一致，無需處理"; exit 0; fi
+
+          running=$(gh run list -R "$REPO" --workflow "Deploy Pages" --limit 5 --json status \
+                    --jq '[.[] | select(.status != "completed")] | length')
+          if [ "$running" != "0" ]; then echo "部署進行中，下一輪再看"; exit 0; fi
+
+          gh workflow run "Deploy Pages" -R "$REPO" --ref main
+          echo "已觸發全新部署"
+
+          open=$(gh issue list -R "$REPO" --state open --search "看門狗 in:title" --json number --jq length)
+          if [ "$open" = "0" ]; then
+            gh issue create -R "$REPO" --assignee clinicmind \
+              --title "⚠️ 看門狗：真站版本落後 main，已自動重新部署" \
+              --body "main=$want
+          live=$live
+          已自動觸發全新的 Deploy Pages。如果下一輪仍然不一致，請人手檢查。確認恢復後關閉本 issue。"
+          fi
