@@ -61,12 +61,13 @@
   "training": {
     "ce_credits": "原頁未註明",
     "deadline": "",
-    "event_date": "2026-12-18 11:00–12:00（美國太平洋時間，約香港時間 12 月 19 日 03:00–04:00）",
+    "event_date": "2026-12-18",
     "format": "線上直播（Zoom）",
     "language": "英語",
     "price": "免費",
     "price_tier": "免費",
-    "provider": "University of Washington Harborview Behavioral Health Institute（華盛頓大學 Harborview 行為健康研究所）"
+    "provider": "University of Washington Harborview Behavioral Health Institute（華盛頓大學 Harborview 行為健康研究所）",
+    "event_time_note": "11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00）"
   },
   "verify_needed": false,
   "verify_reason": ""
