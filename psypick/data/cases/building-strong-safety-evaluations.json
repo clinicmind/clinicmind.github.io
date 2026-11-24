@@ -1,0 +1,71 @@
+{
+  "title_zh": "Anthropic 發布 AI 安全評估方法指南：自殺與自傷對話不應只計拒絕率",
+  "title_en": "Building strong safety evaluations",
+  "summary_zh": "Anthropic 提出十項安全評估建議，主張評估應量度模型實際行為而非只計拒絕次數。文中以自殺與自傷評估為例：同一模型在 API 得 60% 恰當回應率，在 claude.ai 卻達 94%，顯示設定差異可造成 34 個百分點落差。指南要求多輪模擬、預先註冊指標及按風險領域訂立評分準則。",
+  "summary_en": "Anthropic shares ten recommendations for building strong safety evaluations, arguing evals should measure what a model actually does rather than counting refusals. For suicide and self-harm conversations, refusal is often the wrong construct; the same model scored 60% appropriate responses via API versus 94% on claude.ai, a 34-point gap from deployment settings. The guide calls for multi-turn simulations, pre-registered metrics and risk-specific rubrics.",
+  "category": "AI 與倫理",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "公司方法指南（非同儕評審）",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "自殺與自傷對話只計拒絕率會誤導安全判斷；評估必須量度模型是否以同理回應並指向真人支援。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "指南由模型開發商撰寫，評估數據來自其自家模型；不同部署環境的落差提醒我們：實驗室分數不等於實際表現。",
+  "verify_needed": true,
+  "verify_reason": "原頁未顯示發布日；日期據多個二手來源指明 2026-11-13，待再核實",
+  "brief_zh": [
+    "評估應量度模型實際行為，而非只計拒絕次數",
+    "自殺與自傷對話：拒絕往往是錯誤的量度構念",
+    "同一模型在 API 與 claude.ai 的恰當回應率相差 34 個百分點"
+  ],
+  "brief_en": [],
+  "model_names": [
+    "Claude Fable 5.1",
+    "Claude Opus 5",
+    "Claude Opus 5.5"
+  ],
+  "tags": [
+    "Anthropic",
+    "Claude",
+    "安全評估",
+    "自殺預防",
+    "危機對話"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "當個案說 AI 聊天機械人「比人更明白我」，你如何評估當中的依賴與風險？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "author_handle": "",
+      "author_name": "Anthropic",
+      "title": "Building strong safety evaluations",
+      "content": "Anthropic 提出十項安全評估建議，主張評估應量度模型實際行為而非只計拒絕次數，並以自殺與自傷評估為核心例子。",
+      "posted_at": "2026-11-13T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "building-strong-safety-evaluations",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "refusal is often the wrong construct"
+}

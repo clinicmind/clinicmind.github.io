@@ -1,0 +1,60 @@
+{
+  "title_zh": "印度線上 DBT 技能小組對新興成人的可行性與初步療效",
+  "title_en": "Virtually delivered DBT skills groups among emerging adults in India",
+  "summary_zh": "84 名印度新興成人隨機分派至八週視像 DBT 技能訓練小組或等候名單，由學生治療師帶領。保留率 71.8%，學員評價可接受；DBT 組在評估後抑鬱症狀較對照組低，但情緒失調、應對功能與焦慮無顯著差異。研究顯示 DBT 在中低收入國家以遙距方式推行具初步可行性。",
+  "summary_en": "In an RCT with 84 emerging adults in India, eight weeks of virtually delivered DBT skills groups led by student therapists retained 71.8% of participants and was rated acceptable. The DBT group had lower depression symptoms than the waitlist at post-assessment, but no significant differences in emotion dysregulation, coping or anxiety, suggesting remote DBT is initially feasible in a lower-middle-income setting.",
+  "category": "臨床實務",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "同儕評審期刊隨機對照試驗（n=84）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "由學生治療師帶領、樣本為印度新興成人；情緒失調與焦慮結果無顯著差異，推論至本地時需謹慎。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "84 名印度新興成人，八週視像 DBT 技能小組",
+    "保留率 71.8%，學員評價可接受",
+    "抑鬱症狀較對照組低，其他結果無顯著差異"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "DBT",
+    "線上治療",
+    "印度",
+    "新興成人",
+    "抑鬱"
+  ],
+  "population": [
+    "大專生",
+    "成人"
+  ],
+  "supervision_questions": [
+    "遙距 DBT 小組由受訓中的治療師帶領時，督導需要特別留意甚麼？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ijop.70281",
+      "author_handle": "",
+      "author_name": "International Journal of Psychology",
+      "title": "Virtually Delivered DBT Skills Groups Among Emerging Adults in India",
+      "content": "研究檢視八週視像 DBT 技能訓練小組對印度新興成人的可行性與初步療效。",
+      "posted_at": "2026-11-09T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "virtually-delivered-dbt-skills-groups-among-emerging-adults",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "retention of 71.8% of participants"
+}

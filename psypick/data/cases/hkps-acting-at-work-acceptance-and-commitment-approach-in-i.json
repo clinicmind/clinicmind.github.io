@@ -1,0 +1,71 @@
+{
+  "title_zh": "香港心理學會：ACT 於職場——接納與承諾取向座談會",
+  "title_en": "HKPS ACTing at Work: acceptance and commitment approach in I-O practice",
+  "summary_zh": "香港心理學會工業與組織心理學組舉辦混合模式座談會，探討接納與承諾治療原則如何應用於職場，包括行政教練、員工輔助計劃及員工福祉。講者為註冊心理師，HKPS 會員可獲 1.5 學分。收費：DIOP 會員 HK$120，非會員 HK$240，經 Eventbrite 報名，需付款。",
+  "summary_en": "The Hong Kong Psychological Society's Division of Industrial-Organisational Psychology hosts a hybrid panel on applying acceptance and commitment principles at work, covering executive coaching, employee assistance programmes and staff wellbeing. Speakers are registered psychologists; HKPS members earn 1.5 CEUs. Fee: HK$120 for DIOP members, HK$240 for non-members, via Eventbrite.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "收費培訓（DIOP 會員 HK$120，非會員 HK$240），需經 Eventbrite 付款報名；學分只限 HKPS 會員。",
+  "verify_needed": true,
+  "verify_reason": "費用經 Eventbrite 報名頁核實（HK$120／HK$240）；HKPS 原頁無發布日期",
+  "brief_zh": [
+    "混合模式：HKPS 辦公室或 Zoom 參加，2026 年 11 月 26 日 19:00–20:30 HKT",
+    "講者為註冊心理師，探討 ACT 於行政教練、EAP 及員工福祉",
+    "HKPS 會員可獲 1.5 學分；收費 DIOP 會員 HK$120，非會員 HK$240"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "ACT",
+    "接納與承諾治療",
+    "職場",
+    "HKPS",
+    "心理靈活性"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "把 ACT 原則帶入職場教練時，心理靈活性與績效要求之間如何取捨？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "香港心理學會工業與組織心理學組（DIOP）",
+    "format": "混合（HKPS 辦公室／Zoom）",
+    "price": "DIOP 會員 HK$120，非會員 HK$240",
+    "price_tier": "低價",
+    "ce_credits": "1.5 CEU（HKPS 會員）",
+    "language": "",
+    "event_date": "2026-11-26",
+    "deadline": "",
+    "audience_level": "專業人士",
+    "topic": "ACT 於職場實務",
+    "signup_url": "https://www.eventbrite.hk/e/acting-at-work-tickets-2004378562236"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://hkps.org.hk/en/conferences_and_events/detail/72/",
+      "author_handle": "",
+      "author_name": "香港心理學會",
+      "title": "DIOP – ACTing at Work: Panel on the Acceptance and Commitment Approach in I-O Practice",
+      "content": "香港心理學會工業與組織心理學組舉辦混合模式座談會，探討接納與承諾治療原則如何應用於職場。",
+      "posted_at": "2026-11-24T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "hkps-acting-at-work-acceptance-and-commitment-approach-in-i",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "building psychological flexibility"
+}

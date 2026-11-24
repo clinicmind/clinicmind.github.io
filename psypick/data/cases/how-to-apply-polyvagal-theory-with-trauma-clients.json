@@ -1,0 +1,71 @@
+{
+  "title_zh": "如何在創傷個案中應用多重迷走神經理論：四個介入技巧",
+  "title_en": "How to apply polyvagal theory with trauma clients",
+  "summary_zh": "eCare Behavioral Institute 的免費 6 小時直播大師班，由 Courtney Rolfe, MA, LCPC 主講，教導如何辨識創傷個案的過度激發與關閉狀態，並以四個介入技巧處理安全感、共同調節與自我調節，納入創傷知情治療計劃。對象為持牌精神健康專業人員，中級程度。免費名額不含學分與錄影，6 個 CE 學分需付費升級。",
+  "summary_en": "eCare Behavioral Institute offers a free six-hour live masterclass with Courtney Rolfe, MA, LCPC, on applying polyvagal theory with trauma clients: recognising hyperarousal and shutdown states and using four interventions for safety, co-regulation and self-regulation within a trauma-informed treatment plan. For licensed mental health professionals, intermediate level. Free seats exclude CEs and recording; 6 CEs need a paid Premium Pass.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "免費名額不含學分與錄影，6 CE 需付費升級；多重迷走神經理論的部分生理主張仍在學界爭議中，宜作臨床框架使用。報名表需填專業及執照州份，不屬簡單姓名加電郵表格。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "免費 6 小時直播大師班，2026 年 12 月 3 日 10:00–17:30 ET",
+    "四個介入技巧處理過度激發與關閉狀態",
+    "免費名額不含學分與錄影，6 CE 需付費升級"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "多重迷走神經理論",
+    "創傷",
+    "過度激發",
+    "關閉狀態",
+    "調節"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "把多重迷走神經理論作臨床框架使用時，你如何向個案解釋理論的爭議部分？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "eCare Behavioral Institute（講者 Courtney Rolfe, MA, LCPC）",
+    "format": "線上直播",
+    "price": "Tickets: 0 USD",
+    "price_tier": "免費",
+    "ce_credits": "6（需付費 Premium Pass 升級，免費名額不含）",
+    "language": "英文",
+    "event_date": "2026-12-03",
+    "deadline": "",
+    "audience_level": "中級",
+    "topic": "多重迷走神經理論臨床應用",
+    "signup_url": "https://webinar.ecarebehavioralinstitute.com/december-3rd-2026-webinar"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://webinar.ecarebehavioralinstitute.com/december-3rd-2026-webinar",
+      "author_handle": "",
+      "author_name": "eCare Behavioral Institute",
+      "title": "How To Apply Polyvagal Theory With Trauma Clients: 4 Interventions For Hyperarousal & Shutdown, Built Into A Trauma-Informed Treatment Plan",
+      "content": "eCare Behavioral Institute 的免費 6 小時直播大師班，由 Courtney Rolfe 主講，教導如何辨識創傷個案的過度激發與關閉狀態，並以四個介入技巧處理。",
+      "posted_at": "2026-11-24T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "how-to-apply-polyvagal-theory-with-trauma-clients",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "FREE 6-HOUR LIVE POLYVAGAL THEORY"
+}

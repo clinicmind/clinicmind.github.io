@@ -1,0 +1,70 @@
+{
+  "title_zh": "三階段創傷模式網上研討會（第一階段：建立安全感）",
+  "title_en": "Webinar: 3-phase trauma model — phase 1 building safety",
+  "summary_zh": "Beech Trauma Academy 的免費 1 小時網上研討會，講解三階段創傷模式的第一階段，重點是處理創傷前先建立身心安全感，並示範 anchor 等調節技巧。對象為學生及合資格輔導員、心理治療師、社工、心理學家等精神健康專業人員。",
+  "summary_en": "Beech Trauma Academy offers a free one-hour webinar on phase 1 of the three-phase trauma model: building physical and emotional safety before processing and integrating trauma, including anchoring and regulation skills. It is aimed at students and qualified counsellors, psychotherapists, social workers, psychologists and other trauma professionals.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程（第三方轉載頁）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "只找到第三方轉載頁，未能以官方頁面核對；Eventbrite 結帳時出現驗證碼，需自行完成報名。",
+  "verify_needed": true,
+  "verify_reason": "只找到第三方轉載頁，未能以官方頁面核對；Eventbrite 報名連結經瀏覽器核實，結帳時出現驗證碼",
+  "brief_zh": [
+    "免費 1 小時網上研討會，2026 年 11 月 25 日 10:00–11:00 EST",
+    "第一階段重點：處理創傷前先建立身心安全感",
+    "對象為學生及合資格精神健康專業人員"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "創傷治療",
+    "三階段模式",
+    "安全感",
+    "調節技巧"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "建立安全感的階段，你最常用的三個調節技巧是甚麼？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Beech Trauma Academy（講者 Maaike Beech）",
+    "format": "線上",
+    "price": "Free!",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "event_date": "2026-11-25",
+    "deadline": "",
+    "audience_level": "學生至合資格專業人員",
+    "topic": "創傷三階段模式第一階段",
+    "signup_url": "https://www.eventbrite.com/e/free-1-hour-webinar-3-phase-trauma-model-tickets-2004893826405"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://freeshows.today/webinars/12128",
+      "author_handle": "",
+      "author_name": "Beech Trauma Academy",
+      "title": "Webinar \"3-Phase Trauma Model\"",
+      "content": "Beech Trauma Academy 的免費 1 小時網上研討會，講解三階段創傷模式的第一階段，重點是處理創傷前先建立身心安全感。",
+      "posted_at": "2026-11-19T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "webinar-3-phase-trauma-model-phase-1-building-safety",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "building safety before you might process"
+}

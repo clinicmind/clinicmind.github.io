@@ -1,0 +1,68 @@
+{
+  "title_zh": "美國政府問責局專題：AI 聊天機械人與心理健康",
+  "title_en": "GAO spotlight: AI chatbots and mental health",
+  "summary_zh": "美國政府問責局指出，近五分之一 12 至 21 歲美國人曾用 AI 聊天機械人尋求心理健康建議。報告警告通用聊天機械人有諂媚偏誤，可強化妄想與自傷念頭，而 FDA 至今未授權任何 AI 聊天機械人作心理健康用途。專用治療機械人或可補充專業服務，但療效未經證實，不能取代合資格治療師。",
+  "summary_en": "A US Government Accountability Office spotlight reports nearly one in five Americans aged 12 to 21 used an AI chatbot for mental health advice in 2025. It warns general-purpose chatbots carry sycophancy bias that can reinforce delusions and self-harm thoughts, and notes the FDA has not authorised any AI chatbot for mental health care. Purpose-built chatbots may supplement professionals, but efficacy is unproven and they cannot replace qualified therapists.",
+  "category": "AI 與倫理",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "聯邦政策文件（GAO 專題報告）",
+  "ethics_flags": [
+    {
+      "flag": "危機處理",
+      "note": "通用聊天機械人的諂媚偏誤可強化妄想與自傷念頭；青少年求助時繞過成人與專業系統的風險值得主動詢問。",
+      "refs": [
+        "危機處理｜自殺與自傷風險"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "報告屬政策分析，非臨床實證；青少年使用率為自評調查數據。",
+  "verify_needed": true,
+  "verify_reason": "原頁只寫 As of November 2026，未印確切發布日；日期據 GAO 發布報道，待再核實",
+  "brief_zh": [
+    "近五分之一 12 至 21 歲美國人曾用 AI 聊天機械人尋求心理健康建議",
+    "FDA 至今未授權任何 AI 聊天機械人作心理健康用途",
+    "諂媚偏誤可強化妄想與自傷念頭"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "AI 聊天機械人",
+    "FDA",
+    "監管",
+    "諂媚偏誤",
+    "青少年"
+  ],
+  "population": [
+    "兒童青少年",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "初談時如何自然地問青少年有沒有用 AI 傾過心事？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.gao.gov/products/gao-27-109184",
+      "author_handle": "",
+      "author_name": "U.S. Government Accountability Office",
+      "title": "Science & Tech Spotlight: AI Chatbots and Mental Health",
+      "content": "美國政府問責局專題指出，近五分之一 12 至 21 歲美國人曾用 AI 聊天機械人尋求心理健康建議，並警告通用聊天機械人的風險。",
+      "posted_at": "2026-11-20T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "gao-spotlight-ai-chatbots-and-mental-health",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "has not authorized any AI chatbot"
+}

@@ -1,0 +1,61 @@
+{
+  "title_zh": "虛擬實境暴露治療焦慮與創傷相關障礙：臨床證據、行為感測與實施重點",
+  "title_en": "Virtual reality exposure therapy for anxiety and trauma-related disorders",
+  "summary_zh": "批判性敘事綜述整合系統綜述、代表性隨機對照試驗與測量框架。結論：虛擬實境暴露治療對特定恐懼症及社交焦慮優於非活性對照，但與活性治療無顯著差異不等於等效；創傷後壓力症證據需特別謹慎。文章提出臨床主導的精準虛擬實境暴露治療循環作為待驗證的概念框架。",
+  "summary_en": "A critical narrative review of virtual reality exposure therapy for anxiety and trauma-related disorders found benefit over inactive controls for selected specific phobias and social anxiety, but non-significant differences from active treatments do not establish equivalence, and PTSD evidence needs particular caution. It proposes a clinician-led precision VRET cycle as a framework to be tested.",
+  "category": "臨床實務",
+  "kind": "research",
+  "evidence_level": 0,
+  "evidence_note": "批判性敘事綜述",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "與活性治療無顯著差異不等於等效；創傷後壓力症的 VR 暴露證據需特別謹慎。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "對特定恐懼症及社交焦慮優於非活性對照",
+    "與活性治療無顯著差異不等於等效",
+    "創傷後壓力症證據需特別謹慎"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "虛擬實境",
+    "暴露治療",
+    "焦慮",
+    "創傷後壓力症",
+    "綜述",
+    "實施科學"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "向個案介紹 VR 暴露治療時，如何說明「優於非活性對照」與「等同現有治療」的分別？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1936673/pdf",
+      "author_handle": "",
+      "author_name": "Frontiers in Digital Health",
+      "title": "Virtual reality exposure therapy for anxiety and trauma-related disorders: clinical evidence, behavioral sensing, and implementation priorities",
+      "content": "批判性敘事綜述整合系統綜述、代表性隨機對照試驗與測量框架，評估虛擬實境暴露治療的臨床證據與實施重點。",
+      "posted_at": "2026-11-10T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "virtual-reality-exposure-therapy-for-anxiety-and-trauma-rela",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "benefit over inactive controls"
+}

@@ -1,0 +1,69 @@
+{
+  "title_zh": "文本心理計量學：以自然語言處理評估文本中的心理構念",
+  "title_en": "Text psychometrics: assessing psychological constructs in text with NLP",
+  "summary_zh": "文章提出「文本心理計量學」框架，要求以量表同等嚴格的效度、信度與標準化檢驗大型語言模型等文本評估工具。兩項實證研究以危機輔導對話及 Reddit 帖文示範：模型雖能預測人類標籤，卻常漏掉核心症狀表達；自殺風險方面，提及致命手段、報警、抑鬱焦慮情緒及求助者發言多於輔導員，最能預測需緊急介入。",
+  "summary_en": "This paper proposes 'text psychometrics': a framework requiring text-based assessment tools, including large language models, to be tested for validity, reliability and standardisation as rigorously as rating-scale questionnaires. Two demonstrations using crisis counselling dialogues and Reddit posts showed models could predict human labels yet often missed core symptom expressions; mentions of lethal means, calling the police, depression/anxiety and help-seeker speech best predicted need for urgent intervention.",
+  "category": "臨床實務",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "框架論文＋兩項實證示範研究",
+  "ethics_flags": [
+    {
+      "flag": "篩檢與標籤",
+      "note": "以文本預測自殺風險時，假陽性與漏報並存；高風險標記的跟進流程與責任歸屬必須先定好。",
+      "refs": [
+        "評估與篩檢｜假陽性與標籤效應"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "框架屬方法學提案，示範研究樣本來自危機輔導對話與 Reddit，未必適用於本地臨床文本。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "提出文本心理計量學框架：效度、信度、標準化缺一不可",
+    "模型能預測人類標籤，但常漏掉核心症狀表達",
+    "自殺風險預測：致命手段、報警、情緒表達最具提示作用"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "心理計量",
+    "自然語言處理",
+    "大型語言模型",
+    "自殺風險評估",
+    "效度",
+    "危機輔導"
+  ],
+  "population": [
+    "臨床工作者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "若機構引入文本篩檢工具，假陽性的跟進流程與家長溝通準備好了嗎？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://journals.plos.org/digitalhealth/article/asset?id=10.1371/journal.pdig.0001757.PDF",
+      "author_handle": "",
+      "author_name": "PLOS Digital Health",
+      "title": "Text Psychometrics: Assessing psychological constructs in text using natural language processing",
+      "content": "文章提出「文本心理計量學」框架，要求以量表同等嚴格的效度、信度與標準化檢驗文本評估工具，並以兩項實證研究示範。",
+      "posted_at": "2026-11-12T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "text-psychometrics-assessing-psychological-constructs-in-tex",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "not evaluated for the types of validity"
+}

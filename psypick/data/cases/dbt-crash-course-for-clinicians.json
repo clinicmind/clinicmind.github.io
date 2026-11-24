@@ -1,0 +1,71 @@
+{
+  "title_zh": "DBT 速成課程：15 個改善情緒調節與處理痛苦的核心技巧",
+  "title_en": "DBT crash course for clinicians",
+  "summary_zh": "PESI 的免費全日直播培訓，由認證 DBT 治療師 Lexi Mulee, LMHC, C-DBT 主講，教授 15 個 DBT 核心技巧，包括正念、痛苦耐受、情緒調節與人際效能，附免費工作紙。報名即享 3 天免費重播。學分需付費升級（$99.99 起，最高 6.25 小時直播 CE 或 9.5 小時自修 CE）。",
+  "summary_en": "PESI's free full-day live online training, led by certified DBT therapist Lexi Mulee, LMHC, C-DBT, teaches 15 core DBT techniques covering mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness, with free handouts. Registration includes three days of free replay; CE credits need a paid upgrade (from $99.99, up to 6.25 live CE hours or 9.5 self-study hours).",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "免費直播屬入門／推廣性質，不等於完整 DBT 訓練；報名需開免費 PESI 帳戶，學分需付費升級。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "免費全日直播培訓，2026 年 12 月 8 日 09:00–17:00 ET",
+    "15 個 DBT 核心技巧，附免費工作紙",
+    "報名即享 3 天免費重播；學分需付費升級"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "DBT",
+    "辯證行為治療",
+    "情緒調節",
+    "痛苦耐受",
+    "人際效能"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "速成課程的 15 個技巧中，哪一個最適合先在你的個案工作中試用？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "PESI（講者 Alexa (Lexi) Mulee, LMHC, C-DBT）",
+    "format": "線上直播",
+    "price": "FREE Live Online Training",
+    "price_tier": "免費",
+    "ce_credits": "免費名額不含；升級可獲最多 6.25 小時直播 CE 或 9.5 小時自修 CE（$99.99 升級，活動開始後 $129.99）",
+    "language": "英文",
+    "event_date": "2026-12-08",
+    "deadline": "",
+    "audience_level": "初級至中級",
+    "topic": "DBT 核心技巧",
+    "signup_url": "https://catalog.psychotherapynetworker.org/sales/pbh_s_059434_dbtcrashcourse_december26_organic-2735900/"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://catalog.psychotherapynetworker.org/sales/pbh_s_059434_dbtcrashcourse_december26_organic-2735900/",
+      "author_handle": "",
+      "author_name": "PESI",
+      "title": "DBT Crash Course for Clinicians: 15 Core Techniques to Improve Emotional Regulation, Manage Distress and More",
+      "content": "PESI 的免費全日直播培訓，由認證 DBT 治療師 Lexi Mulee 主講，教授 15 個 DBT 核心技巧，包括正念、痛苦耐受、情緒調節與人際效能。",
+      "posted_at": "2026-11-24T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "dbt-crash-course-for-clinicians",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "live training is free to attend"
+}
