@@ -1,0 +1,74 @@
+{
+  "title_zh": "免費網上講座：治療師的情緒羅盤——誰來照顧照顧者（12 月 5 日）",
+  "title_en": "The Therapist's Emotional Compass: Who Cares for the Ones Who Care? (Divit Mindspace, 5 December)",
+  "summary_zh": "Divit Mindspace 免費網上講座，由 RCI 註冊臨床心理學家 Ankita Bhatnagar 主講，對象為心理健康專業人員。內容圍繞治療師如何辨認自己的耗竭訊號，談同情疲勞、倦怠、替代性創傷與實用自我照顧策略。2026 年 12 月 5 日星期六 18:00–19:30（印度時間）Google Meet 舉行，須預先報名。",
+  "summary_en": "A free online webinar from Divit Mindspace, presented by RCI-licensed clinical psychologist Ankita Bhatnagar, for mental health professionals. It covers how therapists can recognise their own exhaustion signals, including compassion fatigue, burnout, vicarious trauma and practical self-care strategies. Held Saturday 5 December 2026, 18:00-19:30 (India time) on Google Meet; advance registration required.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "活動資料來自主辦方 Instagram 帖文（2026 年 11 月 23 日）及機構網站；免費、全程線上、須預先報名。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "活動時間的時區未在來源帖文明示，按主辦方所在地推算為印度時間，參加前請核對；只有 Instagram 帖文作官方來源，未見獨立活動頁；未註明有否學分或錄影重溫。",
+  "verify_needed": true,
+  "verify_reason": "活動時區未在來源頁面明示（按主辦方所在地推算為印度時間）；只得 Instagram 帖文作官方來源，未見獨立活動頁。",
+  "brief_zh": [
+    "講者：Ankita Bhatnagar，RCI 註冊臨床心理學家，Divit Mindspace 顧問",
+    "對象：心理健康專業人員；內容：辨認情緒耗竭、同情疲勞與倦怠、替代性創傷、孤立與觸發因素、實用自我照顧策略",
+    "日期：2026 年 12 月 5 日星期六 18:00–19:30（印度時間；約香港／澳門時間 20:30–22:00），Google Meet 全程線上",
+    "費用：免費；須預先報名（Google 表格）"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "同情疲勞",
+    "倦怠",
+    "治療師自我照顧",
+    "免費培訓",
+    "Divit Mindspace"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "你最近一次留意到自己的耗竭訊號是什麼時候？當時你做了什麼，還是繼續工作？",
+    "督導中談治療師的情緒耗竭，你覺得最難開口的是哪一部分？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Divit Mindspace",
+    "format": "線上直播",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英語",
+    "event_date": "2026-12-05",
+    "deadline": "",
+    "audience_level": "心理健康專業人員",
+    "topic": "同情疲勞與治療師自我照顧",
+    "signup_url": "https://forms.gle/zQaux162A25UqTRH6"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.instagram.com/p/DgF4gRxpBRv/",
+      "author_handle": "",
+      "author_name": "Divit Mindspace",
+      "title": "The Therapist's Emotional Compass: Who cares for the ones who care?",
+      "content": "主辦方 Instagram 帖文：免費網上講座，2026 年 12 月 5 日，Ankita Bhatnagar 主講，報名用 Google 表格。",
+      "posted_at": "2026-11-23T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T13:31:18+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "divit-mindspace-therapists-emotional-compass-webinar",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Who cares for the ones who care?"
+}

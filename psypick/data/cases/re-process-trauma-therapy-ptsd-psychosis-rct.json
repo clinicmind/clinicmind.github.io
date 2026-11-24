@@ -1,0 +1,63 @@
+{
+  "title_zh": "三種創傷治療皆減輕思覺失調患者的創傷後壓力症（RE.PROCESS 試驗）",
+  "title_en": "Prolonged Exposure, EMDR, and Cognitive Restructuring versus Waiting-List for PTSD and Psychosis (RE.PROCESS): A Multicenter RCT",
+  "summary_zh": "多中心四組隨機對照試驗：162 名同時患思覺失調及創傷後壓力症的患者，接受延長暴露、EMDR 或認知重構治療，六個月後 PTSD 症狀減幅全部明顯大於等候名單組，效應值達大水平；三種治療均未改善精神病症狀。",
+  "summary_en": "A multicentre, four-arm randomized controlled trial: 162 patients with both a schizophrenia spectrum disorder and PTSD received prolonged exposure, EMDR or cognitive restructuring; all three reduced PTSD symptoms significantly more than a waiting list at six months, with large effects, but none improved psychosis symptoms.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "多中心四組評估者盲法隨機對照試驗，162 人，追蹤至隨機分組後六個月；刊於 Psychological Medicine。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "樣本仍偏小，需更大樣本複製；對照組為等候名單，未與主動治療比較；三種治療均未改善精神病症狀；長期效果未明。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "162 名患思覺失調譜系障礙及 PTSD 的患者，按 1:1:1:1 隨機分入延長暴露、EMDR、認知重構或等候名單組，治療最多 16 節、每週兩次",
+    "六個月時 CAPS-5 組間差異：延長暴露 -9.76（d=-0.90）、EMDR -11.74（d=-1.04）、認知重構 -12.72（d=-1.00），三組皆顯著優於等候名單",
+    "次要 PTSD 相關結果亦見治療效果，但精神病症狀沒有改善",
+    "作者指結果支持擴大此類患者接受創傷治療的機會，但需更大樣本複製"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "創傷後壓力症",
+    "思覺失調",
+    "延長暴露",
+    "EMDR",
+    "認知重構",
+    "隨機對照試驗"
+  ],
+  "population": [
+    "成人",
+    "思覺失調及創傷後壓力症患者"
+  ],
+  "supervision_questions": [
+    "病人同時有思覺失調與 PTSD，你以往會先處理哪一邊？這項結果會改變你的先後次序嗎？",
+    "三種治療效果相近時，你會按什麼準則與病人一起選擇：病人偏好、治療師專長，還是服務輪候時間？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000852/",
+      "author_handle": "",
+      "author_name": "Psychological Medicine",
+      "title": "Prolonged exposure, eye movement desensitization and reprocessing therapy, and cognitive restructuring versus waiting-list for individuals with PTSD and psychosis (RE.PROCESS): A multicenter, four-arm, assessor-masked, superiority randomized controlled trial",
+      "content": "期刊摘要：三種創傷治療對思覺失調兼 PTSD 患者的隨機對照試驗，含樣本、設計與主要結果。",
+      "posted_at": "2026-11-09T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T13:31:18+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "re-process-trauma-therapy-ptsd-psychosis-rct",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "effective in reducing PTSD symptoms"
+}

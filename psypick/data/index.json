@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:39:58+00:00",
+  "generated_at": "2026-11-24T13:31:19+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -112,6 +112,1964 @@
   },
   "cases": [
     {
+      "slug": "divit-mindspace-therapists-emotional-compass-webinar",
+      "title_zh": "免費網上講座：治療師的情緒羅盤——誰來照顧照顧者（12 月 5 日）",
+      "title_en": "The Therapist's Emotional Compass: Who Cares for the Ones Who Care? (Divit Mindspace, 5 December)",
+      "summary_zh": "Divit Mindspace 免費網上講座，由 RCI 註冊臨床心理學家 Ankita Bhatnagar 主講，對象為心理健康專業人員。內容圍繞治療師如何辨認自己的耗竭訊號，談同情疲勞、倦怠、替代性創傷與實用自我照顧策略。2026 年 12 月 5 日星期六 18:00–19:30（印度時間）Google Meet 舉行，須預先報名。",
+      "summary_en": "A free online webinar from Divit Mindspace, presented by RCI-licensed clinical psychologist Ankita Bhatnagar, for mental health professionals. It covers how therapists can recognise their own exhaustion signals, including compassion fatigue, burnout, vicarious trauma and practical self-care strategies. Held Saturday 5 December 2026, 18:00-19:30 (India time) on Google Meet; advance registration required.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "同情疲勞",
+        "倦怠",
+        "治療師自我照顧",
+        "免費培訓",
+        "Divit Mindspace"
+      ],
+      "first_seen_at": "2026-11-24T13:31:18+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.instagram.com",
+      "date": "2026-11-23T00:00:00+00:00",
+      "training": {
+        "provider": "Divit Mindspace",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英語",
+        "event_date": "2026-12-05",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "re-process-trauma-therapy-ptsd-psychosis-rct",
+      "title_zh": "三種創傷治療皆減輕思覺失調患者的創傷後壓力症（RE.PROCESS 試驗）",
+      "title_en": "Prolonged Exposure, EMDR, and Cognitive Restructuring versus Waiting-List for PTSD and Psychosis (RE.PROCESS): A Multicenter RCT",
+      "summary_zh": "多中心四組隨機對照試驗：162 名同時患思覺失調及創傷後壓力症的患者，接受延長暴露、EMDR 或認知重構治療，六個月後 PTSD 症狀減幅全部明顯大於等候名單組，效應值達大水平；三種治療均未改善精神病症狀。",
+      "summary_en": "A multicentre, four-arm randomized controlled trial: 162 patients with both a schizophrenia spectrum disorder and PTSD received prolonged exposure, EMDR or cognitive restructuring; all three reduced PTSD symptoms significantly more than a waiting list at six months, with large effects, but none improved psychosis symptoms.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "創傷後壓力症",
+        "思覺失調",
+        "延長暴露",
+        "EMDR",
+        "認知重構",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-24T13:31:18+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "思覺失調及創傷後壓力症患者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "pubmed.ncbi.nlm.nih.gov",
+      "date": "2026-11-09T00:00:00+00:00"
+    },
+    {
+      "slug": "vr-cognitive-enhancement-schizophrenia-rct",
+      "title_zh": "體感虛擬實境訓練改善思覺失調患者的認知：隨機對照試驗",
+      "title_en": "Virtual Reality for Cognitive Enhancement in Schizophrenia: A Randomized Controlled Trial",
+      "summary_zh": "土耳其單中心評估者盲法隨機對照試驗：124 名思覺失調門診患者隨機分組，在常規職能治療之外加做體感虛擬實境訓練，六個認知範疇的改善全部優於只做常規治療的一組。",
+      "summary_en": "A single-centre, assessor-blinded randomized controlled trial in Türkiye: 124 outpatients with schizophrenia were randomized to conventional occupational therapy alone or with added motion-controlled virtual reality training; all six cognitive domains improved more in the VR group.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "思覺失調",
+        "認知復健",
+        "虛擬實境",
+        "職能治療",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-24T13:31:18+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "思覺失調患者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.mdpi.com",
+      "date": "2026-11-23T00:00:00+00:00"
+    },
+    {
+      "slug": "webinar-3-phase-trauma-model-phase-1-building-safety",
+      "title_zh": "三階段創傷模式網上研討會（第一階段：建立安全感）",
+      "title_en": "Webinar: 3-phase trauma model — phase 1 building safety",
+      "summary_zh": "Beech Trauma Academy 的免費 1 小時網上研討會，講解三階段創傷模式的第一階段，重點是處理創傷前先建立身心安全感，並示範 anchor 等調節技巧。對象為學生及合資格輔導員、心理治療師、社工、心理學家等精神健康專業人員。",
+      "summary_en": "Beech Trauma Academy offers a free one-hour webinar on phase 1 of the three-phase trauma model: building physical and emotional safety before processing and integrating trauma, including anchoring and regulation skills. It is aimed at students and qualified counsellors, psychotherapists, social workers, psychologists and other trauma professionals.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷治療",
+        "三階段模式",
+        "安全感",
+        "調節技巧"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "freeshows.today",
+      "date": "2026-11-19T00:00:00+00:00",
+      "training": {
+        "provider": "Beech Trauma Academy（講者 Maaike Beech）",
+        "format": "線上",
+        "price": "Free!",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "event_date": "2026-11-25",
+        "deadline": ""
+      },
+      "deadline_soon": true,
+      "poster": {
+        "src": "posters/webinar-3-phase-trauma-model-phase-1-building-safety.svg",
+        "alt": "三階段創傷模式免費研討會海報：水獺治療師攞筆記簿，貓個案坐喺梳化，講建立安全感",
+        "style": "playmobil",
+        "made": "2026-11-24"
+      }
+    },
+    {
+      "slug": "virtually-delivered-dbt-skills-groups-among-emerging-adults",
+      "title_zh": "印度線上 DBT 技能小組對新興成人的可行性與初步療效",
+      "title_en": "Virtually delivered DBT skills groups among emerging adults in India",
+      "summary_zh": "84 名印度新興成人隨機分派至八週視像 DBT 技能訓練小組或等候名單，由學生治療師帶領。保留率 71.8%，學員評價可接受；DBT 組在評估後抑鬱症狀較對照組低，但情緒失調、應對功能與焦慮無顯著差異。研究顯示 DBT 在中低收入國家以遙距方式推行具初步可行性。",
+      "summary_en": "In an RCT with 84 emerging adults in India, eight weeks of virtually delivered DBT skills groups led by student therapists retained 71.8% of participants and was rated acceptable. The DBT group had lower depression symptoms than the waitlist at post-assessment, but no significant differences in emotion dysregulation, coping or anxiety, suggesting remote DBT is initially feasible in a lower-middle-income setting.",
+      "category": "臨床實務",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "線上治療",
+        "印度",
+        "新興成人",
+        "抑鬱"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 3,
+      "population": [
+        "大專生",
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "onlinelibrary.wiley.com",
+      "date": "2026-11-09T00:00:00+00:00"
+    },
+    {
+      "slug": "virtual-reality-exposure-therapy-for-anxiety-and-trauma-rela",
+      "title_zh": "虛擬實境暴露治療焦慮與創傷相關障礙：臨床證據、行為感測與實施重點",
+      "title_en": "Virtual reality exposure therapy for anxiety and trauma-related disorders",
+      "summary_zh": "批判性敘事綜述整合系統綜述、代表性隨機對照試驗與測量框架。結論：虛擬實境暴露治療對特定恐懼症及社交焦慮優於非活性對照，但與活性治療無顯著差異不等於等效；創傷後壓力症證據需特別謹慎。文章提出臨床主導的精準虛擬實境暴露治療循環作為待驗證的概念框架。",
+      "summary_en": "A critical narrative review of virtual reality exposure therapy for anxiety and trauma-related disorders found benefit over inactive controls for selected specific phobias and social anxiety, but non-significant differences from active treatments do not establish equivalence, and PTSD evidence needs particular caution. It proposes a clinician-led precision VRET cycle as a framework to be tested.",
+      "category": "臨床實務",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "虛擬實境",
+        "暴露治療",
+        "焦慮",
+        "創傷後壓力症",
+        "綜述",
+        "實施科學"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.frontiersin.org",
+      "date": "2026-11-10T00:00:00+00:00"
+    },
+    {
+      "slug": "text-psychometrics-assessing-psychological-constructs-in-tex",
+      "title_zh": "文本心理計量學：以自然語言處理評估文本中的心理構念",
+      "title_en": "Text psychometrics: assessing psychological constructs in text with NLP",
+      "summary_zh": "文章提出「文本心理計量學」框架，要求以量表同等嚴格的效度、信度與標準化檢驗大型語言模型等文本評估工具。兩項實證研究以危機輔導對話及 Reddit 帖文示範：模型雖能預測人類標籤，卻常漏掉核心症狀表達；自殺風險方面，提及致命手段、報警、抑鬱焦慮情緒及求助者發言多於輔導員，最能預測需緊急介入。",
+      "summary_en": "This paper proposes 'text psychometrics': a framework requiring text-based assessment tools, including large language models, to be tested for validity, reliability and standardisation as rigorously as rating-scale questionnaires. Two demonstrations using crisis counselling dialogues and Reddit posts showed models could predict human labels yet often missed core symptom expressions; mentions of lethal means, calling the police, depression/anxiety and help-seeker speech best predicted need for urgent intervention.",
+      "category": "臨床實務",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "心理計量",
+        "自然語言處理",
+        "大型語言模型",
+        "自殺風險評估",
+        "效度",
+        "危機輔導"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "source_domain": "journals.plos.org",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "slug": "social-bonds-and-the-therapeutic-alliance-shape-treatment-go",
+      "title_zh": "社會連結與治療聯盟如何影響病人對待治療目標",
+      "title_en": "Social bonds and the therapeutic alliance shape treatment goals",
+      "summary_zh": "臨床心理學者 Loren Martin 指出，病人改變意願是治療成效最強預測因素，治療聯盟居第二。治療師自我效能、誠實、值得信賴與同理心是建立聯盟的關鍵；治療師表現猶豫會迅速侵蝕病人信心與信任。強健的社會連結與聯盟能令病人把困難目標視為有人同行的工作，而非獨自面對。",
+      "summary_en": "Clinical psychologist Loren Martin explains that a patient's willingness to change is the strongest predictor of therapy outcome, with the therapeutic alliance second. Therapist self-efficacy, honesty, trustworthiness and empathy build the alliance, while visible hesitation can quickly erode patient confidence and trust. Strong social bonds and alliance help patients approach difficult goals as shared work rather than facing them alone.",
+      "category": "臨床實務",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "治療聯盟",
+        "社會連結",
+        "治療師效能",
+        "依附"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.psychiatrictimes.com",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "slug": "secondary-analysis-of-priovi-treatment-effect-heterogeneity",
+      "title_zh": "數位療法 priovi 治療邊緣人格障礙的療效異質性二次分析",
+      "title_en": "Secondary analysis of priovi treatment effect heterogeneity in BPD",
+      "summary_zh": "這項預先註冊的二次分析檢視一項 528 人隨機對照試驗，發現 priovi 的效果存在異質性，基線症狀較重者獲益約為兩倍。作者強調調節因子屬假設生成性質，未經外部驗證前不應用於篩選病人。作者中有 priovi 開發商 GAIA 的僱員，利益衝突已聲明。",
+      "summary_en": "A pre-registered secondary analysis of a 528-person RCT found the digital therapeutic priovi had small average effects for borderline personality disorder, with about double the benefit in those with more severe baseline symptoms. The authors stress the moderators are hypothesis-generating and should not be used to select patients before external validation. Authors include employees of priovi developer GAIA; conflicts are declared.",
+      "category": "臨床實務",
+      "kind": "research",
+      "model_names": [
+        "priovi"
+      ],
+      "tags": [
+        "邊緣人格障礙",
+        "數位療法",
+        "基模治療",
+        "療效異質性",
+        "預印本"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.medrxiv.org",
+      "date": "2026-11-10T00:00:00+00:00"
+    },
+    {
+      "slug": "reduct-rct-online-mindfulness-training-for-distress-in-cance",
+      "title_zh": "自助網上正念減壓訓練對癌症患者困擾的成效（Reduct）：多中心隨機對照試驗",
+      "title_en": "Reduct RCT: online mindfulness training for distress in cancer patients",
+      "summary_zh": "德國 8 間大學醫院招募 561 名新確診或復發癌症患者，隨機分派至 16 週自助網上介入或優化常規治療。主要結果 HADS 總分組間差異不顯著，但焦慮症狀與自我效能有顯著改善。作者建議作階梯式照護中的輔助選項。",
+      "summary_en": "In the Reduct multicentre RCT (n=561), 16 weeks of self-guided web-based mindfulness and skills-based distress reduction training did not significantly reduce overall distress (HADS total) versus optimised treatment as usual in cancer patients, but anxiety symptoms and self-efficacy improved significantly. The authors suggest it as an adjunct within stepped care.",
+      "category": "臨床實務",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "正念",
+        "網上介入",
+        "癌症",
+        "困擾",
+        "隨機對照試驗",
+        "自我效能"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "pubmed.ncbi.nlm.nih.gov",
+      "date": "2026-11-13T00:00:00+00:00"
+    },
+    {
+      "slug": "ocd-in-the-therapy-room",
+      "title_zh": "治療室內的強迫症：從認識 ERP 到臨床決策",
+      "title_en": "OCD in the therapy room",
+      "summary_zh": "臨床心理學家 Dr Celin Gelgec 主講的 60 分鐘免費直播大師班，跟隨一個綜合強迫症個案，拆解評估、個案概念化與治療過程中的臨床決策。對象是已懂強迫症與 ERP 基礎、但在實務應用上未感熟練的心理師與精神健康臨床人員。現場直播，不設重播。",
+      "summary_en": "Clinical psychologist Dr Celin Gelgec leads a free 60-minute live masterclass following a complex OCD case through assessment, formulation and clinical decision-making. It is aimed at psychologists and mental health clinicians who know OCD and ERP basics but feel unpractised in applying them. Live only, no replay.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "強迫症",
+        "ERP",
+        "臨床決策",
+        "個案概念化"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "drcelingelgec.com.au",
+      "date": "2026-11-24T00:00:00+00:00",
+      "training": {
+        "provider": "Dr Celin Gelgec（澳洲臨床心理學家）",
+        "format": "線上直播",
+        "price": "Free",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "event_date": "2026-11-25",
+        "deadline": ""
+      },
+      "deadline_soon": true,
+      "poster": {
+        "src": "posters/ocd-in-the-therapy-room.svg",
+        "alt": "治療室內的強迫症免費大師班海報：貓同水獺一齊睇個案檔案，講 ERP 之後嘅臨床決策",
+        "style": "playmobil",
+        "made": "2026-11-24"
+      }
+    },
+    {
+      "slug": "milburn-review-recognises-vital-role-of-counselling-for-neet",
+      "title_zh": "Milburn 報告肯定輔導在支援 NEET 青年的關鍵角色",
+      "title_en": "Milburn review recognises vital role of counselling for NEET young people",
+      "summary_zh": "英國政府 Milburn《青年與工作》報告建議 NEET 青年可經擬設的青年機會服務快速獲得輔導與談話治療，摒棄「先診斷、再等候、後治療」模式。BACP 歡迎報告肯定輔導專業，並促請政府落實可持續的委託與撥款。",
+      "summary_en": "The UK government's Milburn review of youth and work recommends young people not in education, employment or training (NEET) should get faster access to counselling and talking therapies through a proposed Youth Opportunity Service, moving away from a 'diagnose, wait, then treat' model. BACP welcomed the recognition of counselling and urged sustainable commissioning and funding.",
+      "category": "臨床實務",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "BACP",
+        "NEET",
+        "青年",
+        "政策",
+        "輔導可及性"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.bacp.co.uk",
+      "date": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "slug": "large-language-models-for-mental-health",
+      "title_zh": "大型語言模型與心理健康",
+      "title_en": "Large language models for mental health",
+      "summary_zh": "教學式綜述以臨床人員易懂的方式解釋大型語言模型的原理、能力與限制，區分治療師面向與患者面向的應用。作者強調全自主 50 分鐘心理治療仍屬高風險研究目標，現階段不應在臨床部署；主張以人為本的賦能定位，而非取代人類。",
+      "summary_en": "A tutorial review explains large language models for mental health in clinician-friendly terms, distinguishing therapist-facing from patient-facing uses. It argues fully autonomous 50-minute psychotherapy remains a high-risk research goal that should not be deployed clinically yet, and positions LLMs as human-empowering rather than human-substituting technology.",
+      "category": "AI 與倫理",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "大型語言模型",
+        "心理健康",
+        "教學綜述",
+        "倫理",
+        "臨床應用"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.frontiersin.org",
+      "date": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "slug": "how-to-apply-polyvagal-theory-with-trauma-clients",
+      "title_zh": "如何在創傷個案中應用多重迷走神經理論：四個介入技巧",
+      "title_en": "How to apply polyvagal theory with trauma clients",
+      "summary_zh": "eCare Behavioral Institute 的免費 6 小時直播大師班，由 Courtney Rolfe, MA, LCPC 主講，教導如何辨識創傷個案的過度激發與關閉狀態，並以四個介入技巧處理安全感、共同調節與自我調節，納入創傷知情治療計劃。對象為持牌精神健康專業人員，中級程度。免費名額不含學分與錄影，6 個 CE 學分需付費升級。",
+      "summary_en": "eCare Behavioral Institute offers a free six-hour live masterclass with Courtney Rolfe, MA, LCPC, on applying polyvagal theory with trauma clients: recognising hyperarousal and shutdown states and using four interventions for safety, co-regulation and self-regulation within a trauma-informed treatment plan. For licensed mental health professionals, intermediate level. Free seats exclude CEs and recording; 6 CEs need a paid Premium Pass.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "多重迷走神經理論",
+        "創傷",
+        "過度激發",
+        "關閉狀態",
+        "調節"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "webinar.ecarebehavioralinstitute.com",
+      "date": "2026-11-24T00:00:00+00:00",
+      "training": {
+        "provider": "eCare Behavioral Institute（講者 Courtney Rolfe, MA, LCPC）",
+        "format": "線上直播",
+        "price": "Tickets: 0 USD",
+        "price_tier": "免費",
+        "ce_credits": "6（需付費 Premium Pass 升級，免費名額不含）",
+        "language": "英文",
+        "event_date": "2026-12-03",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "hkps-acting-at-work-acceptance-and-commitment-approach-in-i",
+      "title_zh": "香港心理學會：ACT 於職場——接納與承諾取向座談會",
+      "title_en": "HKPS ACTing at Work: acceptance and commitment approach in I-O practice",
+      "summary_zh": "香港心理學會工業與組織心理學組舉辦混合模式座談會，探討接納與承諾治療原則如何應用於職場，包括行政教練、員工輔助計劃及員工福祉。講者為註冊心理師，HKPS 會員可獲 1.5 學分。收費：DIOP 會員 HK$120，非會員 HK$240，經 Eventbrite 報名，需付款。",
+      "summary_en": "The Hong Kong Psychological Society's Division of Industrial-Organisational Psychology hosts a hybrid panel on applying acceptance and commitment principles at work, covering executive coaching, employee assistance programmes and staff wellbeing. Speakers are registered psychologists; HKPS members earn 1.5 CEUs. Fee: HK$120 for DIOP members, HK$240 for non-members, via Eventbrite.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "ACT",
+        "接納與承諾治療",
+        "職場",
+        "HKPS",
+        "心理靈活性"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "hkps.org.hk",
+      "date": "2026-11-24T00:00:00+00:00",
+      "training": {
+        "provider": "香港心理學會工業與組織心理學組（DIOP）",
+        "format": "混合（HKPS 辦公室／Zoom）",
+        "price": "DIOP 會員 HK$120，非會員 HK$240",
+        "price_tier": "低價",
+        "ce_credits": "1.5 CEU（HKPS 會員）",
+        "language": "",
+        "event_date": "2026-11-26",
+        "deadline": ""
+      },
+      "deadline_soon": true
+    },
+    {
+      "slug": "generative-ai-in-psychotherapy-multicountry-qualitative-anal",
+      "title_zh": "生成式人工智能在心理治療中的角色：多國心理健康專業人員質性分析",
+      "title_en": "Generative AI in psychotherapy: multicountry qualitative analysis",
+      "summary_zh": "766 名來自 30 國的心理健康專業人員中，354 人留下開放式回應，歸納出四大主題：治療關係不可取代、文書與心理教育等有條件用途、對保密與依賴等傷害的憂慮、培訓與規管嚴重滯後。臨床人員接受 AI 協助文書，但拒絕直接治療工作。",
+      "summary_en": "A multicountry qualitative analysis of open-text responses from 766 mental health professionals in 30 countries found four themes: the therapeutic relationship cannot be replaced, conditional uses such as documentation and psychoeducation, worries about harms including confidentiality and dependence, and serious lags in training and regulation. Clinicians accepted AI for paperwork but rejected it for direct therapeutic work.",
+      "category": "AI 與倫理",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "生成式AI",
+        "心理治療",
+        "治療關係",
+        "專業人員觀點",
+        "倫理",
+        "質性研究"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 2,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "source_domain": "pubmed.ncbi.nlm.nih.gov",
+      "date": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "slug": "genai-dbt-dbt-informed-generative-ai-for-mindfulness-skills",
+      "title_zh": "GenAI-DBT：以 DBT 為本的生成式 AI 正念技能訓練平台先導隨機研究",
+      "title_en": "GenAI-DBT: DBT-informed generative AI for mindfulness skills training",
+      "summary_zh": "45 名大學生隨機分派至 GenAI-DBT、通用大型語言模型聊天機械人或靜態網頁，進行 30 天 DBT 正念技能訓練。GenAI-DBT 組每週依從率最高（71.4%，對照組 53.3% 及 42.3%），語言正向度改善亦較大，但正念與情緒調節量表組間無顯著差異。作者強調屬可行性研究，臨床療效尚未確立。",
+      "summary_en": "In a pilot randomised study (n=45 undergraduates), a DBT-informed generative AI platform for 30 days of mindfulness skills training achieved the highest weekly adherence (71.4% vs 53.3% and 42.3% for a general LLM chatbot and a static webpage) and greater improvement in positive language, but no significant between-group differences on mindfulness or emotion regulation scales. The authors stress this is a feasibility study; clinical efficacy is not established.",
+      "category": "臨床實務",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "正念",
+        "生成式AI",
+        "聊天機械人",
+        "先導研究"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 2,
+      "population": [
+        "大專生"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "source_domain": "arxiv.org",
+      "date": "2026-11-19T00:00:00+00:00"
+    },
+    {
+      "slug": "gao-spotlight-ai-chatbots-and-mental-health",
+      "title_zh": "美國政府問責局專題：AI 聊天機械人與心理健康",
+      "title_en": "GAO spotlight: AI chatbots and mental health",
+      "summary_zh": "美國政府問責局指出，近五分之一 12 至 21 歲美國人曾用 AI 聊天機械人尋求心理健康建議。報告警告通用聊天機械人有諂媚偏誤，可強化妄想與自傷念頭，而 FDA 至今未授權任何 AI 聊天機械人作心理健康用途。專用治療機械人或可補充專業服務，但療效未經證實，不能取代合資格治療師。",
+      "summary_en": "A US Government Accountability Office spotlight reports nearly one in five Americans aged 12 to 21 used an AI chatbot for mental health advice in 2025. It warns general-purpose chatbots carry sycophancy bias that can reinforce delusions and self-harm thoughts, and notes the FDA has not authorised any AI chatbot for mental health care. Purpose-built chatbots may supplement professionals, but efficacy is unproven and they cannot replace qualified therapists.",
+      "category": "AI 與倫理",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "AI 聊天機械人",
+        "FDA",
+        "監管",
+        "諂媚偏誤",
+        "青少年"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "兒童青少年",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "source_domain": "www.gao.gov",
+      "date": "2026-11-20T00:00:00+00:00"
+    },
+    {
+      "slug": "dbt-tobacco-cessation-intervention-for-veterans-at-risk-for",
+      "title_zh": "DBT 戒煙介入對自殺高風險退伍軍人的先導試驗",
+      "title_en": "DBT tobacco cessation intervention for veterans at risk for suicide",
+      "summary_zh": "68 名每日吸煙的退伍軍人隨機分派至 DBT 戒煙介入或常規治療，兩組均接受 12 週團體治療並追蹤 24 週。兩組戒煙率在治療結束及追蹤期均無差異，但 DBT 組情緒調節有改善趨勢，學員整體滿意。結果顯示自殺高風險人士可安全參與戒煙介入，但 DBT 戒煙的額外效益仍需更大規模研究確認。",
+      "summary_en": "In a pilot trial, 68 veterans who smoked daily and were at heightened risk for suicide were randomised to a DBT tobacco cessation intervention or treatment as usual, both with 12 weeks of group treatment and 24-week follow-up. Abstinence did not differ between groups at end of treatment or follow-up, but the DBT group showed a trend toward improved emotion regulation and participants were satisfied overall.",
+      "category": "臨床實務",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "戒煙",
+        "自殺風險",
+        "退伍軍人",
+        "先導試驗"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 2,
+      "population": [
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "academic.oup.com",
+      "date": "2026-11-10T00:00:00+00:00"
+    },
+    {
+      "slug": "dbt-crash-course-for-clinicians",
+      "title_zh": "DBT 速成課程：15 個改善情緒調節與處理痛苦的核心技巧",
+      "title_en": "DBT crash course for clinicians",
+      "summary_zh": "PESI 的免費全日直播培訓，由認證 DBT 治療師 Lexi Mulee, LMHC, C-DBT 主講，教授 15 個 DBT 核心技巧，包括正念、痛苦耐受、情緒調節與人際效能，附免費工作紙。報名即享 3 天免費重播。學分需付費升級（$99.99 起，最高 6.25 小時直播 CE 或 9.5 小時自修 CE）。",
+      "summary_en": "PESI's free full-day live online training, led by certified DBT therapist Lexi Mulee, LMHC, C-DBT, teaches 15 core DBT techniques covering mindfulness, distress tolerance, emotion regulation and interpersonal effectiveness, with free handouts. Registration includes three days of free replay; CE credits need a paid upgrade (from $99.99, up to 6.25 live CE hours or 9.5 self-study hours).",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "辯證行為治療",
+        "情緒調節",
+        "痛苦耐受",
+        "人際效能"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "catalog.psychotherapynetworker.org",
+      "date": "2026-11-24T00:00:00+00:00",
+      "training": {
+        "provider": "PESI（講者 Alexa (Lexi) Mulee, LMHC, C-DBT）",
+        "format": "線上直播",
+        "price": "FREE Live Online Training",
+        "price_tier": "免費",
+        "ce_credits": "免費名額不含；升級可獲最多 6.25 小時直播 CE 或 9.5 小時自修 CE（$99.99 升級，活動開始後 $129.99）",
+        "language": "英文",
+        "event_date": "2026-12-08",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "conversational-agents-for-depression-and-anxiety-meta-analys",
+      "title_zh": "對話代理治療抑鬱與焦慮的成效：系統綜述與網絡劑量反應統合分析",
+      "title_en": "Conversational agents for depression and anxiety meta-analysis",
+      "summary_zh": "納入 41 項隨機對照試驗、7,577 人，比較不同對話代理類型與人類支援程度。AI 輔助高強度人類支援的效果似乎較純人類數碼指導及開放式多模態聊天機械人好，但整體證據確定性極低。劑量反應呈非線性，低至中劑量或為最佳。",
+      "summary_en": "A systematic review and network dose-response meta-analysis of 41 RCTs (n=7,577) found hybrid conversational-agent models with enhanced human involvement appeared to outperform fully automated systems and human-only digital guidance, but overall certainty of evidence was very low and the dose-response was non-linear, with low-to-moderate doses possibly optimal.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "對話代理",
+        "聊天機械人",
+        "抑鬱",
+        "焦慮",
+        "統合分析",
+        "混合模式",
+        "人類支援"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 4,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.jmir.org",
+      "date": "2026-11-13T00:00:00+00:00"
+    },
+    {
+      "slug": "building-strong-safety-evaluations",
+      "title_zh": "Anthropic 發布 AI 安全評估方法指南：自殺與自傷對話不應只計拒絕率",
+      "title_en": "Building strong safety evaluations",
+      "summary_zh": "Anthropic 提出十項安全評估建議，主張評估應量度模型實際行為而非只計拒絕次數。文中以自殺與自傷評估為例：同一模型在 API 得 60% 恰當回應率，在 claude.ai 卻達 94%，顯示設定差異可造成 34 個百分點落差。指南要求多輪模擬、預先註冊指標及按風險領域訂立評分準則。",
+      "summary_en": "Anthropic shares ten recommendations for building strong safety evaluations, arguing evals should measure what a model actually does rather than counting refusals. For suicide and self-harm conversations, refusal is often the wrong construct; the same model scored 60% appropriate responses via API versus 94% on claude.ai, a 34-point gap from deployment settings. The guide calls for multi-turn simulations, pre-registered metrics and risk-specific rubrics.",
+      "category": "AI 與倫理",
+      "kind": "practice",
+      "model_names": [
+        "Claude Fable 5.1",
+        "Claude Opus 5",
+        "Claude Opus 5.5"
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "安全評估",
+        "自殺預防",
+        "危機對話"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "source_domain": "www.anthropic.com",
+      "date": "2026-11-13T00:00:00+00:00"
+    },
+    {
+      "slug": "apa-guidance-on-deploying-ai-into-workplaces",
+      "title_zh": "美國心理學會發布職場 AI 部署指引",
+      "title_en": "APA guidance on deploying AI into workplaces",
+      "summary_zh": "APA 發布《Deploying AI Into Workplaces》指引，以心理科學為據提出七項實務，包括按風險配對保障措施、確保人類監督具實質意義、公平程序及保護專業發展。指引屬建議性質，非合規標準，亦不評斷個別產品。",
+      "summary_en": "The American Psychological Association published guidance on deploying AI into workplaces, offering seven practices grounded in psychological science, including matching safeguards to risk, ensuring human oversight is meaningful, fair process and protecting professional development. The guidance is advisory, not a compliance standard, and does not judge individual products.",
+      "category": "AI 與倫理",
+      "kind": "practice",
+      "model_names": [],
+      "tags": [
+        "APA",
+        "AI",
+        "職場",
+        "指引",
+        "信任",
+        "監督"
+      ],
+      "first_seen_at": "2026-11-24T01:24:17+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者",
+        "一般大眾"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.apa.org",
+      "date": "2026-11-16T00:00:00+00:00"
+    },
+    {
+      "slug": "revolve-trauma-ecology-integration-model",
+      "title_zh": "免費網上講座：超越症狀標籤——創傷生態整合模式（12 月 5 日香港時間）",
+      "title_en": "Free webinar: Human Adaptation Beyond Diagnosis — Applying the Trauma Ecology Integration Model (Revolve Recovery, 4 December)",
+      "summary_zh": "Revolve Recovery 免費 90 分鐘網上講座，由 Georgina Smith 博士主講，介紹創傷生態整合模式：將創傷反應理解為適應而非單純病理、把模式融入臨床評估、加深治療聯盟並建立可持續的復元路徑。2026 年 12 月 4 日（星期五）美西時間 9:00–10:30 舉行（香港／澳門時間 12 月 5 日星期六凌晨 1:00–2:30），全程線上直播（TPN.health），費用全免，全程英語，須預先報名。可獲 1.5 CE 學分。對象為心理學家、社工、輔導員、婚姻家庭治療師、成癮輔導員及其他行為健康專業人員。",
+      "summary_en": "A free 90-minute live webinar from Revolve Recovery, presented by Georgina Smith, PhD. It introduces the Trauma Ecology Integration Model: viewing trauma responses as adaptive rather than only pathological, integrating the model into clinical assessment, and building deeper therapeutic alliances and more sustainable recovery pathways. Held Friday 4 December 2026, 09:00-10:30 Pacific Time (01:00-02:30 Hong Kong/Macau time on Saturday 5 December), live online via TPN.health, free of charge, in English, with advance registration required. Carries 1.5 CE hours. Aimed at psychologists, social workers, counsellors, marriage and family therapists, addiction professionals and other behavioral health professionals.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷治療",
+        "生態模式",
+        "免費培訓"
+      ],
+      "first_seen_at": "2026-11-24T00:30:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.revolverecovery.com",
+      "date": "2026-11-24T00:30:00+00:00",
+      "training": {
+        "provider": "Revolve Recovery",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "1.5 CE 學分",
+        "language": "英語",
+        "event_date": "2026-12-04",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "ecare-bipolar-overlap-masterclass",
+      "title_zh": "免費網上大師班：躁鬱重疊診斷——分得清先治得準（12 月 8 日香港時間）",
+      "title_en": "Free masterclass: Bipolar Overlap — Telling Bipolar Apart from Depression, PTSD, ADHD, GAD and BPD (eCare, 8 December)",
+      "summary_zh": "eCare Behavioral Health Institute 免費 6 小時網上大師班，由情緒障礙專家 Jim Phelps 醫生（《A Spectrum Approach to Mood Disorders》作者）主講，教治療師分辨躁鬱與抑鬱、PTSD、ADHD、焦慮症及邊緣型人格障礙：四個 A（焦慮、憤怒、激動、注意力問題）、逐項比較、混合特徵、簡化版社交節律治療，以及診斷未明時的低風險治療選擇。2026 年 12 月 8 日（星期二）美東時間 10:00–17:30 舉行（香港／澳門時間 12 月 8 日 23:00 至 12 月 9 日 6:30），全程線上直播，免費參加，全程英語，須預先報名。錄影重溫及 6 CE 學分須付費升級 Premium Pass。對象為持牌精神健康專業人員，包括心理學家、輔導員、社工及婚姻家庭治療師。",
+      "summary_en": "A free 6-hour live masterclass from eCare Behavioral Health Institute, presented by Jim Phelps, MD, a psychiatrist specialising in complex mood disorders and author of A Spectrum Approach to Mood Disorders. It teaches therapists how to tell bipolar disorder apart from depression with PTSD, ADHD, generalised anxiety and borderline personality disorder, using the Four A's (anxiety, anger, agitation, attention problems), side-by-side comparisons, mixed features, and simplified Social Rhythm Therapy, plus lower-risk treatment choices while the diagnosis is still uncertain. Held Tuesday 8 December 2026, 10:00-17:30 Eastern Time (23:00 Hong Kong/Macau time on 8 December to 06:30 on 9 December), fully online, free to attend, in English, with advance registration required. Lifetime recording access and 6 CEs require a paid Premium Pass upgrade. Aimed at licensed mental health professionals including psychologists, counsellors, social workers and marriage and family therapists.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "躁鬱症",
+        "診斷",
+        "免費培訓"
+      ],
+      "first_seen_at": "2026-11-24T00:30:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "webinar.ecarebehavioralinstitute.com",
+      "date": "2026-11-24T00:30:00+00:00",
+      "training": {
+        "provider": "eCare Behavioral Health Institute",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "6 CE 學分須付費升級 Premium Pass",
+        "language": "英語",
+        "event_date": "2026-12-08",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "dbt-skills-training-13-week-nssi-multicentre-rct",
+      "title_zh": "13 週 DBT 技巧訓練對非自殺式自傷的多中心隨機試驗（n=196）",
+      "title_en": "Effectiveness of 13-week dialectical behavior therapy skills training for non-suicidal self-injury: a multi-center randomized clinical trial in China (N=196)",
+      "summary_zh": "Psychological Medicine 2026-05-28 線上刊出。中國多中心隨機臨床試驗比較 13 週 DBT 技巧訓練與社交支援小組治療對非自殺式自傷（NSSI）的效果，196 名有精神障礙兼 NSSI 的病人（DBT-ST n=97，社交支援組 n=99）。DBT 技巧訓練在減少 NSSI 行為頻率上顯著優於社交支援組，在邊緣症狀、情緒調節、衝動、述情障礙、正念、心理韌性與情緒智力亦有較佳效果。兩組在 NSSI 想法、自殺意念與企圖、抑鬱方面皆有顯著減少，但組間無顯著差異。",
+      "summary_en": "Published online 28 May 2026 in Psychological Medicine. A multicentre randomised clinical trial in China evaluated 13 weeks of dialectical behavior therapy skills training (DBT-ST) against social support group therapy (SSGT) in 196 people with mental disorders and non-suicidal self-injury (DBT-ST n=97, SSGT n=99). DBT-ST was significantly more effective than SSGT in reducing the frequency of NSSI behaviours, and showed superior effects on borderline symptoms and multiple domains of psychological functioning, including emotion dysregulation, impulsivity, alexithymia, mindfulness, psychological resilience and emotional intelligence. Both groups showed significant reductions in NSSI thoughts, suicidal ideation and attempts, and depression, with no significant between-group differences on those outcomes.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "非自殺式自傷",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-23T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "source_domain": "doi.org",
+      "date": "2026-11-23T13:30:00+00:00"
+    },
+    {
+      "slug": "dbt-parental-support-adolescent-nssi-rct",
+      "title_zh": "DBT 結合家長支援對青少年非自殺式自傷的隨機對照試驗（n=100）",
+      "title_en": "DBT combined with parental support in adolescents with non-suicidal self-injury: a randomized controlled trial (N=100)",
+      "summary_zh": "Child and Adolescent Psychiatry and Mental Health 2026-01-30 刊出。隨機對照試驗比較 DBT 結合家長支援與單用 DBT 對青少年非自殺式自傷（NSSI）的效果，100 名 12–18 歲抑鬱兼 NSSI 青少年來自河南一間三級精神科醫院（每組 n=50），DBT 為期 13 週，家長支援為期 10 週，91 人完成研究。介入組在 6 週時 NSSI 頻率降幅已較大（p=0.027），13 週時所有量度結果降幅皆較大（p<0.01），包括自殺意念、NSSI 頻率與功能、情緒調節困難、抑鬱症狀。",
+      "summary_en": "Published 30 January 2026 in Child and Adolescent Psychiatry and Mental Health. A randomised controlled trial of 100 adolescents aged 12-18 with depression and non-suicidal self-injury (NSSI) at a tertiary psychiatric hospital in Henan, China, comparing 13 weeks of dialectical behavior therapy (DBT) plus a 10-week structured parental support programme (n=50) with DBT alone (n=50); 91 participants completed the study. The combined group showed significantly greater reductions in NSSI frequency by mid-intervention (p=0.027) and in all measured outcomes at 13 weeks (all p<0.01), including suicidal ideation, NSSI frequency and function, emotion dysregulation and depressive symptoms.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "家長支援",
+        "非自殺式自傷",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-23T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "source_domain": "doi.org",
+      "date": "2026-11-23T13:30:00+00:00"
+    },
+    {
+      "slug": "blended-cbt-major-depression-europe-noninferiority-rct",
+      "title_zh": "混合式 CBT 對重性抑鬱：歐洲九國常規照護非劣性隨機試驗（n=835）",
+      "title_en": "Clinical Effectiveness and Cost-Effectiveness of Blended Treatment for Major Depression Compared With Treatment as Usual Within Routine Care in Europe: A Noninferiority Randomized Controlled Trial (N=835)",
+      "summary_zh": "Interactive Journal of Medical Research 2026-09-24 刊出。歐洲 9 國多中心非劣性隨機對照試驗比較混合式 CBT（面對面治療結合結構化網上模組）與常規治療（主要為面對面 CBT）對重性抑鬱症的效果，835 名常規照護病人。混合式 CBT 在治療期間（3 個月，d=−0.26）、治療後（6 個月，d=−0.21）及 12 個月追蹤（d=−0.01）的 PHQ-9 上皆不劣於常規治療；混合式 CBT 組在 12 個月時出現抑鬱發作的機會較低（OR 0.67，95% CI 0.45–0.99）；兩組惡化率皆低於 5%，治療聯盟皆強。從醫療角度看，混合式 CBT 在 12 個月時不具成本效益。",
+      "summary_en": "Published 24 September 2026 in the Interactive Journal of Medical Research. A multisite noninferiority randomised controlled trial across 9 European countries compared blended cognitive behavioral therapy (bCBT), combining face-to-face therapy with structured guided digital modules, with treatment as usual (mainly face-to-face CBT) in 835 patients with major depressive disorder in routine care. bCBT was noninferior to TAU on the primary PHQ-9 outcome during treatment (3 months, d=-0.26), at 6 months post-treatment (d=-0.21) and at 12-month follow-up (d=-0.01). The bCBT group had a significantly lower likelihood of a major depression episode at 12 months (odds ratio 0.67, 95% CI 0.45-0.99). Deterioration rates were below 5% in both groups, with a strong working alliance in both. From a health care perspective, bCBT was not cost-effective at 12 months.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "CBT",
+        "混合式治療",
+        "抑鬱",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-23T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "doi.org",
+      "date": "2026-11-23T13:30:00+00:00"
+    },
+    {
+      "slug": "adept-2-guided-self-help-depression-autistic-adults-rct",
+      "title_zh": "為自閉症成人改編的引導式自助抑鬱治療：多中心三期隨機試驗 ADEPT-2（n=266）",
+      "title_en": "Guided self-help for depression adapted for autistic adults: a multi-centre randomised controlled phase 3 trial (ADEPT-2) (N=266)",
+      "summary_zh": "Psychotherapy and Psychosomatics 2026-11-13 刊出。ADEPT-2 多中心隨機對照三期試驗測試為自閉症成人改編的引導式自助（GSH）對抑鬱的效果，266 名 18 歲以上確診自閉症兼有抑鬱症狀的成人（GSH 組 n=132，常規治療組 n=134）。改編 GSH 包括心理教育與行為活化，另有 9 次教練會面。16 週時組間 BDI-II 平均差 −5.05（95% CI −7.85 至 −2.24，P<0.001，d=0.47），改編組較佳，差異維持至 52 週；81% 完成最少 6 節的最低劑量。",
+      "summary_en": "Published 13 November 2026 in Psychotherapy and Psychosomatics. The ADEPT-2 multicentre randomised controlled phase 3 trial tested autism-adapted guided self-help (GSH) for depression against treatment as usual in 266 adults aged 18 or over with a confirmed autism diagnosis and depressive symptoms (PHQ-9 >= 10; GSH n=132, TAU n=134). Adapted GSH comprised psychoeducation and behavioural activation supported by nine meetings with a coach. The estimated between-group mean difference in Beck Depression Inventory (BDI-II) scores at 16 weeks was -5.05 (95% CI -7.85 to -2.24, P<0.001, d=0.47) in favour of GSH, with the difference sustained at 52 weeks; 81% of the GSH group completed the minimum 6-session dose.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "自閉症",
+        "抑鬱",
+        "引導式自助",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-23T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "academic.oup.com",
+      "date": "2026-11-23T13:30:00+00:00"
+    },
+    {
+      "slug": "equip-weight-bias-eating-disorders",
+      "title_zh": "免費網上講座：拆解體重偏見——大體型患者的飲食失調治療（12 月 2 日香港時間）",
+      "title_en": "Free webinar: Dismantling Weight Bias in Eating Disorder Treatment (Equip Academy, 1 December)",
+      "summary_zh": "Equip Academy 免費 90 分鐘網上講座，由臨床心理學家 Savannah Erwin 博士及 Ally Duvall 主講，拆解飲食失調治療中的體重偏見：少於 6% 飲食失調患者體重過輕，但大體型患者往往被漏診、誤診，求助時更面對 stigma。講座講解三大常見體重迷思及其危險、照顧大體型患者的要點，以及協助患者擁抱體重包容的策略。2026 年 12 月 1 日（星期二）美西時間 11:30–13:00 舉行（美東時間 14:30–16:00；香港／澳門時間 12 月 2 日星期三凌晨 3:30–5:00），全程線上直播（TPN.health），亦可按需重溫，費用全免，全程英語，須預先報名。全程出席可獲 CE 學分。對象為醫生、護士、營養師、心理學家、社工、婚姻家庭治療師、成癮輔導員及其他醫護專業人員。",
+      "summary_en": "A free 90-minute live webinar from Equip Academy, presented by clinical psychologist Dr. Savannah Erwin and Ally Duvall. It explains why weight bias harms eating disorder care: fewer than 6% of people with eating disorders are underweight, yet people in larger bodies are often undiagnosed, misdiagnosed, or stigmatised when they seek help. The session covers three common weight myths and their dangers, key considerations when caring for larger-bodied patients, and strategies to help patients embrace weight inclusivity. Held Tuesday 1 December 2026, 11:30-13:00 Pacific Time (14:30-16:00 Eastern; 03:30-05:00 Hong Kong/Macau time on 2 December), live online via TPN.health with on-demand replay, free of charge, in English, with advance registration required. Full attendance earns CE credit. Aimed at physicians, nurses, dietitians, psychologists, social workers, marriage and family therapists, addiction counsellors and other healthcare providers.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "飲食失調",
+        "體重偏見",
+        "免費培訓"
+      ],
+      "first_seen_at": "2026-11-23T00:45:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "equip.health",
+      "date": "2026-11-23T00:45:00+00:00",
+      "training": {
+        "provider": "Equip Academy",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "全程出席可獲 CE 學分（數目以 TPN.health 報名頁為準）",
+        "language": "英語",
+        "event_date": "2026-12-01",
+        "deadline": ""
+      },
+      "deadline_soon": true
+    },
+    {
+      "slug": "fasd-informed-care-striving-for-equity-webinar",
+      "title_zh": "免費網上研討會：胎兒酒精譜系障礙知情照顧，邁向公平（12 月 15 日，Christie Petrenko）",
+      "title_en": "Free webinar: FASD-Informed Care — Striving for Equity (15 December 2026, Christie Petrenko)",
+      "summary_zh": "Florida Center Training Institute 免費入門研討會，2026 年 12 月 15 日星期二 12:00–13:00（美國東岸時間，約香港時間 12 月 16 日 01:00–02:00），由 Christie L. M. Petrenko（臨床心理學家，羅徹斯特大學醫學院發展及行為兒科高級研究主任）主講「胎兒酒精譜系障礙知情照顧，邁向公平」。講座介紹 FASD 是甚麼、診斷如何幫忙、FASD 知情照顧的要點，並介紹 FMF Connect Pro 應用程式。費用全免，附 1 個免費 CEU（心理學家、社工、婚姻及家庭治療師、精神健康輔導員）。對象為照顧 FASD 或產前酒精暴露兒童（3–13 歲）的專業人員。",
+      "summary_en": "The Florida Center Training Institute's free introductory webinar takes place on Tuesday 15 December 2026, 12:00-1:00 p.m. Eastern Time (about 1:00-2:00 a.m. Hong Kong time on 16 December), presented by Christie L. M. Petrenko, PhD, clinical psychologist and Senior Research Director of Developmental & Behavioral Pediatrics at the University of Rochester Medical Center: 'FASD-Informed Care: Striving for Equity'. The session covers what fetal alcohol spectrum disorders (FASD) are, how a diagnosis helps, and what FASD-informed care looks like, and introduces the FMF Connect Pro app. Attendance is free and carries 1 free CEU for psychologists, social workers, marriage and family therapists and mental health counselors. It is aimed at professionals working with children aged 3-13 with FASD or prenatal alcohol exposure.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "FASD",
+        "胎兒酒精譜系障礙",
+        "免費培訓",
+        "網上研討會",
+        "兒童"
+      ],
+      "first_seen_at": "2026-11-22T13:30:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "floridacentertraining.org",
+      "date": "2026-11-22T13:30:00+00:00",
+      "training": {
+        "provider": "Florida Center Training Institute",
+        "format": "線上直播（Zoom）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "1 個免費 CEU（心理學家、社工、婚姻及家庭治療師、精神健康輔導員）",
+        "language": "英語",
+        "event_date": "2026-12-15",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "dbt-vs-schema-therapy-bpd-boots-rct",
+      "title_zh": "多中心 RCT：DBT 與基模治療對邊緣型人格障礙同樣有效（n=204，追蹤 3 年）",
+      "title_en": "BOOTS multicentre RCT: DBT and schema therapy equally effective for borderline personality disorder (N=204)",
+      "summary_zh": "JAMA Psychiatry 2026-04-22 線上刊出。BOOTS 多中心隨機對照試驗比較辯證行為治療（DBT）與基模治療（ST）對邊緣型人格障礙（BPD）的效果，204 名 18–65 歲門診病人來自荷蘭 9 間中心（DBT n=95，ST n=109），兩種治療各為期 2 年，結合小組與個別形式，評估員不知分組。36 個月追蹤時，兩組在 BPD 嚴重程度（BPDSI-5）上無顯著差異（平均差 −1.09，Cohen d=0.15，95% CI −0.17 至 0.47；p=0.27），次要結果亦無組間差異，兩組皆大幅改善。脫落率高，2 年時 DBT 52%、ST 46%。",
+      "summary_en": "Published online 22 April 2026 in JAMA Psychiatry. The BOOTS multicentre randomised clinical trial compared dialectical behavior therapy (DBT) with schema therapy (ST) in 204 adults aged 18-65 with borderline personality disorder across 9 Dutch outpatient centres (DBT n=95, ST n=109). Both treatments ran for 2 years in a combined group-individual format, with blinded assessment. At 36-month follow-up there was no significant difference between treatments in reducing BPD severity (BPDSI-5 mean difference -1.09, Cohen d=0.15, 95% CI -0.17 to 0.47; P=.27), and no differences on any secondary outcome, with large improvements in both treatments. Dropout was high in both arms (52% for DBT and 46% for ST at 2 years).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "基模治療",
+        "邊緣型人格障礙",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-22T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "jamanetwork.com",
+      "date": "2026-11-22T13:30:00+00:00"
+    },
+    {
+      "slug": "dbt-family-connections-caregivers-suicide-attempters-rct",
+      "title_zh": "RCT：DBT 家庭連結課程提升自殺未遂者家屬的賦權與效能感（n=108）",
+      "title_en": "RCT: DBT-based Family Connections improves empowerment in family members of suicide attempters (N=108)",
+      "summary_zh": "Borderline Personality Disorder and Emotion Dysregulation 2026-06-13 刊出。隨機對照試驗比較 DBT 家庭連結課程（Family Connections）與單次心理教育對自殺未遂者家屬的效果，108 名家屬照顧者來自西班牙 11 間精神健康服務（完成者 75 人）。FC 為 12 節每週 2 小時網上小組，為期 3 個月。兩組的主客觀照顧負擔都顯著下降，組間無差異；FC 組的家庭賦權升幅顯著大於對照組（F=13.19，p<0.001，d=0.42），壓力與效能行為亦顯著較佳。照顧者回報的患者自傷頻率只在 FC 組顯著下降。",
+      "summary_en": "Published 13 June 2026 in Borderline Personality Disorder and Emotion Dysregulation. A randomised controlled trial tested Family Connections (FC), a DBT-based skills training programme, against a single-session psychoeducational intervention in 108 family caregivers of patients with suicidal behavior disorder, recruited across 11 mental health services in Spain (75 completed). FC comprised 12 weekly two-hour online group sessions over three months. Both conditions significantly reduced objective and subjective caregiver burden, with no between-group difference. FC produced significantly greater gains in family empowerment (F=13.19, p<.001, d=0.42), stress reduction and validating behaviours. Patients' non-suicidal self-injury frequency fell significantly in the FC condition only, as reported by caregivers.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "Family Connections",
+        "自殺未遂者家屬",
+        "照顧者負擔",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-22T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "source_domain": "link.springer.com",
+      "date": "2026-11-22T13:30:00+00:00"
+    },
+    {
+      "slug": "cbt-vs-eft-depression-routine-care-pilot-rct",
+      "title_zh": "先導 RCT：常規治療中 CBT 與 EFT 治療抑鬱效果相若（n=111，追蹤 12 個月）",
+      "title_en": "Pilot RCT: CBT and emotion-focused therapy equally effective for depression in routine care (N=111)",
+      "summary_zh": "Psychotherapy Research 2026-11-17 線上刊出（第 36 卷第 8 期）。隨機對照先導試驗比較認知行為治療（CBT）與情緒聚焦治療（EFT）在挪威常規短期治療中治療抑鬱的效果，111 名求助者隨機分入 CBT（n=55）或 EFT（n=56），接受 9–18 節個別治療（平均約 13.5 節）。兩組的 BDI-II 由治療前到治療後都大幅改善（CBT d=1.06，EFT d=0.84），組間無顯著差異，效果維持到 12 個月追蹤。兩組各約 50% 達可靠改善，臨床顯著改善為 CBT 40%、EFT 30%（差異不顯著）。脫落率低，CBT 10.9%、EFT 1.8%。",
+      "summary_en": "Published online 17 November 2026 in Psychotherapy Research (Vol 36, No 8). A randomised controlled pilot trial compared cognitive behavioral therapy (CBT) with emotion-focused therapy (EFT) for depression in a Norwegian routine-care short-term programme: 111 clients randomised (CBT n=55, EFT n=56) to 9-18 individual sessions (mean about 13.5). Both groups improved substantially on the BDI-II from pre to post-treatment (CBT d=1.06, EFT d=0.84), with no significant between-group differences, and gains held at 12-month follow-up. About 50% in each group achieved reliable change; clinically significant change was 40% for CBT and 30% for EFT (not significant). Dropout was low (CBT 10.9%, EFT 1.8%).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "EFT",
+        "CBT",
+        "抑鬱",
+        "常規治療",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-22T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.tandfonline.com",
+      "date": "2026-11-22T13:30:00+00:00"
+    },
+    {
+      "slug": "pesi-art-ptsd-trauma-intro",
+      "title_zh": "免費網上工作坊：ART 創傷治療三小時入門——基礎、研究與臨床應用（12 月 21 日香港時間）",
+      "title_en": "Free workshop: 3-Hour Intro to Accelerated Resolution Therapy (ART) for PTSD and Trauma (PESI, 21 December)",
+      "summary_zh": "PESI 免費 3 小時網上工作坊，由 ART 創始人 Laney Rosenzweig、首席培訓師 Amy Shuman 及研究學者 Kevin Kip 博士主講，介紹加速解決治療（ART）的基礎概念、情緒記憶的神經科學與記憶再鞏固研究、眼動在 ART 中的作用，以及適合使用 ART 的臨床群體。ART 透過治療師引導的眼動與自願影像替換，令創傷記憶的情緒負荷減輕，而無需詳細重述創傷。2026 年 12 月 21 日（星期一）美中時間 9:00–12:15 舉行（香港／澳門時間 12 月 21 日星期一晚上 11:00 至 12 月 22 日星期二凌晨 2:15），全程線上直播，費用全免，全程英語，須預先報名。3 日免費重溫；3 CE 學分另加 $49.99。對象為輔導員、社工、心理學家、婚姻及家庭治療師及其他心理健康專業人員。",
+      "summary_en": "A free 3-hour live virtual workshop from PESI, presented by ART developer Laney Rosenzweig, lead trainer Amy Shuman and researcher Dr. Kevin Kip. It introduces Accelerated Resolution Therapy (ART): its foundational concepts, the neuroscience of emotional memory and memory reconsolidation, the proposed role of eye movements, and the clinical populations for which ART may be appropriate. ART reprocesses painful memories so the emotional charge fades without requiring detailed retellings. Held Monday 21 December 2026, 09:00-12:15 Central Time (23:00 Hong Kong/Macau time on 21 December to 02:15 on 22 December), fully online, free of charge, in English, with advance registration required. Free replay access for 3 days; up to 3 CE hours available for a $49.99 upgrade. Aimed at counsellors, social workers, psychologists, marriage and family therapists and other mental health professionals.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷治療",
+        "ART",
+        "PTSD",
+        "免費培訓"
+      ],
+      "first_seen_at": "2026-11-22T01:49:45+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.pesi.com",
+      "date": "2026-11-22T01:49:45+00:00",
+      "training": {
+        "provider": "PESI",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "3 CE 學分另加 $49.99",
+        "language": "英語",
+        "event_date": "2026-12-21",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "ccmh-community-college-student-mental-health",
+      "title_zh": "免費網上研討會：社區學院學生心理健康——研究、實務與前行路徑（12 月 11 日香港時間）",
+      "title_en": "Free webinar: Advancing Student Mental Health at Community Colleges: Research, Practice, and Pathways Forward (CCMH, 10 December)",
+      "summary_zh": "CCMH 與 The Hope Center for Student Basic Needs 合辦免費 2 小時網上研討會，以 CCMH 數據比較兩年制／社區學院與四年制大學輔導中心的學生心理健康需要，探討數據主導決策、減低污名、擴大求助途徑、支援通勤學生，以及校園與社區協作。2026 年 12 月 10 日（星期四）美東時間 12:00–14:00 舉行（香港／澳門時間 12 月 11 日星期五凌晨 1:00–3:00），全程 Zoom 線上直播，費用全免，全程英語，須預先報名。不設 CEU；設錄影重溫，登記後可收看。對象為大專院校輔導中心人員、臨床心理學家、輔導員、社工及高等教育學生心理健康工作者。",
+      "summary_en": "A free 2-hour live webinar from the Center for Collegiate Mental Health (CCMH) and The Hope Center for Student Basic Needs. Using CCMH data, it compares the mental health needs and counselling services of community colleges with four-year institutions, covering data-informed decision making, reducing stigma, expanding access to care, supporting commuter-based students, and coordinating support across campus and community partners. Held Thursday 10 December 2026, 12:00-14:00 Eastern Time (01:00-03:00 Hong Kong/Macau time on 11 December), fully online via Zoom, free of charge, in English, with advance registration required. No CEU; a recording will be available to registrants. Aimed at counselling centre staff, clinicians and higher-education professionals working in collegiate mental health.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "學生心理健康",
+        "社區學院",
+        "免費培訓",
+        "CCMH"
+      ],
+      "first_seen_at": "2026-11-22T01:49:45+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "ccmh.psu.edu",
+      "date": "2026-11-22T01:49:45+00:00",
+      "training": {
+        "provider": "Center for Collegiate Mental Health (CCMH)",
+        "format": "線上直播（Zoom）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "不設 CEU",
+        "language": "英語",
+        "event_date": "2026-12-10",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "mind-body-expressive-therapies-nervous-system-trauma-webinar",
+      "title_zh": "免費網上研討會：用表達性治療調節創傷復元中的神經系統（12 月 16 日，Monica Bhatara）",
+      "title_en": "Free webinar: Using expressive therapies to support nervous system regulation in trauma recovery (16 December 2026, Monica Bhatara)",
+      "summary_zh": "Mind Body Training Institute 每月免費支援研討會，2026 年 12 月 16 日星期三 13:00（美國太平洋時間，約香港時間 12 月 17 日 05:00），由加拿大創傷治療師及全國培訓師 Monica Bhatara 主講「用表達性治療支援創傷復元中的神經系統調節」。講座介紹表達性與身體取向治療如何以創意及感官方式支援神經系統調節、協助個案處理創傷經驗，適用於兒童及成人，並融入創傷知情實務。Bhatara 有 25 年以上臨床及領導經驗，取向受多重迷走神經理論與原住民心理學啟發。費用全免，登記即可參加及收看重播。",
+      "summary_en": "The Mind Body Training Institute's free monthly support webinar takes place on Wednesday 16 December 2026 at 1:00 p.m. Pacific Time (about 5:00 a.m. Hong Kong time on 17 December), presented by Canadian trauma therapist and national trainer Monica Bhatara: 'Using Expressive Therapies to Support Regulating the Nervous System Within Trauma Recovery Work'. The session explores how expressive and somatic therapies offer creative, sensory-based ways to support nervous system regulation and help clients process traumatic experiences, adaptable for children and adults within trauma-informed practice. Bhatara has over 25 years of clinical and leadership experience, informed by Polyvagal Theory and Indigenous Psychology. Attendance is free and registrants can access replays.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "創傷復元",
+        "表達性治療",
+        "神經系統調節",
+        "免費培訓",
+        "網上研討會"
+      ],
+      "first_seen_at": "2026-11-21T13:30:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "mindbodytraininginstitute.com",
+      "date": "2026-11-21T13:30:00+00:00",
+      "training": {
+        "provider": "Mind Body Training Institute",
+        "format": "線上直播（設重播）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "原頁未註明",
+        "language": "英語",
+        "event_date": "2026-12-16 13:00（美國太平洋時間，約香港時間 12 月 17 日 05:00）",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "harborview-telebehavioral-health-professional-boundaries-webinar",
+      "title_zh": "免費網上研討會：從文字到觸碰——現代醫療中的專業界線（12 月 18 日，Jennifer Piel）",
+      "title_en": "Free webinar: From Text to Touch — Managing Professional Boundaries in Modern Healthcare (18 December 2026, Jennifer Piel)",
+      "summary_zh": "華盛頓大學 Harborview Behavioral Health Institute 免費每月 TeleBehavioral Health 研討會，2026 年 12 月 18 日星期五 11:00–12:00（美國太平洋時間，約香港時間 12 月 19 日 03:00–04:00），由 Jennifer Piel（醫學博士、法學博士）主講「從文字到觸碰：管理現代醫療中的專業界線」。系列以 Zoom 舉行，每月第三個星期五一次，開放予為精神健康及物質使用人士提供服務的人員參加，每場需逐場登記。費用全免。",
+      "summary_en": "The University of Washington Harborview Behavioral Health Institute's free monthly TeleBehavioral Health webinar takes place on Friday 18 December 2026, 11:00 a.m.-12:00 p.m. Pacific Time (about 3:00-4:00 a.m. Hong Kong time on 19 December), presented by Jennifer Piel, MD, JD: 'From Text to Touch: Managing Professional Boundaries in Modern Healthcare'. The Zoom-based series runs on the third Friday of each month and is open to anyone providing services to individuals living with mental health and substance use issues; each webinar requires separate registration. Attendance is free.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "專業界線",
+        "遠距醫療",
+        "倫理",
+        "免費培訓",
+        "網上研討會"
+      ],
+      "first_seen_at": "2026-11-21T13:30:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "bhinstitute.uw.edu",
+      "date": "2026-11-21T13:30:00+00:00",
+      "training": {
+        "provider": "University of Washington Harborview Behavioral Health Institute（華盛頓大學 Harborview 行為健康研究所）",
+        "format": "線上直播（Zoom）",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "原頁未註明",
+        "language": "英語",
+        "event_date": "2026-12-18",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "flexibility-mindset-daily-emotion-focused-self-reflection-rct",
+      "title_zh": "RCT：每日情緒聚焦自省提升彈性心態（n=44，三週微練習）",
+      "title_en": "RCT: Daily emotion-focused self-reflection enhances flexibility mindset (N=44)",
+      "summary_zh": "Frontiers in Psychology 2026-10-12 刊出。隨機對照試驗檢視每日情緒聚焦自省能否提升彈性心態——一種相信自己可以應付困難處境的動機取向。44 名大學生隨機分入介入組或主動對照組，每日做微練習三週，培養六種情緒資源（真實自豪、敬畏、心流、感恩、放鬆、替代喜悅）。介入組的彈性心態由前測到後測提升（組內 d=0.91）、到兩週後追蹤再升（d=1.05），對照組無變化；彈性心態愈高，正向情緒愈高。抑鬱、焦慮與壓力在兩組都下降，負面情緒則無變化。注意：此處「情緒聚焦自省」並非 Greenberg 的情緒聚焦治療（EFT）。",
+      "summary_en": "Published 12 October 2026 in Frontiers in Psychology. A randomised controlled trial tested whether daily emotion-focused self-reflection can strengthen flexibility mindset, the motivational conviction that one can do what is necessary to get through a difficult situation. Forty-four university students were randomised to an intervention or an active control group and completed daily micro-exercises for three weeks, cultivating six emotional resources (authentic pride, awe, flow, gratitude, relaxation and vicarious joy). The intervention group showed significant increases in flexibility mindset from pre to post (within-group d=0.91) and to two-week follow-up (d=1.05), while the control group showed no change; higher flexibility mindset was associated with higher positive affect. Depressive symptoms, anxiety and stress decreased in both conditions, and negative affect did not change. Note: this 'emotion-focused self-reflection' is not Greenberg's emotion-focused therapy (EFT).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "彈性心態",
+        "情緒調節",
+        "韌性",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-21T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.frontiersin.org",
+      "date": "2026-11-21T13:30:00+00:00"
+    },
+    {
+      "slug": "existential-4fm-acceptance-training-complex-trauma-pilot",
+      "title_zh": "存在主義小組試點：4FM 接納訓練提升複雜創傷住院病人的基本希望（n=32）",
+      "title_en": "Existential group pilot: 4FM Acceptance Training raises basic hope in inpatients with complex trauma (N=32)",
+      "summary_zh": "Archives of Psychiatry and Psychotherapy 2026-10-21 刊出。試點研究評估簡短存在主義小組介入「4FM 接納訓練」（Four Fundamental Motivations，四項基本動機）在精神科住院環境的可行性與初步效果。32 名有關係創傷史的住院病人按常規臨床程序分入 4FM 訓練加常規治療（n=13）或只接受常規治療（n=19），訓練為 10 節每週 90 分鐘小組。完整前後數據者 17 人；4FM 組的基本希望升幅顯著高於對照組（t(15)=-5.16，p<0.001），擔憂、抑鬱與存在實現感則無組間差異。全部參加者曾受情緒虐待，96.9% 曾受情緒忽略。",
+      "summary_en": "Published 21 October 2026 in Archives of Psychiatry and Psychotherapy. A pilot study evaluated a brief existential group intervention, 4FM Acceptance Training (Four Fundamental Motivations), in an inpatient psychiatric setting. Thirty-two inpatients with histories of relational trauma were allocated by routine clinical procedures to 4FM training plus treatment as usual (n=13) or treatment as usual alone (n=19); the training comprised ten weekly 90-minute group sessions. Seventeen participants provided complete pre-post data. The 4FM group showed a significantly greater increase in basic hope than the control group (t(15)=-5.16, p<0.001); worry, depressive symptoms and existential fulfillment showed no between-group differences. All participants reported emotional abuse and 96.9% reported emotional neglect.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "存在主義心理學",
+        "4FM",
+        "複雜創傷",
+        "人格障礙",
+        "希望"
+      ],
+      "first_seen_at": "2026-11-21T13:30:00+00:00",
+      "evidence_level": 2,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.archivespp.pl",
+      "date": "2026-11-21T13:30:00+00:00"
+    },
+    {
+      "slug": "act-eft-abt-adolescent-gaming-addiction-emotion-regulation-rct",
+      "title_zh": "RCT：ACT 與 EFT 同樣有效改善遊戲成癮青少年的情緒調節（n=100）",
+      "title_en": "RCT: ACT and EFT equally improve emotion regulation in adolescents with gaming addiction (N=100)",
+      "summary_zh": "Frontiers in Psychology 2026-02-11 刊出。隨機對照試驗比較接納與承諾治療（ACT）、情緒聚焦治療（EFT）與依附取向治療（ABT）對 100 名 13–18 歲遊戲成癮青少年的情緒調節效果，每組 25 人，另設等候對照組。ACT 與 EFT 各 8 節、ABT 10 節；三組的功能性情緒調節分數都顯著提升、功能失調分數顯著下降（p<0.001）。ACT 與 EFT 的效應量遠大於 ABT，兩者之間無顯著差異，效果維持到 6 週後追蹤。EFT 按 Greenberg 模式改編為青少年小組版。",
+      "summary_en": "Published 11 February 2026 in Frontiers in Psychology. A randomised controlled trial compared acceptance and commitment therapy (ACT), emotion-focused therapy (EFT) and attachment-based therapy (ABT) for emotion regulation in 100 adolescents aged 13-18 with gaming disorder (25 per group, plus a wait-list control). ACT and EFT ran for 8 sessions, ABT for 10. All three groups showed significant gains in functional emotion regulation and significant drops in dysfunctional regulation (p<0.001). Effect sizes for ACT and EFT were very large compared with ABT, with no significant difference between ACT and EFT, and gains held at 6-week follow-up. EFT was adapted from Greenberg's model into a group format for adolescents.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "EFT",
+        "ACT",
+        "遊戲成癮",
+        "青少年",
+        "情緒調節"
+      ],
+      "first_seen_at": "2026-11-21T13:30:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.frontiersin.org",
+      "date": "2026-11-21T13:30:00+00:00"
+    },
+    {
+      "slug": "gracent-burnout-balance-mindfulness",
+      "title_zh": "免費網上研討會：從倦怠到平衡——臨床領導者的正念實踐（11 月 24 日）",
+      "title_en": "Free webinar: From Burnout to Balance: Mindfulness Practices for BCBAs, SLPs, and OTs in Leadership (Gracent, 24 November)",
+      "summary_zh": "Gracent（經 BehaviorLive）免費 60 分鐘網上研討會，由 Paula Kenyon 博士（BCBA-D）主講。講解倦怠三個面向、逃避行為喺厭惡工作環境入面點樣被負強化維持，以及正念作為一種可以學習嘅注意能力，並回顧最新實證，包括 2024 年 49 項隨機對照試驗嘅系統回顧。參加者會參與兩節簡短引導練習，並帶走將正念融入工作日同屋企嘅具體策略。2026 年 11 月 24 日（星期二）美中時間 8:00–9:00 舉行（香港／澳門時間同日晚上 10:00–11:00），全程線上直播，費用全免，全程英語，須預先報名。可獲 1 BACB 學分及 0.1 ASHA 學分。對象為行為分析師、言語治療師、職能治療師及臨床團隊領導者。",
+      "summary_en": "A free 60-minute live webinar from Gracent (via BehaviorLive), presented by Dr. Paula Kenyon (BCBA-D). It defines burnout and its three dimensions, offers a behavioral analysis of avoidance in aversive work environments, and presents mindfulness as a learnable repertoire, reviewing current evidence including a 2024 systematic review of 49 randomized controlled trials. Participants take part in two brief guided practices and leave with concrete strategies to embed mindfulness into the workday and at home. Held Tuesday 24 November 2026, 08:00-09:00 Central Time (22:00-23:00 Hong Kong/Macau time), fully online, free of charge, in English, with advance registration required. Offers 1 BACB general CE and 0.1 ASHA CE. Aimed at BCBAs, speech-language pathologists, occupational therapists and clinical leaders.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "職業倦怠",
+        "正念",
+        "免費培訓",
+        "Gracent"
+      ],
+      "first_seen_at": "2026-11-21T00:27:58+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "behaviorlive.com",
+      "date": "2026-11-21T00:27:58+00:00",
+      "training": {
+        "provider": "Gracent",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "1 BACB 學分；0.1 ASHA 學分",
+        "language": "英語",
+        "event_date": "2026-11-24",
+        "deadline": ""
+      },
+      "deadline_soon": true
+    },
+    {
+      "slug": "brown-ai-mental-health",
+      "title_zh": "免費網上研討會：AI 與心理健康——臨床應用與倫理考量（12 月 3 日香港時間）",
+      "title_en": "Free webinar: AI and Mental Health: Consumer Use, Clinical Use Cases, and Ethical Considerations (Brown, 2 December)",
+      "summary_zh": "Brown 大學 Warren Alpert 醫學院精神科 Grand Rounds 免費 75 分鐘網上研討會，由史丹福大學 Shannon Wiltsey-Stirman 教授主講。講解 AI 心理治療工具嘅證據現況、考慮用大型語言模型（LLM）做心理治療前要評估嘅重要因素，以及三個 LLM 支援治療實施嘅實際應用場景。2026 年 12 月 2 日（星期三）美東時間 11:00–12:15 舉行（香港／澳門時間 12 月 3 日星期四凌晨 12:00–1:15），全程 Zoom 線上直播，費用全免，全程英語，須預先報名。可獲 1.25 AMA PRA Category 1 學分。對象為醫生、心理學家、精神科醫生、醫科助理、住院醫生及研究員。",
+      "summary_en": "A free 75-minute live webinar from Brown University's Warren Alpert Medical School (Department of Psychiatry and Human Behavior Grand Rounds), presented by Professor Shannon Wiltsey-Stirman of Stanford University. It reviews the state of the evidence for AI-based training and psychotherapy tools, the factors to evaluate before using large language model (LLM) based technologies for psychotherapy, and three use cases for LLMs to support implementation. Held Wednesday 2 December 2026, 11:00-12:15 Eastern Time (00:00-01:15 Hong Kong/Macau time on 3 December), fully online via Zoom, free of charge, in English, with advance pre-registration required. Offers 1.25 AMA PRA Category 1 Credits. Aimed at physicians, psychologists, psychiatrists, physician assistants, residents and fellows.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "人工智能",
+        "心理健康",
+        "免費培訓",
+        "Brown 大學"
+      ],
+      "first_seen_at": "2026-11-21T00:27:58+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "cme-learning.brown.edu",
+      "date": "2026-11-21T00:27:58+00:00",
+      "training": {
+        "provider": "Brown University Warren Alpert Medical School",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "1.25 AMA PRA Category 1 學分",
+        "language": "英語",
+        "event_date": "2026-12-02",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "transdiagnostic-eft-teletherapy-depression-anxiety-quasi-experimental",
+      "title_zh": "準實驗研究：遙距跨診斷 EFT-T 改善大學生抑鬱焦慮，效果維持 12 個月（n=40）",
+      "title_en": "Quasi-experimental: teletherapy EFT-T shows large, lasting gains for students with depression and anxiety (N=40)",
+      "summary_zh": "Counselling and Psychotherapy Research 2026-11-18 刊出。首批遙距跨診斷情緒聚焦治療（EFT-T）研究之一：40 名經 MINI 確診有抑鬱與焦慮症狀的大學生，接受 12–16 節遙距 EFT-T，由 8 名受訓治療師執行。設計包括基線評估、治療前 4 週等候期、治療後第 20 週評估，以及 6 個月與 12 個月追蹤。各項量度均見大幅治療前後改善，效果在兩次追蹤時大致維持。研究無對照組、樣本小且只限大學生，作者認為需進一步研究才可推廣至更廣泛群體。",
+      "summary_en": "Published 18 November 2026 in Counselling and Psychotherapy Research. Among the first studies of teletherapy-delivered transdiagnostic emotion-focused therapy (EFT-T) for university students with depression and anxiety symptoms. Forty students diagnosed via the Mini-International Neuropsychiatric Interview received 12-16 sessions from eight certified EFT-T therapists. The design included a baseline assessment, a 4-week waiting period before therapy, assessment at week 20, and 6- and 12-month follow-ups. EFT-T showed large pre-post changes across all measures, with benefits largely retained at both follow-ups. The study had no control group and a small, student-only sample, so the authors call for further investigation before generalising to wider populations.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒聚焦治療",
+        "EFT",
+        "遙距治療",
+        "抑鬱",
+        "焦慮",
+        "大學生"
+      ],
+      "first_seen_at": "2026-11-20T13:24:00+00:00",
+      "evidence_level": 2,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "ifp.nyu.edu",
+      "date": "2026-11-20T13:24:00+00:00"
+    },
+    {
+      "slug": "the-great-eft-schism-johnson-greenberg-couple-satisfaction",
+      "title_zh": "EFT 大分歧：尊重而非單靠依附，最能預測伴侶滿意度（n=1,090）",
+      "title_en": "The great EFT schism: regard, not attachment alone, best predicts couple satisfaction (N=1,090)",
+      "summary_zh": "Family Process 2026-10-26 刊出。這項研究直接比較伴侶情緒聚焦治療（EFT-C）背後的兩個理論：Johnson 的依附模型（依附是首要動機系統）與 Greenberg–Goldman 多動機模型（尊重與吸引力與依附同等重要）。全國配額代表性樣本 1,090 人（545 對伴侶）中，依附單一模型解釋 47% 關係滿意度變異；加入吸引與尊重後升至 70.5%（ΔR²=0.235，Cohen's f²=0.80）。尊重是最大預測因子（佔已解釋變異 41.3%），其次為吸引（29.8%）與依附（29.0%）；只有「感受到伴侶的尊重」能獨立預測滿意度。橫斷面、非臨床設計令結果不能推論臨床機制，但與「依附首要」假設的強版本不一致。",
+      "summary_en": "Published 26 October 2026 in Family Process. This study directly compares the two theoretical accounts behind emotion-focused therapy for couples (EFT-C): Johnson's attachment-based model, in which attachment is the primary motivational system, and the Greenberg-Goldman multi-motivational model, which adds regard and attraction as co-equal systems. In a nationally quota-representative sample of 1,090 individuals in 545 couples, the attachment-only model explained 47% of variance in relationship satisfaction; adding attraction and regard raised this to 70.5% (ΔR²=0.235, Cohen's f²=0.80). Regard was the dominant predictor (41.3% of explained variance), followed by attraction (29.8%) and attachment (29.0%). Only perceived partner regard uniquely predicted satisfaction (p<0.001). The cross-sectional, non-clinical design means no conclusions about clinical mechanisms can be drawn, but the findings are inconsistent with the strong form of the attachment-primacy hypothesis.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "伴侶治療",
+        "EFT",
+        "依附",
+        "尊重",
+        "吸引力"
+      ],
+      "first_seen_at": "2026-11-20T13:24:00+00:00",
+      "evidence_level": 2,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "onlinelibrary.wiley.com",
+      "date": "2026-11-20T13:24:00+00:00"
+    },
+    {
+      "slug": "internet-delivered-dbt-substance-use-engagement",
+      "title_zh": "網上 DBT 治物質使用：情緒失調而非技巧運用，與療效相關（n=72）",
+      "title_en": "iDBT for substance use: emotion dysregulation, not skills use, tracks outcomes (N=72)",
+      "summary_zh": "PLOS Mental Health 2026-03-24 刊出。自助式網上辯證行為治療（iDBT）治療物質使用障礙的隨機試驗次級分析：72 名過去一年有物質使用障礙者，隨機分入即時或延遲接受 12 週 iDBT，在基線及第 4、8、12 週評估。個人內情緒失調上升，與物質使用嚴重程度及功能缺損上升相關；DBT 技巧運用與正念的關聯經多重比較校正後不顯著（正念在個人間層面呈中小效果量）；各項投入度指標均無顯著調節作用。一位作者收取相關機構諮詢費，並為研究所用 Pocket Skills 應用程式的開發者之一。",
+      "summary_en": "Published 24 March 2026 in PLOS Mental Health. A secondary analysis of a randomised trial of self-guided internet-delivered dialectical behavior therapy (iDBT) for substance use disorders. Seventy-two participants with past-year substance use disorders were randomised to immediate or delayed iDBT across a 12-week programme, assessed at baseline and weeks 4, 8 and 12. Within-person increases in emotion dysregulation were associated with higher substance use severity and functional disability, over and above between-person effects. DBT skills use and mindfulness were not significantly associated with outcomes after correction for multiple tests, though mindfulness showed a small-medium effect at the between-person level. No engagement index (acceptability, usability, hours/days spent) significantly moderated outcomes. One author receives consultation fees from Mindstrong Health, Click Therapeutics and Behavioral Tech Research and is a developer of Pocket Skills, the app used in the research.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "物質使用",
+        "網上治療",
+        "情緒調節",
+        "投入度"
+      ],
+      "first_seen_at": "2026-11-20T13:24:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "journals.plos.org",
+      "date": "2026-11-20T13:24:00+00:00"
+    },
+    {
+      "slug": "emotion-focused-therapy-distress-psychopathology-meta-analysis",
+      "title_zh": "統合分析：EFT 對成人困擾型精神病理有中等療效，但不比其他心理治療優勝",
+      "title_en": "Meta-analysis: EFT modestly effective for distress-based psychopathology in adults, no edge over other psychotherapies",
+      "summary_zh": "Psychotherapy Research 2026-04-19 線上刊出。情緒聚焦治療（EFT）對成人困擾型精神病理（抑鬱、廣泛焦慮、PTSD、邊緣人格症狀）的系統性回顧與統合分析，納入 13 篇臨床試驗（EFT 組 n=348，對照組 n=201）。EFT 明顯優於非積極對照組（g=1.39，95% CI 1.06–1.72），但與其他心理治療比較無顯著差異（g=0.28，95% CI −0.19–0.76）。作者指出研究質素普遍較差、樣本小、隨機化不足、脫落未處理，並有出版偏倚跡象，樣本以女性及白人／伊朗人為主；結論是 EFT 似乎有中等療效，呼籲以更嚴謹、多元的設計再驗證。",
+      "summary_en": "Published online 19 April 2026 in Psychotherapy Research. A systematic review and meta-analysis of clinical trials of emotion-focused therapy (EFT) for distress-based psychopathology in adults, including depression, generalised anxiety, PTSD and borderline personality symptomology. Thirteen articles met inclusion criteria (n=348 receiving EFT; n=201 controls). EFT significantly outperformed inactive controls (g=1.39, 95% CI 1.06-1.72) but not other psychotherapies (g=0.28, 95% CI -0.19 to 0.76). The authors note publication bias, a strong focus on women and White/Iranian populations, and largely poor study quality with small samples, inadequate randomisation and unaccounted dropouts, concluding EFT appears modestly effective and calling for more rigorous, diverse trials.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "情緒聚焦治療",
+        "EFT",
+        "統合分析",
+        "抑鬱",
+        "焦慮",
+        "PTSD"
+      ],
+      "first_seen_at": "2026-11-20T13:24:00+00:00",
+      "evidence_level": 4,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "pubmed.ncbi.nlm.nih.gov",
+      "date": "2026-11-20T13:24:00+00:00"
+    },
+    {
+      "slug": "dbt-stepps-adolescent-nssi-rct",
+      "title_zh": "RCT：DBT 結合 STEPPS，比單用 DBT 更有效減少青少年非自殺自傷（n=192）",
+      "title_en": "RCT: DBT plus STEPPS beats DBT alone in reducing adolescent non-suicidal self-injury (N=192)",
+      "summary_zh": "Frontiers in Public Health 2026-06-05 刊出。單盲隨機對照試驗，192 名 12–18 歲抑鬱兼非自殺自傷青少年，隨機分三組：常規綜合介入、常規加辯證行為治療（DBT）、常規加 DBT 結合情緒可預測性與問題解決系統訓練（STEPPS），介入為期 8 週。DBT＋STEPPS 組的自傷行為分數低於 DBT 組與對照組，DBT 組亦低於對照組（p<0.05）；合併組的適應性情緒調節策略最高、非適應性策略最低，焦慮與抑鬱分數亦最低。試驗已註冊（ChiCTR2100043855）並獲倫理批准；中重度自殺風險者已排除，結果評估只到介入後 48 小時內，長期效果未明。",
+      "summary_en": "Published 5 June 2026 in Frontiers in Public Health. A single-blind randomised controlled trial of 192 adolescents aged 12-18 with depression and non-suicidal self-injury (NSSI), randomised 1:1:1 to conventional comprehensive intervention, conventional plus dialectical behavior therapy (DBT), or conventional plus DBT combined with Systems Training for Emotional Predictability and Problem Solving (STEPPS), each for 8 weeks. The DBT+STEPPS group had lower NSSI behaviour scores than both the DBT-only group and the control group, while the DBT group scored lower than controls (p<0.05). The combined group also showed the highest adaptive emotion-regulation strategy scores, the lowest maladaptive strategy scores, and the lowest anxiety and depression scores (p<0.05). The trial was registered (ChiCTR2100043855) and ethics-approved; adolescents at moderate to high suicide risk were excluded, and outcomes were assessed within 48 hours after the intervention, so long-term effects are unknown.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "STEPPS",
+        "非自殺自傷",
+        "青少年",
+        "抑鬱",
+        "情緒調節"
+      ],
+      "first_seen_at": "2026-11-20T13:24:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": true,
+      "source_domain": "www.frontiersin.org",
+      "date": "2026-11-20T13:24:00+00:00"
+    },
+    {
+      "slug": "seasons-menopause-mental-health-webinar",
+      "title_zh": "免費網上研討會：更年期與心理健康——臨床常忽略的一課（12 月 4 日）",
+      "title_en": "Free webinar: Menopause & Mental Health: What Clinicians Are Missing (Seasons Clinical Institute, 4 December)",
+      "summary_zh": "Seasons Clinical Institute 免費 60 分鐘網上研討會，由 Dr. Kimberly Dolan 主講。介紹更年期與圍絕經期對心理健康的影響：焦慮、抑鬱、失眠、認知抱怨與性功能變化；講解荷爾蒙波動、睡眠問題與心理社會因素如何影響精神健康，以及更年期知情評估問題。2026 年 12 月 4 日（星期五）美中時間 9:00–10:00 舉行（香港／澳門時間同日 23:00–24:00），全程線上直播，費用全免，不設 CE 學分，全程英語。對象為輔導員、臨床社工、婚姻家庭治療師、心理學家及相關研究生。",
+      "summary_en": "A free 60-minute live webinar from Seasons Clinical Institute, presented by Dr. Kimberly Dolan. It introduces the impact of menopause and perimenopause on mental health: anxiety, depression, sleep disturbance, cognitive complaints and changes in sexual functioning; how hormonal fluctuations, sleep problems and psychosocial factors shape mental health; and menopause-informed assessment questions for intake and ongoing treatment. Held Friday 4 December 2026, 09:00-10:00 Central Time (23:00-24:00 Hong Kong/Macau time), fully online, free of charge, no CE credit, in English. Aimed at counselors, clinical social workers, marriage and family therapists, psychologists and graduate-level professionals.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "更年期",
+        "女性心理健康",
+        "免費培訓",
+        "Seasons Clinical Institute"
+      ],
+      "first_seen_at": "2026-11-20T00:40:00+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.seasonsclinicalinstitute.com",
+      "date": "2026-11-20T00:40:00+00:00",
+      "training": {
+        "provider": "Seasons Clinical Institute",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英語",
+        "event_date": "2026-12-04",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
+    {
+      "slug": "infant-facial-expressions-emotion-prototypes",
+      "title_zh": "嬰兒眼中嘅表情唔係實驗室嗰套：誇張表情日常好少見（Communications Psychology 2026）",
+      "title_en": "Infants' facial input rarely includes hypothesized expressive emotion prototypes (Hoemann et al., Communications Psychology 2026)",
+      "summary_zh": "Communications Psychology 2026 年刊出（DOI: 10.1038/s44271-026-00539-z；2026 年 9 月 24 日刊出，11 月 17 日新聞報導）。堪薩斯大學團隊分析 6–17 個月大嬰兒嘅縱向家居錄影（SEEDLingS 數據），每月一小時。結果：嬰兒多數見到半邊臉，唔係成塊臉；就算只計見到成塊臉嘅時間，最常見嘅快樂原型表情都只佔 12%；實驗室用開嘅誇張表情（大笑、怒目、誇張皺眉）日常極少出現，而且出現嗰陣處境往往出乎意料，未必代表預設嘅情緒意思。作者指出，嬰兒學情緒唔係靠一對一認表情，而係靠成個處境同學習過程。",
+      "summary_en": "Published in Communications Psychology in 2026 (DOI: 10.1038/s44271-026-00539-z; published 24 September 2026, press coverage 17 November 2026). A University of Kansas team analysed a longitudinal corpus of home video recordings of infants aged 6 to 17 months (SEEDLingS data), one hour per month. Infants were mostly exposed to partial faces rather than full faces; even within full-face time, the most common happiness prototype accounted for only 12%. The exaggerated expressions used in laboratory research (big toothy smiles, scowls, exaggerated frowns) were extremely rare in everyday life, and when they did occur they often appeared in unexpected contexts, not necessarily carrying the presumed emotional meaning. The authors argue infants learn emotion from the whole context, not from one-to-one mappings between facial configurations and emotion categories.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "嬰兒發展",
+        "情緒發展",
+        "面部表情",
+        "基本情緒理論"
+      ],
+      "first_seen_at": "2026-11-20T00:40:00+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.nature.com",
+      "date": "2026-11-20T00:40:00+00:00"
+    },
+    {
+      "slug": "solution-focused-brief-group-therapy-adolescent-depression-rct",
+      "title_zh": "RCT：焦點解決小組治療輔助常規治療，減輕抑鬱青少年人際困擾（n=74，單中心）",
+      "title_en": "RCT: solution-focused brief group therapy as adjunct reduces interpersonal distress in adolescents with depression (N=74)",
+      "summary_zh": "Current Psychology 2026-11-03 刊出。中國鄭州一間精神科醫院門診的隨機單盲對照試驗，74 名 12–18 歲抑鬱症青少年（HAMD-24 ≥20 分），隨機分入常規治療組（n=36）或常規治療加八週焦點解決小組治療組（SFGT，n=38，每週一節 120 分鐘）。66 人完成三次評估。8 週與 12 週時，SFGT 組自評人際困擾（ICDS）明顯低於對照組：實驗組由基線 18.00 降至 8 週 6.59、12 週 4.78；臨床整體改善評級亦較佳。但兩組在醫生評定的焦慮與抑鬱症狀改善幅度相若，SFGT 的優勢只限於人際困擾與整體改善，追蹤僅至治療後 4 週。",
+      "summary_en": "Published 3 November 2026 in Current Psychology. A randomised, single-blind controlled trial at an outpatient psychiatric clinic in Zhengzhou, China, with 74 adolescents aged 12-18 with depressive disorder (HAMD-24 >=20), randomised to treatment as usual (TAU, n=36) or TAU plus eight weeks of solution-focused brief group therapy (SFGT, n=38, one 120-minute session per week). Sixty-six participants completed all three assessments. At 8 and 12 weeks the SFGT group reported significantly less interpersonal distress (ICDS): from 18.00 at baseline to 6.59 at 8 weeks and 4.78 at 12 weeks, with better clinician-rated global improvement. However, clinician-rated anxiety and depressive symptoms improved similarly in both groups, so the advantage of SFGT was limited to interpersonal distress and global improvement, with follow-up only 4 weeks after treatment.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "青少年抑鬱",
+        "焦點解決治療",
+        "小組治療",
+        "人際關係",
+        "RCT"
+      ],
+      "first_seen_at": "2026-11-19T13:24:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "link.springer.com",
+      "date": "2026-11-19T13:24:00+00:00"
+    },
+    {
+      "slug": "emotion-regulation-family-based-treatment-adolescent-obesity-rct",
+      "title_zh": "RCT：家庭行為治療加情緒調節技巧，青少年減重後較少反彈（n=166）",
+      "title_en": "RCT: adding emotion-regulation skills to family-based treatment curbs weight regain in adolescents (N=166)",
+      "summary_zh": "JAMA Network Open 2026-10-22 刊出。美國兩間大學診所的平行組隨機對照試驗，166 對 13–16 歲超重或肥胖青少年與家長（平均年齡 14.3 歲，57% 女性），隨機分入六個月家庭行為治療（FBT，n=82）或 FBT 加情緒調節技巧（FBT+ER，n=84，加入辯證行為治療與情緒取向治療技巧）。治療期間兩組減重相若（BMI z 分數差 0.03，95% CI −0.05 至 0.10）；但治療結束後 12 個月，FBT+ER 組反彈較少（BMI z 分數差 −0.09，95% CI −0.17 至 −0.02），達臨床顯著減重（BMI z 分數降 ≥0.20）者佔 22%，對比 FBT 組 4%；情緒性進食亦較少（EES 分數差 −0.39，95% CI −0.63 至 −0.15）。",
+      "summary_en": "Published 22 October 2026 in JAMA Network Open. A parallel-group randomised clinical trial at two US university clinics with 166 parent-adolescent dyads (adolescents aged 13-16 with overweight or obesity; mean age 14.3 years, 57% female), randomised to six months of family-based behavioural treatment (FBT, n=82) or FBT plus emotion-regulation skills (FBT+ER, n=84, adding dialectical behaviour therapy and emotion-focused therapy skills). Weight loss during treatment was similar in both groups (difference in BMI z-score 0.03, 95% CI -0.05 to 0.10), but at 12 months after treatment the FBT+ER group had regained less weight (difference in BMI z-score -0.09, 95% CI -0.17 to -0.02); 22% had clinically significant weight loss (BMI z-score reduction >=0.20) versus 4% with FBT alone, and emotional eating was lower (EES score difference -0.39, 95% CI -0.63 to -0.15).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "青少年肥胖",
+        "情緒調節",
+        "家庭治療",
+        "辯證行為治療",
+        "情緒取向治療",
+        "RCT"
+      ],
+      "first_seen_at": "2026-11-19T13:24:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "jamanetwork.com",
+      "date": "2026-11-19T13:24:00+00:00"
+    },
+    {
+      "slug": "adhd-accommodations-behavior-therapy-stimulant-medication-rct",
+      "title_zh": "RCT：ADHD 課堂調適（加時、休息、企枱、靜角）無效，藥物與行為治療才有效（n=255）",
+      "title_en": "RCT: classroom accommodations do not help children with ADHD; stimulant medication and behavior therapy do (N=255)",
+      "summary_zh": "JAMA Pediatrics 2026-11-13 線上刊出。美國兩地暑期治療課程的交叉隨機對照試驗，280 名幼稚園至六年級 ADHD 兒童入組，255 名開始介入，235 名完成。每日隨機更換四種課堂調適（延長做功課時間、頻密小休、企枱、低干擾工作間），另每週交替安慰劑與哌甲酯（0.3 mg/kg），每兩週交替一般課室與強化行為課室。結果：四種調適單獨或配合其他治療均無顯著改善；哌甲酯令獨立做功課的正確完成量升 22%（率比 1.22，95% CI 1.19–1.25），測驗分數升 3.9 分（95% CI 3.10–4.70），課堂違規減少 61%（率比 0.39，95% CI 0.37–0.42）；行為治療令課堂違規減少 37%（率比 0.63，95% CI 0.60–0.67）。",
+      "summary_en": "Published online 13 November 2026 in JAMA Pediatrics. A crossover randomised clinical trial in summer treatment programme classrooms at two US sites: 280 children with ADHD in kindergarten through sixth grade were enrolled, 255 started the intervention and 235 completed it. Four classroom accommodations (extended time, frequent breaks, standing desk, low-distraction workspace) were randomised daily, placebo and methylphenidate (0.3 mg/kg) alternated weekly, and general versus enhanced-behaviour classrooms alternated every two weeks. None of the accommodations significantly improved behaviour or academic outcomes, alone or combined with other treatments; methylphenidate raised seatwork productivity by 22% (rate ratio 1.22, 95% CI 1.19-1.25), quiz scores by 3.9 points (95% CI 3.10-4.70) and cut classroom rule violations by 61% (rate ratio 0.39, 95% CI 0.37-0.42), while behaviour therapy cut rule violations by 37% (rate ratio 0.63, 95% CI 0.60-0.67).",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "ADHD",
+        "課堂調適",
+        "行為治療",
+        "哌甲酯",
+        "SEN",
+        "RCT"
+      ],
+      "first_seen_at": "2026-11-19T13:24:00+00:00",
+      "evidence_level": 3,
+      "population": [
+        "兒童青少年",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "jamanetwork.com",
+      "date": "2026-11-19T13:24:00+00:00",
+      "poster": {
+        "src": "posters/adhd-accommodations-behavior-therapy-stimulant-medication-rct.svg",
+        "alt": "ADHD 課堂調適隨機試驗研究圖：貓學童在課室做功課，水獺老師在旁，調適無效、藥物與行為治療有效",
+        "style": "playmobil",
+        "made": "2026-11-20"
+      }
+    },
+    {
+      "slug": "psych-hive-managing-admin-without-burnout-webinar",
+      "title_zh": "免費網上研討會：寫進度筆記寫到攰？The Psych Hive 教你用低負荷系統處理行政工作（12 月 1 日）",
+      "title_en": "Free psychologist webinar: Managing Admin Without The Burnout (The Psych Hive, 1 December)",
+      "summary_zh": "The Psych Hive（澳洲）免費網上研討會，由 Dr Jade Goodman 及 Brianna Thomas 主講。內容教授實用、低負荷的文件與行政系統，精簡進度筆記等文書工作，保護臨床工作者的認知資源，減少行政工作造成的倦怠。2026 年 12 月 1 日（星期二）澳洲東部時間 19:00–20:00 舉行（香港／澳門時間同日 16:00–17:00），45 分鐘內容加 15 分鐘問答。費用全免（A$0.00），經主辦方商店頁加入購物車登記，另有錄影重溫。對象為心理學家。",
+      "summary_en": "A free online webinar from The Psych Hive (Australia) with Dr Jade Goodman and Brianna Thomas. It teaches practical, low-demand systems for documentation and admin, streamlining progress notes and protecting clinicians' cognitive battery against admin-driven burnout. Held Tuesday 1 December 2026, 19:00-20:00 AEDT (16:00-17:00 Hong Kong/Macau time), with 45 minutes of content and 15 minutes of questions. Free of charge (A$0.00); registration is via the provider's shop page (add to cart), and a recording replay is available. Aimed at psychologists.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "行政管理",
+        "進度筆記",
+        "專業倦怠",
+        "免費培訓",
+        "The Psych Hive"
+      ],
+      "first_seen_at": "2026-11-19T01:14:44+00:00",
+      "evidence_level": 0,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "thepsychhive.com",
+      "date": "2026-11-19T01:14:44+00:00",
+      "training": {
+        "provider": "The Psych Hive",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英語",
+        "event_date": "2026-12-01",
+        "deadline": ""
+      },
+      "deadline_soon": true
+    },
+    {
+      "slug": "ownership-placebo-cream-pain-tolerance-rct",
+      "title_zh": "RCT：擁有感提升忍痛能力——安慰劑止痛膏從未使用都有效（嶺南大學，n=187）",
+      "title_en": "RCT: feeling ownership of a placebo analgesic cream raises pain tolerance, without ever using it (Lingnan University, N=187)",
+      "summary_zh": "The Journal of Pain 2026 年刊出（DOI: 10.1016/j.jpain.2026.106406；線上先行發表）。嶺南大學心理學系兩項預先註冊的隨機對照實驗，共 187 名無慢性痛的健康成人，以冷水按壓測試量度痛楚反應。研究一（N=121）：獲分配印有自己姓名的安慰劑止痛膏、簽署確認擁有權並寫下其重要性的參加者，平均 8.03 秒才首次感到痛（其他組別 3.92–5.14 秒），忍痛約 105 秒（其他組別 53–66 秒）；全程無人使用該膏，膏本身不含止痛成分。研究二（N=66）：毋須刻意思考重要性，擁有組忍痛平均 85.3 秒，對比無擁有組 53.8 秒，長近六成；擁有組對該膏的內隱自我聯結較強，並預測較佳的止痛反應。",
+      "summary_en": "Published in The Journal of Pain in 2026 (DOI: 10.1016/j.jpain.2026.106406; online ahead of print). Two pre-registered randomized controlled experiments by the Department of Psychology, Lingnan University, with 187 healthy adults without chronic pain, using the cold pressor test. In Study 1 (N=121), participants given a placebo analgesic cream labeled with their own name, who signed to confirm ownership and wrote about its importance, first felt pain at 8.03 seconds on average (other groups: 3.92-5.14 s) and tolerated pain for about 105 seconds (other groups: 53-66 s); nobody ever applied the cream, which contained no active ingredient. In Study 2 (N=66), ownership alone sufficed without conscious reflection: the ownership group tolerated pain for 85.3 seconds versus 53.8 seconds, nearly 60% longer, and stronger implicit self-association with the cream predicted enhanced analgesic responses.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "安慰劑效應",
+        "痛楚心理學",
+        "擁有感",
+        "RCT",
+        "嶺南大學"
+      ],
+      "first_seen_at": "2026-11-19T01:14:44+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人",
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "pubmed.ncbi.nlm.nih.gov",
+      "date": "2026-11-19T01:14:44+00:00"
+    },
+    {
       "slug": "sawa-aqwa-family-intervention-adolescent-mental-health",
       "title_zh": "RCT：黎巴嫩六節全家系統介入改善家庭功能與照顧者心理健康，但青少年心理困擾無變化",
       "title_en": "'Sawa Aqwa' RCT: brief family systemic intervention improves family functioning and caregiver mental health in Lebanon, but not adolescent distress",
@@ -142,6 +2100,7 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
+      "source_domain": "pureadmin.qub.ac.uk",
       "date": "2026-11-18T13:39:58+00:00"
     },
     {
@@ -173,6 +2132,7 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
+      "source_domain": "www.jaacap.org",
       "date": "2026-11-18T13:39:58+00:00"
     },
     {
@@ -204,6 +2164,7 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
+      "source_domain": "www.frontiersin.org",
       "date": "2026-11-18T13:39:58+00:00"
     },
     {
@@ -235,6 +2196,7 @@
       "mention_count": 1,
       "tier": "live",
       "has_ethics_flags": false,
+      "source_domain": "jamanetwork.com",
       "date": "2026-11-18T13:39:58+00:00"
     },
     {
@@ -634,7 +2596,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "ed4nurses.com",
       "date": "2026-11-18T01:00:00+00:00",
@@ -648,7 +2610,7 @@
         "event_date": "2026-11-23",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "reduced-social-media-use-internalizing-symptoms-young-adults",
@@ -783,7 +2745,7 @@
         "event_date": "2026-11-28",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": true
     },
     {
       "slug": "covid-19-caregiver-loss-children-mental-health-evidence-gap",
@@ -844,7 +2806,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "relationallife.com",
       "date": "2026-11-17T23:27:04+00:00",
@@ -858,7 +2820,7 @@
         "event_date": "2026-11-19",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "comparative-efficacy-and-acceptability-of-antidepressants-in",
@@ -1154,7 +3116,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "emdrtherapy.com",
       "date": "2026-11-17T01:43:46+00:00",
@@ -1168,7 +3130,7 @@
         "event_date": "2026-11-18",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "change-in-severity-and-impact-of-child-psychiatric-disorders",
@@ -1427,7 +3389,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "www.adhd-federation.org",
       "date": "2026-11-15T13:35:18+00:00",
@@ -1439,47 +3401,6 @@
         "ce_credits": "",
         "language": "英語",
         "event_date": "2026-11-18",
-        "deadline": ""
-      },
-      "deadline_soon": true
-    },
-    {
-      "slug": "harborview-telebehavioral-health-webinar-professional-bounda",
-      "title_zh": "免費網上培訓：從文字到接觸——現代醫療的專業界線管理（12 月 18 日，Jennifer Piel）",
-      "title_en": "Harborview TeleBehavioral Health webinar professional boundaries modern healthcare December 2026",
-      "summary_zh": "華盛頓大學 Harborview 行為健康研究所免費每月 TeleBehavioral Health 網上講座系列，2026 年 12 月 18 日星期五 11:00–12:00（太平洋時間，約香港時間 12 月 19 日 03:00–04:00），由 Jennifer Piel（醫學博士、法學博士）主講「從文字到接觸：現代醫療的專業界線管理」。系列開放予所有為精神健康與物質使用人士提供服務者，以 Zoom 舉行，每場須個別登記。費用全免。",
-      "summary_en": "The University of Washington's Harborview Behavioral Health Institute runs a free monthly TeleBehavioral Health webinar series; the next session is Friday 18 December 2026, 11:00 a.m.-12:00 p.m. Pacific time (about 3:00-4:00 a.m. Hong Kong time on 19 December), with Jennifer Piel, MD, JD, presenting 'From Text to Touch: Managing Professional Boundaries in Modern Healthcare'. The series is open to anyone providing services to people living with mental health and substance use issues, is held on Zoom, and each session needs separate registration. Attendance is free.",
-      "category": "進修培訓",
-      "kind": "training",
-      "model_names": [],
-      "tags": [
-        "專業界線",
-        "遙距醫療",
-        "免費培訓",
-        "網上講座"
-      ],
-      "first_seen_at": "2026-11-15T13:35:18+00:00",
-      "evidence_level": 0,
-      "population": [
-        "臨床工作者"
-      ],
-      "hero_media": null,
-      "verify_needed": false,
-      "hot_score": 0.0,
-      "featured_at": null,
-      "mention_count": 1,
-      "tier": "live",
-      "has_ethics_flags": false,
-      "source_domain": "bhinstitute.uw.edu",
-      "date": "2026-11-15T13:35:18+00:00",
-      "training": {
-        "provider": "Harborview Behavioral Health Institute（華盛頓大學）",
-        "format": "線上直播",
-        "price": "免費",
-        "price_tier": "免費",
-        "ce_credits": "",
-        "language": "英語",
-        "event_date": "2026-12-18",
         "deadline": ""
       },
       "deadline_soon": false
@@ -1739,7 +3660,7 @@
         "event_date": "2026-11-30",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": true
     },
     {
       "slug": "youth-caregiver-discordance-psychiatric-diagnosis-clinical-p",
@@ -1906,7 +3827,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "phoenixtraumacenter.com",
       "date": "2026-11-12T13:37:10+00:00",
@@ -1920,7 +3841,7 @@
         "event_date": "2026-11-18",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "fonagy-review-what-should-come-next-for-children-mental-heal",
@@ -2056,7 +3977,13 @@
         "event_date": "2026-11-24",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": true,
+      "poster": {
+        "src": "posters/perinatal-mental-health-pn1-online-open-event-24-november-20.svg",
+        "alt": "Tavistock PN1 圍產期心理健康開放日免費培訓海報：水獺導師攞筆記簿，貓學員舉手發問，11月24日晚上 7:30 香港時間線上舉行",
+        "style": "playmobil",
+        "made": "2026-11-20"
+      }
     },
     {
       "slug": "when-speaking-up-takes-courage-mind-hk-free-webinar-20-novem",
@@ -2083,7 +4010,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": true,
       "source_domain": "www.mind.org.hk",
       "date": "2026-11-13T01:16:48+00:00",
@@ -2097,7 +4024,7 @@
         "event_date": "2026-11-20",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "blended-digital-parenting-intervention-tanzania-parentapp-tr",
@@ -2222,7 +4149,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "katewalkertraining.lpages.co",
       "date": "2026-11-11T13:33:22+00:00",
@@ -2236,7 +4163,7 @@
         "event_date": "2026-11-19",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "ssris-pediatric-ocd-individual-participant-data-meta-analysi",
@@ -2914,7 +4841,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "bhinstitute.uw.edu",
       "date": "2026-11-09T13:41:55+00:00",
@@ -2928,7 +4855,7 @@
         "event_date": "2026-11-20",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "psilocybin-assisted-therapy-for-treatment-resistant-depressi",
@@ -3021,7 +4948,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "medicine.yale.edu",
       "date": "2026-11-08T13:26:00+00:00",
@@ -3035,7 +4962,7 @@
         "event_date": "2026-11-18",
         "deadline": ""
       },
-      "deadline_soon": true,
+      "deadline_soon": false,
       "poster": {
         "src": "posters/yale-free-webinar-recognizing-grief-in-children-november-18.svg",
         "alt": "免費網上講座：識別兒童哀傷，耶魯兒童研究中心（11/18）",
@@ -3083,7 +5010,13 @@
         "event_date": "2026-11-26",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": true,
+      "poster": {
+        "src": "posters/ieee-webinar-designing-computational-tools-behavioral-clinic.svg",
+        "alt": "設計行為與臨床科學計算工具免費講座海報：貓用電腦、水獺指住熒幕，講 AI 分析情緒同社交訊號",
+        "style": "playmobil",
+        "made": "2026-11-24"
+      }
     },
     {
       "slug": "relax-perinatal-digital-intervention-prevents-increasing-anx",
@@ -3397,7 +5330,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "adaa.org",
       "date": "2026-11-06T13:27:53+00:00",
@@ -3411,7 +5344,7 @@
         "event_date": "2026-11-18",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "ncnu-autumn-forum-neurodiversity-normalisation-reflection-co",
@@ -3625,7 +5558,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "events.humanitix.com",
       "date": "2026-11-05T13:45:00+00:00",
@@ -3639,7 +5572,7 @@
         "event_date": "2026-11-22",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "bilingualism-delays-dementia-symptom-onset-meta-analysis",
@@ -4006,7 +5939,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "drexel.edu",
       "date": "2026-11-03T09:30:00+00:00",
@@ -4020,7 +5953,7 @@
         "event_date": "2026-11-20",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "apt-free-webinar-emotional-dysregulation-11-november-2026",
@@ -4287,7 +6220,7 @@
         "event_date": "2026-12-01",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": true
     },
     {
       "slug": "ncue-neuropsychodynamic-art-therapy-group-supervision-worksh",

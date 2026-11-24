@@ -1,0 +1,62 @@
+{
+  "title_zh": "體感虛擬實境訓練改善思覺失調患者的認知：隨機對照試驗",
+  "title_en": "Virtual Reality for Cognitive Enhancement in Schizophrenia: A Randomized Controlled Trial",
+  "summary_zh": "土耳其單中心評估者盲法隨機對照試驗：124 名思覺失調門診患者隨機分組，在常規職能治療之外加做體感虛擬實境訓練，六個認知範疇的改善全部優於只做常規治療的一組。",
+  "summary_en": "A single-centre, assessor-blinded randomized controlled trial in Türkiye: 124 outpatients with schizophrenia were randomized to conventional occupational therapy alone or with added motion-controlled virtual reality training; all six cognitive domains improved more in the VR group.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "評估者盲法單中心隨機對照試驗，124 人隨機分組，95 人完成分析；VR 組治療時間較多，23.4% 未納入分析，試驗事後註冊。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "VR 組多了治療時間，未能分開 VR 本身的效果；23.4% 隨機分組者未納入分析；單中心、短期認知測驗結果，未量度日常功能；試驗事後註冊（ClinicalTrials.gov NCT07111689）。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "124 名思覺失調門診患者隨機分組（每組 62 人），114 人完成八週課程，95 人有完整前後評估數據",
+    "兩組每週三次各 45 分鐘個別常規職能治療；VR 組每次另加 45 分鐘體感 VR 訓練（Xbox 360 Kinect，非頭戴式）",
+    "六個 LOTCA-II 認知範疇經基線校正後全部優於對照組；組間差異由視覺感知 1.87 分至思考運作 5.37 分",
+    "作者提醒：VR 組治療時間較多、部分評估數據不完整，需以時間配對試驗及功能結果再驗證"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "思覺失調",
+    "認知復健",
+    "虛擬實境",
+    "職能治療",
+    "隨機對照試驗"
+  ],
+  "population": [
+    "成人",
+    "思覺失調患者"
+  ],
+  "supervision_questions": [
+    "認知測驗分數進步，怎樣才算轉化為病人日常功能的改善？下次覆診你會問病人什麼來驗證？",
+    "如果機構想引入類似 VR 訓練，時間成本與人手如何計算，才不會令治療變成「加時等於有效」？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.mdpi.com/2076-328X/16/12/2221",
+      "author_handle": "",
+      "author_name": "Behavioral Sciences (MDPI)",
+      "title": "Virtual Reality for Cognitive Enhancement in Schizophrenia: A Randomized Controlled Trial",
+      "content": "期刊全文：體感 VR 訓練加常規職能治療對思覺失調患者認知的隨機對照試驗，含設計、樣本與主要結果。",
+      "posted_at": "2026-11-23T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T13:31:18+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "vr-cognitive-enhancement-schizophrenia-rct",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "All six adjusted domain comparisons"
+}
