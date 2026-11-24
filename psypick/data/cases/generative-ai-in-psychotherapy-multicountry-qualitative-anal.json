@@ -1,0 +1,68 @@
+{
+  "title_zh": "生成式人工智能在心理治療中的角色：多國心理健康專業人員質性分析",
+  "title_en": "Generative AI in psychotherapy: multicountry qualitative analysis",
+  "summary_zh": "766 名來自 30 國的心理健康專業人員中，354 人留下開放式回應，歸納出四大主題：治療關係不可取代、文書與心理教育等有條件用途、對保密與依賴等傷害的憂慮、培訓與規管嚴重滯後。臨床人員接受 AI 協助文書，但拒絕直接治療工作。",
+  "summary_en": "A multicountry qualitative analysis of open-text responses from 766 mental health professionals in 30 countries found four themes: the therapeutic relationship cannot be replaced, conditional uses such as documentation and psychoeducation, worries about harms including confidentiality and dependence, and serious lags in training and regulation. Clinicians accepted AI for paperwork but rejected it for direct therapeutic work.",
+  "category": "AI 與倫理",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "多國橫斷面調查的質性主題分析（30 國，n=766）",
+  "ethics_flags": [
+    {
+      "flag": "保密與依賴",
+      "note": "臨床人員憂慮 AI 介入帶來保密外洩與病人依賴；文書用途亦須先處理資料去向與知情同意。",
+      "refs": [
+        "倫理與風險｜保密與資料安全"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "質性主題反映專業人員觀點，不是療效證據；對 AI 的接受度因地區與執業環境而異。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "30 國 766 名心理健康專業人員，354 人留開放式回應",
+    "四大主題：治療關係不可取代、有條件用途、傷害憂慮、培訓規管滯後",
+    "接受 AI 協助文書，拒絕 AI 直接做治療"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "生成式AI",
+    "心理治療",
+    "治療關係",
+    "專業人員觀點",
+    "倫理",
+    "質性研究"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "當個案主動提起用 AI 傾訴，你會先問哪三個問題來了解依賴程度？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045144/",
+      "author_handle": "",
+      "author_name": "BMJ Mental Health",
+      "title": "Generative artificial intelligence in psychotherapy: a multicountry qualitative analysis of mental health professionals' open-text survey responses",
+      "content": "研究分析 766 名來自 30 國心理健康專業人員的開放式問卷回應，了解他們對生成式 AI 在心理治療中角色的看法。",
+      "posted_at": "2026-11-17T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "generative-ai-in-psychotherapy-multicountry-qualitative-anal",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "AI cannot replicate the relational"
+}

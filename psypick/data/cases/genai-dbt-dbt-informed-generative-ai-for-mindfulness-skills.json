@@ -1,0 +1,67 @@
+{
+  "title_zh": "GenAI-DBT：以 DBT 為本的生成式 AI 正念技能訓練平台先導隨機研究",
+  "title_en": "GenAI-DBT: DBT-informed generative AI for mindfulness skills training",
+  "summary_zh": "45 名大學生隨機分派至 GenAI-DBT、通用大型語言模型聊天機械人或靜態網頁，進行 30 天 DBT 正念技能訓練。GenAI-DBT 組每週依從率最高（71.4%，對照組 53.3% 及 42.3%），語言正向度改善亦較大，但正念與情緒調節量表組間無顯著差異。作者強調屬可行性研究，臨床療效尚未確立。",
+  "summary_en": "In a pilot randomised study (n=45 undergraduates), a DBT-informed generative AI platform for 30 days of mindfulness skills training achieved the highest weekly adherence (71.4% vs 53.3% and 42.3% for a general LLM chatbot and a static webpage) and greater improvement in positive language, but no significant between-group differences on mindfulness or emotion regulation scales. The authors stress this is a feasibility study; clinical efficacy is not established.",
+  "category": "臨床實務",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "arXiv 預印本（未經同儕評審）：小型先導隨機研究（n=45）",
+  "ethics_flags": [
+    {
+      "flag": "AI 與治療關係",
+      "note": "DBT 技能練習交由 AI 帶領時，治療關係與危機偵測的責任歸屬必須先說清楚。",
+      "refs": [
+        "人機互動心理｜AI 與治療關係"
+      ]
+    }
+  ],
+  "psych_concepts": [],
+  "caution": "先導研究樣本小、對象為大學生；依從率改善不等於臨床療效，結果未必適用於臨床群體。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "45 名大學生，30 天 DBT 正念技能訓練",
+    "GenAI-DBT 組每週依從率最高（71.4%）",
+    "正念與情緒調節量表組間無顯著差異"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "DBT",
+    "正念",
+    "生成式AI",
+    "聊天機械人",
+    "先導研究"
+  ],
+  "population": [
+    "大專生"
+  ],
+  "supervision_questions": [
+    "AI 帶領技能練習時，甚麼訊號提示你需要由真人接手？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://arxiv.org/abs/2611.25428v1",
+      "author_handle": "",
+      "author_name": "arXiv",
+      "title": "GenAI-DBT: Evaluating a DBT-Informed Generative AI Platform for Mindfulness Skills Training",
+      "content": "先導隨機研究比較 DBT 為本的生成式 AI 平台、通用大型語言模型聊天機械人與靜態網頁，進行 30 天 DBT 正念技能訓練的成效。",
+      "posted_at": "2026-11-19T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "genai-dbt-dbt-informed-generative-ai-for-mindfulness-skills",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "feasibility and acceptability"
+}

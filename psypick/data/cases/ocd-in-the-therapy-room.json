@@ -1,0 +1,70 @@
+{
+  "title_zh": "治療室內的強迫症：從認識 ERP 到臨床決策",
+  "title_en": "OCD in the therapy room",
+  "summary_zh": "臨床心理學家 Dr Celin Gelgec 主講的 60 分鐘免費直播大師班，跟隨一個綜合強迫症個案，拆解評估、個案概念化與治療過程中的臨床決策。對象是已懂強迫症與 ERP 基礎、但在實務應用上未感熟練的心理師與精神健康臨床人員。現場直播，不設重播。",
+  "summary_en": "Clinical psychologist Dr Celin Gelgec leads a free 60-minute live masterclass following a complex OCD case through assessment, formulation and clinical decision-making. It is aimed at psychologists and mental health clinicians who know OCD and ERP basics but feel unpractised in applying them. Live only, no replay.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "免費直播不設重播；報名表需填姓氏及回答兩條問題，不屬簡單姓名加電郵表格。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "60 分鐘免費直播大師班，2026 年 11 月 25 日 19:00 AEDT",
+    "跟隨綜合強迫症個案拆解臨床決策",
+    "現場直播，不設重播"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "強迫症",
+    "ERP",
+    "臨床決策",
+    "個案概念化"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "跟隨個案拆解臨床決策時，甚麼情況下你會偏離 ERP 的標準流程？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Dr Celin Gelgec（澳洲臨床心理學家）",
+    "format": "線上直播",
+    "price": "Free",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "event_date": "2026-11-25",
+    "deadline": "",
+    "audience_level": "中級（具 OCD／ERP 基礎者）",
+    "topic": "強迫症治療臨床決策",
+    "signup_url": "https://drcelingelgec.com.au/ocd-webinar"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://drcelingelgec.com.au/ocd-webinar",
+      "author_handle": "",
+      "author_name": "Dr Celin Gelgec",
+      "title": "OCD in the Therapy Room",
+      "content": "臨床心理學家主講的 60 分鐘免費直播大師班，跟隨一個綜合強迫症個案，拆解評估、個案概念化與治療過程中的臨床決策。",
+      "posted_at": "2026-11-24T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ocd-in-the-therapy-room",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "free, 60-minute clinical masterclass"
+}

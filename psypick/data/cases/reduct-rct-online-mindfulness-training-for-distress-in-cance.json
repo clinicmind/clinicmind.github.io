@@ -1,0 +1,60 @@
+{
+  "title_zh": "自助網上正念減壓訓練對癌症患者困擾的成效（Reduct）：多中心隨機對照試驗",
+  "title_en": "Reduct RCT: online mindfulness training for distress in cancer patients",
+  "summary_zh": "德國 8 間大學醫院招募 561 名新確診或復發癌症患者，隨機分派至 16 週自助網上介入或優化常規治療。主要結果 HADS 總分組間差異不顯著，但焦慮症狀與自我效能有顯著改善。作者建議作階梯式照護中的輔助選項。",
+  "summary_en": "In the Reduct multicentre RCT (n=561), 16 weeks of self-guided web-based mindfulness and skills-based distress reduction training did not significantly reduce overall distress (HADS total) versus optimised treatment as usual in cancer patients, but anxiety symptoms and self-efficacy improved significantly. The authors suggest it as an adjunct within stepped care.",
+  "category": "臨床實務",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "多中心隨機對照試驗（n=561）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "主要結果為陰性（HADS 總分差異不顯著）；焦慮與自我效能的改善屬次要結果，需謹慎解讀。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "561 名癌症患者，16 週自助網上介入對比優化常規治療",
+    "主要結果 HADS 總分差異不顯著",
+    "焦慮症狀與自我效能有顯著改善"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "正念",
+    "網上介入",
+    "癌症",
+    "困擾",
+    "隨機對照試驗",
+    "自我效能"
+  ],
+  "population": [
+    "成人"
+  ],
+  "supervision_questions": [
+    "主要結果陰性但次要結果有改善時，你如何向個案解釋這個介入的期望值？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034068/",
+      "author_handle": "",
+      "author_name": "BMJ Mental Health",
+      "title": "Self-guided web-based mindfulness and skills-based distress reduction training versus treatment as usual optimised in patients with cancer (Reduct): a multicentre, parallel-group, randomised controlled trial",
+      "content": "德國多中心隨機對照試驗，比較 16 週自助網上正念減壓訓練與優化常規治療對癌症患者困擾的成效。",
+      "posted_at": "2026-11-13T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "reduct-rct-online-mindfulness-training-for-distress-in-cance",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "HADS score at T1 was −1.00"
+}

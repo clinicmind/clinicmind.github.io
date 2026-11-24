@@ -1,0 +1,61 @@
+{
+  "title_zh": "美國心理學會發布職場 AI 部署指引",
+  "title_en": "APA guidance on deploying AI into workplaces",
+  "summary_zh": "APA 發布《Deploying AI Into Workplaces》指引，以心理科學為據提出七項實務，包括按風險配對保障措施、確保人類監督具實質意義、公平程序及保護專業發展。指引屬建議性質，非合規標準，亦不評斷個別產品。",
+  "summary_en": "The American Psychological Association published guidance on deploying AI into workplaces, offering seven practices grounded in psychological science, including matching safeguards to risk, ensuring human oversight is meaningful, fair process and protecting professional development. The guidance is advisory, not a compliance standard, and does not judge individual products.",
+  "category": "AI 與倫理",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "政策與指引（APA 官方新聞稿）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "指引屬建議性質，非合規標準；機構落實時仍需配合本地法規。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "七項實務：按風險配對保障、具實質意義的人類監督等",
+    "屬建議性質，非合規標準",
+    "不評斷個別產品"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "APA",
+    "AI",
+    "職場",
+    "指引",
+    "信任",
+    "監督"
+  ],
+  "population": [
+    "臨床工作者",
+    "一般大眾"
+  ],
+  "supervision_questions": [
+    "機構引入 AI 時，「具實質意義的人類監督」在你的崗位上具體指甚麼？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.apa.org/news/press/releases/2026/11/artificial-intelligence-work-guidance",
+      "author_handle": "",
+      "author_name": "American Psychological Association",
+      "title": "APA Publishes Guidance on Deploying AI Into Workplaces",
+      "content": "美國心理學會發布《Deploying AI Into Workplaces》指引，以心理科學為據，說明機構引入 AI 時應考慮的事項。",
+      "posted_at": "2026-11-16T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "apa-guidance-on-deploying-ai-into-workplaces",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "what organizations should consider"
+}

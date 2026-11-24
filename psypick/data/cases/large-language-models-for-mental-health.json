@@ -1,0 +1,59 @@
+{
+  "title_zh": "大型語言模型與心理健康",
+  "title_en": "Large language models for mental health",
+  "summary_zh": "教學式綜述以臨床人員易懂的方式解釋大型語言模型的原理、能力與限制，區分治療師面向與患者面向的應用。作者強調全自主 50 分鐘心理治療仍屬高風險研究目標，現階段不應在臨床部署；主張以人為本的賦能定位，而非取代人類。",
+  "summary_en": "A tutorial review explains large language models for mental health in clinician-friendly terms, distinguishing therapist-facing from patient-facing uses. It argues fully autonomous 50-minute psychotherapy remains a high-risk research goal that should not be deployed clinically yet, and positions LLMs as human-empowering rather than human-substituting technology.",
+  "category": "AI 與倫理",
+  "kind": "research",
+  "evidence_level": 0,
+  "evidence_note": "教學式綜述（評論性質）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "綜述屬教學與立場文章，不是療效證據；全自主治療的風險判斷仍待實證。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "區分治療師面向與患者面向的應用",
+    "全自主 50 分鐘心理治療現階段不應在臨床部署",
+    "主張以人為本的賦能定位，而非取代人類"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "大型語言模型",
+    "心理健康",
+    "教學綜述",
+    "倫理",
+    "臨床應用"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "「賦能而非取代」在你的日常工作中，最具體的三個應用是甚麼？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1901454/pdf",
+      "author_handle": "",
+      "author_name": "Frontiers in Digital Health",
+      "title": "Large language models for mental health",
+      "content": "教學式綜述以臨床人員易懂的方式解釋大型語言模型的原理、能力與限制，區分治療師面向與患者面向的應用。",
+      "posted_at": "2026-11-12T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "large-language-models-for-mental-health",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "to improve patient outcomes"
+}

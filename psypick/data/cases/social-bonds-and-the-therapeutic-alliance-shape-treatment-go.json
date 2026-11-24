@@ -1,0 +1,59 @@
+{
+  "title_zh": "社會連結與治療聯盟如何影響病人對待治療目標",
+  "title_en": "Social bonds and the therapeutic alliance shape treatment goals",
+  "summary_zh": "臨床心理學者 Loren Martin 指出，病人改變意願是治療成效最強預測因素，治療聯盟居第二。治療師自我效能、誠實、值得信賴與同理心是建立聯盟的關鍵；治療師表現猶豫會迅速侵蝕病人信心與信任。強健的社會連結與聯盟能令病人把困難目標視為有人同行的工作，而非獨自面對。",
+  "summary_en": "Clinical psychologist Loren Martin explains that a patient's willingness to change is the strongest predictor of therapy outcome, with the therapeutic alliance second. Therapist self-efficacy, honesty, trustworthiness and empathy build the alliance, while visible hesitation can quickly erode patient confidence and trust. Strong social bonds and alliance help patients approach difficult goals as shared work rather than facing them alone.",
+  "category": "臨床實務",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "專家訪談／評論文章",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "屬專家觀點與評論，非新實證研究；引用的聯盟統合分析為 2018 年研究。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "改變意願是治療成效最強預測因素，治療聯盟居第二",
+    "治療師自我效能、誠實、值得信賴與同理心是建立聯盟的關鍵",
+    "治療師表現猶豫會迅速侵蝕病人信心與信任"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "治療聯盟",
+    "社會連結",
+    "治療師效能",
+    "依附"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "當你察覺自己在會談中表現猶豫時，你會如何修復聯盟？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.psychiatrictimes.com/view/social-bonds-and-the-therapeutic-alliance-shape-how-patients-approach-treatment-goals",
+      "author_handle": "",
+      "author_name": "Psychiatric Times",
+      "title": "Social Bonds and the Therapeutic Alliance Shape How Patients Approach Treatment Goals",
+      "content": "臨床心理學者 Loren Martin 探討社會連結與治療聯盟如何影響病人對待治療目標的方式。",
+      "posted_at": "2026-11-12T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "social-bonds-and-the-therapeutic-alliance-shape-treatment-go",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "well-validated measures and assessments"
+}

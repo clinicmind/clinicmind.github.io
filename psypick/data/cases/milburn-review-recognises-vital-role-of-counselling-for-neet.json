@@ -1,0 +1,60 @@
+{
+  "title_zh": "Milburn 報告肯定輔導在支援 NEET 青年的關鍵角色",
+  "title_en": "Milburn review recognises vital role of counselling for NEET young people",
+  "summary_zh": "英國政府 Milburn《青年與工作》報告建議 NEET 青年可經擬設的青年機會服務快速獲得輔導與談話治療，摒棄「先診斷、再等候、後治療」模式。BACP 歡迎報告肯定輔導專業，並促請政府落實可持續的委託與撥款。",
+  "summary_en": "The UK government's Milburn review of youth and work recommends young people not in education, employment or training (NEET) should get faster access to counselling and talking therapies through a proposed Youth Opportunity Service, moving away from a 'diagnose, wait, then treat' model. BACP welcomed the recognition of counselling and urged sustainable commissioning and funding.",
+  "category": "臨床實務",
+  "kind": "practice",
+  "evidence_level": 0,
+  "evidence_note": "政策回應（BACP 官方新聞稿）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "報告建議尚未落實為政策；青年機會服務的具體設計與撥款仍待公布。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "建議 NEET 青年經青年機會服務快速獲得輔導",
+    "摒棄「先診斷、再等候、後治療」模式",
+    "BACP 促請政府落實可持續委託與撥款"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "BACP",
+    "NEET",
+    "青年",
+    "政策",
+    "輔導可及性"
+  ],
+  "population": [
+    "兒童青少年",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "「先診斷、再等候、後治療」的模式在本地服務中對應哪一段瓶頸？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.bacp.co.uk/news/news-from-bacp/2026/17-november-milburn-review-recognises-vital-role-of-counselling-in-supporting-neets/",
+      "author_handle": "",
+      "author_name": "BACP",
+      "title": "Milburn Review Recognises Vital Role of Counselling in Supporting NEETs",
+      "content": "英國政府 Milburn《青年與工作》報告建議 NEET 青年可經擬設的青年機會服務快速獲得輔導與談話治療，BACP 對此表示歡迎。",
+      "posted_at": "2026-11-17T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "milburn-review-recognises-vital-role-of-counselling-for-neet",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "faster access to counselling"
+}

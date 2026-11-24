@@ -1,0 +1,61 @@
+{
+  "title_zh": "數位療法 priovi 治療邊緣人格障礙的療效異質性二次分析",
+  "title_en": "Secondary analysis of priovi treatment effect heterogeneity in BPD",
+  "summary_zh": "這項預先註冊的二次分析檢視一項 528 人隨機對照試驗，發現 priovi 的效果存在異質性，基線症狀較重者獲益約為兩倍。作者強調調節因子屬假設生成性質，未經外部驗證前不應用於篩選病人。作者中有 priovi 開發商 GAIA 的僱員，利益衝突已聲明。",
+  "summary_en": "A pre-registered secondary analysis of a 528-person RCT found the digital therapeutic priovi had small average effects for borderline personality disorder, with about double the benefit in those with more severe baseline symptoms. The authors stress the moderators are hypothesis-generating and should not be used to select patients before external validation. Authors include employees of priovi developer GAIA; conflicts are declared.",
+  "category": "臨床實務",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "medRxiv 預印本（未經同儕評審）：528 人 RCT 的預先註冊二次分析",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "預印本未經同儕評審；作者中有開發商僱員，利益衝突已聲明；調節因子屬假設生成性質。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "528 人隨機對照試驗的二次分析",
+    "基線症狀較重者獲益約為兩倍",
+    "調節因子屬假設生成性質，不宜用於篩選病人"
+  ],
+  "brief_en": [],
+  "model_names": [
+    "priovi"
+  ],
+  "tags": [
+    "邊緣人格障礙",
+    "數位療法",
+    "基模治療",
+    "療效異質性",
+    "預印本"
+  ],
+  "population": [
+    "成人"
+  ],
+  "supervision_questions": [
+    "基線症狀較重者獲益較多，這個發現會如何影響你轉介數位療法的判斷？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.11.09.26367607v1",
+      "author_handle": "",
+      "author_name": "medRxiv",
+      "title": "Secondary Analysis of Treatment Effect Heterogeneity of priovi in Borderline Personality Disorder",
+      "content": "這項預先註冊的二次分析檢視一項 528 人隨機對照試驗，了解數位療法 priovi 對邊緣人格障礙的療效是否存在異質性。",
+      "posted_at": "2026-11-10T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "secondary-analysis-of-priovi-treatment-effect-heterogeneity",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "small average effects for borderline"
+}

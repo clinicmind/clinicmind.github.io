@@ -1,0 +1,59 @@
+{
+  "title_zh": "DBT 戒煙介入對自殺高風險退伍軍人的先導試驗",
+  "title_en": "DBT tobacco cessation intervention for veterans at risk for suicide",
+  "summary_zh": "68 名每日吸煙的退伍軍人隨機分派至 DBT 戒煙介入或常規治療，兩組均接受 12 週團體治療並追蹤 24 週。兩組戒煙率在治療結束及追蹤期均無差異，但 DBT 組情緒調節有改善趨勢，學員整體滿意。結果顯示自殺高風險人士可安全參與戒煙介入，但 DBT 戒煙的額外效益仍需更大規模研究確認。",
+  "summary_en": "In a pilot trial, 68 veterans who smoked daily and were at heightened risk for suicide were randomised to a DBT tobacco cessation intervention or treatment as usual, both with 12 weeks of group treatment and 24-week follow-up. Abstinence did not differ between groups at end of treatment or follow-up, but the DBT group showed a trend toward improved emotion regulation and participants were satisfied overall.",
+  "category": "臨床實務",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "已接受稿（advance article）：隨機先導試驗（n=68）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "先導試驗樣本小；戒煙率兩組無差異，DBT 的額外效益仍需更大規模研究確認。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "68 名自殺高風險吸煙退伍軍人，12 週團體治療",
+    "兩組戒煙率在治療結束及 24 週追蹤均無差異",
+    "DBT 組情緒調節有改善趨勢"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "DBT",
+    "戒煙",
+    "自殺風險",
+    "退伍軍人",
+    "先導試驗"
+  ],
+  "population": [
+    "成人"
+  ],
+  "supervision_questions": [
+    "自殺高風險人士參與戒煙介入時，安全監察與情緒調節支援如何並行？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntag245/9027133",
+      "author_handle": "",
+      "author_name": "Nicotine & Tobacco Research",
+      "title": "DBT Tobacco Cessation Intervention for Veterans at Heightened Risk for Suicide: Pilot Trial",
+      "content": "先導試驗比較 DBT 戒煙介入與常規治療對自殺高風險吸煙退伍軍人的成效。",
+      "posted_at": "2026-11-10T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "dbt-tobacco-cessation-intervention-for-veterans-at-risk-for",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "did not differ in terms of abstinence"
+}

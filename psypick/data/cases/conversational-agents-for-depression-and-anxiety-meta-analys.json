@@ -1,0 +1,62 @@
+{
+  "title_zh": "對話代理治療抑鬱與焦慮的成效：系統綜述與網絡劑量反應統合分析",
+  "title_en": "Conversational agents for depression and anxiety meta-analysis",
+  "summary_zh": "納入 41 項隨機對照試驗、7,577 人，比較不同對話代理類型與人類支援程度。AI 輔助高強度人類支援的效果似乎較純人類數碼指導及開放式多模態聊天機械人好，但整體證據確定性極低。劑量反應呈非線性，低至中劑量或為最佳。",
+  "summary_en": "A systematic review and network dose-response meta-analysis of 41 RCTs (n=7,577) found hybrid conversational-agent models with enhanced human involvement appeared to outperform fully automated systems and human-only digital guidance, but overall certainty of evidence was very low and the dose-response was non-linear, with low-to-moderate doses possibly optimal.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 4,
+  "evidence_note": "系統性回顧與網絡劑量反應統合分析（41 項 RCT，n=7,577）",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "整體證據確定性極低；混合模式的優勢只是「似乎」，不能當作定論。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "納入 41 項隨機對照試驗，共 7,577 人",
+    "混合模式（AI 加高強度人類支援）效果似乎較佳",
+    "整體證據確定性極低，劑量反應呈非線性"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "對話代理",
+    "聊天機械人",
+    "抑鬱",
+    "焦慮",
+    "統合分析",
+    "混合模式",
+    "人類支援"
+  ],
+  "population": [
+    "成人",
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "混合模式中人類支援的「強度」如何界定？低至中劑量在你的服務中最可行的做法是甚麼？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.jmir.org/2026/1/e104186",
+      "author_handle": "",
+      "author_name": "Journal of Medical Internet Research",
+      "title": "Effectiveness of Conversational Agents for Depression and Anxiety: Systematic Review and Network Dose-Response Meta-Analysis of Agent Types, Dose, and Human Support",
+      "content": "研究綜合 41 項隨機對照試驗，比較不同對話代理類型、劑量與人類支援程度對抑鬱與焦慮的成效。",
+      "posted_at": "2026-11-13T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-24T01:24:17+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "conversational-agents-for-depression-and-anxiety-meta-analys",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "evidence base remains limited"
+}
