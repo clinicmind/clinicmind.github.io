@@ -25,6 +25,7 @@
 | 人物動態 | `psypick/data/figures.json` | 整檔維護，同上 |
 | 會議 | `psypick/data/conferences.json` | 整檔維護，同上 |
 | 海報圖 | `psypick/posters/<slug>.svg` | case 檔的 `poster` 欄位指向這裡 |
+| 靜態頁、RSS（自動產生） | `psypick/p/<slug>.html`、`psypick/fig/<slug>.html`、`psypick/feed.xml`；根目錄 `sitemap.xml` 的 PsyPick 部分 | 部署時由 `build.py` 產生，**不入 repo、不要手改**。根目錄 `sitemap.xml` 只在 CI 改寫，本地跑 `build.py` 不會動它 |
 | 巡查紀錄 | 舊 repo `clinicmind/psypick` 的 `muse-inbox` 分支 `inbox/*.json` | 只作存檔 |
 | 主站臨床頁 | repo 根目錄 `*.html`、`assets/` | 例行 PsyPick 工作不要碰 |
 

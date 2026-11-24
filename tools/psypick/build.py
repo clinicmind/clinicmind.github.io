@@ -21,14 +21,21 @@ index.json 由本腳本產生，切勿人手修改（見 .gitattributes）。
   - config 沿用上一版 index.json 的 config。
 
 只用 Python 標準函式庫。
+C-3／C-4：同時呼叫 static_pages.py 產生 psypick/p/<slug>.html、
+psypick/fig/<slug>.html、psypick/feed.xml（建置產物，不入 repo），
+並在 CI（GITHUB_ACTIONS=true）或加 --sitemap 時改寫根目錄 sitemap.xml。
+data-dir 不在 psypick/ 底下（例如測試用暫存複本）就自動略過靜態頁。
+
 用法：
   python3 tools/psypick/build.py [--data-dir psypick/data] [--sha SHA]
-                                  [--today YYYY-MM-DD]
+                                  [--today YYYY-MM-DD] [--no-static]
+                                  [--sitemap]
 """
 
 import argparse
 import json
 import os
+import sys
 from datetime import date, datetime, timedelta, timezone
 from urllib.parse import urlparse
 
@@ -172,6 +179,10 @@ def main():
     ap.add_argument("--data-dir", default="psypick/data")
     ap.add_argument("--sha", default=os.environ.get("GITHUB_SHA", "local"))
     ap.add_argument("--today", default=None)
+    ap.add_argument("--no-static", action="store_true",
+                    help="不產生靜態頁、RSS、sitemap")
+    ap.add_argument("--sitemap", action="store_true",
+                    help="改寫根目錄 sitemap.xml（CI 內自動開啟）")
     args = ap.parse_args()
     d = args.data_dir
     today = iso_day(args.today) if args.today else date.today()
@@ -212,6 +223,20 @@ def main():
         json.dump(version, f, ensure_ascii=False, indent=2)
         f.write("\n")
     print("index cases:", len(index["cases"]), "| version:", json.dumps(version, ensure_ascii=False))
+
+    # C-3／C-4：靜態頁、RSS、sitemap
+    psypick_dir = os.path.dirname(os.path.abspath(d))
+    if args.no_static:
+        return
+    if os.path.basename(psypick_dir) != "psypick" or \
+            not os.path.exists(os.path.join(psypick_dir, "style.css")):
+        print("static: skipped（data-dir 不在 psypick/ 底下）")
+        return
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import static_pages
+    static_pages.generate(
+        d, index, figures, site_root=os.path.dirname(psypick_dir),
+        write_sitemap=args.sitemap or os.environ.get("GITHUB_ACTIONS") == "true")
 
 
 if __name__ == "__main__":

@@ -167,6 +167,18 @@
     return '<span class="badge badge-ok">' + t("verified") + "</span>";
   }
   function isTrainingCat(c) { return c.category === DATA.config.training_category; }
+  // C-5：卡片標題用真連結指向靜態頁 p/<slug>.html（搜尋器與新分頁可用），
+  // 一般左鍵點擊仍由下面的監聽器轉做 #/case/<slug> 互動版。
+  function caseHref(slug) {
+    return 'href="p/' + encodeURIComponent(slug) + '.html" data-case="' + esc(slug) + '"';
+  }
+  document.addEventListener("click", function (e) {
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    var a = e.target.closest && e.target.closest("a[data-case]");
+    if (!a) return;
+    e.preventDefault();
+    location.hash = "#/case/" + encodeURIComponent(a.getAttribute("data-case"));
+  });
   function cardHTML(c, withIcs) {
     var cat = catInfo(c.category), title = pick(c, "title"), read = prefs.readMarks[c.slug] ? " card-read" : "";
     var isTraining = isTrainingCat(c), tr = c.training || {};
@@ -189,18 +201,18 @@
       '<div class="cardtop"><span class="catchip"><b aria-hidden="true">' + esc(catMark(c.category)) + "</b>" + esc(catLabel(c.category)) + "</span>" +
       '<span class="mono cdate">' + esc(day(when(c))) + "</span>" +
       '<button class="fav-star" data-fav="' + esc(c.slug) + '" aria-pressed="' + isFav(c.slug) + '" aria-label="' + t("save") + '">' + (isFav(c.slug) ? "★" : "☆") + "</button></div>" +
-      '<h3 class="card-title"><a href="#/case/' + encodeURIComponent(c.slug) + '">' + esc(title) + "</a></h3>" +
+      '<h3 class="card-title"><a ' + caseHref(c.slug) + '>' + esc(title) + "</a></h3>" +
       '<p class="card-summary">' + esc(pick(c, "summary")) + "</p>" + foot + "</article>";
   }
   function rowHTML(c) {
     return '<div class="lrow"><span class="mono">' + esc(day(when(c))) + '</span><span class="lcat">' + esc(catLabel(c.category)) + '</span>' +
-      '<a class="ltitle" href="#/case/' + encodeURIComponent(c.slug) + '">' + esc(pick(c, "title")) + "</a>" +
+      '<a class="ltitle" ' + caseHref(c.slug) + '>' + esc(pick(c, "title")) + "</a>" +
       '<span class="mono">' + (isTrainingCat(c) || c.evidence_level == null ? "" : "EV " + c.evidence_level) + '</span>' +
       '<span class="mono ldom">' + esc(c.source_domain || "") + "</span></div>";
   }
   function archRowHTML(c) {
-    return '<div class="card-row" style="--cat:' + esc(catInfo(c.category).color) + '"><span class="cat-dot"></span><a href="#/case/' +
-      encodeURIComponent(c.slug) + '">' + esc(pick(c, "title")) + "</a><time>" + esc(day(when(c))) + "</time></div>";
+    return '<div class="card-row" style="--cat:' + esc(catInfo(c.category).color) + '"><span class="cat-dot"></span><a ' +
+      caseHref(c.slug) + '>' + esc(pick(c, "title")) + "</a><time>" + esc(day(when(c))) + "</time></div>";
   }
   function grid(list, withIcs) { return '<div class="grid">' + list.map(function (c) { return cardHTML(c, withIcs); }).join("") + "</div>"; }
 
@@ -1000,7 +1012,7 @@
   // ---------- 返回、捲動位置、每次渲染後的整理 ----------
   var navCount = 0, linkNav = false, scrollMem = {}, pendingY = null;
   function goBack(e) { if (navCount > 0) { e.preventDefault(); linkNav = false; history.back(); } }
-  document.addEventListener("click", function (e) { var a = e.target.closest && e.target.closest('a[href^="#"]'); if (a) linkNav = true; }, true);
+  document.addEventListener("click", function (e) { var a = e.target.closest && e.target.closest('a[href^="#"], a[data-case]'); if (a) linkNav = true; }, true);
   window.addEventListener("hashchange", function (e) {
     navCount++;
     try { scrollMem[new URL(e.oldURL).hash || "#/"] = window.scrollY; } catch (x) { /* ignore */ }
