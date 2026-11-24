@@ -66,5 +66,11 @@
   "tier": "live",
   "deadline_soon": false,
   "related": [],
-  "evidence_quote": "building safety before you might process"
+  "evidence_quote": "building safety before you might process",
+  "poster": {
+    "src": "posters/webinar-3-phase-trauma-model-phase-1-building-safety.svg",
+    "alt": "三階段創傷模式免費研討會海報：水獺治療師攞筆記簿，貓個案坐喺梳化，講建立安全感",
+    "style": "playmobil",
+    "made": "2026-11-24"
+  }
 }

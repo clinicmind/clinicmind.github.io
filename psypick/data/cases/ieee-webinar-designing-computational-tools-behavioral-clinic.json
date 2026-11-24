@@ -166,5 +166,11 @@
       "date": "2026-05-09T00:00:00+00:00"
     }
   ],
-  "date": "2026-11-08T13:26:00+00:00"
+  "date": "2026-11-08T13:26:00+00:00",
+  "poster": {
+    "src": "posters/ieee-webinar-designing-computational-tools-behavioral-clinic.svg",
+    "alt": "設計行為與臨床科學計算工具免費講座海報：貓用電腦、水獺指住熒幕，講 AI 分析情緒同社交訊號",
+    "style": "playmobil",
+    "made": "2026-11-24"
+  }
 }

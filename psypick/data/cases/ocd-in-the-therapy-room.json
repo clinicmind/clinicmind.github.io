@@ -66,5 +66,11 @@
   "tier": "live",
   "deadline_soon": false,
   "related": [],
-  "evidence_quote": "free, 60-minute clinical masterclass"
+  "evidence_quote": "free, 60-minute clinical masterclass",
+  "poster": {
+    "src": "posters/ocd-in-the-therapy-room.svg",
+    "alt": "治療室內的強迫症免費大師班海報：貓同水獺一齊睇個案檔案，講 ERP 之後嘅臨床決策",
+    "style": "playmobil",
+    "made": "2026-11-24"
+  }
 }
