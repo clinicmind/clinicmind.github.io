@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:34:46+00:00",
+  "generated_at": "2026-11-25T13:26:50+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -111,6 +111,71 @@
     "featured_top_n": 8
   },
   "cases": [
+    {
+      "slug": "sensory-over-responsivity-children-anxiety-autism",
+      "title_zh": "兒童感官超敏與焦慮及自閉特質有關，與 ADHD 無直接關連",
+      "title_en": "Sensory Over-Responsivity in Children Linked to Anxiety and Autistic Traits, Not ADHD",
+      "summary_zh": "華盛頓大學團隊整合五項研究、15,728 名 6 至 18 歲兒童的數據，發現感官超敏與焦慮及自閉特質有獨立關連，與 ADHD 症狀則無直接關連。9,197 名兒童的靜息腦掃描顯示，即使輕微感官問題亦與記憶相關腦網絡及深層腦結構連結減弱有關。",
+      "summary_en": "A WashU Medicine team pooled five studies of 15,728 children aged 6 to 18 and found sensory over-responsivity was independently linked to anxiety and autistic traits, but not directly to ADHD symptoms. Resting-state scans of 9,197 children linked even mild sensory issues to weaker connectivity between a memory-related network and a deep-brain structure.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "感官處理",
+        "焦慮",
+        "自閉症",
+        "ADHD",
+        "兒童",
+        "腦影像"
+      ],
+      "first_seen_at": "2026-11-25T13:26:49+00:00",
+      "evidence_level": 2,
+      "population": [
+        "兒童",
+        "青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "pubmed.ncbi.nlm.nih.gov",
+      "date": "2026-08-13T00:00:00+00:00"
+    },
+    {
+      "slug": "pacer-online-cbt-chest-pain-anxiety-rct",
+      "title_zh": "同伴支援網上 CBT 緩解胸痛後焦慮勝過轉介基層醫療（PACER 試驗）",
+      "title_en": "Peer-Supported Online CBT Eases Anxiety After Low-Risk Chest Pain Better Than Primary Care Referral (PACER Trial)",
+      "summary_zh": "PACER 隨機試驗招募 375 名低風險胸痛兼焦慮升高的急診病人，比較加強版基層醫療轉介、同伴支援自定進度網上 CBT 及治療師主導遙距 CBT。12 個月後，同伴支援網上 CBT 組的 GAD-7 改善比轉介組多 1.22 分，嚴重焦慮者相差 2.8 分；治療師主導組在主要量表上未達統計顯著。",
+      "summary_en": "The PACER randomized trial enrolled 375 emergency-department patients with low-risk chest pain and elevated anxiety, comparing enhanced primary care referral, peer-supported self-paced online CBT, and therapist-delivered telehealth CBT. Over 12 months, peer-supported online CBT improved GAD-7 scores by 1.22 points more than referral (2.8 points among those with severe anxiety); therapist-delivered CBT did not reach significance on the primary measure.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "CBT",
+        "焦慮",
+        "胸痛",
+        "網上治療",
+        "同伴支援",
+        "隨機對照試驗"
+      ],
+      "first_seen_at": "2026-11-25T13:26:49+00:00",
+      "evidence_level": 3,
+      "population": [
+        "成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "jamanetwork.com",
+      "date": "2026-09-28T00:00:00+00:00"
+    },
     {
       "slug": "heguang-sex-counselling-first-lesson-reopening",
       "title_zh": "荷光《當心理師遇見性》首堂課特別開放（12 月 1 日）",

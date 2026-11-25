@@ -1,0 +1,62 @@
+{
+  "title_zh": "兒童感官超敏與焦慮及自閉特質有關，與 ADHD 無直接關連",
+  "title_en": "Sensory Over-Responsivity in Children Linked to Anxiety and Autistic Traits, Not ADHD",
+  "summary_zh": "華盛頓大學團隊整合五項研究、15,728 名 6 至 18 歲兒童的數據，發現感官超敏與焦慮及自閉特質有獨立關連，與 ADHD 症狀則無直接關連。9,197 名兒童的靜息腦掃描顯示，即使輕微感官問題亦與記憶相關腦網絡及深層腦結構連結減弱有關。",
+  "summary_en": "A WashU Medicine team pooled five studies of 15,728 children aged 6 to 18 and found sensory over-responsivity was independently linked to anxiety and autistic traits, but not directly to ADHD symptoms. Resting-state scans of 9,197 children linked even mild sensory issues to weaker connectivity between a memory-related network and a deep-brain structure.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "大型橫斷面觀察研究（五個數據集；腦影像結果於獨立子樣本重複驗證），非試驗，結果為關連而非因果。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "橫斷面觀察設計，結果是關連不是因果；治療啟示未經測試，不宜據此直接推斷介入方法。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "15,728 名 6 至 18 歲兒童，來自五個數據集（社區樣本及自閉症樣本）",
+    "感官超敏與焦慮及自閉特質獨立相關，與 ADHD 症狀無直接關連；社區樣本中與品行障礙症狀呈負相關",
+    "9,197 名兒童腦掃描：輕微感官問題亦與扣帶—頂葉網絡與雙側尾狀核連結減弱有關，結果於獨立子樣本重複驗證"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "感官處理",
+    "焦慮",
+    "自閉症",
+    "ADHD",
+    "兒童",
+    "腦影像"
+  ],
+  "population": [
+    "兒童",
+    "青少年"
+  ],
+  "supervision_questions": [
+    "兒童同時有感官超敏與焦慮時，評估應如何區分兩者的貢獻？",
+    "感官超敏不是 ADHD 的直接指標，對鑑別診斷有何啟示？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42595007/",
+      "author_handle": "",
+      "author_name": "Journal of the American Academy of Child and Adolescent Psychiatry",
+      "title": "Specific, Replicable Behavioral and Neural Correlates of Sensory Over-Responsivity in Childhood",
+      "content": "兒童感官超敏的臨床意義與腦連結特徵：與焦慮及自閉特質相關，而非 ADHD。",
+      "posted_at": "2026-08-13T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-25T13:26:49+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "sensory-over-responsivity-children-anxiety-autism",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "15% to 20% of children overall"
+}

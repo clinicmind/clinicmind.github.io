@@ -1,0 +1,61 @@
+{
+  "title_zh": "同伴支援網上 CBT 緩解胸痛後焦慮勝過轉介基層醫療（PACER 試驗）",
+  "title_en": "Peer-Supported Online CBT Eases Anxiety After Low-Risk Chest Pain Better Than Primary Care Referral (PACER Trial)",
+  "summary_zh": "PACER 隨機試驗招募 375 名低風險胸痛兼焦慮升高的急診病人，比較加強版基層醫療轉介、同伴支援自定進度網上 CBT 及治療師主導遙距 CBT。12 個月後，同伴支援網上 CBT 組的 GAD-7 改善比轉介組多 1.22 分，嚴重焦慮者相差 2.8 分；治療師主導組在主要量表上未達統計顯著。",
+  "summary_en": "The PACER randomized trial enrolled 375 emergency-department patients with low-risk chest pain and elevated anxiety, comparing enhanced primary care referral, peer-supported self-paced online CBT, and therapist-delivered telehealth CBT. Over 12 months, peer-supported online CBT improved GAD-7 scores by 1.22 points more than referral (2.8 points among those with severe anxiety); therapist-delivered CBT did not reach significance on the primary measure.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 3,
+  "evidence_note": "三組隨機對照試驗，n=375，12 個月追蹤；主要結果效應量 0.25，屬小效應；六個試驗點同屬一個醫療系統。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "主要結果效應量小（0.25），95% CI 下限接近 0；六個試驗點同屬一個醫療系統，推廣性有限；參與程度不一，投入越高改善越大。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "375 名低風險胸痛兼焦慮病人，三組隨機對照，12 個月追蹤",
+    "同伴支援網上 CBT：GAD-7 改善比轉介組多 1.22 分（95% CI 0.01–2.43），嚴重焦慮者多 2.8 分",
+    "治療師主導遙距 CBT 在主要量表上未達統計顯著；兩組 CBT 的整體焦慮改善自評均勝過轉介組"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "CBT",
+    "焦慮",
+    "胸痛",
+    "網上治療",
+    "同伴支援",
+    "隨機對照試驗"
+  ],
+  "population": [
+    "成人"
+  ],
+  "supervision_questions": [
+    "同伴支援在網上 CBT 的成效中佔多大比重？如何分辨同伴支援與課程內容的貢獻？",
+    "小效應量下，如何向病人說明這類介入的實際幫助？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854603",
+      "author_handle": "",
+      "author_name": "JAMA Internal Medicine",
+      "title": "Telehealth Treatment of Anxiety in Patients With Low-Risk Chest Pain in the Emergency Department: The PACER Randomized Clinical Trial",
+      "content": "同伴支援網上 CBT 對低風險胸痛後焦慮的隨機試驗，效果勝過轉介，嚴重焦慮者獲益最大。",
+      "posted_at": "2026-09-28T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-25T13:26:49+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "pacer-online-cbt-chest-pain-anxiety-rct",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "1.22 points (effect size = 0.25)"
+}
