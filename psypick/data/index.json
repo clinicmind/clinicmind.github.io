@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:31:19+00:00",
+  "generated_at": "2026-11-25T00:34:46+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -111,6 +111,95 @@
     "featured_top_n": 8
   },
   "cases": [
+    {
+      "slug": "heguang-sex-counselling-first-lesson-reopening",
+      "title_zh": "荷光《當心理師遇見性》首堂課特別開放（12 月 1 日）",
+      "title_en": "BeOne \"When Psychologists Meet Sexuality\": First Lesson Reopening (Dec 1)",
+      "summary_zh": "荷光性諮商性健康聯盟特別重開《當心理師遇見性》系列首堂課，免費 Zoom 線上進行，帶心理及相關助人專業者認識性諮商的專業疆域，以及心理諮商與性諮商的關係。",
+      "summary_en": "BeOne reopens the first lesson of its free \"When Psychologists Meet Sexuality\" series on Zoom, introducing helping professionals to the scope of sex counselling and its relationship with psychological counselling.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "性諮商",
+        "專業培訓",
+        "免費培訓",
+        "線上課程"
+      ],
+      "first_seen_at": "2026-11-25T00:34:46+00:00",
+      "evidence_level": 1,
+      "population": [
+        "心理師",
+        "諮商師",
+        "臨床心理學家",
+        "實習心理師",
+        "研究生"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.beonesexhealth.com",
+      "date": "2026-12-01T00:00:00+00:00",
+      "training": {
+        "provider": "荷光性諮商性健康聯盟",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "中文（繁體）",
+        "event_date": "2026-12-01",
+        "deadline": ""
+      },
+      "deadline_soon": true
+    },
+    {
+      "slug": "autism-irritability-aggression-greenblatt",
+      "title_zh": "免費網上研討會：自閉症、易怒與攻擊行為（12 月 15 日香港時間）",
+      "title_en": "Free Webinar: Autism, Irritability & Aggression with James Greenblatt, MD (Dec 15 HKT)",
+      "summary_zh": "Psychiatry Redefined 免費一小時網上研討會，由 James Greenblatt 醫生講解自閉症患者易怒、攻擊與自傷行為背後可能的營養、代謝與腸道因素，以及實證為本的介入方向。",
+      "summary_en": "A free one-hour Psychiatry Redefined webinar in which Dr James Greenblatt explains possible nutritional, metabolic and gut factors behind irritability, aggression and self-injury in autism, and evidence-informed interventions.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "自閉症",
+        "攻擊行為",
+        "功能精神醫學",
+        "免費培訓"
+      ],
+      "first_seen_at": "2026-11-25T00:34:46+00:00",
+      "evidence_level": 1,
+      "population": [
+        "精神科醫生",
+        "臨床心理學家",
+        "心理治療師",
+        "精神健康專業人員"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.psychiatryredefined.org",
+      "date": "2026-12-14T00:00:00+00:00",
+      "training": {
+        "provider": "Psychiatry Redefined",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "event_date": "2026-12-14",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
     {
       "slug": "divit-mindspace-therapists-emotional-compass-webinar",
       "title_zh": "免費網上講座：治療師的情緒羅盤——誰來照顧照顧者（12 月 5 日）",
@@ -1596,7 +1685,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "behaviorlive.com",
       "date": "2026-11-21T00:27:58+00:00",
@@ -1610,7 +1699,7 @@
         "event_date": "2026-11-24",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": false
     },
     {
       "slug": "brown-ai-mental-health",
@@ -1652,7 +1741,7 @@
         "event_date": "2026-12-02",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": true
     },
     {
       "slug": "transdiagnostic-eft-teletherapy-depression-anxiety-quasi-experimental",
@@ -3963,7 +4052,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "tavistockandportman.ac.uk",
       "date": "2026-11-13T01:16:48+00:00",
@@ -3977,7 +4066,7 @@
         "event_date": "2026-11-24",
         "deadline": ""
       },
-      "deadline_soon": true,
+      "deadline_soon": false,
       "poster": {
         "src": "posters/perinatal-mental-health-pn1-online-open-event-24-november-20.svg",
         "alt": "Tavistock PN1 圍產期心理健康開放日免費培訓海報：水獺導師攞筆記簿，貓學員舉手發問，11月24日晚上 7:30 香港時間線上舉行",

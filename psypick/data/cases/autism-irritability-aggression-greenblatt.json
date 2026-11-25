@@ -1,0 +1,74 @@
+{
+  "title_zh": "免費網上研討會：自閉症、易怒與攻擊行為（12 月 15 日香港時間）",
+  "title_en": "Free Webinar: Autism, Irritability & Aggression with James Greenblatt, MD (Dec 15 HKT)",
+  "summary_zh": "Psychiatry Redefined 免費一小時網上研討會，由 James Greenblatt 醫生講解自閉症患者易怒、攻擊與自傷行為背後可能的營養、代謝與腸道因素，以及實證為本的介入方向。",
+  "summary_en": "A free one-hour Psychiatry Redefined webinar in which Dr James Greenblatt explains possible nutritional, metabolic and gut factors behind irritability, aggression and self-injury in autism, and evidence-informed interventions.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 1,
+  "evidence_note": "主辦方官網研討會頁列明免費與活動詳情",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "錄影免費開放兩星期，之後收費 $19；直播期間禁用 AI 筆記、錄音或轉錄工具。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "辨認易怒、攻擊、衝動與自傷行為背後可能的生物因素，包括營養、代謝與腸道因素。",
+    "認識實證為本的營養與功能介入，配合個人化照顧。",
+    "初探食物源阿片肽等新研究，以及腸腦關係對行為的影響。"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "自閉症",
+    "攻擊行為",
+    "功能精神醫學",
+    "免費培訓"
+  ],
+  "population": [
+    "精神科醫生",
+    "臨床心理學家",
+    "心理治療師",
+    "精神健康專業人員"
+  ],
+  "supervision_questions": [
+    "面對常規治療效果有限的自閉症個案，我會如何考慮生物因素的評估？",
+    "營養與功能介入的證據強度如何？我會如何向家長說明？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Psychiatry Redefined",
+    "format": "線上直播",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "event_date": "2026-12-14",
+    "deadline": "",
+    "audience_level": "精神健康專業人員",
+    "topic": "自閉症、易怒與攻擊行為",
+    "signup_url": "https://www.psychiatryredefined.org/webinar-autism-irritability-aggression-greenblatt-12-14-26/"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.psychiatryredefined.org/webinar-autism-irritability-aggression-greenblatt-12-14-26/",
+      "author_handle": "",
+      "author_name": "Psychiatry Redefined",
+      "title": "Autism, Irritability & Aggression Webinar | Psychiatry Redefined",
+      "content": "研討會頁：免費一小時 Zoom 網上研討會，2026 年 12 月 14 日美東時間 19:30，講者 James Greenblatt 醫生。",
+      "posted_at": "2026-12-14T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-25T00:34:46+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "autism-irritability-aggression-greenblatt",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Enrollment Fee: FREE"
+}
