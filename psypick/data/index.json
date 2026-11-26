@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:32:19+00:00",
+  "generated_at": "2026-11-26T13:29:15+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -111,6 +111,36 @@
     "featured_top_n": 8
   },
   "cases": [
+    {
+      "slug": "is-psychomotor-retardation-associated-with-treatment-respons",
+      "title_zh": "精神運動遲滯者抑鬱治療反應較差（九項隨機試驗個別數據分析）",
+      "title_en": "Is psychomotor retardation associated with treatment response in adults with depression? A secondary analysis of nine randomized controlled trials",
+      "summary_zh": "九項隨機試驗共 4,290 名成人抑鬱患者的個別數據分析發現，出現精神運動遲滯者治療後症狀較重、緩解機會較低；但計入整體基線嚴重程度後，關連不再穩固，遲滯更可能是嚴重程度的標記，而非獨立預測指標。",
+      "summary_en": "A secondary analysis of individual participant data from nine randomised controlled trials (n=4,290 adults with depression) found psychomotor retardation was associated with poorer treatment outcomes, but the association did not hold after adjusting for overall baseline severity, suggesting retardation may mark severity rather than independently predict response.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "抑鬱",
+        "精神運動遲滯",
+        "治療反應",
+        "統合分析"
+      ],
+      "first_seen_at": "2026-11-26T13:29:14+00:00",
+      "evidence_level": 4,
+      "population": [
+        "成人抑鬱患者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "pubmed.ncbi.nlm.nih.gov",
+      "date": "2026-11-23T00:00:00+00:00"
+    },
     {
       "slug": "erp-ocd-catherine-pittman-dec-2026",
       "title_zh": "免費 6 小時直播：ERP 治療 OCD，補返遺失的兩塊拼圖",

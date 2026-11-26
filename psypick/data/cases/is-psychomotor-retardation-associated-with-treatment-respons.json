@@ -1,0 +1,59 @@
+{
+  "title_zh": "精神運動遲滯者抑鬱治療反應較差（九項隨機試驗個別數據分析）",
+  "title_en": "Is psychomotor retardation associated with treatment response in adults with depression? A secondary analysis of nine randomized controlled trials",
+  "summary_zh": "九項隨機試驗共 4,290 名成人抑鬱患者的個別數據分析發現，出現精神運動遲滯者治療後症狀較重、緩解機會較低；但計入整體基線嚴重程度後，關連不再穩固，遲滯更可能是嚴重程度的標記，而非獨立預測指標。",
+  "summary_en": "A secondary analysis of individual participant data from nine randomised controlled trials (n=4,290 adults with depression) found psychomotor retardation was associated with poorer treatment outcomes, but the association did not hold after adjusting for overall baseline severity, suggesting retardation may mark severity rather than independently predict response.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 4,
+  "evidence_note": "九項隨機試驗個別數據的匯集分析（隨機效應統合分析）；關連在計入整體基線嚴重程度後不再穩固。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "觀察性二次分析，結果是關連而非因果；遲滯可能是嚴重程度的標記，而非獨立預測指標。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "4,290 名參加者中 64.2% 報告精神運動遲滯",
+    "遲滯者追蹤時抑鬱較重（pooled z = 0.184），緩解勝算較低（OR = 0.737）",
+    "計入整體基線嚴重程度後，關連不再穩固"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "抑鬱",
+    "精神運動遲滯",
+    "治療反應",
+    "統合分析"
+  ],
+  "population": [
+    "成人抑鬱患者"
+  ],
+  "supervision_questions": [
+    "見到精神運動遲滯的求助者，治療計劃要如何調整？",
+    "如何向求助者解釋遲滯與預後的關係而不致絕望？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068977/",
+      "author_handle": "",
+      "author_name": "Psychological Medicine / Badenoch 等",
+      "title": "Is psychomotor retardation associated with treatment response in adults with depression? A secondary analysis of nine randomized controlled trials",
+      "content": "九項隨機試驗共 4,290 名成人抑鬱患者的個別數據分析發現，出現精神運動遲滯者治療後症狀較重、緩解機會較低；但計入整體基線嚴重程度後，關連不再穩固，遲滯更可能是嚴重程度的標記，而非獨立預測指標。",
+      "posted_at": "2026-11-23T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-26T13:29:14+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "is-psychomotor-retardation-associated-with-treatment-respons",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Psychomotor retardation is associated"
+}
