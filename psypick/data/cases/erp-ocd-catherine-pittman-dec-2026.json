@@ -1,0 +1,74 @@
+{
+  "title_zh": "免費 6 小時直播：ERP 治療 OCD，補返遺失的兩塊拼圖",
+  "title_en": "Free 6-Hour Live Webinar: ERP for OCD, the 2 Missing Pieces with Catherine M. Pittman",
+  "summary_zh": "eCare Behavioral Health Institute 免費 6 小時直播。2026 年 12 月 15 日美東時間 10:00–17:30 線上舉行（港澳 12 月 15 日 23:00 至 12 月 16 日 06:30），由 Catherine M. Pittman 博士主講，分享喺暴露與反應預防（ERP）加入的兩項元素：杏仁核教育與動機目標，協助 OCD 個案建立做暴露練習的個人理由。",
+  "summary_en": "A free 6-hour live webinar from eCare Behavioral Health Institute on 15 December 2026, 10:00am-5:30pm Eastern (23:00 Macau time on 15 December to 06:30 on 16 December), led by Catherine M. Pittman, PhD. It covers two additions she makes to exposure and response prevention (ERP) for OCD: amygdala education and motivating goals, helping clients find their own reason to start exposures.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 1,
+  "evidence_note": "主辦方活動頁說明免費、日期、線上形式及報名方式",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "免費座位不包 CE 學分及錄影回放，兩者需另購 Premium Pass；報名頁下方 FAQ 區仍顯示上一場 12 月 11 日講座資料，未更新，以頁頂 12 月 15 日場次為準。",
+  "verify_needed": true,
+  "verify_reason": "來源頁無標示發佈日期；活動日期、免費、線上形式及報名連結已核實",
+  "brief_zh": [
+    "杏仁核教育：用個案聽得明的語言解釋恐懼",
+    "動機目標：搵出 OCD 阻住個案想做的事",
+    "實務技巧：CBT、正念、放鬆配合暴露練習"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "OCD",
+    "ERP",
+    "暴露治療",
+    "免費培訓"
+  ],
+  "population": [
+    "心理治療師",
+    "臨床心理學家",
+    "社工",
+    "輔導員"
+  ],
+  "supervision_questions": [
+    "點樣向唔願意做暴露練習的 OCD 個案解釋杏仁核的作用？",
+    "點樣協助個案搵出屬於佢自己的暴露動機目標？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "eCare Behavioral Health Institute",
+    "format": "線上直播",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "免費座位不包 CE 學分；Premium Pass 可獲 6 CE",
+    "language": "英文",
+    "event_date": "2026-12-15",
+    "deadline": "",
+    "audience_level": "專業人員，各程度皆可",
+    "topic": "OCD 暴露與反應預防治療",
+    "signup_url": "https://webinar.ecarebehavioralinstitute.com/december-15th-2026-webinar"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://webinar.ecarebehavioralinstitute.com/december-15th-2026-webinar",
+      "author_handle": "",
+      "author_name": "eCare Behavioral Health Institute",
+      "title": "Free Webinar: ERP for OCD Webinar",
+      "content": "免費 6 小時 ERP 直播，講解杏仁核教育與動機目標兩項補充元素。",
+      "posted_at": ""
+    }
+  ],
+  "first_seen_at": "2026-11-26T00:32:19+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "erp-ocd-catherine-pittman-dec-2026",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Registration is free"
+}

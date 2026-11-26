@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:26:50+00:00",
+  "generated_at": "2026-11-26T00:32:19+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -111,6 +111,50 @@
     "featured_top_n": 8
   },
   "cases": [
+    {
+      "slug": "erp-ocd-catherine-pittman-dec-2026",
+      "title_zh": "免費 6 小時直播：ERP 治療 OCD，補返遺失的兩塊拼圖",
+      "title_en": "Free 6-Hour Live Webinar: ERP for OCD, the 2 Missing Pieces with Catherine M. Pittman",
+      "summary_zh": "eCare Behavioral Health Institute 免費 6 小時直播。2026 年 12 月 15 日美東時間 10:00–17:30 線上舉行（港澳 12 月 15 日 23:00 至 12 月 16 日 06:30），由 Catherine M. Pittman 博士主講，分享喺暴露與反應預防（ERP）加入的兩項元素：杏仁核教育與動機目標，協助 OCD 個案建立做暴露練習的個人理由。",
+      "summary_en": "A free 6-hour live webinar from eCare Behavioral Health Institute on 15 December 2026, 10:00am-5:30pm Eastern (23:00 Macau time on 15 December to 06:30 on 16 December), led by Catherine M. Pittman, PhD. It covers two additions she makes to exposure and response prevention (ERP) for OCD: amygdala education and motivating goals, helping clients find their own reason to start exposures.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "OCD",
+        "ERP",
+        "暴露治療",
+        "免費培訓"
+      ],
+      "first_seen_at": "2026-11-26T00:32:19+00:00",
+      "evidence_level": 1,
+      "population": [
+        "心理治療師",
+        "臨床心理學家",
+        "社工",
+        "輔導員"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "webinar.ecarebehavioralinstitute.com",
+      "date": "2026-11-26T00:32:19+00:00",
+      "training": {
+        "provider": "eCare Behavioral Health Institute",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "免費座位不包 CE 學分；Premium Pass 可獲 6 CE",
+        "language": "英文",
+        "event_date": "2026-12-15",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
     {
       "slug": "sensory-over-responsivity-children-anxiety-autism",
       "title_zh": "兒童感官超敏與焦慮及自閉特質有關，與 ADHD 無直接關連",
@@ -398,7 +442,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "freeshows.today",
       "date": "2026-11-19T00:00:00+00:00",
@@ -412,7 +456,7 @@
         "event_date": "2026-11-25",
         "deadline": ""
       },
-      "deadline_soon": true,
+      "deadline_soon": false,
       "poster": {
         "src": "posters/webinar-3-phase-trauma-model-phase-1-building-safety.svg",
         "alt": "三階段創傷模式免費研討會海報：水獺治療師攞筆記簿，貓個案坐喺梳化，講建立安全感",
@@ -639,7 +683,7 @@
       "hot_score": 0.0,
       "featured_at": null,
       "mention_count": 1,
-      "tier": "live",
+      "tier": "archive",
       "has_ethics_flags": false,
       "source_domain": "drcelingelgec.com.au",
       "date": "2026-11-24T00:00:00+00:00",
@@ -653,7 +697,7 @@
         "event_date": "2026-11-25",
         "deadline": ""
       },
-      "deadline_soon": true,
+      "deadline_soon": false,
       "poster": {
         "src": "posters/ocd-in-the-therapy-room.svg",
         "alt": "治療室內的強迫症免費大師班海報：貓同水獺一齊睇個案檔案，講 ERP 之後嘅臨床決策",
@@ -764,7 +808,7 @@
         "event_date": "2026-12-03",
         "deadline": ""
       },
-      "deadline_soon": false
+      "deadline_soon": true
     },
     {
       "slug": "hkps-acting-at-work-acceptance-and-commitment-approach-in-i",
