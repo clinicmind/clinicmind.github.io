@@ -16,7 +16,8 @@
   "date": "2026-11-19T01:14:44+00:00",
   "related": null,
   "ethics_flags": [],
-  "training": {"signup_url":"https://thepsychhive.com/shop/p/free-psychologist-webinar-1-managing-admin-without-the-burnout",
+  "training": {
+    "signup_url": "https://thepsychhive.com/shop/p/free-psychologist-webinar-1-managing-admin-without-the-burnout",
     "provider": "The Psych Hive",
     "price": "免費",
     "price_tier": "免費",
@@ -71,5 +72,11 @@
       "posted_at": "2026-12-01T00:00:00+00:00"
     }
   ],
-  "slug": "psych-hive-managing-admin-without-burnout-webinar"
+  "slug": "psych-hive-managing-admin-without-burnout-webinar",
+  "poster": {
+    "src": "posters/psych-hive-managing-admin-without-burnout-webinar.svg",
+    "alt": "免費培訓海報：奶白貓在書桌前寫進度筆記，標題「進度筆記寫到攰？低負荷行政系統」，12月1日線上直播",
+    "style": "watercolor",
+    "made": "2026-11-27"
+  }
 }
