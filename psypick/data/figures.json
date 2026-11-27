@@ -2976,7 +2976,294 @@
    "checked": "2026-11-24",
    "tier": "B",
    "verify_needed": false
+  },
+  {
+   "person": "sam-altman",
+   "url": "https://www.cnbctv18.com/technology/sam-altman-announces-openai-private-inference-whats-the-new-privacy-feature-and-how-does-it-work-20041890.htm",
+   "platform": "web",
+   "page_date": "2026-11-26",
+   "kind": "產品發布",
+   "summary_zh": "奧特曼 11 月 25 日在 X 宣布，OpenAI 正與小部分企業客戶測試 Private Inference。該功能屬 Private Intelligence 方案一部分，以機密運算保護企業提示與回應，連 OpenAI 也無法查看內容。",
+   "quote_en": "We're now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers.",
+   "topics": [
+    "OpenAI",
+    "Private Inference",
+    "企業私隱"
+   ],
+   "evidence_quote": "We're now testing Private Inference",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": true
+  },
+  {
+   "person": "dario-amodei",
+   "url": "https://af.net/realtime/anthropic-ceo-dario-amodei-rejects-ai-governance-in-axios-interview/",
+   "platform": "web",
+   "page_date": "2026-11-25",
+   "kind": "訪談",
+   "summary_zh": "阿莫迪在 11 月 25 日刊出的 Axios 訪談中明確拒絕把管治權交給 AI，強調民主正當性必須掌握在人類手上。他同時警告遞歸自我改進、職位流失與無人監督的對齊研究，必要時應放慢或暫停部署。",
+   "quote_en": "turning governance over to artificial intelligence is a terrible idea",
+   "topics": [
+    "AI 管治",
+    "人類主導權",
+    "Anthropic"
+   ],
+   "evidence_quote": "turning governance over to artificial",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": true
+  },
+  {
+   "person": "mark-zuckerberg",
+   "url": "https://www.petertheil.com/174085/",
+   "platform": "web",
+   "page_date": "2026-11-25",
+   "kind": "訪談",
+   "summary_zh": "朱克伯格接受 Alex Heath 訪問，談 Meta 新推出的個人 AI 代理 Muse，目標是讓每個人都擁有全天候代勞的智能代理。他透露曾親自招募 Signal 創辦人，設計連 Meta 也無法查看內容的保密虛擬機器，並談及 Llama 4 失誤與青少年安全和解。",
+   "quote_en": "give every person in the world a very capable personal agent that can understand their goals and can just work on their behalf 24/7",
+   "topics": [
+    "Muse",
+    "個人智能代理",
+    "Meta"
+   ],
+   "evidence_quote": "a very capable personal agent",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "elon-musk",
+   "url": "https://fourweekmba.com/ai-spacex-pledges-no-gas-plant-3-6b-grid-fix-for-colossus-3/",
+   "platform": "web",
+   "page_date": "2026-11-25",
+   "kind": "貼文",
+   "summary_zh": "馬斯克 11 月 25 日在 X 為 SpaceX 亞利桑那州超級電腦園區命名為 Colossus 3。該園區計劃投資逾 500 億美元，滿載用電達 6 吉瓦，12 月 9 日將由縣政府表決。",
+   "quote_en": "SpaceX Colossus 3 will greatly benefit the Arizona community",
+   "topics": [
+    "Colossus 3",
+    "SpaceX",
+    "AI 基建"
+   ],
+   "evidence_quote": "SpaceX Colossus 3 will greatly benefit",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": true
+  },
+  {
+   "person": "aravind-srinivas",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/perplexity-ceo-aravind-srinivas-says-ai-can-predict-the-future-with-its-new-time-machine/articleshow/136183079.cms",
+   "platform": "web",
+   "page_date": "2026-11-26",
+   "kind": "產品發布",
+   "summary_zh": "施里尼瓦斯 11 月 25 日在 X 宣布推出 Time Machine，讓模型看到指定日期的網絡原貌，以便訓練及評估預測型智能代理。功能即日上線 Search 與 Context API，支援過去 365 日快照。",
+   "quote_en": "Perplexity Time Machine shows a model the web exactly as it was on any date you pick. This allows you to post-train agents that can be good at predicting the future.",
+   "topics": [
+    "Perplexity",
+    "Time Machine",
+    "預測"
+   ],
+   "evidence_quote": "a time machine for the internet",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": true
+  },
+  {
+   "person": "alexandr-wang",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/meta-ai-head-alexandr-wang-says-that-he-and-mark-zuckerberg-are-talking-a-lot-chatting-a-lot-as-we-need-to-plan-across-three-time-scales-from-/articleshow/136179188.cms",
+   "platform": "web",
+   "page_date": "2026-11-26",
+   "kind": "訪談",
+   "summary_zh": "王在 The Eric Newcomer Show 表示，他與朱克伯格經常溝通，須同時兼顧三個時間尺度：每週產品推出、數月研究路線圖，以及多年算力規劃（包括數據中心與自研 MTIA 晶片）。Meta 於 11 月 23 日在英國推出 Muse。",
+   "quote_en": "I mean, we're definitely talking a lot. We're chatting a lot. But I think the AI industry is moving so fast and you have to be able to plan across multiple different time scales.",
+   "topics": [
+    "Meta",
+    "Muse",
+    "超級智能實驗室"
+   ],
+   "evidence_quote": "we're definitely talking a lot",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": true
+  },
+  {
+   "person": "geoffrey-hinton",
+   "url": "https://www.youtube.com/watch?v=L8HdlknRkA4",
+   "platform": "web",
+   "page_date": "2026-11-25",
+   "kind": "訪談",
+   "summary_zh": "Hinton 在 TEDAI Vienna 與記者 Nicholas Thompson 對談，列出他最擔心的短期風險：網絡攻擊、生物病毒、假影片干預選舉、聊天機械人誘導青少年自殺，以及大規模失業。他又認為聊天機械人已有與人類同類的主觀經驗，並說若只能給超級智能一條指令，那會是「對人好」。",
+   "quote_en": "If you think there is a genuine risk that this stuff might wipe us out if we don't do something, it would be very irresponsible not to say so.",
+   "topics": [
+    "AI 安全",
+    "AI 風險",
+    "超級智能"
+   ],
+   "evidence_quote": "Be nice to people.",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": true
+  },
+  {
+   "person": "yoshua-bengio",
+   "url": "https://dailyfoxnews.com/news/16071/we-re-racing-towards-huge-dangers-ai-pioneer-yoshua-bengio-says",
+   "platform": "web",
+   "page_date": "2026-11-24",
+   "kind": "訪談",
+   "summary_zh": "Bengio 接受 CBS News 訪問，呼籲企業、政府與研究人員放慢開發愈來愈強大的 AI 系統。他承認自己早該看見最嚴重的風險，又指企業至今未解決模型對齊問題；LawZero 已把研究轉向短期目標，示範不靠獎勵駭客式訓練的安全 AI。",
+   "quote_en": "The short-term urgency is to stop this crazy advance toward more and more capable systems that we're not sure how to control.",
+   "topics": [
+    "AI 安全",
+    "AI 監管",
+    "LawZero"
+   ],
+   "evidence_quote": "We're racing towards huge dangers.",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": true
+  },
+  {
+   "person": "andrej-karpathy",
+   "url": "https://karpathy.ai/usaciv/",
+   "platform": "web",
+   "page_date": "2026-11-26",
+   "kind": "產品發布",
+   "summary_zh": "Karpathy 用 Claude Code 內的 Opus 5.5，以 31 個美國公開數據來源、花約 7 小時寫了約 4.5 萬行程式碼，把美國做成《文明》風格的互動策略地圖，現已上線。地圖以 25 公里六角格整合地形、GDP、就業、電廠等數據，設 19 種視角與 524 個都會區檢視。",
+   "quote_en": "I asked Claude to populate a Civilization-style game map with real data from the US.",
+   "topics": [
+    "Claude Code",
+    "AI 代理程式",
+    "數據視覺化"
+   ],
+   "evidence_quote": "the United States as a strategy game",
+   "checked": "2026-11-27",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "dwarkesh-patel",
+   "url": "https://www.dwarkesh.com/p/rsiobjections",
+   "platform": "web",
+   "page_date": "2026-11-24",
+   "kind": "文章",
+   "summary_zh": "Dwarkesh 回應讀者對其遞歸自我改進論文的質疑，重申其中位預測：2028 年前後全面自動化頂尖 AI 研究員，超級智能約在 2029 年出現。他承認現有證據屬旁證性質，但認為局部自動化已足以大幅加速研究。",
+   "quote_en": "disproportionate progress in ML research will compress as much progress as we had between GPT-3 and GPT-6 into a single year.",
+   "topics": [
+    "遞歸自我改進",
+    "超級智能",
+    "AI 研究自動化"
+   ],
+   "evidence_quote": "why I expect superintelligence by 2030",
+   "checked": "2026-11-27",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "simon-willison",
+   "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "platform": "web",
+   "page_date": "2026-11-24",
+   "kind": "文章",
+   "summary_zh": "Willison 整理其 AI Engineer Code Summit 主題演講，指出過去 12 個月 LLM 與編程代理出現三個轉折點：2025 年 11 月編程代理變得可靠、Fable 級模型出現，以及 9 至 10 月起模型在 3D 建模與遊戲開發上的躍進。他認為只要能清楚描述軟件，Fable 級模型就能造出來。",
+   "quote_en": "Software development has transformed beyond recognition in the last year.",
+   "topics": [
+    "LLM",
+    "編程代理",
+    "Fable 級模型"
+   ],
+   "evidence_quote": "Give it a goal, give it the right tools",
+   "checked": "2026-11-27",
+   "tier": "A",
+   "verify_needed": false
+  },
+  {
+   "person": "bessel-van-der-kolk",
+   "url": "https://www.psychiatrictimes.com/view/complex-posttraumatic-stress-disorder-developmental-trauma-and-why-the-dsm-left-them-out",
+   "platform": "web",
+   "page_date": "2026-11-25",
+   "kind": "訪談",
+   "summary_zh": "van der Kolk 在 Brain Trust 訪談中指出，創傷的關鍵不在事件本身，而在無助與缺乏依附支持；他重述複雜性創傷與發展性創傷未被納入 DSM 的經過，並談到 EMDR、瑜伽、神經反饋等非藥物取向。",
+   "quote_en": "An event becomes a trauma if it leaves you speechless and actionless, and also oftentimes where you do not have anybody who can really establish a sense of safety and control.",
+   "topics": [
+    "複雜性創傷",
+    "依附",
+    "EMDR"
+   ],
+   "evidence_quote": "What is protective is care.",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "gabor-mate",
+   "url": "http://podcasts.apple.com/nz/podcast/cyclebreaker/id6838686742",
+   "platform": "web",
+   "page_date": "2026-11-26",
+   "kind": "訪談",
+   "summary_zh": "Maté 在新 Podcast《CycleBreaker》首集與主持人 Matt Brown 對談，探討男性憤怒背後的童年創傷與未表達的哀傷，以及如何承認自己受過的傷害，同時為自己造成的傷害負責，不把痛苦傳給下一代。",
+   "quote_en": "Understanding violence is not the same as excusing it. In the first episode of CYCLEBREAKER, Matt Brown sits down with world-renowned physician and bestselling author Dr Gabor Maté, whose life's work has challenged the way we understand trauma and its influence on human behaviour.",
+   "topics": [
+    "童年創傷",
+    "代際創傷"
+   ],
+   "evidence_quote": "Together, we can break cycles.",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "steven-hayes",
+   "url": "https://podcasts.apple.com/us/podcast/the-psychology-of-men-who-cant-stop-chasing-more/id1684275089?i=1000803765994",
+   "platform": "web",
+   "page_date": "2026-11-24",
+   "kind": "訪談",
+   "summary_zh": "Hayes 在 The Scott Danner Show 談心理靈活性，解釋高成就者為何追逐錯誤目標，以及成就與價值觀脫節時，成功為何無法帶來滿足感。他亦分享以接納與價值觀為本的取向，談脆弱、情緒與表現的關係。",
+   "quote_en": "Our conversation explores why high performers often chase the wrong outcomes, how achievement can become disconnected from purpose, and why success doesn't necessarily create fulfillment if we're not aligned with the things that matter most.",
+   "topics": [
+    "ACT",
+    "心理靈活性",
+    "價值觀"
+   ],
+   "evidence_quote": "often chase the wrong outcomes",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "becky-kennedy",
+   "url": "https://podcasts.apple.com/us/podcast/mom-magic-isnt-enough-and-other-holiday-myths/id1561689671?i=1000803730303",
+   "platform": "web",
+   "page_date": "2026-11-24",
+   "kind": "其他",
+   "summary_zh": "Becky 在單人節目中回應聽眾提問，談家長如何管理自己對節日「媽媽魔法」的期望。重點包括不帶羞恥地教孩子感恩，以及為拆禮物混亂預先訂好應對方法。",
+   "quote_en": "In this solo episode, Dr. Becky answers your questions on managing your own expectations around \"mom magic,\" teaching gratitude without shaming a kid for wanting more, and finding the words to tell your mother-in-law you're starting your own traditions this year.",
+   "topics": [
+    "親職教養",
+    "節日壓力",
+    "感恩"
+   ],
+   "evidence_quote": "managing your own expectations",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": false
+  },
+  {
+   "person": "adam-grant",
+   "url": "https://www.ted.com/podcasts/rethinking/episodes",
+   "platform": "web",
+   "page_date": "2026-11-24",
+   "kind": "訪談",
+   "summary_zh": "Grant 在 ReThinking 邀請 Angela Duckworth 談新書《Situated》，她重新檢視《Grit》的部分觀點。兩人討論為何光靠毅力不足以應付難題，以及支持系統與情緒調節框架的重要性。",
+   "quote_en": "While writing her latest book, Situated, Angela rethought some of her takeaways from her first bestseller, Grit, and she joins Adam in Authors @ Wharton to reflect on what happens when you can't just grit your way through a problem.",
+   "topics": [
+    "Grit",
+    "情緒調節",
+    "支持系統"
+   ],
+   "evidence_quote": "rethought some of her takeaways",
+   "checked": "2026-11-27",
+   "tier": "B",
+   "verify_needed": false
   }
  ],
- "updated": "2026-11-24"
+ "updated": "2026-11-27"
 }
