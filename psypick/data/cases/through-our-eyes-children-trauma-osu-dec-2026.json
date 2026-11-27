@@ -1,0 +1,74 @@
+{
+  "title_zh": "免費研討會：看見兒童眼中的創傷與暴力",
+  "title_en": "Free Webinar: Through Our Eyes — Children, Trauma and Violence (Ohio State)",
+  "summary_zh": "俄亥俄州立大學社工學院（988 生命線培訓系列）免費兩小時線上研討會。2026 年 12 月 9 日美東時間 09:00–11:00 舉行（港澳 12 月 9 日 22:00 至 12 月 10 日 00:00），由 Brett J. Novick 博士主講，探討兒童 PTSD 在不同發展階段的表現、哀傷與創傷的分別、複雜性創傷，以及 CBT 等治療方法與助人者倦怠預防。2 個 CE 學分適用俄亥俄州執業人員。",
+  "summary_en": "A free 2-hour interactive webinar from Ohio State University College of Social Work (988 Lifeline Training Series) on 9 December 2026, 9:00-11:00am Eastern (22:00 Macau time on 9 December to 00:00 on 10 December), led by Dr. Brett J. Novick, LMFT. It covers PTSD in children across developmental stages, grief versus trauma, complex PTSD, CBT and other treatment modalities, and burnout in mental health providers. 2 CE clock hours approved for Ohio counselors, marriage and family therapists and social workers.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 1,
+  "evidence_note": "主辦方活動頁說明免費、日期、線上形式及報名方式",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "2 個 CE 學分只適用俄亥俄州執業的輔導員、婚姻家庭治療師及社工；報名截止 12 月 7 日；香港時間為晚上 22:00 至午夜 00:00。",
+  "verify_needed": true,
+  "verify_reason": "來源頁無標示發佈日期；活動日期、免費、線上形式及報名連結已核實",
+  "brief_zh": [
+    "兒童創傷：PTSD 在不同發展階段的表現，以及暴力與創傷的發生模式",
+    "哀傷與創傷：分辨哀傷與創傷反應，認識複雜性創傷與自我概念的關係",
+    "治療與自護：CBT 等治療方法的成效，以及助人者倦怠與慈悲疲勞的預防"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "兒童創傷",
+    "PTSD",
+    "複雜性創傷",
+    "免費培訓"
+  ],
+  "population": [
+    "社工",
+    "輔導員",
+    "危機熱線人員",
+    "婚姻家庭治療師"
+  ],
+  "supervision_questions": [
+    "點樣分辨兒童的哀傷反應與創傷反應？",
+    "助人者點樣察覺自己的倦怠正在影響對受創傷兒童的工作？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Ohio State University College of Social Work",
+    "format": "線上直播",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "2 個 CE 學分，只適用俄亥俄州執業輔導員、婚姻家庭治療師及社工",
+    "language": "英文",
+    "event_date": "2026-12-09",
+    "deadline": "2026-12-07",
+    "audience_level": "專業人員，危機熱線及助人專業",
+    "topic": "兒童創傷與暴力、PTSD",
+    "signup_url": "https://csw.osu.edu/continuing-education/988-lifeline-training-series/live-988-trainings/through-our-eyes-children-trauma-and-violence"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://csw.osu.edu/continuing-education/988-lifeline-training-series/live-988-trainings/through-our-eyes-children-trauma-and-violence",
+      "author_handle": "",
+      "author_name": "Ohio State University College of Social Work",
+      "title": "Through Our Eyes: Children, Trauma and Violence",
+      "content": "免費兩小時線上研討會，探討兒童創傷、暴力與 PTSD 的發展影響。",
+      "posted_at": ""
+    }
+  ],
+  "first_seen_at": "2026-11-27T00:26:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "through-our-eyes-children-trauma-osu-dec-2026",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Interactive Webinar via CarmenZoom"
+}

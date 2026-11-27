@@ -1,0 +1,74 @@
+{
+  "title_zh": "免費兩日創傷研討會：身體記住的創傷，用感覺慢慢療癒",
+  "title_en": "Free 2-Day Trauma Conference: The Body Keeps the Score — Trauma Healing Through the Senses with Bessel van der Kolk",
+  "summary_zh": "Psychotherapy Networker（PESI）免費兩日線上創傷研討會。2026 年 12 月 5–6 日美中時間 09:00–16:00 舉行（港澳 12 月 5 日及 6 日 23:00 至翌日 06:00），由 Bessel van der Kolk 醫學博士主講，聯同 Licia Sky，講解發展性創傷、依附、創傷壓力神經生物學，以及 EMDR、瑜伽、正念與神經回饋等身體取向治療。報名後可享 14 日免費重溫。",
+  "summary_en": "A free 2-day live virtual trauma conference from Psychotherapy Networker (PESI) on 5-6 December 2026, 9:00am-4:00pm Central each day (23:00 Macau time to 06:00 the next day), led by Bessel van der Kolk, MD, with Licia Sky. It covers developmental trauma, attachment, the neurobiology of traumatic stress, and body-oriented treatments including EMDR, yoga, mindfulness and neurofeedback. Free registration includes 14-day access to the recording.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 1,
+  "evidence_note": "主辦方活動頁說明免費、日期、線上形式及報名方式",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "CE 學分及修畢證書需另購；香港時間為深夜至清晨時段，兩日皆為 23:00 至翌日 06:00；報名後可享 14 日免費重溫。",
+  "verify_needed": true,
+  "verify_reason": "來源頁無標示發佈日期；活動日期、免費、線上形式及報名連結已核實",
+  "brief_zh": [
+    "創傷神經科學：腦部發展、情緒調節機制，以及創傷如何打亂發展歷程",
+    "依附與創傷：依附失調、解離、自我責備與人際困難的臨床理解",
+    "身體取向治療：EMDR、瑜伽、正念、遊戲與神經回饋等實務介入"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "創傷治療",
+    "身體取向治療",
+    "Bessel van der Kolk",
+    "免費培訓"
+  ],
+  "population": [
+    "心理治療師",
+    "臨床心理學家",
+    "社工",
+    "輔導員"
+  ],
+  "supervision_questions": [
+    "點樣向個案解釋身體記住創傷的概念，而不令個案覺得被標籤？",
+    "身體取向介入點樣配合現有的談話治療？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "Psychotherapy Networker (PESI)",
+    "format": "線上直播",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "免費座位不包 CE 學分及證書，需另購",
+    "language": "英文",
+    "event_date": "2026-12-05",
+    "deadline": "",
+    "audience_level": "專業人員，各程度皆可",
+    "topic": "創傷治療與身體取向介入",
+    "signup_url": "https://catalog.psychotherapynetworker.org/sales/pn_s_059235_bodykeepsthescore_sum92824_organic-1123222/"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://catalog.psychotherapynetworker.org/sales/pn_s_059235_bodykeepsthescore_sum92824_organic-1123222/",
+      "author_handle": "",
+      "author_name": "Psychotherapy Networker (PESI)",
+      "title": "2-Day: Trauma Conference: The Body Keeps the Score-Trauma Healing Through the Senses",
+      "content": "Bessel van der Kolk 兩日免費創傷研討會，講解身體取向創傷治療。",
+      "posted_at": ""
+    }
+  ],
+  "first_seen_at": "2026-11-27T00:26:52+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "body-keeps-the-score-van-der-kolk-dec-2026",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Register for FREE Today!"
+}
