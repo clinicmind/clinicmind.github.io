@@ -6504,6 +6504,103 @@
    "slug": "mobile-library-outreach-oct-dec",
    "created_at": "2026-10-01T03:55:02+00:00",
    "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "2026澳門國際光影節：星光‧蛻變親子夜遊",
+   "title_en": "Light Up Macao 2026: Starlight Transformation Light Journey",
+   "summary_zh": "旅遊局主辦的「2026澳門國際光影節」12月5日至2027年1月10日舉行，以「星光‧蛻變：澳門光影之旅」為主題，在南灣、北區、新口岸新填海區及新口岸區設置超過30組燈光與互動裝置，另有麥麥主題3D光雕表演及媽閣塘雷射表演。裝置每晚6時至10時免費開放，適合親子夜遊。",
+   "summary_en": "MGTO's Light Up Macao 2026 runs 5 December 2026 to 10 January 2027 under the theme 'Starlight‧Transformation: The Light Journey in Macao', with over 30 light and interactive installations across four districts, a Mak Mak 3D mapping show on the Macao Science Center facade and a laser show at Barra. Installations are free nightly from 6pm to 10pm.",
+   "ages": [
+    "3-6歲",
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "澳門",
+   "tips": [
+    "裝置每晚 6 時至 10 時免費開放，無需預約",
+    "麥麥 3D 光雕每晚 6 時至 10 時在澳門科學館外牆上演，每 15 分鐘一場",
+    "部分工作坊（光影拾趣、暖光廚房）須提前在光影節網站預約"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "政府",
+   "posted_at": "2026-11-17",
+   "tags": [
+    "光影節",
+    "免費",
+    "夜遊",
+    "聖誕",
+    "澳門旅遊局"
+   ],
+   "verify_needed": false,
+   "verify_reason": "",
+   "activity": {
+    "age_range": "親子及市民大眾",
+    "date_end": "2027-01-10",
+    "date_start": "2026-12-05",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-27",
+    "organizer": "澳門特別行政區政府旅遊局",
+    "price": "免費",
+    "signup": "無需報名（裝置免費開放；工作坊須提前預約）",
+    "time": "18:00–22:00",
+    "venue": "南灣區、北區、新口岸新填海區、新口岸區及媽閣塘片區"
+   },
+   "url": "https://www.dst.gov.mo/zh-hans/about-us/press-release/186668666d42424bb791c087d219efc0.html",
+   "source_title": "“2026澳門國際光影節”12月登場 迸發社區活力促消費",
+   "org": "澳門特別行政區政府旅遊局",
+   "slug": "light-up-macao-2026",
+   "created_at": "2026-11-27T01:12:44+00:00",
+   "ended": false
+  },
+  {
+   "kind": "activity",
+   "title_zh": "香港冬日小鎮．中環：22 米聖誕樹與聖誕市集",
+   "title_en": "Hong Kong Winter Wonderland in Central 2026",
+   "summary_zh": "旅發局與置地公司在中環皇后像廣場打造冬日小鎮，2026年11月18日至2027年1月5日免費入場。場內有 22 米高聖誕樹、12 米蒸汽火車、熱氣球站及聖誕老人郵局，逢週四至日另設聖誕市集；每晚 7 時至 11 時有燈光匯演。",
+   "summary_en": "HKTB and Hongkong Land turn Statue Square Garden into a free Christmas Town from 18 November 2026 to 5 January 2027, with a 22-metre Christmas tree, a 12-metre steam train, a hot air balloon terminal and a Santa post office, plus a Christmas market on Thursdays to Sundays and a nightly light show from 7pm to 11pm.",
+   "ages": [
+    "3-6歲",
+    "6-12歲"
+   ],
+   "topic": "親子活動",
+   "region": "香港",
+   "tips": [
+    "免費入場，無需預約",
+    "燈光匯演每晚 7 時至 11 時，每 30 分鐘一場",
+    "聖誕市集只在週四至日開放，時間以主辦方公布為準"
+   ],
+   "when_to_seek_help": "",
+   "source_type": "政府",
+   "posted_at": "",
+   "tags": [
+    "聖誕",
+    "免費",
+    "冬日小鎮",
+    "香港旅遊發展局"
+   ],
+   "verify_needed": true,
+   "verify_reason": "活動頁未列發布日期；活動日期與免費入場已在官方活動頁核實",
+   "activity": {
+    "age_range": "親子及市民大眾",
+    "date_end": "2027-01-05",
+    "date_start": "2026-11-18",
+    "deadline": "",
+    "free": true,
+    "last_checked": "2026-11-27",
+    "organizer": "香港旅遊發展局（與置地公司合辦）",
+    "price": "免費入場",
+    "signup": "無需預約",
+    "time": "平日 16:00–23:30；週六、日 11:00–23:30（12 月 24–26 日及 12 月 31 日至 1 月 2 日延長至翌日 01:30）",
+    "venue": "中環皇后像廣場花園（南及北）"
+   },
+   "url": "https://www.discoverhongkong.com/eng/events/hong-kong-winterfest/winter-wonderland-in-central.html",
+   "source_title": "Winter Wonderland in Central | Hong Kong Tourism Board",
+   "org": "香港旅遊發展局",
+   "slug": "hong-kong-winter-wonderland-central-2026",
+   "created_at": "2026-11-27T01:12:44+00:00",
+   "ended": false
   }
  ],
  "devhelp": {
