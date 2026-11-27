@@ -1,0 +1,60 @@
+{
+  "title_zh": "DBT 技巧訓練結合 EMDR 治療邊緣人格與心理創傷：可行性隨機試驗",
+  "title_en": "The combination of dialectical behavioral skills training with EMDR in the treatment of borderline personality disorder and psychological trauma: a feasibility randomized trial",
+  "summary_zh": "西班牙單中心可行性隨機試驗（n=42）：邊緣人格障礙兼心理創傷的成人先接受六個月 DBT 技巧小組訓練，再隨機分派接受最多 16 節個別 EMDR 或繼續技巧訓練。兩組邊緣症狀皆顯著改善；只有 EMDR 組的解離經驗顯著下降。整體保留率 62%。",
+  "summary_en": "Spanish unicentric feasibility RCT (n=42): adults with borderline personality disorder and psychological trauma received six months of DBT skills group training, then were randomised to up to 16 individual EMDR sessions or continued skills training. Borderline symptoms improved in both arms; only the EMDR arm showed a significant reduction in dissociative experiences. Overall retention was 62%.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "單中心可行性隨機試驗，n=42；兩組邊緣症狀皆改善，只有 EMDR 組解離症狀顯著下降；需更大規模試驗確認。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "樣本小（n=42）、單中心、流失率高；解離改善屬組內比較，組間優勢未確立；無追蹤；結果只用自評量表；未評估 EMDR 後 PTSD 診斷變化。研究由 EMDR Europe 資助（據第三方摘要；原文聲明頁未及核實）。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "n=42（40 女 2 男，平均 28.5 歲），88.1% 符合可能 PTSD",
+    "兩組 BSL-23 邊緣症狀皆顯著下降；EMDR 組 DES 解離總分 β=-11.92，p<.001，對照組無顯著變化",
+    "整體保留率 62%；無不良事件報告"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "DBT",
+    "EMDR",
+    "邊緣人格障礙",
+    "創傷",
+    "解離"
+  ],
+  "population": [
+    "邊緣人格障礙成人",
+    "心理創傷"
+  ],
+  "supervision_questions": [
+    "先學 DBT 技巧、後做創傷處理的分階段次序，如何套用到你手上的邊緣人格兼創傷個案？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://doi.org/10.1186/s40479-026-00351-5",
+      "author_handle": "",
+      "author_name": "Soler et al., Borderline Personality Disorder and Emotion Dysregulation",
+      "title": "The combination of dialectical behavioral skills training with EMDR in the treatment of borderline personality disorder and psychological trauma: a feasibility randomized trial",
+      "content": "西班牙單中心可行性隨機試驗（n=42）：邊緣人格障礙兼心理創傷的成人先接受六個月 DBT 技巧小組訓練，再隨機分派接受最多 16 節個別 EMDR 或繼續技巧訓練。兩組邊緣症狀皆顯著改善；只有 EMDR 組的解離經驗顯著下降。整體保留率 62%。",
+      "posted_at": "2026-06-12T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-27T13:29:29+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "dbt-skills-emdr-bpd-trauma-feasibility-rct",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "reduction in dissociative experiences"
+}

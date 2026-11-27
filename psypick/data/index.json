@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:15:07+00:00",
+  "generated_at": "2026-11-27T13:29:30+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -111,6 +111,78 @@
     "featured_top_n": 8
   },
   "cases": [
+    {
+      "slug": "dbt-skills-emdr-bpd-trauma-feasibility-rct",
+      "title_zh": "DBT 技巧訓練結合 EMDR 治療邊緣人格與心理創傷：可行性隨機試驗",
+      "title_en": "The combination of dialectical behavioral skills training with EMDR in the treatment of borderline personality disorder and psychological trauma: a feasibility randomized trial",
+      "summary_zh": "西班牙單中心可行性隨機試驗（n=42）：邊緣人格障礙兼心理創傷的成人先接受六個月 DBT 技巧小組訓練，再隨機分派接受最多 16 節個別 EMDR 或繼續技巧訓練。兩組邊緣症狀皆顯著改善；只有 EMDR 組的解離經驗顯著下降。整體保留率 62%。",
+      "summary_en": "Spanish unicentric feasibility RCT (n=42): adults with borderline personality disorder and psychological trauma received six months of DBT skills group training, then were randomised to up to 16 individual EMDR sessions or continued skills training. Borderline symptoms improved in both arms; only the EMDR arm showed a significant reduction in dissociative experiences. Overall retention was 62%.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "EMDR",
+        "邊緣人格障礙",
+        "創傷",
+        "解離"
+      ],
+      "first_seen_at": "2026-11-27T13:29:29+00:00",
+      "evidence_level": 2,
+      "population": [
+        "邊緣人格障礙成人",
+        "心理創傷"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "doi.org",
+      "date": "2026-06-12T00:00:00+00:00"
+    },
+    {
+      "slug": "edbta-online-therapy-in-dbt-vonderlin",
+      "title_zh": "DBT 線上治療：數碼化 DBT 的研究與實證",
+      "title_en": "Online therapy in DBT",
+      "summary_zh": "歐洲 DBT 協會每月免費直播講座，2026 年 12 月由德國中央精神健康研究所臨床心理學家 Ruben Vonderlin 主講，講解 DBT 數碼化交付的研究，包括先導可行性數據，以及線上與面對面形式的隨機對照試驗比較。",
+      "summary_en": "European DBT Association's free monthly live webinar: in December 2026, clinical psychologist Ruben Vonderlin (Central Institute of Mental Health, Mannheim) presents research on digital delivery of DBT, including pilot feasibility data and a randomised controlled trial comparing online versus face-to-face formats.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "線上治療",
+        "數碼心理治療"
+      ],
+      "first_seen_at": "2026-11-27T13:29:29+00:00",
+      "evidence_level": 0,
+      "population": [
+        "臨床工作者"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "edbta.eu",
+      "date": "2026-11-23T00:00:00+00:00",
+      "training": {
+        "provider": "European DBT Association（講者 Ruben Vonderlin）",
+        "format": "線上直播",
+        "price": "免費",
+        "price_tier": "免費",
+        "ce_credits": "",
+        "language": "英文",
+        "event_date": "2026-12-02",
+        "deadline": ""
+      },
+      "deadline_soon": true
+    },
     {
       "slug": "through-our-eyes-children-trauma-osu-dec-2026",
       "title_zh": "免費研討會：看見兒童眼中的創傷與暴力",
@@ -337,7 +409,13 @@
         "event_date": "2026-12-01",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": true,
+      "poster": {
+        "src": "posters/heguang-sex-counselling-first-lesson-reopening.svg",
+        "alt": "免費培訓海報：奶白貓專心讀書，標題「當心理師遇見性：首堂課特別開放」，12月1日 Zoom 線上",
+        "style": "watercolor",
+        "made": "2026-11-27"
+      }
     },
     {
       "slug": "autism-irritability-aggression-greenblatt",
@@ -2307,7 +2385,13 @@
         "event_date": "2026-12-01",
         "deadline": ""
       },
-      "deadline_soon": true
+      "deadline_soon": true,
+      "poster": {
+        "src": "posters/psych-hive-managing-admin-without-burnout-webinar.svg",
+        "alt": "免費培訓海報：奶白貓在書桌前寫進度筆記，標題「進度筆記寫到攰？低負荷行政系統」，12月1日線上直播",
+        "style": "watercolor",
+        "made": "2026-11-27"
+      }
     },
     {
       "slug": "ownership-placebo-cream-pain-tolerance-rct",

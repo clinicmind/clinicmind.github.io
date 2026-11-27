@@ -1,0 +1,69 @@
+{
+  "title_zh": "DBT 線上治療：數碼化 DBT 的研究與實證",
+  "title_en": "Online therapy in DBT",
+  "summary_zh": "歐洲 DBT 協會每月免費直播講座，2026 年 12 月由德國中央精神健康研究所臨床心理學家 Ruben Vonderlin 主講，講解 DBT 數碼化交付的研究，包括先導可行性數據，以及線上與面對面形式的隨機對照試驗比較。",
+  "summary_en": "European DBT Association's free monthly live webinar: in December 2026, clinical psychologist Ruben Vonderlin (Central Institute of Mental Health, Mannheim) presents research on digital delivery of DBT, including pilot feasibility data and a randomised controlled trial comparing online versus face-to-face formats.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "12 月 2 日場次未見於協會官網講座頁，日期與講者據協會官方 Instagram（2026-11-23）公布；官網確認每月首個星期三 19:00 CET 免費直播。香港時間為凌晨 02:00；暫無重播資料。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "免費直播，2026 年 12 月 2 日 19:00 CET（香港時間 12 月 3 日 02:00）",
+    "講者 Ruben Vonderlin，德國中央精神健康研究所臨床心理學家；主持 Angelica Andersson Drucker",
+    "內容：DBT 數碼化交付研究、先導數據、線上與面對面 RCT 比較；無需報名，於 edbta.eu/live 收看"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "DBT",
+    "線上治療",
+    "數碼心理治療"
+  ],
+  "population": [
+    "臨床工作者"
+  ],
+  "supervision_questions": [
+    "線上 DBT 與面對面 DBT 的成效比較，對你考慮遙距治療有何啟示？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "European DBT Association（講者 Ruben Vonderlin）",
+    "format": "線上直播",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "",
+    "language": "英文",
+    "event_date": "2026-12-02",
+    "deadline": "",
+    "audience_level": "專業人士",
+    "topic": "DBT 線上治療",
+    "signup_url": "https://edbta.eu/live"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://edbta.eu/live",
+      "author_handle": "",
+      "author_name": "European DBT Association",
+      "title": "Webinars | European DBT Association",
+      "content": "歐洲 DBT 協會每月免費直播講座，2026 年 12 月由德國中央精神健康研究所臨床心理學家 Ruben Vonderlin 主講，講解 DBT 數碼化交付的研究，包括先導可行性數據，以及線上與面對面形式的隨機對照試驗比較。",
+      "posted_at": "2026-11-23T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-27T13:29:29+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "edbta-online-therapy-in-dbt-vonderlin",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Webinars are live streamed on this page"
+}
