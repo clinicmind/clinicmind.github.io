@@ -1,0 +1,75 @@
+{
+  "title_zh": "免費 6 小時直播：肯定式照顧，支援 LGBTQ+ 來訪者（Kaytee Gillis）",
+  "title_en": "Free 6-Hour Live Webinar: Affirming, Trauma-Informed Care for Therapists Working with LGBTQ+ Clients (Kaytee Gillis)",
+  "summary_zh": "eCare Behavioral Health Institute 免費 6 小時直播。2026 年 12 月 11 日美東時間 10:00–17:30 線上舉行（港澳 12 月 11 日 23:00 至 12 月 12 日 06:30），由 Kaytee Gillis 主講，分享點樣用肯定式、創傷知情照顧支援面對少數壓力、家庭拒絕、關係創傷的 LGBTQ+ 來訪者。免費座位不包 CE 學分及錄影，需另購 Premium Pass。",
+  "summary_en": "A free 6-hour live webinar from eCare Behavioral Health Institute on 11 December 2026, 10:00am-5:30pm Eastern (23:00 Macau time on 11 December to 06:30 on 12 December), led by Kaytee Gillis, LCSW. It covers affirming, trauma-informed care for LGBTQ+ clients navigating relational and identity-based trauma, including minority stress, family rejection, partner harm assessment, and inclusive language and assessment. The free seat does not include CE credits; a Premium Pass adds lifetime recording access and 6 CE credits.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 1,
+  "evidence_note": "主辦方活動頁說明免費、日期、線上形式及報名方式",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "免費座位不包 CE 學分及錄影回放，兩者需另購 Premium Pass；報名表需填寫專業範疇及美國執業州份。",
+  "verify_needed": true,
+  "verify_reason": "來源頁無標示發佈日期；活動日期、免費、線上形式及報名連結已核實",
+  "brief_zh": [
+    "理解少數壓力、關係創傷同身份創傷嘅交織影響",
+    "面對家庭拒絕、伴侶傷害時，點樣評估同支援",
+    "用包容語言同評估方法，將肯定式照顧融入原有取向"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "LGBTQ+",
+    "創傷知情",
+    "肯定式照顧",
+    "關係創傷",
+    "免費培訓"
+  ],
+  "population": [
+    "心理治療師",
+    "臨床心理學家",
+    "社工",
+    "輔導員"
+  ],
+  "supervision_questions": [
+    "點樣檢查自己嘅 intake 表格、篩查工具係咪預設咗異性戀、順性別、單一伴侶關係？",
+    "面對 LGBTQ+ 來訪者嘅伴侶傷害，點樣評估先唔會套用異性戀框架？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "eCare Behavioral Health Institute",
+    "format": "線上直播",
+    "price": "免費",
+    "price_tier": "免費",
+    "ce_credits": "免費座位不包 CE 學分；Premium Pass 可獲 6 CE",
+    "language": "英文",
+    "event_date": "2026-12-11",
+    "deadline": "",
+    "audience_level": "持牌精神健康專業人員",
+    "topic": "LGBTQ+ 肯定式創傷知情照顧",
+    "signup_url": "https://webinar.ecarebehavioralinstitute.com/december-11th-2026-webinar"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://webinar.ecarebehavioralinstitute.com/december-11th-2026-webinar",
+      "author_handle": "",
+      "author_name": "eCare Behavioral Health Institute",
+      "title": "Free Webinar: LGBTQ+ Affirming Care Webinar",
+      "content": "免費 6 小時直播，教治療師用肯定式、創傷知情方式支援 LGBTQ+ 來訪者。",
+      "posted_at": ""
+    }
+  ],
+  "first_seen_at": "2026-11-28T00:30:53+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "ecare-lgbtq-affirming-care-dec-2026",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Your seat at the live Webinar is free."
+}
