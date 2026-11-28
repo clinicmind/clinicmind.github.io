@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:35:45+00:00",
+  "generated_at": "2026-11-28T13:30:30+00:00",
   "config": {
     "site_name_zh": "知心選",
     "site_name_en": "PsyPick",
@@ -111,6 +111,117 @@
     "featured_top_n": 8
   },
   "cases": [
+    {
+      "slug": "dbt-a-adult-outcomes-12-year-followup",
+      "title_zh": "DBT-A 青少年治療 12 年後追蹤：成年期自傷較少，復元有望持續",
+      "title_en": "Adult life outcomes 12.4 years after dialectical behavior therapy for adolescents",
+      "summary_zh": "挪威團隊追蹤 77 名曾參與 DBT-A 隨機試驗的自傷青少年，12.4 年後（平均 28 歲）成功追蹤 61 人（79%）。DBT-A 組在整個追蹤期自傷次數持續較低，對照組自傷次數為 DBT-A 組兩倍以上，平均每人相差 90 次；治療結束時 DBT-A 組自殺意念、抑鬱與邊緣症狀減幅較大，但差異到最後追蹤時已不顯著。",
+      "summary_en": "A Norwegian team followed up 61 of 77 adolescents (79%) from a DBT-A randomized trial 12.4 years later (mean age 28). Self-harm frequency stayed lower in the DBT-A group throughout follow-up; the enhanced usual care group had more than twice as many self-harm episodes, a mean difference of 90 episodes per person. DBT-A showed larger reductions in suicidal ideation, depression and borderline symptoms at end of treatment, but differences faded by final follow-up.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "DBT",
+        "青少年",
+        "自傷",
+        "自殺意念",
+        "長期追蹤",
+        "隨機試驗"
+      ],
+      "first_seen_at": "2026-11-28T13:30:30+00:00",
+      "evidence_level": 3,
+      "population": [
+        "青少年",
+        "自傷青少年"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "pubmed.ncbi.nlm.nih.gov",
+      "date": "2026-01-16T00:00:00+00:00"
+    },
+    {
+      "slug": "existential-anxiety-resilience-uncertainty-young-adults",
+      "title_zh": "存在焦慮與抑鬱焦慮：心理韌性緩衝，不確定容忍度低會放大影響（N=330）",
+      "title_en": "Coping with existential anxiety: resilience buffers, intolerance of uncertainty amplifies links to depression and anxiety",
+      "summary_zh": "斯洛文尼亞 330 名年輕成人（平均 21.2 歲）的網上調查顯示，存在焦慮能顯著預測抑鬱與焦慮；心理韌性緩衝此關係，不確定容忍度低則放大；災難化會放大影響，專注計劃則緩衝與抑鬱的關係。",
+      "summary_en": "An online survey of 330 Slovenian young adults (mean age 21.2) found existential anxiety significantly predicted depression and anxiety. Psychological resilience buffered the link, while intolerance of uncertainty amplified it; catastrophizing amplified the effect and refocusing on planning buffered the link with depression.",
+      "category": "研究與證據",
+      "kind": "research",
+      "model_names": [],
+      "tags": [
+        "存在主義心理學",
+        "存在焦慮",
+        "心理韌性",
+        "不確定容忍度",
+        "情緒調節",
+        "抑鬱",
+        "焦慮"
+      ],
+      "first_seen_at": "2026-11-28T13:30:30+00:00",
+      "evidence_level": 2,
+      "population": [
+        "年輕成人"
+      ],
+      "hero_media": null,
+      "verify_needed": false,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "pubmed.ncbi.nlm.nih.gov",
+      "date": "2026-03-09T00:00:00+00:00"
+    },
+    {
+      "slug": "eise-well-being-four-dimensions-webinar-dec-2026",
+      "title_zh": "免費網上研討會：意識演化理論看幸福四維度——心理治療的啟示（12 月 16 日，Kevin Keith）",
+      "title_en": "Free webinar: Well-Being in Four Dimensions — evolutionary consciousness theory and psychotherapy (16 Dec 2026, Dr Kevin Keith)",
+      "summary_zh": "澳洲 EISE Education 免費網上研討會，講者 Kevin Keith 博士（輔導員、心理治療師、督導及學者）介紹 Jablonka、Lamb 與 Ginsburg 的意識演化理論，從幸福與不幸的四個演化維度，探討自我、能動性與心理治療的含義。2026 年 12 月 16 日星期三，悉尼時間晚上 6:30–8:00，Zoom 直播，免費參加；錄影另收 A$19，完成可獲 1.5 小時 CPD 證書。",
+      "summary_en": "Free online webinar from Australia's EISE Education. Dr Kevin Keith (counsellor, psychotherapist, supervisor and academic) presents the evolutionary theory of consciousness of Jablonka, Lamb and Ginsburg, exploring four evolutionary dimensions of well-being and ill-being and what they mean for selfhood, agency and psychotherapy. Wednesday 16 December 2026, 6:30-8:00 pm Sydney time, live on Zoom, free to attend; recording A$19 extra; 1.5-hour CPD certificate on completion.",
+      "category": "進修培訓",
+      "kind": "training",
+      "model_names": [],
+      "tags": [
+        "意識",
+        "幸福感",
+        "心理治療",
+        "免費培訓",
+        "網上研討會",
+        "CPD"
+      ],
+      "first_seen_at": "2026-11-28T13:30:30+00:00",
+      "evidence_level": 0,
+      "population": [
+        "專業人士",
+        "心理治療師",
+        "輔導員"
+      ],
+      "hero_media": null,
+      "verify_needed": true,
+      "hot_score": 0.0,
+      "featured_at": null,
+      "mention_count": 1,
+      "tier": "live",
+      "has_ethics_flags": false,
+      "source_domain": "www.eiseeducation.com",
+      "date": "2026-11-28T13:30:30+00:00",
+      "training": {
+        "provider": "EISE Education（講者 Dr Kevin Keith）",
+        "format": "線上直播",
+        "price": "免費（直播）",
+        "price_tier": "免費",
+        "ce_credits": "1.5 小時 CPD 證書",
+        "language": "英文",
+        "event_date": "2026-12-16",
+        "deadline": ""
+      },
+      "deadline_soon": false
+    },
     {
       "slug": "ecare-lgbtq-affirming-care-dec-2026",
       "title_zh": "免費 6 小時直播：肯定式照顧，支援 LGBTQ+ 來訪者（Kaytee Gillis）",

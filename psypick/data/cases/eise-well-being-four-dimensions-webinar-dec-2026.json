@@ -1,0 +1,75 @@
+{
+  "title_zh": "免費網上研討會：意識演化理論看幸福四維度——心理治療的啟示（12 月 16 日，Kevin Keith）",
+  "title_en": "Free webinar: Well-Being in Four Dimensions — evolutionary consciousness theory and psychotherapy (16 Dec 2026, Dr Kevin Keith)",
+  "summary_zh": "澳洲 EISE Education 免費網上研討會，講者 Kevin Keith 博士（輔導員、心理治療師、督導及學者）介紹 Jablonka、Lamb 與 Ginsburg 的意識演化理論，從幸福與不幸的四個演化維度，探討自我、能動性與心理治療的含義。2026 年 12 月 16 日星期三，悉尼時間晚上 6:30–8:00，Zoom 直播，免費參加；錄影另收 A$19，完成可獲 1.5 小時 CPD 證書。",
+  "summary_en": "Free online webinar from Australia's EISE Education. Dr Kevin Keith (counsellor, psychotherapist, supervisor and academic) presents the evolutionary theory of consciousness of Jablonka, Lamb and Ginsburg, exploring four evolutionary dimensions of well-being and ill-being and what they mean for selfhood, agency and psychotherapy. Wednesday 16 December 2026, 6:30-8:00 pm Sydney time, live on Zoom, free to attend; recording A$19 extra; 1.5-hour CPD certificate on completion.",
+  "category": "進修培訓",
+  "kind": "training",
+  "evidence_level": 0,
+  "evidence_note": "培訓課程",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "直播免費，錄影另收費（A$19）；CPD 證書須出席達 80% 或看錄影並完成評估；香港時間為自行換算，報名前請以頁面所示悉尼時間為準。",
+  "verify_needed": true,
+  "verify_reason": "原文頁面無發佈日期；活動日期 2026-12-16、免費直播、Zoom 報名已核實。",
+  "brief_zh": [
+    "2026 年 12 月 16 日星期三，悉尼時間 18:30–20:00（約香港時間 15:30–17:00），Zoom 直播。",
+    "講者 Kevin Keith 博士：輔導員、心理治療師、督導及學者，從業近 16 年。",
+    "內容：Jablonka、Lamb、Ginsburg 意識演化理論；幸福四維度；自我與能動性。",
+    "免費參加直播；錄影 60 日存取另收 A$19；出席達 80% 可獲 1.5 小時 CPD 證書。"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "意識",
+    "幸福感",
+    "心理治療",
+    "免費培訓",
+    "網上研討會",
+    "CPD"
+  ],
+  "population": [
+    "專業人士",
+    "心理治療師",
+    "輔導員"
+  ],
+  "supervision_questions": [
+    "意識與自我理論如何影響你對來訪者困擾的理解？"
+  ],
+  "original_prompt": "",
+  "training": {
+    "provider": "EISE Education（講者 Dr Kevin Keith）",
+    "format": "線上直播",
+    "price": "免費（直播）",
+    "price_tier": "免費",
+    "ce_credits": "1.5 小時 CPD 證書",
+    "language": "英文",
+    "event_date": "2026-12-16",
+    "deadline": "",
+    "audience_level": "專業人士",
+    "topic": "意識演化理論與心理治療",
+    "signup_url": "https://www.eiseeducation.com/courses/Well-Being-in-Four-Dimensions"
+  },
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://www.eiseeducation.com/courses/Well-Being-in-Four-Dimensions",
+      "author_handle": "",
+      "author_name": "EISE Education（Dr Kevin Keith）",
+      "title": "Well-Being in Four Dimensions",
+      "content": "澳洲 EISE Education 免費網上研討會，講者 Kevin Keith 博士（輔導員、心理治療師、督導及學者）介紹 Jablonka、Lamb 與 Ginsburg 的意識演化理論，從幸福與不幸的四個演化維度，探討自我、能動性與心理治療的含義。2026 年 12 月 16 日星期三，悉尼時間晚上 6:30–8:00，Zoom 直播，免費參加；錄影另收 A$19，完成可獲 1.5 小時 CPD 證書。",
+      "posted_at": ""
+    }
+  ],
+  "first_seen_at": "2026-11-28T13:30:30+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "eise-well-being-four-dimensions-webinar-dec-2026",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Free (Live Webinar Only)"
+}

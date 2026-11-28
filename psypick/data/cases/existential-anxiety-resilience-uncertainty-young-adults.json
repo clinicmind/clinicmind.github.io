@@ -1,0 +1,62 @@
+{
+  "title_zh": "存在焦慮與抑鬱焦慮：心理韌性緩衝，不確定容忍度低會放大影響（N=330）",
+  "title_en": "Coping with existential anxiety: resilience buffers, intolerance of uncertainty amplifies links to depression and anxiety",
+  "summary_zh": "斯洛文尼亞 330 名年輕成人（平均 21.2 歲）的網上調查顯示，存在焦慮能顯著預測抑鬱與焦慮；心理韌性緩衝此關係，不確定容忍度低則放大；災難化會放大影響，專注計劃則緩衝與抑鬱的關係。",
+  "summary_en": "An online survey of 330 Slovenian young adults (mean age 21.2) found existential anxiety significantly predicted depression and anxiety. Psychological resilience buffered the link, while intolerance of uncertainty amplified it; catastrophizing amplified the effect and refocusing on planning buffered the link with depression.",
+  "category": "研究與證據",
+  "kind": "research",
+  "evidence_level": 2,
+  "evidence_note": "橫斷面網上調查（N=330），不能推斷因果；樣本為斯洛文尼亞年輕成人，推廣性有限。",
+  "ethics_flags": [],
+  "psych_concepts": [],
+  "caution": "橫斷面設計，不能推斷因果；單一國家年輕成人樣本；自陳量表。",
+  "verify_needed": false,
+  "verify_reason": "",
+  "brief_zh": [
+    "N=330 斯洛文尼亞年輕成人（平均 21.2 歲，63.3% 女性），網上調查。",
+    "存在焦慮顯著預測抑鬱與焦慮；心理韌性緩衝，不確定容忍度低放大關係。",
+    "災難化放大影響；專注計劃緩衝與抑鬱的關係。"
+  ],
+  "brief_en": [],
+  "model_names": [],
+  "tags": [
+    "存在主義心理學",
+    "存在焦慮",
+    "心理韌性",
+    "不確定容忍度",
+    "情緒調節",
+    "抑鬱",
+    "焦慮"
+  ],
+  "population": [
+    "年輕成人"
+  ],
+  "supervision_questions": [
+    "存在焦慮在臨床上如何評估？",
+    "提升不確定容忍度與心理韌性，哪些介入有實證支持？"
+  ],
+  "original_prompt": "",
+  "training": null,
+  "posts": [
+    {
+      "platform": "web",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41806421/",
+      "author_handle": "",
+      "author_name": "Acta Psychologica（Smrke 等）",
+      "title": "Coping with existential anxiety: How resilience, intolerance of uncertainty, and cognitive-emotion regulation shape mental health outcomes",
+      "content": "斯洛文尼亞 330 名年輕成人（平均 21.2 歲）的網上調查顯示，存在焦慮能顯著預測抑鬱與焦慮；心理韌性緩衝此關係，不確定容忍度低則放大；災難化會放大影響，專注計劃則緩衝與抑鬱的關係。",
+      "posted_at": "2026-03-09T00:00:00+00:00"
+    }
+  ],
+  "first_seen_at": "2026-11-28T13:30:30+00:00",
+  "hero_media": null,
+  "include": true,
+  "reject_reason": "",
+  "slug": "existential-anxiety-resilience-uncertainty-young-adults",
+  "featured_at": null,
+  "hot_score": 0.0,
+  "tier": "live",
+  "deadline_soon": false,
+  "related": [],
+  "evidence_quote": "Psychological resilience buffered"
+}
